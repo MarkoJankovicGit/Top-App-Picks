@@ -1,0 +1,133 @@
+{
+  "1614822514": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra pecanja, fabrika igara (8 aplikacija).",
+    "name": "Fishing Blitz!"
+  },
+  "1405735469": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Simon & Schuster), licencirani jezički sadržaj.",
+    "name": "Pimsleur | Language Learning"
+  },
+  "915457810": {
+    "exclude": true,
+    "exclude_reason": "Utility za potrošnju vode komunalnog preduzeća (Badger Meter), zahteva integraciju sa vodomerima.",
+    "name": "EyeOnWater"
+  },
+  "1114387800": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka 3D vežbi i planova ishrane, generički fitness šablon.",
+    "name": "Fitness App: Gym Workout Plan"
+  },
+  "1459604614": {
+    "exclude": true,
+    "exclude_reason": "Arkadna igra, fabrika igara (9 aplikacija).",
+    "name": "Walk Master"
+  },
+  "907081984": {
+    "exclude": true,
+    "exclude_reason": "Generički workout planer, fabrika fitness aplikacija (VGFIT, 6 aplikacija).",
+    "name": "ProFit: Workout Planner"
+  },
+  "6474598021": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker krvnog pritiska, fabrika aplikacija (6 aplikacija).",
+    "name": "Blood Pressure App-BP Tracker"
+  },
+  "335318146": {
+    "exclude": true,
+    "exclude_reason": "Verski kontekst i firma (Covenant Eyes, 25 godina), filter sadržaja.",
+    "name": "Victory Shield"
+  },
+  "1635246793": {
+    "exclude": true,
+    "exclude_reason": "Istraživanje sportskog klađenja.",
+    "name": "Linemate: Find Your Next Bet"
+  },
+  "6755110504": {
+    "name": "Unglue: Screen Time Friend",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Blokator aplikacija u kojem vreme za TikTok/Instagram zarađuješ zdravim navikama potvrđenim fotografijom (npr. izašao napolje).",
+    "specifics": [
+      "Ključna mehanika: blokada aplikacija, ciljevi, zarada screen time-a kroz zadatke sa foto dokazom",
+      "Šta je deljivo: foto dokazi i 'buddy code' (procena)",
+      "Društveni sloj: buddy code (iz recenzije)",
+      "Monetizacija: obavezna pretplata, Unglue Plus $29.99/god (iz recenzija), pominje se i $49"
+    ],
+    "psych": "Umesto zabrane, telefon postaje nagrada za akciju: 'I appreciate the concept of earning time to use blocked apps'.",
+    "developer_type": "mali tim: Computer go beep AB sa 1 aplikacijom",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls entitlement), foto verifikacija (može AI vision), backend za buddy. Na Androidu Accessibility. Najveći rizik: entitlement i zaobilaženje (korisnik sam ukloni ograničenje).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moj telefon mi ne da TikTok dok ne slikam da sam izašao napolje.",
+    "monetization": "Obavezna pretplata bez free nivoa; snažan otpor, delom jer su mnogi korisnici maloletni bez kartica.",
+    "complaints": [
+      "Paywall, nije besplatno kako je predstavljeno (~18)",
+      "Ograničenje lako zaobići (~2)",
+      "Ne može se obrisati bez Screen Time šifre (~2)",
+      "Završeni zadaci se ne priznaju (~1)"
+    ],
+    "suggestions": [
+      "Besplatan nivo sa ograničenim brojem zadataka",
+      "Zaštita od varanja (slikanje kroz prozor)",
+      "Jasno navesti cenu u opisu"
+    ],
+    "praise": [
+      "Koncept zarađivanja vremena",
+      "Više vremena napolju",
+      "Pomoć kod ADHD-a i jutarnjih rutina"
+    ],
+    "opportunity": "Ciljati 18–24 umesto tinejdžera, dodati freemium sa 3 zadatka i AI proveru fotografije protiv varanja, plus prijateljske nizove.",
+    "growth": "9.57 ocena dnevno od januara 2026; recenzije 30d 3 naspram 2, malo recenzija u odnosu na ocene (procena: rast preko TikToka, pominje se u recenzijama).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/unglue-screen-time-friend/id6755110504",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "626144601": {
+    "exclude": true,
+    "exclude_reason": "Utility to-do lista, etabliran brend (TickTick).",
+    "name": "TickTick:To-Do List & Calendar"
+  },
+  "1574142720": {
+    "exclude": true,
+    "exclude_reason": "Kazino-stil igra (spin & raid).",
+    "name": "Crazy Fox - Big Win"
+  },
+  "6737788660": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa poklon karticama, jezgro je finansijska nagrada; firma, model zavisi od ad-networka.",
+    "name": "WalkBoost: Get Paid to Walk"
+  },
+  "6754829116": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa nagradama, firma (LemonGo); nagli skok recenzija ukazuje na plaćenu akviziciju.",
+    "name": "StridePay: Walk & Earn Rewards"
+  },
+  "6449289088": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra (isekai simulacija).",
+    "name": "Isekai:Slow Life"
+  }
+}

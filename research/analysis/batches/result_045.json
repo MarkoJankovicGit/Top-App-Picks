@@ -1,0 +1,412 @@
+{
+  "1551848949": {
+    "name": "Migiri: Quit Adult Content",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Program za prestanak gledanja pornografije koji kombinuje blokator sa zaštitom od gašenja, AI pratioca Kanjo i partnera za polaganje računa koji dobija obaveštenje.",
+    "specifics": [
+      "Ključna mehanika: content blocker + app blocker, dnevni check-in sa Kanjo, milestone-i (vremenska linija čamca)",
+      "Šta je deljivo: ništa javno (osetljiva tema)",
+      "Društveni sloj: companion/partner koji prima izveštaje",
+      "Monetizacija: godišnja pretplata oko 150–160 USD uz 7-dnevni trial"
+    ],
+    "psych": "Odvikavanje uz polaganje računa partneru. Dokaz: 'as soon as I tried to click on the wrong thing it notified her'.",
+    "developer_type": "mali tim (Digital Literacy SL, 2 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "iOS content filter (NEFilter/VPN), Screen Time API, anti-tamper, Android VPN/Accessibility, AI chat, backend za obaveštenja partneru. Najveći rizik: zaobilaženje VPN-a i lažni izveštaji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Teško za influencere zbog teme; procena: anonimni 'day 90 bez porna' storytelling.",
+    "monetization": "Godišnja pretplata ~150–160 USD; korisnici koji ostanu je prihvataju, ali mnogo žalbi na naplatu posle otkaza.",
+    "complaints": [
+      "Naplata posle otkaza trial-a, nema refundacije ni podrške (oko 9)",
+      "Lako se zaobilazi gašenjem VPN-a (oko 5)",
+      "Lažni izveštaji partneru (oko 3)",
+      "Previsoka cena, nema mesečnog plana (oko 4)"
+    ],
+    "suggestions": [
+      "Blokiranje i AI NSFW aplikacija, ne samo browsera",
+      "Onemogućiti brisanje bez partnera",
+      "Mesečni plan"
+    ],
+    "praise": [
+      "Efikasan blok uz partnera",
+      "Bez 'nofap kult' tona",
+      "Zaista menja život"
+    ],
+    "opportunity": "Pouzdaniji anti-tamper i transparentna naplata; tema je jaka ali teško prenosiva na TikTok influencere.",
+    "growth": "1.88 ocena/dan od izlaska (2021-07-23), 3580 US ocena; recenzije 30d: 3 naspram 3 u prethodnih 30d. Zrela aplikacija, ~1,9 ocena/dan, ravan priliv recenzija; skupa pretplata nosi prihod.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/migiri-quit-adult-content/id1551848949",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "586139454": {
+    "name": "100 Push Ups: Just 6 Weeks",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Jedan cilj, jedan broj: 100 sklekova (ili 200 čučnjeva, 20 zgibova) za 6 nedelja, sa testom nivoa i programom koji raste sa tobom.",
+    "specifics": [
+      "Ključna mehanika: inicijalni test, 3 treninga nedeljno po 10–15 min, rastuće serije, tajmer odmora",
+      "Šta je deljivo: 'od 4 do 50 sklekova' rezultat (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (~13–28 USD/god) + reklame u free verziji"
+    ],
+    "psych": "Vidljiv napredak kroz konkretan broj i rok. Dokaz: 'I started off with being able to do four push-ups... I can already do 53'.",
+    "developer_type": "solo (Aleksandr Lomakin, 3 aplikacije, od 2012)",
+    "build_weeks": 4,
+    "build_notes": "Programi kao tabela serija, tajmer, grafikon, HealthKit/Health Connect, Apple Watch opciono. Najveći rizik: nizak; algoritam progresije (korisnici kažu da je od 4. nedelje prestrm).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Dan 1: 4 skleka. Dan 42: 100.' — transformation challenge.",
+    "monetization": "Pretplata za ostale programe i bez reklama; nove reklame posle treninga izazivaju bes.",
+    "complaints": [
+      "Reklame preko celog ekrana koje se ne mogu zatvoriti (oko 5)",
+      "Paywall na sve osim sklekova i ukidanje ranije besplatnog (oko 6)",
+      "Progresija nerealna od 4. nedelje (oko 3)",
+      "Problemi sa kupovinom i podrškom (oko 3)"
+    ],
+    "suggestions": [
+      "Kombinovani treninzi (druga vežba umesto odmora)",
+      "Više rutina u nizu",
+      "Grandfathering ranijih kupaca",
+      "Pametnija adaptacija plana"
+    ],
+    "praise": [
+      "Zaista radi, vidljiv napredak",
+      "Jednostavno i čisto",
+      "Kratki treninzi"
+    ],
+    "opportunity": "Isti '100 za 6 nedelja' format sa društvenim izazovom (prijatelji na istom programu) i video-dokazom serije, bez agresivnih reklama.",
+    "growth": "1.87 ocena/dan od izlaska (2012-12-16), 9442 US ocena; recenzije 30d: 2 naspram 3 u prethodnih 30d. Vrlo stara aplikacija sa dugim repom; recenzije opadaju, nove reklame kvare utisak — prostor za modernu verziju.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/100-push-ups-just-6-weeks/id586139454",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1108786610": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Mindvalley) i velika biblioteka profesionalnog video sadržaja.",
+    "name": "Mindvalley: Self Improvement"
+  },
+  "1078107994": {
+    "exclude": true,
+    "exclude_reason": "Uzak jezički domen sa velikom bibliotekom sadržaja (5.000+ JLPT reči); nije opšta self-improvement navika za Gen Z.",
+    "name": "Kanji Study - Learn Japanese!"
+  },
+  "6743443748": {
+    "exclude": true,
+    "exclude_reason": "Klađenje na konjske trke, regulisan domen.",
+    "name": "1/ST BET PRO"
+  },
+  "694925116": {
+    "exclude": true,
+    "exclude_reason": "B2B platforma za korporativne wellness izazove (pristup kroz administratora), nije potrošačka aplikacija.",
+    "name": "ChallengeRunner"
+  },
+  "1451775309": {
+    "exclude": true,
+    "exclude_reason": "Velika lokacijska MMO RPG igra; ne može za 2 meseca i primarno je igra.",
+    "name": "Orna: Fantasy RPG Adventure"
+  },
+  "1479100171": {
+    "exclude": true,
+    "exclude_reason": "Zahteva hardver (CGM senzor) i dijetetičare, medicinski domen.",
+    "name": "Nutrisense: Glucose Tracker"
+  },
+  "6745028450": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su nagrade i novac.",
+    "name": "Walkbucks - Step Counting"
+  },
+  "1638926773": {
+    "name": "Charlie - Walking Charlie",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Brojač koraka u kom tvoj ljubimac Charlie postaje zdraviji ili 'bucmastiji' u zavisnosti od toga koliko hodaš, a prijatelji vide njegovo stanje u Charlie Town-u.",
+    "specifics": [
+      "Ključna mehanika: koraci menjaju telo ljubimca, krofne kao valuta za odeću i kuće, izazovi",
+      "Šta je deljivo: debeli/mršavi Charlie, outfiti, footprint fotke sa šetnje",
+      "Društveni sloj: Charlie Town, zvonjenje prijateljima kao podsticaj, zajedničke kuće",
+      "Monetizacija: reklame za krofne (rewarded ads) + kupovine (procena)"
+    ],
+    "psych": "Briga o ljubimcu + blagi društveni pritisak: lenjost se vidi na Charlie-ju. Dokaz: 'surprisingly actually motivated me to walk 5,000 steps each day' i 'I've invited a lot of my friends'.",
+    "developer_type": "solo (Hyowon Jeon, 1 aplikacija; recenzije oslovljavaju 'Ms. Jeon')",
+    "build_weeks": 7,
+    "build_notes": "HealthKit/Health Connect, backend za prijatelje i kuće, 2D asseti za ljubimca, odeću i kuće (glavni posao), rewarded ads. Najveći rizik: kontinuirana proizvodnja sadržaja (kuće, odeća) i tačnost koraka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj Charlie se ugojio jer sam ceo vikend ležao — moram da ga spasem.'",
+    "monetization": "Rewarded ads za krofne i kozmetika; reklame se ponekad ne zatvaraju. Nema jasne pretplate.",
+    "complaints": [
+      "Netačni ili propušteni koraci, nema Fitbit/Garmin (oko 7)",
+      "Česte višednevne pauze zbog održavanja i odjave (oko 4)",
+      "Previše oštre posledice i 'fat shaming' notifikacije (oko 4)",
+      "Bagovi reklama i stalno traženje recenzija (oko 4)"
+    ],
+    "suggestions": [
+      "Nove kuće i nivoi posle townhouse-a",
+      "Razmena/poklanjanje predmeta prijateljima",
+      "Čet i rang lista u kući",
+      "Fleksibilniji cilj koraka (5–7k) i ženski lik"
+    ],
+    "praise": [
+      "Slatko i motiviše na šetnju",
+      "Takmičenje i druženje sa prijateljima",
+      "Kreativni predmeti"
+    ],
+    "opportunity": "Ista mehanika sa pouzdanim sync-om (Garmin/Fitbit), blažim posledicama i beskonačnim sezonskim sadržajem uz pretplatu za kozmetiku.",
+    "growth": "1.81 ocena/dan od izlaska (2022-09-08), 2712 US ocena; recenzije 30d: 8 naspram 11 u prethodnih 30d. Jak priliv recenzija (8 i 11 u 30d prozorima) i virusno širenje kroz pozivnice prijateljima; oznaka praćenja postoji.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/charlie-walking-charlie/id1638926773",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6743371480": {
+    "name": "AcneTrack – Your Acne Journey",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Tracker akni i skincare rutine sa AI skenom lica i personalizovanim planom (nega, ishrana, životni stil) umesto obične beleške.",
+    "specifics": [
+      "Ključna mehanika: upitnik, AI sken lica, plan i dnevno praćenje rutine, trendovi napretka",
+      "Šta je deljivo: before/after koža (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: tvrdi paywall posle dugog onboardinga"
+    ],
+    "psych": "Vidljiv napredak kroz fotografije kože; slab dokaz, većina recenzija napada paywall. Pozitivno: 'worth so much more than products'.",
+    "developer_type": "solo (DURAND JEREMY, 4 aplikacije; moguć mali portfolio sličnih aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Upitnik, kamera i AI analiza lica (vision LLM), plan, dnevni log, paywall. Najveći rizik: granica sa medicinskim savetima i tačnost AI skena.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'30 dana iste skincare rutine — evo šta je aplikacija videla na mom licu.'",
+    "monetization": "Tvrdi paywall; korisnici ga skoro jednoglasno odbijaju ('AI slop').",
+    "complaints": [
+      "Ništa ne radi bez plaćanja posle dugog upitnika (oko 8)",
+      "Netačan AI sken (dodaje bubuljice) i greške u tekstu (oko 2)",
+      "Ne pita za postojeću rutinu (oko 1)"
+    ],
+    "suggestions": [
+      "Prilagodljiv tretman i praćenje sopstvene rutine",
+      "Besplatno osnovno praćenje"
+    ],
+    "praise": [
+      "Korisno za ljude sa aknama",
+      "Jeftinije od lutanja sa proizvodima"
+    ],
+    "opportunity": "Glow-up streak: dnevna selfie rutina sa timelapse-om kože i check-listom, bez dijagnostičkih tvrdnji.",
+    "growth": "1.81 ocena/dan od izlaska (2025-05-30), 904 US ocena; recenzije 30d: 1 naspram 1 u prethodnih 30d. Mali uzorak, ravne recenzije; ~1,8 ocena/dan bez oznake praćenja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/acnetrack-your-acne-journey/id6743371480",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "834805518": {
+    "exclude": true,
+    "exclude_reason": "Etablirani studio (SPARKFUL/Fourdesire, tvorci Plant Nanny sa 30M+ igrača) i velika količina art sadržaja (100+ planeta); poznat brend.",
+    "name": "Walkr - Gamified Fitness Walk"
+  },
+  "1198851756": {
+    "name": "Encode: Learn to Code",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "'Duolingo za programiranje': kratke interaktivne lekcije sa pisanjem pravog koda od prve lekcije, srca i streak.",
+    "specifics": [
+      "Ključna mehanika: 15-minutne lekcije, coding vežbe i playground, srca i dnevni nizovi, sertifikat",
+      "Šta je deljivo: sertifikat i streak (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: besplatno uz reklame, pretplata za neograničena srca i bez reklama"
+    ],
+    "psych": "Igrifikacija učenja i strah od gubitka niza. Dokaz: 'It's like a better, programmer Duolingo!'.",
+    "developer_type": "mali tim (Upskew Pty. Ltd., 1 aplikacija)",
+    "build_weeks": 8,
+    "build_notes": "Kurikulum za više jezika (najveći posao, ubrzava se AI-jem), proveravanje koda (sandbox/interpretacija), sistem srca i streaka. Najveći rizik: obim i kvalitet sadržaja i tačna provera odgovora.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Naučio sam Python za 15 minuta dnevno u busu.'",
+    "monetization": "Freemium sa reklamama posle lekcije i premium za srca; korisnici prihvataju jer je osnovno besplatno.",
+    "complaints": [
+      "Tačan odgovor označen kao netačan, gubi srca (oko 3)",
+      "Reklame posle svake lekcije (oko 4)",
+      "Nedostaju napredni nivoi i jezici (oko 3)"
+    ],
+    "suggestions": [
+      "Napredniji Python i data/AI kursevi",
+      "Widget podsetnik za lekciju",
+      "Upload sopstvenog koda",
+      "Jednokratna kupovina"
+    ],
+    "praise": [
+      "Jednostavno za početnike",
+      "Besplatno uz malo reklama",
+      "Interaktivno i zabavno"
+    ],
+    "opportunity": "Dodati lige/takmičenje i projekte koji se dele (mini aplikacija na kraju kursa) za Gen Z kreatore.",
+    "growth": "1.8 ocena/dan od izlaska (2017-02-01), 6386 US ocena; recenzije 30d: 3 naspram 3 u prethodnih 30d. Stabilan priliv, mlada publika (srednjoškolci); nema ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/encode-learn-to-code/id1198851756",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "940579920": {
+    "name": "Food Diary See How You Eat Log",
+    "exclude": false,
+    "list": "A",
+    "principle": "Polaganje računa",
+    "differentiator": "Dnevnik ishrane bez brojanja kalorija: samo slikaš obrok i vidiš ceo dan na tanjirima, uz deljenje sa trenerom ili prijateljem.",
+    "specifics": [
+      "Ključna mehanika: foto log obroka u 2 tapa, podsetnici za redovno jedenje, izazovi",
+      "Šta je deljivo: dnevni kolaž tanjira",
+      "Društveni sloj: deljenje loga sa trenerom/prijateljem",
+      "Monetizacija: pretplata ~29,99 USD/god uz trial, agresivni upsell"
+    ],
+    "psych": "Polaganje računa sebi kroz vizuelni zapis bez anksioznosti kalorija. Dokaz: 'Being AWARE without TRACKING' i 'I have lost 20 plus pounds'.",
+    "developer_type": "mali tim (Health Revolution Oy Ltd, 2 aplikacije)",
+    "build_weeks": 4,
+    "build_notes": "Kamera, lokalno/cloud skladište slika, kalendar i podsetnici, izazovi, sync. Najveći rizik: nizak; čuvanje i sinhronizacija fotografija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ne brojim kalorije, samo slikam svaki obrok — evo kako izgleda moja nedelja.'",
+    "monetization": "Pretplata ~29,99 USD/god; deo plaća rado, ali masovne žalbe na zaključanu istoriju i trial koji se ne može otkazati.",
+    "complaints": [
+      "Bez pretplate nema ni pregleda prethodnih dana (oko 9)",
+      "Trial naplaćen/ne može da se otkaže (oko 5)",
+      "Previše reklama i notifikacija (oko 5)",
+      "Gubitak podataka i sync iPhone/iPad (oko 3)"
+    ],
+    "suggestions": [
+      "Besplatan pregled istorije bar 7 dana",
+      "Automatsko određivanje vremena obroka",
+      "Doživotna licenca 20–30 USD"
+    ],
+    "praise": [
+      "Svest o ishrani bez brojanja kalorija",
+      "Jednostavno i brzo",
+      "Pomaže mršavljenju"
+    ],
+    "opportunity": "Foto dnevnik sa streak-om i grupom prijatelja (BeReal za obroke) i fer freemium sa istorijom.",
+    "growth": "1.79 ocena/dan od izlaska (2014-12-04), 7757 US ocena; recenzije 30d: 2 naspram 1 u prethodnih 30d. Zrela aplikacija (od 2014), stabilan mali priliv; koncept jak ali monetizacija iritira.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/food-diary-see-how-you-eat-log/id940579920",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1027312824": {
+    "exclude": true,
+    "exclude_reason": "Kontrola intimnog hardvera, nije self-improvement niša.",
+    "name": "Lovense Remote"
+  }
+}

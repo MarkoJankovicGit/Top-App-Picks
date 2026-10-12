@@ -1,0 +1,190 @@
+{
+  "1241839696": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža (prethodno peer-support zajednica, pa random podsetnici); nejasan pivot, nije alat za naviku.",
+    "name": "Sup - Friends & Conversations"
+  },
+  "6749346767": {
+    "exclude": true,
+    "exclude_reason": "Generička kolekcija 40+ mozgalica i IQ testova sa reklamama; velik obim igara i šablon kategorije.",
+    "name": "Free Brain Training Games"
+  },
+  "1518956326": {
+    "name": "MyRoutine: Organize your day",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Rutine vezane za situacije ('kad se probudim'), ne za sat, sa tajmerom koji te vodi kroz rutinu, 'Green Light' statusom dana, rest danima bez gubitka niza i praćenjem raspoloženja; ADHD-friendly.",
+    "specifics": [
+      "Ključna mehanika: rutine sa tajmerom, Green Light niz, emoji check, mood tracking, bedževi i pečati",
+      "Šta je deljivo: slabo; tabela rutina (procena)",
+      "Društveni sloj: postoje socijalne funkcije, ali nisu u fokusu",
+      "Monetizacija: freemium (5-10 navika), Pro pretplata; paywall posle ankete"
+    ],
+    "psych": "Tajmer rutine pretvara listu u vođenu akciju, Green Light niz daje vidljiv napredak. Dokaz: 'yesterday I just lay there helpless, but setting the routine timer got me moving' (prevod korejske recenzije).",
+    "developer_type": "mali tim (Minding. co., Ltd., Južna Koreja, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Habit + to-do + rutine sa tajmerom, Live Activities/widgeti, mood dnevnik, sync na više uređaja. Najveći rizik: kompleksan model podataka rutina (izvor većine bagova) i sync konflikti.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'ADHD jutarnja rutina sa tajmerom: od kreveta do vrata za 25 minuta.'",
+    "monetization": "Freemium sa Pro pretplatom; korisnici se bune na paywall posle onboarding ankete i upsell na godišnji plan.",
+    "complaints": [
+      "Bagovi u rutinama, brisanje i nestajanje stavki (6)",
+      "Paywall pre nego što se vidi aplikacija, ne može da sačuva rutinu (4)",
+      "Sporo i nepregledno (2)",
+      "Upsell notifikacije i posle plaćanja (1)"
+    ],
+    "suggestions": [
+      "Widget koji direktno pokreće tajmer rutine",
+      "Ponavljajući to-do i podzadaci",
+      "Podesiv početak dana (posle ponoći)",
+      "Green Light notifikacija samo jednom dnevno"
+    ],
+    "praise": [
+      "Tajmer rutine pokreće na akciju",
+      "Pomaže deci i studentima da stignu na vreme",
+      "Fleksibilnost i rest dani"
+    ],
+    "opportunity": "Pojednostaviti na 'jutarnja/večernja rutina sa tajmerom' za Gen Z/ADHD, bez bagova, sa deljivim 'routine reveal' formatom.",
+    "growth": "Izlazak 2020-07, 3.275 ocena, oko 1,43 ocene/dan; recenzije 4 naspram 2, blagi rast.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/myroutine-organize-your-day/id1518956326",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1513257639": {
+    "name": "Clearful - Journal & Diary",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Dnevnik sa dnevnim pitanjima, šablonima (jutarnje stranice, zahvalnost, nedeljni pregled) i AI nedeljnom refleksijom, uz Rediscover koji vraća stare unose.",
+    "specifics": [
+      "Ključna mehanika: dnevni promptovi, šabloni, AI refleksija, Rediscover",
+      "Šta je deljivo: slabo, privatni sadržaj",
+      "Društveni sloj: ne postoji",
+      "Monetizacija: Pro 14,99 $/mes ili 80-90 $/god"
+    ],
+    "psych": "Promptovi smanjuju trenje prazne strane, nedeljni pregled daje osećaj rasta. Dokaz: 'The daily prompts and reflection prompts are able to get past my cynical self'.",
+    "developer_type": "mali tim (Clearful Journal Inc., 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Editor bogatog teksta, enkripcija, multi-device sync, LLM za refleksiju, desktop klijent. Najveći rizik: gubitak podataka i login problemi (već prijavljeno), privatnost osetljivog sadržaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Pisala sam 5 minuta svako jutro 30 dana, AI mi je pokazao obrazac koji nisam videla.'",
+    "monetization": "Skupa pretplata; žalbe na cenu i naplatu odmah umesto posle triala.",
+    "complaints": [
+      "Previsoka cena (3)",
+      "Gubitak unosa / login problemi / sync (4)",
+      "Naplata odmah umesto 7-dnevnog triala, odbijen refund (2)",
+      "Nema Apple Pencil podrške (2)"
+    ],
+    "suggestions": [
+      "Apple Pencil podrška",
+      "Folderi za različite vrste unosa",
+      "Više notifikacija za različite dnevnike"
+    ],
+    "praise": [
+      "Dobri promptovi i šabloni",
+      "Nedeljna AI refleksija",
+      "Privatnost i čist dizajn"
+    ],
+    "opportunity": "Journaling je slab fit za viralnost; prenosiva je ideja 'nedeljnog AI pregleda napretka' kao modul habit aplikacije.",
+    "growth": "Izlazak 2020-09, 3.130 ocena, oko 1,42 ocene/dan; recenzije 0 naspram 1, stagnira.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/clearful-journal-diary/id1513257639",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1660298536": {
+    "exclude": true,
+    "exclude_reason": "Idle igra (tycoon), nije lična navika.",
+    "name": "Idle Brewery: Beer Tycoon"
+  },
+  "6736627957": {
+    "exclude": true,
+    "exclude_reason": "Brend run kluba sa 1.500+ uživo događaja godišnje u 12+ gradova i trenerima; vrednost je fizička zajednica i coaching, nije replikabilno za 2 meseca.",
+    "name": "Endorphins Running"
+  },
+  "1485213298": {
+    "exclude": true,
+    "exclude_reason": "Igra izbora (swipe life sim), nije lična navika.",
+    "name": "Nirvana Game of Life"
+  },
+  "1665617526": {
+    "exclude": true,
+    "exclude_reason": "Generički AI workout šablon sa 3.700+ vežbi (turska firma, više sličnih aplikacija); velika biblioteka sadržaja, bez diferencijacije.",
+    "name": "Fitness Planner Gym・Workout AI"
+  },
+  "943712366": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (HealthifyMe, 40 mil. korisnika) sa sopstvenim ML modelom za prepoznavanje hrane i coach timom.",
+    "name": "Healthify: AI Calorie Tracker"
+  },
+  "6749643280": {
+    "exclude": true,
+    "exclude_reason": "Idle RPG igra, nije lična navika.",
+    "name": "Degen Idle: Dungeon RPG"
+  },
+  "1570156834": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka od 400+ audio sesija i priča za spavanje (sadržaj sa profesionalnim naratorima); vrednost je sadržaj.",
+    "name": "Mo Meditation, Sleep, Recovery"
+  },
+  "1552613187": {
+    "exclude": true,
+    "exclude_reason": "Čisti sadržaj: biblioteka uredničkih članaka i audio zapisa, bez mehanike učenja ili bodovanja.",
+    "name": "Nerdish: Learn Something New"
+  },
+  "1553747115": {
+    "exclude": true,
+    "exclude_reason": "Safari content blocker (utility/roditeljska zaštita), ruska firma; nema mehanike navike ni oporavka.",
+    "name": "PornBlocker App"
+  },
+  "6749387618": {
+    "exclude": true,
+    "exclude_reason": "AI tekstualna RPG igra, nije lična navika.",
+    "name": "Taleborn: AI Hero Story RPG"
+  },
+  "562315041": {
+    "exclude": true,
+    "exclude_reason": "Mrežni utility, nije lična navika.",
+    "name": "Network Analyzer: WiFi Scan"
+  }
+}

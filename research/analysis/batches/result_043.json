@@ -1,0 +1,622 @@
+{
+  "6782149051": {
+    "name": "Baddie Protocol",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "75 Hard za devojke: estetski 75-dnevni izazov gde biraš sopstvene 'that girl' navike, dokazuješ ih fotografijom i radiš ga sa drugaricama preko koda.",
+    "specifics": [
+      "Ključna mehanika: lična dnevna lista (trening, voda, čitanje, skincare, bez telefona u krevetu), 75 dana zaredom, foto dokaz",
+      "Šta je deljivo: estetski izgled liste i napretka, foto dokazi (procena)",
+      "Društveni sloj: pozivanje prijateljica kodom i uvid u njihov dnevni napredak",
+      "Monetizacija: plaćena, bez besplatne verzije (~5 USD prema recenziji)"
+    ],
+    "psych": "Grupni izazov sa javnom obavezom i nizom: 'The majority of women who finished the challenge had someone doing it with them' (iz opisa); recenzije pokazuju da je kuka jaka, ali da korisnici očekuju više od liste.",
+    "developer_type": "Solo developer (procena): fizičko lice Iurii Frolov, 3 aplikacije.",
+    "build_weeks": 4,
+    "build_notes": "Lista navika, kalendar niza, foto dokazi (storage), friend kod i feed napretka (backend), estetski UI, widgeti. Najveći rizik: percepcija 'samo checklista' i retencija posle prvih dana.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Dan 1 od 75 mog Baddie Protocola – ko je sa mnom? Ubaci kod.",
+    "monetization": "Plaćena aplikacija/pretplata bez free verzije; recenzije pominju ~5 USD; marketing preko TikToka (prema recenziji AI-generisani video).",
+    "complaints": [
+      "'Samo checklista' za novac (3)",
+      "Nema besplatne verzije (2)",
+      "Marketing AI videima na TikToku deluje obmanjujuće (1)"
+    ],
+    "suggestions": [
+      "Besplatna verzija (1)",
+      "Više sadržaja: programi, treninzi, ideje za ishranu (izvedeno iz žalbi)"
+    ],
+    "praise": [
+      "Pouzdana i 'baš ono što sam tražila'"
+    ],
+    "opportunity": "Isti izazov sa jačim grupnim slojem (grupni niz koji puca ako jedna odustane, dnevni foto kolaž grupe za deljenje) i besplatnim startom; to rešava žalbu 'samo lista' i daje viralni format.",
+    "growth": "2,29 ocena/dan (249 ocena za 109 dana) – dobar start za vrlo novu aplikaciju; recenzije 30d: 0 naspram 2 – mali uzorak, nema signala ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/baddie-protocol/id6782149051",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6748092391": {
+    "name": "One Thing: Earn Screen Time",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator koji drži društvene mreže zaključane dok ne uradiš jednu bitnu aktivnost dana, a AI (GPT-4 Vision) sa fotografije proverava da si je stvarno uradio.",
+    "specifics": [
+      "Ključna mehanika: ujutru izabereš jednu aktivnost (teretana, čitanje, učenje, meditacija), aplikacije su zaključane dok foto dokaz ne prođe AI proveru",
+      "Šta je deljivo: foto dokaz i pad screen time-a (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: sve funkcije zahtevaju pretplatu posle triala; ~7 USD nedeljno prema recenziji"
+    ],
+    "psych": "Okruženje radi umesto snage volje: unapred zadato trenje uz nagradu (otključavanje): 'it also helped me have little to no desire to open most of these apps.'",
+    "developer_type": "Mali tim ili solo (procena): One Thing App Ltd, 1 aplikacija.",
+    "build_weeks": 7,
+    "build_notes": "iOS Screen Time API (FamilyControls entitlement), Android Accessibility/UsageStats; vision LLM verifikacija fotografije (trošak po pozivu), raspored blokova, hitno otključavanje. Najveći rizik: bagovi blokade (zaključane aplikacije kad ne treba) i troškovi AI provere.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Instagram mi je zaključan dok AI ne vidi da sam stvarno bio u teretani.",
+    "monetization": "Pretplata, tvrdi paywall; ~7 USD nedeljno (recenzija) – korisnici ga odbijaju kao skup.",
+    "complaints": [
+      "Bagovi: blokade ne prestaju/raspored ne radi, zaglavljuje se u podešavanju (6)",
+      "Paywall bez jasne cene i triala, skupo (5)",
+      "Privatnost foto dokaza (1)",
+      "Agresivan ton aplikacije (1)"
+    ],
+    "suggestions": [
+      "Više paralelnih blokova (npr. učenje i čitanje) (2)",
+      "Više prilagođavanja izgleda i preseta",
+      "Besplatan studentski plan"
+    ],
+    "praise": [
+      "Prekida jutarnje skrolovanje",
+      "Smanjuje želju za otvaranjem mreža",
+      "Ideja je odlična"
+    ],
+    "opportunity": "Stabilna blokada uz alternativne dokaze (HealthKit trening, tajmer fokusa) umesto obavezne fotografije, plus prijatelj kao svedok; cena nedeljno je prepreka – mesečni/godišnji plan sa besplatnim prvim danom.",
+    "growth": "2,28 ocena/dan (890 ocena za 391 dan); recenzije 30d: 2 naspram 0 – stabilno, bez jasnog ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/one-thing-earn-screen-time/id6748092391",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1149192857": {
+    "name": "Habit Hub: Routine Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Habit tracker sa vremenskom linijom u bojama (crveno/žuto/zeleno) i rutinama koje kombinuju tajmere, vežbe disanja i štikliranje u jednom toku.",
+    "specifics": [
+      "Ključna mehanika: navike po dobu dana, višekoračne rutine (zadatak → tajmer → disanje), nizovi i kalendar u bojama, to-do",
+      "Šta je deljivo: deljenje napretka sa prijateljima (iz opisa)",
+      "Društveni sloj: slab, samo deljenje",
+      "Monetizacija: jednokratne kupovine paketa (~2,99 USD), bez mesečne pretplate; besplatno do 3 cilja"
+    ],
+    "psych": "Nizovi i jasan vizuelni status smanjuju kognitivno opterećenje (posebno ADHD korisnici): 'this app helps me maintain my day to day habits even at my busiest times. Great for adhd.'",
+    "developer_type": "Solo developer (procena): fizičko lice Sabana Patel, 1 aplikacija.",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza + sync, notifikacije, tajmeri i vežbe disanja, widget. Najveći rizik: pouzdanost notifikacija i migracija podataka pri update-ima.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Moja jutarnja rutina u jednom dugmetu: krevet, 5 min meditacije, disanje, vitamini.",
+    "monetization": "Jednokratne kupovine (~2,99 USD), bez pretplate; korisnici hvale cenu.",
+    "complaints": [
+      "Update obrisao rutine / aplikacija ne otvara se (5)",
+      "Fantomske notifikacije koje ne mogu da se ugase (3)",
+      "Novi popup-i i prompt za belešku pri preskakanju (2)",
+      "Ograničenje na 3 cilja bez kupovine (1)"
+    ],
+    "suggestions": [
+      "Povezivanje sa partnerom",
+      "Datum/kalendar na vrhu",
+      "To-do koji traje više dana",
+      "Opcija gašenja journal popup-a"
+    ],
+    "praise": [
+      "Jednostavno i elegantno",
+      "Rutine sa tajmerom",
+      "Niska cena bez pretplate"
+    ],
+    "opportunity": "Rutine sa tajmerom i disanjem su dobar diferencijator za ADHD publiku; uz društveni sloj (partner ili grupa) i stabilnost mogla bi se ciljati mlađa publika.",
+    "growth": "2,21 ocena/dan (8094 ocene za 3658 dana); recenzije 30d: 2 naspram 0 – zrela aplikacija, nizak tempo.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/habit-hub-routine-tracker/id1149192857",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "915664862": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka profesionalnog audio sadržaja (dreamscapes, glasovi, priče) zasnovana na kliničkim tvrdnjama; vrednost je u sadržaju, ne u mehanici navike.",
+    "name": "Pzizz - Sleep, Nap, Focus"
+  },
+  "6737853837": {
+    "name": "Calorie Tracker: Counter AI",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Generički AI brojač kalorija: slikaš obrok i dobijaš procenu kalorija i makroa; nema jasnog zaokreta u odnosu na Cal AI tip aplikacija.",
+    "specifics": [
+      "Ključna mehanika: foto procena kalorija/makroa, barkod, baza, dnevnik makroa",
+      "Šta je deljivo: ništa vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata obavezna; postoji i lifetime opcija"
+    ],
+    "psych": "Brzina unosa smanjuje trenje doslednosti: 'the simplicity of using this app has helped me stay consistent.' Princip je slab.",
+    "developer_type": "Mali tim, moguće šablonski (procena): Summit Intelligence Pte Ltd, 4 aplikacije.",
+    "build_weeks": 5,
+    "build_notes": "Vision LLM API za procenu obroka, barkod baza, HealthKit, pretplata. Najveći rizik: diferencijacija u prezasićenoj kategoriji i trošak AI poziva.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Slikaj tanjir, dobij makroe za 3 sekunde.",
+    "monetization": "Pretplata obavezna; lifetime opcija; recenzija pominje nejasnu/visoku cenu i otkazivanje samo preko emaila.",
+    "complaints": [
+      "Naplata odmah umesto obećanog triala, bez refundacije (2)",
+      "Bagovi: login petlja, foto ne radi, voda se ne čuva (4)",
+      "Otkazivanje samo preko emaila (1)"
+    ],
+    "suggestions": [
+      "Pouzdaniji unos vode",
+      "Bolje razumevanje ispravki AI unosa"
+    ],
+    "praise": [
+      "Brz foto unos",
+      "Jednostavno za početnike",
+      "Apple Health sinhronizacija"
+    ],
+    "opportunity": "Kao samostalni proizvod nema smisla za nas; foto unos obroka može biti funkcija unutar aplikacije sa jačim psihološkim principom (ljubimac, grupni izazov).",
+    "growth": "2,2 ocene/dan (1535 ocena za 699 dana); recenzije 30d: 2 naspram 2 – stabilno. Veliki broj kratkih, ujednačenih 5* recenzija deluje podsticano (procena).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/calorie-tracker-counter-ai/id6737853837",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1589243137": {
+    "name": "Eden: Daily Routine Planner",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Nežan habit tracker bez pritiska: svaka završena navika polako otvara cvet u tvojoj virtuelnoj bašti, uz ambijentalne zvuke i fokus tajmer.",
+    "specifics": [
+      "Ključna mehanika: dnevne rutine koje se automatski resetuju, bašta raste sa svakim završenim zadatkom, prilagođavanje bašte",
+      "Šta je deljivo: estetika bašte i widgeta (korisnik pominje da ju je našao na Pinterestu)",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium (5 navika besplatno), plaćanje za puni rast bašte i dodatke"
+    ],
+    "psych": "Vidljiv, spor rast bez kazne podržava doslednost bez krivice: 'if I'm struggling, only the basics are required and don't kill my garden.'",
+    "developer_type": "Agencija (procena): Millefeuille Agency, 9 aplikacija – rizik da je u pitanju studio sa više šablonskih aplikacija.",
+    "build_weeks": 5,
+    "build_notes": "Lista navika, iCloud sync, ilustracije bašte i stanja rasta, zvuci, widgeti. Najveći rizik: izrada kvalitetnih vizuala i dovoljno sadržaja za dugoročni rast.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Svaka navika koju završim = jedan cvet. Evo kako izgleda moja bašta posle 30 dana.",
+    "monetization": "Freemium; besplatno do 5 navika, rast bašte i dodaci iza plaćanja (iznosi se ne vide).",
+    "complaints": [
+      "Plaćanje da bi bašta potpuno rasla / previše iza paywall-a (4)",
+      "Ograničenje 5 navika (1)",
+      "Ponekad deluje kao obaveza (1)",
+      "Nejasno kako cvet raste (1)"
+    ],
+    "suggestions": [
+      "Više besplatnih funkcija",
+      "Brži rast cveća (1)"
+    ],
+    "praise": [
+      "Mirno, estetski i jednostavno",
+      "Pomaže raspoloženju i mentalnom zdravlju",
+      "'Zrelija verzija Finch-a'"
+    ],
+    "opportunity": "Bašta je jak vizuelni format; mi bismo dodali zajedničku baštu sa prijateljima (grupni niz) i deljive time-lapse snimke rasta, uz velikodušniji besplatni nivo.",
+    "growth": "2,19 ocena/dan (3993 ocene za 1824 dana); recenzije 30d: 9 naspram 3 – rast aktivnosti, aplikacija ponovo dobija pažnju.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/eden-daily-routine-planner/id1589243137",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "330594424": {
+    "name": "Walkmeter Walking & Hiking GPS",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Detaljan GPS tracker za šetnju i planinarenje sa obiljem statistika, grafika, intervala i glasovnih najava; usmeren na zahtevne i starije korisnike.",
+    "specifics": [
+      "Ključna mehanika: snimanje rute, statistike i grafici, glasovne najave, Apple Watch, senzori",
+      "Šta je deljivo: izvoz na Strava, email, Twitter",
+      "Društveni sloj: opciono praćenje uživo sa pozvanim prijateljima",
+      "Monetizacija: freemium + Elite pretplata, nametljive reklame u besplatnoj verziji"
+    ],
+    "psych": "Kvantifikacija i istorija motivišu dugogodišnje korisnike: 'Keeps your exercise routine continuously and incentivizes you to sustain your program.' Slabo za Gen Z.",
+    "developer_type": "Mala firma (procena): Abvio Inc., 4 aplikacije (porodica Walkmeter/Cyclemeter), od 2009.",
+    "build_weeks": 8,
+    "build_notes": "Precizan GPS u pozadini, HealthKit, Watch aplikacija, mape, statistike. Najveći rizik: tačnost distance i potrošnja baterije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "17.800 milja izmerenih u jednoj aplikaciji od 2013.",
+    "monetization": "Freemium + Elite pretplata + reklame (korisnici se žale na full-screen i prevarantske reklame).",
+    "complaints": [
+      "Nametljive i neprikladne/prevarantske reklame (8)",
+      "Nedosledna distanca i prekidi praćenja (5)",
+      "Komplikovan UI bez uputstva (3)",
+      "Problemi sa Watch-om posle update-a (1)"
+    ],
+    "suggestions": [
+      "Jednostavniji UI i uputstva",
+      "Manje reklama"
+    ],
+    "praise": [
+      "Pouzdan GPS i kvalitet podataka",
+      "Obilje podataka i istorija",
+      "Dugoročna upotreba"
+    ],
+    "opportunity": "Pokazuje potrebu za jednostavnim i pouzdanim šetačkim trackerom bez agresivnih reklama; za nas relevantno samo uz igrifikaciju (nizovi, takmičenje), ne kao data alat.",
+    "growth": "2,18 ocena/dan (13571 ocena za 6212 dana); recenzije 30d: 2 naspram 2 – zrela aplikacija, stagnacija.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/walkmeter-walking-hiking-gps/id330594424",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6754564423": {
+    "exclude": true,
+    "exclude_reason": "AI alat za rast na društvenim mrežama (sadržaj, strategija); nije lična navika, disciplina, kretanje ili odvikavanje.",
+    "name": "Trendy: Profile Report & Boost"
+  },
+  "1535400615": {
+    "name": "RUN — Running Club & Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Tracker trčanja koji meri i bez GPS signala (senzori telefona), uz progresivni plan za apsolutne početnike, nizove i bedževe.",
+    "specifics": [
+      "Ključna mehanika: praćenje trčanja bez GPS-a, walk/run plan za početnike, nizovi i bedževi, praćenje kilometraže patika",
+      "Šta je deljivo: rezultati treninga (iz opisa)",
+      "Društveni sloj: deljenje sa prijateljima; naziv 'Running Club' ali bez vidljive klupske mehanike",
+      "Monetizacija: freemium; 'My plan' iza pretplate"
+    ],
+    "psych": "Niz i bedževi grade naviku trčanja: 'consistency beats intensity every time' (opis); korisnici hvale jednostavnost: 'I love the simplicity.'",
+    "developer_type": "Mali tim (procena): MIRO CONSULTING SRL, 4 aplikacije. Recenzije ga povezuju sa Nike-om (procena: korisnici ga mešaju sa Nike Run Club).",
+    "build_weeks": 6,
+    "build_notes": "CoreMotion/pedometar za merenje bez GPS-a, GPS, HealthKit/Health Connect, Watch aplikacija, Live Activities, widgeti. Najveći rizik: tačnost distance bez GPS-a.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Nisi trkač? Ovaj plan te vodi od šetnje do 5K bez povreda.",
+    "monetization": "Freemium; plan treninga iza pretplate; jedna žalba na automatsku obnovu bez podsetnika.",
+    "complaints": [
+      "Novi update pokvario UI, sporiji, lošiji pregled patika (6)",
+      "Prekid praćenja i netačna distanca (4)",
+      "Traži previše Health dozvola (2)",
+      "Naplata posle triala bez podsetnika (1)"
+    ],
+    "suggestions": [
+      "Pregled tempa po kilometru",
+      "Stranica rekorda (top 5 napora)",
+      "Ručno dodavanje/ispravka treninga",
+      "Start sa sata"
+    ],
+    "praise": [
+      "Jednostavan i lep UI",
+      "Besplatna verzija bolja od plaćenih konkurenata",
+      "Dobro za početnike"
+    ],
+    "opportunity": "Jednostavnost je ono što korisnici vole; pravi 'running club' sa prijateljima (zajednički nedeljni kilometri, niz grupe) bi opravdao ime i dodao viralnost.",
+    "growth": "2,17 ocena/dan (4758 ocena za 2190 dana); recenzije 30d: 2 naspram 3 – stabilno, bez rasta.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/run-running-club-tracker/id1535400615",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1460235511": {
+    "exclude": true,
+    "exclude_reason": "Velika firma i poznat brend (milioni studenata, 50M+ beleški); nije mali developer.",
+    "name": "Studocu: Notes & Practice"
+  },
+  "6478765308": {
+    "exclude": true,
+    "exclude_reason": "Igra (cozy life sim); osnovna vrednost je zabava, ne lična navika.",
+    "name": "Forest Fables: Cozy pixel sim"
+  },
+  "1491658094": {
+    "name": "None to Run: Beginner, 5K, 10K",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Couch to 5K, ali sporiji i bezbedniji za prave početnike: počinje intervalnim hodanjem i gradi trčanje kroz 12 nedelja bez povreda.",
+    "specifics": [
+      "Ključna mehanika: planovi Stroll and Stride, Run Ready, None to Run, 5K/10K; vođeni intervali sa glasovnim uputstvima, Watch",
+      "Šta je deljivo: prekretnice (npr. prvih 25 minuta bez stajanja) (procena)",
+      "Društveni sloj: nema vidljivog; podrška/coaching se pominje u recenzijama",
+      "Monetizacija: pretplata sa trialom; prilagođavanje tajmera iza plaćanja (~40 USD prema recenziji)"
+    ],
+    "psych": "Postepen, vidljiv napredak od 'ne mogu ni minut' do 5K daje osećaj kompetentnosti: 'By the end of 12 weeks, I could run 25 minutes straight.'",
+    "developer_type": "Solo ili mali tim (procena): UniqueBits, LLC, 1 aplikacija; recenzije pominju autora programa (Mark).",
+    "build_weeks": 4,
+    "build_notes": "Intervalni tajmer sa audio uputstvima, planovi, HealthKit, Watch aplikacija. Najveći rizik: kvalitet plana (stručnost) i diferencijacija od besplatnog C25K.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Mrzela sam trčanje. 12 nedelja kasnije trčim 25 minuta bez stajanja.",
+    "monetization": "Pretplata; godišnja pretplata koju korisnici prihvataju ('worth every penny'); deo žalbi na cenu tajmera.",
+    "complaints": [
+      "I dalje prebrzo za neke (zaglavi na 4. nedelji) (1)",
+      "Tajmer se ne može podesiti bez plaćanja (~40 USD) (1)",
+      "Analitika uključena po defaultu, nema izvoza podataka (1)"
+    ],
+    "suggestions": [
+      "Mogućnost ponavljanja nedelje / sporija progresija (izvedeno)",
+      "Izvoz podataka bez Apple Health-a"
+    ],
+    "praise": [
+      "Stvarno za apsolutne početnike, sporija progresija od C25K",
+      "Bez povreda",
+      "Podrška i edukacija"
+    ],
+    "opportunity": "Dokaz da 'sporije i bezbednije' prodaje; za 18–24 bismo dodali grupni izazov sa prijateljima i deljive prekretnice, uz mlađi ton komunikacije (sadašnja publika je pretežno 40+).",
+    "growth": "2,14 ocena/dan (5154 ocene za 2414 dana); recenzije 30d: 3 naspram 4 – stabilno.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1463294846": {
+    "name": "Grounded: Quit Weed Smoking",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Tracker za prestanak pušenja trave i tolerance break, gde dnevni check-in hrani drvo koje raste sa svakim danom bez THC-a.",
+    "specifics": [
+      "Ključna mehanika: brojač vremena bez THC-a, dnevni check-in raspoloženja i žudnje, dnevnik, drvo koje raste, dostignuća",
+      "Šta je deljivo: drvo i broj dana (procena)",
+      "Društveni sloj: forum zajednice (premešten iza paywall-a)",
+      "Monetizacija: freemium + Grounded Plus ~30 USD godišnje sa 7-dnevnim trialom"
+    ],
+    "psych": "Vizuelna metafora rasta pretvara apstinenciju u igru: 'I love that it makes a game of staying sober.' i 'The symbol of the tree growing reminds you how long change takes.'",
+    "developer_type": "Solo developer (procena): fizičko lice Christopher Onuigbo, 3 aplikacije.",
+    "build_weeks": 5,
+    "build_notes": "Brojač, check-in forme, dnevnik, animacija drveta, dostignuća, forum sa moderacijom (backend). Najveći rizik: moderacija zajednice i ograničenja oglašavanja teme kanabisa na Meta/TikTok.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Dan 90 bez trave: evo kako izgleda moje drvo i šta se promenilo u mojoj glavi.",
+    "monetization": "Freemium; Plus ~30 USD/god; zajednica premeštena iza paywall-a izaziva nezadovoljstvo.",
+    "complaints": [
+      "Zajednica i funkcije premeštene iza paywall-a (3)",
+      "Naplata posle triala bez upozorenja (2)",
+      "Zastareo, ružan dizajn (2)",
+      "Privatnost: ciljane reklame na drugim mrežama (1)"
+    ],
+    "suggestions": [
+      "Dnevna dostignuća u prvom mesecu (1)",
+      "Režim postepenog smanjenja, ne samo cold turkey (1)",
+      "Pametnije notifikacije (ne podsećati ako je check-in urađen) (1)",
+      "Manje traženja ocena"
+    ],
+    "praise": [
+      "Drvo koje raste i brojač u realnom vremenu",
+      "Podrška zajednice",
+      "Dnevni check-in i dnevnik"
+    ],
+    "opportunity": "Moderan, estetski redizajn za Gen Z sa režimom smanjenja, dnevnim dostignućima u prvom mesecu i malim privatnim grupama umesto javnog foruma; ista mehanika za vejp i alkohol.",
+    "growth": "2,13 ocena/dan (5773 ocene za 2708 dana); recenzije 30d: 3 naspram 4 – stabilna, organska potražnja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/grounded-quit-weed-smoking/id1463294846",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6780972955": {
+    "name": "Free Food AI: Calorie Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Potpuno besplatan AI brojač kalorija bez registracije, sa nizovima, rang listom i funkcijom koja tvoj dan ishrane pretvara u video za TikTok/Instagram.",
+    "specifics": [
+      "Ključna mehanika: foto ili tekstualni opis obroka → kalorije, makroi, vitamini (USDA + AI), barkod, post tajmer",
+      "Šta je deljivo: automatski video 'moj dan ishrane' za društvene mreže (iz opisa)",
+      "Društveni sloj: nizovi dana i rang lista",
+      "Monetizacija: deklarisano kao besplatno; model zarade nije vidljiv"
+    ],
+    "psych": "Kvantifikacija bez trenja + niz i rang: 'Works great if you're on a weight gain or loss journey.' Dokaz je slab (malo recenzija).",
+    "developer_type": "Mali tim (procena): SpeedUI.ai LLC, 3 aplikacije.",
+    "build_weeks": 5,
+    "build_notes": "Vision LLM API + USDA baza, barkod, HealthKit, Watch, generisanje videa dana. Najveći rizik: trošak AI poziva bez monetizacije i tačnost prepoznavanja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Ceo moj dan ishrane pretvoren u video za 5 sekundi – besplatno.",
+    "monetization": "Besplatno (bez vidljive pretplate); održivost modela nejasna.",
+    "complaints": [
+      "Netačno prepoznavanje hrane i kalorija (1)"
+    ],
+    "suggestions": [],
+    "praise": [
+      "Zaista besplatno",
+      "Jednostavno praćenje kalorija"
+    ],
+    "opportunity": "Video 'dan ishrane' je zanimljiv viralni mehanizam koji vredi pozajmiti; samostalni proizvod je slab zbog nejasne monetizacije i prezasićene kategorije.",
+    "growth": "2,13 ocena/dan (215 ocena za 101 dan) – brz start za novu aplikaciju; recenzije 30d: 2 naspram 2 – premalo podataka.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 1,
+      "monetization": 1,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/free-food-ai-calorie-counter/id6780972955",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1578636146": {
+    "exclude": true,
+    "exclude_reason": "Brend influenserke (Sami Clarke) sa bibliotekom profesionalnih video treninga, receptima i programima; vrednost je u autorskom sadržaju.",
+    "name": "FORM: Strength, Pilates, Gym"
+  }
+}

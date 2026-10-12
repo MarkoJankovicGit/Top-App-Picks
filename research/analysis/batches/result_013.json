@@ -1,0 +1,414 @@
+{
+  "1366215798": {
+    "exclude": true,
+    "exclude_reason": "Igra (survival RPG).",
+    "name": "Grim Soul: Survival Magic RPG"
+  },
+  "6466609362": {
+    "exclude": true,
+    "exclude_reason": "Firma (Lasta Inc.) sa bibliotekom programa za mršavljenje i jakim plaćenim marketingom.",
+    "name": "Lasta Fit: Your Wellness Coach"
+  },
+  "6738038765": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija (CHEESEJOY, 8 aplikacija); recenzija je opisuje kao kopiju Me+ sa istim pitanjima - generički šablon sa reklamama.",
+    "name": "Daily Routine - Planner & Mood"
+  },
+  "6477849675": {
+    "name": "Stompers: Walking Step Counter",
+    "exclude": false,
+    "list": "A",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Pedometar kao dnevna trka sa prijateljima: koraci iz Apple Health pokreću tvoj pikselizovani lik na trkačkoj stazi, uz boostere i novu igru svaki dan.",
+    "specifics": [
+      "Ključna mehanika: nova trka/igra svaki dan, koraci = napredak lika, boosteri na stazi, dnevni pobednik",
+      "Šta je deljivo: rezultat dana i pozivnice u grupni chat",
+      "Društveni sloj: prijatelji, porodica, grupe (traže se odvojene grupe i chat)",
+      "Monetizacija: 7-dnevni trial pa pretplata ~$10/mes ili ~$40/god"
+    ],
+    "psych": "Takmičenje sa bliskim ljudima: 'Me and my friends loveeeeee the app and are super competitive'.",
+    "developer_type": "mali tim (procena): Stompers, LLC, jedna aplikacija, sopstveni domen",
+    "build_weeks": 7,
+    "build_notes": "HealthKit/Health Connect sync u pozadini, backend za real-time leaderboard i grupe, 2D animirana staza, push notifikacije. Najveći rizik: tačan i konzistentan sync koraka među korisnicima (glavna žalba).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Ko izgubi nedeljnu trku koracima, plaća večeru' - snimak pikselizovane trke drugarica.",
+    "monetization": "Trial + pretplata (~$10/mes, ~$40/god); korisnici vole igru, ali cenu smatraju previsokom za 'community step game'.",
+    "complaints": [
+      "Netačan ili zakasneli sync koraka, različiti rezultati kod prijatelja (~10)",
+      "Naplata trial-a i oznaka 'free' a zapravo pretplata (~6)",
+      "Previše notifikacija i traženje kontakata (~2)",
+      "Ne radi sa Garminom (~1)"
+    ],
+    "suggestions": [
+      "Chat/komentari i 'banter' među prijateljima",
+      "Odvojene grupe (porodica, posao, prijatelji)",
+      "Podešavanje notifikacija",
+      "Niža cena"
+    ],
+    "praise": [
+      "Zabavno takmičenje sa prijateljima",
+      "Vizuelno simpatična trka u pikselima, jednostavne mehanike",
+      "Motiviše ljude koji ne vole hodanje"
+    ],
+    "opportunity": "Pouzdan server-side sync i model 'plaća kreator grupe, ostali besplatno' za viralno širenje kroz grupne chatove; dodati banter i nedeljne sezone.",
+    "growth": "~13,2 ocene/dan od maja 2024 (11.483); recenzije 39 naspram 24 - jasan rast.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stompers-walking-step-counter/id6477849675",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1440414093": {
+    "exclude": true,
+    "exclude_reason": "Čist sadržaj (citati, videi), developer sa 8 aplikacija.",
+    "name": "Motivational Quotes Daily+"
+  },
+  "6763232410": {
+    "exclude": true,
+    "exclude_reason": "Igra (idle RPG).",
+    "name": "Destiny Hero: Dark Idle RPG"
+  },
+  "6444850772": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalnog video sadržaja (dance fitness) i jak plaćeni marketing; nije izvodljivo za 2 meseca.",
+    "name": "Dancefitme: Fun weight loss"
+  },
+  "6474446718": {
+    "name": "Symmetry: Gym Workout Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Gym tracker gde svaka vežba ima rang kao u video igri, a AI 'body scan' iz fotografije pokazuje najslabije mišićne grupe i gradi plan. Granično: biblioteka 300+ vežbi sa tehnikom podiže obim.",
+    "specifics": [
+      "Ključna mehanika: rang sistem za 300+ vežbi, AI body scan sa fotografije, automatski progressive overload",
+      "Šta je deljivo: rang po mišićnim grupama i treninzi (recenzija pominje deljenje treninga)",
+      "Društveni sloj: deljenje treninga (ograničeno)",
+      "Monetizacija: osnovno besplatno bez reklama + premium (pominje se ~$35 i 30-dnevni trial)"
+    ],
+    "psych": "Kvantifikacija tela kroz rang i level-up: 'I love the ranking system'.",
+    "developer_type": "mali tim (procena): SymmetryClub LLC, jedna aplikacija, bez oznake praćenja",
+    "build_weeks": 8,
+    "build_notes": "Baza vežbi sa animacijama/ilustracijama (licenca ili sopstvena izrada - najveći rizik), AI body scan preko vision LLM-a, logovanje treninga, backend i nalozi. Rizik i u stabilnosti naloga (odjave, konverzija jedinica).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'AI mi je rangirao svaki mišić - triceps mi je bronza, evo kako ga dižem na zlato.'",
+    "monetization": "Freemium bez reklama + premium pretplata; besplatni deo hvaljen, deo korisnika želi da plati.",
+    "complaints": [
+      "Nasumične odjave, gubitak naloga i konverzija jedinica (~4)",
+      "Bez refundacije / sve bolje funkcije su plaćene (~3)",
+      "Nedostaju rangovi za neke mišiće i opcije opreme/ciljeva (~2)",
+      "Vodič/demonstracije se ne učitavaju (~2)"
+    ],
+    "suggestions": [
+      "AI plan ishrane sa namirnicama",
+      "Izbor pojedinačne opreme i ciljeva u AI planeru",
+      "Rang za sve mišićne grupe"
+    ],
+    "praise": [
+      "Rang sistem čini teretanu igrom",
+      "Besplatno i bez reklama",
+      "Detaljna objašnjenja vežbi"
+    ],
+    "opportunity": "Zadržati rang mehaniku i dodati lige sa prijateljima po mišićnim grupama i deljive 'rank card' slike; stabilan nalog i sync.",
+    "growth": "~12,9 ocena/dan od juna 2025 (6.374); recenzije 19 naspram 2 - snažan skok u poslednjih 30 dana, mnogo korisnika iz Latinske Amerike.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/symmetry-gym-workout-tracker/id6474446718",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6446997766": {
+    "name": "Grit: Daily Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Kvalitetan nativni habit tracker za Apple ekosistem (widgeti, Watch, Siri, Health, tajmer); bez pravog konceptualnog zaokreta (granično).",
+    "specifics": [
+      "Ključna mehanika: navike sa streak-om (vatra), dostignuća, grupe navika, ugrađeni tajmer",
+      "Šta je deljivo: ništa posebno",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium (limit 3 navike), mesečno/godišnje/doživotno"
+    ],
+    "psych": "Vizuelni streak: 'My favorite feature is the streaks (fire symbol)'.",
+    "developer_type": "solo ili mali tim (procena): GrittyApps, jedna aplikacija",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + cloud sync, widgeti, Watch app, HealthKit, Siri Shortcuts; za Android widgeti i Health Connect. Najveći rizik: diferencijacija u prezasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": false,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Jedina habit aplikacija koju nisam obrisao posle nedelju dana' - prikaz widgeta i streak-a.",
+    "monetization": "Freemium sa limitom 3 navike + pretplata/doživotno; deo korisnika kupuje lifetime, mnogi se žale na limit.",
+    "complaints": [
+      "Limit od 3 navike u besplatnoj verziji (~5)",
+      "Problemi sa naplatom: rana obnova triala, lifetime nije prepoznat (~2)",
+      "Komplikovano, česte promene UI-ja, zamrzavanje (~3)",
+      "Slaba statistika (~1)"
+    ],
+    "suggestions": [
+      "Landscape mod za tajmere",
+      "Bolja statistika neuspeha kod loših navika",
+      "Preskočiti onboarding pri reinstalaciji"
+    ],
+    "praise": [
+      "Estetika i jednostavnost",
+      "ADHD-friendly podsetnici",
+      "Integracije sa Watch, widgetima, Control Center"
+    ],
+    "opportunity": "Malo prostora za zaokret; vredi samo kao referenca za kvalitet widgeta i streak UX-a.",
+    "growth": "~12,9 ocena/dan od maja 2023 (16.026); recenzije 6 naspram 4 - stabilno.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/grit-daily-habit-tracker/id6446997766",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1510917465": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža/dating, nije self-improvement.",
+    "name": "Meete - Meet New Friends"
+  },
+  "1633296501": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je zarada (coins u novac, PayPal) uz reklame i partnerske ponude - finansije/offerwall ekonomija sa sponzorskim modelom.",
+    "name": "Macadam, The Step Counter."
+  },
+  "6744920106": {
+    "exclude": true,
+    "exclude_reason": "Merenje pulsa kamerom - health utility blizak kliničkom, prodavac sa 4 aplikacije.",
+    "name": "Heart Beat: Heart Rate Monitor"
+  },
+  "1508326506": {
+    "name": "EMMO: Mood Tracker & Diary",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Mood dnevnik u kom sam crtaš svoje emoji lice dana, pa kalendar postaje galerija ličnih emotikona; dodat Pal pratilac i društvene reakcije. Granično: dnevnik, a ne navika u užem smislu; prodavac ima 9 aplikacija.",
+    "specifics": [
+      "Ključna mehanika: nacrtaj/izaberi emoji dana + kratak zapis, mood kalendar i grafikoni, nagrade za prijavu",
+      "Šta je deljivo: widget i kalendar sa sopstvenim emotikonima (procena)",
+      "Društveni sloj: reakcije, praćenja i lajkovi (iz recenzija)",
+      "Monetizacija: freemium + kupovine u aplikaciji i reklame za dodavanje medija"
+    ],
+    "psych": "Samoizražavanje i dugoročni zapis o sebi: 'been tracking my mood for 3 yrs now! super cute widget'.",
+    "developer_type": "mala firma: EMMO Corp., 9 aplikacija (procena: studio sa više proizvoda)",
+    "build_weeks": 6,
+    "build_notes": "Canvas za crtanje emojija, kalendar i grafikoni, medijski prilozi i cloud sync, widgeti, društveni feed. Najveći rizik: migracije podataka (žalbe na izgubljene unose posle update-a).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Nacrtala sam svoje lice svaki dan godinu dana - ovo je moja godina u emotikonima.'",
+    "monetization": "Freemium, in-app kupovine i reklame za otključavanje foto/video; deo korisnika kaže da je plaćena opcija vredna.",
+    "complaints": [
+      "Veliki update pokvario layout, fontove i widgete (~7)",
+      "Izgubljeni unosi posle update-a (~2)",
+      "Reklame za dodavanje slika i greška 'no ad to show' (~2)",
+      "In-app kupovine u mood aplikaciji, invite kodovi samo za premium (~2)"
+    ],
+    "suggestions": [
+      "Opcija za stari layout",
+      "Vratiti 'sakrij dane bez unosa'",
+      "Veći emotikoni u kalendaru, prilagodljiv widget",
+      "Glasovni unos"
+    ],
+    "praise": [
+      "Crtanje sopstvenih emotikona i personalizacija",
+      "Sladak widget sa raspoloženjem",
+      "Siguran, privatan prostor za pražnjenje"
+    ],
+    "opportunity": "Sopstveni nacrtani emoji kao deljiva 'godina u licima' i streak; stabilne migracije kao osnovni zahtev.",
+    "growth": "~12,4 ocene/dan od 2020 (29.354); recenzije 24 naspram 2 - skok izazvan velikim update-om (većinom negativne reakcije).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/emmo-mood-tracker-diary/id1508326506",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "505253234": {
+    "name": "Charity Miles",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Tracker hodanja i trčanja gde svaka milja donira novac izabranoj dobrotvornoj organizaciji (sponzori + pledge stranica prijatelja). Granično: zavisi od korporativnih sponzora.",
+    "specifics": [
+      "Ključna mehanika: milje → donacija izabranoj organizaciji, pledge stranica, streak",
+      "Šta je deljivo: deljenje milja na društvenim mrežama radi pledge-ova",
+      "Društveni sloj: prijatelji sponzorišu, timovi/organizacije (kodovi)",
+      "Monetizacija: korporativni sponzori; aplikacija besplatna"
+    ],
+    "psych": "Altruistička nagrada za akciju: 'It feels good to help myself and others at the same time'.",
+    "developer_type": "mali tim: Charity Miles, LLC, jedna aplikacija; osnivač (Gene) pominjan po imenu",
+    "build_weeks": 6,
+    "build_notes": "GPS i HealthKit/Health Connect, Strava integracija, pledge stranice i plaćanja, izveštaji o donacijama. Najveći rizik nije tehnički: obezbeđivanje sponzora i transparentnost donacija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Svaki moj korak danas = obrok za azil za pse' - brojač donacije uz šetnju.",
+    "monetization": "Sponzorski model; korisnici ne plaćaju, ali se žale da organizacija zadržava 50%.",
+    "complaints": [
+      "Netačno praćenje distance, beleži deliće pređenog (~12)",
+      "Ne vidi se koliko je donirano, sumnja u legitimnost (~4)",
+      "Aplikacija mora biti otvorena, prekid kida streak-ove (~3)",
+      "Kodovi organizacija i podrška ne rade (~2)"
+    ],
+    "suggestions": [
+      "Prikaz ukupno doniranog",
+      "Bolji sync sa Fitbit/Garmin/telefonom",
+      "Više organizacija (npr. Special Olympics)"
+    ],
+    "praise": [
+      "Dobar cilj - pomaže drugima uz vežbanje",
+      "Dugogodišnja upotreba i motivacija",
+      "Brza chat podrška"
+    ],
+    "opportunity": "Pasivno brojanje koraka iz Health servisa i transparentan 'impact' prikaz koji se deli; za Gen Z grupni izazovi za kauzu.",
+    "growth": "~12,3 ocene/dan od 2012 (65.236); recenzije 1 naspram 3 - opadanje.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/charity-miles/id505253234",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6757958485": {
+    "name": "ScrollFit - PushUp App Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "App blocker koji otključava Instagram/TikTok tek kad uradiš sklekove ili čučnjeve, a AI pose detection kamerom broji svako ponavljanje pa nema varanja.",
+    "specifics": [
+      "Ključna mehanika: blokirane aplikacije + misija vežbanja za otključavanje, rasporedi, instant lock, 'Take a Break' posle mini treninga",
+      "Šta je deljivo: broj sklekova umesto skrolovanja (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata, pominju se $36–40/god i ~$20 nedeljno"
+    ],
+    "psych": "Trenje pre lošeg impulsa pretvoreno u dobru naviku: 'doing 100 squats a day and less scrolling'.",
+    "developer_type": "mali tim: Raukin LLC, 4 aplikacije",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) na iOS, Accessibility/UsageStats na Androidu, on-device pose detection (Apple Vision / ML Kit), rasporedi. Najveći rizik: odobrenje Family Controls entitlementa i paritet na Androidu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Telefon mi ne da TikTok dok ne uradim 10 sklekova' - snimak kamere koja broji ponavljanja.",
+    "monetization": "Hard paywall pretplata ($36–40/god, nedeljna opcija); mlada publika odbija cenu.",
+    "complaints": [
+      "Mora da se plati, nema besplatne verzije (~14)",
+      "Ne može da se obriše/vrati u normalu posle Screen Time dozvole (~4)",
+      "Nije otključalo posle odrađenih vežbi (~1)"
+    ],
+    "suggestions": [
+      "Besplatan nivo (npr. jedna blokirana aplikacija)",
+      "Jasan način za uklanjanje/isključivanje",
+      "Questovi i 'break' kartice kao nagrada"
+    ],
+    "praise": [
+      "Zaista smanjuje skrolovanje i tera na vežbu",
+      "Zabavno, osećaj napretka u snazi",
+      "Izbor vežbe i broja ponavljanja"
+    ],
+    "opportunity": "Freemium za tinejdžere i studente, streak sklekova i nedeljni izveštaj 'skrolovanje zamenjeno sa X sklekova' kao deljiva kartica; grupni izazov sa prijateljima.",
+    "growth": "Izašla januara 2026; 3.183 ocena (~12,1/dan); recenzije 8 naspram 13 - blago usporavanje.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/scrollfit-pushup-app-blocker/id6757958485",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

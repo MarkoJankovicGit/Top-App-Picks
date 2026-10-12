@@ -1,0 +1,459 @@
+{
+  "6758055385": {
+    "name": "PlateLens: AI Calorie Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "AI brojač kalorija sa slike uz 12 AI coach ličnosti i nedeljne lige za doslednost logovanja.",
+    "specifics": [
+      "Ključna mehanika: slikaš obrok, AI daje kalorije i makroe",
+      "Šta je deljivo: ograničeno; lige i izazovi prijatelja",
+      "Društveni sloj: nedeljne lige, izazovi prijatelja",
+      "Monetizacija: pretplata ~6,99 USD/mes, recenzije pominju ~80 USD; 'free' nivo sa 2 skena dnevno"
+    ],
+    "psych": "Kvantifikacija i niz logovanja. Dokaz: 'I used to have MyFitnessPal but couldn't be consistent. Platelens has helped me.'",
+    "developer_type": "firma (VisionTech Solutions LLC, 1 aplikacija; procena: mali tim)",
+    "build_weeks": 6,
+    "build_notes": "Vision LLM API, baza namirnica i bar-kod, HealthKit, lige. Najveći rizik: tačnost (glavna žalba) i troškovi AI poziva.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Slikam tanjir i za 3 sekunde znam koliko proteina sam pojeo.'",
+    "monetization": "Pretplata ~6,99 USD/mes (recenzije), godišnje ~80 USD; ograničen free.",
+    "complaints": [
+      "Netačni podaci za bar-kod i AI (8)",
+      "'Free' nije stvarno besplatno (3)",
+      "Pogrešna naplata i loša podrška (3)"
+    ],
+    "suggestions": [
+      "Veća baza namirnica",
+      "Bolja AI korekcija unosa"
+    ],
+    "praise": [
+      "Jednostavnost slikanja",
+      "AI coach",
+      "Sve na jednom mestu (voda, koraci, makroi)"
+    ],
+    "opportunity": "Kategorija je zasićena (Cal AI); prostor je samo u društvenom sloju i tačnosti, nije prioritet za nas.",
+    "growth": "3.5 ocena/dan od izlaska (2026-02-05, 249 dana, 871 US ocena, prosek 4.7); recenzije 30d: 5 naspram 6 prethodnih 30d. Mlada aplikacija sa jakim tempom, recenzije stabilne; verovatno plaćeni marketing (oznaka praćenja).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/platelens-ai-calorie-counter/id6758055385",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1192413645": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Chris Heria/Thenx) sa velikom bibliotekom profesionalnog video sadržaja.",
+    "name": "Thenx: Calisthenics Training"
+  },
+  "6748910976": {
+    "name": "Cal Plus - AI Calorie Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Besplatan AI brojač kalorija sa grupama gde prijatelji vide obroke, reaguju i komentarišu, plus skeniranje menija i frižidera.",
+    "specifics": [
+      "Ključna mehanika: slika ili bar-kod → kalorije; grupe sa dnevnim napretkom",
+      "Šta je deljivo: obroci u grupi",
+      "Društveni sloj: grupe, reakcije, komentari",
+      "Monetizacija: besplatno sa reklamama, kupovina za uklanjanje reklama"
+    ],
+    "psych": "Polaganje računa grupi. Dokaz: 'The milestone feature is fun to keep track of your streaks.'",
+    "developer_type": "solo (Dilsahib Singh Bhatia, lično ime, 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Vision LLM, baza hrane, grupe i feed (backend), reklame. Najveći rizik: trošak AI uz besplatan model.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Jedini AI brojač kalorija koji je stvarno besplatan.'",
+    "monetization": "Besplatno uz reklame; plaćeno uklanjanje reklama.",
+    "complaints": [
+      "Netačne kalorije i makroi (4)",
+      "Previše reklama (3)"
+    ],
+    "suggestions": [
+      "Manje reklama pri skeniranju"
+    ],
+    "praise": [
+      "Potpuno besplatno",
+      "Čist UI",
+      "Sve u jednoj aplikaciji"
+    ],
+    "opportunity": "Grupe za ishranu sa prijateljima su zanimljiv deo; samostalno nije naša niša.",
+    "growth": "3.48 ocena/dan od izlaska (2025-07-30, 439 dana, 1525 US ocena, prosek 4.82); recenzije 30d: 1 naspram 0 prethodnih 30d. Solidan tempo za solo developera, ali skoro bez novih recenzija u 60 dana.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 2,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/cal-plus-ai-calorie-tracker/id6748910976",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "950669893": {
+    "name": "Weight Loss Walking by Slimkit",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Intervalni program hodanja za mršavljenje (3 meseca, audio instrukcije) umesto običnog brojača koraka.",
+    "specifics": [
+      "Ključna mehanika: gotov plan hodanja sa ubrzanjima i audio vođenjem",
+      "Šta je deljivo: mapa šetnje i statistika",
+      "Društveni sloj: deljenje na Facebook/Twitter",
+      "Monetizacija: 9,99 USD/mes, 41,99 USD/6 mes, 59,99 USD lifetime"
+    ],
+    "psych": "Vidljiv napredak kroz plan; slab Gen Z ugao. Dokaz: 'I have definitely felt the results of all the walking.'",
+    "developer_type": "firma (MONTIBUS LTD, Kipar prema recenzijama, 4 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "GPS, HealthKit, audio vođenje, plan treninga. Najveći rizik: reputacija i tačnost koraka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Hodaš kao i inače, ali sa ubrzanjima koja duplo više troše.'",
+    "monetization": "Pretplata 9,99 USD/mes, 41,99 USD/6 mes, 59,99 USD lifetime; prodaja i preko weba/Instagrama.",
+    "complaints": [
+      "Nemoguće otkazivanje i neovlašćena naplata (12)",
+      "Reklame ne odgovaraju aplikaciji (traka za trčanje) (5)",
+      "Netačno brojanje koraka (5)"
+    ],
+    "suggestions": [
+      "Plan za traku za trčanje",
+      "Opcija za bicikl",
+      "Ručna izmena koraka"
+    ],
+    "praise": [
+      "Plan daje rezultate",
+      "Jednostavno"
+    ],
+    "opportunity": "Hodanje za Gen Z bi trebalo društveni ili izazovni sloj; ovaj model zavisi od plaćenih reklama.",
+    "growth": "3.46 ocena/dan od izlaska (2015-01-11, 4292 dana, 14832 US ocena, prosek 4.41); recenzije 30d: 4 naspram 7 prethodnih 30d. Stara aplikacija, stabilan tempo, recenzije u padu; rast iz plaćenih reklama (FB/IG).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/weight-loss-walking-by-slimkit/id950669893",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "966057213": {
+    "name": "Focus To-Do: Focus Timer&Tasks",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Pomodoro tajmer spojen sa to-do listom i sinhronizacijom na svim uređajima; jak među studentima i ADHD korisnicima.",
+    "specifics": [
+      "Ključna mehanika: zadatak → pomodoro → statistika vremena",
+      "Šta je deljivo: malo",
+      "Društveni sloj: nema",
+      "Monetizacija: premium/lifetime, deo funkcija iza web paywalla"
+    ],
+    "psych": "Struktura i vidljivo vreme fokusa. Dokaz: 'Only reason I graduated college.'",
+    "developer_type": "firma (Shenzhen Tomato Software Technology Co., Ltd., 3 aplikacije)",
+    "build_weeks": 7,
+    "build_notes": "Taskovi, tajmer, sinhronizacija više platformi, Screen Time blokada. Najveći rizik: obim (desktop, web, ekstenzije).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Aplikacija zbog koje sam diplomirao.'",
+    "monetization": "Premium pretplata i lifetime; cene nisu vidljive.",
+    "complaints": [
+      "Blokiranje aplikacija ne radi na iOS (4)",
+      "Bugovi (widget, tajmer se resetuje) (4)",
+      "Pop-up reklame za premium i web paywall (2)"
+    ],
+    "suggestions": [
+      "Hard blocking bez pauze",
+      "Više pozadina i boja",
+      "Ikonice po zadatku"
+    ],
+    "praise": [
+      "Pomaže kod ADHD-a",
+      "Sinhronizacija na svim uređajima",
+      "Dosta besplatno"
+    ],
+    "opportunity": "Više utility nego navika; nema jasan zaokret za nas.",
+    "growth": "3.46 ocena/dan od izlaska (2015-03-01, 4243 dana, 14663 US ocena, prosek 4.8); recenzije 30d: 4 naspram 4 prethodnih 30d. Stara aplikacija, stabilne recenzije; zrela, bez rasta.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focus-to-do-focus-timer-tasks/id966057213",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6462694790": {
+    "name": "ParrotPal: Calorie Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Brojač kalorija preko glasa i teksta sa samo tri navike (ishrana, kretanje, balans) i dnevnim podcastom kao podrškom.",
+    "specifics": [
+      "Ključna mehanika: izgovoriš šta si jeo, AI proceni kalorije; dnevni zadaci",
+      "Šta je deljivo: malo",
+      "Društveni sloj: nema (podcast kao parasocijalna podrška)",
+      "Monetizacija: godišnja pretplata ~39,99 USD"
+    ],
+    "psych": "Pojednostavljenje i doslednost. Dokaz: 'For someone with ADHD, I can wrap my head around this approach.'",
+    "developer_type": "mali tim (ParrotPal Ltd, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Speech-to-text, LLM procena, bar-kod, podcast sadržaj. Najveći rizik: tačnost i sadržaj podcasta.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Samo kažem šta sam jeo i to je to.'",
+    "monetization": "Pretplata ~39,99 USD/god; funnel preko Instagram kviza.",
+    "complaints": [
+      "Netačne kalorije (5)",
+      "Naplata posle otkazivanja (4)",
+      "Dugačak onboarding i paywall (3)",
+      "Notifikacije i bugovi (3)"
+    ],
+    "suggestions": [
+      "Praćenje vode (2)",
+      "Vratiti data dugme"
+    ],
+    "praise": [
+      "Lako logovanje glasom",
+      "Dnevni podcast",
+      "Doslednost i gubitak kilograma"
+    ],
+    "opportunity": "Glasovno logovanje je dobar UX detalj, ali kategorija nije naša i zavisi od plaćenog funnela.",
+    "growth": "3.45 ocena/dan od izlaska (2023-10-10, 1098 dana, 3787 US ocena, prosek 4.74); recenzije 30d: 0 naspram 1 prethodnih 30d. Solidan tempo, gotovo bez novih recenzija; rast iz plaćenih Instagram reklama.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/parrotpal-calorie-tracker/id6462694790",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1445478723": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (USA TODAY), igre i sadržaj; nije self-improvement.",
+    "name": "USA TODAY PLAY Crosswords"
+  },
+  "1603664467": {
+    "exclude": true,
+    "exclude_reason": "Igra (simulator života), nije self-improvement.",
+    "name": "Everlife - Life Simulator"
+  },
+  "6476824223": {
+    "name": "HelloHabit - Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Habit tracker i lista zadataka sa vizuelnom mrežom, quit trackerima i dnevnikom u kome se pisanje automatski broji kao navika.",
+    "specifics": [
+      "Ključna mehanika: navike sa ciljevima, nizovima i Health sinhronizacijom",
+      "Šta je deljivo: mreža navika (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ~14,99 USD (recenzije), 5 navika besplatno"
+    ],
+    "psych": "Nizovi i vizuelna mreža. Dokaz: 'I've read more in 10 days than I have in 10 years.'",
+    "developer_type": "mali tim (RightLife, Inc., 1 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + sinhronizacija, HealthKit, Apple Watch, widgeti. Najveći rizik: diferencijacija u zasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": false,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Jedina habit aplikacija koja ima sve.'",
+    "monetization": "Pretplata (14,99 USD navedeno, recenzija pominje 30 USD); free do 5 navika.",
+    "complaints": [
+      "Samo 5 navika besplatno (3)",
+      "Bug sa beleškama (2)",
+      "Apple Watch sinhronizacija (1)",
+      "Pogrešna naplata (1)"
+    ],
+    "suggestions": [
+      "Sinhronizacija težine i sna iz Health",
+      "Lifetime opcija",
+      "Više besplatnih navika"
+    ],
+    "praise": [
+      "Prilagodljivost",
+      "Pomaže kod ADHD-a",
+      "Brza podrška"
+    ],
+    "opportunity": "Dobar generički tracker bez zaokreta; nije dovoljno za viralnost.",
+    "growth": "3.41 ocena/dan od izlaska (2024-02-28, 957 dana, 3258 US ocena, prosek 4.86); recenzije 30d: 1 naspram 1 prethodnih 30d. Stabilan tempo ocena, vrlo malo novih recenzija.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/hellohabit-habit-tracker/id6476824223",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1175346453": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (zvanični partner HYROX-a) sa velikom bibliotekom profesionalnog video sadržaja.",
+    "name": "pliability: Stretch & Mobility"
+  },
+  "1534757407": {
+    "exclude": true,
+    "exclude_reason": "Golf trening uz fizički pribor i specijalizovan sportski sadržaj; nije opšta navika i zahteva hardver.",
+    "name": "The Stack System"
+  },
+  "6777871057": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su novac i gift kartice (finansijska nagrada).",
+    "name": "PaceGains: Walk & Gain More"
+  },
+  "1501671678": {
+    "exclude": true,
+    "exclude_reason": "Hardver (Tempo smart gym), biometrija i body scanning; ne može za 2 meseca.",
+    "name": "Tempo: Home Workout & Fitness"
+  },
+  "1288178982": {
+    "exclude": true,
+    "exclude_reason": "Usluga sa pravim personalnim trenerima; nije aplikacija koja se pravi za 2 meseca.",
+    "name": "Future Pro: Personal Training"
+  },
+  "1503465416": {
+    "name": "BetterTogether: Weight Loss",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "Mršavljenje kao grupni izazov sa ljudima koje već poznaješ: link pozivnica, nagrada za pobednika, rang lista i chat.",
+    "specifics": [
+      "Ključna mehanika: izazov za kilograme, korake ili vodu sa dnevnim vaganjem i rang listom",
+      "Šta je deljivo: link pozivnica, rang lista",
+      "Društveni sloj: grupe, chat, nagrada za pobednika",
+      "Monetizacija: mesečna/godišnja/lifetime (59,99 USD); svaki učesnik mora da plati"
+    ],
+    "psych": "Grupni izazov i polaganje računa poznatim ljudima. Dokaz: 'Three of my sisters and I love working together to get slimmer.'",
+    "developer_type": "mali tim (Social First Ltd., 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Backend sa grupama, chatom i rang listom, HealthKit/Health Connect, Fitbit, AI log hrane. Najveći rizik: pouzdanost sinhronizacije i chat.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ja i moje cimerke smo se kladile ko će prva skinuti 5 kg – evo rang liste.'",
+    "monetization": "Pretplata mesečna/godišnja, lifetime 59,99 USD; svaki član grupe mora da plati za ključne funkcije.",
+    "complaints": [
+      "Sve iza paywalla, svaki član mora da plati (5)",
+      "Bugovi: nestalo dugme za vaganje, chat ne radi (6)",
+      "Loša Apple Health integracija (2)",
+      "Previše notifikacija i pop-upa (3)"
+    ],
+    "suggestions": [
+      "Pretplata koja važi za celu grupu",
+      "Bolja Health sinhronizacija",
+      "Isključivanje notifikacija"
+    ],
+    "praise": [
+      "Motivacija kroz takmičenje sa porodicom i prijateljima",
+      "Accountability",
+      "AI slikanje hrane"
+    ],
+    "opportunity": "Model 'jedan plaća za grupu' i izazovi za Gen Z navike (koraci, teretana, spavanje) umesto samo kilaže.",
+    "growth": "3.28 ocena/dan od izlaska (2020-04-05, 2381 dana, 7806 US ocena, prosek 4.71); recenzije 30d: 1 naspram 2 prethodnih 30d. Stara aplikacija, stabilan tempo, recenzije skoro stoje; organski rast kroz pozivnice.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/bettertogether-weight-loss/id1503465416",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

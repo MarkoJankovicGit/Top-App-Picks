@@ -1,0 +1,303 @@
+{
+  "1522405338": {
+    "exclude": true,
+    "exclude_reason": "Klađenje/staking na esports mečeve.",
+    "name": "1v1Me - Esports Staking"
+  },
+  "6444819615": {
+    "name": "Cape: App to Pause Excess",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Screen time blokator koji automatski pauzira aplikacije po limitu, rasporedu ili lokaciji (Allow/Block zone) i prikazuje lični ekran pauze.",
+    "specifics": [
+      "Ključna mehanika: dnevni limiti, pauze, odloženo vraćanje, zone po lokaciji, Shortcuts",
+      "Šta je deljivo: malo (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: Pro (doživotna kupovina pomenuta u recenzijama), besplatno 4 aplikacije"
+    ],
+    "psych": "Trenje pre otvaranja smanjuje impulsivno korišćenje; korisnici koriste i za privatnost: 'I can block all apps' kad deca uzmu telefon.",
+    "developer_type": "mali tim: Air Matters Network Pty Ltd sa 3 aplikacije",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls, ManagedSettings, DeviceActivity), lokacija; na Androidu Accessibility/UsageStats. Najveći rizik: Apple entitlement i nestabilnost API-ja između iOS verzija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Moj telefon sam zaključava TikTok čim stignem na posao.",
+    "monetization": "Freemium sa Pro otključavanjem; korisnici traže više besplatno.",
+    "complaints": [
+      "Update 4.0 pokvario skrivanje i 'resume' (~10)",
+      "Pro licenca izgubljena pri promeni Apple ID (~3)",
+      "Premalo besplatno (4 aplikacije, on-demand) (~4)",
+      "Raspored i lokacijske zone ne rade (~2)"
+    ],
+    "suggestions": [
+      "Besplatna incognito šifra",
+      "Više besplatnih aplikacija",
+      "Vratiti skrivanje aplikacija",
+      "Android verzija"
+    ],
+    "praise": [
+      "Skrivanje aplikacija od drugih",
+      "Automatska blokada po lokaciji (posao/kuća)"
+    ],
+    "opportunity": "Fokus na Gen Z navike (zarađeno vreme, nizovi bez doomscrolla) umesto privatnosti, uz stabilnost na novim iOS verzijama.",
+    "growth": "11.1 ocena dnevno od dec 2022; recenzije 30d 3 naspram 3, stagnacija; većina recenzija van US i posle lošeg update-a.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/cape-app-to-pause-excess/id6444819615",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1611151299": {
+    "exclude": true,
+    "exclude_reason": "Kupovina: aplikacija skincare brenda (Typology).",
+    "name": "Typology Paris - Skincare"
+  },
+  "1312926037": {
+    "name": "stoic. journal & mental health",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Dnevnik strukturisan kao jutarnja priprema i večernja refleksija sa svaki dan novim pitanjima, praćenjem raspoloženja i navika.",
+    "specifics": [
+      "Ključna mehanika: AM/PM check-in, vođeni dnevnici, mood i habit tracker, AI uvidi",
+      "Šta je deljivo: citati i estetika dnevnika (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ~$40/god, viši nivo ~$99 (iz recenzija)"
+    ],
+    "psych": "Dva dnevna ritual-momenta drže doslednost: 'not one but two reminders of how your day went and could go'.",
+    "developer_type": "mali tim: Stoic app inc. sa 5 aplikacija; etabliran (4M korisnika, Apple feature)",
+    "build_weeks": 6,
+    "build_notes": "Promptovi i šabloni, lokalno skladište + sync, mood grafici, LLM uvidi. Najveći rizik: kvalitet i količina sadržaja promptova.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Ova 2 pitanja ujutru i 1 uveče su mi promenila godinu.",
+    "monetization": "Pretplata sa trialom; deo korisnika plaća godinama, deo prijavljuje naplatu posle triala ($40–$99).",
+    "complaints": [
+      "Agresivan paywall i naplata posle triala (~7)",
+      "Unosi se ne čuvaju, Mac app (~1)",
+      "Previše funkcija i stalni upsell (~2)",
+      "Uklonjeni widgeti, ne može brisanje naloga (~2)"
+    ],
+    "suggestions": [
+      "Audio unos",
+      "Cloud sync u besplatnoj verziji",
+      "Manje pritiska na premium"
+    ],
+    "praise": [
+      "AM/PM struktura",
+      "Svaki dan nova pitanja",
+      "Dugoročno korišćenje, pomoć mentalnom zdravlju"
+    ],
+    "opportunity": "Jednostavnija verzija sa nizom i vidljivim mesečnim pregledom, bez preopterećenja funkcijama.",
+    "growth": "11.05 ocena dnevno od 2017; recenzije 30d 12 naspram 11, stabilno. Zrela aplikacija bez znakova ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stoic-journal-mental-health/id1312926037",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6760378459": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker (krvni pritisak/šećer/puls kamerom), fabrika aplikacija (X-PIONEER HK).",
+    "name": "HealthPro: Blood Sugar"
+  },
+  "1621719397": {
+    "name": "Stronger - Gym Workout Planner",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Gym log koji tvoje podizanje pretvara u Strength Score i rang (lifts poređeni sa životinjama), uz grupe koje se takmiče u izazovima.",
+    "specifics": [
+      "Ključna mehanika: beleženje serija, Strength Score i rang po mišićnoj grupi, AI coach",
+      "Šta je deljivo: rang i pregled treninga (screenshot)",
+      "Društveni sloj: lifting grupe i izazovi",
+      "Monetizacija: pretplata $39.99/god, 7 dana trial, bez free nivoa"
+    ],
+    "psych": "Kvantifikovan rang daje identitet i takmičenje: 'I got my friend into it and it really motivates us to go'.",
+    "developer_type": "mali tim: Atlas Smart Technologies LTD sa 3 aplikacije",
+    "build_weeks": 7,
+    "build_notes": "Baza vežbi sa GIF-ovima (licencirana ili gotova), logovanje, backend za grupe, AI plan. Najveći rizik: obim baze vežbi i UX logovanja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Aplikacija kaže da moj bench vredi kao gorila, koliko vredi tvoj?",
+    "monetization": "Pretplata $39.99 godišnje; deo korisnika smatra cenu fer, deo se buni na nedostatak free nivoa.",
+    "complaints": [
+      "Hard paywall, zaglavljen trial ekran (~7)",
+      "Novi UI pokvario istoriju i funkcije (~6)",
+      "Bagovi: unos težine, padovi tokom treninga (~6)",
+      "Naplata posle otkazivanja (~3)"
+    ],
+    "suggestions": [
+      "Rest timer na Dynamic Island",
+      "Auto-završetak zaboravljenog treninga",
+      "Rang 'ti protiv sebe'",
+      "Vratiti brzi pregled treninga za screenshot"
+    ],
+    "praise": [
+      "Lako beleženje treninga",
+      "Rang sistem i poređenje sa životinjama",
+      "Motivacija sa prijateljima"
+    ],
+    "opportunity": "Rang 'ti protiv sebe' plus deljiva kartica ranga posle svakog treninga, bez hard paywalla na start.",
+    "growth": "10.99 ocena dnevno od maja 2022; recenzije 30d 6 naspram 16, pad nakon problematičnog UI update-a.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stronger-gym-workout-planner/id1621719397",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6746534819": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker (šećer/puls), fabrika aplikacija (X-SPARK HK).",
+    "name": "RateTracker:Blood Sugar"
+  },
+  "866450515": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Forest, 60M korisnika), ne mali developer.",
+    "name": "Forest: Focus for Productivity"
+  },
+  "6471547318": {
+    "exclude": true,
+    "exclude_reason": "Firma sa AI planovima i velikom bibliotekom vežbi; nagli skok recenzija (164 vs 36) ukazuje na plaćeni marketing.",
+    "name": "Muscle Monster Workout Planner"
+  },
+  "1049234587": {
+    "exclude": true,
+    "exclude_reason": "Veliki brend (Sweat, Kayla Itsines), velika biblioteka profesionalnog video sadržaja.",
+    "name": "Sweat: Fitness App For Women"
+  },
+  "6746784659": {
+    "name": "Her 75",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "75 Hard tracker za devojke u kojem radiš izazov sa prijateljicama i vidiš njihove to-do liste uživo, uz estetski 'cute' dizajn i varijante (75 Soft, Medium, Sugar Free).",
+    "specifics": [
+      "Ključna mehanika: izbor ili kreiranje 75-dnevnog izazova, dnevna checklista, voda",
+      "Šta je deljivo: profil sa slikama i napredak izazova",
+      "Društveni sloj: prijateljice vide liste uživo",
+      "Monetizacija: hard paywall, $7.99/ned, $14.99/mes, $49.99/god"
+    ],
+    "psych": "Javna obaveza pred prijateljicama i estetika: 'this app really holds you accountable and you get to connect with so many other people'.",
+    "developer_type": "mali tim (procena): HER 75 sa 2 aplikacije, Notion stranice za pravne dokumente",
+    "build_weeks": 4,
+    "build_notes": "Šabloni izazova, checklista, backend za prijatelje i feed, paywall. Najveći rizik: pouzdan sistem prijatelja (glavni bag) i pauza izazova.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Ja i moje 3 drugarice radimo 75 Soft zajedno i vidimo jedna drugoj listu uživo, dan 1.",
+    "monetization": "Hard paywall bez besplatnog nivoa, nedeljna/mesečna/godišnja pretplata; mnoge kupuju odmah, deo se buni.",
+    "complaints": [
+      "Hard paywall, 'na društvenim mrežama piše besplatno' (~6)",
+      "Dodavanje prijatelja ne radi (~3)",
+      "Glorifikovana checklista bez sadržaja (~3)",
+      "AI reklame sa lažnim transformacijama (~3)"
+    ],
+    "suggestions": [
+      "Pauza izazova (npr. putovanje)",
+      "Pouzdano dodavanje prijatelja",
+      "Programi treninga i ishrane",
+      "Besplatan probni period"
+    ],
+    "praise": [
+      "Estetika i 'cute' dizajn (~8)",
+      "Odgovornost i zajednica",
+      "Prilagođeni izazovi"
+    ],
+    "opportunity": "Isti koncept sa stabilnim društvenim slojem, pauzom, trialom i deljivim dnevnim karticama napretka umesto AI reklama.",
+    "growth": "10.83 ocena dnevno od juna 2025; recenzije 30d 2 naspram 6, opada. Mnogo 5* recenzija na dan kupovine; rast deluje kampanjski (TikTok AI reklame pominjane u recenzijama).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/her-75/id6746784659",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1491268416": {
+    "exclude": true,
+    "exclude_reason": "AI igra/generator priča, nije lična navika; zahteva skup LLM infrastrukturni sloj.",
+    "name": "AI Dungeon: RPG & Story Maker"
+  },
+  "1642245321": {
+    "exclude": true,
+    "exclude_reason": "Move-to-earn sa novčanim nagradama i praćenjem vožnje, firma; jezgro je zarada.",
+    "name": "GeoSmile - Move to Earn Money"
+  },
+  "6739950076": {
+    "exclude": true,
+    "exclude_reason": "Zahteva hardver (NFC blok za gašenje alarma).",
+    "name": "Unbed"
+  },
+  "1244690083": {
+    "exclude": true,
+    "exclude_reason": "Sadržajna aplikacija (350+ priča, 200 meditacija), velika biblioteka profesionalnog audio sadržaja.",
+    "name": "Sleepiest Meditation for Sleep"
+  }
+}

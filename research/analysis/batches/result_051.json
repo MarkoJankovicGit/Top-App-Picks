@@ -1,0 +1,354 @@
+{
+  "1567563050": {
+    "exclude": true,
+    "exclude_reason": "Mobilni operater (telekom usluga), nije navika.",
+    "name": "RedPocket"
+  },
+  "6758313020": {
+    "name": "Escape - Adult Content Blocker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Porn blocker koji je besplatan zauvek u Safariju bez naloga, a plaća se 'oporavak': Urge Flow disanje u trenutku poriva, dnevni rituali, 'The Mirror' i put napretka sa AI rezimeom.",
+    "specifics": [
+      "Ključna mehanika: Safari content blocker + Screen Time blokada aplikacija + 'I relapsed' brzi restart",
+      "Šta je deljivo: malo (stigma teme); eventualno broj čistih dana",
+      "Društveni sloj: nema vidljivog",
+      "Monetizacija: freemium, premium za Deep Block u svim browserima i rituale"
+    ],
+    "psych": "Trenje u trenutku poriva umesto oslanjanja na volju; recenzija: 'It's giving me enough friction to say no to urges'.",
+    "developer_type": "mali tim (Winter Labs Inc., 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Safari Content Blocker ekstenzija sa listom domena, Screen Time API (FamilyControls/ManagedSettings), lokalni progres, AI rezime. Android ekvivalent preko Accessibility/VPN je teži. Najveći rizik: zaobilaženje (Images tab, drugi browseri) i App Store odobrenje Family Controls.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Dan 30 bez porna: evo šta se promenilo' (NoFap creator format).",
+    "monetization": "Freemium: blokada u Safariju besplatna, premium pretplata (cene nisu vidljive)",
+    "complaints": [
+      "Zaobilaženje: Images tab u Safariju, Opera GX i drugi browseri (~2)",
+      "Ekstenzija ne može da se uključi u podešavanjima (1)",
+      "Korisnik tvrdi da nije besplatno, mora pretplata (1)"
+    ],
+    "suggestions": [
+      "Verzija za Mac/računar",
+      "Pokriti sve browsere i pretragu slika u besplatnoj verziji",
+      "Dodavanje predloženih domena na listu (podrška brzo reaguje)"
+    ],
+    "praise": [
+      "Zaista besplatno, bez mamaca i reklama",
+      "Brz restart posle recidiva i nema osude",
+      "Podrška koja reaguje i deluje iskreno"
+    ],
+    "opportunity": "Dodati anonimni 'partner za odgovornost' i deljivi brojač dana bez stigme, uz jaču zaštitu od zaobilaženja kao glavni premium argument.",
+    "growth": "Izašla 2026-02-03 (~251 dan), 299 ocena, 1,19/dan; recenzije 2 (30d) naspram 5 (prethodnih 30d). Brz start za novu aplikaciju, blagi pad aktivnosti recenzija.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/escape-adult-content-blocker/id6758313020",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1512936641": {
+    "exclude": true,
+    "exclude_reason": "Igra (roguelike RPG), licencirani IP, nije navika.",
+    "name": "Elona Mobile"
+  },
+  "6612027371": {
+    "name": "GenK: Daily Learning & Quiz",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "'Duolingo za opšte znanje': lekcije od 2 minuta kao zamena za doomscroll, uz kvizove, XP, nivoe, niz dana i doomscroll blocker.",
+    "specifics": [
+      "Ključna mehanika: dnevna putanja lekcija + kviz posle svake + ponavljanje",
+      "Šta je deljivo: zanimljive činjenice, streak",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: pretplata; kvizovi i ponavljanje iza paywalla"
+    ],
+    "psych": "Zamena loše navike (skrol) bržom korisnom alternativom uz niz dana; recenzija: 'Thx for keeping me off social media!'.",
+    "developer_type": "mali tim (NOERDEN, 5 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Sadržaj generisan AI-jem uz ljudsku proveru, CMS, kviz engine, streak/XP, Screen Time blokator. Najveći rizik: tačnost AI sadržaja (halucinacije su ponovljena žalba) i trošak kvalitetne redakcije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Zamenila sam 2 sata TikToka sa 5 minuta ove aplikacije i sad pobeđujem na svakom pub kvizu.'",
+    "monetization": "Pretplata, freemium vrlo ograničen; oznaka praćenja, recenzija pominje dolazak preko reklame",
+    "complaints": [
+      "Previše iza paywalla, besplatna verzija skoro neupotrebljiva (~10)",
+      "AI sadržaj: halucinacije i netačne činjenice (~6)",
+      "Pogrešna kviz pitanja (~2)",
+      "Doomscroll blocker zamrzava telefon (1)"
+    ],
+    "suggestions": [
+      "Izvori uz svaku lekciju",
+      "Više besplatnog sadržaja (bar kviz)",
+      "Izbor tema i uzrasnih grupa",
+      "Dodati igre / više interaktivnosti"
+    ],
+    "praise": [
+      "Bolja alternativa skrolovanju društvenih mreža",
+      "Kratke, raznovrsne i zanimljive lekcije",
+      "Nešto novo naučim svaki dan za par minuta"
+    ],
+    "opportunity": "Verifikovan sadržaj sa izvorima i takmičarski sloj (dnevni kviz duel sa prijateljima, liga) uz pošteniji freemium.",
+    "growth": "Izašla 2024-10-07, 844 ocene, 1,15/dan; recenzije 0 (30d) naspram 2 (prethodnih 30d). Usporava; deo rasta verovatno plaćen (reklame).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/genk-daily-learning-quiz/id6612027371",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1315396498": {
+    "name": "Drink Water Aquarium",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Water tracker u kome se akvarijum puni sa svakim gutljajem, ribica pleše, a vremenom se otključavaju nove ribice i pozadine.",
+    "specifics": [
+      "Ključna mehanika: unos vode puni akvarijum i otključava ribice/poklone",
+      "Šta je deljivo: akvarijum kao widget/screenshot",
+      "Društveni sloj: nema",
+      "Monetizacija: reklame + pretplata ~4 USD mesečno / 35 USD godišnje (iz recenzije), rewarded ads za ribice"
+    ],
+    "psych": "Kolekcionarstvo i briga o ljubimcu pretvaraju dosadnu naviku u igru; recenzija: 'I love getting a new fish every day'.",
+    "developer_type": "solo (Andreas Budde, ime fizičkog lica, 1 aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Lokalni podaci, notifikacije, widgeti, Apple Watch, animacije/ilustracije, iCloud sync. Nema backenda. Najveći rizik: kvalitet ilustracija i animacija (korisnici kritikuju 'AI' grafiku i ribice koje se okreću kao karton).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moje ribice umiru ako ne pijem vodu' - POV dok se akvarijum puni.",
+    "monetization": "Freemium: banner reklame + pretplata ~4 USD/mes ili ~35 USD/god (recenzija); traži se jednokratna kupovina",
+    "complaints": [
+      "Nova grafika deluje kao AI, korisnici žale za starom (~3)",
+      "Neprikladne (seksualne) banner reklame (~2)",
+      "Ribice se ne kreću prirodno, malo interakcije (~3)",
+      "Cena pretplate previsoka za water tracker (1)"
+    ],
+    "suggestions": [
+      "Hraniti ribice vodom, veća nagrada za dnevni cilj",
+      "Imenovanje i prilagođavanje ribica, više akvarijuma i dekoracija",
+      "Prikaz unce/ml uz procenat na glavnom ekranu",
+      "Automatski preračun cilja po težini"
+    ],
+    "praise": [
+      "Slatko i zabavno, motiviše da se pije više vode",
+      "Jednostavno, korisna besplatna verzija sa widgetom i podsetnicima",
+      "Kolekcionarstvo ribica"
+    ],
+    "opportunity": "Pojačati sloj brige (ribica gladuje/raste), ručno crtana grafika, bez neprikladnih reklama, i deljivi akvarijum ili zajednički akvarijum sa prijateljima.",
+    "growth": "Izašla 2017-11-26, 3597 ocena, 1,11/dan; recenzije 3 (30d) naspram 0 (prethodnih 30d). Dug, stabilan organski rep; nedavni redizajn izazvao negativne reakcije.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/drink-water-aquarium/id1315396498",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6737147193": {
+    "exclude": true,
+    "exclude_reason": "Skener i preporuke skincare proizvoda (kupovina/utility), nije navika; oznaka praćenja.",
+    "name": "Lumi Skin:The Skincare Scanner"
+  },
+  "6448621270": {
+    "exclude": true,
+    "exclude_reason": "Igra (idle RPG), nije lična navika.",
+    "name": "Warshovel: Idle RPG"
+  },
+  "6746562271": {
+    "name": "Cat On Chair: Pomodoro Timer",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Pomodoro u stilu Forest, ali ručno crtana mačka sedi na stolici dok radiš, za uspešnu sesiju donosi poklon, za prekinutu smeće; pokloni se menjaju za ribu i nameštaj za mačkinu sobu.",
+    "specifics": [
+      "Ključna mehanika: fokus sesija -> poklon/smeće -> riba -> dekor sobe, kolekcija mačaka sezonski",
+      "Šta je deljivo: mačkina soba kao wallpaper, lock screen widget",
+      "Društveni sloj: 'study with friends' (pominje se u recenziji)",
+      "Monetizacija: freemium bez reklama, pro pretplata i lifetime kupovina"
+    ],
+    "psych": "Emocionalna veza sa ljubimcem i strah da ga razočaraš drže fokus; recenzija: 'helps me stay focused bc I don't want to upset my cat friend'.",
+    "developer_type": "mali tim (Cat On Desk Design Inc., 1 aplikacija; recenzije hvale ručno crtanu grafiku)",
+    "build_weeks": 6,
+    "build_notes": "Timer, Screen Time API (blokada i whitelist), widgeti, Shortcuts, ekonomija predmeta, ilustracije i animacije. Najveći rizik: kvalitet ilustracija je ključna vrednost (treba ilustrator), a blokada po rasporedu ponekad ne radi automatski.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Moja mačka mi donosi smeće svaki put kad uzmem telefon tokom učenja.'",
+    "monetization": "Freemium bez reklama, pretplata + lifetime opcija (cene nisu vidljive); korisnici hvale balans free/pro",
+    "complaints": [
+      "Posle update-a dve mačke se same smenjuju (1)",
+      "Noćna blokada se ne aktivira automatski (1)",
+      "Font za vijetnamski jezik (1)"
+    ],
+    "suggestions": [
+      "Prilagodljiv lik čoveka uz mačku",
+      "Pouzdana automatska blokada po rasporedu",
+      "Izbor omiljene mačke bez nasumične zamene"
+    ],
+    "praise": [
+      "Ručno crtana, slatka estetika i animacije (bez AI-ja)",
+      "ADHD-friendly, gamifikuje fokus i to-do listu",
+      "Velikodušna besplatna verzija i lifetime kupovina"
+    ],
+    "opportunity": "Pojačati društveni sloj (zajedničke sesije, mačke prijatelja u istoj sobi) i deljive kartice sesija za studijske TikTok/IG formate.",
+    "growth": "Izašla 2025-08-27 (~411 dana), 447 ocena, 1,09/dan; recenzije 11 (30d) naspram 14 (prethodnih 30d). Najaktivnija u paketu po recenzijama; jedna recenzija pominje Starter Story video kao izvor.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/cat-on-chair-pomodoro-timer/id6746562271",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1626839977": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka profesionalnog fizioterapijskog sadržaja (doktori fizikalne terapije), medicinski domen.",
+    "name": "Prehab: Physical Therapy, Pain"
+  },
+  "1227834875": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalnog mobility sadržaja, etablirana firma (1,7 mil. sportista).",
+    "name": "GOWOD – Mobility & Stretching"
+  },
+  "6447595893": {
+    "exclude": true,
+    "exclude_reason": "Generički app locker/hider (procena: deo omiapps portfolija), recenzije pokazuju da je glavna upotreba sakrivanje aplikacija/privatnost, bez diferencijatora.",
+    "name": "XLocker - Control Screen Time"
+  },
+  "6759512648": {
+    "name": "True Eve - Glow Up Face Rating",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Looksmaxxing aplikacija: AI ocena lica i 'attraction score', pa dnevna glow-up rutina sa ponovnim skeniranjem za praćenje napretka.",
+    "specifics": [
+      "Ključna mehanika: foto skeniranje -> ocena -> personalizovana dnevna rutina -> ponovni skenovi",
+      "Šta je deljivo: ocena lica / before-after",
+      "Društveni sloj: nema",
+      "Monetizacija: hard paywall pretplata (sve funkcije iza kupovine)"
+    ],
+    "psych": "Kvantifikacija izgleda daje brojku koju treba popraviti, ali sample recenzija pokazuje otpor; recenzija: 'They basically call you ugly'.",
+    "developer_type": "solo (NADEZDA MONIATIS, ime fizičkog lica, 1 aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Vision LLM API za analizu fotografije, generisanje rutine, pretplata, istorija skenova. Najveći rizik: etika i App Store pravila (ocenjivanje izgleda, maloletnici), negativan PR i generički saveti ('ChatGPT radi bolje').",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'AI mi je dao 6/10, pratila sam rutinu 30 dana, evo novog skora.'",
+    "monetization": "Hard paywall pretplata, uz oznaku praćenja; korisnici se žale da je reklamirano kao besplatno",
+    "complaints": [
+      "Nije besplatno iako se tako predstavlja (~5)",
+      "Generički, beskorisni saveti (voda, šminka, frizura) (~2)",
+      "Aplikacija čini da se osećaš ružno (~2)",
+      "Brisanje negativnih recenzija (tvrdnja korisnika) (1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni rezultat pre paywalla",
+      "Fokus na 'osećaj iznutra' i pozitivniji ton"
+    ],
+    "praise": [
+      "Nema pohvala u uzorku (uzorak od 7 recenzija je ceo ≤3)"
+    ],
+    "opportunity": "Preokrenuti u pozitivan glow-up habit tracker (dnevne navike nege, sna, vode, treninga sa before/after progresom) bez ocenjivanja privlačnosti.",
+    "growth": "Izašla 2026-03-09 (~217 dana), 231 ocena (prosek 4,41), 1,07/dan; recenzije 1 (30d) naspram 1 (prethodnih 30d). Rast verovatno pokreću reklame (oznaka praćenja).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/true-eve-glow-up-face-rating/id6759512648",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6480090626": {
+    "exclude": true,
+    "exclude_reason": "Telekom (Lifeline besplatni telefon), nije navika.",
+    "name": "TAG Mobile Wireless"
+  },
+  "1527544903": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka sadržaja (priče za učenje engleskog, 'Oxford content'); oznaka praćenja.",
+    "name": "Learn English Easily - iStoria"
+  },
+  "1616604572": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka mindset coaching sadržaja i brend (#1 mindset coaching), oznaka praćenja.",
+    "name": "NeuroGym® - Brain Training"
+  }
+}

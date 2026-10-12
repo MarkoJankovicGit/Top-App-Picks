@@ -1,0 +1,243 @@
+{
+  "6736955121": {
+    "name": "Parrot: Learn Spanish Language",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Španski kroz TikTok-oliki feed kratkih videa izvornih govornika: tapneš reč u titlu, sačuvaš je i odmah vežbaš. Može da uveze niz dana iz drugih aplikacija i sadi drvo za svaku prekretnicu.",
+    "specifics": [
+      "Ključna mehanika: vertikalni feed videa po nivou, prevod na tap, kratke vežbe posle videa, flashcards, personalizovana putanja.",
+      "Šta je deljivo: 'no sabo kid' priča i napredak u razumevanju (procena).",
+      "Društveni sloj: nema ga u opisu; nizovi, bedževi i izazovi su individualni.",
+      "Monetizacija: obavezan probni period pre korišćenja, pa godišnja pretplata (~$90 prema recenziji)."
+    ],
+    "psych": "Identitet 'no sabo kid' i osećaj da učiš pravi jezik umesto praznog niza: 'it helped me learn to not be a no sabo kid'.",
+    "developer_type": "mali startup ili firma (Parrot Learning Inc., 1 aplikacija, oznaka praćenja, recenzije pominju reklame)",
+    "build_weeks": 8,
+    "build_notes": "Video feed + titlovi sa tap-prevodom, SRS flashcards, prepoznavanje izgovora, backend. Najveći rizik: biblioteka videa izvornih govornika po nivoima (prava, produkcija, količina) i kvalitet titlova; zato granično za 2 meseca.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Kao no sabo kid, konačno sam razumeo šta mi baka govori, a učio sam samo skrolujući.",
+    "monetization": "Pretplata sa obaveznim probnim periodom; ~$90 godišnje prema recenziji; nema besplatnog sadržaja.",
+    "complaints": [
+      "Prisilni probni period, nema besplatne verzije (~8)",
+      "Naplata posle otkazivanja, nemoguće otkazivanje, samo AI podrška (~5)",
+      "Amaterski ili AI kvalitet, greške u sadržaju, zaključan redosled lekcija (~4)",
+      "Forsiran zahtev za ocenu i dug upitnik (~3)"
+    ],
+    "suggestions": [
+      "AI vežba govora ili role-play",
+      "Portugalski kao novi jezik",
+      "Latinoamerička varijanta umesto španske iz Španije",
+      "Bolja organizacija naučenih reči i teži testovi"
+    ],
+    "praise": [
+      "Praktičniji od Duolinga, realni jezik (~4)",
+      "Vraća samopouzdanje heritage govornicima ('no sabo kid') (~2)",
+      "Zabavno i blago zavisno kao feed (~2)"
+    ],
+    "opportunity": "Fokusirati se na heritage nišu 'no sabo kids' sa UGC videima kreatora (rešava i sadržaj i marketing), dodati AI govor i fer freemium bez prisilnog triala.",
+    "growth": "~23,3 ocene dnevno tokom ~23 meseca (16.158 ocena); recenzije padaju: 15 u 30d naspram 43 u prethodnih 30d, što ukazuje na slabljenje kampanje.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 2,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/parrot-learn-spanish-language/id6736955121",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1460782849": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (25M+ korisnika, 13 jezika, odbor eksperata), obimna profesionalna biblioteka sadržaja.",
+    "name": "Promova: Language Learning App"
+  },
+  "6762030901": {
+    "name": "Talko: Learn English with AI",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "AI partner za konverzaciju na engleskom za imigrante i strane studente, kroz scenarije iz svakodnevice (stan, lekar, restoran, policija) i AI lika sa sopstvenom ličnošću.",
+    "specifics": [
+      "Ključna mehanika: lekcija + glasovni razgovor sa AI likom u realnom scenariju.",
+      "Šta je deljivo: slabo, nema vidljivog mehanizma (procena).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: nije vidljiva u paketu (procena: pretplata)."
+    ],
+    "psych": "Smanjuje strah od govora vežbom bez socijalnog pritiska: 'literalmente un Duolingo de habla'.",
+    "developer_type": "mali tim ili firma (Soly Limited, 1 aplikacija, oznaka praćenja; recenzija pominje reklamu sa profesorkom)",
+    "build_weeks": 7,
+    "build_notes": "LLM + STT/TTS, scenarijski kurikulum, backend. Najveći rizik: prepoznavanje govora sa jakim akcentom (žalba da mikrofon ništa ne detektuje) i trošak glasa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "POV: prvi put zoveš stanodavca na engleskom i ne zamrzneš se.",
+    "monetization": "Nije vidljivo u paketu (procena: pretplata).",
+    "complaints": [
+      "Reklama se razlikuje od proizvoda (~1)",
+      "Mikrofon ne detektuje govor (~1)"
+    ],
+    "suggestions": [
+      "Prikaz transkripcije izgovora kao u reklami (~1, implicitno)"
+    ],
+    "praise": [
+      "Uči kroz igru i govor ('Duolingo de habla') (~2)",
+      "Scenariji prilagođeni potrebama, posebno poslovni engleski (~2)",
+      "Dobar UI (~1)"
+    ],
+    "opportunity": "Publika (imigranti koji uče engleski) nije naša US 18–24; mehanika scenarija mogla bi se preneti na Gen Z kroz scenarije socijalnog samopouzdanja (intervju za posao, prvi sastanak), ali je to drugi proizvod.",
+    "growth": "~23,1 ocena dnevno za ~5 meseci (3.712 ocena); recenzije rastu, 25 u 30d naspram 9. Recenzije su uglavnom kratke na španskom, deo deluje neautentično (procena). Rast verovatno vođen plaćenim reklamama.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 1,
+      "buildEase": 3,
+      "voiceOfCustomer": 1,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/talko-learn-english-with-ai/id6762030901",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1608898173": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra sa licencom (Ghostbusters), nema veze sa ličnom navikom.",
+    "name": "Heroes vs Hordes: Survival RPG"
+  },
+  "6747883721": {
+    "exclude": true,
+    "exclude_reason": "Klađenje i prediction market velikog brenda, regulisan domen.",
+    "name": "FanDuel Predicts"
+  },
+  "1221965482": {
+    "exclude": true,
+    "exclude_reason": "Generički water tracker iz fabrike fitness aplikacija (VGFIT, 6 aplikacija), oznaka praćenja.",
+    "name": "Water Reminder - Daily Tracker"
+  },
+  "1482780647": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalnog i licenciranog sadržaja (vizuelni vodiči kroz bestselere, kursevi sa profesorima).",
+    "name": "Imprint: Visual Micro Learning"
+  },
+  "1274601042": {
+    "exclude": true,
+    "exclude_reason": "Veliki brend (ICON/NordicTrack), 10.000+ snimljenih treninga i hardver.",
+    "name": "iFIT Workouts"
+  },
+  "1564900435": {
+    "exclude": true,
+    "exclude_reason": "Utility (ad blocker), firma sa više bezbednosnih aplikacija.",
+    "name": "Total Adblock - Ad Blocker"
+  },
+  "1474636588": {
+    "exclude": true,
+    "exclude_reason": "Finansijska pismenost: finansije nisu niša.",
+    "name": "Zogo: Learn and Earn"
+  },
+  "6446928128": {
+    "exclude": true,
+    "exclude_reason": "Generička pretplatna fitness aplikacija iz fabrike (Amoapps, 4 aplikacije), velika biblioteka treninga i plan ishrane.",
+    "name": "HARNA: Workout & Fitness"
+  },
+  "6762318743": {
+    "name": "Push Up Arena - Fitness Game",
+    "exclude": false,
+    "list": "A",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Sklekovi kao RPG borba: kamera broji ponavljanja, a svaki sklek udara bossa, čisti dungeon ili pobeđuje živog protivnika u 1v1 PvP duelu, uz rang do nivoa Champion.",
+    "specifics": [
+      "Ključna mehanika: brojanje ponavljanja kamerom (sklekovi, čučnjevi, trbušnjaci, plank), bossovi, dungeoni, horde mode, max reps, XP i leveli.",
+      "Šta je deljivo: rang ('push up rank'), pobeda nad bossom, rekord u max reps.",
+      "Društveni sloj: živi 1v1 PvP i rang lista; isti sistem rangova kao Gymbros/Liftoff prema recenziji.",
+      "Monetizacija: tvrdi paywall posle prvog bossa; ~$10 mesečno ili ~$120 godišnje, probni period 3 dana."
+    ],
+    "psych": "Takmičenje i trenutna igrovna povratna informacija pretvaraju dosadno ponavljanje u zabavu: 'it makes me motivated to workout instead of doomscrolling'.",
+    "developer_type": "mali tim (Airix LLC, 3 aplikacije, bez oznake praćenja; jedna recenzija pominje mnogo reklama)",
+    "build_weeks": 7,
+    "build_notes": "On-device pose detection (Apple Vision body pose / ML Kit Pose, bez sopstvenog modela), logika brojanja po vežbi, PvP backend u realnom vremenu (matchmaking, websockets), RPG progresija i art. Najveći rizik: tačnost brojanja (već glavna žalba posle paywalla) i kadriranje na različitim uređajima.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Pobedio sam bossa samo sklekovima, a telefon ne broji nijedan koji nije do kraja.",
+    "monetization": "Pretplata (~$10 mesečno ili ~$120 godišnje, 3 dana probno) odmah posle prvog bossa; snažan otpor korisnika.",
+    "complaints": [
+      "Paywall odmah posle prvog bossa, nema besplatne verzije (~14)",
+      "Kamera ne broji ponavljanja tačno (~4)",
+      "AI generisan art, nedorađena izrada (~2)",
+      "Kadriranje na iPadu, pauzira muziku (~2)"
+    ],
+    "suggestions": [
+      "Besplatan nivo (npr. dnevni boss ili reklame) umesto tvrdog paywalla",
+      "Poređenje ranga dostupno bez pretplate",
+      "Tačnije brojanje ponavljanja",
+      "Ne prekidati muziku pri prelazu na sledeću vežbu"
+    ],
+    "praise": [
+      "Zabavno, borba sa čudovištima sklekovima (~5)",
+      "Motiviše na dnevni trening umesto skrolovanja (~3)",
+      "Rang i PvP takmičenje (~2)"
+    ],
+    "opportunity": "Isti koncept sa pouzdanim brojanjem, besplatnim dnevnim bossom i nizom dana, plus asinhroni duel sa prijateljima preko linka (deljiv video ponavljanja); pretplata tek za PvP rang i dungeone.",
+    "growth": "~21,7 ocena dnevno za ~5 meseci (3.275 ocena), vrlo brz start; recenzije padaju, 15 u 30d naspram 30, verovatno pad posle početnog talasa.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/push-up-arena-fitness-game/id6762318743",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6747261740": {
+    "exclude": true,
+    "exclude_reason": "AI tekstualna RPG igra (zabava), ne lična navika.",
+    "name": "Everweave"
+  },
+  "948757156": {
+    "exclude": true,
+    "exclude_reason": "Klađenje na konjske trke, regulisan domen, veliki brend (Churchill Downs).",
+    "name": "TwinSpires Bet on Horse Racing"
+  },
+  "1457532562": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalno snimljenih POV video scenarija sa tutorima za više jezika; nije izvodljivo za 2 meseca.",
+    "name": "Teuida: Learn Languages"
+  }
+}

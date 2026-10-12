@@ -1,0 +1,302 @@
+{
+  "6742422198": {
+    "name": "Share Aura: Track & Create",
+    "exclude": false,
+    "list": "A",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "'Canva za trčanje': umesto još jednog trackera, alat koji pretvara treninge iz Apple Health/Garmin u estetske stat šablone za Instagram Stories, plus Runcam koji snima trening sa živim statistikama.",
+    "specifics": [
+      "Ključna mehanika: sync aktivnosti, 45+ šablona statistike, editor sa fotografijom, kopiranje u clipboard.",
+      "Šta je deljivo: sve; ceo proizvod je deljivi izlaz za Stories.",
+      "Društveni sloj: feed i zajednica u nastajanju ('Strava + Instagram').",
+      "Monetizacija: procena freemium; recenzija pominje forsiran vodeni žig."
+    ],
+    "psych": "Identitet ('ja sam trkač') i socijalni dokaz kroz deljenje; \"Became a runner because of this app.\"",
+    "developer_type": "mali tim / startup (Aura Movement Technology, Inc., 1 aplikacija; osnivač Zach pominje se u recenzijama)",
+    "build_weeks": 6,
+    "build_notes": "HealthKit/Health Connect, Strava/Garmin API, editor šablona (canvas rendering), kamera sa overlay statistikama, mape ruta, backend za feed. Najveći rizik: performanse editora i sync (žalbe na rušenje i sporo sinhronizovanje).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "Strava screenshot je dosadan, evo kako moj trening izgleda kad ga sredim za Stories.",
+    "monetization": "Procena: freemium sa vodenim žigom na besplatnoj verziji; cene se ne vide u paketu.",
+    "complaints": [
+      "Bagovi i rušenje editora pri dodavanju elemenata (~3)",
+      "Problemi sa onboardingom i prijavom (samo Google/Apple) (~3)",
+      "Sporo sinhronizovanje aktivnosti (~2)",
+      "Forsiran vodeni žig (~1)"
+    ],
+    "suggestions": [
+      "Prijava preko e-maila",
+      "Brži sync sa satom",
+      "Više fontova/serifnih stilova u šablonima"
+    ],
+    "praise": [
+      "Dizajn i estetika šablona",
+      "Developer brzo isporučuje feedback",
+      "Bolja alternativa Stravi za deljenje"
+    ],
+    "opportunity": "Proširiti sa trčanja na druge navike (teretana, čitanje, niz dana) kao deljive kartice napretka; uzorak recenzija deluje delimično 'prijateljski' (pominjanje osnivača), pa organsku tražnju treba proveriti.",
+    "growth": "Izlazak 2025-08-11, 2.479 ocena (prosek 4,92), ~5,8 ocena/dan, bez oznake praćenja. Recenzije 30d: 4 naspram 10: usporavanje.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/share-aura-track-create/id6742422198",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6443958997": {
+    "exclude": true,
+    "exclude_reason": "Klađenje / prediction market (finansije i sportsko klađenje).",
+    "name": "Novig: Prediction Market"
+  },
+  "1279720052": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka sadržaja za učenje više jezika; nemoguće za 2 meseca.",
+    "name": "Bunpo: Language Learning"
+  },
+  "1539543704": {
+    "exclude": true,
+    "exclude_reason": "Licencirani sadržaj (Lord of the Rings, Harry Potter rute) i fizička proizvodnja i slanje medalja; etabliran brend. Mehanika virtuelne rute je dobra referenca.",
+    "name": "The Conqueror Challenges"
+  },
+  "964748094": {
+    "name": "My Water: Daily Drink Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Standardan tracker vode bez jakog zaokreta: kalkulator potrebe, podsetnici, karakter koji se puni, različita pića sa koeficijentom hidratacije.",
+    "specifics": [
+      "Ključna mehanika: dnevni cilj vode, unos pića, punjenje ikone/karaktera.",
+      "Šta je deljivo: slabo.",
+      "Društveni sloj: nema.",
+      "Monetizacija: freemium sa reklamama, Premium ~50–60 USD/god."
+    ],
+    "psych": "Vidljiv napredak kroz punjenje ikone i podsetnike; \"It helps me remember that I have to drink a lot of water\".",
+    "developer_type": "mali tim (My Water Drink Tracker Oy, 1 aplikacija)",
+    "build_weeks": 3,
+    "build_notes": "Lokalna baza, notifikacije, HealthKit/Health Connect, widgeti i Watch komplikacije. Najveći rizik: nema tehničkog; rizik je diferencijacija u prezasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Pila sam samo vodu 30 dana i evo šta mi je aplikacija pokazala.",
+    "monetization": "Freemium sa mnogo reklama i Premium pretplatom; korisnici odbijaju plaćanje osnovnih funkcija (custom količine, druga pića).",
+    "complaints": [
+      "Osnovne funkcije iza paywalla (custom unos, druga pića) (~8)",
+      "Previše reklama (~4)",
+      "Sporost, zamrzavanje i sync između uređaja (~3)",
+      "Pokvarene Watch komplikacije (~1)"
+    ],
+    "suggestions": [
+      "Besplatan unos sopstvene količine i energetskih pića",
+      "Više ikonica/karaktera (vidra, žaba)",
+      "Ručna izmena dnevnog cilja",
+      "Pouzdan sync iPad/iPhone"
+    ],
+    "praise": [
+      "Podsetnici zaista pomažu",
+      "Lep, prilagodljiv izgled",
+      "Praćenje svih pića"
+    ],
+    "opportunity": "Hidratacija je dobra ulazna navika, ali bi trebalo dodati virtuelnog ljubimca/svet ili društveni izazov; kao samostalan proizvod slaba.",
+    "growth": "Izlazak 2015, 24.219 ocena, ~5,7 ocena/dan. Recenzije 30d: 7 naspram 3: blag skok, ali zrela aplikacija.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/my-water-daily-drink-tracker/id964748094",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1403783779": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka sadržaja (70+ jezika); prodavac sa 9 aplikacija.",
+    "name": "Ling – Learn Languages Easily"
+  },
+  "6743861403": {
+    "exclude": true,
+    "exclude_reason": "Beauty/skincare savetnik sa skeniranjem lica, nije lična navika ni disciplina.",
+    "name": "EPICA: Your Daily Beauty Guide"
+  },
+  "1435058152": {
+    "exclude": true,
+    "exclude_reason": "Utility (sat i alarm), bez navike.",
+    "name": "Clock Face - desktop alarm"
+  },
+  "6470422741": {
+    "exclude": true,
+    "exclude_reason": "Igra.",
+    "name": "NU: Carnival - Bliss"
+  },
+  "6472631698": {
+    "name": "INTVL",
+    "exclude": false,
+    "list": "A",
+    "principle": "Osvajanje i posedovanje",
+    "differentiator": "Aplikacija za trčanje i bicikl u kojoj trčanjem u krug osvajaš teritoriju na stvarnoj mapi i braniš je od drugih; lokalni i globalni rang, klubovi i nagrade za držanu teritoriju.",
+    "specifics": [
+      "Ključna mehanika: zatvorena petlja = teritorija; drugi igrači je mogu preuzeti.",
+      "Šta je deljivo: mapa sa sopstvenom teritorijom kvarta/grada.",
+      "Društveni sloj: klubovi, feed, lokalni lideri teritorije, takmičenja.",
+      "Monetizacija: freemium + pretplata ~50 USD/god (7 dana probe)."
+    ],
+    "psych": "Osvajanje i posedovanje plus takmičenje; \"Like Risk in real life. Addicting.\"",
+    "developer_type": "mali tim (INTVL PTY LTD, 1 aplikacija)",
+    "build_weeks": 8,
+    "build_notes": "GPS praćenje u pozadini, HealthKit/Garmin/Strava integracije, geometrija poligona i preklapanja teritorija, mape (MapLibre), backend sa real-time rang listama. Najveći rizik: pouzdanost praćenja u pozadini i računanje teritorija na skali.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "Pretrčala sam ceo kvart u krug da preuzmem teritoriju od lokalnog trkača.",
+    "monetization": "Freemium sa pretplatom ~50 USD/god; deo korisnika odbija pretplatu, deo koristi besplatnu verziju.",
+    "complaints": [
+      "Naplata bez jasnog upozorenja / posle otkazivanja (~6)",
+      "Bagovi praćenja: prekid trčanja, pogrešna distanca/tempo (~6)",
+      "Pretplata preskupa za koncept (~4)",
+      "Sync i Apple Watch ne rade, problemi sa prijavom (~4)"
+    ],
+    "suggestions": [
+      "Posebna kategorija za hodanje (dominiraju trkači)",
+      "Uvoz trčanja iz Nike/Strava",
+      "Jednokratna kupovina umesto pretplate",
+      "Bolji onboarding"
+    ],
+    "praise": [
+      "Takmičenje motiviše da se trči",
+      "Istraživanje novih ruta u svom kraju",
+      "Odlično za grupe (vod, kolege)"
+    ],
+    "opportunity": "Odvojene lige za hodače i početnike i stabilno praćenje; gen Z verzija sa timovima kampusa/kvarta i deljivim mapama bila bi jača za TikTok.",
+    "growth": "Izlazak 2024-02-10, 5.447 ocena, ~5,6 ocena/dan. Recenzije 30d: 65 naspram 96: visok ali opadajući priliv; i dalje među najaktivnijima u paketu.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/intvl/id6472631698",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6475002750": {
+    "exclude": true,
+    "exclude_reason": "Igra (AI tekstualni RPG), nije lična navika.",
+    "name": "AI Game Master - Dungeon RPG"
+  },
+  "1444781716": {
+    "exclude": true,
+    "exclude_reason": "Planer/kalendar utility, nije navika ni disciplina.",
+    "name": "Artful Agenda"
+  },
+  "6479268017": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža za upoznavanje (dating-slično), nije lična navika.",
+    "name": "Whipd - Make New Friends"
+  },
+  "1520224940": {
+    "exclude": true,
+    "exclude_reason": "Koraci za nagrade i poklone (finansijska/materijalna nagrada kao glavna motivacija).",
+    "name": "Earn Rewards: Fancy Giveaways"
+  },
+  "6739937896": {
+    "name": "Stella: Learn Spanish AI",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "AI tutor za španski kroz razgovore glasom umesto memorisanja reči; reklame obećavaju animiranog AI avatara kojeg u aplikaciji nema.",
+    "specifics": [
+      "Ključna mehanika: govorni razgovori sa AI, izgovor, kvizovi sa trenutnim feedbackom.",
+      "Šta je deljivo: slabo (procena).",
+      "Društveni sloj: nema.",
+      "Monetizacija: pretplata ~29,99 USD/god."
+    ],
+    "psych": "Igrifikacija učenja je slaba; dominira obećanje brzog govorenja, a glas korisnika je razočaranje: \"the app is totally different from what they market\".",
+    "developer_type": "nepoznato (HONG KONG BETENSH LIMITED, 1 aplikacija; agresivne FB/IG reklame, procena: firma sa plaćenim UA)",
+    "build_weeks": 6,
+    "build_notes": "LLM + speech-to-text + TTS (realtime voice API), kurikulum nivoa. Najveći rizik: latencija i prepoznavanje govora (glavna žalba) i trošak API-ja po korisniku.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Pričala sam sa AI učiteljicom španskog 10 minuta dnevno 30 dana.",
+    "monetization": "Godišnja pretplata ~29,99 USD; mnogo zahteva za refundaciju.",
+    "complaints": [
+      "Spora i ne razume govor / mikrofon (~8)",
+      "Reklame ne odgovaraju aplikaciji (nema avatara) (~6)",
+      "Network error, ne radi (~3)",
+      "Greške u sadržaju (~2)"
+    ],
+    "suggestions": [
+      "Animirani avatar kao u reklami",
+      "Režim slušanja tokom vožnje",
+      "Besplatan probni period"
+    ],
+    "praise": [
+      "Razgovor sa AI učiteljicom",
+      "Zabavan način učenja"
+    ],
+    "opportunity": "Brz, pouzdan glasovni AI tutor sa nizom dana i avatarom koji se vidi; kategorija je pretrpana (Speak, Praktika), pa bez jasnog zaokreta slaba prilika.",
+    "growth": "Izlazak 2025-01-08, 3.480 ocena, ~5,4 ocena/dan. Recenzije 30d: 7 naspram 3: rast verovatno iz plaćenih reklama.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stella-learn-spanish-ai/id6739937896",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

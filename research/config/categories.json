@@ -1,0 +1,12 @@
+{
+  "_note": "US top liste koje se skeniraju (Apple legacy RSS, max 100 po listi). genreId = Apple ID kategorije.",
+  "charts": ["topfreeapplications", "topgrossingapplications"],
+  "genres": {
+    "6013": "Health & Fitness",
+    "6012": "Lifestyle",
+    "6007": "Productivity",
+    "6017": "Education",
+    "6005": "Social Networking",
+    "6004": "Sports"
+  }
+}

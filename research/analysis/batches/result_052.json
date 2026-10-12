@@ -1,0 +1,132 @@
+{
+  "1441293755": {
+    "exclude": true,
+    "exclude_reason": "Zvanična aplikacija poznatog brenda Dry January, iza je dobrotvorna organizacija Alcohol Research UK.",
+    "name": "TRY DRY: The Dry January app"
+  },
+  "6755298184": {
+    "name": "Useless - Screen Time Control",
+    "exclude": false,
+    "list": "A",
+    "principle": "Polaganje računa",
+    "differentiator": "App blocker u kome dodatno vreme ne dobijaš snooze dugmetom, nego moraš da pošalješ fotografiju-objašnjenje prijateljima, a svaki zahtev ide na javni 'Walk of Shame'.",
+    "specifics": [
+      "Ključna mehanika: blokada po limitu/rasporedu, otključavanje samo uz zahtev prijateljima (na strožim pravilima oni odobravaju)",
+      "Šta je deljivo: Walk of Shame zahtevi i nedeljne rang liste",
+      "Društveni sloj: prijatelji kao čuvari, leaderboard po nizu, fokus satima i vremenu na aplikacijama",
+      "Monetizacija: pretplata ~12 USD/mesečno (recenzija), paywall posle dugog onboardinga"
+    ],
+    "psych": "Društveni pritisak i stid jači su od sopstvene volje; recenzija: 'it works very well and I hate it because it always works'.",
+    "developer_type": "mali tim (DaDaMa UG, nemačka firma sa 4 aplikacije)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls, DeviceActivity, ManagedSettings), backend za prijatelje i zahteve, push notifikacije, kamera, leaderboard. Android preko Accessibility/UsageStats. Najveći rizik: pouzdanost blokade i notifikacija (bagovi) i zaobilaženje 'Beast Mode'.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Moji drugari moraju da odobre svaki minut TikToka, evo šta sam morala da im pošaljem.'",
+    "monetization": "Pretplata ~12 USD/mes (recenzija), hard paywall na kraju onboardinga; korisnici odbijaju cenu",
+    "complaints": [
+      "Paywall posle 10–20 minuta onboardinga (~6)",
+      "Bagovi i sporo učitavanje, prazan ekran (~4)",
+      "Zahtevi ne stižu prijateljima (1)",
+      "Beast Mode se može isključiti bez znanja prijatelja (1)"
+    ],
+    "suggestions": [
+      "Kratak onboarding i besplatna osnovna verzija",
+      "Beast Mode koji ne može da se isključi bez odobrenja prijatelja",
+      "Pouzdane notifikacije za zahteve",
+      "Ne resetovati nalog pri ponovnom otvaranju"
+    ],
+    "praise": [
+      "Genijalna ideja, prijatelji drže odgovornost",
+      "Blokada stvarno radi i ne može se ignorisati",
+      "Smanjenje screen time-a do 50%"
+    ],
+    "opportunity": "Isti koncept sa besplatnim nivoom (prijatelji kao viralni loop - svaki korisnik dovodi prijatelje) i stabilnom blokadom; monetizacija na strožim modovima.",
+    "growth": "Izašla 2026-01-02 (~283 dana), 288 ocena, 1,02/dan; recenzije 1 (30d) naspram 1 (prethodnih 30d). Pristojan start, paywall i bagovi verovatno koče zadržavanje.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/useless-screen-time-control/id6755298184",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6751532440": {
+    "name": "Resolve: Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Habit tracker za građenje i prekidanje navika sa jutarnjim/večernjim check-inom i 'Orb' elementom na dug pritisak za dnevnu AI refleksiju i coaching.",
+    "specifics": [
+      "Ključna mehanika: jutarnji i večernji check-in, niz dana, AI refleksija",
+      "Šta je deljivo: niz dana i statistika (ograničeno)",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: pretplata, ekran za izbor plana ne može da se preskoči"
+    ],
+    "psych": "Niz dana + dnevna refleksija pretvaraju propušten dan u povratak umesto odustajanja; recenzija: 'such a game changer for staying consistent'.",
+    "developer_type": "solo / mali tim (JBE Digital Ltd, 1 aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Lokalno praćenje navika, streak logika, LLM API za refleksije, pretplata. Najveći rizik: diferencijacija u prezasićenoj kategoriji habit trackera i trošak LLM poziva.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Moja jutarnja rutina u jednoj aplikaciji: dodirnem Orb i AI mi kaže gde grešim.'",
+    "monetization": "Pretplata sa obaveznim izborom plana (hard paywall)",
+    "complaints": [
+      "Obavezna pretplata, nema besplatne verzije (1)",
+      "Previše strukturirano i repetitivno, 'AI nalepljen na Atomic Habits' (1)"
+    ],
+    "suggestions": [
+      "Konverzacioni unos navika prirodnim jezikom",
+      "Besplatan osnovni tracker"
+    ],
+    "praise": [
+      "Pomaže u doslednosti i rutinama",
+      "Pomaže kod odvikavanja (vejp, porno)",
+      "Integrisani AI kao razlika"
+    ],
+    "opportunity": "AI coach je jedini zaokret; trebalo bi dodati društveni ili vizuelni sloj (deljivi niz, partner za odgovornost) da bi se izdvojio od konkurencije.",
+    "growth": "Izašla 2025-12-04 (~312 dana), 314 ocena, 1,01/dan; recenzije 1 (30d) naspram 0 (prethodnih 30d). Recenzija pominje otkriće kroz tuđi sadržaj o jutarnjim rutinama (organski UGC).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/resolve-habit-tracker/id6751532440",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1632549195": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka profesionalnih trening programa brenda Garage Strength (trener/brend sadržaj), oznaka praćenja.",
+    "name": "Peak Strength"
+  }
+}

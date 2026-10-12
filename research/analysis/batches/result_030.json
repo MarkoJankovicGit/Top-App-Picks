@@ -1,0 +1,299 @@
+{
+  "6451135127": {
+    "name": "Rosebud: AI Journal & Diary",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Dnevnik koji odgovara: AI posle svakog unosa postavlja dublja pitanja ('Dig Deeper') i vremenom pokazuje obrasce u tvom ponašanju.",
+    "specifics": [
+      "Ključna mehanika: dnevni tekstualni ili glasovni unos, AI refleksija i personalizovani promptovi, praćenje ciljeva.",
+      "Šta je deljivo: uvidi o ličnosti (procena; sadržaj je privatan, slabo deljiv).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: pretplata sa nedeljnim limitom korišćenja, program popusta za osobe sa invaliditetom."
+    ],
+    "psych": "Samospoznaja kroz refleksiju gradi identitet 'osobe koja piše dnevnik'. Dokaz: 'I look forward to every conversation'.",
+    "developer_type": "mali tim (Just Imagine, inc., 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "LLM API sa memorijom korisnika (RAG nad unosima), speech-to-text, šifrovano čuvanje, paywall sa kvotama. Najveći rizik: trošak tokena i kvalitet memorije, osetljiv mentalno-zdravstveni sadržaj.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Pisala sam AI dnevnik 30 dana i pokazao mi je obrazac koji terapeut nije primetio.'",
+    "monetization": "Pretplata sa limitima i u plaćenoj verziji; korisnici plaćaju, ali se bune zbog uvedenih limita.",
+    "complaints": [
+      "Limiti korišćenja i u plaćenoj pretplati (~7)",
+      "AI zaboravlja i meša osnovne detalje (~2)",
+      "Nema hands-free glasovnog unosa (~1)",
+      "Forsirani update-i prekidaju pisanje (~1)"
+    ],
+    "suggestions": [
+      "Dokup dodatnog vremena kad se potroši limit",
+      "Čitanje refleksija i posle potrošenog limita",
+      "Hands-free glas za šetnju i vožnju"
+    ],
+    "praise": [
+      "Duboki uvidi u obrasce ponašanja (~8)",
+      "Prompti rešavaju 'ne znam šta da pišem' (~3)",
+      "Preporuka terapeuta, osećaj podrške (~4)"
+    ],
+    "opportunity": "Jasniji model kvota i vidljiv napredak (niz, mapa raspoloženja) koji se može podeliti; kraći dnevni format za Gen Z.",
+    "growth": "Izašla 6.8.2024, 3.327 ocena, ~4,18 ocene/dan; recenzije 30d 19 naspram 14. Blagi rast, organski (nema oznake praćenja).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/rosebud-ai-journal-diary/id6451135127",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1365531024": {
+    "exclude": true,
+    "exclude_reason": "Ad blocker; utility.",
+    "name": "1Blocker: Ad Blocker"
+  },
+  "6448239603": {
+    "exclude": true,
+    "exclude_reason": "App lock utility; prodavac sa 8 aplikacija (šablon).",
+    "name": "App Lock"
+  },
+  "6762965370": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža bez algoritma; nije lična navika.",
+    "name": "posting2"
+  },
+  "478126577": {
+    "exclude": true,
+    "exclude_reason": "Rečnik poznatog brenda (Merriam-Webster) sa licenciranim sadržajem.",
+    "name": "Merriam-Webster Dictionary+"
+  },
+  "719208154": {
+    "name": "Steps: Step Counter, Pedometer",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Pedometar bez podešavanja koji čita Apple Health i daje dnevne ciljeve za korake, milje, spratove i kalorije uz teme i ikonice; sam po sebi nema jak zaokret.",
+    "specifics": [
+      "Ključna mehanika: automatski koraci iz Apple Health, dnevni ciljevi, dnevni/nedeljni/mesečni zbirovi.",
+      "Šta je deljivo: malo; teme i ikonice (procena).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: reklame (agresivne) i pretplata za uklanjanje."
+    ],
+    "psych": "Dnevni cilj i zbirni napredak drže kretanje. Dokaz: 'This app motivates me to be active and keeps me in motion.'",
+    "developer_type": "solo ili mali tim (Pumpkin Computer Co., LLC, 1 aplikacija)",
+    "build_weeks": 3,
+    "build_notes": "HealthKit i Health Connect, widgeti, teme, reklame/paywall. Najveći rizik: diferencijacija; tehnički trivijalno.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Ova aplikacija za korake ne prikazuje nijednu reklamu, ali te zato tera da braniš niz.'",
+    "monetization": "Reklame preko celog ekrana i pretplata; korisnici odbijaju reklame, deo prelazi na plaćeno.",
+    "complaints": [
+      "Previše reklama, ne vide se koraci (~10)",
+      "Netačno brojanje ili prestaje da broji (~6)",
+      "Traži pretplatu (~2)",
+      "Ekran se menja na nedeljni/mesečni prikaz tokom hoda (~1)"
+    ],
+    "suggestions": [
+      "Prikaz ostaje na koracima tokom šetnje",
+      "Više informacija i saveta"
+    ],
+    "praise": [
+      "Jednostavno i automatski (~4)",
+      "Tačnost kod dela korisnika (~4)"
+    ],
+    "opportunity": "Korisnici beže od reklama: čist brojač bez reklama sa nizom dana i malim grupnim izazovima je lak ulaz, ali samo uz jasan dodatni zaokret.",
+    "growth": "Od 2013, 19.425 ocena, ~4,09 ocene/dan; recenzije 30d 1 naspram 6. Pad, recenzije su sve negativnije zbog reklama.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/steps-step-counter-pedometer/id719208154",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6737520234": {
+    "exclude": true,
+    "exclude_reason": "AI konverzacija za jezike firme sa marketplace-om tutora; vrednost je kvalitet glasovnog AI i tutora, ne navika ni bodovanje.",
+    "name": "Langua: AI language learning"
+  },
+  "1111093108": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker dijabetesa (Tandem, CGM integracija); regulisan domen.",
+    "name": "Sugarmate by Tandem"
+  },
+  "6498880303": {
+    "name": "Minimalist Launcher",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Pretvara iPhone u 'dumbphone': tekstualni početni ekran samo sa bitnim aplikacijama, sivi tonovi i blokiranje, pa svako otvaranje aplikacije traži svestan korak.",
+    "specifics": [
+      "Ključna mehanika: minimalni launcher kroz widgete i prečice, digitalni detoks i blokiranje aplikacija.",
+      "Šta je deljivo: estetika minimalnog početnog ekrana i screen time pre/posle (procena).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: skriveni trial posle oko nedelju dana, lifetime ~25 USD ili ~6 USD mesečno."
+    ],
+    "psych": "Trenje prekida impulsivno otvaranje aplikacija. Dokaz: 'put my phone right back down because I didn't need it.'",
+    "developer_type": "solo (Ankit Kumar, 4 aplikacije, Gmail podrška)",
+    "build_weeks": 5,
+    "build_notes": "iOS: WidgetKit, App Intents/Shortcuts, Screen Time API (FamilyControls zahteva Apple entitlement), uputstvo za sakrivanje ikonica; Android: pravi launcher. Najveći rizik: odobrenje FamilyControls i iOS ograničenja launchera.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Pretvorila sam iPhone u dumbphone za 5 minuta: screen time sa 7h na 2h.'",
+    "monetization": "Pretplata ili lifetime posle skrivenog triala; korisnici koji vide vrednost plaćaju, ali bait-and-switch izaziva 1★.",
+    "complaints": [
+      "Skriveni trial: posle nedelju dana paywall blokira početni ekran (~7)",
+      "Preskupo za 'prečicu' (~3)",
+      "Blokator ne radi pouzdano (~1)",
+      "Transparentnost pozadine ne radi (~1)"
+    ],
+    "suggestions": [
+      "Jasna besplatna osnovna verzija",
+      "Cena oko 5 USD",
+      "Ispravka koraka u uputstvu za uklanjanje teksta ispod ikonica"
+    ],
+    "praise": [
+      "Primetno smanjen screen time (~10)",
+      "Brz i lak setup (~5)",
+      "Čista estetika (~4)"
+    ],
+    "opportunity": "Transparentan freemium, screen time izveštaj koji se deli (pre/posle) i niz dana ispod cilja; dodati izazov sa prijateljima.",
+    "growth": "Izašla 8.5.2024, 3.581 ocena, ~4,04 ocene/dan; recenzije 30d 12 naspram 12. Stabilan organski rast bez oznake praćenja.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/minimalist-launcher/id6498880303",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1296001664": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalnih plesnih časova sa licenciranom muzikom.",
+    "name": "STEEZY - Learn How To Dance"
+  },
+  "1644170422": {
+    "exclude": true,
+    "exclude_reason": "Gacha RPG po licenciranom animeu (Crunchyroll); igra.",
+    "name": "The Eminence in Shadow RPG"
+  },
+  "532353287": {
+    "exclude": true,
+    "exclude_reason": "Opklada novcem na mršavljenje (FitnessAI/WayBetter, više aplikacija); finansijska nagrada.",
+    "name": "DietBet: Lose Weight & Win!"
+  },
+  "1631305261": {
+    "name": "Focus Tree: Timer & Flashcards",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "Fokus tajmer za studente gde svaka sesija dodaje pločicu u zajednički vrt sa drugarima, a aplikacije se blokiraju dok traje sesija.",
+    "specifics": [
+      "Ključna mehanika: fokus/Pomodoro sesije sa blokiranjem aplikacija, flashcards sa spaced repetition, AI asistent.",
+      "Šta je deljivo: zajednički vrt i nizovi (procena).",
+      "Društveni sloj: zajednički vrtovi, praćenje nizova prijatelja, lajkovi i pozivi.",
+      "Monetizacija: pretplata (pominje se ~200 USD godišnje), kupovine pločica."
+    ],
+    "psych": "Grupni vrt pretvara fokus u zajednički projekat i polaganje računa. Dokaz: 'I love the gardens!'",
+    "developer_type": "mali tim (Focus Labs, 1 aplikacija)",
+    "build_weeks": 8,
+    "build_notes": "Screen Time API / Android UsageStats, backend za prijatelje i vrtove, editor pločica, flashcards, LLM. Najveći rizik: pouzdanost blokiranja i obim (vrt + flashcards + AI) za 2 meseca.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Moji drugari i ja gradimo vrt samo kad učimo: evo kako izgleda posle ispitnog roka.'",
+    "monetization": "Pretplata i kupovine u aplikaciji; korisnici se bune što su osnovne funkcije zaključane.",
+    "complaints": [
+      "Problemi sa nalogom i prijavom (telefon, kod) (~5)",
+      "Degradacija posle plaćenih funkcija, ograničene dozvoljene aplikacije (~3)",
+      "AI 'slop' i nova ikonica (~3)",
+      "Škola nije na listi (~2)"
+    ],
+    "suggestions": [
+      "Prodaja i razmena pločica",
+      "Pomeranje pločica koje su dodali drugi",
+      "Više vrsta pločica (obala reke)"
+    ],
+    "praise": [
+      "Zajednički vrtovi sa prijateljima (~4)",
+      "Blokiranje aplikacija pomaže učenju (~6)",
+      "Bolje ocene na ispitima (~3)"
+    ],
+    "opportunity": "Zadržati jezgro (vrt + blokiranje), skinuti AI višak i fokusirati se na izazove između razreda; prijava emailom i bez spiska škola.",
+    "growth": "Izašla 24.10.2022, 5.710 ocena, ~3,94 ocene/dan; recenzije 30d 3 naspram 3. Stabilno; tvrdi 2M+ korisnika, recenzije pominju reklame.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focus-tree-timer-flashcards/id1631305261",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1565509007": {
+    "exclude": true,
+    "exclude_reason": "Patentirana tehnologija praćenja sna pokretom; ne može se pouzdano napraviti za 2 meseca.",
+    "name": "Sleepwave: Alarm & Tracker"
+  },
+  "1537856610": {
+    "exclude": true,
+    "exclude_reason": "Suština je photo editor sa preset filterima i brend influenserke (Sarah Nicole Landry); journal je dodatak.",
+    "name": "Birdy: Photo + Video Journal"
+  }
+}

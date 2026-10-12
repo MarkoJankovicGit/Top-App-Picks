@@ -1,0 +1,92 @@
+{
+  "1485353661": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Tony Robbins) i velika biblioteka licenciranog audio/video sadržaja.",
+    "name": "Breakthrough by Tony Robbins"
+  },
+  "6447005546": {
+    "exclude": true,
+    "exclude_reason": "Hardver: aplikacija za Ozlo Sleepbuds slušalice za spavanje.",
+    "name": "Ozlo Sleepbuds"
+  },
+  "1668760976": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je kolaž/vision board i afirmacije za pozadinu (utility i sadržaj), ne praćenje navike; funkcionalnost slaba prema recenzijama.",
+    "name": "Vision Board & Goal Tracker"
+  },
+  "1502228408": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend: 75 Hard program Andyja Frisele (44Seven Media), vrednost počiva na brendu.",
+    "name": "75 Hard"
+  },
+  "6762130998": {
+    "name": "Tipple: Alcohol Moderation Pet",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Umerenost u alkoholu umesto apstinencije: svaki „suv“ dan donosi spin i predmete za kamp ljubimca, uz kalkulator ušteđevine i AI chat za refleksiju.",
+    "specifics": [
+      "Ključna mehanika: dnevni check-in, suvi dani daju spin, predmeti nadograđuju kamp",
+      "Šta je deljivo: izgled kampa (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata $24.99 mesečno, trial 7 dana"
+    ],
+    "psych": "Nagrada za akciju i briga o ljubimcu prave igru od umerenosti. Dokaz: „really gamifies the experience and makes the journey fun and digestible“.",
+    "developer_type": "firma (Mer-Tel Elektronik ... Limited Sirketi, 7 aplikacija; reklame vidljive u feedu — moguća fabrika aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Check-in i streak logika, ekonomija predmeta, ilustracije kampa, LLM chat. Najveći rizik: dubina sadržaja — kamp se popuni za nedelju dana pa motivacija pada.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Svaki dan bez pića moj kamp dobija novu stvar — test od 30 dana.",
+    "monetization": "Pretplata $24.99 mesečno, trial 7 dana; prijave neočekivane naplate.",
+    "complaints": [
+      "Skupa pretplata za jednostavnu aplikaciju (~4)",
+      "Kamp se popuni za nedelju dana, nema više nagrada (~2)",
+      "Neočekivana naplata tokom triala (~1)",
+      "Ista pitanja svaki dan, bez uvida (~1)"
+    ],
+    "suggestions": [
+      "Dugoročna progresija i više predmeta",
+      "Izmena datuma unosa",
+      "Uvidi umesto istih pitanja"
+    ],
+    "praise": [
+      "Chat za refleksiju",
+      "Igrifikacija čini umerenost zabavnom"
+    ],
+    "opportunity": "Dugoročna progresija (sezonski predmeti, evolucija ljubimca) i prelazak na poroke Gen Z (vejp, energetska pića, skrolovanje), jer je deo publike 18–24 ispod zakonske granice za alkohol u SAD (21).",
+    "growth": "417 ocena za ~150 dana (2,78/dan); recenzije 6 u 30d naspram 3 — rast uz vidljive plaćene reklame.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 1,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/tipple-alcohol-moderation-pet/id6762130998",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1038113479": {
+    "exclude": true,
+    "exclude_reason": "Sportske prognoze za klađenje i fantasy (CBS/Paramount), velika firma.",
+    "name": "SportsLine"
+  },
+  "1632947950": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker (kategorija Medical): detekcija hrkanja i potencijalne apneje u snu, regulisan i klinički domen.",
+    "name": "Snore Recorder - Sleep Monitor"
+  }
+}

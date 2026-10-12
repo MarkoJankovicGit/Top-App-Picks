@@ -1,0 +1,357 @@
+{
+  "578252579": {
+    "exclude": true,
+    "exclude_reason": "Igra (Nekki, studio sa više igara); nije self-improvement.",
+    "name": "Vector: Parkour Run"
+  },
+  "1032480595": {
+    "exclude": true,
+    "exclude_reason": "Marketplace za kućne usluge velike firme; nije navika.",
+    "name": "Urban Company: Home Services"
+  },
+  "6748418458": {
+    "name": "Mogged: Glow Up for Men",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Looksmaxxing pretvoren u 30-dnevni program navika: AI sken lica daje ocenu i prati promenu, a dnevno samo 3 zadatka (koža, san, voda, sunce, držanje) sa nizom koji se resetuje.",
+    "specifics": [
+      "Ključna mehanika: dnevni/nedeljni AI sken lica, plan od 3 zadatka dnevno, niz od 30 dana sa resetom.",
+      "Šta je deljivo: pre/posle skenovi i ocena (procena; looksmaxxing je jak TikTok format).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: hard paywall, pretplata obavezna za skenove i planove (~30 USD, iz recenzije)."
+    ],
+    "psych": "Kvantifikacija izgleda daje opipljiv dokaz napretka, a niz od 30 dana čuva doslednost. Dokaz: 'I look better than Marlon' posle 6 meseci.",
+    "developer_type": "mali tim (Metellus Productions LLC, 5 aplikacija; procena: mali studio za consumer aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Kamera + on-device detekcija lica (Vision/ML Kit) i LLM/vision API za 'ocenu' i savete; generisanje plana zadataka; lokalno čuvanje fotografija. Najveći rizik: kredibilitet i etika ocene izgleda (body image kod 18–24), stabilnost generisanja zadataka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Dao sam AI-ju da mi oceni lice svaki dan 30 dana: evo šta su uradili san, voda i sunce.'",
+    "monetization": "Hard paywall, pretplata (pominje se 30 USD); veliki deo negativnih recenzija je od maloletnika koji ne mogu da plate.",
+    "complaints": [
+      "Mora da se plati pre nego što se išta vidi, 20 min intro pa paywall (~8)",
+      "Posle update-a traži ponovno plaćanje i resetuje program (~1)",
+      "Zadaci se ponavljaju, zaglavi na istih 6 (~1)",
+      "Informacije su dostupne besplatno na YouTube-u (~1)"
+    ],
+    "suggestions": [
+      "Besplatan probni sken pre paywall-a",
+      "Brisanje i ponovno snimanje fotografija",
+      "Više raznovrsnih zadataka posle prvih 30 dana"
+    ],
+    "praise": [
+      "Detaljna analiza i realan plan",
+      "Konkretni saveti za stil i rutinu",
+      "Motivacija i osećaj vidljive promene"
+    ],
+    "opportunity": "Besplatan prvi sken kao viralni ulaz, deljive pre/posle kartice, i fokus na navike (san, koža, trening) umesto na 'ocenu lepote'; dodati takmičenje sa prijateljima u doslednosti, ne u izgledu.",
+    "growth": "Oko 7,3 ocene dnevno od jula 2025, ali samo 1 recenzija u 30 dana naspram 0 prethodno; volumen recenzija je mali i tempo deluje usporen (procena: kampanjski talasi).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/mogged-glow-up-for-men/id6748418458",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6766965073": {
+    "name": "Bunny Steps: walk for rewards",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Pedometar sa virtuelnim zekom koji raste od koraka, dnevnim questovima i 'Bunny Race' trkama sa prijateljima; koraci se pretvaraju u novčiće zamenljive za gift kartice (offerwall model).",
+    "specifics": [
+      "Ključna mehanika: potvrda koraka za novčiće, nivoi zeka sa perkovima, dnevni questovi, lični izazovi i nizovi.",
+      "Šta je deljivo: rast zeka i cash-out (procena).",
+      "Društveni sloj: Bunny Race uživo sa prijateljima, referral novčići.",
+      "Monetizacija: offerwall (igre partnera), reklame; isplate gift kartica/PayPal."
+    ],
+    "psych": "Neposredna opipljiva nagrada za kretanje plus briga o ljubimcu; ali poverenje puca kada isplata ne stigne. Dokaz (negativan): 'all 3 rewards are stuck on Pending'.",
+    "developer_type": "mali tim (LOYALPLAY SP Z O O, 1 aplikacija; naziv i offerwall upućuju na rewards/adtech model)",
+    "build_weeks": 6,
+    "build_notes": "HealthKit/Health Connect za korake, backend za ekonomiju novčića, anti-fraud, trke uživo (realtime), integracija offerwall-a i isplata. Najveći rizik: ekonomija nagrada i fraud, Apple pravila za nagrade u novcu; reputacioni rizik.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj zeka raste samo kad ja hodam, a juče sam pobedila drugaricu u Bunny trci.'",
+    "monetization": "Offerwall i reklame finansiraju isplate; korisnici ne plaćaju, ali masovno prijavljuju neisplaćene nagrade.",
+    "complaints": [
+      "Isplate gift kartica/PayPal ostaju 'pending' nedeljama (~20)",
+      "Podrška ne odgovara (~12)",
+      "Prag za isplatu se stalno podiže (~3)",
+      "Gubitak naloga/novčića posle ponovnog logovanja, igre ne beleže napredak (~4)"
+    ],
+    "suggestions": [
+      "Transparentan i fiksan kurs novčić–nagrada",
+      "Ispravka XP i dnevnog niza",
+      "Responsivna podrška"
+    ],
+    "praise": [
+      "Zabavno i slatko, 'makes me smile'",
+      "Motiviše na svakodnevno hodanje",
+      "Trke i questovi"
+    ],
+    "opportunity": "Zadržati ljubimca, questove i trke sa prijateljima, ali izbaciti novčane isplate (izvor nepoverenja i fraud-a): nagrade kao kozmetika ljubimca i statusi, monetizacija pretplatom.",
+    "growth": "Oko 7,3 ocene dnevno od maja 2026 (najmlađa u paketu); 26 recenzija u 30 dana naspram 24, ali su gotovo sve skoro 'scam' prijave i 5 zvezdica 'radi vidljivosti'. Rast verovatno pokreće offerwall/reklame, ne zadovoljstvo.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 1,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/bunny-steps-walk-for-rewards/id6766965073",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6480119395": {
+    "name": "Soundscape: Focus Sleep Relax",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Spaja blokator aplikacija i muziku za fokus/san u jednu sesiju: izabereš nameru, zvuk, tajmer i blokirane aplikacije i pokreneš jednim tapom; Pro može da se 'zaradi' kroz izazove umesto plaćanja.",
+    "specifics": [
+      "Ključna mehanika: Focus/Sleep Shield po rasporedu, Strict mode, Pomodoro i custom tajmeri, miks ambijentalnih zvukova.",
+      "Šta je deljivo: ciljevi, nizovi i uvidi (procena; nije pomenuto deljenje).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: freemium/pretplata sa trial-om; 'earn' sistem za besplatan Pro (iz recenzija)."
+    ],
+    "psych": "Obaveza unapred (blokada) + ritual sesije sa zvukom koji signalizira fokus. Dokaz: 'Soundscape is the only screen time app so far that has worked for me'.",
+    "developer_type": "mali tim (1000 Streams AB, 1 aplikacija; procena: mali švedski tim)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (iOS) / Accessibility (Android), audio plejer sa miksovanjem slojeva i offline, Spotify/Apple Music integracija, Shortcuts. Najveći rizik: muzička biblioteka (prava ili komponovanje), pouzdanost blokade.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Jedan tap: lo-fi, kiša, TikTok zaključan na 90 minuta, i konačno sam završila esej.'",
+    "monetization": "Freemium + pretplata (supporter/pro), uz mogućnost besplatnog Pro-a kroz izazove; korisnici masovno hvale da je 'free', a kritikuju premeštanje blokade iza paywall-a.",
+    "complaints": [
+      "Bagovi, sesija nestaje, blokada ne radi uprkos dozvolama (~2)",
+      "Blokiranje premešteno iza paywall-a (~1)",
+      "Ne može pauza muzike ni druga muzika bez prekida sesije (~1)",
+      "Otključavanje je zamorno (~1)"
+    ],
+    "suggestions": [
+      "Pauza sesije bez prekida",
+      "Pouzdan rad sa spoljnom muzikom"
+    ],
+    "praise": [
+      "Besplatno i bez reklama (najčešće pominjano)",
+      "Stvarno smanjuje doomscrolling i pomaže pri učenju",
+      "Prijatna muzika i dizajn, 'better than opal'"
+    ],
+    "opportunity": "Dodati društveni sloj (zajedničke fokus sesije, tabla sati fokusa među prijateljima) i deljive kartice sesija; zadržati 'zaradi Pro' mehaniku kao viralni ulaz.",
+    "growth": "Oko 7,2 ocene dnevno od avgusta 2024; 121 recenzija u 30 dana naspram 79 prethodnih (+53%), najjači rast u paketu. Talas kratkih 5-zvezdica u kratkom periodu može biti i rezultat podsticaja za ocenu ('earn' sistem) – proveriti.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/soundscape-focus-sleep-relax/id6480119395",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1481804500": {
+    "exclude": true,
+    "exclude_reason": "Deo Peloton Interactive (velika firma).",
+    "name": "Breathwrk: Breathing Exercises"
+  },
+  "1485539253": {
+    "exclude": true,
+    "exclude_reason": "Klađenje, velika firma (FanDuel).",
+    "name": "FanDuel Racing - Bet on Horses"
+  },
+  "1447851477": {
+    "name": "Gratitude Plus – Journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Grupni izazov",
+    "differentiator": "Dnevnik zahvalnosti sa 'Gratitude Circles': male privatne grupe porodice i prijatelja u kojima svako dnevno objavi 3 stvari, uz niz dana i javni feed podrške.",
+    "specifics": [
+      "Ključna mehanika: dnevni unos zahvalnosti sa promptovima i fotografijom, niz dana, mood tracking, uspomene.",
+      "Šta je deljivo: unosi u krugovima i javnom feedu.",
+      "Društveni sloj: privatni krugovi + javni feed sa porukama ohrabrenja.",
+      "Monetizacija: freemium + godišnja pretplata (~50 USD iz recenzije), agresivni pop-up upsell."
+    ],
+    "psych": "Grupna rutina i reciprocitet: vidiš da su tvoji objavili, pa objaviš i ti; niz čuva doslednost. Dokaz: 'Doing this daily with my sister is amazing and connecting'.",
+    "developer_type": "mali tim (Redwheel Apps, 9 aplikacija; procena: mali studio sa više aplikacija, granično)",
+    "build_weeks": 6,
+    "build_notes": "Backend za naloge, krugove, feed, moderaciju javnog sadržaja, push podsetnike, HealthKit Mindful Minutes. Najveći rizik: moderacija javnog feeda i pouzdanost niza (prijave o nestalim danima).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Moja porodica 100 dana zaredom svako veče piše 3 stvari za koje je zahvalna, evo šta se promenilo.'",
+    "monetization": "Freemium + pretplata (~50 USD godišnje), trial gurnut u onboardingu; korisnici prihvataju vrednost, ali se ljute na pop-upove i automatsku naplatu.",
+    "complaints": [
+      "Trial i automatska naplata bez obaveštenja, zbunjujući onboarding (~5)",
+      "Stalni pop-upovi za premium (~4)",
+      "Gubitak niza i nestali dani (~2)",
+      "Objavljivanje istog dana ograničeno u besplatnoj verziji (~1)"
+    ],
+    "suggestions": [
+      "Fleksibilan niz bez resetovanja posle jednog propusta",
+      "Manje upsell poruka",
+      "Pouzdane skice (drafts)"
+    ],
+    "praise": [
+      "Povezuje porodicu i prijatelje kroz krugove",
+      "Jednostavna dnevna navika koja menja perspektivu",
+      "Podsetnici, citati i afirmacije"
+    ],
+    "opportunity": "Za Gen Z: krug prijatelja kao glavni ekran (BeReal format za zahvalnost), zamrzavanje niza i deljive godišnje recapove; pošteniji paywall.",
+    "growth": "Oko 7,1 ocena dnevno od 2019; 75 recenzija u 30 dana naspram 64 prethodnih (+17%). Stabilan organski rast pokretan pozivima u krugove.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gratitude-plus-journal/id1447851477",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6469338436": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka profesionalnih vođenih časova sa poznatim ekspertima (Patrick McKeown, Jay Wiles) i HRV integracijom; sadržaj i ekspertski brend nisu izvodljivi za 2 meseca, uz agresivan plaćeni marketing.",
+    "name": "FivePointFive: Breathwork"
+  },
+  "391564049": {
+    "exclude": true,
+    "exclude_reason": "Utility (tajmer), Minima Software sa 8 aplikacija.",
+    "name": "Timer+ Countdown & Stopwatch"
+  },
+  "1121088244": {
+    "exclude": true,
+    "exclude_reason": "Pretežno utility za odbrojavanje događaja; streak funkcija je sporedna. Recenzije govore o gubitku podataka i redizajnu, ne o navikama.",
+    "name": "DayCount"
+  },
+  "1446735127": {
+    "exclude": true,
+    "exclude_reason": "Brend sa strukturisanim programima treninga i ishrane (velika biblioteka profesionalnog sadržaja), uz oznaku praćenja.",
+    "name": "EvolveYou: Strength For Women"
+  },
+  "6464128379": {
+    "name": "calorie.ai - Calorie Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Minimalistički besplatan brojač kalorija i makroa sa unosom obroka opisom koji AI pretvara u procenu; vrednost je u jednostavnosti naspram pretrpanih trackera.",
+    "specifics": [
+      "Ključna mehanika: dnevni cilj kalorija i makroa, AI unos opisom, barkod, baza od 1,5M namirnica, praćenje težine.",
+      "Šta je deljivo: polukružni prikaz kalorija (procena; deljenje nije pomenuto).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: nije vidljiva; korisnici hvale da je potpuno besplatno i bez reklama."
+    ],
+    "psych": "Kvantifikacija ishrane daje osećaj kontrole i merljiv napredak u težini. Dokaz: 'it only showed the calories and I lost 8 lbs'.",
+    "developer_type": "solo ili mali tim (SSNB, LLC, 1 aplikacija, bez oznake praćenja)",
+    "build_weeks": 5,
+    "build_notes": "LLM API za procenu obroka iz opisa/fotografije, licencirana ili javna baza namirnica (USDA/OpenFoodFacts) i barkod, grafikoni težine. Najveći rizik: troškovi i dostupnost API-ja za bazu (ispad u junu 2026 je oborio pretragu i barkod), tačnost AI procena.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Napišem \"burger i pomfrit iz In-N-Out\" i app mi kaže makroe za 2 sekunde, besplatno.'",
+    "monetization": "Nema vidljive monetizacije (besplatno, bez reklama); korisnici bi platili za proširenja (vlakna, holesterol).",
+    "complaints": [
+      "Pretraga i barkod prestali da rade (ispad jun 2026) (~8)",
+      "AI procene nekonzistentne za iste upite (~3)",
+      "Problemi sa čuvanjem težine posle update-a (~2)",
+      "Pretrpan početni ekran posle redizajna (~1)"
+    ],
+    "suggestions": [
+      "Praćenje vlakana, šećera, natrijuma i mikronutrijenata (~5)",
+      "Nedeljni/mesečni prosek kalorija i makroa",
+      "Sortiranje i pretraga sačuvanih namirnica",
+      "Više unosa težine dnevno, AI sken fotografije"
+    ],
+    "praise": [
+      "Potpuno besplatno, bez reklama i pretplate",
+      "Jednostavnost, 'straight to the point'",
+      "AI unos opisom i barkod"
+    ],
+    "opportunity": "Kategorija je zasićena (Cal AI i sl.); šansa je samo uz jak navika/takmičarski sloj, npr. dnevni niz pogođenog cilja proteina sa prijateljima; sama jednostavnost nije dovoljan diferencijator.",
+    "growth": "Oko 6,9 ocena dnevno od septembra 2023; 5 recenzija u 30 dana naspram 6 prethodnih, stabilno ali malo. Organska potražnja za besplatnim jednostavnim trackerom.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 1,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/calorie-ai-calorie-tracker/id6464128379",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6575383588": {
+    "exclude": true,
+    "exclude_reason": "Iza je Reface (poznata firma); AI terapeutski kompanjon za mentalno zdravlje, granično regulisan domen.",
+    "name": "Lightly: Wellbeing Companion"
+  },
+  "1630969055": {
+    "exclude": true,
+    "exclude_reason": "Modna igra sa licenciranim brendovima; nije u niši.",
+    "name": "DREST: Fashion Dress Up Game"
+  }
+}

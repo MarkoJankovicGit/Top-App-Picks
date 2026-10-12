@@ -1,0 +1,513 @@
+{
+  "566975787": {
+    "name": "Nomo -  Sobriety Clocks",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Jednostavni satovi trezvenosti za bilo koju naviku, uz accountability partnere, zid ohrabrenja zajednice i mini igre za trenutke iskušenja. Pravi ga jedan čovek u oporavku.",
+    "specifics": [
+      "Ključna mehanika: neograničeno satova 'dana bez', check-in jednim klikom, milestone tokeni",
+      "Šta je deljivo: deljenje sata sa partnerom, milestone",
+      "Društveni sloj: accountability partneri, notifikacija partneru kod iskušenja ili resetovanja, zid ohrabrenja",
+      "Monetizacija: besplatno, donacije"
+    ],
+    "psych": "Odvikavanje kroz rastući broj dana i podršku partnera. Dokaz: 'it is addictive to watch the healthy days stack up.'",
+    "developer_type": "solo (Anthony Stech; opis: 'I'm not a company', 5 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Backend za partnere, poruke i zajednicu, widgeti, moderacija. Najveći rizik: moderacija zajednice.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 2,
+    "hook": "'Dan 100 bez vejpa – moj partner me je spasao u 2 ujutru.'",
+    "monetization": "Besplatno, bez reklama, donacije.",
+    "complaints": [
+      "Novi layout je lošiji od starog (1)"
+    ],
+    "suggestions": [
+      "Vratiti stari layout"
+    ],
+    "praise": [
+      "Besplatno i bez reklama",
+      "Pravi ga osoba u oporavku",
+      "Zajednica i partneri"
+    ],
+    "opportunity": "Isti koncept sa Gen Z estetikom (vejp, porn, scroll), deljivim milestone karticama i freemium modelom.",
+    "growth": "3.25 ocena/dan od izlaska (2012-10-09, 5116 dana, 16639 US ocena, prosek 4.79); recenzije 30d: 20 naspram 26 prethodnih 30d. Veoma stara aplikacija sa stabilnim tempom, recenzije blago padaju; lojalna baza, bez marketinga.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 1,
+      "monetization": 1,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/nomo-sobriety-clocks/id566975787",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6754048419": {
+    "name": "Sobo: Sober Best Friend",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Aplikacija za trezvenost u kojoj je glavni lik slatko stvorenje 'Sobo' sa kojim se dopisuješ (AI), plus selo koje gradiš, zajednica i panic dugme.",
+    "specifics": [
+      "Ključna mehanika: niz trezvenosti, AI chat sa ljubimcem, dnevne refleksije i pisma",
+      "Šta je deljivo: ljubimac i selo (procena)",
+      "Društveni sloj: zajednica u aplikaciji i Discord",
+      "Monetizacija: pretplata ~5 USD/mes, 60–100 USD/god, 7 dana trial"
+    ],
+    "psych": "Briga o ljubimcu + odvikavanje: ne želiš da razočaraš lika. Dokaz: 'I love my little buddy it's better than just a plain sober app.'",
+    "developer_type": "mali tim (Grata Health Inc., 2 aplikacije)",
+    "build_weeks": 7,
+    "build_notes": "LLM chat sa safety slojem, ljubimac i animacije, igrifikovano selo, zajednica. Najveći rizik: bezbednost AI saveta kod zavisnosti (opioidi) i moderacija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj mali monstrum Smoki me podseća da sam 40 dana čist.'",
+    "monetization": "Pretplata ~5 USD/mes, 60–100 USD/god; ranije gift kartice kao nagrade, uklonjene.",
+    "complaints": [
+      "Paywall iako piše free (10)",
+      "Bugovi u chatu i selu (3)",
+      "Nemoderisan Discord (1)",
+      "Uklonjene gift kartice (1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni tracker",
+      "Ljubimac na lock screen widgetu",
+      "Moderacija zajednice"
+    ],
+    "praise": [
+      "Slatki ljubimac",
+      "AI chat kao podrška",
+      "Zajednica"
+    ],
+    "opportunity": "Ljubimac + odvikavanje za Gen Z mikro-zavisnosti (vejp, scroll, šećer) umesto teških zavisnosti; besplatan tracker kao ulaz.",
+    "growth": "3.25 ocena/dan od izlaska (2025-10-21, 356 dana, 1155 US ocena, prosek 4.78); recenzije 30d: 10 naspram 7 prethodnih 30d. Mlada aplikacija sa dobrim tempom, recenzije rastu (10 naspram 7). Recenzija pominje UGC program, znači plaćeni creator marketing.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sobo-sober-best-friend/id6754048419",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1265128036": {
+    "exclude": true,
+    "exclude_reason": "Utility tajmer bez navike u srži; email upućuje na DelightRoom (procena: firma koja stoji iza Alarmy), oznaka praćenja.",
+    "name": "Pomodoro - Focus Timer"
+  },
+  "957586938": {
+    "exclude": true,
+    "exclude_reason": "Utility (intervalni tajmer za trening); osnovna vrednost je alat, ne navika.",
+    "name": "Intervals Pro: HIIT Timer"
+  },
+  "1185502772": {
+    "name": "Quit Smoking --~ Smoke Free",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Klasičan quit-smoking tracker: dani bez cigarete, ušteđen novac, oporavak zdravlja i '100 razloga'.",
+    "specifics": [
+      "Ključna mehanika: brojač dana, novca i zdravstvenih milestone-a",
+      "Šta je deljivo: malo",
+      "Društveni sloj: zajednica (pominje se u recenziji)",
+      "Monetizacija: lifetime 36–70 USD"
+    ],
+    "psych": "Vidljiv napredak oporavka. Dokaz: 'Just being able to watch the days getting bigger and bigger is so encouraging.'",
+    "developer_type": "solo (Dennis Ebbinghaus, lično ime, 8 aplikacija; procena: serija quit aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Lokalni brojači, sadržaj o zdravlju, widget. Najveći rizik: diferencijacija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Ušteđeno 1.400 USD i 6 meseci bez cigarete.'",
+    "monetization": "Jednokratna kupovina Pro (36–70 USD prema recenzijama).",
+    "complaints": [
+      "Ikona cigarete izaziva želju za pušenjem (5)",
+      "Gotovo sve iza paywalla (4)",
+      "Nema podrške za vejp (1)",
+      "Ne može da se izabere današnji datum (1)"
+    ],
+    "suggestions": [
+      "Promeniti ikonu",
+      "Podrška za vejp",
+      "Čuvanje istorije pokušaja"
+    ],
+    "praise": [
+      "Prikaz ušteđenog novca",
+      "Motivacioni sadržaj",
+      "Zdravstveni napredak"
+    ],
+    "opportunity": "Vejp verzija za Gen Z sa ljubimcem ili nizom; ovde je lekcija: ikona okidač može da sabotira proizvod.",
+    "growth": "3.21 ocena/dan od izlaska (2017-01-03, 3569 dana, 11442 US ocena, prosek 4.68); recenzije 30d: 1 naspram 1 prethodnih 30d. Stara aplikacija, stabilan tempo, skoro bez novih recenzija; zrela.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quit-smoking-smoke-free/id1185502772",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6739782103": {
+    "name": "GO Club: Steps + Water",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Koraci i voda u jednoj minimalističkoj 'Liquid Glass' aplikaciji sa lepim widgetima i Apple Watch komplikacijama; finalista App Store Awards 2025.",
+    "specifics": [
+      "Ključna mehanika: automatski koraci + podsetnici za vodu",
+      "Šta je deljivo: estetika widgeta (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ili kupovina ('costly to buy outright')"
+    ],
+    "psych": "Male navike koje se vide na widgetu. Dokaz: 'Sometimes the tiniest habits are the most important.' (opis)",
+    "developer_type": "mali tim (Arkade Club Private Limited, 4 aplikacije)",
+    "build_weeks": 3,
+    "build_notes": "HealthKit/Health Connect, widgeti, Watch. Najveći rizik: tačnost koraka (pretežno zbog dozvola).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Najlepši widget za korake koji si video.'",
+    "monetization": "Pretplata ili jednokratna kupovina; cene nisu vidljive.",
+    "complaints": [
+      "Koraci se ne broje ili nisu tačni (9)",
+      "Plaćanje nije jasno pre unosa podataka (4)",
+      "Obavezna prijava (1)"
+    ],
+    "suggestions": [
+      "Gost režim",
+      "Oduzimanje unete vode",
+      "Notifikacije bez otvaranja aplikacije"
+    ],
+    "praise": [
+      "Dizajn i Liquid Glass estetika",
+      "Widgeti i Watch",
+      "Podsetnik za vodu"
+    ],
+    "opportunity": "Estetika je dovoljna za rast; dodatak izazova sa prijateljima bi dao viralnost.",
+    "growth": "3.21 ocena/dan od izlaska (2025-02-13, 606 dana, 1943 US ocena, prosek 4.64); recenzije 30d: 40 naspram 19 prethodnih 30d. Mlada aplikacija, recenzije se duplo povećale (40 naspram 19): ubrzan rast, verovatno zbog nagrade/featuringa.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/go-club-steps-water/id6739782103",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6761429056": {
+    "name": "BlockRot: Screen Time Control",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Screen time blokator u kome se vreme na telefonu zarađuje: zdrave akcije (vežba, krevet, napolje, dnevnik) daju 'Rot Gems' kojima plaćaš scroll, uz pingvina Rottie.",
+    "specifics": [
+      "Ključna mehanika: zdrava akcija (sa foto dokazom) = Rot Gems = minuti ekrana",
+      "Šta je deljivo: 'brainrot' jezik, pingvin, niz",
+      "Društveni sloj: nema",
+      "Monetizacija: hard paywall pretplata"
+    ],
+    "psych": "Nagrada za akciju: scroll postaje valuta koja se zarađuje. Dokaz: 'I actually have free time now and instead of me scrolling away.'",
+    "developer_type": "solo (Matthew Heester, lično ime, 2 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Screen Time API, foto verifikacija (AI), maskota, nizovi. Najveći rizik: Android ekvivalent blokade i provera dokaza.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 4,
+    "hook": "'Moraš da namestiš krevet da bi dobio 15 minuta TikToka.'",
+    "monetization": "Hard paywall pretplata; cene nisu vidljive.",
+    "complaints": [
+      "Hard paywall, tinejdžeri ne mogu da plate (12)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo ili alternativa za tinejdžere",
+      "Više kastomizacije"
+    ],
+    "praise": [
+      "Smanjuje screen time",
+      "Slatki pingvin",
+      "Menja mindset"
+    ],
+    "opportunity": "Freemium ulaz i društveni sloj (prijatelji vide gems) bi otključali tinejdžersku publiku koja jasno hoće proizvod.",
+    "growth": "3.21 ocena/dan od izlaska (2026-05-14, 151 dana, 484 US ocena, prosek 4.69); recenzije 30d: 0 naspram 3 prethodnih 30d. Nova aplikacija sa visokim tempom za solo developera; recenzije padaju (0 naspram 3).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/blockrot-screen-time-control/id6761429056",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1577283718": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend influencerke (MadFit) sa bibliotekom profesionalnih video treninga.",
+    "name": "MadFit: Home Fitness Workouts"
+  },
+  "1444887980": {
+    "exclude": true,
+    "exclude_reason": "Igra (akcioni RPG), nije self-improvement.",
+    "name": "Nonstop Knight 2 - Action RPG"
+  },
+  "6476418203": {
+    "name": "Clear30: Reset From Weed",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "30-dnevna 'tolerance break' pauza od trave kao vođen program: dnevne poruke, video dnevnik, zajednica i AI asistent.",
+    "specifics": [
+      "Ključna mehanika: 30-dnevni program sa sober counterom i dnevnim porukama",
+      "Šta je deljivo: video dnevnik (procena)",
+      "Društveni sloj: zajednica",
+      "Monetizacija: pretplata ~7 USD/mes ili ~40 USD/god, 3 dana trial"
+    ],
+    "psych": "Vremenski ograničen izazov (30 dana) lakše se prihvata nego 'zauvek'. Dokaz: 'I've taken a lot of T breaks and this was the easiest one.'",
+    "developer_type": "mali tim (Clear 30 LLC, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Program sadržaja, AI asistent, zajednica, video dnevnik. Najveći rizik: sadržaj i moderacija; regulatorno osetljiva tema.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'30 dana bez trave – dan 1 video dnevnika.'",
+    "monetization": "Pretplata, ~40 USD (recenzije), 3-dnevni trial.",
+    "complaints": [
+      "Naplata odmah ili posle otkazivanja (9)",
+      "Paywall i kratak trial (6)",
+      "Pretereno oslanjanje na AI (1)",
+      "Verski ton (1)"
+    ],
+    "suggestions": [
+      "Duži trial",
+      "Otkazivanje preko Apple podešavanja",
+      "Bolji video player"
+    ],
+    "praise": [
+      "Accountability i zajednica",
+      "Briga podrške",
+      "Struktura programa"
+    ],
+    "opportunity": "Format '30-dnevnog reseta' za Gen Z (scroll, šećer, vejp) je jak; billing praksa je upozorenje.",
+    "growth": "3.19 ocena/dan od izlaska (2024-01-24, 992 dana, 3167 US ocena, prosek 4.73); recenzije 30d: 0 naspram 4 prethodnih 30d. Umeren tempo, recenzije su stale (0 naspram 4).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/clear30-reset-from-weed/id6476418203",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "428312806": {
+    "exclude": true,
+    "exclude_reason": "Igra (Scrabble-like), nije self-improvement.",
+    "name": "Wordfeud"
+  },
+  "6502996574": {
+    "name": "Maxxing: LooksMaxxing Glow Up",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "AI 'looksmaxxing' coach: ocena atraktivnosti iz selfija, analiza crta lica i personalizovan glow-up plan.",
+    "specifics": [
+      "Ključna mehanika: selfi → skor i analiza → rutina",
+      "Šta je deljivo: skor atraktivnosti (snažan, ali rizičan)",
+      "Društveni sloj: nema",
+      "Monetizacija: 1 USD nedelja trial pa ~20 USD/nedeljno preko web reklama"
+    ],
+    "psych": "Kvantifikacija izgleda i identitet; jak Gen Z trend ali etički rizičan. Dokaz: 'It keeps me disciplined and gives me ways I can improve myself.'",
+    "developer_type": "mali tim (Glow Up LLC, 4 aplikacije; procena: studio sličnih aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Vision LLM API za analizu lica, rutine. Najveći rizik: reputacija, maloletni korisnici, etika skora.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'AI mi je dao 6.8/10 – evo 30-dnevnog plana do 8.'",
+    "monetization": "Nedeljna pretplata (~20 USD/ned) posle 1 USD triala; web funnel.",
+    "complaints": [
+      "Obmanjujuća naplata i nemoguće otkazivanje (14)",
+      "Sve se plaća (4)",
+      "Naplata maloletnicima (2)",
+      "Saveti slabi za žene (1)"
+    ],
+    "suggestions": [
+      "Besplatni saveti",
+      "Body report"
+    ],
+    "praise": [
+      "Disciplina i plan",
+      "Vidljiv napredak"
+    ],
+    "opportunity": "Glow-up kao rutina sa nizom (skin care, san, voda, teretana) umesto skora lica; etičan i lakše deljiv.",
+    "growth": "3.18 ocena/dan od izlaska (2024-05-29, 866 dana, 2757 US ocena, prosek 4.46); recenzije 30d: 3 naspram 7 prethodnih 30d. Umeren tempo, recenzije u padu; rast iz plaćenih web reklama.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/maxxing-looksmaxxing-glow-up/id6502996574",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6744357399": {
+    "name": "Eppika: Read & Learn Languages",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Učenje jezika kroz čitanje knjiga i priča prilagođenih nivou (A1–B2) sa audio zapisom i prevodom reči na tap, umesto drill vežbi.",
+    "specifics": [
+      "Ključna mehanika: 10–15 minuta čitanja/slušanja dnevno, tap za prevod, čuvanje reči",
+      "Šta je deljivo: malo",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata, 3-mesečni plan, kratak ili nikakav trial"
+    ],
+    "psych": "Dnevna mala doza učenja kroz priču. Dokaz: 'I use this app almost every night to read before bed.'",
+    "developer_type": "mali tim (Tessirion, s.r.o., 2 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "Biblioteka adaptiranih tekstova (prema recenziji AI generisano) i TTS na 14 jezika. Najveći rizik: obim i kvalitet sadržaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Posle 3 godine Duolinga, prvi put sam pročitao knjigu na španskom.'",
+    "monetization": "Pretplata; cene nisu vidljive.",
+    "complaints": [
+      "Naplata tokom triala ili posle otkazivanja (6)",
+      "Greške u AI tekstu i prevodu (4)",
+      "Zastareli klasici (3)",
+      "Nema free triala (3)"
+    ],
+    "suggestions": [
+      "Savremeniji sadržaj",
+      "Više sadržaja za napredne",
+      "Bolji prevod u kontekstu"
+    ],
+    "praise": [
+      "Poboljšano slušanje i čitanje",
+      "Prilagođenost nivou",
+      "Brza podrška"
+    ],
+    "opportunity": "Publika je starija i van Gen Z fokusa; sadržaj je skup. Niska prioritetnost.",
+    "growth": "3.18 ocena/dan od izlaska (2025-05-15, 515 dana, 1636 US ocena, prosek 4.8); recenzije 30d: 12 naspram 12 prethodnih 30d. Mlada aplikacija sa dobrim tempom i stabilnim recenzijama (12 naspram 12).",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 4,
+      "buildEase": 2,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/eppika-read-learn-languages/id6744357399",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "319185557": {
+    "exclude": true,
+    "exclude_reason": "Utility (drugi broj telefona), velika firma (J2 Web Services).",
+    "name": "Line2 - Second Phone Number"
+  },
+  "968720724": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija (Apirox, 10 aplikacija), kategorija Medical; zahteva sopstveni ML model za detekciju hrkanja i zvukova.",
+    "name": "Noxogy : Sleep & Snore Tracker"
+  }
+}

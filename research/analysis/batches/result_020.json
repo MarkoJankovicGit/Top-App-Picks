@@ -1,0 +1,304 @@
+{
+  "922744883": {
+    "exclude": true,
+    "exclude_reason": "Etablirana fitness platforma (od 2014, Apple Watch App of the Year) sa velikom bibliotekom vežbi sa ilustracijama, AI generatorom treninga i Watch aplikacijom; konkurentna verzija nije izvodljiva za 2 meseca, a niša je zasićena (Fitbod, Hevy, Strong).",
+    "name": "SmartGym: Gym & Home Workouts"
+  },
+  "1645639057": {
+    "name": "Refocus: App Blocker & Lock",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator aplikacija čija je suština skala 'strogosti' otključavanja: od čekanja i prepisivanja teksta do NFC taga, Pomodoro limita i zabrane brisanja aplikacije. Blokira i web sajtove i skriva Reels/Shorts u Safariju.",
+    "specifics": [
+      "Ključna mehanika: blokada po vremenu, rasporedu, limitu korišćenja i lokaciji; Strict Mode bira vrstu trenja za otključavanje (lozinka, NFC, čekanje, copy-text izazov, Pomodoro 5x dnevno).",
+      "Šta je deljivo: pad screen time-a (dnevna/nedeljna/mesečna analitika) – korisnici sami prijavljuju 'dropped by almost 4 hours'.",
+      "Društveni sloj: nema ga u opisu ni u recenzijama.",
+      "Monetizacija: freemium; besplatno samo 2 blokirane aplikacije, stroži režimi i više aplikacija iza pretplate (cena se ne vidi u paketu)."
+    ],
+    "psych": "Obaveza unapred: korisnik sebi sada postavlja prepreku za buduće iskušenje, a trenje pri otključavanju prekida automatizam skrolovanja. Dokaz: 'Works better than my willpower'.",
+    "developer_type": "mali tim (Labi, LLC, 5 aplikacija u nalogu; procena: mala firma, ne fabrika)",
+    "build_weeks": 6,
+    "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) uz Apple entitlement; Android AccessibilityService/UsageStats; Safari content blocker za sajtove i Reels/Shorts; NFC; lokalna analitika. Najveći rizik: pouzdanost blokade (zaobilaženje promenom vremena na telefonu, pominje se u recenziji) i Apple odobrenje entitlementa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moj screen time je pao sa 7 na 3 sata jer mi telefon traži da prepišem pasus svaki put kad otvorim TikTok.'",
+    "monetization": "Freemium + pretplata (Pro); cene nisu vidljive u paketu. Deo korisnika se buni što su ranije besplatne funkcije prešle iza paywalla.",
+    "complaints": [
+      "Previše funkcija iza paywalla, besplatno samo 2 aplikacije, ranije je bilo besplatno (~4)",
+      "Previše lako otključavanje, 'unblock' dugmad na početnom ekranu (~3)",
+      "Rupa: promena vremena na telefonu prekida blokadu (~1)",
+      "Ne može da se otključa samo jedna od više blokiranih aplikacija (~1)"
+    ],
+    "suggestions": [
+      "Interni sat koji ne zavisi od sistemskog vremena",
+      "Dnevni limit broja otključavanja",
+      "Selektivno otključavanje pojedinačnih aplikacija iz grupe",
+      "Sakriti dugmad za otključavanje dublje u aplikaciji"
+    ],
+    "praise": [
+      "Stvarno smanjuje screen time (često sa konkretnim brojkama)",
+      "Blokira i sajtove, bolje od Apple Screen Time",
+      "Jednostavna i prilagodljiva podešavanja strogosti"
+    ],
+    "opportunity": "Dodati vidljiv napredak i društveni sloj (niz 'čistih' dana, poređenje sa prijateljima, deljiva kartica uštede vremena) i ograničiti otključavanja po danu; trenje pretvoriti u 'zarađivanje' vremena kroz akciju (npr. sklekovi ili šetnja).",
+    "growth": "Oko 7,8 ocena dnevno od septembra 2022; 44 recenzije u poslednjih 30 dana naspram 50 prethodnih, stabilno visok tempo bez rasta. Zrela, organski održiva tražnja; recenzenti su često tinejdžeri i studenti (ciljna grupa).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/refocus-app-blocker-lock/id1645639057",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6746533451": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža; osnovna vrednost nije lična navika ili disciplina.",
+    "name": "UpScrolled"
+  },
+  "844623241": {
+    "exclude": true,
+    "exclude_reason": "Korporativni wellness program firme Terryberry (B2B, poslodavci); nije potrošačka self-improvement aplikacija malog developera.",
+    "name": "Terryberry Be Well"
+  },
+  "1534196157": {
+    "name": "Shmoody: Mood & Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Mood i habit tracker vođen AI mačkom-kompanjonom: igrifikovane male akcije ('instant boosts'), poeni sa animacijom proslave i zajednica za podršku. Ciljano na ljude u lošem periodu i studente (pristup preko univerzitetskih kodova).",
+    "specifics": [
+      "Ključna mehanika: dnevni mood check-in, ciljevi i izazovi rasta, poeni i animacije, AI chat sa mačkom, zvukovi (Hz, ambijent).",
+      "Šta je deljivo: slatka mačka i animacije proslave (procena; deljenje nije pomenuto u podacima).",
+      "Društveni sloj: zajednica za podršku i accountability.",
+      "Monetizacija: pretplata ~40 USD godišnje (iz recenzija), naplata preko kviz-onboardinga iz Instagram reklama; B2B kodovi za univerzitete."
+    ],
+    "psych": "Briga o kompanjonu i male nagrade spuštaju prag za akciju kod korisnika bez motivacije. Dokaz: 'Most habit tracking apps I abandon after a few days...'.",
+    "developer_type": "mali tim (Moodworks Inc., 2 aplikacije; procena: startap sa plaćenim akvizicijama)",
+    "build_weeks": 8,
+    "build_notes": "Backend za nalog, zajednicu i moderaciju; LLM chat sa personom i bezbednosnim guardrail-ima (mentalno zdravlje); animacije maskote (Rive/Lottie); audio biblioteka; kalendarska integracija. Najveći rizik: odgovornost i moderacija kod korisnika u krizi (granično sa mentalnim zdravljem).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moja mačka iz aplikacije me natera da popijem vodu i ustanem iz kreveta, a terapeut me pitao kako se zove app.'",
+    "monetization": "Pretplata (pominju se 40 USD godišnje, naplate 42–70 USD), web kviz + trial iz Instagram reklama; deo funkcija zaključan na 12 sati u besplatnoj verziji.",
+    "complaints": [
+      "Neovlašćene i dvostruke naplate, nemoguće otkazivanje trial-a, 'scam' (~12)",
+      "Nestabilnost, zamrzavanje pri označavanju ciljeva (~3)",
+      "Funkcije zaključane vremenskim limitom, previše AI (~2)",
+      "Dug, neskipabilan onboarding sa animacijama (~1)"
+    ],
+    "suggestions": [
+      "Transparentna cena i jednostavno otkazivanje",
+      "Vratiti uklonjenu muziku i dodati više ambijentalnih zvukova",
+      "Skraćen onboarding bez obaveznih animacija"
+    ],
+    "praise": [
+      "AI mačka deluje toplo i podržavajuće",
+      "Igrifikacija i vizuali progresa su slatki i motivišu",
+      "Zajednica ljudi sa sličnim problemima"
+    ],
+    "opportunity": "Isti kompanjon-koncept, ali usmeren na navike (ne terapiju) i sa poštenom naplatom: ljubimac koji raste od ispunjenih malih navika, bez mračnih obrazaca u checkoutu; deljiva stanja ljubimca za TikTok.",
+    "growth": "Oko 7,7 ocena dnevno od novembra 2020, ali samo 1 recenzija u 30 dana naspram 4 prethodno; zamah opada, a talas 1-zvezdica o naplatama 2025. ukazuje na problem sa akvizicijom preko reklama.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/shmoody-mood-habit-tracker/id1534196157",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1514709368": {
+    "exclude": true,
+    "exclude_reason": "Učenje jezika sa AI prepoznavanjem govora i velikom bibliotekom sadržaja po jezicima; nije izvodljivo za 2 meseca u kvalitetnom obliku, uz oznaku praćenja i agresivan plaćeni marketing.",
+    "name": "Jumpspeak | Language Learning"
+  },
+  "1109543953": {
+    "exclude": true,
+    "exclude_reason": "Čisti audio sadržaj (priče i meditacije za spavanje); vrednost je biblioteka profesionalnog sadržaja, ne navika.",
+    "name": "Slumber–Calm Stories for Sleep"
+  },
+  "6478040418": {
+    "exclude": true,
+    "exclude_reason": "Baza proizvoda i sastojaka za negu kože, vezana za kupovinu; nije navika/disciplina, a baza podataka je glavni trošak.",
+    "name": "SkinSort - The Skincare App"
+  },
+  "624329444": {
+    "exclude": true,
+    "exclude_reason": "Azumio Inc. je poznata fabrika health aplikacija (više sličnih trackera); generički pedometar.",
+    "name": "Argus: Pedometer Step Tracker"
+  },
+  "522314512": {
+    "exclude": true,
+    "exclude_reason": "Igra (šah); nije self-improvement navika.",
+    "name": "Chess without ads"
+  },
+  "1445348921": {
+    "name": "Days Since: Quit Habit Tracker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Najjednostavniji mogući 'brojač od poslednjeg puta' za više loših navika istovremeno; sva vrednost je u jednom pitanju: 'Želiš li stvarno da resetuješ brojač?'.",
+    "specifics": [
+      "Ključna mehanika: brojači vremena od poslednjeg pojavljivanja navike (dani/nedelje/meseci/godine), reset log sa beleškama, više brojača i u besplatnoj verziji.",
+      "Šta je deljivo: broj dana (npr. '150+ dana bez...'), procena; deljenje nije pomenuto.",
+      "Društveni sloj: nema ga (keyword 'habits with friends' nije potvrđen opisom).",
+      "Monetizacija: freemium, widget i 'fancy' funkcije iza Premium-a, bez reklama."
+    ],
+    "psych": "Averzija prema gubitku: što je niz duži, to je reset bolniji. Dokaz: 'I have a 150+ streak of not doing it and I’m super proud'.",
+    "developer_type": "mali tim ili solo (A Couple of Friends OOD, 1 aplikacija, bez oznake praćenja)",
+    "build_weeks": 3,
+    "build_notes": "Lokalna baza, widgeti (iOS WidgetKit, Android Glance), Apple Watch, opcioni iCloud/Firebase sync. Bez backenda u osnovnoj verziji. Najveći rizik: diferencijacija u prepunoj kategoriji, ne tehnika.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Dan 1 bez vejpa vs dan 100: snimam brojač svakog dana dok ne dođem do godinu dana.'",
+    "monetization": "Freemium, Premium otključava widget i napredne prikaze; korisnici hvale besplatni osnovni nivo, ali se ljute što je widget plaćen.",
+    "complaints": [
+      "Widget se plaća (~4)",
+      "Slučajni reset preko dugmeta na widgetu, reset ne radi uvek (~2)",
+      "Ne može da se postavi raniji datum početka (backdate) (~1)",
+      "Apple Watch aplikacija ne radi (~1)"
+    ],
+    "suggestions": [
+      "Bedževi za prekretnice (1 mesec, 1 godina) i motivacione notifikacije",
+      "Log poriva (urges) bez resetovanja",
+      "Oznaka da li se navika izbegava ili gradi",
+      "Izvoz reset loga i beleški"
+    ],
+    "praise": [
+      "Jednostavan, čist UI bez reklama",
+      "Besplatna osnova sa više brojača",
+      "Pomaže u treznosti i odvikavanju, drži odgovornim"
+    ],
+    "opportunity": "Zadržati jednostavnost, a dodati bedževe za prekretnice, log poriva, deljive kartice napretka i opciono partnera za odgovornost; widget kao besplatan ulaz, monetizovati društveni sloj i statistiku.",
+    "growth": "Oko 7,4 ocene dnevno od 2019; 92 recenzije u 30 dana naspram 86 prethodnih, najveći volumen u paketu i blagi rast. Stabilna organska potražnja bez marketinga.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/days-since-quit-habit-tracker/id1445348921",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "391599899": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za Wahoo hardver (senzori, trenažeri); hardverski brend.",
+    "name": "Wahoo"
+  },
+  "6450723685": {
+    "name": "75 Days Challenge Tough & Soft",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "Neoficijalna aplikacija za viralni 75 Hard izazov sa 'tough' i 'soft' varijantom i prilagodljivim zadacima, plus izazovi sa prijateljima i AI coach.",
+    "specifics": [
+      "Ključna mehanika: dnevna lista zadataka za 75 uzastopnih dana, reset pri propustu, prilagodljivi zadaci.",
+      "Šta je deljivo: dan X/75 i transformacija (procena; TikTok formati 75 Hard su već masovni).",
+      "Društveni sloj: zajednički izazovi sa prijateljima (deljenje custom izazova ne radi uvek).",
+      "Monetizacija: BeHard Pro 12,99 USD mesečno / 39,99 USD godišnje (iz opisa)."
+    ],
+    "psych": "Javna obaveza na fiksan rok + niz od 75 dana; grupa i takmičenje sa kolegama drže odgovornost. Dokaz: 'in competition with a few coworkers... keeping everyone motivated'.",
+    "developer_type": "mali tim (BeHard, Inc., 1 aplikacija; oznaka praćenja i web 'planovi' upućuju na plaćenu akviziciju)",
+    "build_weeks": 5,
+    "build_notes": "Backend za naloge, grupe i pozive (Firebase već korišćen), notifikacije, widgeti, opciono LLM coach. Najveći rizik: vremenske zone i rad u smenama (reset dana), sinhronizacija grupnih izazova, pravni rizik oko brenda '75 Hard'.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Radim 75 Soft sa 4 drugarice, ko prva propusti dan časti večeru: dan 1.'",
+    "monetization": "Pretplata 12,99 USD/mes ili 39,99 USD/god + dodatni upsell; deo korisnika koristi besplatno, plaćeni korisnici se žale na odnos cena–vrednost.",
+    "complaints": [
+      "Plaćena verzija je 'samo checklista', ne vredi novca, dodatni upsell (~6)",
+      "Gličevi: dan se vraća na 1, AI coach ne radi, logovanje (~4)",
+      "Onboarding od ~20 ekrana i insistiranje na pristupu kontaktima (~3)",
+      "Grupni izazovi ne mogu da se usklade ili prihvate, nema izmene posle starta (~2)"
+    ],
+    "suggestions": [
+      "Prilagodljiv početak dana za noćne smene",
+      "Lakše vraćanje i ispravka prethodnog dana",
+      "Više aktivnih izazova istovremeno i promena redosleda zadataka",
+      "Unos težine i dnevne afirmacije"
+    ],
+    "praise": [
+      "Jednostavna i prilagodljiva lista zadataka",
+      "Drži odgovornim, posebno u grupi",
+      "Osnovne funkcije besplatne"
+    ],
+    "opportunity": "Napraviti grupni izazov kao glavnu funkciju (squad, ulog, tabla, foto dokaz dana) uz pouzdan reset po ličnom 'danu' i kratak onboarding; deljive dnevne kartice 'Day X/75'.",
+    "growth": "Oko 7,4 ocene dnevno od jula 2023; svega 3 recenzije u 30 dana naspram 6 prethodnih, pad zamaha posle sezone novogodišnjih/letnjih izazova (procena: sezonski talasi).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/75-days-challenge-tough-soft/id6450723685",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1328562100": {
+    "exclude": true,
+    "exclude_reason": "Vezano za hardver (senzori za udarce, oprema) i veliku biblioteku profesionalnih video treninga; brend sa plaćenim marketingom.",
+    "name": "FightCamp Home Boxing Workouts"
+  },
+  "1461467958": {
+    "exclude": true,
+    "exclude_reason": "MMORPG igra; nije u niši.",
+    "name": "Evil Lands: Epic MMORPG game"
+  }
+}

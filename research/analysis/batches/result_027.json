@@ -1,0 +1,297 @@
+{
+  "1636176641": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija za uređaj za stimulaciju vagusnog nerva (hardver).",
+    "name": "Pulsetto Wellness"
+  },
+  "6779910923": {
+    "name": "وقف | Wagiff",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Aplikacija za odvikavanje od pornografije na arapskom sa 21-dnevnim programom, dnevnim zavetima i anonimnom rang listom onih koji se najduže drže.",
+    "specifics": [
+      "Ključna mehanika: niz čistih dana sa milestone-ima, 21-dnevni program, dnevni zavet",
+      "Šta je deljivo: ništa javno (sve anonimno)",
+      "Društveni sloj: anonimni leaderboard",
+      "Monetizacija: pretplata (korisnik se žali da nije jasno naznačena)"
+    ],
+    "psych": "Obaveza unapred kroz dnevni zavet i anonimno takmičenje; recenzija (arapski) zahvaljuje aplikaciji što je prestao sa navikom.",
+    "developer_type": "mali tim (EXPERIMENT COMMAND CORPORATION, 1 aplikacija; procena: studio sa Bliskog istoka)",
+    "build_weeks": 5,
+    "build_notes": "Tracker niza, sadržaj 21-dnevnog programa, AI agent (LLM), backend za anonimni leaderboard. Nema Screen Time blokade, pa je tehnički jednostavno; rizik je tržište i jezik, ne tehnika.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Anonimna rang lista: 1.200 ljudi se drži duže od tebe. Koliko ćeš ti izdržati?",
+    "monetization": "Pretplata; cena se ne vidi u podacima.",
+    "complaints": [
+      "Nije naznačeno da je aplikacija plaćena (1)"
+    ],
+    "suggestions": [
+      "Nema jasnih predloga u uzorku (samo 4 recenzije)"
+    ],
+    "praise": [
+      "Pomogla da se prestane (2)",
+      "Zahvalnost developerima (2)"
+    ],
+    "opportunity": "Anonimni leaderboard za odvikavanje je zaokret koji US konkurenciji fali; preneti na englesko tržište uz blokadu i 'dopamine' framing.",
+    "growth": "Izašla 2026-06-16; ~4,9 ocena/dan (577) za ~4 meseca. Recenzije 30d 3 vs 0; mali uzorak, arapska publika.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 1,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/%D9%88%D9%82%D9%81-wagiff/id6779910923",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1519726353": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je zajednički dnevnik za porodicu i partnere (povezivanje), ne lična navika; publika roditelji; recenzije pominju FB reklame.",
+    "name": "Waffle: Shared Journal"
+  },
+  "949905528": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend i hardver (TRX trake), velika video biblioteka.",
+    "name": "TRX: Strength & Home Workouts"
+  },
+  "320606217": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Sleep Cycle AB, 40M+ preuzimanja), patentirana analiza zvuka.",
+    "name": "Sleep Cycle - Tracker & Sounds"
+  },
+  "6736728158": {
+    "exclude": true,
+    "exclude_reason": "Zahteva fizičku NFC karticu (hardver); kategoriju drže Brick i slični.",
+    "name": "Bloom - Conquer Screen Time"
+  },
+  "6749520351": {
+    "name": "75Me: 75 Day Reset Challenge",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "75 Hard tracker koji iz upitnika pravi personalizovani 75-dnevni reset (hard ili soft), sa dnevnom progress fotografijom, zajednicom i bibliotekom sažetaka knjiga.",
+    "specifics": [
+      "Ključna mehanika: dnevni checklist + progress foto + 75 dana bez pauze",
+      "Šta je deljivo: before/after transformacija",
+      "Društveni sloj: accountability zajednica",
+      "Monetizacija: hard paywall bez trial-a, nedeljna ili godišnja pretplata (~$35–40)"
+    ],
+    "psych": "Javni izazov sa fiksnim rokom i nizom koji ne sme da pukne: 'I'm amazed at how committed I feel noting down my goals'.",
+    "developer_type": "mali tim (75Me LLC, 2 aplikacije); TikTok marketing, prema recenziji preko AI generisanih naloga",
+    "build_weeks": 4,
+    "build_notes": "Checklist, kamera i galerija/timelapse fotografija, zajednica (backend + moderacija), sažeci knjiga (licenca ili AI). Najveći rizik: zajednica i sadržaj knjiga; ostalo je jednostavno.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "Dan 1 vs dan 75: uradila sam 75 Soft, evo foto-timelapsa.",
+    "monetization": "Hard paywall bez trial-a; nedeljna ili godišnja pretplata (~$35–40 godišnje prema recenzijama). Korisnici odbijaju godišnju naplatu za 75-dnevni izazov.",
+    "complaints": [
+      "'Samo checklist' za previše para (~8)",
+      "Nema trial-a, ne vidi se ništa pre plaćanja (~5)",
+      "Lista se ne može prilagoditi, nema oz/ml izbora (3)",
+      "Godišnja naplata i odbijene refundacije (3)"
+    ],
+    "suggestions": [
+      "Prilagodljiva lista zadataka i jedinice",
+      "Plan treninga uz izazov",
+      "Jednokratna kupovina po izazovu ili mesečna cena",
+      "Prelazak soft ↔ hard"
+    ],
+    "praise": [
+      "Zajednica i accountability (~4)",
+      "Bolji od zvanične 75 Hard aplikacije (1)",
+      "Personalizovan program (2)"
+    ],
+    "opportunity": "Jednokratna cena po izazovu, prilagodljiva lista, automatski timelapse transformacije za deljenje i grupni 75 sa prijateljima.",
+    "growth": "Od 2025-08; ~4,8 ocena/dan (2.002). Recenzije 30d 1 vs 4: talas iz TikTok-a u julu–avgustu, pa pad.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/75me-75-day-reset-challenge/id6749520351",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1483001711": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend sa licenciranim programima (BODYPUMP i dr.), velika video biblioteka.",
+    "name": "LES MILLS+: home workout app"
+  },
+  "6758156915": {
+    "exclude": true,
+    "exclude_reason": "Igra (BitLife klon), zabava; nije self-improvement.",
+    "name": "ReLife - Life Simulator"
+  },
+  "6790950688": {
+    "exclude": true,
+    "exclude_reason": "Trivia igra o slavnim ličnostima sa licenciranim slikama; zabava, ne lična navika.",
+    "name": "Last One Standing - Celeb Quiz"
+  },
+  "1538397461": {
+    "exclude": true,
+    "exclude_reason": "Wellness sadržaj (svetlosne sekvence, 'psihodelično' iskustvo) uz Nova masku (hardver); nije navika.",
+    "name": "Lumenate: Explore & Relax"
+  },
+  "6764816003": {
+    "exclude": true,
+    "exclude_reason": "AI analiza izgleda (color season, beauty) – nije lična navika ni disciplina.",
+    "name": "Prettier - Glow Up Instantly"
+  },
+  "1576857102": {
+    "name": "Gentler Streak Workout Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Fitness tracker koji umesto Apple prstenova svaki dan prilagođava cilj tvojoj spremnosti (HRV, san) i nagrađuje odmor, pa niz ne puca kad uzmeš slobodan dan.",
+    "specifics": [
+      "Ključna mehanika: Activity Path zona i readiness iz HealthKit-a",
+      "Šta je deljivo: kartice aktivnosti (pominje se Bluesky)",
+      "Društveni sloj: slab",
+      "Monetizacija: freemium + premium pretplata (npr. menstrualni podaci iza paywalla)"
+    ],
+    "psych": "Blagi niz bez osećaja neuspeha: 'Gentler Streaks feels encouraging and keeps me exercising'.",
+    "developer_type": "mali tim (Gentler Stories d.o.o., Slovenija, 2 aplikacije; opis kaže 'small indie team'; Apple Design Award)",
+    "build_weeks": 8,
+    "build_notes": "HealthKit (HRV, san, puls, koraci), Apple Watch app, readiness algoritam, Health Connect na Androidu. Najveći rizik: kalibracija algoritma i watch app.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Apple mi je rekao da sam podbacio, ova aplikacija mi je rekla da danas odmaram.",
+    "monetization": "Freemium + pretplata; cene se ne vide. Žalbe da se podaci zaključaju posle uvoza.",
+    "complaints": [
+      "Podaci iza paywalla posle uvoza (~3)",
+      "Bugovi posle update-a i zaglavljivanje sata (~3)",
+      "Trening snage se ne priznaje, samo kardio (1)",
+      "Neželjene AI funkcije (2)"
+    ],
+    "suggestions": [
+      "Shortcuts podrška",
+      "Sync preporuke na sat preko iCloud-a",
+      "Uređivanje i brisanje aktivnosti",
+      "Unos težine"
+    ],
+    "praise": [
+      "Ohrabrujući pristup sa danima odmora (~4)",
+      "Dizajn i grafika (2)",
+      "Podrška korisnicima (1)"
+    ],
+    "opportunity": "'Blagi niz' je jak za Gen Z burnout narativ, ali publika je starija; uviti ga u društveni format (prijatelji, deljive kartice) i priznavati trening snage.",
+    "growth": "Od 2021-09; ~4,7 ocena/dan (8.825). Recenzije 30d 9 vs 4: blagi rast.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gentler-streak-workout-tracker/id1576857102",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6504743503": {
+    "name": "Dumb Phone (dp)",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Pretvara iPhone u minimalistički 'dumb phone': tekstualni launcher widgeti umesto šarenih ikonica, detox mod sa Screen Time blokadom i launcheri po kontekstu (posao, noć).",
+    "specifics": [
+      "Ključna mehanika: minimalistički home screen + detox mod koji traži više koraka za gašenje",
+      "Šta je deljivo: estetski crno-beli home screen (screenshot)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ~$9,99/god (pominje se i $25), trial pa zaključavanje widgeta"
+    ],
+    "psych": "Trenje + identitet: home screen postaje izjava o sebi: 'Seeing the home screens on other people's phones now stresses me out'.",
+    "developer_type": "mali tim / studio (Tigas Industries Pty Ltd, 9 aplikacija; granično za portfolio)",
+    "build_weeks": 4,
+    "build_notes": "WidgetKit, Screen Time API, Shortcuts/Focus filteri, NFC zaključavanje. Najveći rizik: iOS ograničenja (App Library se ne može sakriti) izazivaju razočaranje.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "Pretvorio sam iPhone u dumbphone za 60 sekundi, screen time mi je pao 34%.",
+    "monetization": "Pretplata ~$9,99 godišnje (pominje se i $25); trial pa zaključavanje. Korisnici se žale na 'bait and switch'.",
+    "complaints": [
+      "'Samo widget', ne skriva ostatak telefona (~6)",
+      "Paywall posle nedelju dana bez jasne najave (~5)",
+      "Bugovi: app picker, linkovi ne otvaraju aplikacije (~5)",
+      "Reklame u aplikaciji (1)"
+    ],
+    "suggestions": [
+      "Lista instaliranih aplikacija umesto unapred odobrenih",
+      "Jasno naznačiti cenu pre setup-a",
+      "Podrška porukama ka Androidu"
+    ],
+    "praise": [
+      "Smanjuje screen time i distrakcije (~8)",
+      "Estetika i jedinstven telefon (2)",
+      "Dobra podrška (1)"
+    ],
+    "opportunity": "Jasno komunicirati iOS ograničenja, dodati jače trenje (NFC, odloženo otključavanje) i deljive 'minimal setup' šablone kao viralni loop.",
+    "growth": "Od 2024-07; ~4,7 ocena/dan (3.833). Recenzije 30d 12 vs 15: stabilno.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/dumb-phone-dp/id6504743503",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1086913845": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija za pametan dušek (hardver).",
+    "name": "Eight Sleep"
+  }
+}

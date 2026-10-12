@@ -1,0 +1,246 @@
+{
+  "1506496657": {
+    "exclude": true,
+    "exclude_reason": "Casual trivia igra (žanr Games) studija sa 6 aplikacija (Mioris); vrednost je u bazi pitanja i nivoima, ne u ličnoj navici. Recenzije: agresivne reklame i muzički nivoi iza paywalla.",
+    "name": "Erudite Trivia: Spin the Brain"
+  },
+  "6578446085": {
+    "exclude": true,
+    "exclude_reason": "Generička aplikacija za san (zvuci, priče, snimanje hrkanja) od prodavca sa 8 aplikacija (APPCENTURY); šablon fabrike aplikacija.",
+    "name": "Sleep Well: Snore & Sleep Talk"
+  },
+  "954029412": {
+    "exclude": true,
+    "exclude_reason": "Roditeljska kontrola (MDM, blokiranje uređaja deteta, lokacija) - utility za roditelje, ne lična navika korisnika; zrela firma od 2015.",
+    "name": "Parental Control App - OurPact"
+  },
+  "6759630758": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je biblioteka snimljenih podkasta (100+ epizoda) za učenje engleskog kao stranog jezika; čisti sadržaj, publika su ne-izvorni govornici (uglavnom španski), ne US 18-24.",
+    "name": "Tempo: Slow English"
+  },
+  "1261193709": {
+    "exclude": true,
+    "exclude_reason": "Kursevi za 20 jezika koje prave nastavnici, studijski snimljen audio; velika biblioteka profesionalnog sadržaja i firma sa 20M korisnika.",
+    "name": "LingoDeer - Learn Languages"
+  },
+  "489689106": {
+    "exclude": true,
+    "exclude_reason": "Zvanična aplikacija PGA Toura - sportski rezultati, poznat brend.",
+    "name": "PGA Tour"
+  },
+  "6744783834": {
+    "name": "Studley: AI Study Tutor",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "AI alat koji od predavanja, PDF-a, slika beleški ili YouTube videa pravi flash kartice, kvizove, beleške i podkast za učenje. Granično jer je to utility za učenje bez jake mehanike doslednosti.",
+    "specifics": [
+      "Ključna mehanika: upload materijala (PDF, slajdovi, snimak predavanja, YouTube) -> AI flash kartice, kvizovi, rezimei, tutor chat, podkast",
+      "Šta je deljivo: rezultat ispita i 'kako učim za 10 minuta' - procena; korisnik traži slanje setova drugima",
+      "Društveni sloj: ne postoji u podacima",
+      "Monetizacija: 1 besplatan set, zatim pretplata; $97.99/god, uz ponudu popusta (~$75)"
+    ],
+    "psych": "Brz osećaj napretka i manje stresa pred ispit (vidljiv napredak kroz kvizove). Dokaz: 'literally the only way i'm passing my classes rn'.",
+    "developer_type": "mali tim/startup (procena): Studley AI Inc., 1 aplikacija",
+    "build_weeks": 6,
+    "build_notes": "Backend sa LLM pipeline-om (parsiranje PDF/slika, transkripcija audio snimaka, YouTube transkripti), generisanje kartica i kvizova, TTS za podkast, pretplate. Najveći rizik: pouzdanost snimanja dugih predavanja (gubitak fajlova) i trošak LLM/transkripcije po korisniku.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Slikala sam beleške 10 minuta pred test - aplikacija mi je napravila kviz i dobila sam peticu.'",
+    "monetization": "Pretplata ($97.99/god, popust u onboardingu); besplatno samo jedan set. Dobar deo plaća i hvali, ali mlađi korisnici masovno odbijaju plaćanje.",
+    "complaints": [
+      "Besplatno samo jedan set, sve iza pretplate (~9)",
+      "Izgubljeni snimci predavanja (~2)",
+      "Neuspešan upload slika/fajlova i nepotpuna obrada dokumenta (~3)",
+      "Podkast funkcija slaba, limit od 10 stavki po setu (~1)"
+    ],
+    "suggestions": [
+      "Više od 10 stavki po setu i dodatni fajlovi uz postojeći set",
+      "Slanje/deljenje setova drugima",
+      "Nastavak prekinutog snimanja",
+      "Više jezika (npr. kurdski)"
+    ],
+    "praise": [
+      "Pomaže da se prođe ispit uz manje učenja",
+      "Jednostavno - slikaš beleške i gotovo",
+      "Bolje od privatnog nastavnika (po recenzijama)"
+    ],
+    "opportunity": "Dodati dnevni niz učenja, zajedničke setove i takmičenje sa drugarima iz odeljenja pred ispit; fer besplatni nivo (npr. 3 seta nedeljno) za mlađu publiku.",
+    "growth": "Izlazak 2025-05-02, ~8,5 ocena dnevno (4.457, prosek 4,68); recenzije 6 u 30d naspram 4 - blagi rast, sezonski vezano za školsku godinu (procena).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/studley-ai-study-tutor/id6744783834",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "449810000": {
+    "exclude": true,
+    "exclude_reason": "JEFIT - zrela firma od 2011, biblioteka 1.400+ vežbi sa HD video instrukcijama i 12M korisnika; nije replikabilno za 2 meseca.",
+    "name": "JEFIT Workout Plan Gym Tracker"
+  },
+  "6752882830": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je zarada (gledanje reklama za novčiće i isplata na PayPal), a koraci su samo izgovor; finansijska/reward mehanika van niše. Recenzije masovno prijavljuju neisplate i prevaru, što nosi regulatorni i reputacioni rizik.",
+    "name": "GoWard - Walk & Reward"
+  },
+  "6505056301": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija za upoznavanje prijatelja (Tinder za prijatelje) - kategorija društvenog umrežavanja/dating, zavisi od mrežnog efekta i moderacije; nije lična navika.",
+    "name": "Alyke: Find Friends Who Vibe"
+  },
+  "1448277011": {
+    "exclude": true,
+    "exclude_reason": "Fitia - kalorijski brojač sa 10M+ korisnika i 'najvećom verifikovanom bazom hrane'; firma i obim sadržaja (baza namirnica, planovi) van 2 meseca.",
+    "name": "Fitia: Calorie Counter & Diet"
+  },
+  "6636516894": {
+    "name": "Seed: Quit Temptation & Urges",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Igrifikovana aplikacija za odvikavanje (porn, šećer, društvene mreže) gde niz dana raste kao interaktivna 3D kugla, uz hipnozu, AI coacha i zajednicu. Granično zbog tvrdog paywalla koji korisnici odbijaju i jasnih znakova plaćenog marketinga.",
+    "specifics": [
+      "Ključna mehanika: niz dana prikazan 3D 'orbovima', nivoi i nagrade, hipnoza i vežbe disanja za trenutke iskušenja, AI coach, blokiranje sajtova",
+      "Šta je deljivo: izgled orba / nivo niza - procena",
+      "Društveni sloj: zajednica u aplikaciji (bez detalja)",
+      "Monetizacija: tvrdi paywall posle dugog onboardinga; recenzije: $45/god, $10+/mes, $22, $50"
+    ],
+    "psych": "Niz dana vizualizovan kao objekat koji raste daje strah od gubitka i ponos. Dokaz (negativan, ali pokazuje vezanost): 'no matter how long the streak it stays on the white seed'.",
+    "developer_type": "mali tim (procena): Nora Studios Inc, 2 aplikacije",
+    "build_weeks": 6,
+    "build_notes": "3D/animirani orb (SceneKit/Rive), brojač niza, audio hipnoza (sadržaj), AI coach (LLM), zajednica (backend + moderacija), Screen Time API ili content blocker. Najveći rizik: pouzdanost milestone i statistike (recenzije), moderacija zajednice i Apple pravila za temu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moje seme je za 30 dana bez skrolovanja postalo drvo - evo kako izgleda.'",
+    "monetization": "Tvrdi paywall bez besplatne verzije ($45/god, ~$10+/mes); većina recenzija ga odbija.",
+    "complaints": [
+      "Nema besplatne verzije ni triala, paywall posle dugog onboardinga (~14)",
+      "Bagovi: milestone ne raste, statistika netačna, gubi chatove, odjavljuje (~3)",
+      "Zaglavljuje se na ekranu 'custom plan' (~1)",
+      "Ne može da se prilagodi (~1)"
+    ],
+    "suggestions": [
+      "Besplatna osnovna verzija sa brojačem niza",
+      "Trial pre plaćanja",
+      "Kraći onboarding"
+    ],
+    "praise": [
+      "Pomaže uz ličnu posvećenost",
+      "Lep koncept i UI",
+      "Radi ono što obećava"
+    ],
+    "opportunity": "Isti vizuelni koncept niza (biljka/orb koji raste) sa besplatnim jezgrom i partnerom za polaganje računa; pretplata za hipnozu/AI i analitiku.",
+    "growth": "Izlazak 2024-08-21, ~8,3 ocene dnevno (6.484, prosek 4,66); recenzije 3 u 30d naspram 3 - stabilno, rast verovatno vođen Instagram reklamama (recenzije ih pominju).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/seed-quit-temptation-urges/id6636516894",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6683289805": {
+    "name": "Fluently: AI Language Learning",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Učenje jezika kroz glasovne razgovore sa AI tutorom koga sam prilagodiš (ime, karakter, teme), sa ispravkama u realnom vremenu. Granično: slab princip doslednosti i publika nije primarno Gen Z.",
+    "specifics": [
+      "Ključna mehanika: glasovni razgovor sa AI tutorom, trenutne ispravke, personalizovan plan, praćenje napretka",
+      "Šta je deljivo: snimak razgovora sa AI tutorom - procena",
+      "Društveni sloj: ne postoji u podacima",
+      "Monetizacija: pretplata bez triala za deo korisnika, limit 100 minuta govora nedeljno, tromesečni plan"
+    ],
+    "psych": "Govor bez straha od osude gradi samopouzdanje i osećaj napretka. Dokaz: 'there's no one on the other end to feel embarrassed'.",
+    "developer_type": "startup (procena): Fluently, Inc., 1 aplikacija; jedna recenzija tvrdi da je ruski tim (neprovereno)",
+    "build_weeks": 7,
+    "build_notes": "Realtime voice AI (STT + LLM + TTS ili realtime API), personas tutora, ocena izgovora, plan učenja, pretplate sa merenjem minuta. Najveći rizik: trošak po minuti govora i latencija; kvalitet povratne informacije za izgovor.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Napravila sam AI tutora koji priča kao moj crush iz Španije - posle nedelju dana pričam bez zamuckivanja.'",
+    "monetization": "Pretplata sa nedeljnim limitom od 100 minuta i doplatom za više; recenzije prijavljuju nejasne limite i naplatu, ali i zadovoljne platiše.",
+    "complaints": [
+      "Skriven limit od 100 minuta nedeljno / 'bait and switch' (~2)",
+      "Nema triala, paywall posle upitnika (~4)",
+      "Prezahtevno za početnike (~3)",
+      "Problemi sa otkazivanjem i naplatom, sumnja u lažne recenzije (~4)"
+    ],
+    "suggestions": [
+      "Režim za početnike sa sporijim tempom",
+      "Jasno prikazani limiti minuta pre kupovine",
+      "Besplatan probni razgovor"
+    ],
+    "praise": [
+      "Razgovor deluje kao sa stvarnom osobom",
+      "Prilagodljiv tutor i teme",
+      "Brz rast samopouzdanja u govoru"
+    ],
+    "opportunity": "Dodati dnevni niz kratkih razgovora (3 minuta dnevno) i deljive 'pre/posle' snimke izgovora; jasan model minuta i besplatan prvi razgovor.",
+    "growth": "Izlazak 2024-10-28, ~8,3 ocene dnevno (5.900, prosek 4,81); recenzije 19 u 30d naspram 22 - stabilno; recenzije sugerišu plaćeni marketing i moguće lažne ocene.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 1,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/fluently-ai-language-learning/id6683289805",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1234323923": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za FreeStyle Libre CGM senzore (Abbott ekosistem) - medicinski uređaj, regulisan domen, hardver.",
+    "name": "LibreLinkUp"
+  },
+  "6744417372": {
+    "exclude": true,
+    "exclude_reason": "Spark od Elevate Labs (kreatori Elevate i Balance) - poznat brend; vrednost je u ekspertski pisanom dnevnom sadržaju.",
+    "name": "Spark: Daily Learning Puzzles"
+  }
+}

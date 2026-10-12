@@ -1,0 +1,94 @@
+{
+  "_note": "Pragovi za levak. Menjaju se ovde, bez diranja skripti. Kalibracija posle prvog skena.",
+  "market": "us",
+  "requestDelaySeconds": 3.2,
+  "criticalMass": {
+    "minRatingsPass": 200,
+    "minRatingsBorderline": 100
+  },
+  "quality": {
+    "minAvgRatingPass": 4.3,
+    "minAvgRatingBorderline": 3.5
+  },
+  "alive": {
+    "windowDays": 90,
+    "minReviewsInWindow": 10,
+    "maxDaysSinceLastReview": 60
+  },
+  "smallDeveloper": {
+    "maxAppsPass": 5,
+    "maxAppsBorderline": 10,
+    "bigBrandRatingsFlag": 100000
+  },
+  "marketingIntensity": {
+    "_levels": "0 = nema reklama i oznake pracenja; 1 = do ~5 reklama, malo varijanti, kratko; 2 = 6-20 reklama ili 60+ dana ili vise varijanti; 3 = 20+ reklama, mnogo kreativa, redovni influenceri",
+    "passMaxLevel": 1,
+    "borderlineMaxLevel": 2
+  },
+  "build": {
+    "maxMonths": 2,
+    "teamSize": 3,
+    "assumption": "3 developera sa punom AI asistencijom, cross-platform, kompletna aplikacija iOS + Android"
+  },
+  "marketability": {
+    "_questions": [
+      "sustina u jednoj recenici",
+      "vizuelni rezultat u prve 3 sekunde",
+      "prirodan format za kreatore",
+      "ugradjen deljiv rezultat"
+    ],
+    "passMin": 3,
+    "borderlineMin": 2
+  },
+  "weights": {
+    "demand": 20,
+    "marketabilityVirality": 20,
+    "marketingGap": 15,
+    "buildEase": 15,
+    "voiceOfCustomer": 10,
+    "monetization": 10,
+    "principleFit": 10
+  },
+  "_nicheNote": "Zanr filtrira primarni zanr aplikacije. Kljucne reci se proveravaju samo u nazivu, da 'invest in yourself' u opisu ne izbaci dobru aplikaciju.",
+  "allowedGenres": [
+    "Health & Fitness",
+    "Lifestyle",
+    "Productivity",
+    "Education",
+    "Social Networking",
+    "Sports",
+    "Games",
+    "Medical",
+    "Reference",
+    "Utilities"
+  ],
+  "excludeNameKeywords": [
+    "dating",
+    "casino",
+    "slots",
+    "betting",
+    "sportsbook",
+    "loan",
+    "credit",
+    "crypto",
+    "bitcoin",
+    "stock",
+    "invest",
+    "budget",
+    "bank",
+    "kids",
+    "toddler",
+    "baby",
+    "pregnancy",
+    "period",
+    "face swap",
+    "avatar",
+    "ai photo",
+    "ai video"
+  ],
+  "prefilter": {
+    "_note": "Jeftini filteri pre skupih poziva: aplikacija azurirana u poslednjih N dana, minimalno ocena po danu od izlaska, developer sa najvise maxAppsBorderline aplikacija u pool-u.",
+    "maxDaysSinceUpdate": 180,
+    "minRatingsPerDay": 1.0
+  }
+}

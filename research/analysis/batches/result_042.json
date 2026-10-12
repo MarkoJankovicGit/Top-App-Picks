@@ -1,0 +1,304 @@
+{
+  "6759556869": {
+    "name": "ScrollToll : Screen-Time Gym",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Blokator aplikacija gde vreme za skrolovanje zarađuješ sklekovima i čučnjevima koje kamera broji u realnom vremenu.",
+    "specifics": [
+      "Ključna mehanika: izabrane aplikacije se zaključaju kad potrošiš vreme; svaki ponavljanje (sklek, čučanj, podizanje ruku) donosi minute; banka do 2h",
+      "Šta je deljivo: snimak 'plaćanja' skrolovanja sklekovima, pad screen time-a (procena; nema ugrađenog deljenja)",
+      "Društveni sloj: nema; korisnici ga ipak koriste u paru ('me and my husband')",
+      "Monetizacija: pretplata; besplatni deo vrlo ograničen (2 treninga nedeljno prema recenziji)"
+    ],
+    "psych": "Nagrada za akciju pretvara lošu naviku u okidač za dobru, uz trenje: 'it makes me work to scroll on apps.'",
+    "developer_type": "Mali tim ili solo (procena): BRAINBOXAUTOMATIONS LTD, 1 aplikacija.",
+    "build_weeks": 7,
+    "build_notes": "iOS Screen Time API (FamilyControls/ManagedSettings/DeviceActivity – potreban Apple entitlement), Android Accessibility/UsageStats; on-device pose detection (Apple Vision / ML Kit Pose) za brojanje ponavljanja. Najveći rizik: odobrenje FamilyControls entitlementa i tačnost brojanja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Hoćeš 10 minuta TikToka? Plati ih sa 20 sklekova.",
+    "monetization": "Pretplata; premium neki smatraju vrednim, ali mnogo mlađih korisnika odbija plaćanje.",
+    "complaints": [
+      "Paywall/skupo, očekivali besplatno (5)",
+      "Ne može da se obriše/zaključava aplikacije posle odustajanja (2)",
+      "Brojanje ponekad netačno (3)",
+      "Previše ograničen besplatni nivo (1)"
+    ],
+    "suggestions": [
+      "Dodati bicepse, zgibove i vežbe sa tegovima (3)",
+      "Više tipova vežbi",
+      "Jasan i besplatan osnovni nivo"
+    ],
+    "praise": [
+      "Stvarno smanjuje screen time ('more than three hours')",
+      "Motivišuće i zabavno, osećaj takmičenja",
+      "Brojanje radi za širok raspon sposobnosti"
+    ],
+    "opportunity": "Dodati društveni sloj (rang prijatelja po 'zarađenim' minutima i sklekovima nedeljno), više vežbi i besplatan dnevni kredit; jasan i bezbedan izlaz iz blokade da se izbegnu 1* recenzije.",
+    "growth": "2,61 ocena/dan (491 ocena za 188 dana) – solidan start; recenzije 30d: 2 naspram 9 – usporavanje posle početnog talasa.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/scrolltoll-screen-time-gym/id6759556869",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6474153357": {
+    "exclude": true,
+    "exclude_reason": "Brend influenserke/trenerke (Senada Greca) na platformi Aflete koja pravi aplikacije za trenere; vrednost je u autorskom video sadržaju i marketingu preko influensera.",
+    "name": "WeRise App"
+  },
+  "483994930": {
+    "name": "QuitNow",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Klasičan brojač za prestanak pušenja: vreme bez cigarete, ušteđen novac, povraćeni dani života i 82 dostignuća, uz chat bivših pušača.",
+    "specifics": [
+      "Ključna mehanika: brojač od datuma prestanka, ušteda i zdravstveni napredak, dostignuća",
+      "Šta je deljivo: broj dana/ušteda (procena)",
+      "Društveni sloj: chat zajednice bivših pušača, mesečne live sesije sa stručnjakom",
+      "Monetizacija: freemium + Pro pretplata; reklame u besplatnoj verziji"
+    ],
+    "psych": "Vidljivi brojevi uštede i zdravlja daju motivaciju i strah od resetovanja: 'Seeing the numbers is really inspiring and motivating.'",
+    "developer_type": "Mali tim (procena): Fewlaps SL, 3 aplikacije, postoji od 2011.",
+    "build_weeks": 6,
+    "build_notes": "Brojač, kalkulacije uštede, dostignuća, chat sa moderacijom (backend), notifikacije. Najveći rizik: moderacija zajednice i privatnost podataka (recenzije kritikuju deljenje podataka).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 2,
+    "hook": "Dan 41 bez cigareta: 4000 dolara koje bih spalio ove godine.",
+    "monetization": "Freemium; Pro pretplata koju deo korisnika smatra preskupom; reklame.",
+    "complaints": [
+      "Pretplata skupa / ranije bilo besplatno (5)",
+      "Ne može da se resetuje datum posle recidiva (2)",
+      "Praćenje i deljenje podataka (2)",
+      "Kupovina se ne prenosi Android→iPhone ili posle reinstalacije (2)"
+    ],
+    "suggestions": [
+      "Reset datuma posle recidiva",
+      "Prilagodljiva dostignuća",
+      "DM funkcija da glavni chat ostane fokusiran",
+      "Više dostignuća posle 82"
+    ],
+    "praise": [
+      "Vidljiva ušteda i zdravstveni napredak",
+      "Ohrabrenje zajednice",
+      "Pomaže i godinama posle prestanka"
+    ],
+    "opportunity": "Za Gen Z verziju fokus na vejpovanje, recidiv bez kazne (reset uz čuvanje ukupnog napretka), privatnost i grupe prijatelja umesto javnog chata.",
+    "growth": "2,51 ocena/dan (13609 ocena za 5420 dana); recenzije 30d: 1 naspram 2 – zrela aplikacija, nizak tempo novih recenzija.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quitnow/id483994930",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "945480667": {
+    "exclude": true,
+    "exclude_reason": "Velika firma i poznat brend sa univerzitetskim licenciranim kursevima.",
+    "name": "edX online learning"
+  },
+  "1312634900": {
+    "exclude": true,
+    "exclude_reason": "Party igra za dva igrača na jednom uređaju; osnovna vrednost je zabava, ne lična navika.",
+    "name": "Challenge Your Friends 2Player"
+  },
+  "1413514350": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je društvena mreža i dating za trezvene (recenzije: lažni profili, prevaranti); zahteva kritičnu masu zajednice i moderaciju, nije lična navika.",
+    "name": "Loosid Recovery & Sober App"
+  },
+  "1364781299": {
+    "exclude": true,
+    "exclude_reason": "Patentirana sonar tehnologija merenja sna validirana studijama; firma, ne može se napraviti za 2 meseca.",
+    "name": "SleepScore by Sleep.ai"
+  },
+  "1049691226": {
+    "exclude": true,
+    "exclude_reason": "Firma sa velikom bibliotekom kurseva (35+ kurseva, 5000+ programa) i sertifikatima; obim sadržaja preko 2 meseca.",
+    "name": "Programming Hub: Learn Coding"
+  },
+  "6447218598": {
+    "name": "Capy Diet: Fun Calorie Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Brojač kalorija gde svaki zdrav izbor hrani i razvija tvoju kapibaru: zarađuješ dragulje za odeću, nameštaj i mini igre.",
+    "specifics": [
+      "Ključna mehanika: logovanje obroka (AI sken, barkod), personalizovan plan, nagrade u valuti za kupovinu predmeta za ljubimca",
+      "Šta je deljivo: obučena kapibara i uređena kućica (procena)",
+      "Društveni sloj: 'Capy Town' – pozivanje prijatelja (iz opisa)",
+      "Monetizacija: tvrdi paywall posle onboarding-a, nedeljni trial pa mesečno/godišnje"
+    ],
+    "psych": "Briga o ljubimcu preusmerava fokus sa brojeva na odnos i smanjuje osećaj krivice: 'I hate the very boring fitness app that feel so serious and intimidating. This app actually makes weight loss... fun!'",
+    "developer_type": "Mali tim (procena): Starry Web Ltd, 2 aplikacije.",
+    "build_weeks": 8,
+    "build_notes": "AI prepoznavanje hrane (vision LLM API), baza namirnica (licenca ili USDA), barkod, ilustracije ljubimca i predmeta, prodavnica i mini igre, backend za prijatelje. Najveći rizik: tačnost kalorija i osetljivost teme (poremećaji ishrane kod mlade publike).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moja kapibara dobija novi šešir svaki put kad pojedem povrće.",
+    "monetization": "Tvrdi paywall, pretplata sa 7-dnevnim trialom; deo korisnika kaže 'worth the money', većina negativnih recenzija je zbog paywall-a.",
+    "complaints": [
+      "Tvrdi paywall bez upozorenja / nema besplatne verzije (12)",
+      "Podrška ne odgovara, refundacije (4)",
+      "Prazna prodavnica i nema novih sadržaja – strah od napuštene aplikacije (3)",
+      "AI art i tekstovi (1)"
+    ],
+    "suggestions": [
+      "Više predmeta i dekoracija u prodavnici",
+      "Čuvanje omiljenih obroka",
+      "Unos vode u fl oz",
+      "Besplatna osnovna verzija kao Finch/Bitepal"
+    ],
+    "praise": [
+      "Slatko i bez osude, motiviše duže od drugih trackera",
+      "AI i barkod sken",
+      "Pozitivni komentari i grafikoni napretka"
+    ],
+    "opportunity": "Isti 'ljubimac kao motivacija' pristup sa freemium modelom (kao Finch), stalnim novim predmetima i bezbednim okvirom bez agresivnog deficita; mogući pivot sa kalorija na šire zdrave navike radi manjeg ED rizika.",
+    "growth": "2,47 ocena/dan (2408 ocena za 977 dana); recenzije 30d: 3 naspram 0 – blagi oporavak aktivnosti, ali korisnici pominju izostanak update-a.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/capy-diet-fun-calorie-counter/id6447218598",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6469045400": {
+    "exclude": true,
+    "exclude_reason": "Igra (srednjovekovni life sim); osnovna vrednost je zabava, ne lična navika.",
+    "name": "Medieval Life - Life Simulator"
+  },
+  "648465971": {
+    "exclude": true,
+    "exclude_reason": "Firma za grupne treninge uživo sa sertifikovanim trenerima i lokacijama; aplikacija je prateći alat za fizički servis.",
+    "name": "Camp Gladiator"
+  },
+  "1537610947": {
+    "exclude": true,
+    "exclude_reason": "Brend influenser trenerki sa 400+ profesionalnih video časova i 30+ vodiča; vrednost je u autorskom sadržaju.",
+    "name": "WeGLOW: Home Workout for Women"
+  },
+  "6744650800": {
+    "name": "Gym Geek Calorie Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Brojač kalorija sa 'phase-in' periodom (postepeno smanjenje kalorija) i automatskim prilagođavanjem cilja prema promeni težine.",
+    "specifics": [
+      "Ključna mehanika: plan težine, postepeni ulazak u deficit, barkod/baza od 3,8M namirnica/Quick Track, AI pretraga",
+      "Šta je deljivo: ništa vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium; makroi iza paywall-a; ~15 USD/mes prema recenziji"
+    ],
+    "psych": "Kvantifikacija daje kontrolu: 'I find being able to write down what I'm eating and have the app add it up is very helpful.' Slaba emotivna kuka.",
+    "developer_type": "Mali tim (procena): Recoreo Ltd, 1 aplikacija.",
+    "build_weeks": 7,
+    "build_notes": "Licencirana baza namirnica ili USDA + crowdsourcing, barkod, AI pretraga/sken, algoritam prilagođavanja. Najveći rizik: kvalitet baze i tačnost AI unosa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Ne skači naglo u deficit: aplikacija te uvodi u dijetu za 2 nedelje.",
+    "monetization": "Freemium; premium ~15 USD/mes (recenzija), korisnici smatraju skupim.",
+    "complaints": [
+      "Netačna AI pretraga i duplikati u bazi (5)",
+      "Makroi/proteini iza paywall-a, skupo (3)",
+      "Teško pravljenje omiljenih i ponovni unos (3)",
+      "Samo grami, bez fl oz/ml (1)"
+    ],
+    "suggestions": [
+      "Praćenje vode i vlakana",
+      "Apple Health sinhronizacija",
+      "Sken tanjira ili etikete fotografijom",
+      "Prikaz kalorija po obroku"
+    ],
+    "praise": [
+      "Jednostavno i bez reklama",
+      "Pametno prilagođavanje cilja",
+      "Korisnici prijavljuju gubitak težine"
+    ],
+    "opportunity": "Phase-in i adaptivni cilj su dobra ideja, ali sama kategorija je prezasićena; vredi samo kao funkcija u široj aplikaciji navika.",
+    "growth": "2,43 ocena/dan (1319 ocena za 544 dana); recenzije 30d: 0 naspram 3 – usporavanje.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gym-geek-calorie-counter/id6744650800",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1474967653": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend i firma (više platformi, browser ekstenzije, milioni korisnika); nije mali developer.",
+    "name": "BlockSite: Block Apps & Focus"
+  },
+  "6478102304": {
+    "exclude": true,
+    "exclude_reason": "Igra (survival/RPG); osnovna vrednost je zabava, ne lična navika.",
+    "name": "Amikin Village: Magic Sim RPG"
+  }
+}

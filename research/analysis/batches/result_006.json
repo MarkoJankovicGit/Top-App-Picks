@@ -1,0 +1,246 @@
+{
+  "1145935738": {
+    "exclude": true,
+    "exclude_reason": "Nutritivni tracker zasnovan na verifikovanoj bazi od 1,1M namirnica; etablirana firma sa oznakom praćenja; baza nije izvodljiva za 2 meseca.",
+    "name": "Cronometer: Calorie Counter"
+  },
+  "1541027222": {
+    "name": "ScreenZen- Screen Time Control",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator aplikacija koji ne zabranjuje, nego dodaje trenje: odloženo otvaranje koje raste sa svakim otvaranjem, pitanje 'Is this important', prekid skrolovanja i zaključavanje sopstvenih podešavanja. Sve ključno je besplatno, uz niz dana za poštovanje limita.",
+    "specifics": [
+      "Ključna mehanika: pauza pre otvaranja distraktivne aplikacije (rastuća), limiti po danu i aplikaciji, strogi blok po vremenu ili broju otvaranja, niz dana bez prekoračenja.",
+      "Šta je deljivo: pad screen time-a i dužina niza (recenzija pominje nizove 500+ i 400+); vidljiv mehanizam deljenja u aplikaciji ne postoji (procena).",
+      "Društveni sloj: nema ga u aplikaciji; širi se preporukom ('I've put over 7 friends on').",
+      "Monetizacija: besplatno, uz donaciju ili doživotni premium (mini-igre umesto skrolovanja)."
+    ],
+    "psych": "Trenje prekida automatsko otvaranje iz mišićne memorije, a niz dana dodaje strah od gubitka: 'prevents opening certain apps out of muscle memory'.",
+    "developer_type": "solo ili mali tim (ScreenZen LLC, 1 aplikacija, bez oznake praćenja; recenzije ističu da developer sluša feedback)",
+    "build_weeks": 6,
+    "build_notes": "iOS: Screen Time API (FamilyControls, ManagedSettings, DeviceActivity, shield ekran) uz Apple entitlement; Android: UsageStats + AccessibilityService (rizik Google Play politike). Minimalan backend. Najveći rizik: krhkost Screen Time API-ja posle iOS update-a (već se vidi u recenzijama) i odobrenje entitlement-a.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Stavio sam 30 sekundi čekanja pre svakog otvaranja Instagrama, evo mog screen time-a posle 7 dana.",
+    "monetization": "Besplatno; dobrovoljna donacija ili doživotni pristup premium funkcijama (cena se ne vidi u paketu).",
+    "complaints": [
+      "Bagovi posle iOS ili app update-a: dugme 'Open' ne reaguje, rušenje u podešavanjima (~3)",
+      "Blokira bez upozorenja ili blokira i aplikacije koje nisu izabrane (~2)",
+      "Ne mogu da se obrišu aplikacije, stalna ponovna sinhronizacija (~2)",
+      "'Nije besplatno' jer je deo iza plaćanja (~1)"
+    ],
+    "suggestions": [
+      "Pouzdano upozorenje 5 minuta pre bloka",
+      "Jasan 'stop' signal kad korisnik zaobiđe ograničenje",
+      "Zadržati jednostavnost umesto novih kompleksnih funkcija"
+    ],
+    "praise": [
+      "Besplatno, a efikasnije od Apple Screen Time i plaćenih konkurenata (~10)",
+      "Visoka prilagodljivost i teško zaobilaženje (~5)",
+      "Brojač otvaranja i niz dana drže korisnika iskrenim (~3)"
+    ],
+    "opportunity": "Dodati društveni sloj za Gen Z: zajednički niz sa prijateljem, deljiva kartica 'vraćenih sati' i nedeljni duel ko manje skroluje; pretplata na društvene funkcije uz besplatno jezgro.",
+    "growth": "~26,9 ocena dnevno tokom ~5,2 godine (51.441 ocena); 150 recenzija u 30d naspram 0 u prethodnih 30d (verovatno praznina u podacima, procena). Stabilan organski rast vođen preporukama.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6448732070": {
+    "exclude": true,
+    "exclude_reason": "Telehealth sa registrovanim dijetetičarima i naplatom preko osiguranja: regulisan medicinski domen, nije lična navika koja se pravi za 2 meseca.",
+    "name": "Nourish: Eating Well Made Easy"
+  },
+  "6739616715": {
+    "exclude": true,
+    "exclude_reason": "Igra velikog izdavača (NEXON), nema veze sa ličnom navikom.",
+    "name": "MapleStory : Idle RPG"
+  },
+  "1096884447": {
+    "exclude": true,
+    "exclude_reason": "Licencirani TV brend (Sony/Uken), trivia igra, ne lična navika.",
+    "name": "Jeopardy! Trivia TV Game Show"
+  },
+  "6472513080": {
+    "exclude": true,
+    "exclude_reason": "Veb pretraživač (utility) poznate firme The Browser Company.",
+    "name": "Arc Search — Find it, Faster"
+  },
+  "1210079064": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka profesionalnih kurseva (20+ jezika), etablirana firma sa 35M korisnika; nije izvodljivo za 2 meseca.",
+    "name": "Sololearn: Learn to Code"
+  },
+  "6737213796": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj i fabrika aplikacija (Hangzhou Huajian, 9 aplikacija).",
+    "name": "Bible Trivia Quiz Games"
+  },
+  "1225155794": {
+    "name": "Flora - Green Focus",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Fokus tajmer u kom drvo raste dok ne diraš telefon, a umire ako izađeš; zaokret u odnosu na Forest je zajedničko sađenje sa prijateljima (vidi se ko je ubio drvo) i velikodušan besplatni nivo.",
+    "specifics": [
+      "Ključna mehanika: sesija fokusa = seme koje raste u drvo; izlazak iz aplikacije ubija drvo; uspeh otključava nove vrste i gradi baštu.",
+      "Šta je deljivo: lična bašta, kolekcija drveća i statistika učenja.",
+      "Društveni sloj: grupno sađenje, poređenje vremena učenja sa prijateljima, chat; nagradno drvo od prijatelja.",
+      "Monetizacija: besplatno jezgro i premium (cene nisu u paketu, procena)."
+    ],
+    "psych": "Gubitak nečega što si već počeo da gradiš jači je od nagrade: 'the guilt of killing a tree has been a huge factor in my ability to stay focused'.",
+    "developer_type": "mali tim (AppFinca Inc., 1 aplikacija, ali oznaka praćenja)",
+    "build_weeks": 5,
+    "build_notes": "Tajmer + blokiranje (iOS Screen Time API ili samo detekcija napuštanja aplikacije), backend za prijatelje i grupne sesije u realnom vremenu, ilustracije drveća. Najveći rizik: diferencijacija u zasićenoj kategoriji (Forest, Focus Friend) i entitlement za blokiranje.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Ako uzmem telefon tokom učenja, moje drvo umire, a cela grupa to vidi.",
+    "monetization": "Freemium; korisnici hvale koliko je besplatno ('more free features than forest'), cene premiuma nisu u paketu.",
+    "complaints": [
+      "Nema tutorijala, deluje komplikovano (~1)",
+      "Bag tajmera, ne dozvoljava manje od 43 minuta (~1)",
+      "Update promenio omiljeni doživljaj (~1)",
+      "Ekran mora da ostane uključen, prazni bateriju (~1)"
+    ],
+    "suggestions": [
+      "Dark mode",
+      "Onboarding ili tutorijal",
+      "Rad sa ugašenim ekranom"
+    ],
+    "praise": [
+      "Osećaj krivice zbog ubijenog drveta drži fokus (~4)",
+      "Ponos na sopstvenu baštu, slatko i opuštajuće (~4)",
+      "Takmičenje sa prijateljima u vremenu učenja i besplatne funkcije (~4)"
+    ],
+    "opportunity": "Pretvoriti grupno sađenje u glavni proizvod: zajednička 'šuma' razreda ili ekipe sa nedeljnim rangom i 'study with me' sesijama, uz rad sa ugašenim ekranom.",
+    "growth": "~24,9 ocena dnevno tokom ~9 godina (82.836 ocena); recenzije 46 u 30d naspram 23 u prethodnih 30d, rast verovatno zbog početka školske godine (procena). Trajna, sezonska potražnja studenata.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/flora-green-focus/id1225155794",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6478076952": {
+    "exclude": true,
+    "exclude_reason": "Generički kalorijski tracker iz fabrike aplikacija (ENERJOY, 8 aplikacija), oznaka praćenja.",
+    "name": "Eato®: Calorie Tracker"
+  },
+  "1590590105": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za FDA hardver (bebina čarapa i kamera): hardver i regulisan domen.",
+    "name": "Owlet Dream"
+  },
+  "6744124873": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je verski sadržaj (otključavanje skeniranjem Biblije, Bible Chat); mehanika blokiranja je dobra, ali niša je religijska.",
+    "name": "Bible Mode: Reduce Screen Time"
+  },
+  "6738882620": {
+    "name": "Language Learning: Pingo AI",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "AI govorni partner za jezike sa izraženom 'drskom' ličnošću koja te zadirkuje kad grešiš, umesto neutralnog tutora; razgovor u realnim scenarijima, uz prekid i pitanja usred rečenice.",
+    "specifics": [
+      "Ključna mehanika: glasovni razgovor sa AI, ispravke izgovora i gramatike, personalizovan plan, sesije 10–15 min.",
+      "Šta je deljivo: snimci AI-ja koji 'vređa' korisnika kao sadržaj.",
+      "Društveni sloj: nema ga (procena).",
+      "Monetizacija: tvrdi paywall odmah posle onboardinga, probni period, godišnja pretplata ~$99,99–107 prema recenzijama."
+    ],
+    "psych": "Humor i blago poniženje prave emotivan, pamtljiv trenutak i deljiv sadržaj: 'it's cool that it calls you stupid every once in a while'.",
+    "developer_type": "firma ili startup (Pingo AI, Inc., 1 aplikacija, 8M+ korisnika, oznaka praćenja, recenzije pominju reklame)",
+    "build_weeks": 8,
+    "build_notes": "LLM + govor u realnom vremenu (STT/TTS ili realtime voice API), backend, praćenje napretka, više jezika. Najveći rizik: latencija i trošak po minuti razgovora (recenzije već žale na sporost), kvalitet za manje jezike.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moj AI profesor španskog me upravo nazvao beskorisnim, i od tad više ne grešim.",
+    "monetization": "Pretplata bez besplatnog nivoa; ~$99,99–107 godišnje prema recenzijama; snažan otpor korisnika.",
+    "complaints": [
+      "Nema besplatnog plana, paywall pre bilo kakvog korišćenja (~9)",
+      "Naplata posle otkazivanja probnog perioda, teško otkazivanje (~4)",
+      "Spor odziv, lag u razgovoru (~3)",
+      "Loša podrška, AI odgovori na mejl (~2)"
+    ],
+    "suggestions": [
+      "Furigana iznad kanjija za japanski",
+      "Prilagodljiva romanizacija za ruski",
+      "Slanje fajlova i teksta usred glasovnog razgovora",
+      "Više jezika (npr. haićanski kreolski)"
+    ],
+    "praise": [
+      "Duhovita, drska ličnost AI-ja (~3)",
+      "Može da se prekine i pita usred rečenice, ispravlja odmah (~3)",
+      "Kratke dnevne sesije koje se uklapaju u dan (~1)"
+    ],
+    "opportunity": "Zadržati 'roast' ličnost kao glavni marketinški hook, ali dodati besplatan dnevni razgovor od 3 minuta i niz dana, uz transparentnu naplatu i nižu latenciju.",
+    "growth": "~23,4 ocene dnevno tokom ~22 meseca (15.580 ocena); recenzije 44 u 30d naspram 41 u prethodnih 30d, stabilno. Rast deluje vođen plaćenim marketingom.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/language-learning-pingo-ai/id6738882620",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1634707821": {
+    "exclude": true,
+    "exclude_reason": "Ne radi bez hardvera (Tempur pametni krevet); poznat brend.",
+    "name": "Tempur® Sleeptracker-AI®"
+  },
+  "1485310935": {
+    "exclude": true,
+    "exclude_reason": "Digitalni planer sa velikom kuriranom bibliotekom stikera i šablona koja se puni mesečno; studio sa 10 aplikacija (Pixite). Vrednost je kreativni sadržaj, ne navika.",
+    "name": "Planner & Journal - Zinnia"
+  }
+}

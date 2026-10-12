@@ -1,0 +1,190 @@
+{
+  "1188810254": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka video treninga i planova ishrane za žene (Organic Apps, 5 aplikacija, od 2017); vrednost je u profesionalnom sadržaju, publika uglavnom starija, recenzije prijavljuju spornu naplatu.",
+    "name": "Organic Fit: Workout for Women"
+  },
+  "1480220328": {
+    "exclude": true,
+    "exclude_reason": "Tiimo - iPhone App of the Year 2025 i Apple Design Awards finalista, 4M+ preuzimanja; poznat brend, AI planer (utility) za neurodivergentne korisnike.",
+    "name": "Tiimo: To-Do List Planner"
+  },
+  "1557127861": {
+    "name": "Fantasy Hike",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Brojač koraka u kom svaki pređeni kilometar pomera tvog lika kroz fantasy putovanje od 'hobitske rupe' do Mount Fire, uz trku sa prijateljima na istoj mapi. Hodanje postaje priča sa ciljem udaljenim mesecima.",
+    "specifics": [
+      "Ključna mehanika: distanca iz Apple Health/Watch (Fitbit, Garmin) pomera avatar po ilustrovanoj fantasy mapi, dostignuća na stanicama puta",
+      "Šta je deljivo: deljenje dostignuća na društvenim mrežama (u opisu), replay putovanja",
+      "Društveni sloj: trka sa prijateljima i njihov napredak na mapi (praćenje prijatelja delom plaćeno)",
+      "Monetizacija: besplatno do ~0,5-1 milje dnevno (ili reklama po milji), jednokratna kupovina neograničene distance"
+    ],
+    "psych": "Vidljiv napredak ka dalekom cilju i takmičenje sa prijateljima čine da se i kratke šetnje računaju. Dokaz: 'I check it every day to see how much closer I have gotten to Mount Fire.'",
+    "developer_type": "solo ili mali tim (procena): Forge7 AB, 1 aplikacija",
+    "build_weeks": 5,
+    "build_notes": "HealthKit/Health Connect za distancu, ilustrovana mapa sa stanicama (ilustracije su glavni trošak), backend za prijatelje i trke, widgeti, jednokratna kupovina. Najveći rizik: tačnost distance iz različitih izvora (recenzije: pogrešno broji, duplira Garmin) i IP rizik ako tema previše liči na Gospodara prstenova.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Peške do Mordora: hodam koliko i Frodo - evo dokle sam stigla posle mesec dana.'",
+    "monetization": "Freemium sa dnevnim limitom distance i jednokratnom kupovinom neograničenog hodanja; korisnici hvale jednokratnu cenu bez pretplate, ali limit od ~1 milje frustrira besplatne.",
+    "complaints": [
+      "Besplatno samo ~0,5-1 milja dnevno, završetak 'za 10 godina' (~7)",
+      "Pogrešno računa distancu / zavisi od Apple Health (~4)",
+      "Mora stalno da se vraća kupovina (restore), podrška ne odgovara (~1)",
+      "Praćenje prijatelja dodatno plaćeno (~2)"
+    ],
+    "suggestions": [
+      "Nove avanture/questovi i 'tamo i nazad' posle završetka",
+      "Interaktivna mapa sa razdaljinom do sledeće stanice",
+      "Trka sa prijateljima i ukupna distanca prijatelja",
+      "Garmin/Fitbit sinhronizacija i brzina replaya"
+    ],
+    "praise": [
+      "Šarmantna tema i detalji, motiviše na svakodnevno hodanje",
+      "Hodanje sa prijateljima i porodicom",
+      "Jednokratna kupovina, bez reklama i pretplate"
+    ],
+    "opportunity": "Original fantasy/anime svet bez IP rizika, sezonski questovi i grupne trke (ekipa prijatelja na istoj mapi), uz pretplatu za nove svetove umesto dnevnog limita.",
+    "growth": "Izlazak 2021-10-02, ~8,2 ocene dnevno (14.979, prosek 4,83); recenzije 6 u 30d naspram 6 - stabilna, organska potražnja kroz preporuke prijatelja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/fantasy-hike/id1557127861",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "970417047": {
+    "exclude": true,
+    "exclude_reason": "Licencirana Walking Dead RPG igra (Deca, 9 aplikacija) - brend i licencirani sadržaj, nije lična navika.",
+    "name": "The Walking Dead No Man's Land"
+  },
+  "1419815487": {
+    "exclude": true,
+    "exclude_reason": "The Tapping Solution - biblioteka stotina EFT meditacija poznatog brenda (porodica Ortner); čisti sadržaj.",
+    "name": "The Tapping Solution"
+  },
+  "6785301718": {
+    "name": "yoked: partner bible study",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Partnerski pakt za dnevno čitanje Biblije: dvoje postave nedeljni cilj i ulog (ko podbaci časti kafu ili večeru), a svakog dana potvrde čitanje BeReal-stil fotografijom. Granično samo zbog verskog domena; mehanika je potpuno prenosiva na sekularne navike.",
+    "specifics": [
+      "Ključna mehanika: par preko koda, nedeljni cilj dana, ulog za podbacivanje, dnevna foto-potvrda sa refleksijom, niz, podsticaji partneru",
+      "Šta je deljivo: foto-potvrde i niz para - procena; korisnici šalju aplikaciju prijateljima",
+      "Društveni sloj: partner (par, prijatelj, porodica), grupe dodate na zahtev korisnika, widget sa partnerovom potvrdom",
+      "Monetizacija: premium, za sada samo godišnji plan; besplatna verzija je praktično samo Biblija"
+    ],
+    "psych": "Polaganje računa partneru i mali ulog pretvaraju nameru u obavezu; foto-dokaz uklanja varanje. Dokaz: 'having your friend notified' (umesto notifikacija koje se ignorišu).",
+    "developer_type": "solo: Roger You (fizičko lice), 5 aplikacija; recenzija kaže da dev lično odgovara na Instagramu",
+    "build_weeks": 4,
+    "build_notes": "Backend za parove/grupe (Firebase/Supabase), kamera za foto-potvrdu, push podsticaji, widget sa partnerovom potvrdom, offline prevodi Biblije (javni domen), pretplate. Najveći rizik: retencija kad partner odustane (zavisnost od drugog korisnika) i licenciranje modernih prevoda.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ko od nas dvoje propusti čitanje ove nedelje, plaća večeru' - par snima dnevne foto-potvrde.",
+    "monetization": "Pretplata (trenutno godišnja); deo korisnika prihvata plaćanje i traži mesečni plan, deo odbija jer je besplatno skoro ništa.",
+    "complaints": [
+      "Skoro sve iza paywalla, besplatna verzija je samo Biblija (~3)",
+      "Samo godišnji plan, nema mesečnog (~1)",
+      "Sitni UI bagovi u ranoj verziji (~2)"
+    ],
+    "suggestions": [
+      "Mesečna pretplata",
+      "Kalendar niza sa svim dnevnim potvrdama",
+      "Male grupe (do 6 ljudi) - već dodato na zahtev",
+      "Besplatna verzija za osnovni pakt"
+    ],
+    "praise": [
+      "Stvarno polaganje računa sa partnerom/dečkom/devojkom",
+      "Foto-potvrda u BeReal stilu",
+      "Brza podrška developera"
+    ],
+    "opportunity": "Ista mehanika (pakt + ulog + foto-dokaz) za sekularne Gen Z navike: teretana, trčanje, čitanje, učenje; parovi i drugari kao kanal širenja.",
+    "growth": "Izlazak 2026-07-19, 689 ocena za ~3 meseca (~8,1 dnevno, prosek 4,88); recenzije 18 u 30d naspram 11 - rast, organski preko Instagrama i crkvenih zajednica (recenzije).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/yoked-partner-bible-study/id6785301718",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1175370741": {
+    "exclude": true,
+    "exclude_reason": "Turn-based RPG igra (Playkot) sa gacha monetizacijom - igra, ne lična navika.",
+    "name": "Age of Magic: Turn Based RPG"
+  },
+  "6444201819": {
+    "exclude": true,
+    "exclude_reason": "AI homework solver od INTSIG (kreatori CamScanner, 6 aplikacija); utility za rešavanje zadataka, velika firma.",
+    "name": "Quiz AI: AI Homework Helper"
+  },
+  "6754075317": {
+    "exclude": true,
+    "exclude_reason": "Generički home workout/chair yoga planer od prodavca sa 7 aplikacija (FOYATECH); šablon fabrike aplikacija, publika starija.",
+    "name": "ChillFit: Home Workout Planner"
+  },
+  "1523148570": {
+    "exclude": true,
+    "exclude_reason": "Kolekcija casual mini igara (water sort, sudoku) od prodavca sa 10 aplikacija; vozilo za reklame, ne lična navika.",
+    "name": "Brain Games : Logic Puzzles"
+  },
+  "1252208166": {
+    "exclude": true,
+    "exclude_reason": "Jednostavan privatni dnevnik sa lozinkom - utility za beleške bez mehanike navike (nema nizova, ciljeva ni društvenog sloja); prodavac sa 5 aplikacija.",
+    "name": "Diary With Password"
+  },
+  "913335252": {
+    "exclude": true,
+    "exclude_reason": "Brilliant - velika firma (10M+ korisnika), ekspertski kurikulum matematike i programiranja; obim sadržaja van 2 meseca.",
+    "name": "Brilliant: Learn Math & Coding"
+  },
+  "1639787026": {
+    "exclude": true,
+    "exclude_reason": "Virtuelni drugi broj telefona (utility/telekom); recenzije masovno prijavljuju spornu naplatu.",
+    "name": "Text Number-Phone Text Message"
+  },
+  "443516516": {
+    "exclude": true,
+    "exclude_reason": "Mango Languages - firma od 2011, 70+ jezičkih kurseva sa snimcima izvornih govornika i licenciranjem preko biblioteka; velika biblioteka sadržaja.",
+    "name": "Mango Languages: Learning"
+  },
+  "1500143611": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka 400+ produciranih audio priča sa kvizovima (Gaiali GmbH); čisti sadržaj, vrednost u profesionalnoj produkciji. Recenzije kritikuju AI slike i naplatu triala.",
+    "name": "Yuno: Daily Micro Learning"
+  }
+}

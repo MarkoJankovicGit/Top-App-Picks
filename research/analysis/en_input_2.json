@@ -1,0 +1,754 @@
+[
+ {
+  "id": "6648771147",
+  "name": "FocusFlight - Deepfocus Timer",
+  "differentiator": "Fokus tajmer, ali svaka sesija je let: biraš polazni i odredišni aerodrom, trajanje fokusa je trajanje leta, a avion se kreće preko 3D mape dok radiš. Blokiranje aplikacija se zove 'Airplane Mode'.",
+  "specifics": [
+   "Ključna mehanika: boarding pass + let realnom rutom; dužina sesije = dužina leta; Screen Time blokiranje tokom leta",
+   "Šta je deljivo: mapa preletenih ruta (procena: deljenje nije glavni fokus aplikacije)",
+   "Društveni sloj: nema; korisnici čekaju najavljene 'friend flights' / multiplayer",
+   "Monetizacija: freemium, pro funkcije (window view, izbor polazne lokacije), korisnici pominju ~$20 i doživotni VIP"
+  ],
+  "psych": "Ritual početka i završetka (obaveza unapred) plus vidljiv napredak na mapi; 'Booking a flight before I start working sounds like a small thing'.",
+  "developer_type": "mali tim (procena): Cement Planet LTD, jedina aplikacija prodavca, verzije za iPhone i Mac",
+  "build_notes": "Screen Time API (FamilyControls/DeviceActivity) na iOS, UsageStats/Accessibility na Androidu; 3D globus/mapa (MapLibre ili Mapbox), baza aerodroma i ruta, zvučni ambijent. Najveći rizik: kvalitet 3D vizuelnog utiska i paritet blokiranja na Androidu.",
+  "hook": "'Letela sam od Njujorka do Tokija i za to vreme završila ceo seminarski' - split screen 3D leta i stola za učenje.",
+  "monetization": "Freemium + pro (pretplata ili doživotno, okvirno $20 po recenzijama); bila App of the Day.",
+  "complaints": [
+   "Previše funkcija iza paywalla, posebno window view i izbor polazne lokacije (~5)",
+   "Obećan multiplayer/friend flights još ne postoji (~3)",
+   "Mac verzija komplikovana i VIP se ne prenosi između iPhone i Mac (~2)",
+   "Tutorial let predug (~1)"
+  ],
+  "suggestions": [
+   "Grupni letovi sa prijateljima",
+   "Pomodoro pauze tokom dugih letova ('seatbelt chime')",
+   "Duži letovi, do 8 sati",
+   "Realniji avioni i zvuci kabine (najave, žamor)",
+   "Android verzija (korisnici prave sopstvene klonove jer FocusFlight nije na Androidu)",
+   "Opciono blokiranje aplikacija tokom sesije (pominje se kao prednost konkurenata)"
+  ],
+  "praise": [
+   "Najlepše dizajnirana focus aplikacija, atmosfera aerodroma",
+   "Ritual 'bukiranja leta' zaista drži fokus, posebno za ADHD i studente",
+   "Developer sluša feedback (update 2.0)"
+  ],
+  "opportunity": "Dodati društveni sloj koji korisnici traže: zajednički letovi sa prijateljima i 'pasoš' sa pečatima gradova za deljenje; blaži freemium za Gen Z studente.",
+  "growth": "~15,4 ocene/dan od januara 2025 (9.663 ocena); recenzije 13 u 30d naspram 16 prethodnih - stabilno, bez skoka.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema aktivnih reklama u US. Tačna fraza 'FocusFlight' 0 rezultata, 'Focus Flight' 1 nepovezan (The Gold Spartan); obična pretraga i ime developera (Cement Planet) vraćaju samo nepovezane oglašivače.",
+  "reddit_notes": "Dosta pominjanja; FocusFlight se koristi kao referentni primer uspešne focus aplikacije (klonovi, pitanja kako raste, pohvale dizajnu). Ton pozitivan; rast se pripisuje TikTok/Instagram sadržaju, ali nije nađen UGC oglas."
+ },
+ {
+  "id": "1194023242",
+  "name": "Daylio Journal - Mood Tracker",
+  "differentiator": "Dnevnik bez kucanja: unos u dva tapa (raspoloženje + ikonice aktivnosti), a aplikacija iz toga gradi statistiku koja pokazuje koje navike podižu raspoloženje. Granično zato što je osnovna vrednost samorefleksija, a ne konkretna navika.",
+  "specifics": [
+   "Ključna mehanika: izbor raspoloženja + aktivnosti u 2 koraka, kalendar, statistika korelacija aktivnost/raspoloženje, ciljevi, niz dana",
+   "Šta je deljivo: godišnji 'Year in Pixels' kalendar i dugi nizovi (recenzije: '1,000 days', 'year streak') - procena, deljenje nije eksplicitno u podacima",
+   "Društveni sloj: ne postoji u podacima, potpuno privatna aplikacija",
+   "Monetizacija: freemium sa premium pretplatom; recenzije kažu samo godišnji plan uz 7-dnevni trial"
+  ],
+  "psych": "Niz dana i vidljiva istorija kao vrednost koju korisnik ne želi da izgubi; popravka niza bez vremenskog limita smanjuje odustajanje. Dokaz: 'was devastated that i would lose my 2 year streak'.",
+  "developer_type": "mali tim (procena): Relaxio s.r.o., 1 aplikacija",
+  "build_notes": "Lokalna baza + cloud backup/sync, kalendar i grafikoni, prilagodljive ikonice i aktivnosti, podsetnici, PIN zaključavanje, PDF/CSV izvoz. Bez posebnih API-ja. Najveći rizik: pouzdan sync između uređaja (recenzije prijavljuju gubitak podataka) i diferencijacija u zasićenoj kategoriji.",
+  "hook": "'Pratila sam raspoloženje 365 dana - evo šta me zapravo čini srećnom' uz skrol kroz šareni godišnji kalendar.",
+  "monetization": "Premium pretplata, prema recenzijama samo godišnja (bez mesečne), 7-dnevni trial; deo korisnika smatra to zamkom (~4).",
+  "complaints": [
+   "Samo godišnja pretplata i agresivan trial, teško otkazivanje (~5)",
+   "Gubitak podataka i nestali unosi, nema sync između uređaja (~3)",
+   "Previše upsella i zahteva za ocenu (~3)",
+   "Neželjene izmene (PDF izvoz, grafikoni, 'na današnji dan' kartice) (~3)"
+  ],
+  "suggestions": [
+   "Besplatno PIN zaključavanje",
+   "Opcija za isključivanje 'ovaj dan u istoriji' kartica",
+   "Mesečna pretplata pored godišnje",
+   "Izvoz/integracija za AI analizu (korisnik već šalje CSV u ChatGPT/Gemini)",
+   "Teme i fontovi iz My Diary aplikacije prebaciti u Daylio",
+   "Adaptivna veličina fonta (pristupačnost)"
+  ],
+  "praise": [
+   "Ekstremno brz i jednostavan unos, navika koja traje godinama",
+   "Prilagodljivost (moodovi, aktivnosti, simptomi, ciljevi)",
+   "Popravka niza bez vremenskog ograničenja"
+  ],
+  "opportunity": "Gen Z verzija sa ugrađenim AI uvidima ('šta ti podiže raspoloženje'), deljivim godišnjim/mesečnim karticama i prijateljima za zajedničke nizove; pošten freemium sa mesečnim planom.",
+  "growth": "Izlazak 2017-01-25, ~17,5 ocena dnevno tokom 9+ godina; recenzije 25 u 30d naspram 26 prethodnih - stabilna, zrela potražnja bez rasta.",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema aktivnih reklama u US: jedini rezultat je stara nepovezana reklama stranice 'Best game 2022' (od 2022).",
+  "reddit_notes": "Zrela, velika organska zajednica (r/Daylio 9.8k+), korisnici sa višegodišnjim streak-ovima; besplatna verzija smatra se dovoljnom. Ton izrazito pozitivan."
+ },
+ {
+  "id": "6741765734",
+  "name": "Pushscroll: Exercise To Scroll",
+  "differentiator": "App blocker kod kog se vreme za skrolovanje 'kupuje' sklekovima: 1 sklek = 1 minut TikToka, kamera broji ponavljanja.",
+  "specifics": [
+   "Ključna mehanika: blokada aplikacija, otključavanje vežbama (sklekovi, čučnjevi, iskoraci, plank), pose detection protiv varanja",
+   "Šta je deljivo: broj sklekova umesto sati na ekranu, smanjenje screen time-a",
+   "Društveni sloj: prijatelj može da čuva šifru (Hard Mode); nema takmičenja",
+   "Monetizacija: pretplata, blokiranje iza paywalla; pominje se 5$/mesec i 15$/mesec"
+  ],
+  "psych": "Trenje pre zavisnog ponašanja zamenjeno malom zdravom akcijom; korisnici osećaju dvostruku dobit. Dokaz: 'I literally just did 30 pushups.. For an hour of screen time. I feel AMAZING!'",
+  "developer_type": "mali tim (Pushscroll GmbH, 1 aplikacija)",
+  "build_notes": "Screen Time API (FamilyControls/ManagedSettings/DeviceActivity, Apple entitlement), Android UsageStats + Accessibility, on-device pose detection (Vision / ML Kit), streak, pretplate. Najveći rizik: odobrenje FamilyControls entitlementa, zaobilaženje blokade i tačnost brojanja.",
+  "hook": "'Moj telefon traži 30 sklekova da bih otvorio TikTok' - POV snimak kako se radi sklek ispred telefona.",
+  "monetization": "Pretplata sa paywallom za osnovnu funkciju (blokiranje); korisnici pominju 5-15$/mesec. Veliki otpor kod mlađih, ali zadovoljni ostaju mesecima.",
+  "complaints": [
+   "Sve iza paywalla, nema free probe (~14)",
+   "Netačno brojanje, lako se vara ili ne broji pravilnu formu (~4)",
+   "Logika streak-a i tajmera kažnjava korisnika (~3)",
+   "Bagovi: beli ekran, blokira pogrešnu aplikaciju (~3)"
+  ],
+  "suggestions": [
+   "Otključavanje minuta koracima (npr. 10.000 koraka)",
+   "Potpuno zaključavanje telefona do zadatog broja sklekova",
+   "Pauziranje tajmera kad se izađe iz aplikacije",
+   "Više vežbi prilagođenih ženama i bolji redosled u journey modu",
+   "Niža cena - više developera pravi besplatne/jeftinije klonove jer je Pushscroll skup ($40-60)"
+  ],
+  "praise": [
+   "Stvarno smanjuje screen time (do 3h dnevno)",
+   "Uz to gradi naviku vežbanja",
+   "Story/journey mod sa progresijom"
+  ],
+  "opportunity": "Dodati takmičenje i grupni sloj (ko je 'zaradio' najviše minuta, zajednički izazov sa prijateljima), koračanje kao valutu i freemium sa malim dnevnim fondom.",
+  "growth": "~37,3 ocena/dan od juna 2025 (17.723 ocena za ~16 meseci); recenzije 30d = 14 naspram 30: pad; oznaka praćenja i recenzije pominju 'advertisement', znači plaćeni oglasi.",
+  "confidence": "srednja",
+  "marketing_evidence": "9 aktivnih reklama u US, sve pokrenute 8-10.10.2026, kao partnerske (creator) reklame naloga pushups.ben; sveža kampanja.",
+  "reddit_notes": "Originalne objave developera (1 godinu stare) i case study teme o $30K MRR za 4 meseca; danas se najviše pominje kao referenca u objavama konkurentskih klonova. Ton neutralan do pozitivan, zamerka je cena."
+ },
+ {
+  "id": "6498880303",
+  "name": "Minimalist Launcher",
+  "differentiator": "Pretvara iPhone u 'dumbphone': tekstualni početni ekran samo sa bitnim aplikacijama, sivi tonovi i blokiranje, pa svako otvaranje aplikacije traži svestan korak.",
+  "specifics": [
+   "Ključna mehanika: minimalni launcher kroz widgete i prečice, digitalni detoks i blokiranje aplikacija.",
+   "Šta je deljivo: estetika minimalnog početnog ekrana i screen time pre/posle (procena).",
+   "Društveni sloj: nema ga.",
+   "Monetizacija: skriveni trial posle oko nedelju dana, lifetime ~25 USD ili ~6 USD mesečno."
+  ],
+  "psych": "Trenje prekida impulsivno otvaranje aplikacija. Dokaz: 'put my phone right back down because I didn't need it.'",
+  "developer_type": "solo (Ankit Kumar, 4 aplikacije, Gmail podrška)",
+  "build_notes": "iOS: WidgetKit, App Intents/Shortcuts, Screen Time API (FamilyControls zahteva Apple entitlement), uputstvo za sakrivanje ikonica; Android: pravi launcher. Najveći rizik: odobrenje FamilyControls i iOS ograničenja launchera.",
+  "hook": "'Pretvorila sam iPhone u dumbphone za 5 minuta: screen time sa 7h na 2h.'",
+  "monetization": "Pretplata ili lifetime posle skrivenog triala; korisnici koji vide vrednost plaćaju, ali bait-and-switch izaziva 1★.",
+  "complaints": [
+   "Skriveni trial: posle nedelju dana paywall blokira početni ekran (~7)",
+   "Preskupo za 'prečicu' (~3)",
+   "Blokator ne radi pouzdano (~1)",
+   "Transparentnost pozadine ne radi (~1)"
+  ],
+  "suggestions": [
+   "Jasna besplatna osnovna verzija",
+   "Cena oko 5 USD",
+   "Ispravka koraka u uputstvu za uklanjanje teksta ispod ikonica"
+  ],
+  "praise": [
+   "Primetno smanjen screen time (~10)",
+   "Brz i lak setup (~5)",
+   "Čista estetika (~4)"
+  ],
+  "opportunity": "Transparentan freemium, screen time izveštaj koji se deli (pre/posle) i niz dana ispod cilja; dodati izazov sa prijateljima.",
+  "growth": "Izašla 8.5.2024, 3.581 ocena, ~4,04 ocene/dan; recenzije 30d 12 naspram 12. Stabilan organski rast bez oznake praćenja.",
+  "confidence": "visoka",
+  "marketing_evidence": "Exact phrase 'Minimalist Launcher' vraća 0 rezultata u US.",
+  "reddit_notes": "Ime je generičko; jedino pouzdano pominjanje je komentar osnivača u r/iosapps sa linkom na ovu aplikaciju. U temama o iOS minimalističkim launcherima dominiraju konkurenti (Dumbify, Minimizit, Smile, dp). Bez UGC oglasa."
+ },
+ {
+  "id": "6749520351",
+  "name": "75Me: 75 Day Reset Challenge",
+  "differentiator": "75 Hard tracker koji iz upitnika pravi personalizovani 75-dnevni reset (hard ili soft), sa dnevnom progress fotografijom, zajednicom i bibliotekom sažetaka knjiga.",
+  "specifics": [
+   "Ključna mehanika: dnevni checklist + progress foto + 75 dana bez pauze",
+   "Šta je deljivo: before/after transformacija",
+   "Društveni sloj: accountability zajednica",
+   "Monetizacija: hard paywall bez trial-a, nedeljna ili godišnja pretplata (~$35–40)"
+  ],
+  "psych": "Javni izazov sa fiksnim rokom i nizom koji ne sme da pukne: 'I'm amazed at how committed I feel noting down my goals'.",
+  "developer_type": "mali tim (75Me LLC, 2 aplikacije); TikTok marketing, prema recenziji preko AI generisanih naloga",
+  "build_notes": "Checklist, kamera i galerija/timelapse fotografija, zajednica (backend + moderacija), sažeci knjiga (licenca ili AI). Najveći rizik: zajednica i sadržaj knjiga; ostalo je jednostavno.",
+  "hook": "Dan 1 vs dan 75: uradila sam 75 Soft, evo foto-timelapsa.",
+  "monetization": "Hard paywall bez trial-a; nedeljna ili godišnja pretplata (~$35–40 godišnje prema recenzijama). Korisnici odbijaju godišnju naplatu za 75-dnevni izazov.",
+  "complaints": [
+   "'Samo checklist' za previše para (~8)",
+   "Nema trial-a, ne vidi se ništa pre plaćanja (~5)",
+   "Lista se ne može prilagoditi, nema oz/ml izbora (3)",
+   "Godišnja naplata i odbijene refundacije (3)"
+  ],
+  "suggestions": [
+   "Prilagodljiva lista zadataka i jedinice",
+   "Plan treninga uz izazov",
+   "Jednokratna kupovina po izazovu ili mesečna cena",
+   "Prelazak soft ↔ hard",
+   "Praćenje planova treninga i mišićnih grupa (navedeno kao nedostatak)"
+  ],
+  "praise": [
+   "Zajednica i accountability (~4)",
+   "Bolji od zvanične 75 Hard aplikacije (1)",
+   "Personalizovan program (2)"
+  ],
+  "opportunity": "Jednokratna cena po izazovu, prilagodljiva lista, automatski timelapse transformacije za deljenje i grupni 75 sa prijateljima.",
+  "growth": "Od 2025-08; ~4,8 ocena/dan (2.002). Recenzije 30d 1 vs 4: talas iz TikTok-a u julu–avgustu, pa pad.",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema oglašivača 75Me u US; obe pretrage vraćaju samo nepovezane oglašivače. Meta Ad Library je prazan, ali recenzije ukazuju na plaćeni marketing (npr. TikTok ili Instagram reklame).",
+  "reddit_notes": "Desetine komentara u self-improvement/fitness subredditima, svi iz istog perioda (~pre 6 meseci) i sa šablonskim tekstom ('app 75Me ... might be worth'), što snažno ukazuje na plansko seedovanje komentara (developer ili plaćeni nalozi), ne organski buzz. UGC oglasi nisu pronađeni, ali Reddit comment marketing jeste verovatan kanal."
+ },
+ {
+  "id": "6744338972",
+  "name": "Brainrot: Screen Time Control",
+  "differentiator": "App blocker gde slatki avatar mozga vidljivo truli dok doom skroluješ, pa smanjenje screen time-a postaje briga o liku.",
+  "specifics": [
+   "Ključna mehanika: blokiranje aplikacija/sajtova po rasporedu + avatar mozga koji propada sa skrolovanjem",
+   "Šta je deljivo: stanje 'brainrot' avatara i pad screen time-a",
+   "Društveni sloj: nije vidljiv u opisu",
+   "Monetizacija: sve funkcije zahtevaju pretplatu, oko 4.99 USD nedeljno (iz recenzija)"
+  ],
+  "psych": "Vizuelni lik koji pati od tvog ponašanja daje trenutnu emotivnu povratnu informaciju. Dokaz: 'The one screenblocker app that I actually have a hard time getting around'.",
+  "developer_type": "mali tim (Smolworks Inc, 3 aplikacije; recenzija pominje osnivača i novog partnera)",
+  "build_notes": "Screen Time API (FamilyControls entitlement), widget, animirani avatar, Android preko Accessibility/UsageStats. Najveći rizik: pouzdanost zakazanog blokiranja (recenzije: blokira tek kad se otvori aplikacija) i Android paritet.",
+  "hook": "'Ovo je moj mozak posle 6 sati TikToka' — pokazuje se istrulili avatar.",
+  "monetization": "Hard paywall, nedeljna pretplata oko 4.99 USD (iz recenzija), bez trial-a; recenzije pominju plaćanje van aplikacije.",
+  "complaints": [
+   "Mora da se plati, nema besplatne verzije ni trial-a, reklame to ne pominju (oko 13)",
+   "Problemi sa naplatom i otkazivanjem, naplata posle otkaza (oko 3)",
+   "Zakazano blokiranje ne radi dok se ne otvori aplikacija, netačan screen time (oko 4)",
+   "Widget avatar se ne ažurira (1)"
+  ],
+  "suggestions": [
+   "Besplatan plan za mlađe korisnike",
+   "Snooze od 5 min i duže opcije tajmera",
+   "Veća whitelista aplikacija",
+   "Widget koji prikazuje živo stanje mozga",
+   "Besplatna verzija (konkurenti se pozicioniraju kao besplatna alternativa)"
+  ],
+  "praise": [
+   "Teško se zaobilazi, zaista smanjuje screen time",
+   "Zabavan karakter i 'interview' onboarding",
+   "Pomaže sa spavanjem i fokusom"
+  ],
+  "opportunity": "Koncept 'brainrot avatara' je jak za TikTok; dodali bismo besplatni nivo, društveno poređenje avatara sa prijateljima i pouzdan widget koji je stalno vidljiv.",
+  "growth": "Oko 44 ocene/dan od izlaska (maj 2025, 22.6k ocena); recenzije 30d 36 naspram 64 prethodnih, pad; oznaka praćenja i recenzije pominju reklame.",
+  "confidence": "srednja",
+  "marketing_evidence": "Pretraga 'Brainrot' (180 rezultata) bez reklama aplikacije ('Brainrot Project' je Spotify muzika). Tačna fraza 'Brainrot Screen Time': 4 aktivne reklame, pokrenute 27-28.8.2026. Mali test, bez novih kreativa.",
+  "reddit_notes": "Glavno pominjanje je developerov launch/build-in-public post u r/SaaS (80+ komentara); ostalo su programeri koji analiziraju njen UI (Health score) i klonovi. Malo organskih korisničkih tema; ime je generično pa ima dosta šuma."
+ },
+ {
+  "id": "1225155794",
+  "name": "Flora - Green Focus",
+  "differentiator": "Fokus tajmer u kom drvo raste dok ne diraš telefon, a umire ako izađeš; zaokret u odnosu na Forest je zajedničko sađenje sa prijateljima (vidi se ko je ubio drvo) i velikodušan besplatni nivo.",
+  "specifics": [
+   "Ključna mehanika: sesija fokusa = seme koje raste u drvo; izlazak iz aplikacije ubija drvo; uspeh otključava nove vrste i gradi baštu.",
+   "Šta je deljivo: lična bašta, kolekcija drveća i statistika učenja.",
+   "Društveni sloj: grupno sađenje, poređenje vremena učenja sa prijateljima, chat; nagradno drvo od prijatelja.",
+   "Monetizacija: besplatno jezgro i premium (cene nisu u paketu, procena)."
+  ],
+  "psych": "Gubitak nečega što si već počeo da gradiš jači je od nagrade: 'the guilt of killing a tree has been a huge factor in my ability to stay focused'.",
+  "developer_type": "mali tim (AppFinca Inc., 1 aplikacija, ali oznaka praćenja)",
+  "build_notes": "Tajmer + blokiranje (iOS Screen Time API ili samo detekcija napuštanja aplikacije), backend za prijatelje i grupne sesije u realnom vremenu, ilustracije drveća. Najveći rizik: diferencijacija u zasićenoj kategoriji (Forest, Focus Friend) i entitlement za blokiranje.",
+  "hook": "Ako uzmem telefon tokom učenja, moje drvo umire, a cela grupa to vidi.",
+  "monetization": "Freemium; korisnici hvale koliko je besplatno ('more free features than forest'), cene premiuma nisu u paketu.",
+  "complaints": [
+   "Nema tutorijala, deluje komplikovano (~1)",
+   "Bag tajmera, ne dozvoljava manje od 43 minuta (~1)",
+   "Update promenio omiljeni doživljaj (~1)",
+   "Ekran mora da ostane uključen, prazni bateriju (~1)"
+  ],
+  "suggestions": [
+   "Dark mode",
+   "Onboarding ili tutorijal",
+   "Rad sa ugašenim ekranom",
+   "Mogućnost korišćenja drugih (dozvoljenih) aplikacija tokom fokus sesije",
+   "Vraćanje prethodnog ponašanja posle nepopularnog update-a"
+  ],
+  "praise": [
+   "Osećaj krivice zbog ubijenog drveta drži fokus (~4)",
+   "Ponos na sopstvenu baštu, slatko i opuštajuće (~4)",
+   "Takmičenje sa prijateljima u vremenu učenja i besplatne funkcije (~4)"
+  ],
+  "opportunity": "Pretvoriti grupno sađenje u glavni proizvod: zajednička 'šuma' razreda ili ekipe sa nedeljnim rangom i 'study with me' sesijama, uz rad sa ugašenim ekranom.",
+  "growth": "~24,9 ocena dnevno tokom ~9 godina (82.836 ocena); recenzije 46 u 30d naspram 23 u prethodnih 30d, rast verovatno zbog početka školske godine (procena). Trajna, sezonska potražnja studenata.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema aktivnih reklama u US: tačna fraza 0 rezultata, 'Flora focus app' 1 nepovezan rezultat, 'AppFinca' (developer) samo nepovezani oglašivači (fincas, drame). Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Dugogodišnje organsko pominjanje, uglavnom kao besplatna alternativa za Forest; postoji mali subreddit r/FloraApp. Ton pozitivan, uz žalbe na jedan noviji update."
+ },
+ {
+  "id": "6755640836",
+  "name": "Monke - Habit Game",
+  "differentiator": "Habit tracker kao island builder: izvršavanjem navika i fokus sesija zarađuješ banane kojima gradiš ostrvo, otključavaš retke monke likove i piratske brodove; lik i ton prenet iz developerovog YouTube kanala.",
+  "specifics": [
+   "Ključna mehanika: navike + fokus tajmer → banane → dekoracije, likovi različite retkosti, nova ostrva.",
+   "Šta je deljivo: sopstveno ostrvo/svet, retki likovi (procena).",
+   "Društveni sloj: Discord zajednica i YouTube kanal developera; u aplikaciji nema.",
+   "Monetizacija: hard paywall, 39,96 USD/god ili 79,99 USD lifetime."
+  ],
+  "psych": "Briga o svetu i kolekcionarstvo pretvaraju navike u igru; \"I find myself itching to complete any task that pops up to get me bananas.\"",
+  "developer_type": "solo (Myles Nicholas Root, 3 aplikacije; recenzije potvrđuju solo developera sa YouTube kanalom)",
+  "build_notes": "Habit/fokus logika, Live Activity, 2D/izometrijski editor sveta i art assets (likovi, dekoracije). Najveći rizik: produkcija ilustracija i balans ekonomije igre.",
+  "hook": "Moje ostrvo raste samo kad uradim svoje navike, evo kako izgleda posle 30 dana.",
+  "monetization": "Hard paywall (39,96 USD/god, 79,99 USD lifetime); deo publike (tinejdžeri) odbija, ali plaćeni korisnici kažu da vredi.",
+  "complaints": [
+   "Nema besplatne verzije, paywall posle dugog upitnika (~14)",
+   "Nejasno navedena kupovina u opisu (~3)",
+   "Nema upozorenja pre kraja probe (~1)",
+   "Nema iPad verzije (~1)"
+  ],
+  "suggestions": [
+   "Besplatna verzija sa manje funkcija ili sa reklamama",
+   "Više muzike i opcija zvuka",
+   "iPad verzija",
+   "Više od 3 navike na početku"
+  ],
+  "praise": [
+   "Igrifikacija stvarno motiviše",
+   "Ton i lik Monke-a",
+   "Personalizovan onboarding"
+  ],
+  "opportunity": "Freemium ulaz za Gen Z (besplatno ostrvo, plaćeni likovi/dekoracije) i deljivi snapshot ostrva; dodati društvene posete ostrvima prijatelja.",
+  "growth": "Izlazak 2025-12-11, 1.954 ocene, ~6,4 ocena/dan, bez oznake praćenja. Recenzije 30d: 4 naspram 5: stabilno; rast dolazi organski iz developerovog YouTube sadržaja.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema oglašivača Monke u US (150 rezultata, sve nepovezano: Monkey 47, Fresh Monkee, Gorilla Tag...).",
+  "reddit_notes": "Nema pominjanja na Redditu u Google rezultatima; 'monke' je meme pojam. Pronađena je druga aplikacija 'NoFap Tracker: Monke Reset' (id6784268940), ne ova."
+ },
+ {
+  "id": "6749665109",
+  "name": "Journey: Screen Time Control",
+  "differentiator": "Blokator aplikacija, ali vreme na društvenim mrežama se 'kupuje' zlatom koje zaradiš izvršavanjem stvarnih dnevnih zadataka (teretana, čitanje, izlazak napolje), uz verifikaciju fotografijom.",
+  "specifics": [
+   "Ključna mehanika: svakog jutra u 6h resetuje se 'main quest'; završetak donosi Knight's gold kojim otključavaš blokirane aplikacije.",
+   "Šta je deljivo: smanjenje screen time-a (pre/posle), procena: nema ugrađen share format.",
+   "Društveni sloj: nema vidljivog; maskota (Focus Buddy) reaguje na ponašanje.",
+   "Monetizacija: hard paywall, 9,99 USD mesečno / ~50 USD godišnje, 7 dana probe."
+  ],
+  "psych": "Nagrada za akciju i obaveza unapred: korisnik mora da 'zaradi' skrol; recenzija: \"my screen time has dropped by almost 3 hours\".",
+  "developer_type": "mali tim (Brain Nourishment, LLC, 2 aplikacije)",
+  "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) i Android UsageStats/Accessibility; verifikacija fotografijom (moguće AI), backend za questove. Najveći rizik: Apple odobrenje Family Controls entitlementa i pouzdanost otključavanja (žalbe na neodblokiranje).",
+  "hook": "Moj telefon mi ne da TikTok dok ne uradim 20 sklekova, pa evo koliko mi je pao screen time za nedelju dana.",
+  "monetization": "Pretplata 9,99 USD/mes ili ~50 USD/god, bez besplatne verzije; mlađi korisnici masovno odbijaju paywall.",
+  "complaints": [
+   "Neočekivan paywall posle onboardinga i dozvola (~9)",
+   "Aplikacija blokira sve i ne može da se obriše zbog roditeljske kontrole (~4)",
+   "Kamera/foto verifikacija ne radi (~2)",
+   "Redizajn uklonio originalni koncept dnevnog sidequesta (~2)"
+  ],
+  "suggestions": [
+   "Više upotrebe za krune/valutu (nagrade, kozmetika)",
+   "Borbe sa čudovištima / više RPG elemenata",
+   "Jasna besplatna verzija ili probni period pre blokiranja",
+   "Pouzdano odblokiranje posle završenog questa"
+  ],
+  "praise": [
+   "Stvarno smanjuje screen time",
+   "Oseća se kao video igra",
+   "Ljubazna podrška i refundacija"
+  ],
+  "opportunity": "Paywall prikazati pre davanja Screen Time dozvola i dodati besplatan nivo sa jednim questom; dodati društveni sloj (zajednički questovi, rang lista prijatelja po smanjenju screen time-a).",
+  "growth": "Izlazak 2025-09-29, 2.472 ocene, ~6,5 ocena/dan. Recenzije 30d: 0 naspram 3: pad nakon redizajna/promene imena; rast je verovatno vođen Instagram reklamama (pominju ih recenzije).",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema aktivnih reklama aplikacije u US; isključeni Journi (photo journal), Journee i drugi nepovezani oglašivači. Meta Ad Library je prazan, ali recenzije ukazuju na plaćeni marketing (npr. TikTok ili Instagram reklame).",
+  "reddit_notes": "Nema pominjanja na Redditu u Google rezultatima; ime je generičko, rezultati su o konkurentima (Jomo, Ember, Pause, Blockrr, ScreenBreak)."
+ },
+ {
+  "id": "6742422198",
+  "name": "Share Aura: Track & Create",
+  "differentiator": "'Canva za trčanje': umesto još jednog trackera, alat koji pretvara treninge iz Apple Health/Garmin u estetske stat šablone za Instagram Stories, plus Runcam koji snima trening sa živim statistikama.",
+  "specifics": [
+   "Ključna mehanika: sync aktivnosti, 45+ šablona statistike, editor sa fotografijom, kopiranje u clipboard.",
+   "Šta je deljivo: sve; ceo proizvod je deljivi izlaz za Stories.",
+   "Društveni sloj: feed i zajednica u nastajanju ('Strava + Instagram').",
+   "Monetizacija: procena freemium; recenzija pominje forsiran vodeni žig."
+  ],
+  "psych": "Identitet ('ja sam trkač') i socijalni dokaz kroz deljenje; \"Became a runner because of this app.\"",
+  "developer_type": "mali tim / startup (Aura Movement Technology, Inc., 1 aplikacija; osnivač Zach pominje se u recenzijama)",
+  "build_notes": "HealthKit/Health Connect, Strava/Garmin API, editor šablona (canvas rendering), kamera sa overlay statistikama, mape ruta, backend za feed. Najveći rizik: performanse editora i sync (žalbe na rušenje i sporo sinhronizovanje).",
+  "hook": "Strava screenshot je dosadan, evo kako moj trening izgleda kad ga sredim za Stories.",
+  "monetization": "Procena: freemium sa vodenim žigom na besplatnoj verziji; cene se ne vide u paketu.",
+  "complaints": [
+   "Bagovi i rušenje editora pri dodavanju elemenata (~3)",
+   "Problemi sa onboardingom i prijavom (samo Google/Apple) (~3)",
+   "Sporo sinhronizovanje aktivnosti (~2)",
+   "Forsiran vodeni žig (~1)"
+  ],
+  "suggestions": [
+   "Prijava preko e-maila",
+   "Brži sync sa satom",
+   "Više fontova/serifnih stilova u šablonima"
+  ],
+  "praise": [
+   "Dizajn i estetika šablona",
+   "Developer brzo isporučuje feedback",
+   "Bolja alternativa Stravi za deljenje"
+  ],
+  "opportunity": "Proširiti sa trčanja na druge navike (teretana, čitanje, niz dana) kao deljive kartice napretka; uzorak recenzija deluje delimično 'prijateljski' (pominjanje osnivača), pa organsku tražnju treba proveriti.",
+  "growth": "Izlazak 2025-08-11, 2.479 ocena (prosek 4,92), ~5,8 ocena/dan, bez oznake praćenja. Recenzije 30d: 4 naspram 10: usporavanje.",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema aktivnih reklama aplikacije u US; exact phrase 2 nepovezana rezultata, isključen AuraBloom (drugi brend).",
+  "reddit_notes": "Umereno organsko prisustvo u trkačkim zajednicama; Share Aura se koristi kao referentna aplikacija za running grafike, a konkurenti (Self Share i drugi) je pominju u svojim launch objavama. Tema 'Anyone using Share Aura' je identično krospostovana u dva subreddita, verovatno promocija konkurenta. Ton pozitivan, bez UGC oglasa."
+ },
+ {
+  "id": "6760949346",
+  "name": "AlarmFit: Stop Waking Up Late",
+  "differentiator": "Alarm bez dugmeta za odlaganje: gasi se tek kada kamera izbroji zadati broj sklekova ili čučnjeva, pa si budan i već si odradio mali trening.",
+  "specifics": [
+   "Ključna mehanika: alarm + izbor vežbe i broja ponavljanja, brojanje kamerom u realnom vremenu, bez snooze-a.",
+   "Šta je deljivo: snimak jutarnjih ponavljanja u pidžami, niz jutara bez kašnjenja (procena; u opisu nema deljenja).",
+   "Društveni sloj: nema ga u podacima.",
+   "Monetizacija: obavezna pretplata, korisnik pominje godišnji plan; cene se ne vide."
+  ],
+  "psych": "Trenje unapred: ne možeš ugasiti alarm dok se telo ne pokrene, a dan počinje malom pobedom. Dokaz: 'it really makes you get out of bed!!'",
+  "developer_type": "mali tim (MMCH Digital Solutions LLC, 2 aplikacije)",
+  "build_notes": "Detekcija poze na uređaju (Apple Vision / ML Kit pose), brojanje ponavljanja, AlarmKit (iOS 26) i AlarmManager/full-screen intent na Androidu, paywall. Najveći rizik: pouzdanost alarma kad je aplikacija ugašena i tačnost brojanja pri slabom svetlu.",
+  "hook": "'Moj alarm se ne gasi dok ne uradim 20 sklekova: dan 1 naspram dan 30.'",
+  "monetization": "Hard paywall, pretplata (godišnja se pominje); korisnici masovno odbijaju da plate 'za alarm'.",
+  "complaints": [
+   "Mora da se plati za osnovnu funkciju alarma (~5)",
+   "Detekcija ponavljanja nepouzdana, broji manje pa uradiš duplo (~1)",
+   "Alarm zvoni iako je isključen (~1)"
+  ],
+  "suggestions": [
+   "Besplatan osnovni alarm sa jednom vežbom",
+   "Pouzdanija detekcija osobe bez nameštanja telefona"
+  ],
+  "praise": [
+   "Zaista izbacuje iz kreveta (~3)",
+   "Spaja buđenje i fitnes naviku (~3)"
+  ],
+  "opportunity": "Freemium sa jednom besplatnom vežbom, niz jutara i nedeljni izazov sa prijateljima ('ko je ustao prvi'); fokus na pouzdanost alarma pre svega.",
+  "growth": "Izašla 22.4.2026, 735 ocena, ~4,25 ocene/dan; recenzije 30d 2 naspram 2. Brz start za novu aplikaciju, stabilan tempo.",
+  "confidence": "srednja",
+  "marketing_evidence": "Exact phrase 'AlarmFit' vraća 0 rezultata u US; unordered samo nepovezani oglašivači (FitSleeps, Hears...). Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Nema pominjanja na Redditu u Google rezultatima; svi pogoci su korisnik u/AlarmFit (gaming komentari), nevezano za aplikaciju."
+ },
+ {
+  "id": "6748418458",
+  "name": "Mogged: Glow Up for Men",
+  "differentiator": "Looksmaxxing pretvoren u 30-dnevni program navika: AI sken lica daje ocenu i prati promenu, a dnevno samo 3 zadatka (koža, san, voda, sunce, držanje) sa nizom koji se resetuje.",
+  "specifics": [
+   "Ključna mehanika: dnevni/nedeljni AI sken lica, plan od 3 zadatka dnevno, niz od 30 dana sa resetom.",
+   "Šta je deljivo: pre/posle skenovi i ocena (procena; looksmaxxing je jak TikTok format).",
+   "Društveni sloj: nema ga.",
+   "Monetizacija: hard paywall, pretplata obavezna za skenove i planove (~30 USD, iz recenzije)."
+  ],
+  "psych": "Kvantifikacija izgleda daje opipljiv dokaz napretka, a niz od 30 dana čuva doslednost. Dokaz: 'I look better than Marlon' posle 6 meseci.",
+  "developer_type": "mali tim (Metellus Productions LLC, 5 aplikacija; procena: mali studio za consumer aplikacije)",
+  "build_notes": "Kamera + on-device detekcija lica (Vision/ML Kit) i LLM/vision API za 'ocenu' i savete; generisanje plana zadataka; lokalno čuvanje fotografija. Najveći rizik: kredibilitet i etika ocene izgleda (body image kod 18–24), stabilnost generisanja zadataka.",
+  "hook": "'Dao sam AI-ju da mi oceni lice svaki dan 30 dana: evo šta su uradili san, voda i sunce.'",
+  "monetization": "Hard paywall, pretplata (pominje se 30 USD); veliki deo negativnih recenzija je od maloletnika koji ne mogu da plate.",
+  "complaints": [
+   "Mora da se plati pre nego što se išta vidi, 20 min intro pa paywall (~8)",
+   "Posle update-a traži ponovno plaćanje i resetuje program (~1)",
+   "Zadaci se ponavljaju, zaglavi na istih 6 (~1)",
+   "Informacije su dostupne besplatno na YouTube-u (~1)"
+  ],
+  "suggestions": [
+   "Besplatan probni sken pre paywall-a",
+   "Brisanje i ponovno snimanje fotografija",
+   "Više raznovrsnih zadataka posle prvih 30 dana"
+  ],
+  "praise": [
+   "Detaljna analiza i realan plan",
+   "Konkretni saveti za stil i rutinu",
+   "Motivacija i osećaj vidljive promene"
+  ],
+  "opportunity": "Besplatan prvi sken kao viralni ulaz, deljive pre/posle kartice, i fokus na navike (san, koža, trening) umesto na 'ocenu lepote'; dodati takmičenje sa prijateljima u doslednosti, ne u izgledu.",
+  "growth": "Oko 7,3 ocene dnevno od jula 2025, ali samo 1 recenzija u 30 dana naspram 0 prethodno; volumen recenzija je mali i tempo deluje usporen (procena: kampanjski talasi).",
+  "confidence": "niska",
+  "marketing_evidence": "Nema aktivnih reklama aplikacije u US. 'Mogged' (57) vraća looksmaxxing oglase drugih brendova (Norse Organics, Ascend Skin, Tallmenshoes) koji koriste reč 'mogged'; 'moggedup' i 'Mogged app' 0 rezultata. Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Nema potvrđenih pominjanja ove aplikacije. Brojne developerske objave (r/iosapps 80+ komentara, r/buildinpublic, r/AppBusiness, pre ~6 meseci) odnose se na DRUGU aplikaciju 'Mogged - AI Face Rating & Glow' (id6757205994), koja cilja istu looksmaxxing nišu i preuzima Umax pretrage kroz Apple Search Ads."
+ },
+ {
+  "id": "1572515807",
+  "name": "ClearSpace: Reduce Screen Time",
+  "differentiator": "Screen time blocker u kome minute za TikTok/Instagram zarađuješ sklekovima, čučnjevima ili koracima koje broji kamera, uz limit po otvaranju i grupne screen-time izazove.",
+  "specifics": [
+   "Ključna mehanika: pauza pre otvaranja + banka minuta + push-up kamera",
+   "Šta je deljivo: pad screen time-a, broj sklekova",
+   "Društveni sloj: accountability partneri i grupni izazovi (Android ograničen)",
+   "Monetizacija: freemium (1 blokirana aplikacija besplatno), premium skuplji, studenti besplatno"
+  ],
+  "psych": "Nagrada za akciju: scroll se zarađuje fizičkim naporom: 'Finishing your squats, pushups, or steps feels like you've completed something'.",
+  "developer_type": "mali tim (Clearspace Technologies, Inc., 2 aplikacije; procena: mali startup)",
+  "build_notes": "Screen Time API (DeviceActivity, shield), Vision pose detekcija za sklekove i čučnjeve, HealthKit koraci, backend za grupe. Najveći rizik: tačnost brojanja pokreta i pouzdanost sesija.",
+  "hook": "Hoćeš 10 minuta TikToka? Daj 20 sklekova, telefon broji.",
+  "monetization": "Freemium; premium za više blokiranih aplikacija (cena se ne vidi, 'pretty expensive'); premium besplatan za studente.",
+  "complaints": [
+   "Bugovi sesija, gubi zarađene minute (~7)",
+   "Brojanje sklekova nepouzdano (~6)",
+   "Samo 1 aplikacija besplatno (~4)",
+   "Ne može da se obriše ili otkaže pretplata (~3)"
+  ],
+  "suggestions": [
+   "Bolja detekcija sklekova",
+   "Share-to iz blokirane aplikacije bez browsinga",
+   "Više blokova u besplatnoj verziji",
+   "Android paritet za grupne izazove",
+   "Jeftiniji ili besplatan osnovni plan (žalbe da je pretplata smetnja)"
+  ],
+  "praise": [
+   "Jedina aplikacija koja je smanjila screen time (~8)",
+   "Sklekovi kao bonus teretana (2)",
+   "Besplatna verzija dovoljna, studenti besplatno (2)"
+  ],
+  "opportunity": "Pouzdana detekcija pokreta (više vežbi), stabilne sesije i društveni 'earn your scroll' izazovi sa prijateljima kao glavni viralni motor.",
+  "growth": "Od 2021-07; ~4,7 ocena/dan (8.898). Recenzije 30d 3 vs 5: zrela aplikacija, stabilno nisko.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema oglašivača ClearSpace (screen time aplikacija) u US; rezultati nepovezani (Vinted, IKEA, Pocket FM...). Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Snažno i dugotrajno organsko prisustvo (2–3 godine) u r/nosurf, r/digitalminimalism, r/ADHD; često se navodi kao iOS standard uz One Sec i Opal, a konkurenti ga pominju kao referencu. Ton pozitivan, jedina česta zamerka je cena. Bez UGC oglasa."
+ },
+ {
+  "id": "6753698904",
+  "name": "PushUpLock - Push Up Blocker",
+  "differentiator": "Blokira aplikacije dok ne uradiš dnevni broj sklekova, a kamera sama broji ponavljanja. Uz to rangovi, 'aura' i nizovi za Gen Z.",
+  "specifics": [
+   "Ključna mehanika: Screen Time blokada + brojanje sklekova kamerom ili detekcijom poda",
+   "Šta je deljivo: rang/aura, ukupan broj sklekova, napredak (npr. 15 → 30 za nedelju)",
+   "Društveni sloj: samo takmičenje sa sobom",
+   "Monetizacija: besplatna osnovna funkcija, Pro pretplata (ukupna statistika i dodaci)"
+  ],
+  "psych": "Trenje kao naplata: scroll se plaća sklekovima. Dokaz: 'I followed through and I'm on day 80.'",
+  "developer_type": "solo (David Koontz, lično ime, 5 aplikacija)",
+  "build_notes": "Screen Time API (FamilyControls), pose detection (Vision/ML Kit), nizovi i rangovi. Najveći rizik: tačnost brojanja (najčešća žalba) i Android ekvivalent blokade.",
+  "hook": "'Instagram mi je zaključan dok ne uradim 30 sklekova' + split-screen telefon i sklekovi.",
+  "monetization": "Freemium: osnovno besplatno, Pro pretplata godišnja.",
+  "complaints": [
+   "Netačno brojanje sklekova (7)",
+   "Izgubljen napredak posle ažuriranja (1)",
+   "Previše iza Pro (2)"
+  ],
+  "suggestions": [
+   "Čučnjevi i druge vežbe",
+   "Ukupan broj sklekova besplatno",
+   "Biranje aplikacija za blokadu"
+  ],
+  "praise": [
+   "Stvarno smanjuje screen time",
+   "Konzistentnost i vidljiv napredak",
+   "Besplatna osnovna verzija"
+  ],
+  "opportunity": "Pouzdanije brojanje, više vežbi i društveni sloj (dnevni rang prijatelja, 'ko je otključao telefon prvi').",
+  "growth": "3.54 ocena/dan od izlaska (2025-11-20, 326 dana, 1152 US ocena, prosek 4.72); recenzije 30d: 2 naspram 4 prethodnih 30d. Mlada aplikacija sa dobrim tempom ocena; recenzije opadaju (2 naspram 4), ali publika je jasno tinejdžeri i Gen Z.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema aktivnih reklama u US. Tačna fraza 'PushUpLock' 0 rezultata, 'Push Up Lock' 1 rezultat (Trichon Labs, nepovezano); obična pretraga vraća 50.000 nepovezanih. Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Nema pominjanja na Redditu u Google rezultatima (obe pretrage bez ijednog pogotka)."
+ },
+ {
+  "id": "6651826679",
+  "name": "Friend Controls: Screen Time",
+  "differentiator": "Screen time limiter u kom, kad ti istekne vreme, tvoji pravi prijatelji odlučuju da li dobijaš još minuta; moraš da ih 'moliš', a oni mogu da odbiju i da te troluju.",
+  "specifics": [
+   "Ključna mehanika: dnevni limit po aplikaciji, zahtev prijateljima za još vremena, approve/deny",
+   "Šta je deljivo: smešne molbe i odgovori prijatelja ('beg', 'pathetic')",
+   "Društveni sloj: ključan; prijatelji kao kontrolori, korišćenje u paru",
+   "Monetizacija: besplatno blokiranje jedne aplikacije, pretplata za više (korisnici kažu da je pristupačna)"
+  ],
+  "psych": "Socijalna odgovornost i blagi stid pred prijateljima jači su od 'još 15 minuta' dugmeta. Dokaz: 'helps my insta addiction and embarrasses me if i try to give in'.",
+  "developer_type": "solo (Ryan Moazzami, lično ime, 2 aplikacije; recenzije: 'made by a young person', responzivan kreator)",
+  "build_notes": "Screen Time API (FamilyControls/DeviceActivity, Apple entitlement), Android verzija preko AccessibilityService (trenutno ne postoji), backend za prijatelje i push zahteve u realnom vremenu. Najveći rizik: pouzdanost brojanja vremena (bag da blokira posle 12 min) i entitlement.",
+  "hook": "'Dala sam najboljoj drugarici kontrolu nad mojim TikTokom, evo kako sam je molila za 10 minuta.'",
+  "monetization": "Freemium: 1 aplikacija besplatno, pretplata za više; korisnici je prihvataju kao pristupačnu.",
+  "complaints": [
+   "Bagovi u brojanju vremena, prerano blokira (3)",
+   "App grupe ne sabiraju vreme kako se očekuje (2)",
+   "Nema Android verzije, prijatelji na Androidu ne mogu (1)",
+   "Problem sa korisničkim imenom posle reinstalacije (1)"
+  ],
+  "suggestions": [
+   "Kombinacija dnevnog limita i dozvoljenih sati",
+   "Zajednički limit za grupu aplikacija",
+   "Android verzija"
+  ],
+  "praise": [
+   "Jedina screen time aplikacija koja stvarno radi (5+)",
+   "Zabavno i smešno, prijatelji troluju",
+   "Responzivan kreator"
+  ],
+  "opportunity": "Cross-platform verzija sa pouzdanim brojanjem i grupnim 'squad' limitima, plus deljivi screenshot molbi kao ugrađen viralni format.",
+  "growth": "Izlazak 2025-09-03, 611 ocena za oko 404 dana, oko 1,51 ocena/dan; recenzije 2 naspram 4; organski rast bez oznake praćenja.",
+  "confidence": "visoka",
+  "marketing_evidence": "Tačna fraza 'Friend Controls' 0 rezultata; obična pretraga (5.100) vraća nepovezane (Bark - Parental Controls i dr.)."
+ },
+ {
+  "id": "6743036247",
+  "name": "Arise: Level Up Workout Game",
+  "differentiator": "Generator treninga upakovan kao RPG 'level up' (Solo Leveling estetika): dnevni questovi, rang (E, D, C...), poeni i kazna u XP ako preskočiš trening.",
+  "specifics": [
+   "Ključna mehanika: dnevni questovi iz personalizovanog plana, XP i rang, penal u poenima za propušten trening",
+   "Šta je deljivo: rang/level i 'aura farm' estetika, transformacija tela (procena)",
+   "Društveni sloj: samo Discord link (prema recenziji ne radi); nema rang liste, korisnici je traže",
+   "Monetizacija: hard paywall, 15$/mesec ili 50$/god"
+  ],
+  "psych": "Igrifikacija napretka kroz rang i strah od gubitka XP poena; korisnici hvale da to nije 'corny'. Dokaz: 'gamifies weight-lifting without making it corny'.",
+  "developer_type": "mali tim / mini studio (Digital Lions Apps S.L., 4 aplikacije; Španija)",
+  "build_notes": "Generator plana (pravila ili LLM), biblioteka vežbi sa animacijama (može licencirani paket), XP/rang sistem, nalog i sinhronizacija, pretplate. Najveći rizik: auth/restore purchase bagovi (glavna žalba) i kvalitet sadržaja vežbi.",
+  "hook": "'Tretiram teretanu kao Solo Leveling: danas sam prešao iz E u D rang' - snimak rang ekrana pa treninga.",
+  "monetization": "Hard paywall, 15$/mesec ili 50$/god, bez free nivoa; jak otpor jer App Store prikazuje 'besplatno', ali deo korisnika plaća godišnje.",
+  "complaints": [
+   "Paywall bez upozorenja, nema free probe (~13)",
+   "Odjava i gubitak pretplate/poena posle plaćanja, login petlja (~11)",
+   "Nema podrške, Discord link ne radi (~5)",
+   "Nedostaju funkcije: vežbe za podlakticu, widget, Apple Watch (~6)"
+  ],
+  "suggestions": [
+   "Online rang lista za takmičenje sa drugima",
+   "Widgeti i Apple Watch",
+   "Praćenje makroa i ishrane",
+   "Iznenadni bonus questovi (npr. trčanje)",
+   "Korisnici traže besplatnu verziju ili jeftiniju alternativu - paywall je glavna zamerka"
+  ],
+  "praise": [
+   "Igrifikacija treninga koja nije detinjasta",
+   "Lep UI i koncept 'level up u stvarnom životu'",
+   "Personalizovan plan i dnevni questovi"
+  ],
+  "opportunity": "Ista RPG mehanika uz pouzdan nalog, mali free nivo i društveni sloj (rang lista prijatelja, guild izazovi) koji korisnici eksplicitno traže.",
+  "growth": "~37,6 ocena/dan od aprila 2025 (20.978 ocena za ~18 meseci); recenzije 30d = 24 naspram 32: blagi pad; uz oznaku praćenja verovatno plaćeni oglasi (recenzija pominje 'ad').",
+  "confidence": "srednja",
+  "marketing_evidence": "16 aktivnih reklama u US (12 kartica), sve pokrenute 15-21.9.2026; nova kampanja, nijedna ne traje 60+ dana. Isključen 'Solo Leveling:ARISE' (igra) i 'Arise Homes'.",
+  "reddit_notes": "Umereno pominjanje; teme sa 50-100+ komentara nastaju jer ljudi vide reklame i pitaju da li je app legitiman. Ton mešovit, glavna zamerka je da aplikacija nije besplatna; rane objave developera iz 2025."
+ },
+ {
+  "id": "1621719397",
+  "name": "Stronger - Gym Workout Planner",
+  "differentiator": "Gym log koji tvoje podizanje pretvara u Strength Score i rang (lifts poređeni sa životinjama), uz grupe koje se takmiče u izazovima.",
+  "specifics": [
+   "Ključna mehanika: beleženje serija, Strength Score i rang po mišićnoj grupi, AI coach",
+   "Šta je deljivo: rang i pregled treninga (screenshot)",
+   "Društveni sloj: lifting grupe i izazovi",
+   "Monetizacija: pretplata $39.99/god, 7 dana trial, bez free nivoa"
+  ],
+  "psych": "Kvantifikovan rang daje identitet i takmičenje: 'I got my friend into it and it really motivates us to go'.",
+  "developer_type": "mali tim: Atlas Smart Technologies LTD sa 3 aplikacije",
+  "build_notes": "Baza vežbi sa GIF-ovima (licencirana ili gotova), logovanje, backend za grupe, AI plan. Najveći rizik: obim baze vežbi i UX logovanja.",
+  "hook": "Aplikacija kaže da moj bench vredi kao gorila, koliko vredi tvoj?",
+  "monetization": "Pretplata $39.99 godišnje; deo korisnika smatra cenu fer, deo se buni na nedostatak free nivoa.",
+  "complaints": [
+   "Hard paywall, zaglavljen trial ekran (~7)",
+   "Novi UI pokvario istoriju i funkcije (~6)",
+   "Bagovi: unos težine, padovi tokom treninga (~6)",
+   "Naplata posle otkazivanja (~3)"
+  ],
+  "suggestions": [
+   "Rest timer na Dynamic Island",
+   "Auto-završetak zaboravljenog treninga",
+   "Rang 'ti protiv sebe'",
+   "Vratiti brzi pregled treninga za screenshot"
+  ],
+  "praise": [
+   "Lako beleženje treninga",
+   "Rang sistem i poređenje sa životinjama",
+   "Motivacija sa prijateljima"
+  ],
+  "opportunity": "Rang 'ti protiv sebe' plus deljiva kartica ranga posle svakog treninga, bez hard paywalla na start.",
+  "growth": "10.99 ocena dnevno od maja 2022; recenzije 30d 6 naspram 16, pad nakon problematičnog UI update-a.",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema aktivnih reklama u US. 'Stronger Gym' 23.000 nepovezanih (Fitbod, BetterMe su konkurenti); 'Stronger app' samo SCU univerzitet; 'Strength Score' i 'Atlas Smart Technologies' bez oglašivača aplikacije. Aplikacija ima oznaku praćenja, pa su moguće reklame van Meta ili preko persona stranica (nepotvrđeno).",
+  "reddit_notes": "Gotovo bez pominjanja; jedina tema je promotivna objava osnivača sa korisničkog profila. Ime se meša sa Strong, Stronger by the Day i Stronger By Science, organskih preporuka nije nađeno, UGC oglas nije nađen."
+ },
+ {
+  "id": "1631305261",
+  "name": "Focus Tree: Timer & Flashcards",
+  "differentiator": "Fokus tajmer za studente gde svaka sesija dodaje pločicu u zajednički vrt sa drugarima, a aplikacije se blokiraju dok traje sesija.",
+  "specifics": [
+   "Ključna mehanika: fokus/Pomodoro sesije sa blokiranjem aplikacija, flashcards sa spaced repetition, AI asistent.",
+   "Šta je deljivo: zajednički vrt i nizovi (procena).",
+   "Društveni sloj: zajednički vrtovi, praćenje nizova prijatelja, lajkovi i pozivi.",
+   "Monetizacija: pretplata (pominje se ~200 USD godišnje), kupovine pločica."
+  ],
+  "psych": "Grupni vrt pretvara fokus u zajednički projekat i polaganje računa. Dokaz: 'I love the gardens!'",
+  "developer_type": "mali tim (Focus Labs, 1 aplikacija)",
+  "build_notes": "Screen Time API / Android UsageStats, backend za prijatelje i vrtove, editor pločica, flashcards, LLM. Najveći rizik: pouzdanost blokiranja i obim (vrt + flashcards + AI) za 2 meseca.",
+  "hook": "'Moji drugari i ja gradimo vrt samo kad učimo: evo kako izgleda posle ispitnog roka.'",
+  "monetization": "Pretplata i kupovine u aplikaciji; korisnici se bune što su osnovne funkcije zaključane.",
+  "complaints": [
+   "Problemi sa nalogom i prijavom (telefon, kod) (~5)",
+   "Degradacija posle plaćenih funkcija, ograničene dozvoljene aplikacije (~3)",
+   "AI 'slop' i nova ikonica (~3)",
+   "Škola nije na listi (~2)"
+  ],
+  "suggestions": [
+   "Prodaja i razmena pločica",
+   "Pomeranje pločica koje su dodali drugi",
+   "Više vrsta pločica (obala reke)"
+  ],
+  "praise": [
+   "Zajednički vrtovi sa prijateljima (~4)",
+   "Blokiranje aplikacija pomaže učenju (~6)",
+   "Bolje ocene na ispitima (~3)"
+  ],
+  "opportunity": "Zadržati jezgro (vrt + blokiranje), skinuti AI višak i fokusirati se na izazove između razreda; prijava emailom i bez spiska škola.",
+  "growth": "Izašla 24.10.2022, 5.710 ocena, ~3,94 ocene/dan; recenzije 30d 3 naspram 3. Stabilno; tvrdi 2M+ korisnika, recenzije pominju reklame.",
+  "confidence": "srednja",
+  "marketing_evidence": "Exact phrase 'Focus Tree' vraća 0 aktivnih reklama u US. Meta Ad Library je prazan, ali recenzije ukazuju na plaćeni marketing (npr. TikTok ili Instagram reklame).",
+  "reddit_notes": "Umereno organsko prisustvo među studentima (r/GetStudying, univerzitetski subrediti, UK Post_16); pozicionira se kao alternativa Forestu bez bagova, sa offline praćenjem i pomodoro tajmerom. Ton pozitivan. Pojedini komentari (r/SharkAdvice) deluju promotivno. Bez UGC oglasa."
+ },
+ {
+  "id": "6755542324",
+  "name": "Pushy - Push Ups Alarm",
+  "differentiator": "Alarm bez dugmeta za odlaganje: gasi se samo kada kamera izbroji zadati broj sklekova (ili trbušnjaka), radi offline i probija režim Ne uznemiravaj.",
+  "specifics": [
+   "Ključna mehanika: kamera broji ponavljanja, podesiv broj, sklekovi, trbušnjaci ili sklekovi na kolenima",
+   "Šta je deljivo: nema u aplikaciji",
+   "Društveni sloj: nema",
+   "Monetizacija: pretplata (prema recenzijama preko $10 mesečno), paywall posle onboarding testa; rani korisnici dobili lifetime"
+  ],
+  "psych": "Obaveza preuzeta unapred, uz fizički napor koji razbuđuje i gradi naviku jutarnjeg vežbanja. Dokaz: „Hold yourself accountable before the time to do so.“",
+  "developer_type": "solo (Iuri Jorbenadze, 1 aplikacija; opis navodi solo developera)",
+  "build_notes": "AlarmKit ili kritični alarmi na iOS-u, full-screen intent na Androidu; detekcija poze na uređaju (Vision / ML Kit). Najveći rizik: pouzdanost alarma i detekcija celog tela u malom kadru telefona na podu.",
+  "hook": "Jedini način da ugasim alarm je 20 sklekova — dan 1 naspram dana 30.",
+  "monetization": "Pretplata (preko $10 mesečno po recenzijama), paywall posle onboarding testa; rani korisnici imaju lifetime.",
+  "complaints": [
+   "Pretplata za alarm, paywall otkriven tek na kraju onboardinga (~9)",
+   "Kamera ne hvata celo telo, teško se postavlja telefon (~4)",
+   "Posle ažuriranja alarm se ponavlja u petlji ili ne zazvoni (~4)",
+   "Alarm nije dovoljno glasan (~1)"
+  ],
+  "suggestions": [
+   "Glasniji alarm i lakši uvoz sopstvenog zvuka",
+   "Detekcija koja traži samo gornji deo tela",
+   "Jeftiniji ili besplatan osnovni nivo",
+   "Čučnjevi/skokovi kao alternativa sklekovima (već delimično podržano)"
+  ],
+  "praise": [
+   "Stvarno budi i prekida snooze petlju (većina recenzija)",
+   "Gradi naviku jutarnjih sklekova",
+   "Ne može se ugasiti utišavanjem telefona"
+  ],
+  "opportunity": "Spoj Pushy i Nooze pristupa: pouzdan alarm sa više misija, zajednički wake-up streak sa prijateljima i deljiv kratki video „dokaz u 7:00“; jasan besplatni nivo za jedan alarm.",
+  "growth": "941 ocena za ~318 dana (2,96/dan); recenzije 7 u 30d naspram 12 — usporavanje posle uvođenja pretplate.",
+  "confidence": "visoka",
+  "marketing_evidence": "Nema aktivnih reklama u US. 'Pushy push ups' (43) i 'Pushy alarm' (~210) bez oglašivača aplikacije; isključen Aero-Swing ('pushy swing').",
+  "reddit_notes": "Brojna pominjanja u r/GetOutOfBed tokom ~12 meseci, ali veliki deo su developerovi komentari (otvoreno 'I've created') i šablonske preporuke ('search Pushy push ups alarm'), pa je organski udeo nejasan. Ton pozitivan. UGC pretraga NIJE urađena (Google CAPTCHA), ugc_hiring nije provereno."
+ },
+ {
+  "id": "6782149051",
+  "name": "Baddie Protocol",
+  "differentiator": "75 Hard za devojke: estetski 75-dnevni izazov gde biraš sopstvene 'that girl' navike, dokazuješ ih fotografijom i radiš ga sa drugaricama preko koda.",
+  "specifics": [
+   "Ključna mehanika: lična dnevna lista (trening, voda, čitanje, skincare, bez telefona u krevetu), 75 dana zaredom, foto dokaz",
+   "Šta je deljivo: estetski izgled liste i napretka, foto dokazi (procena)",
+   "Društveni sloj: pozivanje prijateljica kodom i uvid u njihov dnevni napredak",
+   "Monetizacija: plaćena, bez besplatne verzije (~5 USD prema recenziji)"
+  ],
+  "psych": "Grupni izazov sa javnom obavezom i nizom: 'The majority of women who finished the challenge had someone doing it with them' (iz opisa); recenzije pokazuju da je kuka jaka, ali da korisnici očekuju više od liste.",
+  "developer_type": "Solo developer (procena): fizičko lice Iurii Frolov, 3 aplikacije.",
+  "build_notes": "Lista navika, kalendar niza, foto dokazi (storage), friend kod i feed napretka (backend), estetski UI, widgeti. Najveći rizik: percepcija 'samo checklista' i retencija posle prvih dana.",
+  "hook": "Dan 1 od 75 mog Baddie Protocola – ko je sa mnom? Ubaci kod.",
+  "monetization": "Plaćena aplikacija/pretplata bez free verzije; recenzije pominju ~5 USD; marketing preko TikToka (prema recenziji AI-generisani video).",
+  "complaints": [
+   "'Samo checklista' za novac (3)",
+   "Nema besplatne verzije (2)",
+   "Marketing AI videima na TikToku deluje obmanjujuće (1)"
+  ],
+  "suggestions": [
+   "Besplatna verzija (1)",
+   "Više sadržaja: programi, treninzi, ideje za ishranu (izvedeno iz žalbi)"
+  ],
+  "praise": [
+   "Pouzdana i 'baš ono što sam tražila'"
+  ],
+  "opportunity": "Isti izazov sa jačim grupnim slojem (grupni niz koji puca ako jedna odustane, dnevni foto kolaž grupe za deljenje) i besplatnim startom; to rešava žalbu 'samo lista' i daje viralni format.",
+  "growth": "2,29 ocena/dan (249 ocena za 109 dana) – dobar start za vrlo novu aplikaciju; recenzije 30d: 0 naspram 2 – mali uzorak, nema signala ubrzanja.",
+  "confidence": "srednja",
+  "marketing_evidence": "Nema aktivnih reklama u US. Tačna fraza 'Baddie Protocol' i 'Baddie app': 0 rezultata."
+ }
+]

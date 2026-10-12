@@ -1,0 +1,359 @@
+{
+  "1628381103": {
+    "exclude": true,
+    "exclude_reason": "Učenje jezika kroz TV klipove: zavisi od licenciranog video sadržaja.",
+    "name": "Umi - Language Learning"
+  },
+  "1607181162": {
+    "exclude": true,
+    "exclude_reason": "Utility (drugi broj telefona), prodavac sa više utility aplikacija.",
+    "name": "2nd Line :Second Phone Number◎"
+  },
+  "1540472983": {
+    "exclude": true,
+    "exclude_reason": "Terapeutska tekstualna avantura koju pišu terapeuti: velika biblioteka profesionalnog sadržaja, mentalno zdravlje, nije navika.",
+    "name": "Betwixt–The Story of You"
+  },
+  "1015819468": {
+    "name": "Running Tracker App – FITAPP",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Klasičan GPS tracker za trčanje i šetnju sa glasovnim povratnim informacijama, dnevnikom težine i 'Feed' fotografijama aktivnosti za deljenje.",
+    "specifics": [
+      "Ključna mehanika: GPS praćenje, glasovne informacije, brojač koraka, nedeljne i mesečne statistike",
+      "Šta je deljivo: SNAP fotografija rute ili rekorda",
+      "Društveni sloj: FITAPP Feed",
+      "Monetizacija: freemium sa reklamama, premium pretplata sa probnim periodom"
+    ],
+    "psych": "Vidljive kilometraže i statistike motivišu na sledeći izlazak. Dokaz: „Great way to keep me motivated“.",
+    "developer_type": "firma (FITAPP GmbH, 1 aplikacija, na tržištu od 2015)",
+    "build_weeks": 6,
+    "build_notes": "GPS u pozadini, mape, glasovni feedback, HealthKit/Health Connect, feed sa fotografijama. Najveći rizik: tačnost GPS-a i baterija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 2,
+    "hook": "Prvi put sam istrčao milju i aplikacija mi je to rekla na glas.",
+    "monetization": "Freemium sa reklamama i premium pretplatom (kalorije i dodatne funkcije); probni period bez podsetnika.",
+    "complaints": [
+      "Naplata posle probe bez podsetnika (~3)",
+      "Paywall odmah po instalaciji (~2)",
+      "Netačna distanca (~1)",
+      "Bag na mapi posle pretplate (~1)"
+    ],
+    "suggestions": [
+      "Grafik napretka u statistici",
+      "Prebacivanje milja i kilometara",
+      "Manje reklama"
+    ],
+    "praise": [
+      "Jednostavno praćenje trčanja",
+      "Glasovna obaveštenja",
+      "Feed kao inspiracija"
+    ],
+    "opportunity": "Generičan tracker bez zaokreta; vredi samo kao referenca za osnovne funkcije, a diferencijacija mora doći iz igre (teritorija, priča, izazov).",
+    "growth": "1,59 ocena dnevno od 2015; recenzije 30d 5 naspram 6: stagnacija.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/running-tracker-app-fitapp/id1015819468",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1492681216": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka video plesnih treninga za žene 40+ (profesionalni sadržaj), publika van 18–24.",
+    "name": "Everdance－Women Chair Workout"
+  },
+  "1300202543": {
+    "exclude": true,
+    "exclude_reason": "Etabliran dnevnik/utility za uspomene (Journey, milioni korisnika, sinhronizacija na više platformi); nije navika u užem smislu.",
+    "name": "Journey - Diary, Journal"
+  },
+  "1600604256": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija proizvođača fitnes opreme (Sunny Health) sa 2.000+ video kurseva; hardver i licencirani sadržaj.",
+    "name": "SunnyFit - For Home Fitness"
+  },
+  "1110684238": {
+    "exclude": true,
+    "exclude_reason": "Firma sa sopstvenom tehnologijom audio sadržaja (Brain.fm); vrednost je sadržaj, ne navika.",
+    "name": "Brain.fm: Focus & Sleep Music"
+  },
+  "1610537436": {
+    "exclude": true,
+    "exclude_reason": "Chat za upoznavanje stranaca uz učenje jezika, bliže dating/social aplikaciji.",
+    "name": "YeeTalk - Chat, Talk & Learn"
+  },
+  "1644552753": {
+    "name": "Quit Weed",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Tracker za prestanak pušenja trave sa vremenskom linijom oporavka: 30+ zdravstvenih bedževa (detoks, telo, um, pluća), vodič kroz prvih 6 nedelja i šta da očekuješ od apstinencijalnih simptoma.",
+    "specifics": [
+      "Ključna mehanika: brojač vremena i ušteđenog novca, health bedževi po datumu prestanka, faze oporavka, SOS dugme, 50+ dostignuća",
+      "Šta je deljivo: milestone-i i ušteđen novac (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: reklame, Pro oko $4 mesečno i lifetime; deo funkcija premešten iza paywalla"
+    ],
+    "psych": "Vidljiv oporavak tela i milestone-i daju razlog da izdržiš krizu. Dokaz: „I find myself staring at this app and the count up almost every time I have a craving“.",
+    "developer_type": "solo (Michal Janecek, 2 aplikacije; opis: 'I made this app because I've been there')",
+    "build_weeks": 4,
+    "build_notes": "Lokalni brojači i proračuni, sadržaj o fazama oporavka sa izvorima, widgeti, notifikacije, reklame i IAP. Najveći rizik: kvalitet i tačnost zdravstvenog sadržaja; ograničenja oglašavanja teme kanabisa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Dan 30 bez trave: aplikacija mi kaže da mi se REM san upravo vratio.",
+    "monetization": "Reklame (uključujući oglase za klađenje) plus Pro pretplata oko $4 mesečno i lifetime; korisnici odbijaju agresivne reklame.",
+    "complaints": [
+      "Previše reklama, i to za klađenje (~7)",
+      "Prethodno besplatne ili lifetime funkcije premeštene iza paywalla (~4)",
+      "Ton 'weed addict', samo apstinencija (~2)",
+      "Promena detox brojača (~1)"
+    ],
+    "suggestions": [
+      "Režim smanjenja i T-break umesto samo apstinencije",
+      "Vratiti stari detoks brojač",
+      "Bez reklama u aplikaciji za oporavak"
+    ],
+    "praise": [
+      "Vremenska linija simptoma i oporavka sa naukom",
+      "Brojač vremena i ušteđenog novca",
+      "Milestone-i kao motivacija"
+    ],
+    "opportunity": "Ista mehanika bez reklama, sa T-break režimom i partnerom za polaganje računa, uz neutralan ton za Gen Z; marketing preko 'dopamine reset/sober curious' narativa umesto direktne teme kanabisa.",
+    "growth": "1,34 ocene dnevno od sep. 2022; recenzije 30d 8 naspram 5: blag rast.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quit-weed/id1644552753",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6476196047": {
+    "exclude": true,
+    "exclude_reason": "Seksualno zdravlje (erektilna funkcija) i biblioteka audio meditacija; recenzije ukazuju na predatorsku naplatu, nije uklopivo za influencer kampanju 18–24.",
+    "name": "Rino: Men's Sexual Meditation"
+  },
+  "1181543778": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za hardver (SNOOZ uređaj za zvuk).",
+    "name": "SNOOZ: Sound. Sleep."
+  },
+  "1547137474": {
+    "name": "Onrise: Habit Tracker & Focus",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Potpuno besplatan habit tracker sa neograničenim navikama, Pomodoro tajmerom i mini dnevnikom po navici, zasnovan na principima behavior design-a (najmanja jedinica navike).",
+    "specifics": [
+      "Ključna mehanika: navike sa frekvencijom i podsetnicima, mesečni i godišnji pregledi, Pomodoro, beleška po navici",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: nema vidljive monetizacije, besplatno bez reklama"
+    ],
+    "psych": "Niz i mesečni pregled čine doslednost vidljivom. Dokaz: „this has helped me maintain consistency and keep organized with my habits“.",
+    "developer_type": "solo (Maximilian Munker, 3 aplikacije pod ličnim imenom)",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza, widgeti, notifikacije, statistika; bez backend-a. Najveći rizik: gubitak podataka (recenzije pominju brisanje navika) i odsustvo modela prihoda.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Jedini habit tracker koji mi ne traži pretplatu posle treće navike.",
+    "monetization": "Nema; aplikacija je besplatna bez reklama.",
+    "complaints": [
+      "Ne može da se upiše propušten dan unazad (~3)",
+      "Ograničeno prilagođavanje (boje, broj ponavljanja) (~3)",
+      "Navike obrisane ili ne čuvaju se (~2)",
+      "Widget prikazuje samo jednu naviku (~1)"
+    ],
+    "suggestions": [
+      "Widget sa svim navikama",
+      "Izvoz podataka",
+      "Količinsko praćenje (koliko, ne samo da li)",
+      "Sinhronizacija između platformi"
+    ],
+    "praise": [
+      "Potpuno besplatno, neograničene navike",
+      "Čist i šarenolik interfejs",
+      "Mesečni i godišnji pregledi"
+    ],
+    "opportunity": "Pokazuje koliko korisnici mrze paywall u habit trackerima; vrednost je kao referenca UX-a, a monetizacija bi morala doći iz društvenog ili kozmetičkog sloja.",
+    "growth": "1,23 ocene dnevno od jan. 2021; recenzije 30d 3 naspram 2: nizak, stabilan priliv.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 1,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/onrise-habit-tracker-focus/id1547137474",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1404193468": {
+    "name": "Water Tracker - Drink Reminder",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Jednostavan tracker vode sa nasumičnim podsetnicima u zadatom intervalu, cilj po težini iz Apple Health i praćenje kofeina.",
+    "specifics": [
+      "Ključna mehanika: unos čaša, nasumični podsetnici, istorija i naknadni unos",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (3 meseca) i lifetime; većina pića iza paywalla posle ažuriranja"
+    ],
+    "psych": "Mala, česta akcija sa trenutnom vizuelnom potvrdom (kapljice) gradi naviku. Dokaz: „it took a nice little app like this to really get me on track drinking water“.",
+    "developer_type": "firma (Shenzhen Xinchuang Information Technology Co., Ltd., 1 aplikacija)",
+    "build_weeks": 3,
+    "build_notes": "Lokalna baza, notifikacije, HealthKit, Apple Watch widget. Bez tehničkog rizika; rizik je nediferenciran proizvod.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Pila sam 3 litra vode dnevno 30 dana — evo šta mi se desilo sa kožom.",
+    "monetization": "Pretplata i lifetime; naknadno zaključavanje funkcija i nepriznavanje lifetime kupovina izazvali talas negativnih recenzija.",
+    "complaints": [
+      "Prethodno besplatne funkcije i pića zaključani iza paywalla (~12)",
+      "Lifetime kupovina ne radi posle ažuriranja (~4)",
+      "Podaci nestaju i bagovi posle ažuriranja (~5)",
+      "Apple Watch widget pokvaren (~2)"
+    ],
+    "suggestions": [
+      "Brži unos vremena (numerička tastatura)",
+      "Ispravan prikaz jedinica na satu",
+      "Naknadni unos za prethodne dane"
+    ],
+    "praise": [
+      "Uporni podsetnici",
+      "Simpatičan novi UI",
+      "Jednostavan unos"
+    ],
+    "opportunity": "Primer kako paywall posle rasta uništava poverenje; samostalno slaba ideja, ali hidratacija može biti 'quest' unutar šire igrifikovane aplikacije navika.",
+    "growth": "1,22 ocene dnevno od 2018; recenzije 30d 3 naspram 2: stagnacija uz negativan trend posle promene modela.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/water-tracker-drink-reminder/id1404193468",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6760113106": {
+    "name": "Lord of the Steps",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "Pedometar kao fantasy putovanje od 2.865 km od 'rupe u zelenim brdima' do 'Vatrene planine': stvarni koraci pomeraju te po mapi kroz 18 tačaka i 50 pejzaža, a grupa drugara vidi ko je gde na ruti.",
+    "specifics": [
+      "Ključna mehanika: koraci iz HealthKit-a pomeraju avatar po ruti, dnevni cilj, niz dana, nedeljni izazovi",
+      "Šta je deljivo: položaj na mapi i dostignuti milestone (procena, deljenje nije potvrđeno)",
+      "Društveni sloj: grupe sa chatom i mapom svih članova, javne grupe, izazovi sa prijateljima",
+      "Monetizacija: nema, bez reklama i kupovina"
+    ],
+    "psych": "Narativni napredak i trka u grupi pretvaraju obične korake u zajedničku avanturu. Dokaz: „My friend group is always racing!“.",
+    "developer_type": "solo (Ainur Khakimov, 1 aplikacija pod ličnim imenom)",
+    "build_weeks": 4,
+    "build_notes": "HealthKit/Health Connect i pedometar, ilustrovana mapa i pozadine, backend za grupe, chat i izazove, avatar. Najveći rizik: autorska prava (očigledna aluzija na Gospodara prstenova) i ilustracije kao glavni trošak.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moje drugarice i ja pešačimo do Mordora — ja sam već na skeli, one su još u Shireu.",
+    "monetization": "Nema; korisnici hvale odsustvo reklama i pretplata (prostor za premium svetove ili kozmetiku).",
+    "complaints": [
+      "Mapa bez zuma i bez naziva mesta (~3)",
+      "Prijava ne radi (~1)",
+      "Zbunjujući 'danas' naspram 'ukupno' (~1)",
+      "Malo sadržaja koji drži pažnju (~1)"
+    ],
+    "suggestions": [
+      "Zum mape i nazivi mesta",
+      "Imperijalne jedinice (milje)",
+      "Izbor druge rute ili sveta",
+      "Više interakcije na putu"
+    ],
+    "praise": [
+      "Grupe i trka sa prijateljima",
+      "Bez reklama i pretplate",
+      "Lepa ilustrovana mapa i jednostavnost"
+    ],
+    "opportunity": "Sopstveni IP sa više svetova (sezonske rute), deljive razglednice na milestone-ima i premium svetovi ili kozmetika kao monetizacija; izbeći Tolkienove nazive.",
+    "growth": "Izašla 12. mar. 2026; 259 ocena (1,21 dnevno); recenzije 30d 5 naspram 4: mali, ali organski stabilan rast bez reklama.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 1,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/lord-of-the-steps/id6760113106",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

@@ -1,0 +1,134 @@
+{
+ "6754082465": {
+  "exclude": true,
+  "exclude_reason": "Casual puzzle igra sa reklamama, nije lična navika; prodavac FBIG Corporation ima 5 igara (studio igara).",
+  "name": "Brick Escape: Block Puzzle"
+ },
+ "933944389": {
+  "exclude": true,
+  "exclude_reason": "Prateća aplikacija za sopstveni hardver (narukvica) poznatog brenda; ne može se napraviti bez uređaja.",
+  "name": "WHOOP"
+ },
+ "878691772": {
+  "exclude": true,
+  "exclude_reason": "Poznat brend od 2014 (NYT, Forbes), suština je sopstveni algoritam faza sna i ML analiza zvuka (hrkanje, apneja), blisko medicinskom domenu; nije mali novi developer.",
+  "name": "Pillow: Sleep Tracker"
+ },
+ "6590624626": {
+  "exclude": true,
+  "exclude_reason": "Čisti audio sadržaj (hipnoterapija), zahteva veliku biblioteku profesionalnih snimaka; nema mehaniku navike.",
+  "name": "Hypnozio: Sleep & Hypnotherapy"
+ },
+ "1287009111": {
+  "exclude": true,
+  "exclude_reason": "Utility (sat na noćnom stočiću), nema self-improvement mehaniku.",
+  "name": "Digital Clock - Bedside Alarm"
+ },
+ "6758072393": {
+  "exclude": true,
+  "exclude_reason": "Merge/story igra, nije self-improvement.",
+  "name": "Fallen Beauty: Merge & Story"
+ },
+ "6757347283": {
+  "name": "Stella - Manifest Anything",
+  "exclude": false,
+  "list": "B",
+  "principle": "Identitet i samoizražavanje",
+  "differentiator": "Aplikacija za afirmacije, ali umesto generičkih fraza AI pravi personalizovane audio priče u kojima već živiš svoj ciljani život, sa imenima ljudi iz tvog života i opcijom tvog glasa.",
+  "specifics": [
+   "Ključna mehanika: dugačak upitnik o ciljevima i životu, zatim dnevne AI audio priče i afirmacije koje se osvežavaju na 24h",
+   "Šta je deljivo: slabo, sadržaj je lični (procena: 'mind movie' video bi mogao biti deljiv)",
+   "Društveni sloj: nema",
+   "Monetizacija: tvrdi paywall posle upitnika, 6,99 USD nedeljno (recenzije pominju i ~40 USD mesečno, 336 USD godišnje)"
+  ],
+  "psych": "Vizualizacija budućeg sebe i identitet ('postajem ta osoba'); personalizacija stvara emotivnu vezu: 'it makes my manifestation super personal'. Slabija veza sa doslednošću nego kod klasičnih trackera.",
+  "developer_type": "solo / mali tim (Perl Productions LLC, 1 aplikacija; recenzija zahvaljuje osnivačici Sari Perl)",
+  "build_weeks": 5,
+  "build_notes": "LLM za generisanje priča, TTS sa kloniranjem glasa (spoljni API), biblioteka slika, backend za profile i dnevno osvežavanje, offline keš audio fajlova. Najveći rizik: trošak TTS-a po korisniku i privatnost osetljivih podataka iz upitnika.",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": false,
+   "creator_format": true,
+   "shareable": false
+  },
+  "marketability_score": 3,
+  "hook": "Pustila sam AI da mi ispriča kako izgleda moj život za godinu dana i rasplakala sam se.",
+  "monetization": "Pretplata sa obaveznim trialom pre korišćenja, 6,99 USD nedeljno; deo korisnika prihvata ('definitely worth it'), većina niskih ocena odbija cenu i hard paywall.",
+  "complaints": [
+   "Hard paywall tek posle dugog upitnika, bez besplatnog probanja (~14 pominjanja)",
+   "Previsoka cena, posebno nedeljni plan od 6,99 USD (~7)",
+   "Invazivna lična pitanja u upitniku, utisak prikupljanja podataka (~5)",
+   "Slike bez raznolikosti (uglavnom vitke plavuše), teško se poistovetiti (~2)"
+  ],
+  "suggestions": [
+   "Mesečni ili jeftiniji plan umesto nedeljnog",
+   "Prilagođavanje za muškarce",
+   "Brže osvežavanje sadržaja umesto čekanja 24h",
+   "Besplatan uzorak priče pre paywalla"
+  ],
+  "praise": [
+   "Duboka personalizacija priča i afirmacija",
+   "Imerzivan audio i glas, uključujući sopstveni glas",
+   "Snažan emotivni utisak već od prve priče"
+  ],
+  "opportunity": "Prva personalizovana priča besplatno pa paywall, inkluzivni vizuali i muški profil, plus dnevni niz slušanja i deljivi 'mind movie' video za TikTok, čime dobija sloj doslednosti i društveni sloj.",
+  "growth": "Oko 20,7 ocena dnevno od izlaska (jan 2026), 5.306 ocena; recenzije 35 u 30d naspram 40 ranije, stabilno. Recenzije pominju Instagram reklame, pa rast verovatno nije samo organski.",
+  "scores": {
+   "marketabilityVirality": 3,
+   "marketingGap": 3,
+   "buildEase": 4,
+   "voiceOfCustomer": 4,
+   "monetization": 3,
+   "principleFit": 2
+  },
+  "confidence": "srednja",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/stella-manifest-anything/id6757347283",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "920869470": {
+  "exclude": true,
+  "exclude_reason": "Utility za drugi broj telefona (VoIP), nije self-improvement.",
+  "name": "Nextplus: Private Phone Number"
+ },
+ "6759301366": {
+  "exclude": true,
+  "exclude_reason": "AI tekstualna RPG igra (zabava), nije lična navika ni disciplina.",
+  "name": "Old Greg's Tavern"
+ },
+ "6753947133": {
+  "exclude": true,
+  "exclude_reason": "Fitness program sa video bibliotekom instruktora iza firme Vitalab/Lasta (šablon kviz + agresivna naplata, više sličnih proizvoda); velika biblioteka profesionalnog video sadržaja.",
+  "name": "My Personal Challenge"
+ },
+ "6505061490": {
+  "exclude": true,
+  "exclude_reason": "Roguelike igra, nije self-improvement.",
+  "name": "Obsidian Knight: Roguelike RPG"
+ },
+ "1201703657": {
+  "exclude": true,
+  "exclude_reason": "Poznat brend (Relive B.V., od 2017), suština su 3D video rekapi ruta na mapi; nije mali developer, a 3D render je zahtevan.",
+  "name": "Relive: Hike & Ride Memories"
+ },
+ "1581750845": {
+  "exclude": true,
+  "exclude_reason": "Igra pasijansa; prodavac ima 10 igara (fabrika igara).",
+  "name": "Solitaire-Brain Training"
+ },
+ "1274216319": {
+  "exclude": true,
+  "exclude_reason": "Utility za drugi broj telefona, nije self-improvement.",
+  "name": "Second Texting Number"
+ },
+ "1286609883": {
+  "exclude": true,
+  "exclude_reason": "Velika firma sa VC finansiranjem, sopstveni AI/govorni modeli i veliki kurikulum; ne može za 2 meseca.",
+  "name": "Speak: Language Learning"
+ }
+}

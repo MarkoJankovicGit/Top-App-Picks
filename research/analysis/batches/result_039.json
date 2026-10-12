@@ -1,0 +1,356 @@
+{
+  "6744899344": {
+    "exclude": true,
+    "exclude_reason": "Fitnes za muškarce 40+ sa bibliotekom video vežbi (Tai Chi, chair workouts); prodavac sa 4 aplikacije deluje kao fabrika fitness aplikacija, publika van 18–24.",
+    "name": "Muscle Charge: Men 40+ Fitness"
+  },
+  "6737305871": {
+    "exclude": true,
+    "exclude_reason": "Igra (turn-based RPG), nije self-improvement.",
+    "name": "Horizon Walker"
+  },
+  "6783308810": {
+    "name": "Tock - Alarm & Sleep Tracker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Pametni alarm koji budi u laganijoj fazi sna, ali se gasi tek kad završiš misiju (slikaš četkicu ili lekove, nađeš predmet, rešiš memorijski test, protreseš telefon); uz to sleep score, niz noći i AI coach.",
+    "specifics": [
+      "Ključna mehanika: Smart Wake do 30 min ranije, misije za gašenje alarma, probija tihi režim i Focus, praćenje zvukova noću",
+      "Šta je deljivo: smešne misije ujutru i sleep score (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (cena nije vidljiva u podacima)"
+    ],
+    "psych": "Obaveza preuzeta uveče i trenje ujutru eliminišu snooze, a niz noći (90% cilja) gradi doslednost. Dokaz: „I have to complete a challenge to stop the alarm“.",
+    "developer_type": "mali tim ili solo (Wildframe FZ-LLC, 1 aplikacija; procena)",
+    "build_weeks": 6,
+    "build_notes": "AlarmKit/kritični alarmi na iOS-u i full-screen intent na Androidu, kamera i prepoznavanje objekata na uređaju (Vision/ML Kit), noćna analiza zvuka, generisani zvuci, LLM coach. Najveći rizik: pouzdanost alarma u pozadini i baterija tokom noćnog praćenja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Moj alarm neće da se ugasi dok ne slikam čarapu — a pojma nemam gde mi je čarapa.",
+    "monetization": "Pretplata; recenzije se žale na plaćanje, cena nije vidljiva u podacima.",
+    "complaints": [
+      "Plaćanje za alarm (~1)",
+      "Zaglavljen ekran u onboardingu ('sleep inertia') (~1)"
+    ],
+    "suggestions": [
+      "Nema jasnih predloga u uzorku; recenzije su gotovo sve pozitivne"
+    ],
+    "praise": [
+      "Misije koje sprečavaju snooze",
+      "Zabavno i takmičarski (traženje predmeta)",
+      "Praćenje sna i otkrivanje hrkanja"
+    ],
+    "opportunity": "Dodati deljivi sloj (jutarnji 'proof' snimak misije, niz buđenja sa drugarom) koji pretvara buđenje u grupni izazov; talas uniformnih recenzija 21–23. sept. treba proveriti pre zaključaka o potražnji.",
+    "growth": "Izašla 3. jul 2026; 216 ocena (2,14 dnevno); recenzije 30d 98 naspram 41: snažno ubrzanje, ali zgusnut talas sličnih recenzija sugeriše organizovanu kampanju.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/tock-alarm-sleep-tracker/id6783308810",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1525185489": {
+    "exclude": true,
+    "exclude_reason": "Utility (ad blocker i VPN).",
+    "name": "Naka AdBlocker VPN"
+  },
+  "6451427834": {
+    "name": "Untold - Voice Journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Glasovni AI dnevnik gde si 'glavni lik': govoriš slobodno, a aplikacija postavlja potpitanja i pravi 'newsfeed o tebi' (kratke priče, analize ličnosti, obrasci iz prošlih unosa).",
+    "specifics": [
+      "Ključna mehanika: speech-to-text dnevnik, AI potpitanja, generisan sadržaj o korisniku, pitanja nad sopstvenim unosima",
+      "Šta je deljivo: analize ličnosti i kratke priče o sebi (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: nedavno uveden paywall posle dugog besplatnog perioda"
+    ],
+    "psych": "Identitet i samoprepoznavanje: aplikacija vraća korisniku priču o njemu samom, što stvara emotivnu vezu. Dokaz: „it’ll reference back to previous entries… and remind you of patterns“.",
+    "developer_type": "mali tim (Thoughts ACC, Inc., 1 aplikacija; startup, procena)",
+    "build_weeks": 7,
+    "build_notes": "Speech-to-text, LLM sa dugoročnom memorijom (RAG nad unosima), enkripcija, generisanje sadržaja. Najveći rizik: bezbednost AI odgovora u emotivnim situacijama, privatnost i trošak inferencije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "Pričala sam aplikaciji 2 minuta o svom danu i napisala mi je kratku priču u kojoj sam glavna junakinja.",
+    "monetization": "Pretplata uvedena 2026; stari korisnici je masovno odbijaju.",
+    "complaints": [
+      "Iznenadni paywall za rane korisnike (~7)",
+      "Gubitak dugih snimaka zbog bagova (~2)",
+      "Privatnost: unosi korišćeni za treniranje AI (~1)",
+      "Uklonjena omiljena funkcija 'Flash Fiction' i neprimeren AI odgovor (~2)"
+    ],
+    "suggestions": [
+      "Vratiti 'Flash Fiction for You'",
+      "Grandfather ili popust za rane korisnike",
+      "Stabilniji upload dugih snimaka"
+    ],
+    "praise": [
+      "Potpitanja koja produbljuju razmišljanje",
+      "Povezivanje sa ranijim unosima i obrascima",
+      "Odlična tačnost diktiranja"
+    ],
+    "opportunity": "Fokus na deljivi izlaz (nedeljna 'priča o meni', kartica ličnosti) i niz dnevnih unosa; jasna cena od starta umesto naknadnog paywalla.",
+    "growth": "2,08 ocena dnevno od nov. 2023; recenzije 30d 1 naspram 1: rast je stao posle uvođenja paywalla.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/untold-voice-journal/id6451427834",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1269788228": {
+    "exclude": true,
+    "exclude_reason": "Etabliran brend za blokiranje aplikacija (Freedom, 3M+ korisnika, timovi i desktop), firma sa dugom istorijom.",
+    "name": "Freedom: Screen Time Control"
+  },
+  "6742103871": {
+    "name": "minimalist phone ® Block Apps",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator ekrana koji telefon pretvara u crno-beli tekstualni launcher, uz 15 sekundi pauze pre otvaranja aplikacije i vremenski limit po otvaranju bez dugmeta 'ignoriši'.",
+    "specifics": [
+      "Ključna mehanika: tekstualni početni ekran (widget), blokiranje aplikacija i sajtova, mindful delay, limit po otvaranju",
+      "Šta je deljivo: screen time pre/posle i minimalistički izgled ekrana (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: godišnja pretplata ($19,99–39,99 po recenzijama) i lifetime"
+    ],
+    "psych": "Trenje pre impulsa i obaveza preuzeta unapred lome naviku skrolovanja. Dokaz: „there isn’t an ‘ignore limit’ button right on the screen“.",
+    "developer_type": "mali tim (Hachi Media OU, 1 iOS aplikacija, ranije poznata Android verzija; tvrdi 10M+ korisnika)",
+    "build_weeks": 5,
+    "build_notes": "Screen Time API (FamilyControls/DeviceActivity, potreban entitlement), widgeti, uputstva za sistemska podešavanja; Android launcher je lakši. Najveći rizik: iOS ograničenja (nema pravog launchera, Liquid Glass) i složen setup.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Pretvorila sam svoj iPhone u 'glupi telefon' i screen time mi je pao sa 5 na 2 sata.",
+    "monetization": "Pretplata, godišnje $19,99–39,99 po recenzijama, plus lifetime; deo korisnika smatra da plaća 'samo widget'.",
+    "complaints": [
+      "Setup težak i ne izgleda kao u reklamama (~6)",
+      "Plaća se za ono što iOS već ima, 'samo widget' (~5)",
+      "Naplata i obnova pretplate (~3)",
+      "iOS 26 Liquid Glass kvari izgled i stabilnost (~3)"
+    ],
+    "suggestions": [
+      "Lakša promena blokiranih aplikacija posle podešavanja",
+      "Izbor aplikacija na koje se primenjuju tajmeri",
+      "Ažurirana uputstva za novi iOS",
+      "Rasporedi blokiranja (najavljeno)"
+    ],
+    "praise": [
+      "Merljiv pad screen time-a",
+      "15 sekundi pauze bez opcije za preskakanje",
+      "Smirujući crno-beli izgled"
+    ],
+    "opportunity": "Vođen setup u par koraka i niz dana sa smanjenim screen time-om kao deljivi rezultat; jasno pokazati vrednost iznad besplatnih iOS podešavanja.",
+    "growth": "2,05 ocena dnevno od nov. 2025; recenzije 30d 21 naspram 23: stabilan priliv, uz plaćene reklame (recenzije pominju oglase).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/minimalist-phone-block-apps/id6742103871",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1527960097": {
+    "exclude": true,
+    "exclude_reason": "Klađenje i sportski tipovi, isključena kategorija.",
+    "name": "Juice Reel: Bet Tracker & Tips"
+  },
+  "6761405460": {
+    "exclude": true,
+    "exclude_reason": "Igra (tekstualna simulacija života), nije self-improvement.",
+    "name": "Verdant - Life Simulation"
+  },
+  "1529321947": {
+    "exclude": true,
+    "exclude_reason": "Klinički CBT-I program za nesanicu (Stanford/Yale, lekari), regulisan domen i firma.",
+    "name": "Sleep Reset: CBT for Insomnia"
+  },
+  "1060470475": {
+    "exclude": true,
+    "exclude_reason": "Igra (survival), nije self-improvement.",
+    "name": "Day R Survival: Last Survivor"
+  },
+  "6503678413": {
+    "name": "Welling AI Nutrition Assistant",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Brojač kalorija kao chat sa AI nutricionistom: opišeš obrok rečima, glasom ili fotografijom, a AI računa makroe i podseća te kao coach umesto običnih notifikacija.",
+    "specifics": [
+      "Ključna mehanika: chat logovanje hrane i aktivnosti, AI plan po TDEE, meal planning, bar kod",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: koriste ga personalni treneri sa klijentima (prema opisu)",
+      "Monetizacija: pretplata $22,99 mesečno ili $120 godišnje po recenzijama, paywall posle onboardinga"
+    ],
+    "psych": "Konverzacioni coach i podsetnici stvaraju osećaj da neko prati tvoj napredak. Dokaz: „I appreciate the reminders it sends me… it helps me keep myself accountable“.",
+    "developer_type": "mali tim (Welling AI Pte. Ltd., Singapur, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "LLM + vision za procenu obroka, baza namirnica za proveru, chat UI, notifikacije, HealthKit. Najveći rizik: tačnost porcija i halucinacije u brojevima, trošak inferencije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Samo napišem 'pojela sam burrito' i AI mi kaže koliko mi proteina još fali.",
+    "monetization": "Pretplata $22,99 mesečno ili $120 godišnje (po recenzijama), 7 dana proba; korisnici je smatraju preskupom za 'samo AI'.",
+    "complaints": [
+      "Netačne AI procene porcija i obroka (~12)",
+      "Previsoka cena (~4)",
+      "Paywall tek posle dugog upitnika (~3)",
+      "Padovi i bagovi pri logovanju (~3)"
+    ],
+    "suggestions": [
+      "Veća baza namirnica za proveru AI procene",
+      "Lakše ispravljanje grešaka AI-a",
+      "Bolja memorija navika (npr. dva obroka dnevno)",
+      "Uvoz Apple Watch kalorija"
+    ],
+    "praise": [
+      "Brzina logovanja kroz chat",
+      "Lep i jednostavan interfejs",
+      "Podsetnici u stilu coacha"
+    ],
+    "opportunity": "AI chat logovanje je postalo standard; razlika bi bila hibrid AI + verifikovana baza i niži cenovni prag, uz društveni ili niz-dana sloj.",
+    "growth": "1,84 ocene dnevno od jul. 2024; recenzije 30d 5 naspram 3: nizak, stabilan priliv.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/welling-ai-nutrition-assistant/id6503678413",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1209781676": {
+    "name": "Setgraph: Gym Workout Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Dnevnik treninga fokusiran na grafike snage u realnom vremenu: unos serije u par tapova, rest tajmer na Dynamic Islandu i AI planovi po cilju (izgled ili performanse).",
+    "specifics": [
+      "Ključna mehanika: brzi unos serija, Smart Plates, auto rest tajmer, grafici napretka, niz dana",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata oko $30 godišnje po recenzijama"
+    ],
+    "psych": "Grafik koji raste posle svakog treninga je direktan dokaz napretka. Dokaz: „Makes consistency easy“.",
+    "developer_type": "mali tim (Setgraph LLC, 2 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza i cloud sinhronizacija, Live Activities, grafici, AI generisanje planova, HealthKit. Najveći rizik: kvalitet sinhronizacije i migracija podataka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Ovaj grafik pokazuje kako mi je bench rastao 12 meseci — bez ijednog propuštenog treninga.",
+    "monetization": "Pretplata oko $30 godišnje; dugogodišnji korisnici je prihvataju, novi se žale na rani paywall.",
+    "complaints": [
+      "Bagovi posle ažuriranja, pop-up niza zamrzava aplikaciju (~8)",
+      "Gubitak podataka, nema prenosa i izvoza (~4)",
+      "Rani paywall i dug upitnik (~3)",
+      "Uklonjena pretraga unutar treninga (~1)"
+    ],
+    "suggestions": [
+      "Izvoz podataka",
+      "Praćenje pulsa preko AirPods Pro",
+      "Progress slike",
+      "Detaljnije mišićne grupe"
+    ],
+    "praise": [
+      "Brz i jednostavan unos",
+      "Povoljna cena",
+      "Istorija treninga i grafici"
+    ],
+    "opportunity": "Stabilnost i izvoz podataka su očigledne rupe; niz dana i deljive kartice rekorda bi dali viralni sloj koji nedostaje.",
+    "growth": "1,81 ocena dnevno od 2017; recenzije 30d 7 naspram 6: stabilno, uz rast negativnih recenzija posle ažuriranja.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/setgraph-gym-workout-tracker/id1209781676",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "379385811": {
+    "exclude": true,
+    "exclude_reason": "Etablirana platforma (LingQ, od 2010) sa velikom bibliotekom licenciranog sadržaja na 50 jezika.",
+    "name": "LingQ | Learn Languages"
+  },
+  "447374873": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (komoot GmbH), planer ruta sa sopstvenim mapama i ogromnom bazom ruta; nije za 2 meseca.",
+    "name": "komoot - hike, bike & run"
+  }
+}

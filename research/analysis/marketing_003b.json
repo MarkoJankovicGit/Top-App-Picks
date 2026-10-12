@@ -1,0 +1,222 @@
+{
+ "6755110504": {
+  "name": "Unglue: Screen Time Friend",
+  "query": "Unglue (keyword + exact phrase), unglue.app",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. Pretraga 'Unglue' (44 rezultata) vraća samo nepovezane oglašivače (LIVFRESH, skin care persona stranice); 'unglue.app' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Unglue&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6478773954": {
+  "name": "Fasting Tracker • Easy Fast",
+  "query": "\"Easy Fast\" (exact phrase), easyfastapp",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. Tačna fraza 'Easy Fast' vraća ~2.100 nepovezanih rezultata (Xoom, auto dileri itd.), nijedan o postu/Samtark; 'easyfastapp' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=easyfastapp&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6753029718": {
+  "name": "Rewired: Defeat Lust Now",
+  "query": "Rewired, \"Rewired app\" (exact), \"lust recovery\" (exact), Defeat Lust",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Rewired App' (3 reklame, rewiredapp.io) je druga aplikacija (blokator ometanja u TestFlight beti) i isključena je; 'Defeat Lust' i 'lust recovery' bez oglasa ove aplikacije. Tema (pornografija) je restriktivna za Meta oglase, pa je marketing verovatno van Mete.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Rewired%20app&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6782316565": {
+  "name": "Pushup RPG: Fitness Quest",
+  "query": "Pushup RPG",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama u US: pretraga 'Pushup RPG' vraća 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Pushup%20RPG&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6451746641": {
+  "name": "Arrow: Workout & Macro Tracker",
+  "query": "\"Arrow workout\" (exact), \"Arrow app\" (exact)",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama u US: tačne fraze 'Arrow workout' i 'Arrow app' vraćaju 0 rezultata (samo 'Arrow' je previše generičko).",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Arrow%20workout&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6744783834": {
+  "name": "Studley: AI Study Tutor",
+  "query": "Studley, studley.ai",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Studley' (25 rezultata) vraća samo nepovezane oglašivače (StudleyDuds, Studley Flower Gardens, Jonathan Studley, Solar.Studley); 'studley.ai' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Studley&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6636516894": {
+  "name": "Seed: Quit Temptation & Urges",
+  "query": "\"Seed app\" (exact), \"Quit Temptation\" (exact), Seed quit, Nora Studios",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Seed app' i 'Quit Temptation' (tačne fraze) 0 rezultata; 'Seed quit' (~8.000) i 'Nora Studios' (16) samo nepovezani oglašivači (suplementi, Travel With Nora, drame).",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Seed%20app&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6683289805": {
+  "name": "Fluently: AI Language Learning",
+  "query": "\"Fluently AI\" (exact), getfluently",
+  "level": 3,
+  "ads": 260,
+  "oldest_start": "23 Sep 2026",
+  "advertiser": "Fluently: AI Languge Tutor (+ partnership oglasi kreatora: Fluently Basya, Fluently Mey, manon.lessons, ria.learns)",
+  "evidence": "~260 aktivnih reklama u US (tačna fraza 'Fluently AI'; 'getfluently' 270), link APP.GETFLUENTLY.APP. Masovne partnership reklame sa kreatorima (jezici: arapski, hebrejski, španski, japanski), među učitanima najstarija od 23.9.2026, nove svakodnevno do 9.10.2026. Isključeni 'Learn Fast & Speak Fluently', Linguza, Loora i druge aplikacije za jezike.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Fluently%20AI&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1557127861": {
+  "name": "Fantasy Hike",
+  "query": "Fantasy Hike",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Fantasy Hike' (27 rezultata) vraća samo nepovezane oglašivače (Lord of Maps, DraftKings, WeTrip, putničke agencije).",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Fantasy%20Hike&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6785301718": {
+  "name": "yoked: partner bible study",
+  "query": "yoked, tryyoked",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'yoked' (210) vraća fitness brendove (Yolked, Fabletics, GHOST) i crkve, ništa sa tryyoked.app; 'tryyoked' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=yoked&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1645639057": {
+  "name": "Refocus: App Blocker & Lock",
+  "query": "Refocus, refocusapp",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Refocus' (~930) vraća nepovezane oglašivače (reFocus Awards, Luna Focus, crkve, coaching) i konkurenta Opal (isključen); 'refocusapp' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Refocus&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1534196157": {
+  "name": "Shmoody: Mood & Habit Tracker",
+  "query": "Shmoody",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama u US: pretraga 'Shmoody' vraća 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Shmoody&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1445348921": {
+  "name": "Days Since: Quit Habit Tracker",
+  "query": "\"Days Since\" (exact), dayssinceapp",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. Tačna fraza 'Days Since' (~3.800) vraća samo nepovezane oglašivače (PAKA, VYEPTI, LASIK.com...), nijedan habit tracker; 'dayssinceapp' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=dayssinceapp&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6450723685": {
+  "name": "75 Days Challenge Tough & Soft",
+  "query": "\"75 Days Challenge\" (exact), BeHard, behard.co, \"75 Soft\" (exact)",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. '75 Days Challenge' (tačna fraza) i 'behard.co' 0 rezultata; '75 Soft' (94) samo nepovezani oglašivači i konkurentska aplikacija 75Me (isključena).",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=75%20Days%20Challenge&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6748418458": {
+  "name": "Mogged: Glow Up for Men",
+  "query": "Mogged, moggedup, \"Mogged app\" (exact)",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'Mogged' (57) vraća looksmaxxing oglase drugih brendova (Norse Organics, Ascend Skin, Tallmenshoes) koji koriste reč 'mogged'; 'moggedup' i 'Mogged app' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Mogged&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6766965073": {
+  "name": "Bunny Steps: walk for rewards",
+  "query": "\"Bunny Steps\" (exact), bunnysteps",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. Tačna fraza 'Bunny Steps' i 'bunnysteps' 0 rezultata; obična pretraga (~8.700) vraća samo nepovezane oglašivače (BunnyDoku, Benefits Bunny, drame).",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Bunny%20Steps&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6480119395": {
+  "name": "Soundscape: Focus Sleep Relax",
+  "query": "Soundscape, Soundscape study",
+  "level": 2,
+  "ads": 9,
+  "oldest_start": "29 Sep 2026",
+  "advertiser": "Soundscape (+ partnership: Sam Stones sa Soundscape, Erik sa Soundscape)",
+  "evidence": "Najmanje 9 aktivnih reklama u US (8 kartica, link na App Store id6480119395 potvrđen), sve pokrenute 29.9-4.10.2026: nova kampanja sa UGC kreatorima na temu učenja/ispita. Isključeni 'Soundscape - White Noise Machine' (druga aplikacija, id6723897648) i 'Soundscape Tours'. Moguće je da ih ima više, jer opšta pretraga 'Soundscape' (380) učitava samo prvih 27.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Soundscape%20study&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1447851477": {
+  "name": "Gratitude Plus – Journal",
+  "query": "\"Gratitude Plus\" (exact)",
+  "level": 3,
+  "ads": 46,
+  "oldest_start": "3 Aug 2026",
+  "advertiser": "Gratitude Plus",
+  "evidence": "47 rezultata za tačnu frazu, od 30 učitanih 29 su od oglašivača 'Gratitude Plus' (link GRATITUDEPLUS.APP): više od 20 aktivnih reklama u US, najstarija od 3.8.2026 (70 dana), nove do 9.10.2026. Stalna kampanja.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=Gratitude%20Plus&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ },
+ "6464128379": {
+  "name": "calorie.ai - Calorie Tracker",
+  "query": "calorie.ai (keyword + exact), \"calorie ai\" (exact)",
+  "level": 0,
+  "ads": 0,
+  "oldest_start": null,
+  "advertiser": null,
+  "evidence": "Nema aktivnih reklama aplikacije u US. 'calorie.ai' (~2.200) vraća samo konkurente (Foodvisor, Welmi, Calo, Calife, Appediet, 0xcal) čiji App Store ID-jevi nisu 6464128379; tačne fraze 'calorie.ai' i 'calorie ai' 0 rezultata.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=calorie.ai&search_type=keyword_unordered&media_type=all",
+  "date": "2026-10-12"
+ },
+ "1253012487": {
+  "name": "MacrosFirst - Macro Tracker",
+  "query": "\"MacrosFirst\" (exact)",
+  "level": 2,
+  "ads": 11,
+  "oldest_start": "5 Oct 2026",
+  "advertiser": "MacrosFirst",
+  "evidence": "11 aktivnih reklama u US od oglašivača 'MacrosFirst' (link GO.MACROSFIRST...), sve pokrenute 5-9.10.2026: sveža kampanja, deo oznaka 'Malen broj prikaza'. Isključen 1 oglas Clean Simple Eats.",
+  "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=MacrosFirst&search_type=keyword_exact_phrase&media_type=all",
+  "date": "2026-10-12"
+ }
+}

@@ -1,0 +1,351 @@
+{
+  "6758562482": {
+    "exclude": true,
+    "exclude_reason": "Igra (BitLife klon, simulacija života); osnovna vrednost je zabava, ne lična navika ili disciplina.",
+    "name": "Lifespan - Life Simulator"
+  },
+  "6748144594": {
+    "name": "Split - Stretches at home",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Aplikacija za istezanje, ali fokusirana na jedan jasan, merljiv cilj: da uradiš špagu, kroz kratke dnevne rutine od 10–15 minuta prilagođene trenutnoj fleksibilnosti.",
+    "specifics": [
+      "Ključna mehanika: personalizovan plan posle upitnika, dnevne rutine 10–15 min, progresija ka prednjoj/bočnoj špagi",
+      "Šta je deljivo: napredak ka špagi (foto/video pre-posle) – u aplikaciji se ne vidi da postoji ugrađeno deljenje (procena)",
+      "Društveni sloj: nema vidljivog",
+      "Monetizacija: pretplata sa probnim periodom (iz recenzija; cene se ne vide)"
+    ],
+    "psych": "Vidljiv napredak ka jednom konkretnom cilju (špaga) daje jasnu ciljnu tačku i motiviše na doslednost; korisnici vole personalizaciju: 'So helpful with all the questions making sure I get the right plan!'",
+    "developer_type": "Solo ili mali tim (procena): prodavac je fizičko lice Ignacio Gonzalez, 2 aplikacije.",
+    "build_weeks": 7,
+    "build_notes": "Biblioteka vežbi istezanja sa ilustracijama/kratkim videom (može AI generisano, ali recenzije kritikuju nejasne AI slike), logika progresije, pretplata. Najveći rizik: kvalitet i bezbednost sadržaja vežbi (povrede) i izrada razumljivih vizuala.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Dan 1 vs dan 30: snimaj svaki dan isti pokušaj špage i gledaj kako se spuštaš.",
+    "monetization": "Pretplata sa probnim periodom; deo korisnika navodi da nije morao da plati (verovatno besplatan deo); cene nisu u paketu.",
+    "complaints": [
+      "AI slike vežbi nejasne (1)",
+      "Naplata posle otkazanog triala i odbijen refund (1)"
+    ],
+    "suggestions": [
+      "Jasnije ilustracije/video vežbi (izvedeno iz žalbe na AI slike)"
+    ],
+    "praise": [
+      "Personalizovan plan kroz upitnik",
+      "Pogodno za početnike i gimnastičare",
+      "Besplatno se može krenuti"
+    ],
+    "opportunity": "Dodati dnevni foto/video check-in pozicije sa time-lapse prikazom napretka i niz dana; to bi bio prirodan TikTok format 'put do špage'. Zameniti AI slike jasnim kratkim video demonstracijama.",
+    "growth": "1,09 ocena/dan (477 ocena za 439 dana); recenzije 30d: 2 naspram 2 prethodnih 30d – stabilan, umeren rast bez ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/split-stretches-at-home/id6748144594",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6453332575": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Dreaming Spanish, milioni korisnika, TIME Best Inventions) i velika biblioteka profesionalnog video sadržaja – ne može se napraviti za 2 meseca.",
+    "name": "Dreaming: Language Learning"
+  },
+  "1534737981": {
+    "exclude": true,
+    "exclude_reason": "Firma sa licenciranim sadržajem (filmovi, serije, muzika); velika biblioteka licenciranog sadržaja, nije izvodljivo za 2 meseca.",
+    "name": "Lingopie: Learn a Language"
+  },
+  "1524374229": {
+    "name": "Gym WP - Workout Planner & Log",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Standardan planer i dnevnik treninga u teretani sa 50+ gotovih planova i 500+ vežbi; nema jasnog zaokreta u odnosu na kategoriju.",
+    "specifics": [
+      "Ključna mehanika: izbor gotovog plana po nivou i cilju, vođenje kroz trening, beleženje serija/težina, odmor tajmer",
+      "Šta je deljivo: ništa posebno vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium sa premium planom (godišnji paket se pominje)"
+    ],
+    "psych": "Struktura i praćenje stvaraju osećaj polaganja računa sebi: 'It keeps my consistent and accountable.' Princip je slab i generički.",
+    "developer_type": "Solo ili mali tim (procena): fizičko lice Pedro Henrique de Souza Leal, 5 aplikacija.",
+    "build_weeks": 8,
+    "build_notes": "Baza vežbi sa ilustracijama (licenca ili izrada), planovi, logovanje, sinhronizacija naloga i premium statusa između uređaja. Najveći rizik: obim sadržaja vežbi i pouzdanost čuvanja podataka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Prestani da nosiš papir u teretanu: plan, serije i napredak u jednom tapu.",
+    "monetization": "Freemium; premium godišnji paket; nedavna promena ograničila besplatnu verziju (recenzije).",
+    "complaints": [
+      "Gubitak podataka i planova (3)",
+      "Glitch: preskače/vraća vežbe, menja težine i odmor sam (4)",
+      "Free verzija osakaćena posle update-a / mora da se plati (3)",
+      "Premium se ne prenosi na novi telefon (2)"
+    ],
+    "suggestions": [
+      "Podešavanje odmora za celu sesiju",
+      "Lakše preskakanje vežbe kad je sprava zauzeta",
+      "RIR i bolji superset",
+      "Isključivanje 'tip of the day' notifikacija"
+    ],
+    "praise": [
+      "Detaljni planovi i tehnika za početnike",
+      "Dobra cena godišnjeg paketa"
+    ],
+    "opportunity": "Kategorija je prezasićena; jedino imalo smisla uz jasan zaokret (npr. takmičenje sa prijateljima u progresiji težina) i pouzdanu cloud sinhronizaciju.",
+    "growth": "1,04 ocena/dan (2318 ocena za 2238 dana); recenzije 30d: 5 naspram 1 – blagi rast aktivnosti, ali spor ukupni rast.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gym-wp-workout-planner-log/id1524374229",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1456680153": {
+    "exclude": true,
+    "exclude_reason": "Brend instruktorke (Jacquelyn Umof) sa velikom bibliotekom profesionalnog video sadržaja; vrednost je u autorskim treninzima, ne u mehanici.",
+    "name": "Barre Definition"
+  },
+  "6497566519": {
+    "exclude": true,
+    "exclude_reason": "Igra (AI roleplay life sim); osnovna vrednost je zabava i introspekcija kroz priču, ne lična navika; oslanja se na skup LLM sadržaj i narativ.",
+    "name": "Nomi Sim - Life Simulation"
+  },
+  "1558434982": {
+    "exclude": true,
+    "exclude_reason": "Firma i prepoznatljiv brend sa jakim plaćenim marketingom (procena: 'elite coaches', plan ishrane, ujednačene 5* recenzije koje deluju podsticano); nije mali developer.",
+    "name": "Joggo - Run Tracker & Coach"
+  },
+  "6503952069": {
+    "exclude": true,
+    "exclude_reason": "Firma sa velikom bibliotekom profesionalnog video sadržaja i instruktorima (lične povratne informacije učitelja); nije izvodljivo za 2 meseca.",
+    "name": "Pickup Music: Music Lessons"
+  },
+  "6760232059": {
+    "name": "BeYou Alarm: Wake up Early",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji ne možeš da ugasiš dok ne slikaš određeni predmet u kući, a posle buđenja te vodi kroz afirmaciju i kratku meditaciju umesto skrolovanja.",
+    "specifics": [
+      "Ključna mehanika: foto misija (pronađi i slikaj predmet) za gašenje alarma, sistemski alarm preko AlarmKit (zvoni i kroz silent/Focus)",
+      "Šta je deljivo: snimak jutarnje 'potrage' za predmetom (procena, nema ugrađenog deljenja)",
+      "Društveni sloj: nema",
+      "Monetizacija: tvrdi paywall (~30 USD prema recenziji) pre podešavanja"
+    ],
+    "psych": "Trenje unapred: korisnik sam sebi zakazuje fizički zadatak koji ga izbacuje iz kreveta: 'You literally cannot snooze it's so great for me.'",
+    "developer_type": "Solo developer (procena): fizičko lice Oduduabasi Victor, 4 aplikacije.",
+    "build_weeks": 4,
+    "build_notes": "AlarmKit (iOS 26) za sistemski alarm, na Androidu AlarmManager + full-screen intent; prepoznavanje predmeta na uređaju (Vision/ML Kit, poređenje sa referentnom slikom), afirmacije i kratke meditacije (audio sadržaj). Najveći rizik: pouzdanost alarma na Androidu i lažno prepoznavanje predmeta.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "POV: alarm neće da prestane dok ne nađeš četkicu za zube u kupatilu.",
+    "monetization": "Tvrdi paywall, pominje se ~30 USD; cene nisu u paketu.",
+    "complaints": [
+      "Mora da se plati pre bilo čega (7)",
+      "Alarm zvoni u nasumično vreme (1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo pre paywall-a (izvedeno iz žalbi)",
+      "Glasniji zvukovi su efikasniji (savet korisnika)"
+    ],
+    "praise": [
+      "Stvarno te izbaci iz kreveta, nema snooze",
+      "Zabavna 'item search' misija",
+      "Dizajn i afirmacije"
+    ],
+    "opportunity": "Zadržati foto misiju, ali dodati nizove jutara, prijatelja koji vidi da li si ustao na vreme (polaganje računa) i besplatan prvi nivo; paywall pomeriti posle prvog uspešnog jutra.",
+    "growth": "2,72 ocena/dan (559 ocena za 206 dana) – brz start za novu aplikaciju; recenzije 30d: 1 naspram 6 – usporavanje posle početnog talasa.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/beyou-alarm-wake-up-early/id6760232059",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1468882685": {
+    "name": "Tangerine: Self-care & Goals",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Habit tracker uokviren kao self-care: navike, praćenje raspoloženja i dnevnik u jednoj mirnoj aplikaciji, sa Apple Health sinhronizacijom navika.",
+    "specifics": [
+      "Ključna mehanika: navike sa podsetnicima i nizovima, praćenje raspoloženja, vođeni dnevnik",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium, premium ~25 USD godišnje (recenzija); passcode/biometrija iza premiuma"
+    ],
+    "psych": "Strah od gubitka niza drži korisnike: 'I think it's something about wanting to keep up with the \"streak\" that's really helpful.'",
+    "developer_type": "Mali tim (procena): Bitdreams OU, 1 aplikacija; Apple featuring 2020–2021.",
+    "build_weeks": 6,
+    "build_notes": "Lokalni podaci + iCloud/cloud sync, HealthKit/Health Connect za automatsko štikliranje, podsetnici, grafikoni raspoloženja. Najveći rizik: tačnost nizova i pouzdane notifikacije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Tri minuta dnevno: štikliraj navike, oceni dan i gledaj kako ti se raspoloženje menja kad se držiš rutine.",
+    "monetization": "Freemium; premium ~25 USD/god; deo korisnika odbija ~60 USD kroz 13 meseci.",
+    "complaints": [
+      "Novi redizajn gori od starog (uklonjeni jutro/podne/veče, datumi u kalendaru) (5)",
+      "Pogrešni nizovi i statistika (2)",
+      "Padovi i notifikacije koje ne stižu (3)",
+      "Sigurnosno zaključavanje iza paywall-a (1)"
+    ],
+    "suggestions": [
+      "Vratiti grupisanje po dobu dana",
+      "Dodati obične zadatke (to-do) uz navike",
+      "Lakše menjanje vremena podsetnika",
+      "Zvuk notifikacije"
+    ],
+    "praise": [
+      "Mnogo funkcija besplatno",
+      "Kombinacija navika, raspoloženja i dnevnika",
+      "Nizovi motivišu"
+    ],
+    "opportunity": "Lekcija iz žalbi: rutina po dobu dana i pouzdani nizovi su srž; mogli bismo da napravimo istu mirnu self-care osnovu sa društvenim nizovima i vizuelnim napretkom koji se deli.",
+    "growth": "2,7 ocena/dan (6639 ocena za 2459 dana); recenzije 30d: 1 naspram 4 – opadanje aktivnosti, verovatno posle nepopularnog redizajna.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/tangerine-self-care-goals/id1468882685",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1482581097": {
+    "exclude": true,
+    "exclude_reason": "Klinički/medicinski tracker simptoma, bola i hroničnih bolesti; nije lična navika ili disciplina.",
+    "name": "Bearable - Symptom Tracker"
+  },
+  "6745573360": {
+    "name": "MyFutureSelf Daily Habit Coach",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Habit coach koji navike izvodi iz slike tvog 'budućeg ja': posle upitnika dobijaš profil budućeg sebe, 30-dnevne mape zadataka i AI mentora koji govori kao ta osoba.",
+    "specifics": [
+      "Ključna mehanika: onboarding vrednosti i ciljeva → profil budućeg ja → 30-dnevni roadmap dnevnih zadataka → AI mentor chat/glas",
+      "Šta je deljivo: profil budućeg ja (procena, nije potvrđeno da postoji deljenje)",
+      "Društveni sloj: nema u aplikaciji; publika dolazi sa YouTube kanala autora (recenzije pominju Jeff Franzen)",
+      "Monetizacija: tvrdi paywall bez triala, ~17 USD mesečno i godišnji plan"
+    ],
+    "psych": "Ponašanje usklađeno sa željenim identitetom: 'It holds your feet to the fire and gives you a list of daily goals that absolutely improve your life.'",
+    "developer_type": "Mali tim uz kreatora (procena): Success AI LLC, 1 aplikacija; recenzije je vezuju za YouTube kreatora, što znači sopstveni kanal distribucije.",
+    "build_weeks": 6,
+    "build_notes": "Backend + LLM (generisanje roadmapa i chat mentor), prompt/kontekst o ciljevima korisnika, streak i podsetnici. Najveći rizik: troškovi LLM-a i kvalitet/relevantnost generisanih zadataka.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Pitao sam AI verziju sebe za 5 godina šta da radim danas – evo liste.",
+    "monetization": "Pretplata, tvrdi paywall bez probnog perioda, ~17 USD/mes; deo korisnika plaća godišnje.",
+    "complaints": [
+      "Nema triala, tvrdi paywall (6)",
+      "Padovi, izbacivanje iz naloga, ne otvara zadatke (5)",
+      "Preset zadaci koji ne mogu da se obrišu / spam zadaci (2)",
+      "AI mentor 'failed to connect' (1)"
+    ],
+    "suggestions": [
+      "3–7 dana probnog perioda",
+      "Mogućnost brisanja i prilagođavanja preset zadataka",
+      "Praćenje sopstvenih ciljeva, ne samo generičkih"
+    ],
+    "praise": [
+      "Struktura dnevnih zadataka i polaganje računa",
+      "Personalizacija kroz upitnik",
+      "Motivacija u stilu discipline, ne samo inspiracije"
+    ],
+    "opportunity": "Isti koncept 'budućeg ja' sa besplatnim prvim danom, stabilnom aplikacijom i deljivom karticom budućeg ja; dodati vidljiv napredak ka identitetu (npr. % poklapanja sa budućim ja).",
+    "growth": "2,67 ocena/dan (1204 ocene za 451 dan); recenzije 30d: 3 naspram 3 – stabilno; rast verovatno vezan za objave kreatora.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/myfutureself-daily-habit-coach/id6745573360",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "472322122": {
+    "exclude": true,
+    "exclude_reason": "Velika firma sa 2000+ profesionalnih video treninga i ljudskim trenerima; nije izvodljivo za 2 meseca.",
+    "name": "Daily Burn: Home Workouts"
+  },
+  "1590338120": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (kviz o Bibliji) i developer sa više sličnih kviz aplikacija.",
+    "name": "Bible Trivia: Jesus Quiz Games"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "1503294866": {
+    "exclude": true,
+    "exclude_reason": "Multiplayer igra (Dirtybit, poznat franšizni naslov Fun Run), ne lična navika ili kretanje.",
+    "name": "Fun Run 4 - Multiplayer Race"
+  },
+  "6742904990": {
+    "exclude": true,
+    "exclude_reason": "Medicinski/vitalni tracker (puls kamerom, pritisak, glukoza), regulisan domen; Faliane Ltd ima 9 aplikacija (fabrika).",
+    "name": "Heartica: Heart Rate Monitor"
+  },
+  "6523434295": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je usluga stvarnih stručnjaka za kožu i preporuke proizvoda (operativni ljudski servis, kupovina), ne mehanika navike.",
+    "name": "Thea - #1 Skincare App"
+  },
+  "6514311150": {
+    "exclude": true,
+    "exclude_reason": "Puzzle igra (Burny Games, 8 aplikacija), nije lična navika; ključna reč 'plank' je slučajno poklapanje.",
+    "name": "Colorwood Blocks: Wood Puzzle"
+  },
+  "6745692355": {
+    "exclude": true,
+    "exclude_reason": "Puzzle igra sa 1000+ nivoa (Rooftop Games, 5 aplikacija), nije lična navika.",
+    "name": "Connect Master - Match Puzzle"
+  },
+  "1361619409": {
+    "exclude": true,
+    "exclude_reason": "Welltech fabrika aplikacija (9 aplikacija), biblioteka 2000+ video vežbi; ne može za 2 meseca i nije mali developer.",
+    "name": "Yoga-Go: Tai Chi & Pilates"
+  },
+  "1477782599": {
+    "exclude": true,
+    "exclude_reason": "Zavisi od hardvera (Hume pametna vaga/body pod), firma iza.",
+    "name": "Hume Health"
+  },
+  "1445023295": {
+    "exclude": true,
+    "exclude_reason": "Velika biblioteka sažetaka knjiga (11M+ korisnika, ilustracije), firma; sadržaj je proizvod.",
+    "name": "Deepstash: Smarter Every Day!"
+  },
+  "1453884781": {
+    "exclude": true,
+    "exclude_reason": "Etablirana firma (10M+ korisnika, NFL/NBA timovi), sopstveni model spavanja i sleep debt nauka; nije mali developer.",
+    "name": "RISE: Sleep Tracker"
+  },
+  "1314391359": {
+    "exclude": true,
+    "exclude_reason": "Shooter igra (Oh BiBi, 9 aplikacija), nije lična navika.",
+    "name": "FRAG Pro Shooter"
+  },
+  "6749405784": {
+    "name": "PushUp Time: App Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Najjednostavnija verzija 'sklekovi za skrolovanje': pokušaš da otvoriš TikTok, kamera traži set sklekova/čučnjeva i daje 15-120 minuta pristupa.",
+    "specifics": [
+      "Ključna mehanika: blokada izabranih aplikacija, on-device AI broji ponavljanja, izbor prozora otključavanja (15/30/60/120 min)",
+      "Šta je deljivo: 'radim sklekove da bih otvorio Instagram', smanjen screen time",
+      "Društveni sloj: nema",
+      "Monetizacija: hard paywall, 12,99$/mesec ili 29,99$/god (korisnici pominju i 54,99$/god)"
+    ],
+    "psych": "Trenje pre impulsa pretvoreno u mikro trening. Dokaz: 'I’m a little happier because I’m on my phone less'.",
+    "developer_type": "solo / mali tim (KAMAN LABS LLC, 2 aplikacije; sajt na vercel.app ukazuje na mali tim)",
+    "build_weeks": 4,
+    "build_notes": "Screen Time API (FamilyControls entitlement), Android UsageStats/Accessibility, on-device pose detection, pretplate; bez backend-a ('no internet needed'). Najveći rizik: entitlement, varanje kod brojanja ('flapped my arms... kept counting') i jaka konkurencija (Pushscroll).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj Instagram košta 20 sklekova' - pokušaj otvaranja aplikacije pa kamera koja broji.",
+    "monetization": "Hard paywall bez free verzije, 12,99$/mesec ili 29,99$/god; ogroman otpor mlađe publike (12-17 god).",
+    "complaints": [
+      "Nema free verzije, paywall posle kviza (~18)",
+      "Zaglavljen ekran pretplate, X otvara novi oglas (~3)",
+      "Brojanje se lako vara (~1)",
+      "Prijava samo preko Apple/Google (~1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo",
+      "Cena pre onboarding kviza",
+      "Druge opcije prijave"
+    ],
+    "praise": [
+      "Manje vremena na telefonu",
+      "Snaga i gubitak težine uz usput vežbanje",
+      "Bolji fokus i pažnja"
+    ],
+    "opportunity": "Ista mehanika uz freemium, tačnije brojanje i društveni sloj (rang lista prijatelja po 'zarađenim' minutima, grupni izazovi).",
+    "growth": "~29,3 ocena/dan od septembra 2025 (11.550 ocena za ~13 meseci); recenzije 30d = 1 naspram 7: jak pad; rast je verovatno bio kampanjski (oznaka praćenja), sada se gasi.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushup-time-app-blocker/id6749405784",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6747844405": {
+    "name": "Home Workouts & Fitness | Luvu",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Kućni trening sa emotivnim marshmallow maskotom koji kamerom broji ponavljanja i bodri te u izabranom tonu, od podrške do 'unhinged' psovanja.",
+    "specifics": [
+      "Ključna mehanika: kamera prati vežbe i broji ponavljanja, XP, nizovi, streak saver, energy sistem",
+      "Šta je deljivo: maskota koja te psuje dok radiš čučnjeve, emote i nagrade",
+      "Društveni sloj: rang lista i 'friendly rivalries' (iz opisa i recenzije)",
+      "Monetizacija: freemium sa energijom i reklamama + Luvu Plus pretplata"
+    ],
+    "psych": "Emotivna veza sa maskotom i igra (XP, niz) daju doslednost početnicima. Dokaz: 'first time i actually stayed consistent'.",
+    "developer_type": "mali tim (Luvu, Inc., 3 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "On-device pose detection za više vežbi, animirani 2D lik (Rive/Lottie) sa glasovnim linijama u više tonova (TTS ili snimljeno), XP/streak/leaderboard backend, pretplate i reklame. Najveći rizik: kvalitet lika i animacija, tačnost praćenja, gubitak podataka pri prijavi.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Podesio sam trenera na agresivno i marshmallow me sad psuje dok radim čučnjeve' - reakcija uživo.",
+    "monetization": "Freemium: energija se troši, reklame usred treninga, Luvu Plus pretplata (cena nije u podacima); korisnici hvale bogat free nivo, ali kritikuju energy update.",
+    "complaints": [
+      "Pretplata/paywall, nemoguće isprobati (~5)",
+      "Energy sistem i reklame usred treninga (~3)",
+      "Gubitak podataka i niza pri odjavi/novom telefonu (~3)",
+      "Bagovi: ton se ne menja, praćenje, tuđi glas (~3)"
+    ],
+    "suggestions": [
+      "Dani odmora",
+      "Bolje praćenje pokreta",
+      "Obaveštenje kad se energija napuni",
+      "Pouzdan restore naloga"
+    ],
+    "praise": [
+      "Smešan i motivišući maskot, posebno 'agresivni' ton",
+      "Veliki izbor vežbi u free verziji",
+      "XP, rang lista i bedževi motivišu"
+    ],
+    "opportunity": "Zadržati maskotu i tonove, ukloniti energy trenje iz treninga i pojačati deljivost (klip 'Luvu me je izvređao', zajednički niz sa prijateljem).",
+    "growth": "~28,7 ocena/dan od avgusta 2025 (12.322 ocena za ~14 meseci); recenzije 30d = 2 naspram 7: pad; recenzija kaže 'discovered this app from an ad', oznaka praćenja, plaćeni oglasi.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/home-workouts-fitness-luvu/id6747844405",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755378185": {
+    "name": "IQ Boost: Brain Trainer, Games",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Brain trainer sa 'IQ' skorom i AI prilagođavanjem težine; u suštini set mini logičkih/memorijskih igara uz merenje 'IQ napretka'.",
+    "specifics": [
+      "Ključna mehanika: dnevni trening mini igara, IQ/memorija/logika skor, progresivna težina",
+      "Šta je deljivo: IQ skor (procena)",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: nedeljna pretplata ~20$/nedelja, reklame u free verziji"
+    ],
+    "psych": "Kvantifikacija 'pameti' kroz skor; dokaz je slab, pretežno kratke pohvale. Dokaz: 'It helps me gain my IQ.'",
+    "developer_type": "mali tim / nepoznato (FlowMind Technology Inc., 1 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "10-15 jednostavnih mini igara, skor i statistika, pretplate i reklame; bez posebnih API-ja. Najveći rizik: reputacija (žalbe na naplatu) i tvrdnje o IQ bez naučne podloge.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Testirao sam IQ svaki dan 30 dana' - procena, slab Gen Z format.",
+    "monetization": "Nedeljna pretplata ~19,99-22$ uz free trial; korisnici je masovno odbijaju i prijavljuju neovlašćenu naplatu.",
+    "complaints": [
+      "Neočekivana naplata i težak otkaz pretplate (~8)",
+      "Preskupo, ~20$ nedeljno (~5)",
+      "Reklame posle svake igre (~3)",
+      "Psihološki upitnik pre prve igre, tvrdnje bez nauke (~2)"
+    ],
+    "suggestions": [
+      "Isprobavanje pre plaćanja",
+      "Jasan i jednostavan otkaz",
+      "Kraći onboarding"
+    ],
+    "praise": [
+      "Zabavne mini igre",
+      "Opuštajuće i drži fokus",
+      "Pogodno i za decu"
+    ],
+    "opportunity": "Malo vrednosti za našu nišu; publika deluje starija i agresivna naplata je glavni pokretač prihoda, ne proizvod.",
+    "growth": "~28,3 ocena/dan od novembra 2025 (9.253 ocena za ~11 meseci); recenzije 30d = 2 naspram 0: skoro nema svežih recenzija, rast verovatno plaćen (oznaka praćenja, 'saw it on YouTube').",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 2,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 1,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/iq-boost-brain-trainer-games/id6755378185",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6747375157": {
+    "name": "SnapCal: AI Calorie Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Standardni AI brojač kalorija (foto, barkod, pretraga) sa kalorijskim ciljem i grafikonom težine; nema jasnog zaokreta.",
+    "specifics": [
+      "Ključna mehanika: foto/barkod unos, kalorijski budžet, makroi, voda, post",
+      "Šta je deljivo: grafikon gubitka težine (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ~20$/mesec ili godišnja, bez free triala prema recenzijama"
+    ],
+    "psych": "Polaganje računa sebi kroz brojanje. Dokaz: 'It gives me a way to stay accountable, stay focused'.",
+    "developer_type": "mali tim (DENZAM INC, 3 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Vision LLM, nutritivna baza, barkod, HealthKit/Health Connect, pretplate. Najveći rizik: tačnost i stabilnost (glavne žalbe), prezasićena kategorija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Snap it before you eat it' - skeniranje tanjira pre jela.",
+    "monetization": "Pretplata (~20$/mesec, godišnja opcija); plaćeni korisnici nezadovoljni tačnošću i traže povrat.",
+    "complaints": [
+      "Netačna AI procena, barkod i slaba baza (~10)",
+      "Zamrzava se i pada (~6)",
+      "Ne može da se menja veličina porcije (~4)",
+      "Naplata bez jasnog izbora plana, loša podrška (~2)"
+    ],
+    "suggestions": [
+      "Izmena porcije i jedinica",
+      "Bolja baza hrane",
+      "Free trial"
+    ],
+    "praise": [
+      "Jednostavna navigacija",
+      "Pomaže odgovornosti oko ishrane",
+      "Lep UI"
+    ],
+    "opportunity": "Pokazuje da i osrednji AI brojač prodaje preko oglasa; za nas ima smisla samo uz društveni ili niz zaokret, ne kao još jedan klon.",
+    "growth": "~27,3 ocena/dan od jula 2025 (12.586 ocena za ~15 meseci); recenzije 30d = 3 naspram 0: gotovo bez svežih recenzija; rast verovatno plaćen ('Encontré en un anuncio').",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/snapcal-ai-calorie-counter/id6747375157",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6737224695": {
+    "name": "RiseGuide: Self Improvement",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Dnevna lekcija iz komunikacije, harizme i ličnog brenda uz AI analizu govora (snimiš se, AI vrati čistiju verziju i savete).",
+    "specifics": [
+      "Ključna mehanika: strukturisani putevi učenja, 1 lekcija dnevno, kvizovi, AI snimanje i analiza govora, SEEK pretraga",
+      "Šta je deljivo: pre/posle snimak govora (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata 19,99-41,99$/mesec, žalbe na skrivene obnove"
+    ],
+    "psych": "Mala dnevna lekcija i osećaj napretka 'od prvog dana'. Dokaz: 'It’s great to move the needle on day one!'",
+    "developer_type": "mali tim / nepoznato (Celeb Innovations Limited, 1 aplikacija; ime sugeriše oslanjanje na poznate ličnosti)",
+    "build_weeks": 8,
+    "build_notes": "Sadržaj lekcija (recenzije tvrde da je AI generisan), speech-to-text + LLM feedback, kvizovi, web naplata i pretplate. Najveći rizik: kvalitet i kredibilitet sadržaja ('expert' tvrdnje), naplata i reputacija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Snimio sam kako pričam, AI mi je pokazao koliko puta kažem um' - procena.",
+    "monetization": "Pretplata, deo kroz web naplatu (19,99-81$/mesec); masovne žalbe na skrivene obnove i nemogućnost otkaza.",
+    "complaints": [
+      "Skrivena/nastavljena naplata, nemoguć otkaz, bez refundacije (~14)",
+      "AI generisan sadržaj i oglasi koji ne odgovaraju (~3)",
+      "Nema pristupa posle triala (~1)",
+      "Politički obojen onboarding (~1)"
+    ],
+    "suggestions": [
+      "Interaktivnije vođenje u govoru",
+      "Jasna cena i otkaz"
+    ],
+    "praise": [
+      "AI analiza govora i saveti",
+      "Kratke, razumljive lekcije",
+      "Realistične situacije za vežbu"
+    ],
+    "opportunity": "AI 'speech gym' sa dnevnim nizom i rang listom mogao bi biti Gen Z format, ali ova aplikacija cilja stariju publiku i ima reputacioni problem; vrednost je samo kao signal tražnje.",
+    "growth": "~27,2 ocena/dan od oktobra 2024 (19.383 ocena za ~2 godine); recenzije 30d = 150 (gornja granica) naspram 50: rast; jaka reklamna kampanja ('Not what the ads make it seem').",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/riseguide-self-improvement/id6737224695",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

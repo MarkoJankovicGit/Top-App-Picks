@@ -1,0 +1,79 @@
+{
+  "516509211": {
+    "exclude": true,
+    "exclude_reason": "Klinički tracker dijabetesa (povezivanje sa Accu-Chek meračima i senzorima); regulisan domen.",
+    "name": "mySugr - Diabetes Tracker Log"
+  },
+  "1253012487": {
+    "name": "MacrosFirst - Macro Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Macro tracker koji polazi od cilja: automatski izračunava veličinu porcije da bi se pogodili makroi obroka, uz ciljeve po obroku i planiranje unapred.",
+    "specifics": [
+      "Ključna mehanika: dnevni i po-obroku ciljevi makroa, auto-izračun porcija, baza 3M+ namirnica, barkod i sken nutritivne etikete, kopiranje obroka i dana.",
+      "Šta je deljivo: nije pomenuto (procena: slabo deljivo).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: freemium + pretplata (~42 USD godišnje iz recenzije), trial nametnut u onboardingu."
+    ],
+    "psych": "Precizna kvantifikacija i planiranje unapred smanjuju napor odlučivanja i daju osećaj kontrole. Dokaz: 'able to track meals ahead to make sure I’m in line with my goals'.",
+    "developer_type": "mali tim (MacrosFirst, Inc., 1 aplikacija; oznaka praćenja)",
+    "build_weeks": 8,
+    "build_notes": "Licencirana baza namirnica (glavni trošak i rizik tačnosti), barkod, OCR nutritivne etikete, algoritam porcija, planer obroka, Apple Health. Najveći rizik: kvalitet i licenca baze, zrela konkurencija (MyFitnessPal, MacroFactor).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Ukucam koliko proteina hoću u ručku, a app mi kaže tačno koliko grama piletine i pirinča da stavim.'",
+    "monetization": "Freemium + pretplata (~42 USD/god); deo korisnika zadovoljan besplatnom verzijom, novi korisnici se žale na nametnut trial.",
+    "complaints": [
+      "Nametnut trial i plaćanje, 'nije stvarno besplatno' (~7)",
+      "Novi redizajn lošiji, sporiji i neintuitivan (~5)",
+      "Netačni nutritivni podaci i loša pretraga posle update-a (~3)",
+      "Nema praćenja vežbanja/Apple Watch kalorija (~2)"
+    ],
+    "suggestions": [
+      "Prilagođavanje dnevnog cilja prema vežbanju",
+      "Veličina porcije recepta i grupisanje prethodnih namirnica",
+      "Widget za iPhone",
+      "Vraćanje opcije stare verzije"
+    ],
+    "praise": [
+      "Planiranje obroka unapred i auto-porcije",
+      "Velika baza namirnica, kopiranje obroka",
+      "Lep dizajn u odnosu na konkurenciju"
+    ],
+    "opportunity": "Slab fit za naš narativ; jedini zanimljiv element je 'unazad od cilja' porcija, koji se može pozajmiti kao funkcija u fitness/navika aplikaciji, ne kao samostalan proizvod.",
+    "growth": "Oko 6,8 ocena dnevno od 2017; 16 recenzija u 30 dana naspram 19 prethodnih, blagi pad uz talas negativnih recenzija posle redizajna.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 2,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/macrosfirst-macro-tracker/id1253012487",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "492869515": {
+    "exclude": true,
+    "exclude_reason": "Utility za beli šum/zvukove za spavanje sa reklamama; nije navika ni disciplina.",
+    "name": "Sleep Fan"
+  },
+  "1166585565": {
+    "exclude": true,
+    "exclude_reason": "AI terapeutski chatbot sa CBT/DBT i stručnjacima za mentalno zdravlje; klinički/regulisan domen, etablirana firma.",
+    "name": "Wysa: Mental Wellbeing AI"
+  }
+}

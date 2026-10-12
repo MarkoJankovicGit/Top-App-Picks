@@ -1,0 +1,330 @@
+{
+  "1539625670": {
+    "exclude": true,
+    "name": "Nutrition Coach: Food tracker",
+    "exclude_reason": "Studio sa 7 aplikacija (Eclipse Studios, Turska), deluje kao fabrika aplikacija; vrednost zavisi od velike baze namirnica i 1.700+ recepata i planova ishrane, što je obiman profesionalni sadržaj. Kategorija brojanja kalorija je zasićena."
+  },
+  "1497465230": {
+    "exclude": true,
+    "name": "Opal: Screen Time Control",
+    "exclude_reason": "Poznat brend sa jakim marketingom (oznaka praćenja, preporuke influensera poput Ali Abdaala, B2B pozicioniranje prema timovima i kompanijama); nije mali developer. Korisno samo kao referenca za Screen Time API kategoriju."
+  },
+  "6504838951": {
+    "exclude": true,
+    "name": "SuppCo: Supplement Scanner",
+    "exclude_reason": "Osnovna vrednost je vlasnička baza 160.000 suplemenata i ocenjivanje 500+ brendova (TrustScore), tj. sadržaj/utility, a ne navika; nemoguće reprodukovati za 2 meseca."
+  },
+  "1485936601": {
+    "exclude": true,
+    "name": "Stadium Live - Predict Sports",
+    "exclude_reason": "Sportske prognoze i simulacija klađenja virtuelnim novčićima (uz arkadne igre poput blackjacka); nije lična navika ni disciplina."
+  },
+  "6499510249": {
+    "exclude": true,
+    "name": "Shotsy GLP-1 Tracker",
+    "exclude_reason": "Klinički tracker lekova (GLP-1 injekcije, procena nivoa leka u organizmu); medicinski/regulisan domen, van niše."
+  },
+  "6751428380": {
+    "name": "Erly: Wake Up Early",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Alarm koji se ne gasi dok ne izvršiš misiju (sklekovi, slikanje namešten kreveta ili kafe uz AI proveru), uz strogo zaključan cilj buđenja i niz uspešnih jutara bez naknadnog prijavljivanja.",
+    "specifics": [
+      "Ključna mehanika: misija za gašenje alarma + check-in pre ciljanog vremena; cilj se zaključava 4h pre buđenja",
+      "Šta je deljivo: niz jutara, vreme buđenja, snimak 'alarm me tera na sklekove u 6h'",
+      "Društveni sloj: nije vidljiv u opisu (procena: nema ili je minimalan)",
+      "Monetizacija: hard paywall posle onboardinga, pretplata (pominje se ~30$ godišnje, jedan korisnik navodi 25$)"
+    ],
+    "psych": "Gubitak niza i nemogućnost varanja: svako jutro je jasna pobeda ili poraz. Dokaz: 'It is so annoying every morning ringing at 6am and then i gotta do my pushups, but it works amazing!'",
+    "developer_type": "mali tim (Glacier Labs LLC, 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "AlarmKit (iOS) i full-screen/exact alarm na Androidu, AI vizuelna provera zadatka (gotov vision API), brojanje sklekova kamerom (pose detection na uređaju), lokalni streak + lagan backend za nalog i pretplate. Najveći rizik: pouzdanost alarma (iOS ograničenja, utišavanje preko volume dugmeta) i lažno negativna AI provera.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj alarm neće da se ugasi dok ne uradim 20 sklekova' - POV snimak u 6 ujutru.",
+    "monetization": "Pretplata sa hard paywallom i free trialom; cena iz recenzija oko 30$/god. Veliki otpor ('30$ za alarm'), ali zadovoljni kažu da vredi.",
+    "complaints": [
+      "Paywall odmah posle dugog onboardinga, 'nije besplatno' (~14)",
+      "Bagovi: alarm ne zvoni ili prestane da zvoni, niz alarma odjednom (~4)",
+      "Zaobilaženje: volume dugme utiša alarm, gašenje telefona (~2)",
+      "AI ne prepoznaje završen zadatak, i do 20 skeniranja (~1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo ili jasna cena pre onboardinga",
+      "Sopstveni zvuci alarma",
+      "Blokirati utišavanje preko volume dugmeta",
+      "Pouzdanija AI provera zadatka"
+    ],
+    "praise": [
+      "Konačno budi duboke spavače i osobe sa ADHD-om",
+      "Misije (sklekovi, kafa) stvarno izbace iz kreveta",
+      "Niz i jasna jutarnja pobeda motivišu"
+    ],
+    "opportunity": "Dodati društveni sloj (buđenje sa prijateljem, zajednički niz, 'ko je ustao prvi') i blagi freemium (1 alarm besplatno) da se smanji otpor paywalla; fokus na pouzdanost alarma.",
+    "growth": "~39,6 ocena/dan od izlaska (sept. 2025), 16.005 ocena za ~13 meseci; recenzije 30d = 7 naspram 7 prethodnih: stabilno; uz oznaku praćenja rast verovatno delom plaćen ili UGC (procena).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/erly-wake-up-early/id6751428380",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6532588521": {
+    "name": "QUITTR - Break Free Now",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Odvikavanje od pornografije sa brojačem dana bez relapsa, 'Drvetom života' koje raste sa svakom dobrom odlukom, AI coachem (Melius), blokerom sadržaja i zajednicom za polaganje računa.",
+    "specifics": [
+      "Ključna mehanika: brojač dana bez relapsa, vežbe za trenutak iskušenja, Life Tree kao vizuelni napredak",
+      "Šta je deljivo: broj dana, milestone-i, rast drveta (procena)",
+      "Društveni sloj: zajednica, feed, chat, prijatelji, izazovi",
+      "Monetizacija: hard paywall, ~30$/god i lifetime opcija"
+    ],
+    "psych": "Strah od gubitka niza + identitet 'oporavljam se' + zajednica koja nosi. Dokaz: 'truly amazing, inclusive, and welcoming community'.",
+    "developer_type": "mali tim (Quittr, LLC, 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Backend za nalog, sync i zajednicu (feed, chat, moderacija, blokiranje), LLM coach, content blocker (Screen Time API/DNS na iOS-u, VPN/accessibility na Androidu), sadržaj vežbi. Najveći rizik: moderacija zajednice (recenzije prijavljuju seksualno uznemiravanje i neželjene fotografije) i pouzdanost naloga i sync-a.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Dan 90 bez pornografije: evo šta se promenilo' - format transformacije i 'monk mode'.",
+    "monetization": "Hard paywall pretplata ~30$/god + lifetime; deo korisnika plaća, ali je otpor ('paywall za pomoć', maloletni) čest.",
+    "complaints": [
+      "Gubitak naloga, niza i podataka, nemogućnost prijave (~9)",
+      "Bagovi: chat, feed, AI coach Melius ne odgovara (~8)",
+      "Paywall i podrška koja ne odgovara (~6)",
+      "Uznemiravanje i eksplicitne slike u zajednici, blokiranje ne radi (~3)"
+    ],
+    "suggestions": [
+      "Bloker koji VPN ne može da zaobiđe",
+      "Popraviti DNS bloker koji blokira i dozvoljene sajtove",
+      "Pouzdan AI coach",
+      "Aktivna moderacija i ispravno blokiranje korisnika"
+    ],
+    "praise": [
+      "Podržavajuća zajednica",
+      "Praćenje napretka i brojač",
+      "Alati za trenutke iskušenja"
+    ],
+    "opportunity": "Isti princip sa pouzdanim backendom, strogom moderacijom (ili zajednicom samo sa prijateljima/malim grupama) i kriznom pomoći koja radi offline; prostor je otvoren jer korisnici masovno prijavljuju raspad aplikacije.",
+    "growth": "~41,6 ocena/dan od izlaska (jul 2024), 33.737 ocena; recenzije 30d = 15 naspram 10: blagi rast, ali talas negativnih recenzija o bagovima ukazuje na pad kvaliteta.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quittr-break-free-now/id6532588521",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6502794561": {
+    "name": "Turbo AI - Learn Faster",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Pretvara bilo koji materijal (PDF, predavanje, video) u kratke lekcije, kvizove, kartice i podkaste, pozicionirano kao zamena za doomscrolling ('kao skrolovanje, ali učenje').",
+    "specifics": [
+      "Ključna mehanika: upload/snimanje predavanja -> AI lekcije, kvizovi, flashcards, podkast",
+      "Šta je deljivo: rezultati ispita, 'study with me' (procena)",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: pretplata (pominju se naplate 60$ i 90$), trial"
+    ],
+    "psych": "Mikroučenje kao zamena za skrolovanje, brz osećaj napretka. Dokaz: 'I actually feel like studying now it's like scrolling but studying'. Navika i niz nisu izraženi, pa je princip granični.",
+    "developer_type": "mali tim (TurboLearn LLC, 1 aplikacija; procena: startup sa plaćenim marketingom)",
+    "build_weeks": 8,
+    "build_notes": "LLM pipeline za generisanje lekcija, transkripcija audio snimaka, TTS za podkaste, parsiranje PDF/slajdova/videa, backend sa skladištem fajlova i web sync. Najveći rizik: troškovi AI po korisniku, pouzdanost snimanja (gubitak snimaka) i kvalitet sadržaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Ubacila sam predavanje od 2h i dobila TikTok-stil lekcije za 30 sekundi.'",
+    "monetization": "Pretplata sa trialom; naplata posle triala izaziva optužbe za prevaru, ali deo korisnika plaća i hvali.",
+    "complaints": [
+      "Naplata posle otkaza triala, bez refundacije, otkazivanje ne radi (~7)",
+      "Sporo učitavanje i bagovi posle junskog update-a (~5)",
+      "Snimci predavanja se ne čuvaju ili se gube (~4)",
+      "Reklame obećavaju glasovni razgovor sa AI koji ne postoji (~3)"
+    ],
+    "suggestions": [
+      "Interaktivni glasovni tutor kao u reklamama",
+      "Dodavanje sadržaja u postojeću lekciju",
+      "Bolja iPad verzija i rad sa fotografijama",
+      "Audio 'listen' funkcija kao na webu"
+    ],
+    "praise": [
+      "Bolje ocene na ispitima",
+      "Lekcije umesto doomscrollinga",
+      "Brza priprema za testove"
+    ],
+    "opportunity": "Dodati pravu petlju navike (dnevni niz, XP, liga sa prijateljima) i pouzdan glasovni tutor; transparentan trial bi smanjio negativne recenzije.",
+    "growth": "~41,6 ocena/dan od izlaska (jul 2024), 33.425 ocena; recenzije 30d = 17 naspram 12: blagi rast; recenzije pominju reklame na društvenim mrežama, pa je rast verovatno plaćen.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 2,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/turbo-ai-learn-faster/id6502794561",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6448909309": {
+    "name": "Intermittent Fasting Tracker: Fasty",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Minimalistički tracker posta bez naloga i bez reklama, sa Live Activities, Dynamic Island, Apple Watch i nizovima/bedževima; vrednost je u jednostavnosti, ne u novoj mehanici.",
+    "specifics": [
+      "Ključna mehanika: tajmer posta sa ciljem, istorija, grafici, nizovi i bedževi",
+      "Šta je deljivo: slabo (procena: broj sati posta, niz)",
+      "Društveni sloj: nema",
+      "Monetizacija: besplatna osnova + jednokratne kupovine i pretplata za dodatne funkcije"
+    ],
+    "psych": "Vidljiv napredak u realnom vremenu. Dokaz: 'very encouraging to see how long I've fasted in real time'.",
+    "developer_type": "solo (Kai Oelfke, prodavac je fizičko lice, 7 aplikacija)",
+    "build_weeks": 3,
+    "build_notes": "Lokalna aplikacija bez backenda: tajmer, notifikacije, widgeti, Live Activities, Watch app, opciono HealthKit/Health Connect. Nema većeg tehničkog rizika; rizik je diferencijacija u zasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Postila sam 18h dnevno 10 dana: evo tajmera na Dynamic Islandu koji me drži.' (slab za 18-24)",
+    "monetization": "Freemium; korisnici hvale da je besplatno, pa je spremnost na plaćanje nejasna.",
+    "complaints": [
+      "U uzorku praktično nema žalbi (1 nejasna ocena 1)"
+    ],
+    "suggestions": [
+      "Nema konkretnih predloga u uzorku"
+    ],
+    "praise": [
+      "Jednostavnost bez viška funkcija",
+      "Besplatno i bez reklama",
+      "Motivacija kroz praćenje i rezultate gubitka težine"
+    ],
+    "opportunity": "Mehanika je trivijalna; za Gen Z bi trebalo dodati društveni ili takmičarski sloj (grupni post, zajednički niz), ali je publika aplikacija za post pretežno starija (procena).",
+    "growth": "~41,4 ocena/dan od izlaska (maj 2023), 51.663 ocena; recenzije 30d = 70 naspram 67: stabilan organski priliv bez oznake praćenja, verovatno ASO.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 1,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/intermittent-fasting-tracker/id6448909309",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6450329545": {
+    "name": "AI Calorie Counter - Appediet",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Brojanje kalorija slikanjem obroka (AI) i barkod skenerom; standardan pristup u zasićenoj kategoriji, bez izraženog zaokreta.",
+    "specifics": [
+      "Ključna mehanika: foto/barkod unos hrane, makro praćenje, planovi ishrane",
+      "Šta je deljivo: slabo (procena: napredak težine)",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: freemium sa agresivnim paywallom, reklame za otključavanje unosa"
+    ],
+    "psych": "Kvantifikacija ishrane daje osećaj kontrole; slab narativ doslednosti. Dokaz: 'It helped me gain muscle and help me keep track of my diet'.",
+    "developer_type": "firma (Appediet Information PTE. LTD, Singapur, 2 aplikacije; tvrdi 21M korisnika)",
+    "build_weeks": 7,
+    "build_notes": "Vision LLM za prepoznavanje hrane, otvorena ili komercijalna baza namirnica (npr. Open Food Facts ili plaćeni API), barkod, HealthKit/Health Connect, backend za pretplate. Najveći rizik: tačnost nutritivnih podataka i trošak AI poziva; baza od 1,5M stavki je granična za 2 meseca.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Slikam tanjir i za 2 sekunde znam koliko proteina jedem.'",
+    "monetization": "Freemium sa pretplatom; korisnici masovno odbijaju sve agresivniji paywall.",
+    "complaints": [
+      "Paywall za pretragu i unos hrane, ranije besplatno (~11)",
+      "Netačni nutritivni podaci i nemogućnost izmene (~3)",
+      "Iskačući prozori i animacije koje se ne mogu zatvoriti (~3)",
+      "Previše notifikacija (~1)"
+    ],
+    "suggestions": [
+      "Ručno podešavanje makro ciljeva",
+      "Isključivanje animacija i analize posle unosa",
+      "Izmenljivi podaci o namirnicama"
+    ],
+    "praise": [
+      "Brz unos slikom i barkodom",
+      "Pomaže kod mršavljenja",
+      "Jednostavno korišćenje"
+    ],
+    "opportunity": "Kategorija je zasićena; jedini ugao bi bio društveni ili takmičarski sloj oko proteina i doslednosti, ne samo brojanje.",
+    "growth": "~41,3 ocena/dan od izlaska (avg. 2023), 47.422 ocena; recenzije 30d = 4 naspram 7: pad aktivnosti, uz oznaku praćenja verovatno plaćen rast.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 1,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/ai-calorie-counter-appediet/id6450329545",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

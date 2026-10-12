@@ -1,0 +1,349 @@
+{
+  "6443979108": {
+    "name": "FitBee Calorie & Macro Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Brojač kalorija kao besplatna alternativa MyFitnessPal-u: skeniranje bar koda i etikete besplatno, AI procena kalorija sa fotografije, upis u Apple Health i bez reklama.",
+    "specifics": [
+      "Ključna mehanika: dnevnik ishrane, bar kod i etiketa, AI foto procena, kopiranje obroka, recepti sa web-a",
+      "Šta je deljivo: nema u aplikaciji (procena)",
+      "Društveni sloj: nema; baza namirnica dopunjuje zajednica",
+      "Monetizacija: freemium, Plus oko $5 mesečno po recenziji, lifetime opcija"
+    ],
+    "psych": "Kvantifikacija i vidljiv dnevni balans daju osećaj kontrole; jednostavan besplatni ulaz gradi doslednost. Dokaz: „This is the first app I’ve really been consistent with“.",
+    "developer_type": "solo (Cortado Labs, 2 aplikacije; recenzija navodi da ju je napravila jedna osoba)",
+    "build_weeks": 8,
+    "build_notes": "Baza namirnica (USDA, Open Food Facts), bar kod, OCR etikete, LLM vision za foto procenu, HealthKit/Health Connect, widgeti. Najveći rizik: kvalitet i pokrivenost baze namirnica i tačnost AI procene.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Slikala sam ručak i aplikacija mi je za 2 sekunde rekla koliko proteina fali do cilja.",
+    "monetization": "Freemium; Plus pretplata (oko $5 mesečno po recenziji) i lifetime; osnovna verzija bez reklama.",
+    "complaints": [
+      "Napredne funkcije (npr. keto praćenje) iza pretplate, \"skupo\" (~3)",
+      "Netačne ili nepotpune namirnice u pretrazi (~3)",
+      "Problemi sa logovanjem i izmenom unosa (~1)"
+    ],
+    "suggestions": [
+      "Tačnije opcije namirnica pri kucanju",
+      "Više podataka o čestim namirnicama"
+    ],
+    "praise": [
+      "Besplatan bar kod i skeniranje etiketa",
+      "Jednostavnost i brzina, kopiranje obroka",
+      "Integracija sa Apple Health"
+    ],
+    "opportunity": "Kategorija je zasićena; jedini prostor je društveni ili igrifikovan sloj (npr. grupni proteinski izazov, niz dana) koji standardni brojači nemaju.",
+    "growth": "2,73 ocene dnevno od izlaska (nov. 2023); recenzije 30d 18 naspram 18 prethodnih: stabilno, bez ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/fitbee-calorie-macro-counter/id6443979108",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6444292787": {
+    "exclude": true,
+    "exclude_reason": "Kreatorski brend (YouTube autor Hampton, Hybrid Calisthenics): vrednost počiva na poznatom imenu i biblioteci profesionalnih video vežbi; recenzije pominju Instagram reklame.",
+    "name": "Hybrid Calisthenics"
+  },
+  "594982044": {
+    "name": "RepCount - Gym Workout Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Minimalistički dnevnik treninga snage: popunjava današnji trening težinama iz prošlog, pa progresivno opterećenje postaje automatsko; premium daje rekorde i procenu 1RM.",
+    "specifics": [
+      "Ključna mehanika: brz unos serija, ponavljanja i težine, prefill iz prošlog treninga, rest tajmer",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: nema u aplikaciji",
+      "Monetizacija: besplatno bez reklama, premium ispod $30 godišnje po recenziji"
+    ],
+    "psych": "Vidljiv napredak nedelju za nedeljom pretvara trening u niz malih pobeda. Dokaz: „Each workout shows me the reps and weight I did last week“.",
+    "developer_type": "mali tim (Siper Apps AB, 1 aplikacija; opis govori o timu)",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza i sinhronizacija, biblioteka vežbi, grafici, HealthKit, Apple Watch. Bez većeg tehničkog rizika; rizik je diferencijacija u zasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Ovo je jedina aplikacija koja mi kaže koliko sam dizao prošle nedelje, i zato svake nedelje dižem više.",
+    "monetization": "Besplatno bez reklama; premium pretplata (ispod $30 godišnje po recenziji) za statistiku i supersetove.",
+    "complaints": [
+      "Nema Apple Watch aplikacije (~1)",
+      "Povremeni padovi pri otvaranju (~1)",
+      "Premalo podrazumevanih vežbi (~1)"
+    ],
+    "suggestions": [
+      "Apple Watch companion",
+      "Više vizualizacija i metrika",
+      "Veći izbor podrazumevanih vežbi"
+    ],
+    "praise": [
+      "Jednostavno i brzo, bez reklama",
+      "Prikaz prošlog treninga za progresivno opterećenje",
+      "Dovoljna besplatna verzija, povoljan premium"
+    ],
+    "opportunity": "Proizvod je zreo i voljen, ali nema deljivi ni društveni sloj; prostor je u vizuelnim karticama rekorda za deljenje i izazovima sa drugarima.",
+    "growth": "2,72 ocene dnevno od 2013; recenzije 30d 14 naspram 4: kratkoročni skok na niskoj bazi, dugoročno spor organski rast.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/repcount-gym-workout-tracker/id594982044",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1140000003": {
+    "exclude": true,
+    "exclude_reason": "Marketplace za privatne časove jezika sa nastavnicima (italki), velika firma; nije lična navika nego usluga podučavanja.",
+    "name": "italki - Language Learning"
+  },
+  "1528183849": {
+    "exclude": true,
+    "exclude_reason": "Klinički program za ADHD (CBT, saradnja sa psiholozima), firma sa agresivnim naplatama; regulisan, sadržajno težak domen.",
+    "name": "Inflow - Manage Your ADHD"
+  },
+  "6683282548": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend: aplikacija Andyja Friselle (1st Phorm, 75 Hard ekosistem); rast vuče brend autora, ne proizvod.",
+    "name": "The Operator Standard"
+  },
+  "347184248": {
+    "exclude": true,
+    "exclude_reason": "Velika, etablirana firma (fatsecret, od 2009), ogromna baza namirnica i globalna zajednica; nije realno za 2 meseca.",
+    "name": "Calorie Counter by fatsecret"
+  },
+  "6503089848": {
+    "exclude": true,
+    "exclude_reason": "Igra (MMO akcioni RPG), nije self-improvement.",
+    "name": "Eternal Hero: MMO Action RPG"
+  },
+  "1594167292": {
+    "exclude": true,
+    "exclude_reason": "Skin care AI skener: nije navika ni disciplina, oslanja se na sopstvene ML modele i medicinske savete.",
+    "name": "Lovi - AI Skin Care Scanner"
+  },
+  "1484296272": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Knowunity, 30M učenika), AI pomoć za domaći i velika baza sadržaja koju prave korisnici.",
+    "name": "Knowunity: AI Study & Homework"
+  },
+  "6466183410": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker dijabetesa (glukoza, HbA1c), regulisan zdravstveni domen; prodavac sa više aplikacija.",
+    "name": "MyDiabetes: Sugar & Meal Log"
+  },
+  "352247139": {
+    "exclude": true,
+    "exclude_reason": "Etablirana firma (MyNetDiary, 5 aplikacija, od 2010), velika baza namirnica i dijetetski planovi.",
+    "name": "Calorie Counter PRO MyNetDiary"
+  },
+  "1606029127": {
+    "name": "No Nut: Quit Your Addiction",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "NoFap tracker koji kombinuje brojač dana uživo na lock screen widgetu, panic dugme i blokator sadržaja, uz motivacione podsetnike koje korisnik sam napiše.",
+    "specifics": [
+      "Ključna mehanika: live tajmer niza, panic dugme, content blocker, sopstveni razlozi kao notifikacije, izazovi",
+      "Šta je deljivo: broj dana (procena, nije potvrđeno deljenje u aplikaciji)",
+      "Društveni sloj: privatna zajednica i mentori (recenzija pominje Telegram)",
+      "Monetizacija: pretplata oko $2 mesečno po recenziji; blokator i deo funkcija iza paywalla"
+    ],
+    "psych": "Niz dana uživo na lock screenu stvara strah od gubitka i stalni podsetnik na cilj. Dokaz: „keeping your streak alive helps give you motivation“.",
+    "developer_type": "solo (Burak Eray Kayis, 4 aplikacije pod ličnim imenom)",
+    "build_weeks": 5,
+    "build_notes": "Widgeti i Live Activity, Safari content blocker, Screen Time API (FamilyControls) za jače blokiranje, notifikacije, backend za zajednicu. Najveći rizik: zaobilaženje blokatora i App Store pravila za seksualnu tematiku.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Dan 47 bez porna — ovo je dugme koje pritisnem kad krene kriza.",
+    "monetization": "Freemium; pretplata (oko $2 mesečno po recenziji); korisnici se žale da je bez plaćanja samo brojač.",
+    "complaints": [
+      "Korisno tek uz plaćanje, blokator nije besplatan (~4)",
+      "Plaćanje posle recidiva doživljeno kao manipulacija (~1)",
+      "Blokator se može zaobići (~1)"
+    ],
+    "suggestions": [
+      "Društvena mreža unutar aplikacije za polaganje računa umesto Telegrama",
+      "Lakše resetovanje ciljeva posle pauze",
+      "Besplatan osnovni blokator"
+    ],
+    "praise": [
+      "Lock screen widget sa tajmerom",
+      "Panic dugme",
+      "Motivacioni podsetnici sa sopstvenim razlozima"
+    ],
+    "opportunity": "Uvesti partnera za polaganje računa unutar aplikacije i deljive milestone kartice; šire pozicionirati kao 'dopamine reset' radi lakšeg marketinga.",
+    "growth": "2,29 ocene dnevno od jan. 2022; recenzije 30d 8 naspram 10: stabilno do blago opadajuće.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/no-nut-quit-your-addiction/id1606029127",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1510325113": {
+    "name": "Sleep Monitor: Sleep Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Snimač sna koji beleži hrkanje, pričanje u snu i kašalj, pa ujutru možeš da preslušaš šta si radio noću, uz izveštaje i faktore (kofein, kasni obrok).",
+    "specifics": [
+      "Ključna mehanika: noćno snimanje i detekcija zvukova, procena faza sna, izveštaji, praćenje faktora",
+      "Šta je deljivo: smešni snimci pričanja u snu (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata; preslušavanje snimaka iza paywalla"
+    ],
+    "psych": "Radoznalost i kvantifikacija: korisnik otkriva nešto skriveno o sebi. Dokaz: „I found out that I snore even though I was sure I didn't“.",
+    "developer_type": "firma (Xi'an Monster Software Technology Co., Ltd; 1 aplikacija pod ovim nalogom)",
+    "build_weeks": 5,
+    "build_notes": "Pozadinsko snimanje zvuka celu noć, detekcija događaja na uređaju (Core ML/sound classification), izveštaji, opciono HealthKit. Najveći rizik: potrošnja baterije i pouzdan rad u pozadini.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "Snimila sam se kako spavam i čula šta pričam u 3 ujutru.",
+    "monetization": "Pretplata; besplatno se ne može preslušati nijedan snimak po recenzijama.",
+    "complaints": [
+      "Ništa nije besplatno, snimci iza paywalla (~5)"
+    ],
+    "suggestions": [
+      "Bar jedan besplatan snimak za probu"
+    ],
+    "praise": [
+      "Otkrivanje hrkanja i pričanja u snu",
+      "Zvukovi za uspavljivanje",
+      "Izveštaji korisni za lekara"
+    ],
+    "opportunity": "Uzorak recenzija deluje podstaknuto (recenzija pominje dogovor 'recenzija za VIP'), pa je potražnja nepouzdana; vredi kao feature (snimci sna) unutar alarm/sleep aplikacije, ne kao samostalan proizvod.",
+    "growth": "2,28 ocene dnevno od jun. 2020; recenzije 30d 18 naspram 18: stabilno, ali deo recenzija verovatno podstaknut nagradom.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sleep-monitor-sleep-tracker/id1510325113",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1210995590": {
+    "name": "Stupid Simple Macro Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Macro tracker sa ličnim ikonicama hrane koje napraviš jednom i tapkaš zauvek, plus 'Food Bank' koji štedi kalorije za vikend ili izlazak; lifetime umesto godišnje pretplate.",
+    "specifics": [
+      "Ključna mehanika: ikonice namirnica, Food Bank za štednju kalorija, bar kod, posni režim",
+      "Šta je deljivo: nema (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: besplatno uz reklame, lifetime premium; posle verzije 10 deo funkcija prešao na pretplatu"
+    ],
+    "psych": "Kvantifikacija bez osuđivanja i 'štednja' kalorija daju osećaj kontrole i fleksibilnosti. Dokaz: „The secret to my 20lb weight loss“.",
+    "developer_type": "mali tim (Venn Interactive, Inc., 3 aplikacije; pominje se korisnička podrška)",
+    "build_weeks": 6,
+    "build_notes": "Baza namirnica, bar kod, custom foods, HealthKit, reklame i IAP. Najveći rizik: migracije podataka (verzija 10 obrisala istoriju korisnicima).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Štedim kalorije preko nedelje kao novac, pa u subotu jedem picu bez griže savesti.",
+    "monetization": "Freemium sa reklamama; lifetime premium, ali novije funkcije (skener) traže pretplatu i ljute lifetime kupce.",
+    "complaints": [
+      "Lifetime kupci moraju na pretplatu za nove funkcije (~4)",
+      "Verzija 10 i AI obrisali sačuvane namirnice i usporili aplikaciju (~4)",
+      "Onboarding zaglavljen na pitanju 'kako ste čuli za nas' (~4)",
+      "Previše reklama u besplatnoj verziji (~3)"
+    ],
+    "suggestions": [
+      "Lock screen widgeti",
+      "Izvoz kalorija u Apple Health",
+      "Unos obroka po težini za meal prep",
+      "Nazivi obroka 'obrok 1, 2, 3' umesto doručak/ručak"
+    ],
+    "praise": [
+      "Jednostavnost i brzina unosa",
+      "Food Bank za fleksibilnost",
+      "Responzivna podrška"
+    ],
+    "opportunity": "Food Bank je jedini zaista originalan koncept u kategoriji; mogao bi da bude jezgro novog proizvoda (npr. 'kalorijski budžet' sa nedeljnim nizom), uz poštenu lifetime politiku.",
+    "growth": "2,26 ocene dnevno od 2017; recenzije 30d 5 naspram 6: stagnacija, uz talas negativnih recenzija posle verzije 10.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stupid-simple-macro-tracker/id1210995590",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

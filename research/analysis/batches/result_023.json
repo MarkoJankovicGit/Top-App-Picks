@@ -1,0 +1,361 @@
+{
+  "963034692": {
+    "name": "Streaks",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Klasičan habit tracker sveden na niz uzastopnih dana, sa jakom Apple Watch i Health integracijom (automatsko štikliranje) i jednokratnom cenom umesto pretplate.",
+    "specifics": [
+      "Ključna mehanika: do 24 zadatka dnevno, cilj je neprekinut niz; negativni zadaci za loše navike i tajmirani zadaci.",
+      "Šta je deljivo: slabo; nema vizuelnog izlaza za društvene mreže, samo deljenje zadatka sa drugim korisnikom.",
+      "Društveni sloj: deljeni zadaci radi međusobne odgovornosti, korisnici ga opisuju kao komplikovan.",
+      "Monetizacija: plaćena aplikacija 5,99 USD, bez pretplate."
+    ],
+    "psych": "Niz dana i strah od gubitka; korisnici sami kažu da je broj dana motivator: \"Make it big, thats the dopamine, the motivator.\"",
+    "developer_type": "mali tim (Crunchy Bagel Pty Ltd, 5 aplikacija; procena: mali studio)",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + iCloud/sinhronizacija, HealthKit/Health Connect, widgeti, Watch/Wear aplikacija. Najveći rizik: kvalitet widgeta i Watch komplikacija, što je i glavni izvor žalbi.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Aplikacija koja te natera da ne prekineš niz, prikazana kroz 300 dana zaredom na widgetu.",
+    "monetization": "Jednokratna kupovina 5,99 USD; korisnici hvale izostanak pretplate, ali deo ne očekuje da plati unapred.",
+    "complaints": [
+      "Bagovi i uklonjene opcije na Apple Watch komplikacijama/widgetima (~4)",
+      "Nema besplatne verzije / nejasno plaćanje i otkazivanje (~5)",
+      "Nepregledan UX, previše ekrana (~4)",
+      "Nedeljni ciljevi ne prikazuju u koje dane je zadatak urađen (~3)"
+    ],
+    "suggestions": [
+      "Fleksibilne frekvencije (npr. jednom kvartalno, svakih 6 nedelja)",
+      "Opcija 'ne više od N puta' za ograničavanje loših navika",
+      "Veći broj niza na widgetu i prikaz pojedinačne navike na satu",
+      "Podešavanje kraja dana i lakše retroaktivno štikliranje"
+    ],
+    "praise": [
+      "Jednokratna cena bez pretplate",
+      "Jednostavnost i prilagodljivost",
+      "Pomaže doslednosti dugoročno (korisnici 5–10 godina)"
+    ],
+    "opportunity": "Ista mehanika niza, ali sa vizuelno deljivim izlazom (kartica niza za Stories) i društvenim nizovima sa prijateljima; ciljna publika 18–24 traži interakciju (\"Too basic... no interaction\").",
+    "growth": "Izlazak 2015, 27.351 ocena, ~6,6 ocena/dan prosečno. Recenzije 30d: 6 naspram 6 prethodnih: stabilno, zrelo, bez rasta.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/streaks/id963034692",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "532085262": {
+    "exclude": true,
+    "exclude_reason": "Sportski utility za golf (handicap, skor kartice, licencirani GHIN/handicap sistem); nije lična navika u nišu i oslanja se na regulisan/licenciran sadržaj.",
+    "name": "TheGrint: Golf Handicap"
+  },
+  "6749665109": {
+    "name": "Journey: Screen Time Control",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Blokator aplikacija, ali vreme na društvenim mrežama se 'kupuje' zlatom koje zaradiš izvršavanjem stvarnih dnevnih zadataka (teretana, čitanje, izlazak napolje), uz verifikaciju fotografijom.",
+    "specifics": [
+      "Ključna mehanika: svakog jutra u 6h resetuje se 'main quest'; završetak donosi Knight's gold kojim otključavaš blokirane aplikacije.",
+      "Šta je deljivo: smanjenje screen time-a (pre/posle), procena: nema ugrađen share format.",
+      "Društveni sloj: nema vidljivog; maskota (Focus Buddy) reaguje na ponašanje.",
+      "Monetizacija: hard paywall, 9,99 USD mesečno / ~50 USD godišnje, 7 dana probe."
+    ],
+    "psych": "Nagrada za akciju i obaveza unapred: korisnik mora da 'zaradi' skrol; recenzija: \"my screen time has dropped by almost 3 hours\".",
+    "developer_type": "mali tim (Brain Nourishment, LLC, 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) i Android UsageStats/Accessibility; verifikacija fotografijom (moguće AI), backend za questove. Najveći rizik: Apple odobrenje Family Controls entitlementa i pouzdanost otključavanja (žalbe na neodblokiranje).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Moj telefon mi ne da TikTok dok ne uradim 20 sklekova, pa evo koliko mi je pao screen time za nedelju dana.",
+    "monetization": "Pretplata 9,99 USD/mes ili ~50 USD/god, bez besplatne verzije; mlađi korisnici masovno odbijaju paywall.",
+    "complaints": [
+      "Neočekivan paywall posle onboardinga i dozvola (~9)",
+      "Aplikacija blokira sve i ne može da se obriše zbog roditeljske kontrole (~4)",
+      "Kamera/foto verifikacija ne radi (~2)",
+      "Redizajn uklonio originalni koncept dnevnog sidequesta (~2)"
+    ],
+    "suggestions": [
+      "Više upotrebe za krune/valutu (nagrade, kozmetika)",
+      "Borbe sa čudovištima / više RPG elemenata",
+      "Jasna besplatna verzija ili probni period pre blokiranja",
+      "Pouzdano odblokiranje posle završenog questa"
+    ],
+    "praise": [
+      "Stvarno smanjuje screen time",
+      "Oseća se kao video igra",
+      "Ljubazna podrška i refundacija"
+    ],
+    "opportunity": "Paywall prikazati pre davanja Screen Time dozvola i dodati besplatan nivo sa jednim questom; dodati društveni sloj (zajednički questovi, rang lista prijatelja po smanjenju screen time-a).",
+    "growth": "Izlazak 2025-09-29, 2.472 ocene, ~6,5 ocena/dan. Recenzije 30d: 0 naspram 3: pad nakon redizajna/promene imena; rast je verovatno vođen Instagram reklamama (pominju ih recenzije).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/journey-screen-time-control/id6749665109",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6670493968": {
+    "name": "Amino: AI Calorie Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "AI brojač kalorija (fotografija obroka) sa igrifikacijom: dnevni izazovi, nedeljna takmičenja, mesečne nagradne igre i streak bonusi, uz 'energiju' kao valutu za logovanje.",
+    "specifics": [
+      "Ključna mehanika: slikaš obrok, AI vraća nutritivnu analizu i Health Score; logovanje troši 'energiju'.",
+      "Šta je deljivo: rezultati mršavljenja, procena; nema vidljivog share formata.",
+      "Društveni sloj: nedeljni contesti i sweepstakes (nejasno da li je društveno ili samo nagradno).",
+      "Monetizacija: freemium sa limitom (3 unosa dnevno besplatno), godišnja pretplata, reklame za energiju."
+    ],
+    "psych": "Nagrada za akciju i vidljiv napredak; \"This is the first time ever I've been able to consistently log my meals.\"",
+    "developer_type": "mali tim (Fitness Coin Technologies Inc, 1 aplikacija; procena)",
+    "build_weeks": 6,
+    "build_notes": "Vision LLM API za prepoznavanje hrane, barcode baza (OpenFoodFacts ili licenca), HealthKit/Health Connect, backend za izazove i nagradne igre. Najveći rizik: tačnost AI procene kalorija i pravna strana sweepstakes mehanike.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Slikala sam svaki obrok 30 dana i evo šta mi je AI rekao o mojoj ishrani.",
+    "monetization": "Freemium sa agresivnim limitima i godišnjom pretplatom; korisnici koji su ga znali kao besplatnog snažno odbijaju novi paywall.",
+    "complaints": [
+      "Uveden paywall / 'besplatno' je lažno, limit unosa (~12)",
+      "Netačna AI procena kalorija (~3)",
+      "Energija prestane da se obnavlja (~1)",
+      "Promenljiva cena godišnje pretplate (~1)"
+    ],
+    "suggestions": [
+      "Upis nutritivnih podataka u Apple Health",
+      "Unos sopstvenih recepata tekstom",
+      "Personalizacija boje pozadine"
+    ],
+    "praise": [
+      "Lako i brzo logovanje fotografijom",
+      "Korisnici prijavljuju gubitak 10–22 lbs",
+      "Saveti posle svakog obroka"
+    ],
+    "opportunity": "Pošten freemium bez bait-and-switch-a i jak društveni sloj (izazovi sa prijateljima) umesto nagradnih igara; kategorija je zasićena (Cal AI i sl.), pa diferencijacija mora biti društvena.",
+    "growth": "Izlazak 2024-09-09, 4.955 ocena, ~6,5 ocena/dan. Recenzije 30d: 5 naspram 9: blag pad posle uvođenja paywalla.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/amino-ai-calorie-tracker/id6670493968",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "765535549": {
+    "exclude": true,
+    "exclude_reason": "Medicinski/regulisan domen (FDA kontracepcija), hardver (NC Band); nije lična navika.",
+    "name": "Natural Cycles: Fertility App"
+  },
+  "1266612768": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija (ABISHKKING LIMITED, generički fitness šablon sa bibliotekom vežbi i dijeta).",
+    "name": "Lose Weight at Home in 30 Days"
+  },
+  "1450486923": {
+    "name": "Routine Planner, Habit Tracker (Routinery)",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Habit tracker koji ne samo beleži nego 'vodi' rutinu: svaka rutina je niz koraka od 1–5 minuta sa tajmerom i glasom koji najavljuje sledeći korak; ciljano za ADHD.",
+    "specifics": [
+      "Ključna mehanika: rutine razbijene na tajmirane korake, glasovno vođenje, alarm na početku rutine, streak saver.",
+      "Šta je deljivo: slabo; procena: snimci jutarnje rutine kao sadržaj.",
+      "Društveni sloj: nema; korisnici traže deljenje rutina.",
+      "Monetizacija: freemium (limit 2 rutine, reklame) + pretplata i lifetime."
+    ],
+    "psych": "Smanjenje trenja za početak i mali uspesi po koraku; \"For maybe the first time in my life I have consistent routines that I stick to.\"",
+    "developer_type": "firma / startup (Routinery Corp., 4 aplikacije, 5M preuzimanja, MCP server)",
+    "build_weeks": 6,
+    "build_notes": "Tajmeri u pozadini, TTS glas, notifikacije/AlarmKit, sinhronizacija između uređaja, kalendar integracije. Najveći rizik: pouzdan sync i potrošnja baterije (glavne žalbe).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Moje ADHD jutro pre i posle: aplikacija mi glasom govori šta da radim svakog minuta.",
+    "monetization": "Freemium sa limitom rutina i reklamama, pretplata ('pay forever') i lifetime.",
+    "complaints": [
+      "Novi update pokvario funkcije (limit zadataka, streak saver, alarm) (~5)",
+      "Bagovi, lag, sync i baterija (~4)",
+      "Naplata pre isteka probe / skup model (~3)",
+      "Nema podrške i pomoći (~2)"
+    ],
+    "suggestions": [
+      "Detaljna mesečna statistika kao u habit trackeru",
+      "Zajedničke rutine sa drugim osobama",
+      "Izbor glasa",
+      "Ručno prelaženje na sledeći korak"
+    ],
+    "praise": [
+      "Rešava time-blindness i ADHD jutra",
+      "Glasovno vođenje kroz korake",
+      "Brza i ljudska podrška developera"
+    ],
+    "opportunity": "ADHD vođene rutine sa društvenim slojem i deljivim 'routine reveal' formatom za TikTok; zadržati stabilnost bez lomljenja postojećih funkcija.",
+    "growth": "Izlazak 2019, 18.035 ocena, ~6,4 ocena/dan. Recenzije 30d: 28 naspram 23: blag rast, zrela aplikacija sa Apple featuringom.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/routine-planner-habit-tracker/id1450486923",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755640836": {
+    "name": "Monke - Habit Game",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Habit tracker kao island builder: izvršavanjem navika i fokus sesija zarađuješ banane kojima gradiš ostrvo, otključavaš retke monke likove i piratske brodove; lik i ton prenet iz developerovog YouTube kanala.",
+    "specifics": [
+      "Ključna mehanika: navike + fokus tajmer → banane → dekoracije, likovi različite retkosti, nova ostrva.",
+      "Šta je deljivo: sopstveno ostrvo/svet, retki likovi (procena).",
+      "Društveni sloj: Discord zajednica i YouTube kanal developera; u aplikaciji nema.",
+      "Monetizacija: hard paywall, 39,96 USD/god ili 79,99 USD lifetime."
+    ],
+    "psych": "Briga o svetu i kolekcionarstvo pretvaraju navike u igru; \"I find myself itching to complete any task that pops up to get me bananas.\"",
+    "developer_type": "solo (Myles Nicholas Root, 3 aplikacije; recenzije potvrđuju solo developera sa YouTube kanalom)",
+    "build_weeks": 7,
+    "build_notes": "Habit/fokus logika, Live Activity, 2D/izometrijski editor sveta i art assets (likovi, dekoracije). Najveći rizik: produkcija ilustracija i balans ekonomije igre.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moje ostrvo raste samo kad uradim svoje navike, evo kako izgleda posle 30 dana.",
+    "monetization": "Hard paywall (39,96 USD/god, 79,99 USD lifetime); deo publike (tinejdžeri) odbija, ali plaćeni korisnici kažu da vredi.",
+    "complaints": [
+      "Nema besplatne verzije, paywall posle dugog upitnika (~14)",
+      "Nejasno navedena kupovina u opisu (~3)",
+      "Nema upozorenja pre kraja probe (~1)",
+      "Nema iPad verzije (~1)"
+    ],
+    "suggestions": [
+      "Besplatna verzija sa manje funkcija ili sa reklamama",
+      "Više muzike i opcija zvuka",
+      "iPad verzija",
+      "Više od 3 navike na početku"
+    ],
+    "praise": [
+      "Igrifikacija stvarno motiviše",
+      "Ton i lik Monke-a",
+      "Personalizovan onboarding"
+    ],
+    "opportunity": "Freemium ulaz za Gen Z (besplatno ostrvo, plaćeni likovi/dekoracije) i deljivi snapshot ostrva; dodati društvene posete ostrvima prijatelja.",
+    "growth": "Izlazak 2025-12-11, 1.954 ocene, ~6,4 ocena/dan, bez oznake praćenja. Recenzije 30d: 4 naspram 5: stabilno; rast dolazi organski iz developerovog YouTube sadržaja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/monke-habit-game/id6755640836",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "490474324": {
+    "exclude": true,
+    "exclude_reason": "Utility za zakazivanje objava na društvenim mrežama; firma; nije lična navika.",
+    "name": "Buffer: Plan & Schedule Posts"
+  },
+  "6752488142": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka video sadržaja za seniore, publika van 18–24; prodavac sa više sličnih aplikacija (procena: fabrika).",
+    "name": "Tai Chi Walking : GentleFit"
+  },
+  "6774621881": {
+    "exclude": true,
+    "exclude_reason": "Generički šablon plana vežbi bez diferencijacije (prodavac sa 5 aplikacija, procena: šablonska proizvodnja); premalo podataka (6 recenzija).",
+    "name": "Military Calisthenics at Home"
+  },
+  "1564601242": {
+    "exclude": true,
+    "exclude_reason": "Igra (farming MMO), nije lična navika.",
+    "name": "Farm RPG"
+  },
+  "6738023868": {
+    "exclude": true,
+    "exclude_reason": "Čisti sadržaj (biblioteka sažetaka knjiga), uz masovne žalbe na neovlašćene naplate.",
+    "name": "SmartMe: Daily Learning"
+  },
+  "6748383002": {
+    "exclude": true,
+    "exclude_reason": "Čisti sadržaj (AI mikro lekcije); prodavac sa 10 aplikacija, procena: fabrika aplikacija.",
+    "name": "MyGrowth: Daily Micro Learning"
+  },
+  "6478762529": {
+    "exclude": true,
+    "exclude_reason": "Zdravstveni/medicinski tracker (puls kamerom); procena: šablonska aplikacija.",
+    "name": "Heartwell: Track Health"
+  }
+}

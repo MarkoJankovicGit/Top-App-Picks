@@ -1,0 +1,514 @@
+{
+  "1520435704": {
+    "exclude": true,
+    "exclude_reason": "Utility dnevnik sa generičkim šablonom i paywallom odmah na ulazu; prodavac „Protection & Security App LLC“ sa 5 aplikacija upućuje na fabriku aplikacija.",
+    "name": "Digital Journal Diary"
+  },
+  "1581511740": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend: aplikacija knjige The Miracle Morning (Hal Elrod), vrednost počiva na brendu i sadržaju autora.",
+    "name": "Miracle Morning Routine"
+  },
+  "6755542324": {
+    "name": "Pushy - Push Ups Alarm",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm bez dugmeta za odlaganje: gasi se samo kada kamera izbroji zadati broj sklekova (ili trbušnjaka), radi offline i probija režim Ne uznemiravaj.",
+    "specifics": [
+      "Ključna mehanika: kamera broji ponavljanja, podesiv broj, sklekovi, trbušnjaci ili sklekovi na kolenima",
+      "Šta je deljivo: nema u aplikaciji",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (prema recenzijama preko $10 mesečno), paywall posle onboarding testa; rani korisnici dobili lifetime"
+    ],
+    "psych": "Obaveza preuzeta unapred, uz fizički napor koji razbuđuje i gradi naviku jutarnjeg vežbanja. Dokaz: „Hold yourself accountable before the time to do so.“",
+    "developer_type": "solo (Iuri Jorbenadze, 1 aplikacija; opis navodi solo developera)",
+    "build_weeks": 5,
+    "build_notes": "AlarmKit ili kritični alarmi na iOS-u, full-screen intent na Androidu; detekcija poze na uređaju (Vision / ML Kit). Najveći rizik: pouzdanost alarma i detekcija celog tela u malom kadru telefona na podu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Jedini način da ugasim alarm je 20 sklekova — dan 1 naspram dana 30.",
+    "monetization": "Pretplata (preko $10 mesečno po recenzijama), paywall posle onboarding testa; rani korisnici imaju lifetime.",
+    "complaints": [
+      "Pretplata za alarm, paywall otkriven tek na kraju onboardinga (~9)",
+      "Kamera ne hvata celo telo, teško se postavlja telefon (~4)",
+      "Posle ažuriranja alarm se ponavlja u petlji ili ne zazvoni (~4)",
+      "Alarm nije dovoljno glasan (~1)"
+    ],
+    "suggestions": [
+      "Glasniji alarm i lakši uvoz sopstvenog zvuka",
+      "Detekcija koja traži samo gornji deo tela",
+      "Jeftiniji ili besplatan osnovni nivo"
+    ],
+    "praise": [
+      "Stvarno budi i prekida snooze petlju (većina recenzija)",
+      "Gradi naviku jutarnjih sklekova",
+      "Ne može se ugasiti utišavanjem telefona"
+    ],
+    "opportunity": "Spoj Pushy i Nooze pristupa: pouzdan alarm sa više misija, zajednički wake-up streak sa prijateljima i deljiv kratki video „dokaz u 7:00“; jasan besplatni nivo za jedan alarm.",
+    "growth": "941 ocena za ~318 dana (2,96/dan); recenzije 7 u 30d naspram 12 — usporavanje posle uvođenja pretplate.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushy-push-ups-alarm/id6755542324",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "811054908": {
+    "exclude": true,
+    "exclude_reason": "Marketplace za masaže i beauty usluge (Soothe), nije lična navika.",
+    "name": "Soothe: Wellness On Demand"
+  },
+  "1547099435": {
+    "name": "Sunflower - Quit Any Addiction",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Brojač čistih dana gde svaki dan trezvenosti donosi novi suncokret, uz AI sponzora „Sam“ i zajednicu za sve vrste zavisnosti (alkohol, nikotin, trava, pornografija).",
+    "specifics": [
+      "Ključna mehanika: vizuelna progresija (suncokret po danu), milestones, dnevni check-in, vežbe za žudnju",
+      "Šta je deljivo: milestones (procena)",
+      "Društveni sloj: feed zajednice, Zoom sesije sa terapeutima",
+      "Monetizacija: mesečna ili godišnja pretplata, onboarding traži izbor plana i trial"
+    ],
+    "psych": "Vidljiv napredak i strah od gubitka niza u kontekstu oporavka. Dokaz: „For me each day without relapse was a huge win.“",
+    "developer_type": "mali tim (Koby Empire, Inc, 6 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Backend sa zajednicom i moderacijom, LLM chat sa bezbednosnim ograničenjima (samopovređivanje, kriza), notifikacije, pouzdano čuvanje niza. Najveći rizik: moderacija i odgovornost u kriznim situacijama.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Svaki dan bez vejpa raste mi novi suncokret — ovo je moj vrt posle 30 dana.",
+    "monetization": "Pretplata mesečna ili godišnja; onboarding prisiljava na trial sa karticom, deo korisnika ipak navodi besplatnu verziju.",
+    "complaints": [
+      "Prisilni trial i paywall bez opcije preskakanja (~10)",
+      "Brojač se resetovao zbog greške (~3)",
+      "Nalog obrisan posle 6 meseci (~1)",
+      "Podrška bez kontakta sa čovekom (~1)"
+    ],
+    "suggestions": [
+      "Pravi besplatni nivo za osnovno praćenje dana",
+      "Više fokusa na samopovređivanje"
+    ],
+    "praise": [
+      "Zajednica bez osuđivanja",
+      "AI sponzor dostupan 24/7",
+      "Brojač dana motiviše"
+    ],
+    "opportunity": "Isti vizuelni vrt za poroke Gen Z publike (vejp, pornografija, skrolovanje) sa besplatnim brojačem i pretplatom za AI i zajednicu; niz koji se ne gubi zbog grešaka.",
+    "growth": "6.208 ocena za ~5,8 godina (2,95/dan); recenzije 29 u 30d naspram 22 — rast.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sunflower-quit-any-addiction/id1547099435",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "654645301": {
+    "exclude": true,
+    "exclude_reason": "Utility (beležnica/dnevnik sa reklamama), ne navika ni disciplina.",
+    "name": "Notebook - Diary & Journal App"
+  },
+  "1323917721": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija: generički šablon „Home Workout for Men“ (ABISHKKING LIMITED, 5 aplikacija), paywall trećeg dana.",
+    "name": "Home Workout for Men"
+  },
+  "650762525": {
+    "name": "7 Minute Workout",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Klasičan HIIT od 12 vežbi za 7 minuta (po NYT/ACSM), sada sa AI treninzima preko Apple Foundation Models; radi na iPhone-u, Watch-u, TV-u i Mac-u.",
+    "specifics": [
+      "Ključna mehanika: 12 × 30 s uz 10 s pauze, glasovno vođenje, sopstveni treninzi",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: Pro pretplata (~$25 godišnje prema recenziji), osnovni trening besplatan"
+    ],
+    "psych": "Niska prepreka za početak omogućava ponavljanje godinama. Dokaz: „I created my own core workout and have done it 2500+ times“.",
+    "developer_type": "mali tim (Bytesize Systems Pty Ltd, 3 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Animacije ili video vežbi, tajmer sa glasom, HealthKit, Watch aplikacija. Rizik nije tehnički nego diferencijacija u zasićenoj kategoriji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "7 minuta dnevno 30 dana — evo razlike.",
+    "monetization": "Pretplata (~$25 godišnje po recenziji), besplatan klasični trening; stari korisnici imaju jednokratnu kupovinu.",
+    "complaints": [
+      "Restore purchase ne radi, prisilna pretplata (~2)",
+      "AI treninzi se ne sviđaju (~2)",
+      "Malo besplatnih opcija (~2)",
+      "Sinhronizacija između uređaja (~1)"
+    ],
+    "suggestions": [
+      "Animacije na Apple Watch-u",
+      "Sinhronizacija sopstvenih treninga na svim uređajima"
+    ],
+    "praise": [
+      "Kratko i efikasno",
+      "Doslednost godinama",
+      "Bez opreme i offline"
+    ],
+    "opportunity": "Format od 7 minuta je idealan za TikTok izazov; nedostaju niz sa prijateljima i deljive kartice.",
+    "growth": "14.319 ocena za ~13 godina (2,93/dan); recenzije 4 u 30d naspram 0 — zrela aplikacija, stabilno.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "marketability_score": 2,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/7-minute-workout/id650762525",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1164976477": {
+    "name": "AteMate Food Journal & Coach",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Foto dnevnik hrane bez brojanja kalorija: slikaš obrok, označiš kako si se osećao i zašto si jeo, a AI coach povezuje hranu sa energijom, raspoloženjem i snom.",
+    "specifics": [
+      "Ključna mehanika: foto log, emoji osećaja, pitanje „zašto si jeo“, AI coach, CGM preko Apple Health",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: povezivanje sa ličnim health coachem",
+      "Monetizacija: pretplata ~$9.99 mesečno ili ~$50 godišnje, bez besplatne verzije"
+    ],
+    "psych": "Polaganje računa kroz fotografiju umesto brojanja. Dokaz: „seeing my food through pictures as a way to be more accountable“.",
+    "developer_type": "mali tim (Piqniq Inc., 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Kamera, AI vision API, LLM coach sa istorijom, HealthKit (CGM, san, kretanje), backend. Najveći rizik: tačnost AI analize hrane i nemogućnost korekcije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Ne brojim kalorije — samo slikam svaki obrok i AI mi kaže zašto mi pada energija.",
+    "monetization": "Pretplata ~$9.99 mesečno ili ~$50 godišnje, nema besplatne verzije.",
+    "complaints": [
+      "Nema besplatne verzije, paywall posle onboardinga (~10)",
+      "AI analiza netačna i ne može da se ispravi (~3)",
+      "Previše opcija, nekada je bilo jednostavnije (~2)",
+      "Izmena analize briše sve (~1)"
+    ],
+    "suggestions": [
+      "Jeftiniji nivo samo za foto dnevnik",
+      "Opcija kvadratnih fotografija",
+      "Tajmer za post",
+      "Praćenje ciklusa i fotografije za piće i kretanje"
+    ],
+    "praise": [
+      "Jednostavno i brzo",
+      "Dobro za intuitivnu ishranu",
+      "Pomoglo u mršavljenju"
+    ],
+    "opportunity": "Lagana besplatna verzija „foto dnevnik + niz“ i društveni sloj (prijatelji vide obroke, BeReal za hranu) za Gen Z.",
+    "growth": "10.344 ocene za ~9,7 godina (2,93/dan); recenzije 3 u 30d naspram 3 — stagnacija.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/atemate-food-journal-coach/id1164976477",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6756180034": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (učenje Kurana), uz prijave obmanjujuće naplate.",
+    "name": "AyahPath Daily: Learn Quran"
+  },
+  "6755474436": {
+    "name": "Ruut: AI Running Coach",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "AI trener trčanja koji ti tokom trčanja govori u slušalice (tempo, forma), a posle analizira trčanje i tvoje beleške; plan po fazama od 5K do maratona.",
+    "specifics": [
+      "Ključna mehanika: kviz pa personalizovan plan, audio coaching, AI analiza posle trčanja",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (nedeljna i godišnja; pominju se $34.99, ~$40, $89.99)"
+    ],
+    "psych": "Vidljiv napredak kroz faze i trener stalno u uhu. Dokaz: „Finally a program that’s in my ear (literally) the whole way!“",
+    "developer_type": "mali tim (Shalitone Limited, 1 aplikacija; oznaka praćenja i talas recenzija „first run“ ukazuju na kampanju)",
+    "build_weeks": 8,
+    "build_notes": "GPS u pozadini, audio cue-ovi, Watch aplikacija, LLM analiza, Strava i HealthKit/Health Connect. Najveći rizik: pozadinski GPS i integracija sa Apple Watch-om.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "AI trener mi je u uhu rekao da usporim — prvi put sam istrčala 5 km bez stajanja.",
+    "monetization": "Pretplata, nedeljna i godišnja; ozbiljne prijave naplate posle otkazivanja.",
+    "complaints": [
+      "Naplata posle otkazivanja i odbijen refund (~6)",
+      "Nema audio coachinga uz Apple Watch (~2)",
+      "Slaba integracija sa Stravom i Watch-om (~2)",
+      "Netačni AI rezimei i planovi (~1)"
+    ],
+    "suggestions": [
+      "Cool-down na kraju trčanja",
+      "Izbor dana za dugo trčanje",
+      "Više glasovnih saveta o tempu",
+      "Jasnije završavanje trčanja"
+    ],
+    "praise": [
+      "Glasovni cue-ovi za početnike",
+      "Analiza posle trčanja",
+      "Podstiče da se trči duže"
+    ],
+    "opportunity": "Isti AI coach uz transparentnu naplatu i društveni sloj (grupni plan sa prijateljima, deljiva kartica napretka) za Gen Z početnike.",
+    "growth": "539 ocena za ~186 dana (2,9/dan); recenzije 38 u 30d naspram 11 — nagli skok, verovatno plaćena kampanja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "marketability_score": 2,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/ruut-ai-running-coach/id6755474436",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6785825235": {
+    "name": "SLAY - become that girl",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "„That girl“ glow-up izazovi gde svaki dnevni zadatak potvrđuješ fotografijom i skupljaš estetske stikere, pa rutina postaje kolekcija.",
+    "specifics": [
+      "Ključna mehanika: tematski izazovi (Glow-Up, Morning Routine, Clean & Organized), foto potvrda zadatka, otključavanje stikera",
+      "Šta je deljivo: estetski stikeri i foto dnevnik (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata obavezna za sve funkcije"
+    ],
+    "psych": "Identitet („become her“) uz nagradu za svaku akciju. Dokaz: „i hope it gives you rewards for things … Yes girl motivate me“.",
+    "developer_type": "solo sa više aplikacija (Lilian SUZAN, 9 aplikacija — verovatno serijski indie developer; rizik šablona)",
+    "build_weeks": 4,
+    "build_notes": "Kamera, lokalno skladište, sistem izazova i stikera, bez većeg backenda. Najveći rizik: kvalitet ilustracija i estetike stikera.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "hook": "Dan 12 do „that girl“ — svaki zadatak dokazujem slikom i skupljam stikere.",
+    "monetization": "Pretplata obavezna za sve funkcije; cene nisu vidljive.",
+    "complaints": [
+      "Nema uputstva, nejasna kamera i reset (~1)",
+      "Naplata (~1)"
+    ],
+    "suggestions": [
+      "Ponuđeni standardni zadaci pri dodavanju"
+    ],
+    "praise": [
+      "„Girly“ estetika",
+      "Personalizacija na početku"
+    ],
+    "opportunity": "Mali uzorak recenzija, ali jako uklapanje u publiku 18–24. Dodati deljive nedeljne kolaže, grupne izazove sa drugaricama i jasan besplatni prvi izazov.",
+    "growth": "260 ocena za ~90 dana (2,9/dan); recenzije 3 u 30d naspram 2 — mali uzorak; rast verovatno preko ASO (ključna reč 75 hard) ili reklama.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 1,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "niska",
+    "marketability_score": 4,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/slay-become-that-girl/id6785825235",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6753151263": {
+    "name": "Clema: Screen Time Companion",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Umesto hladnog blokatora, pre skrolovanja razgovaraš sa ljubimcem Clemom; kad ostaneš fokusiran Clema je srećna, kad popustiš gubi živote.",
+    "specifics": [
+      "Ključna mehanika: chat pre otvaranja aplikacije, životi ljubimca, focus sesije, novčići za skinove",
+      "Šta je deljivo: skinovi ljubimca (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata obavezna"
+    ],
+    "psych": "Briga za ljubimca i strah od gubitka života. Dokaz: „the cute skins make it fun so i actually stick with it“.",
+    "developer_type": "mali tim (Clema Technologies LLC, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (entitlement), LLM chat, animacije ljubimca, ekonomija novčića i skinova. Najveći rizik: pouzdanost blokade i Apple entitlement.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Svaki put kad otvorim TikTok, moj mali ljubimac gubi život.",
+    "monetization": "Pretplata obavezna; cena nije u paketu, korisnici je smatraju previsokom.",
+    "complaints": [
+      "Sve iza paywalla, skupo (~5)",
+      "Blokada ne radi ili blokira pogrešne aplikacije (~2)",
+      "Novčići se ne dodaju posle focus sesija (~1)",
+      "Traži ocenu pre korišćenja (~1)"
+    ],
+    "suggestions": [
+      "Praćenje zadataka i navika",
+      "Više nagrada",
+      "Realnija cena"
+    ],
+    "praise": [
+      "Drastično smanjen screen time",
+      "Refleksija pre skrolovanja",
+      "Slatki skinovi"
+    ],
+    "opportunity": "Besplatan osnovni ljubimac i plaćeni skinovi/funkcije, plus društveni sloj (ljubimci prijatelja, zajednički cilj) — jak TikTok potencijal.",
+    "growth": "1.008 ocena za ~350 dana (2,88/dan); recenzije 0 u 30d naspram 2 — usporavanje.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/clema-screen-time-companion/id6753151263",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1559557734": {
+    "exclude": true,
+    "exclude_reason": "Ne može se napraviti za 2 meseca: RPG plus farm igra sa 3000+ reči i fraza na 9 jezika koje su pripremili lingvisti, mnogo ilustracija i sadržaja.",
+    "name": "Lingo Legend Language Learning"
+  },
+  "1448251580": {
+    "name": "Sober SideKick: Quit Addiction",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Društvena mreža za oporavak: anonimni postovi, online sastanci 24/7 i princip „pomažeš drugima da bi ostao trezan“, uz brojač trezvenih dana.",
+    "specifics": [
+      "Ključna mehanika: brojač dana, feed, sastanci, dnevni motivacioni video",
+      "Šta je deljivo: milestones",
+      "Društveni sloj: jak — zajednica i sastanci",
+      "Monetizacija: deluje besplatno; model nije vidljiv u paketu"
+    ],
+    "psych": "Polaganje računa zajednici i pomaganje drugima. Dokaz: „helping someone else helps me not be focused on myself“.",
+    "developer_type": "mali tim (Sidekick Mobile Technologies Inc., 3 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "Društveni backend, moderacija i filtriranje prevaranata, live sastanci (video), notifikacije. Najveći rizik: moderacija i hladan start zajednice.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": true
+    },
+    "hook": "32 dana bez alkohola — ovo je zajednica koja me drži.",
+    "monetization": "Deluje besplatno (recenzije ističu „free“); monetizacija nejasna.",
+    "complaints": [
+      "Prevaranti i ljudi koji traže pažnju (~1)",
+      "Loš UI (~1)"
+    ],
+    "suggestions": [],
+    "praise": [
+      "Podrška zajednice",
+      "Sastanci 24/7",
+      "Besplatno"
+    ],
+    "opportunity": "Malo jasnih žalbi; prilika je verzija za Gen Z sa „manjim“ porocima i grupnim izazovima.",
+    "growth": "8.047 ocena za ~7,7 godina (2,86/dan); recenzije 6 u 30d naspram 2 — stabilno.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 2,
+      "voiceOfCustomer": 1,
+      "monetization": 1,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "marketability_score": 2,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sober-sidekick-quit-addiction/id1448251580",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

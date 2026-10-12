@@ -1,0 +1,187 @@
+{
+  "6476465403": {
+    "exclude": true,
+    "exclude_reason": "Platforma za Hyrox trening i rezultate trka (analitika, praćenje sportista, biblioteka treninga); suština je sportska analitika, ne lična navika, uz oznaku praćenja.",
+    "name": "ROXFIT"
+  },
+  "6504584166": {
+    "exclude": true,
+    "exclude_reason": "Tržište predviđanja/klađenje na sport; finansije i klađenje.",
+    "name": "ProphetX Prediction Market"
+  },
+  "1116032929": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Gibson) i licencirana biblioteka pesama.",
+    "name": "Gibson: Learn to Play Guitar"
+  },
+  "398210959": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija lanca teretana (Crunch); utility za članove velikog brenda.",
+    "name": "Crunch Fitness"
+  },
+  "6800278507": {
+    "exclude": true,
+    "exclude_reason": "Party igra; nije self-improvement.",
+    "name": "BLASTED - draft party game"
+  },
+  "537452201": {
+    "exclude": true,
+    "exclude_reason": "Firma (Posit Science) sa naučno validiranom bibliotekom vežbi; ne može se replicirati za 2 meseca.",
+    "name": "BrainHQ"
+  },
+  "1001285466": {
+    "exclude": true,
+    "exclude_reason": "Opklada novcem na mršavljenje; finansijska nagrada kao glavna motivacija i regulisan domen isplata.",
+    "name": "Weight Loss Bet by HealthyWage"
+  },
+  "1293045450": {
+    "exclude": true,
+    "exclude_reason": "Kazino igra (video poker); nije self-improvement.",
+    "name": "Multi-Play Video Poker ™"
+  },
+  "6733236996": {
+    "exclude": true,
+    "exclude_reason": "Generički klon AI brojača kalorija (42apps, više aplikacija); šablon fabrike, publika uglavnom van US.",
+    "name": "CalZen AI Food Calorie Counter"
+  },
+  "6786696468": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa isplatom novca; glavna motivacija je finansijska nagrada.",
+    "name": "WalkVibe"
+  },
+  "477793710": {
+    "exclude": true,
+    "exclude_reason": "Utility za vođenje rezultata; nije lična navika.",
+    "name": "Virtual Scoreboard: Keep Score"
+  },
+  "1017813651": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka licenciranih video kurseva velike firme; čist sadržaj.",
+    "name": "The Great Courses"
+  },
+  "6760949346": {
+    "name": "AlarmFit: Stop Waking Up Late",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm bez dugmeta za odlaganje: gasi se tek kada kamera izbroji zadati broj sklekova ili čučnjeva, pa si budan i već si odradio mali trening.",
+    "specifics": [
+      "Ključna mehanika: alarm + izbor vežbe i broja ponavljanja, brojanje kamerom u realnom vremenu, bez snooze-a.",
+      "Šta je deljivo: snimak jutarnjih ponavljanja u pidžami, niz jutara bez kašnjenja (procena; u opisu nema deljenja).",
+      "Društveni sloj: nema ga u podacima.",
+      "Monetizacija: obavezna pretplata, korisnik pominje godišnji plan; cene se ne vide."
+    ],
+    "psych": "Trenje unapred: ne možeš ugasiti alarm dok se telo ne pokrene, a dan počinje malom pobedom. Dokaz: 'it really makes you get out of bed!!'",
+    "developer_type": "mali tim (MMCH Digital Solutions LLC, 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Detekcija poze na uređaju (Apple Vision / ML Kit pose), brojanje ponavljanja, AlarmKit (iOS 26) i AlarmManager/full-screen intent na Androidu, paywall. Najveći rizik: pouzdanost alarma kad je aplikacija ugašena i tačnost brojanja pri slabom svetlu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Moj alarm se ne gasi dok ne uradim 20 sklekova: dan 1 naspram dan 30.'",
+    "monetization": "Hard paywall, pretplata (godišnja se pominje); korisnici masovno odbijaju da plate 'za alarm'.",
+    "complaints": [
+      "Mora da se plati za osnovnu funkciju alarma (~5)",
+      "Detekcija ponavljanja nepouzdana, broji manje pa uradiš duplo (~1)",
+      "Alarm zvoni iako je isključen (~1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni alarm sa jednom vežbom",
+      "Pouzdanija detekcija osobe bez nameštanja telefona"
+    ],
+    "praise": [
+      "Zaista izbacuje iz kreveta (~3)",
+      "Spaja buđenje i fitnes naviku (~3)"
+    ],
+    "opportunity": "Freemium sa jednom besplatnom vežbom, niz jutara i nedeljni izazov sa prijateljima ('ko je ustao prvi'); fokus na pouzdanost alarma pre svega.",
+    "growth": "Izašla 22.4.2026, 735 ocena, ~4,25 ocene/dan; recenzije 30d 2 naspram 2. Brz start za novu aplikaciju, stabilan tempo.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/alarmfit-stop-waking-up-late/id6760949346",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1543340610": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za pametnu vagu (hardver), firma sa više aplikacija.",
+    "name": "RENPHO Health"
+  },
+  "689185915": {
+    "name": "AlgoApp - Flashcards",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Flashcard aplikacija tipa Anki, ali sa automatskim prevodom, izgovorom i AI generisanjem kartica, pa pravljenje špila traje minute umesto sati.",
+    "specifics": [
+      "Ključna mehanika: spaced repetition (FSRS), ocena težine kartice, dnevni limit pregleda u besplatnoj verziji.",
+      "Šta je deljivo: špilovi i statistika učenja (procena; slabo deljivo).",
+      "Društveni sloj: nema ga u podacima.",
+      "Monetizacija: freemium sa dnevnim limitom (smanjen sa 100 na 80), jednokratna kupovina ~30 USD i pretplata za unlimited."
+    ],
+    "psych": "Vidljiv napredak kroz ocene i statistiku po danima drži doslednost. Dokaz: 'being able to see how many cards you did for each day'.",
+    "developer_type": "mali tim (AlgoApp Inc, 1 aplikacija, ranije poznata kao AnkiApp; procena)",
+    "build_weeks": 8,
+    "build_notes": "Lokalna baza + sync između uređaja, FSRS algoritam, TTS, prevod i LLM za generisanje kartica, import CSV. Najveći rizik: sync i performanse na velikim špilovima, diferencijacija u odnosu na Anki/Quizlet.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Naučio sam 500 japanskih reči za 30 dana sa 10 minuta dnevno: evo kako izgleda moj grafikon.'",
+    "monetization": "Freemium sa dnevnim limitom, jednokratna kupovina ~30 USD i pretplata; deo korisnika prihvata, deo se buni zbog smanjenja besplatnog limita.",
+    "complaints": [
+      "Bagovi, padovi i spor rad posle update-a (~5)",
+      "Smanjen besplatni dnevni limit sa 100 na 80 (~3)",
+      "Prisilna prijava emailom i problemi sa kodom (~3)",
+      "Import CSV/AI špilova ne radi po dokumentaciji (~2)"
+    ],
+    "suggestions": [
+      "Ispravan CSV import sa automatskim prevodom",
+      "Vratiti prikaz promene ocene na kraju sesije",
+      "Popraviti dark mode",
+      "Prikaz pinyina sa tonovima"
+    ],
+    "praise": [
+      "FSRS i AI integracija bolji od Anki (~3)",
+      "Statistika po danima i ocena znanja (~2)",
+      "Godinama pouzdana za ispite i jezike (~3)"
+    ],
+    "opportunity": "Isti motor, ali sa nizom dana, ligama i izazovima sa drugarima za studente; generisanje špila iz fotografije beleški.",
+    "growth": "Od 2013, 20.037 ocena, ~4,2 ocene/dan prosečno; recenzije 30d 3 naspram 3. Zrela aplikacija, stabilna, bez znakova novog rasta.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/algoapp-flashcards/id689185915",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

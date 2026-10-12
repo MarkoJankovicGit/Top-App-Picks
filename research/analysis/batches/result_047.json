@@ -1,0 +1,240 @@
+{
+  "890017487": {
+    "exclude": true,
+    "exclude_reason": "Kockanje za pravi novac (pari-mutuel klađenje na konjske trke), licenciran i regulisan domen; nije lična navika.",
+    "name": "Horseplay Real Money Games"
+  },
+  "1593841717": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su novac i gift kartice (prag isplate 30 $); recenzije pune optužbi za neisplatu i reklama.",
+    "name": "Perfit: Walk to Earn Rewards"
+  },
+  "6761742680": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa isplatom novca/gift kartica; kineska firma, šablon sa reklamama, korisnici prijavljuju neisplatu.",
+    "name": "StepCoin: Walk & Earn money"
+  },
+  "6445913865": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija MLM brenda Unicity za njihove proizvode (Unimate, Balance); vrednost vezana za kupovinu proizvoda.",
+    "name": "Feel Great - Fasting Coach"
+  },
+  "1068150019": {
+    "exclude": true,
+    "exclude_reason": "Influenserski brend (Coach Nadz, GCC) sa velikom bibliotekom sadržaja (3.000 treninga, 2.000 recepata).",
+    "name": "Gymnadz - Women's Fitness App"
+  },
+  "1503437368": {
+    "exclude": true,
+    "exclude_reason": "Party igra pogađanja, nije lična navika ni disciplina.",
+    "name": "Charades & Headbands Game"
+  },
+  "6468394305": {
+    "name": "Protein Tracker.",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Brojač kalorija sveden na jednu metriku: samo grami proteina, bez naloga, bez reklama i bez baze namirnica. Ceo dan se svodi na jedan progress bar do cilja.",
+    "specifics": [
+      "Ključna mehanika: dnevni cilj u gramima, unos direktno/po 100 g/po porciji, preseti obroka, widget sa preostalim gramima",
+      "Šta je deljivo: slabo; nema deljivog formata (procena)",
+      "Društveni sloj: ne postoji",
+      "Monetizacija: Pro pretplata (AI procena proteina sa fotografije, iCloud sync, Apple Health); cene se ne vide u paketu"
+    ],
+    "psych": "Jedna jasna metrika i dnevni progress bar daju osećaj kontrole bez toksičnog brojanja kalorija. Dokaz: 'i like this cuz its just a log for me and I dont have to worry about the calories'.",
+    "developer_type": "solo (Kai Oelfke, lično ime prodavca; 7 aplikacija)",
+    "build_weeks": 3,
+    "build_notes": "Lokalna baza, widgeti, podsetnici, HealthKit/Health Connect za proteine, opcioni AI za procenu sa fotografije (vision API). Nema backend-a osim sync-a. Najveći rizik: nizak prag ulaska, lako se kopira, teško se diferencira.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Prestala sam da brojim kalorije i počela da brojim samo proteine, evo šta se desilo za 30 dana.'",
+    "monetization": "Freemium: osnovno besplatno bez reklama, Pro pretplata za AI i sync (cene nisu u paketu).",
+    "complaints": [
+      "Nema baze namirnica, protein se mora guglati (~4 pominjanja)",
+      "Dugme za izmenu cilja ne reaguje (1)",
+      "Nema beleški uz unos (1)",
+      "Interfejs mogao bi biti intuitivniji (1)"
+    ],
+    "suggestions": [
+      "Automatsko prepoznavanje proteina u namirnici",
+      "Polje za beleške uz unos",
+      "Više prilagođavanja"
+    ],
+    "praise": [
+      "Jednostavnost, samo protein (većina 5* recenzija)",
+      "Bez naloga i bez reklama",
+      "Brz unos i preseti"
+    ],
+    "opportunity": "Proteinski cilj kao Gen Z gym-bro/GLP-1 trend: dodati niz dana, foto-unos i deljivu dnevnu karticu 'hit my protein' sa prijateljima. Bez toga nema viralnog sloja.",
+    "growth": "Izlazak 2023-10, 1.793 ocene, oko 1,63 ocene/dan; recenzije 30d 8 naspram 3 u prethodnih 30d, što govori da raste organski bez praćenja.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/protein-tracker/id6468394305",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6762981226": {
+    "name": "Rizely: Snooze Alarm Clock",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm za teške spavače koji ne prestaje dok ne završiš zadatak (protresanje telefona ili matematika), uz mogućnost da snimiš sopstveni zvuk alarma.",
+    "specifics": [
+      "Ključna mehanika: zadatak za gašenje alarma (shake, matematika), sopstveni snimljeni zvuk",
+      "Šta je deljivo: snimljeni zvuk alarma i 'pokušaj da me probudiš' video (procena)",
+      "Društveni sloj: ne postoji; recenzija pominje buđenje oca, što ukazuje na potencijal za 'alarm od prijatelja'",
+      "Monetizacija: nije vidljiva u paketu; besplatno"
+    ],
+    "psych": "Trenje pri gašenju alarma prebacuje odluku sa pospanog sebe na zadatak. Dokaz: 'I used to be someone who slept through their alarms all the time but I never have yet with Rizely'.",
+    "developer_type": "mali tim ili mala fabrika (APPSPRO LTD, 4 aplikacije; procena)",
+    "build_weeks": 4,
+    "build_notes": "AlarmKit (iOS 26) za pouzdan alarm, Android AlarmManager/full-screen intent, snimanje zvuka, akcelerometar. Najveći rizik: pouzdanost alarma kad je app zatvoren ili telefon utišan (jedna recenzija: alarm nije zazvonio, pa zazvonio u školi).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Alarm koji ne mogu da ugasim dok ne rešim zadatak: dan 1 naspram dana 7.'",
+    "monetization": "Nije vidljiva; app deluje besplatno. Prostor za pretplatu na teže zadatke i zvukove.",
+    "complaints": [
+      "Alarm nije zazvonio na vreme, zazvonio kasnije u školi (1)",
+      "Mali uzorak recenzija (7), malo jasnih žalbi"
+    ],
+    "suggestions": [
+      "Nema eksplicitnih predloga u uzorku"
+    ],
+    "praise": [
+      "Stvarno budi i drži budnim (3)",
+      "Besplatno",
+      "Zabavni zadaci"
+    ],
+    "opportunity": "Kategorija je prenatrpana (Alarmy). Zaokret: alarm koji ti postavlja i snima prijatelj, ili zadatak 'fotografiši lavabo/sunce', uz niz ranih buđenja i deljivu jutarnju karticu.",
+    "growth": "Izlazak 2026-05-20, 235 ocena za oko 145 dana, oko 1,62 ocene/dan; recenzije 2 naspram 3, premalo podataka za trend.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 1,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/rizely-snooze-alarm-clock/id6762981226",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1442285041": {
+    "exclude": true,
+    "exclude_reason": "Influenserski brend (1,9 mil. pratilaca na Instagramu) sa stalnom produkcijom profesionalnog video sadržaja (5 novih treninga nedeljno).",
+    "name": "Alexia Clark"
+  },
+  "1394371125": {
+    "exclude": true,
+    "exclude_reason": "Platforma za grupnu komunikaciju (timovi, klubovi, škole); utility, nije lična navika.",
+    "name": "GroupSpot"
+  },
+  "6670797630": {
+    "exclude": true,
+    "exclude_reason": "Medijski sadržaj za sportsko klađenje; čisti sadržaj i klađenje.",
+    "name": "VSiN Watch"
+  },
+  "6740924171": {
+    "name": "Pattrn - Discipline Tracker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Habit tracker uokviren kao 'trening discipline' sa 60-dnevnim izazovom, Focus Score metrikom i AI agentom koji pravi raspored i kaže ti gde grešiš.",
+    "specifics": [
+      "Ključna mehanika: 60-day challenge, nizovi po navici, Focus Score i Precision Rate, AI coach chat",
+      "Šta je deljivo: Focus Score i dan izazova (procena, nije potvrđeno da postoji share)",
+      "Društveni sloj: ne postoji",
+      "Monetizacija: pretplata za AI, widgete, milestones; deo korisnika prijavljuje tvrd paywall odmah posle registracije"
+    ],
+    "psych": "Nizovi po navici i identitet 'disciplinovane osobe' ('lock in') pogađaju Gen Z self-improvement narativ. Dokaz: 'this app has streaks for each habit so you get motivated to not break your streak'.",
+    "developer_type": "mali tim (brazilska firma sa ličnim imenom osnivača, 3 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Habit tracker + widgeti, backend za nalog, LLM API za coach-a sa kontekstom navika, notifikacije 'off track'. Najveći rizik: kvalitet AI saveta (žalba 'completely irrelevant suggestions') i trošak LLM poziva.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Dan 1 od 60 dana discipline: AI mi je rekao tačno gde gubim vreme.'",
+    "monetization": "Freemium/pretplata; korisnici je delimično odbijaju (paywall na ulazu), ali mnogi hvale besplatni deo.",
+    "complaints": [
+      "Paywall odmah posle registracije, ne može da se proba (2)",
+      "AI daje nebitne predloge (1)",
+      "Bagovito, treba više ažuriranja (1)"
+    ],
+    "suggestions": [
+      "Svetla tema",
+      "Dnevnik i XP sistem",
+      "Bolja podrška za navike koje se ponavljaju tokom dana"
+    ],
+    "praise": [
+      "Dizajn i widgeti",
+      "Nizovi po navici motivišu",
+      "AI pravi realan raspored"
+    ],
+    "opportunity": "Dodati deljivu karticu napretka 60-dnevnog izazova i grupni izazov sa prijateljima; jasan besplatni nivo pre paywalla.",
+    "growth": "Izlazak 2025-02-13, 969 ocena, oko 1,6 ocena/dan; recenzije 2 naspram 1, stabilno nisko.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pattrn-discipline-tracker/id6740924171",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1602312365": {
+    "exclude": true,
+    "exclude_reason": "Klinički CBT-I program za nesanicu razvijen sa psiholozima; medicinski/regulisan domen i veliki stručni sadržaj.",
+    "name": "Stellar Sleep: Insomnia CBT"
+  },
+  "1522259907": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra (taktički RPG), nije lična navika.",
+    "name": "Friends & Dragons:Tactical RPG"
+  },
+  "6760624896": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa isplatom novca (prag 2 mil. poena za 200 $); korisnici prijavljuju neisplatu; kineska firma.",
+    "name": "CoinWalk - Walk & Earn"
+  }
+}

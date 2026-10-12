@@ -1,0 +1,305 @@
+{
+ "6738506984": {
+  "exclude": true,
+  "exclude_reason": "Osnovna vrednost je zarada novca (offerwall: igre, ponude, pretplate), ne kretanje; recenzije potvrđuju da hodanje donosi cente, a novac dolazi iz igara. Blisko finansijama, uz isplate, KYC i offerwall partnerstva.",
+  "name": "Scrambly: Earn Money Walking"
+ },
+ "6770503071": {
+  "exclude": true,
+  "exclude_reason": "Casual puzzle igra, nije lična navika; prodavac ima 10 aplikacija (fabrika igara).",
+  "name": "Puzzle Time: Brainy School"
+ },
+ "6746144481": {
+  "exclude": true,
+  "exclude_reason": "Utility za izbor obroka u restoranima, nema mehaniku doslednosti; zavisi od velike baze menija i nutritivnih podataka (procena: licencirani ili agregirani podaci).",
+  "name": "MenuFit - Healthy Eating Out"
+ },
+ "6754593077": {
+  "exclude": true,
+  "exclude_reason": "Open-world RPG velikog studija (Hotta Studio); igra, ne može se napraviti za 2 meseca.",
+  "name": "NTE: Neverness to Everness"
+ },
+ "6751793611": {
+  "exclude": true,
+  "exclude_reason": "AI chat za savete o vezama i samopouzdanju (savetodavni, kvazi-terapijski sadržaj), nema mehaniku navike ili discipline.",
+  "name": "Magneta - Confidence & Clarity"
+ },
+ "6749311894": {
+  "exclude": true,
+  "exclude_reason": "Trivia/puzzle igra, prodavac ima 10 aplikacija (fabrika igara).",
+  "name": "Quiz Blitz: Mind Games"
+ },
+ "6766739255": {
+  "exclude": true,
+  "exclude_reason": "Dress-up igra, nije self-improvement; prodavac ima 8 aplikacija.",
+  "name": "Rebel Glam: Dress Up Games"
+ },
+ "6504188939": {
+  "exclude": true,
+  "exclude_reason": "Poznat brend (Sybo Games), igra.",
+  "name": "Subway Surfers City"
+ },
+ "6463793132": {
+  "exclude": true,
+  "exclude_reason": "Generički šablon fitness aplikacije; prodavac ima 10 aplikacija (fabrika aplikacija), zahteva biblioteku video vežbi.",
+  "name": "FitMe - Lazy Workout at Home"
+ },
+ "6741046019": {
+  "exclude": true,
+  "exclude_reason": "Rocapine je studio sa više sličnih aplikacija (6 u nalogu); verski okvir (AI bible chat) je osnovna vrednost.",
+  "name": "Unchaind: Overcome Lust"
+ },
+ "6744178534": {
+  "exclude": true,
+  "exclude_reason": "Medicinski tracker terapije (GLP-1 lekovi), klinički/regulisan domen.",
+  "name": "MeAgain: GLP-1 Tracker App"
+ },
+ "6746537171": {
+  "name": "Unrot: Earn your Screen Time",
+  "exclude": false,
+  "list": "A",
+  "principle": "Nagrada za akciju",
+  "differentiator": "Blokator aplikacija, ali umesto zabrane uvodi razmenu: stvarne aktivnosti (šetnja, učenje, čišćenje) donose novčiće kojima se otključavaju TikTok, Instagram i igre.",
+  "specifics": [
+   "Ključna mehanika: tajmer ili foto dokaz aktivnosti -> novčići -> vreme u blokiranim aplikacijama; skrolovanje troši novčiće po minutu",
+   "Šta je deljivo: pre/posle screen time (recenzent: sa 10h na 2-3h dnevno), slatki 'buddy' lik (procena)",
+   "Društveni sloj: ne vidi se u podacima, nema prijatelja ni rang liste",
+   "Monetizacija: pretplata, godišnji plan pominje se u recenzijama; cena nije vidljiva"
+  ],
+  "psych": "Zarađena nagrada (Premackov princip): skrolovanje postaje plata za obavljenu stvar umesto izvora krivice. Dokaz: 'it makes my scroll time feel worth it since i have to do chores'.",
+  "developer_type": "mali tim (procena): Unrot OU, 1 aplikacija; recenzent tvrdi da je isti developer izbacio i Scrollwall",
+  "build_weeks": 6,
+  "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) uz Apple entitlement; Android UsageStats/Accessibility; tajmer, foto dokaz, streak, virtuelni lik, lagan backend za nalog i pretplatu. Najveći rizik: pouzdanost ponovnog zaključavanja (recenzije prijavljuju da se aplikacije ne zaključaju ponovo) i odobrenje entitlementa.",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": true,
+   "creator_format": true,
+   "shareable": false
+  },
+  "marketability_score": 4,
+  "hook": "'Ne mogu da otvorim TikTok dok ne operem sudove' - snimak zaključanog ekrana, pa sudovi, pa otključavanje.",
+  "monetization": "Pretplata (mesečna/godišnja, cene nisu vidljive); deo korisnika zamera što nije besplatna (~3).",
+  "complaints": [
+   "Redizajn ('baterija' umesto novčića, uklonjeni questovi) razljutio pretplatnike (~14)",
+   "Bagovi: aplikacije se ne zaključaju ponovo ili ostaju otključane (~4)",
+   "Nema besplatne verzije (~3)",
+   "Osećaj prevare: ista funkcija prebačena u novu aplikaciju Scrollwall (~1)"
+  ],
+  "suggestions": [
+   "Automatsko zarađivanje dok je telefon odložen ili na punjaču, bez ručnog pokretanja (ADHD korisnici zaborave)",
+   "Raspored težine: radnim danima 'hard mode', vikendom 'easy mode'",
+   "Više opcija za količinu novčića i trajanje skrolovanja",
+   "Vratiti questove i 'Get Rich Quick' funkcije"
+  ],
+  "praise": [
+   "Drastično smanjen screen time, bolji fokus i mentalno zdravlje",
+   "Ne može da se vara, za razliku od Apple Screen Time",
+   "Developeri slušaju i vratili su staru verziju (~5)"
+  ],
+  "opportunity": "Dodati društveni sloj (prijatelji, zajednički nizovi, rang po zarađenom vremenu) i pasivno zarađivanje kad je telefon odložen; stabilan proizvod bez naglih redizajna.",
+  "growth": "Izlazak 2025-06-04, ~115 ocena dnevno; recenzije 69 u 30d naspram 17 prethodnih (skok delom zbog kontroverznog update-a). Snažna i trajna potražnja.",
+  "scores": {
+   "marketabilityVirality": 5,
+   "marketingGap": 3,
+   "buildEase": 4,
+   "voiceOfCustomer": 5,
+   "monetization": 4,
+   "principleFit": 5
+  },
+  "confidence": "visoka",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/unrot-earn-your-screen-time/id6746537171",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "6758021281": {
+  "name": "Wayk: Alarm Clock to Wake Up",
+  "exclude": false,
+  "list": "A",
+  "principle": "Obaveza unapred i trenje",
+  "differentiator": "Alarm koji se ne gasi dok ne završiš misiju (sklekovi, slika neba, namešten krevet, pronađi predmet), uz nizove jutara.",
+  "specifics": [
+   "Ključna mehanika: misija se bira uveče, alarm se gasi tek posle završene misije (foto ili aktivnost)",
+   "Šta je deljivo: snimak buđenja i traženja predmeta po stanu, niz jutara (procena)",
+   "Društveni sloj: nema u podacima; samo streak i jutarnji uvidi",
+   "Monetizacija: obavezna pretplata posle onboardinga, ~$20-30 godišnje prema recenzijama"
+  ],
+  "psych": "Obaveza unapred: odluka se donosi uveče, a trenje ujutru sprečava snooze. Dokaz: 'I used to set 20 alarms and go right back to sleep'.",
+  "developer_type": "mali tim (procena): Dialed Labs Inc., 2 aplikacije",
+  "build_weeks": 5,
+  "build_notes": "AlarmKit na iOS 26+ (bez njega pouzdan alarm je glavni rizik), Android AlarmManager i full-screen intent; on-device Vision za prepoznavanje predmeta i foto misije; brojanje sklekova kamerom; minimalan backend. Najveći rizik: pouzdanost alarma i jačine zvuka (žalbe da se nije oglasio).",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": true,
+   "creator_format": true,
+   "shareable": false
+  },
+  "marketability_score": 4,
+  "hook": "'Alarm me tera da uslikam frižider pre nego što dozvoli da ga ugasim' - POV buđenja u 6h.",
+  "monetization": "Hard paywall pretplata, ~$30 godišnje (pominje se i $20); trial 3-7 dana, naplata preko Paddle prema jednoj recenziji.",
+  "complaints": [
+   "Mora da se plati, nema besplatne verzije (~12)",
+   "Neočekivana naplata posle triala, teško otkazivanje (~6)",
+   "Dug upitnik pre nego što se otkrije cena (~2)",
+   "Podešavanja: ne može da se obriše alarm ili smanji glasnoća (~2)"
+  ],
+  "suggestions": [
+   "Besplatna verzija sa reklamama",
+   "Niža cena",
+   "Kontrola jačine i brisanje alarma",
+   "Blokiranje aplikacija samo u dane kad je alarm podešen"
+  ],
+  "praise": [
+   "Teški spavači konačno ustaju na vreme (~10)",
+   "Misije razbude mozak i grade jutarnju rutinu",
+   "Bolje od Alarmy matematičkih zadataka"
+  ],
+  "opportunity": "Freemium sa jednom besplatnom misijom i transparentnim trialom; društveni sloj (prijatelj vidi da li si ustao, grupni jutarnji izazov) i rutina posle misije.",
+  "growth": "Izlazak 2026-02-03, ~79 ocena dnevno; recenzije 136 u 30d naspram 64 prethodnih - ubrzan rast, verovatno uz plaćene reklame (recenzije pominju 'ads I see').",
+  "scores": {
+   "marketabilityVirality": 4,
+   "marketingGap": 2,
+   "buildEase": 4,
+   "voiceOfCustomer": 4,
+   "monetization": 3,
+   "principleFit": 4
+  },
+  "confidence": "visoka",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/wayk-alarm-clock-to-wake-up/id6758021281",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "6448081563": {
+  "name": "Liftoff - Ranked Gym Workouts",
+  "exclude": false,
+  "list": "B",
+  "principle": "Takmičenje i rang",
+  "differentiator": "Gym tracker koji svakoj vežbi i telu dodeljuje rang kao u igrama (do 'Titan'), uz globalne liste i takmičenje sa prijateljima.",
+  "specifics": [
+   "Ključna mehanika: unos serija i težina -> rang po vežbi i ukupni rang, streak",
+   "Šta je deljivo: rang bedž i bodygraph (procena)",
+   "Društveni sloj: praćenje prijatelja, globalne liste, community izazovi",
+   "Monetizacija: pretplata ~$80 godišnje (pominje se i $20 plan), shop sa dnevnim ponudama"
+  ],
+  "psych": "Rang i status kao u igrama daju jasan sledeći cilj. Dokaz: 'just making me wanna climb till i get titan'.",
+  "developer_type": "mali tim (procena): Liftoff Labs Inc., 2 aplikacije; tvrdi 4M korisnika",
+  "build_weeks": 8,
+  "build_notes": "Biblioteka 600+ vežbi (sadržaj i animacije najveći trošak), standardi snage za rangove, backend za društveni sloj i liste, HealthKit/Health Connect, generator treninga (AI). Rizik: obim sadržaja i kalibracija rangova.",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": true,
+   "creator_format": true,
+   "shareable": true
+  },
+  "marketability_score": 5,
+  "hook": "'Koji si rang u teretani?' - influenser radi bench i otkriva rang.",
+  "monetization": "Pretplata ~$80 godišnje uz neočekivanu naplatu posle triala; odnedavno ograničena besplatna upotreba prema jednoj recenziji.",
+  "complaints": [
+   "Cena i neočekivana naplata pretplate (~6)",
+   "Bagovi, prazan ekran, sporost, gubljenje rutina (~5)",
+   "Predug onboarding (~3)",
+   "Generator ponavlja iste vežbe (~2)"
+  ],
+  "suggestions": [
+   "Pauza treninga",
+   "Napredne calisthenics vežbe (muscle-up, front lever, false grip)",
+   "Rangovi za trčanje i traku",
+   "Brz ulaz u aplikaciju, detalji kasnije"
+  ],
+  "praise": [
+   "Rang sistem i igrifikacija ('Duolingo za fitnes')",
+   "Dugi nizovi (400+ dana)",
+   "Veliki izbor vežbi i praćenje napretka"
+  ],
+  "opportunity": "Lakša i brža verzija fokusirana na rang + prijatelje (rang lista ekipe iz teretane), sa poštenim freemium modelom i deljivom 'rank card' karticom.",
+  "growth": "Izlazak 2023-04-20, ~78 ocena dnevno kroz 3 godine; recenzije 63 u 30d naspram 70 - stabilno, zrela aplikacija.",
+  "scores": {
+   "marketabilityVirality": 5,
+   "marketingGap": 4,
+   "buildEase": 3,
+   "voiceOfCustomer": 4,
+   "monetization": 3,
+   "principleFit": 5
+  },
+  "confidence": "srednja",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/liftoff-ranked-gym-workouts/id6448081563",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "6736654449": {
+  "name": "Micro Learning - SmartyMe",
+  "exclude": false,
+  "list": "B",
+  "principle": "Igrifikacija učenja",
+  "differentiator": "Mikroučenje od 15 minuta dnevno kroz kartice i interaktivne priče sa izborom odgovora za vežbanje komunikacije i small talka, uz analizu odgovora.",
+  "specifics": [
+   "Ključna mehanika: kratke lekcije (čitanje ili slušanje) i branching scenariji sa povratnom informacijom",
+   "Šta je deljivo: slabo (procena)",
+   "Društveni sloj: nema u podacima",
+   "Monetizacija: pretplata posle dugog upitnika, bez triala prema recenzijama"
+  ],
+  "psych": "Male dnevne doze i vidljiv napredak, ali slab niz i bez društvenog pritiska. Dokaz: 'When I can remember to login this is helpful. Small changes work.'",
+  "developer_type": "nepoznato: ApexTech Ltd, 1 aplikacija; dug quiz-funnel onboarding sugeriše plaćeni UA (procena)",
+  "build_weeks": 9,
+  "build_notes": "Glavni posao je sadržaj više oblasti (fizika, elektronika, komunikacija), verovatno generisan AI-jem; potreban QA sadržaja. Branching scenariji + LLM analiza odgovora. Rizik: tačnost sadržaja (recenzije: greške, 'AI slop').",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": false,
+   "creator_format": true,
+   "shareable": false
+  },
+  "marketability_score": 2,
+  "hook": "'Vežbam small talk 5 minuta dnevno' - scena neprijatnog razgovora, pa bolji odgovor.",
+  "monetization": "Pretplata (godišnja), bez triala, posle upitnika; korisnici zameraju netransparentnost.",
+  "complaints": [
+   "Paywall posle dugog upitnika, bez triala i refunda (~6)",
+   "Netačan ili AI sadržaj (~4)",
+   "Sporost, bagovi, pretplata nije prepoznata (~3)",
+   "Nema glasa, mali font, nema zuma (~3)"
+  ],
+  "suggestions": [
+   "Ozvučeni scenariji",
+   "Zum ilustracija i veći font",
+   "Više animacija i testova primene",
+   "Teža pitanja"
+  ],
+  "praise": [
+   "Kratke, jasne lekcije sa dobrim vizuelima",
+   "Brzo osvežavanje znanja za 5 minuta",
+   "Jednostavno i intuitivno"
+  ],
+  "opportunity": "Suziti na jednu temu za Gen Z (npr. socijalne veštine) sa glasovnim scenarijima, nizovima i deljivim rezultatom; transparentan trial.",
+  "growth": "Izlazak 2024-11-09, ~83 ocena dnevno; recenzije 200 u 30d naspram 0 - podatak verovatno ograničen limitom uzorka, nepouzdan.",
+  "scores": {
+   "marketabilityVirality": 2,
+   "marketingGap": 2,
+   "buildEase": 2,
+   "voiceOfCustomer": 4,
+   "monetization": 3,
+   "principleFit": 2
+  },
+  "confidence": "niska",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/micro-learning-smartyme/id6736654449",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ }
+}

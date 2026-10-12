@@ -1,0 +1,464 @@
+{
+  "1522854086": {
+    "exclude": true,
+    "exclude_reason": "Firma sa 10 aplikacija (Atmana Tech - FZCO), oznaka praćenja; tehnički zahtevno filtriranje sadržaja preko VPN-a i ekstenzija, recenzije pominju naplatu od 50 do 150 USD. Nije mali developer.",
+    "name": "BlockerX:Adult Content Blocker"
+  },
+  "588868907": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (35 godina), sadržaj za decu i licencirani edukativni program; nije lična navika za publiku 18–24.",
+    "name": "Hooked on Phonics Learning"
+  },
+  "1515753232": {
+    "exclude": true,
+    "exclude_reason": "Velika firma i poznat brend (15M+ korisnika, MobileSoft s.r.o., 6 aplikacija, oznaka praćenja); čist utility blokator.",
+    "name": "AppBlock: Block Apps, Websites"
+  },
+  "6498315234": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža za upoznavanje prijatelja uživo; osnovna vrednost nije navika ni disciplina (bliže dating/social kategoriji).",
+    "name": "Kndrd: Make Friends IRL"
+  },
+  "6737028992": {
+    "name": "JustStretch | Flex & Mobility",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Kratke vođene rutine istezanja (jutro, pauza za stolom, pred spavanje) sa tajmerom i streak trackerom; bez pravog zaokreta u odnosu na kategoriju.",
+    "specifics": [
+      "Ključna mehanika: gotove i custom rutine sa audio, slikom ili videom i tajmerom",
+      "Šta je deljivo: malo",
+      "Društveni sloj: nema",
+      "Monetizacija: planovi preko web funnela (18,99 USD) uz dodatne upsell pretplate (34,99, 30,99, 38,95 USD)"
+    ],
+    "psych": "Mala dnevna navika sa nizom. Dokaz: 'a good feature is a streak tracker to keep track of how ma[ny days]'.",
+    "developer_type": "mali tim/firma (TechPioneers Limited, 3 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Biblioteka ilustracija/videa vežbi, tajmer, nizovi, paywall. Najveći rizik: produkcija sadržaja vežbi.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'5 minuta istezanja za stolom i leđa više ne bole.'",
+    "monetization": "Pretplata preko web funnela sa skrivenim upsell pretplatama.",
+    "complaints": [
+      "Neovlašćene i ponavljane naplate, upsell pretplate (9)",
+      "Teško otkazivanje (4)",
+      "Nema free triala (1)"
+    ],
+    "suggestions": [
+      "Jasna naplata i lako otkazivanje"
+    ],
+    "praise": [
+      "Jednostavne i jasne instrukcije",
+      "Kratke sesije koje se uklapaju u dan",
+      "Brz osećaj olakšanja"
+    ],
+    "opportunity": "Istezanje kao 'ritual' sa društvenim izazovom i poštenim modelom naplate bi bila čista verzija; sama kategorija je zasićena.",
+    "growth": "3.61 ocena/dan od izlaska (2024-12-12, 669 dana, 2411 US ocena, prosek 4.66); recenzije 30d: 5 naspram 7 prethodnih 30d. Mlada aplikacija sa visokim tempom ocena; rast verovatno iz plaćenog web funnela (oznaka praćenja, upsell).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/juststretch-flex-mobility/id6737028992",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6443597557": {
+    "exclude": true,
+    "exclude_reason": "Igra (RPG), nije self-improvement.",
+    "name": "StarSavior"
+  },
+  "6760252122": {
+    "name": "1% Alarm: Scan to Wake Up",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji se gasi tek kad skeniraš unapred izabran predmet, uradiš sklekove, čučnjeve ili opereš zube. Brendiran kao 'top 1%' disciplina za Gen Z, ne kao još jedan alarm.",
+    "specifics": [
+      "Ključna mehanika: izazov (skeniranje predmeta, sklekovi, čučnjevi, četkica) mora da se završi da bi alarm prestao",
+      "Šta je deljivo: snimak jutarnjeg 'mučenja' i niz ranih buđenja (procena, nije vidljivo u opisu)",
+      "Društveni sloj: ne postoji u opisu",
+      "Monetizacija: obavezna pretplata posle kviza, oko 50 USD godišnje, 3-dnevni trial"
+    ],
+    "psych": "Obaveza unapred: odluku donosiš uveče, a jutarnje ja nema izlaz. Dokaz: 'Hate it. Makes me wake up' (5 zvezdica).",
+    "developer_type": "solo (Zalan Zelles, lično ime prodavca, 2 aplikacije, gmail adresa za podršku)",
+    "build_weeks": 4,
+    "build_notes": "AlarmKit (iOS) i pouzdan alarm na Androidu, kamera i on-device prepoznavanje objekta i pokreta (Vision/ML Kit), paywall. Najveći rizik: pouzdanost alarma (recenzije: alarm nije zazvonio).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moj alarm me ne pušta dok ne uradim 20 sklekova' + snimak kako u 6 ujutru radiš sklekove u mraku.",
+    "monetization": "Pretplata, oko 50 USD/god, hard paywall posle onboarding kviza, 3 dana trial.",
+    "complaints": [
+      "Hard paywall posle kviza, nema besplatne verzije (5 od 13)",
+      "Alarm nije zazvonio (2)",
+      "Naplata posle triala iako nije radilo (1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo (bar jedan izazov)",
+      "Jasno reći cenu pre kviza",
+      "Podsetnik pre isteka triala"
+    ],
+    "praise": [
+      "Stvarno te izbaci iz kreveta",
+      "Motivacioni ton",
+      "Prilagodljivost izazova"
+    ],
+    "opportunity": "Besplatan jedan izazov + pretplata za ostale, uz niz buđenja i deljivu 'wake-up' karticu sa vremenom ustajanja; pouzdanost alarma kao glavni prioritet.",
+    "growth": "3.59 ocena/dan od izlaska (2026-03-25, 201 dana, 720 US ocena, prosek 4.68); recenzije 30d: 0 naspram 1 prethodnih 30d. Nova aplikacija sa visokim tempom ocena za solo developera; mali uzorak recenzija, momentum pada.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/1-alarm-scan-to-wake-up/id6760252122",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1515542137": {
+    "exclude": true,
+    "exclude_reason": "Igra (roguelike RPG), nije self-improvement.",
+    "name": "Rogue with the Dead: Idle RPG"
+  },
+  "6747604910": {
+    "name": "Awake: Math Puzzle Alarm Clock",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm sa misijama (koraci, sklekovi, matematika, puzle, skeniranje bar-koda) plus jutarnji brifing sa vremenom, kalendarom i podacima o spavanju. Deo ekosistema aplikacije Structured.",
+    "specifics": [
+      "Ključna mehanika: misija mora da se završi da bi alarm prestao, Wake-Up Check proverava da li si budan",
+      "Šta je deljivo: malo; jutarnji brifing je ličan",
+      "Društveni sloj: nema",
+      "Monetizacija: Awake Pro, lifetime oko 60 USD; custom zvuci i deo misija su iza paywalla"
+    ],
+    "psych": "Trenje u trenutku buđenja: telo mora da se pokrene pre nego što mozak odustane. Dokaz: 'Most annoying alarm ever! BUT, that's a good thing!'",
+    "developer_type": "mali tim (unorderly GmbH, 4 aplikacije, autori Structured)",
+    "build_weeks": 6,
+    "build_notes": "AlarmKit, HealthKit (san), kalendar, kamera za bar-kod, brojač koraka, widgeti. Najveći rizik: alarmi koji zvone posle brisanja aplikacije i pogrešni termini (često u recenzijama).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Probao sam svaki alarm, ovaj me tera da prošetam 200 koraka pre nego što utihne.'",
+    "monetization": "Freemium sa Pro pretplatom/lifetime oko 60 USD.",
+    "complaints": [
+      "Alarm nastavlja da zvoni posle brisanja aplikacije (5)",
+      "Bugovi: zvoni u pogrešno vreme, misije ne rade (5)",
+      "Previše funkcija iza paywalla (4)",
+      "Problemi sa Apple Watch i Dynamic Island (2)"
+    ],
+    "suggestions": [
+      "Više nezavisnih alarma bez rasporeda",
+      "Hodanje ili svetlo kao besplatna misija",
+      "Bolji kontrast brifinga"
+    ],
+    "praise": [
+      "Stvarno budi teške spavače",
+      "Jutarnji brifing",
+      "Privatnost u odnosu na Alarmy"
+    ],
+    "opportunity": "Isti koncept uz stabilnost alarma i društveni sloj (prijatelj vidi da li si ustao) pravi razliku; brifing nije potreban za Gen Z.",
+    "growth": "3.56 ocena/dan od izlaska (2025-09-15, 392 dana, 1393 US ocena, prosek 4.7); recenzije 30d: 1 naspram 3 prethodnih 30d. Solidan tempo za godinu dana na tržištu, ali malo recenzija u poslednjih 60 dana; rast verovatno iz cross-promocije Structured.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/awake-math-puzzle-alarm-clock/id6747604910",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1434101832": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Open Education), kurs engleskog sa profesionalnim nastavnicima i velikom bibliotekom sadržaja; ne može za 2 meseca.",
+    "name": "Open English: Learn English"
+  },
+  "1593891243": {
+    "name": "(Not Boring) Habits",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Habit tracker bez nizova i krivice: cilj je 60 ponavljanja, a ne neprekinut niz. Nagrađivan dizajn, zvuci i skinovi kao glavni doživljaj.",
+    "specifics": [
+      "Ključna mehanika: drži dugme da označiš ponavljanje, napredak do 60",
+      "Šta je deljivo: estetika i skinovi (procena)",
+      "Društveni sloj: nema u opisu",
+      "Monetizacija: Super!Boring članarina za svih 5 aplikacija, recenzije pominju 59 USD; besplatno 1–2 navike"
+    ],
+    "psych": "Vidljiv napredak bez straha od gubitka niza; 'No streaks. No guilt.' Dokaz: 'It makes boring tasks not so boring.'",
+    "developer_type": "mali tim (Not Boring Software LLC, 6 aplikacija sa zajedničkim dizajnom; dobitnik Apple Design Award)",
+    "build_weeks": 5,
+    "build_notes": "Lokalno skladištenje, widgeti, podsetnici, zvuk i animacije. Najveći rizik: kvalitet dizajna je glavni proizvod, teško ga je dostići.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Zaboravi nizove: navika se lepi posle 60 ponavljanja, ne 21 dana.'",
+    "monetization": "Članarina za paket aplikacija (oko 59 USD), besplatno samo 1–2 navike.",
+    "complaints": [
+      "Samo jedna ili dve navike besplatno (12)",
+      "Agresivno guranje pretplate (4)",
+      "UI problemi na ekranu (3)"
+    ],
+    "suggestions": [
+      "3 besplatne navike",
+      "Kalendarski prikaz napretka",
+      "Import/export",
+      "Apple Watch aplikacija"
+    ],
+    "praise": [
+      "Dizajn i animacije",
+      "Jednostavnost",
+      "Bez reklama i praćenja"
+    ],
+    "opportunity": "Koncept '60 ponavljanja' sa društvenim slojem i velikodušnijim free nivoom.",
+    "growth": "3.54 ocena/dan od izlaska (2021-12-14, 1763 dana, 6248 US ocena, prosek 4.78); recenzije 30d: 5 naspram 0 prethodnih 30d. Stara aplikacija sa stabilnim tempom; skok recenzija u poslednjih 30 dana verovatno zbog promene paywalla (negativne recenzije).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/not-boring-habits/id1593891243",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6465700009": {
+    "name": "Focus Hero: Goals & Habits",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Pomodoro tajmer u kome se fokus vreme pretvara u energiju za pravu pixel-art RPG avanturu; igra je zaključana dok ne odradiš sate fokusa.",
+    "specifics": [
+      "Ključna mehanika: završen fokus sesija = XP, loot i Focus Energy za istraživanje igre",
+      "Šta je deljivo: lik, level i šuma (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata oko 5 USD/mes ili 60 USD/god, 7 dana trial, bez free nivoa"
+    ],
+    "psych": "Nagrada za akciju: igra je dopamin koji se zaradi radom. Dokaz: 'As someone with ADHD this seriously helped me, super fun and addictive!!'",
+    "developer_type": "solo (Focus Hero Ltd; recenzije: 'one dev team', 3 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "Pomodoro, Screen Time API za strict mod, plus 2D igra u game engineu (pixel art, borba, platforming). Najveći rizik: obim igre i sadržaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Ne mogu da igram svoju omiljenu igru dok ne učim 2 sata – i to radi.'",
+    "monetization": "Pretplata ~5 USD/mes ili ~60 USD/god, bez besplatnog nivoa.",
+    "complaints": [
+      "Nema besplatnog nivoa, agresivan onboarding i trial (12)",
+      "Naplata uprkos trialu/otkazivanju (4)",
+      "Bugovi i padovi, izgubljen napredak (5)",
+      "Manipulativan kviz na početku (2)"
+    ],
+    "suggestions": [
+      "Adventure mod besplatan",
+      "Više kastomizacije lika i tema",
+      "Lakše podešavanje ciljeva"
+    ],
+    "praise": [
+      "Motivacija za ADHD korisnike",
+      "Slatki likovi i pixel art",
+      "Solo developer stalno ažurira"
+    ],
+    "opportunity": "Jednostavnija meta-igra (kolekcija ili rast sveta umesto platformera) i besplatan nivo bi skratili razvoj i smanjili otpor.",
+    "growth": "3.54 ocena/dan od izlaska (2024-04-13, 912 dana, 3226 US ocena, prosek 4.54); recenzije 30d: 3 naspram 2 prethodnih 30d. Umeren tempo, stabilan broj recenzija; nema znakova naglog rasta.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focus-hero-goals-habits/id6465700009",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6753698904": {
+    "name": "PushUpLock - Push Up Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokira aplikacije dok ne uradiš dnevni broj sklekova, a kamera sama broji ponavljanja. Uz to rangovi, 'aura' i nizovi za Gen Z.",
+    "specifics": [
+      "Ključna mehanika: Screen Time blokada + brojanje sklekova kamerom ili detekcijom poda",
+      "Šta je deljivo: rang/aura, ukupan broj sklekova, napredak (npr. 15 → 30 za nedelju)",
+      "Društveni sloj: samo takmičenje sa sobom",
+      "Monetizacija: besplatna osnovna funkcija, Pro pretplata (ukupna statistika i dodaci)"
+    ],
+    "psych": "Trenje kao naplata: scroll se plaća sklekovima. Dokaz: 'I followed through and I'm on day 80.'",
+    "developer_type": "solo (David Koontz, lično ime, 5 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Screen Time API (FamilyControls), pose detection (Vision/ML Kit), nizovi i rangovi. Najveći rizik: tačnost brojanja (najčešća žalba) i Android ekvivalent blokade.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Instagram mi je zaključan dok ne uradim 30 sklekova' + split-screen telefon i sklekovi.",
+    "monetization": "Freemium: osnovno besplatno, Pro pretplata godišnja.",
+    "complaints": [
+      "Netačno brojanje sklekova (7)",
+      "Izgubljen napredak posle ažuriranja (1)",
+      "Previše iza Pro (2)"
+    ],
+    "suggestions": [
+      "Čučnjevi i druge vežbe",
+      "Ukupan broj sklekova besplatno",
+      "Biranje aplikacija za blokadu"
+    ],
+    "praise": [
+      "Stvarno smanjuje screen time",
+      "Konzistentnost i vidljiv napredak",
+      "Besplatna osnovna verzija"
+    ],
+    "opportunity": "Pouzdanije brojanje, više vežbi i društveni sloj (dnevni rang prijatelja, 'ko je otključao telefon prvi').",
+    "growth": "3.54 ocena/dan od izlaska (2025-11-20, 326 dana, 1152 US ocena, prosek 4.72); recenzije 30d: 2 naspram 4 prethodnih 30d. Mlada aplikacija sa dobrim tempom ocena; recenzije opadaju (2 naspram 4), ali publika je jasno tinejdžeri i Gen Z.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushuplock-push-up-blocker/id6753698904",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1511876936": {
+    "exclude": true,
+    "exclude_reason": "Firma sa velikom bibliotekom profesionalnog sadržaja i AI planovima na 80M+ podataka (Planfit Inc.); ne može za 2 meseca.",
+    "name": "Planfit AI Gym Workout Planner"
+  },
+  "1528322796": {
+    "name": "FocusPomo · Pomodoro Timer",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Minimalan Pomodoro tajmer gde svaka sesija daje 'paradajz' koji se gomila i skakuće po ekranu, bez agresivne igrifikacije.",
+    "specifics": [
+      "Ključna mehanika: fokus sesija = paradajz, nedeljna kolekcija i statistika",
+      "Šta je deljivo: ekran sa paradajzima (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: Plus pretplata (blacklist/whitelist, sinhronizacija), recenzije pominju pop-upe"
+    ],
+    "psych": "Vidljiv napredak kroz fizičke 'žetone' truda. Dokaz: 'Love collecting the GOOD tomatoes it's so satisfying.'",
+    "developer_type": "mali tim (FocusPomo Apps Co., Ltd., 3 aplikacije)",
+    "build_weeks": 4,
+    "build_notes": "Tajmer, iCloud sinhronizacija, Apple Watch, Screen Time blokada, haptika. Najveći rizik: kategorija je zasićena.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Svaki sat učenja mi daje paradajz, ove nedelje imam 42.'",
+    "monetization": "Freemium sa Plus pretplatom; cene nisu vidljive.",
+    "complaints": [
+      "Blacklist/whitelist ne radi (2)",
+      "Pop-upi i forsiranje recenzija (3)",
+      "Ne može da se resetuje ciklus (1)"
+    ],
+    "suggestions": [
+      "Prilagodljiv zvuk alarma (4)",
+      "Različito voće/boje po tagu (3)",
+      "Brojač sesija i beleška uz sesiju (2)",
+      "Sinhronizacija sa Google Calendar"
+    ],
+    "praise": [
+      "Slatki paradajzi i haptika",
+      "Jednostavnost",
+      "Pomaže kod ADHD-a"
+    ],
+    "opportunity": "Kolekcija voća po kategorijama i društveni 'study room' sa prijateljima bi dali deljivost koja sada fali.",
+    "growth": "3.51 ocena/dan od izlaska (2020-08-24, 2240 dana, 7866 US ocena, prosek 4.76); recenzije 30d: 46 naspram 34 prethodnih 30d. Stara aplikacija, ali recenzije rastu (46 naspram 34): stabilan organski rast.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focuspomo-pomodoro-timer/id1528322796",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "1501381369": {
+    "exclude": true,
+    "exclude_reason": "Mobilna RPG igra (vukovi, PvP), nije lična navika ni disciplina.",
+    "name": "Wolf Tales - Online RPG Sim 3D"
+  },
+  "6738400489": {
+    "name": "Confide - Video Journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Dnevnik, ali se ne piše nego snima video, a AI 'drugarica' pamti tvoju priču i razgovara sa tobom o unosima.",
+    "specifics": [
+      "Ključna mehanika: video unos od 3 min, automatska transkripcija, AI chat sa memorijom, kalendar unosa",
+      "Šta je deljivo: malo; sadržaj je privatan (procena: deljiva bi bila samo 'pre/posle' montaža)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata, $6.99/nedeljno, godišnje $39.99–$99.99 (iz recenzija)"
+    ],
+    "psych": "Govoriti je lakše od pisanja, a ponovno gledanje starih snimaka daje vidljiv lični napredak: 'being able to go back and see how i was feeling'.",
+    "developer_type": "mali tim (procena): Von Ventures LLC sa 1 aplikacijom",
+    "build_weeks": 7,
+    "build_notes": "Backend sa video skladištem, transkripcija (Whisper API), LLM sa memorijom korisnika, E2E enkripcija. Najveći rizik: pouzdano čuvanje i reprodukcija videa i trošak skladištenja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Snimam se svako veče 30 dana, a AI mi je na kraju rekao nešto što nisam znala o sebi.",
+    "monetization": "Pretplata: $6.99 nedeljno, godišnje $39.99 do $99.99 (iz recenzija); nedeljna cena izaziva otpor.",
+    "complaints": [
+      "Naplata posle otkazivanja i nemoguće otkazivanje (~8)",
+      "Video unosi nestaju ili ne mogu da se puste (~7)",
+      "Padovi i bagovi pri snimanju (~6)",
+      "Podrška ne odgovara (~5)"
+    ],
+    "suggestions": [
+      "Brisanje/arhiviranje starih unosa zbog zauzeća memorije",
+      "Opcija da se isključi AI bot",
+      "Mesečna cena umesto nedeljne",
+      "Više unosa dnevno bez ponovnog dodavanja slika"
+    ],
+    "praise": [
+      "Lakše je pričati nego pisati",
+      "Osećaj olakšanja, 'kao terapeut'",
+      "Pregled sopstvenog napretka kroz vreme"
+    ],
+    "opportunity": "Pouzdan video dnevnik sa lokalnim čuvanjem i jasnim billingom, plus nizovi i mesečni automatski 'recap' video koji je deljiv bez otkrivanja sadržaja.",
+    "growth": "12.05 ocena dnevno od izlaska (dec 2024); recenzije 30d 5 naspram 4, stabilno nisko. Rast deluje pogonjen plaćenom akvizicijom (oznaka praćenja), ne organski.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/confide-video-journal/id6738400489",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "298903147": {
+    "exclude": true,
+    "exclude_reason": "Veliki brend (Map My Fitness, Outside Inc., ranije Under Armour), 100M+ korisnika.",
+    "name": "Map My Fitness Workout Tracker"
+  },
+  "946099227": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (YAZIO GmbH), etabliran brend kalorijskog trackera sa AI prepoznavanjem hrane.",
+    "name": "AI Calorie Tracker by Yazio"
+  },
+  "1158895079": {
+    "name": "Sober Time - Sobriety Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Standardni brojač treznosti, ali sa više zavisnosti istovremeno, prikazom do sekunde, zdravstvenim napretkom tela i anonimnim forumom.",
+    "specifics": [
+      "Ključna mehanika: brojač čistog vremena u realnom vremenu, ciljevi, beleške o relapsima",
+      "Šta je deljivo: dnevne motivacione poruke i napredak",
+      "Društveni sloj: anonimni forum zajednice",
+      "Monetizacija: reklame + godišnja pretplata (widget, dodaci)"
+    ],
+    "psych": "Strah od gubitka niza drži korisnika: 'The threat of having to restart the counter if I messed up really kept me going'.",
+    "developer_type": "mali tim: Sociosoftware LLC sa 4 aplikacije",
+    "build_weeks": 5,
+    "build_notes": "Lokalni brojač, notifikacije, widget, backend za forum sa moderacijom. Najveći rizik: moderacija zajednice u osetljivom domenu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "Ovaj brojač pokazuje svaku sekundu otkad nisam popio, i ne smem da ga resetujem.",
+    "monetization": "Freemium sa reklamama preko celog ekrana i godišnjom pretplatom za widget i dodatke.",
+    "complaints": [
+      "Previše reklama preko celog ekrana (~6)",
+      "Widget samo uz pretplatu (~1)",
+      "Deljene poruke bez atribucije aplikacije (~1)"
+    ],
+    "suggestions": [
+      "Manje agresivne reklame",
+      "Vratiti link/atribuciju pri deljenju poruka"
+    ],
+    "praise": [
+      "Brojač do sekunde",
+      "Prikaz oporavka tela i mozga",
+      "Dnevne motivacione poruke i forum"
+    ],
+    "opportunity": "Gen Z verzija za vejp, travu i doomscrolling bez reklama, sa deljivim karticama prekretnica.",
+    "growth": "11.71 ocena dnevno od 2016; recenzije 30d 18 naspram 17, stabilno. Zrela aplikacija, zasićena kategorija, publika starija od 18–24 (procena).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sober-time-sobriety-counter/id1158895079",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6472804752": {
+    "exclude": true,
+    "exclude_reason": "Utility planer/to-do lista; prodavac sa 6 aplikacija, generički šablon.",
+    "name": "Daily Planner, To-Do List"
+  },
+  "6742336314": {
+    "name": "DAWG - Discipline & Motivation",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Habit tracker za mlade muškarce kao 'Solo Leveling' za stvarni život: svaki završen zadatak daje XP, nivoe i rang, sa temama poput isekai.",
+    "specifics": [
+      "Ključna mehanika: dnevni izazovi i prilagođene navike donose XP, nivoe (max 140) i evoluciju ranga",
+      "Šta je deljivo: rang/nivo i tema avatara (procena)",
+      "Društveni sloj: nema (korisnici traže)",
+      "Monetizacija: hard paywall, $19.99 mesečno ili $60 godišnje, bez triala"
+    ],
+    "psych": "Gejmifikovana progresija daje osećaj kretanja napred: 'makes it seem like I am actually progressing in life everyday rather than feeling stuck'.",
+    "developer_type": "mali tim: DWG Labs LLC sa 3 aplikacije",
+    "build_weeks": 5,
+    "build_notes": "Lokalna logika navika, XP i nivoa, teme, paywall, nalog za restore. Najveći rizik: balans progresije (korisnici prebrzo dostižu max).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Pretvorio sam svoj život u Solo Leveling, evo mog ranga posle 30 dana.",
+    "monetization": "Obavezna pretplata bez triala: $19.99/mesec ili $60/godina; deo korisnika plaća, ali hard paywall je glavna žalba.",
+    "complaints": [
+      "Hard paywall bez free triala (~9)",
+      "'AI slop', samo digitalna checklista (~4)",
+      "Nebalansirani nivoi i nizak max nivo (~3)",
+      "Nema logina, ponovno plaćanje na novom telefonu (~2)"
+    ],
+    "suggestions": [
+      "Free trial ili freemium",
+      "Društveni sloj (prijatelji, rang lista)",
+      "Kustomizacija avatara i kozmetička prodavnica za XP",
+      "Delimično ispunjen dan umesto 'X' za ceo dan"
+    ],
+    "praise": [
+      "Rang i evolucija daju osećaj napretka",
+      "Teme (isekai) i izgled",
+      "Struktura i disciplina, lakše ponavljanje navika"
+    ],
+    "opportunity": "Isti 'leveling' narativ, ali sa trialom, prijateljima i nedeljnim rangom, skaliranom progresijom i kozmetikom kao nagradom.",
+    "growth": "11.62 ocena dnevno od marta 2025; recenzije 30d 34 naspram 43, blagi pad. Rast pogone Instagram reklame (pominju ih recenzije).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/dawg-discipline-motivation/id6742336314",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6747154163": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (praćenje muslimanske molitve).",
+    "name": "Just Pray: Track Muslim Prayer"
+  },
+  "577767592": {
+    "name": "Smoke Free - Quit Smoking Now",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Tracker prestanka pušenja sa 40 tehnika zasnovanih na istraživanjima, dnevnim misijama i virtuelnim zmajem ('Inner Dragon') koji raste dok ne pušiš.",
+    "specifics": [
+      "Ključna mehanika: brojač, ušteđen novac, neispušene cigarete, zdravstveni napredak, misije",
+      "Šta je deljivo: sertifikat i 'wall of fame'",
+      "Društveni sloj: globalni chat zajednice",
+      "Monetizacija: besplatno bez reklama, Pro (AI Quit Coach, misije), Blitz sa ljudskim savetnicima"
+    ],
+    "psych": "Kvantifikovan dobitak motiviše: 'Having such quantifiable data was really motivating and helped keep me from slipping up'.",
+    "developer_type": "mali tim: 23 Ltd sa 2 aplikacije, ali etabliran od 2013",
+    "build_weeks": 8,
+    "build_notes": "Brojač i statistike su laki; sadržaj misija, zmaj ljubimac, zajednica i AI coach traže više rada. Najveći rizik: kvalitet bihevioralnog sadržaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "Prestala sam da pušim pre 30 dana i evo koliko para mi je ova aplikacija pokazala da sam uštedela.",
+    "monetization": "Freemium: jezgro besplatno bez reklama, Pro pretplata i premium plan sa savetnicima; korisnici hvale besplatni nivo.",
+    "complaints": [
+      "Obavezna email verifikacija, mejl ne stiže (~4)",
+      "Prinudni nalog, utisak skupljanja podataka (~2)",
+      "Gubitak podataka i padovi pri dnevniku (~2)",
+      "Samo za cigarete, ne za vejp (~1)"
+    ],
+    "suggestions": [
+      "Podrška za vejp",
+      "Prikaz u satima",
+      "Rad bez naloga",
+      "Popraviti energiju zmaja"
+    ],
+    "praise": [
+      "Ušteđen novac i neispušene cigarete",
+      "Prikaz oporavka zdravlja",
+      "Zajednica i misije"
+    ],
+    "opportunity": "Vejp-first aplikacija za Gen Z sa ljubimcem u centru i bez naloga pri startu.",
+    "growth": "11.51 ocena dnevno od 2013; recenzije 30d 5 naspram 7, nisko i stabilno. Zrela aplikacija, starija publika (procena).",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/smoke-free-quit-smoking-now/id577767592",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6502398048": {
+    "exclude": true,
+    "exclude_reason": "Sadržajna aplikacija (biblioteka hipnoza audio sesija), profesionalni sadržaj je osnova; prodavac sa 7 aplikacija.",
+    "name": "KURE: Rewire by Hypnosis"
+  },
+  "6480004025": {
+    "exclude": true,
+    "exclude_reason": "Kviz/loyalty aplikacija za gejmere (skinovi), nije lična navika.",
+    "name": "Skinape for Games - Play Quiz"
+  },
+  "529443604": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker hrkanja, etabliran brend; zahteva audio analizu i klasifikaciju.",
+    "name": "SnoreLab : Record Your Snoring"
+  },
+  "6752133930": {
+    "name": "Lilo: Study Timer & Challenges",
+    "exclude": false,
+    "list": "B",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Study timer, ali društveni: izazivaš prijatelje ko će duže ostati fokusiran i penješ se na live rang listi.",
+    "specifics": [
+      "Ključna mehanika: fokus tajmer, 1v1 i grupni izazovi, nedeljna rang lista",
+      "Šta je deljivo: pozivnica u izazov i pozicija na rang listi",
+      "Društveni sloj: prijatelji, izazovi, leaderboard",
+      "Monetizacija: plaćeni izazovi sa prijateljima (iz recenzije); cene nisu vidljive"
+    ],
+    "psych": "Zdravo takmičenje i odgovornost prema prijateljima povećavaju vreme učenja: 'it helped me study more'.",
+    "developer_type": "solo: Pawel Gladysz, ali 10 aplikacija (mogući mali portfolio šablonskih aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Tajmer, backend za prijatelje i rang liste (Firebase/Supabase), Live Activities. Najveći rizik: pouzdano čuvanje sesija i anti-cheat.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Izazvala sam celo odeljenje ko će više učiti ove nedelje, pogledaj rang listu.",
+    "monetization": "Nejasno; izazovi sa prijateljima iza paywalla, učenici bez kartica se bune.",
+    "complaints": [
+      "Sesije se ne čuvaju posle update-a (~3)",
+      "Plaćanje za izazove sa prijateljima (~1)"
+    ],
+    "suggestions": [
+      "Besplatni izazovi sa prijateljima"
+    ],
+    "praise": [
+      "Slatka i umirujuća aplikacija",
+      "Pomaže da se uči više"
+    ],
+    "opportunity": "Besplatan društveni sloj kao motor rasta, monetizacija kroz kozmetiku i sezonske izazove umesto paywalla na pozive.",
+    "growth": "11.24 ocena dnevno od septembra 2025, ali samo 1 recenzija u 30d naspram 2; mnogo recenzija na drugim jezicima, US trakcija nesigurna.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 2,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/lilo-study-timer-challenges/id6752133930",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1346247457": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Endel), patentirani AI generativni zvuk, sadržaj je osnova.",
+    "name": "Endel: Focus & Sleep Sounds"
+  },
+  "6529537850": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa poklon karticama (finansijska nagrada), velika kineska firma.",
+    "name": "JoyPace"
+  }
+}

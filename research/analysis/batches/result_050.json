@@ -1,0 +1,244 @@
+{
+  "6760926241": {
+    "name": "Buffro: Ranked Workout Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Gym tracker kao Strong/Hevy, ali svaka vežba i mišićna grupa ima Strength Rank (rang kao u igri), uz privatne Workout Buddies grupe za takmičenje sa poznanicima.",
+    "specifics": [
+      "Ključna mehanika: logovanje serija/PR-ova koje podiže rang po vežbi i mišićnoj grupi",
+      "Šta je deljivo: rang i bedž, timelapse progress fotografija, mesečni izveštaj",
+      "Društveni sloj: privatne Workout Buddies grupe i međusobno takmičenje",
+      "Monetizacija: nije vidljiva u opisu (procena: freemium/pretplata zbog AI coacha i skeniranja obroka)"
+    ],
+    "psych": "Rang pretvara apstraktan napredak u snagu u status koji se vidi i poredi; recenzija: 'ranks are super fun and cool on this app'.",
+    "developer_type": "mali tim (PT Duo Digital Internasional, indonezijska firma sa 1 aplikacijom)",
+    "build_weeks": 9,
+    "build_notes": "Backend + nalozi, baza vežbi, HealthKit/Health Connect, AI coach (LLM), skeniranje obroka (vision API), barkod baza hrane, grupe. Najveći rizik: obim (workout + ishrana + AI + body scan) prelazi 2 meseca; MVP treba svesti na logovanje + rangove + grupe.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Aplikacija kaže da je moj bench Gold III, a tvoj?' - gym bro poredi rangove sa drugarom.",
+    "monetization": "Nije vidljivo u paketu; cena 0 (procena: pretplata za AI funkcije)",
+    "complaints": [
+      "Nedostaju neke vežbe (1)",
+      "Bag sa konverzijom lb/kg koji je pokvario rangove (1)"
+    ],
+    "suggestions": [
+      "Proširiti bazu vežbi (1)",
+      "Omogućiti reset/ispravku rangova posle greške u unosu (1, izvedeno)"
+    ],
+    "praise": [
+      "Workout i routine builder koji generiše plan po rasporedu i opremi",
+      "Rangovi su zabavni",
+      "Sve u jednom: trening + kalorije, čist UI"
+    ],
+    "opportunity": "Izdvojiti rangove kao glavni proizvod (jedan ekran, deljiva 'rank card', sezonski rang-reset i liga među prijateljima) umesto sve-u-jednom pristupa koji je skup za izradu.",
+    "growth": "Izašla 2026-04-09 (~186 dana), 245 US ocena, 1,32 ocene/dan; recenzije 1 (30d) naspram 0 (prethodnih 30d). Stabilan organski rast, mali uzorak recenzija.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 2,
+      "voiceOfCustomer": 2,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/buffro-ranked-workout-tracker/id6760926241",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6759892060": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su novčane nagrade; uz to oznaka praćenja i kineski prodavac.",
+    "name": "StepCash: Walk & Earn Rewards"
+  },
+  "6475022638": {
+    "exclude": true,
+    "exclude_reason": "Mobilna RPG igra, nije lična navika; veliki izdavač i licencirani IP.",
+    "name": "Battle Through the Heavens:RPG"
+  },
+  "6756184830": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su gift kartice (Amazon, Starbucks, Target).",
+    "name": "MoveTogether - Earn Rewards"
+  },
+  "6452721618": {
+    "exclude": true,
+    "exclude_reason": "Utility (zaključavanje aplikacija, privatnost/roditeljska kontrola), nije navika.",
+    "name": "App Lock - AppLock Apps"
+  },
+  "545681248": {
+    "exclude": true,
+    "exclude_reason": "Edukativni sadržaj za bridž vezan za poznatog autora; vrednost je sadržaj, ne navika.",
+    "name": "Audrey Grant’s Better Bridge"
+  },
+  "1193197932": {
+    "exclude": true,
+    "exclude_reason": "B2B wellness program preko poslodavaca i zdravstvenih planova sa nagradama; nije potrošački proizvod za influencer marketing.",
+    "name": "Walkingspree"
+  },
+  "1613739619": {
+    "name": "Count.It Journey",
+    "exclude": false,
+    "list": "B",
+    "principle": "Grupni izazov",
+    "differentiator": "Step challenge, ali učesnici kao avatari putuju zajedno po zumabilnoj virtuelnoj mapi puta ('leader/rabbit'), sa timskim ciljevima. Prodaje se firmama, ne pojedincima.",
+    "specifics": [
+      "Ključna mehanika: koraci, vežbe i mindfulness pretvaraju se u poene i napredak na virtuelnoj ruti",
+      "Šta je deljivo: pozicija na ruti i timski plasman (ograničeno)",
+      "Društveni sloj: timski i individualni izazovi, emoji reakcije, rang",
+      "Monetizacija: B2B (firme plaćaju izazov), aplikacija besplatna"
+    ],
+    "psych": "Grupni izazov sa vidljivim rivalima pokreće i one koji ne vole vežbanje; recenzija: 'I really liked seeing how I was beating my coworkers'.",
+    "developer_type": "mali tim / firma (Social Workout Media Inc, 1 aplikacija, 'skoro decenija iskustva' na tržištu)",
+    "build_weeks": 8,
+    "build_notes": "Backend za izazove i timove, HealthKit/Health Connect + Garmin/Fitbit sync, admin panel, real-time rang. Najveći rizik: pouzdan sync koraka sa više izvora (najčešća žalba).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Ja i 4 cimera trkamo se pešice od Njujorka do LA-a, ko zaostaje plaća picu.'",
+    "monetization": "B2B, korporativni wellness; individualna monetizacija ne postoji",
+    "complaints": [
+      "Netačan ili spor sync koraka (Apple Health, Fitbit, Samsung) (~11)",
+      "Nije intuitivno, ne vidi se napredak i timski plasman (~9)",
+      "Sporo učitavanje, zamrzavanje, odjave (~3)",
+      "Varanje na rang listi / nelogično bodovanje aktivnosti (~2)"
+    ],
+    "suggestions": [
+      "Jasniji prikaz sopstvenog i timskog plasmana",
+      "Manje klikova i brži ručni unos aktivnosti",
+      "Prestati sa stalnim traženjem ocene",
+      "Pomeriti brojač koji pokriva dugme za dodavanje aktivnosti"
+    ],
+    "praise": [
+      "Takmičenje motiviše i ljude koji ne vole fitnes",
+      "Zabavno grupno iskustvo sa prijateljima/kolegama",
+      "Leader/rabbit koncept i napetost oko sinhronizacije prijatelja"
+    ],
+    "opportunity": "Preneti mehaniku 'zajedničkog putovanja po mapi' u B2C format za grupe prijatelja (cimeri, ekipa sa faksa) sa pouzdanim syncom i anti-cheat logikom.",
+    "growth": "Izašla 2023-04-12, 1601 ocena, 1,25/dan; recenzije 5 (30d) naspram 7 (prethodnih 30d). Rast vezan za korporativne kampanje, ne za organski B2C.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/count-it-journey/id1613739619",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6736964449": {
+    "exclude": true,
+    "exclude_reason": "Mentalno zdravlje dizajnirano sa Child Mind Institute (klinički/institucionalni okvir), sadržajni dnevnik; oznaka praćenja.",
+    "name": "Mirror: Mental Health Journal"
+  },
+  "1484143447": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Sporcle), party trivia igra; nije navika.",
+    "name": "Sporcle Party: Social Trivia"
+  },
+  "1610247216": {
+    "exclude": true,
+    "exclude_reason": "Utility (drugi broj telefona).",
+    "name": "Text Phone:2nd number call now"
+  },
+  "1623403112": {
+    "exclude": true,
+    "exclude_reason": "Brend YouTube trenerice sa bibliotekom profesionalnog video sadržaja; vrednost je sadržaj i lični brend.",
+    "name": "Grow with Anna"
+  },
+  "1481596642": {
+    "exclude": true,
+    "exclude_reason": "Kolekcija od 2.500+ mozgalica i testova (sadržaj/igra), oznaka praćenja; nije navika.",
+    "name": "BrainSpot: Mental Test Games"
+  },
+  "1076120218": {
+    "exclude": true,
+    "exclude_reason": "Igra (RPG), nije lična navika.",
+    "name": "Stone Story RPG"
+  },
+  "1484629691": {
+    "name": "Obedience: BDSM Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Polaganje računa",
+    "differentiator": "Habit tracker za dvoje u kome partner (dominantni) dodeljuje zadatke, poene, nagrade i kazne i u realnom vremenu vidi da li je navika ispunjena.",
+    "specifics": [
+      "Ključna mehanika: drugi korisnik postavlja navike i deli nagrade/kazne, poeni se troše na nagrade",
+      "Šta je deljivo: ništa javno (intimna niša)",
+      "Društveni sloj: povezani telefoni partnera, chat, više partnera",
+      "Monetizacija: pretplata, oko 30 USD godišnje (iz recenzija); limit 5 navika u besplatnoj verziji"
+    ],
+    "psych": "Spoljašnji nadzor bliske osobe + nagrada/kazna jače drže naviku od samostalnog trackera; recenzija: 'knowing my Dom can see what I've done each day gives me a sense of accountability'.",
+    "developer_type": "mali tim (Obedience B.V., 3 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Backend sa real-time sinhronizacijom para, nalozi, notifikacije, chat. Najveći rizik: pouzdanost dnevnog reseta i poena (glavni izvor bagova) i App Store pravila za sadržaj za odrasle.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Nije pogodno za TikTok/Instagram 18–24 zbog niše za odrasle; neutralna verzija: 'Dala sam dečku kontrolu nad mojim navikama.'",
+    "monetization": "Pretplata ~30 USD/godišnje (recenzije), obe strane moraju imati premium za više od 5 navika",
+    "complaints": [
+      "Bagovi: poeni se resetuju/gube, zadaci pogrešno označeni (~6)",
+      "Ne učitava se, ruši se, problemi sa prijavom/resetom lozinke (~6)",
+      "Loša podrška, problemi sa otkazivanjem i refundacijom (~5)",
+      "Agresivni premium pop-upovi i limit od 5 navika uz dve pretplate (~4)"
+    ],
+    "suggestions": [
+      "Podesivo vreme početka novog dana",
+      "Automatska kazna za propuštenu naviku",
+      "Pregled prethodnih dana i čuvanje fotografija iz arhive",
+      "Jednokratna kupovina umesto pretplate"
+    ],
+    "praise": [
+      "Osećaj odgovornosti i bliskosti, posebno u vezi na daljinu",
+      "Vrlo prilagodljiv sistem navika, nagrada i kazni",
+      "Pomaže i kod solo upotrebe (ADHD, zdravije navike)"
+    ],
+    "opportunity": "Mehanika 'partner/prijatelj odobrava i nagrađuje' prenosiva je na mainstream accountability aplikaciju za parove ili prijatelje, bez niše za odrasle.",
+    "growth": "Izašla 2020-01-07, 2943 ocene, 1,19/dan; recenzije 4 (30d) naspram 0 (prethodnih 30d). Stabilna niša, kvalitet koči rast.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/obedience-bdsm-habit-tracker/id1484629691",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

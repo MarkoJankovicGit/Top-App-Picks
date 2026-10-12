@@ -1,0 +1,348 @@
+{
+  "6747723891": {
+    "name": "Grow — Height & Glow Up",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Glow-up za tinejdžere u dva modula: procena potencijalne visine sa programom navika i AI analiza lica i stila sa 'optimizovanom verzijom' tebe.",
+    "specifics": [
+      "Ključna mehanika: upitnik o životnim navikama, procena visine, mesečno praćenje; analiza lica sa 2 fotografije i AI transformacija.",
+      "Šta je deljivo: AI 'optimizovana verzija' i ocena lica (procena).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: paywall za rezultate (procena iz recenzija)."
+    ],
+    "psych": "Kvantifikacija izgleda i visine daje cilj i praćenje. Dokaz (tvrdnja korisnika): 'I grew so much'.",
+    "developer_type": "solo (Vincent, Enzo MARRA, 1 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Upitnik, kalkulator visine, vision LLM za analizu lica, image generation za transformaciju, paywall. Najveći rizik: obećanja o rastu visine su pseudonaučna, publika su maloletnici (etika, App Store pravila).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'AI mi je pokazao kako bih izgledao posle glow-upa: 90 dana kasnije.'",
+    "monetization": "Paywall pre rezultata; deca bez novca odustaju.",
+    "complaints": [
+      "Mora da se plati da bi se išta videlo, a korisnici su deca (~2)"
+    ],
+    "suggestions": [],
+    "praise": [
+      "Detaljan i 'precizan' rezultat (~2)",
+      "Pomaže rastu i izgledu (tvrdnje korisnika) (~3)"
+    ],
+    "opportunity": "Preokrenuti u program navika (san, držanje, koža, trening) sa nizom i pre/posle fotografijama, bez obećanja o rastu; ciljati 18–24.",
+    "growth": "Izašla 29.7.2025, 1.696 ocena, ~3,86 ocene/dan; recenzije 30d 1 naspram 4. Pristojan tempo, pretežno francuska publika u recenzijama.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 1,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/grow-height-glow-up/id6747723891",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755405918": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (čitanje Biblije) kao osnovna vrednost. Napomena: mehanika 'pročitaj stih = 1 minut ekrana' je prenosiva u sekularnu verziju.",
+    "name": "Bible Break: Screen Time Limit"
+  },
+  "1481511675": {
+    "exclude": true,
+    "exclude_reason": "CGM hardver, laboratorijski testovi i medicinski savetnici; regulisan domen.",
+    "name": "Levels - Metabolic Health"
+  },
+  "6751275561": {
+    "name": "Gracen: Overcome adult content",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Aplikacija za odvikavanje od pornografije u hrišćanskom okviru: brojač čistih dana, SOS u trenutku poriva, dnevna devocija i zajednica.",
+    "specifics": [
+      "Ključna mehanika: personalizovan plan iz upitnika, brojač dana i miljokazi do 90 dana, SOS alat, filter sadržaja.",
+      "Šta je deljivo: broj čistih dana (procena; tema je privatna).",
+      "Društveni sloj: zajednica korisnika za podršku.",
+      "Monetizacija: pretplata (pominje se ~30 USD godišnje uz popust od 90%), besplatno za one koji ne mogu da plate na zahtev."
+    ],
+    "psych": "Niz čistih dana i zajednica daju strah od gubitka i podršku. Dokaz: 'I'm 95 days clean so far'.",
+    "developer_type": "mali tim (S & C Development GmbH, 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Backend za zajednicu i moderaciju, brojač i miljokazi, SOS, content filter (Screen Time / NetworkExtension), AI za stihove. Najveći rizik: pouzdanost filtera i moderacija zajednice.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Dan 90 bez pornografije: šta se promenilo u mojoj glavi.'",
+    "monetization": "Hard paywall pretplata; korisnici osporavaju naplatu 'hrišćanske' pomoći i prijavljuju duplu naplatu.",
+    "complaints": [
+      "Paywall za verski motivisanu pomoć (~4)",
+      "Bagovi pri registraciji i učitavanju (~3)",
+      "Naplata tokom triala ili veća od obećane (~2)",
+      "Filter ne radi u Reddit/X (~1)"
+    ],
+    "suggestions": [
+      "Miljokazi posle 90 dana",
+      "Popraviti preveliki tekst u SOS funkciji"
+    ],
+    "praise": [
+      "Zajednica i podrška (~4)",
+      "Tim daje besplatan pristup onima bez novca (~2)",
+      "Vidljiv napredak i dnevna devocija (~1)"
+    ],
+    "opportunity": "Sekularna verzija za Gen Z sa partnerom za polaganje računa i jasnim freemiumom; plaćene reklame za ovu temu su ograničene, pa se oslanjati na organski sadržaj.",
+    "growth": "Izašla 29.8.2025, 1.556 ocena, ~3,81 ocene/dan; recenzije 30d 3 naspram 0. Stabilan tempo; korisnik je navodi kao zamenu za Quittr.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gracen-overcome-adult-content/id6751275561",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "294754639": {
+    "exclude": true,
+    "exclude_reason": "Medicinski tracker dijabetesa; Azumio, fabrika aplikacija (8 aplikacija).",
+    "name": "Glucose Buddy Diabetes Tracker"
+  },
+  "1574239307": {
+    "exclude": true,
+    "exclude_reason": "AI brojač kalorija čija je prednost sopstveni model za merenje porcija (LIDAR); prezasićena kategorija i ML rizik.",
+    "name": "SnapCalorie AI Calorie Counter"
+  },
+  "6751820866": {
+    "name": "Innie: Self Discovery & Care",
+    "exclude": false,
+    "list": "A",
+    "principle": "Identitet i samoizražavanje",
+    "differentiator": "Samospoznaja kao igra: nivoi pitanja postaju sve dublji, malo stvorenje te vodi, a aplikacija spaja odgovore u profil obrazaca (vezivanje, samosabotaža, razmišljanje).",
+    "specifics": [
+      "Ključna mehanika: kvizovi i questovi po nivoima, journal promptovi, uvidi koji se adaptiraju na korisnika, stvorenje pratilac.",
+      "Šta je deljivo: uvidi o ličnosti i 'konstelacija' (procena; format kao personality quiz).",
+      "Društveni sloj: nema ga u podacima.",
+      "Monetizacija: pretplata posle 3-dnevnog triala, paywall u onboarding-u."
+    ],
+    "psych": "Identitet i radoznalost o sebi, upakovano u napredovanje kroz nivoe. Dokaz: 'This makes reflection feel easy and not forced'.",
+    "developer_type": "mali tim (Ora Labs, Inc., 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Dizajn bank-a pitanja i nivoa (najviše posla je sadržaj), LLM za sintezu uvida, animirano stvorenje, nalog i sync. Najveći rizik: kvalitet i 'tačnost' uvida, bez psihologa ispada generički.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ova aplikacija mi je za 10 pitanja objasnila zašto sabotiram veze.'",
+    "monetization": "Pretplata sa kratkim trialom; plaćaju oni koji ostanu, ali paywall u onboarding-u izaziva 1★.",
+    "complaints": [
+      "Kratak trial i paywall koji se ne može preskočiti (~5)",
+      "Uvidi se ne mogu pročitati ili skrolovati (~2)",
+      "Gubitak naloga i podataka (~1)",
+      "Zamrzavanje u onboarding-u (~1)"
+    ],
+    "suggestions": [
+      "Dostupnost van US (Kanada)",
+      "Duži trial",
+      "Završiti funkciju konstelacije"
+    ],
+    "praise": [
+      "Precizni i duboki uvidi o sebi (~6)",
+      "Journaling koji se konačno drži (~4)",
+      "Slatko stvorenje pratilac (~2)"
+    ],
+    "opportunity": "Dodati deljive kartice uvida i poređenje sa prijateljem/partnerom (kompatibilnost) kao viralni sloj; besplatni prvi nivoi pre paywall-a.",
+    "growth": "Izašla 12.2.2026, 908 ocena, ~3,76 ocene/dan; recenzije 30d 2 naspram 3. Solidan start bez oznake praćenja, mnogo pominjanja terapeuta.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/innie-self-discovery-care/id6751820866",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6670556885": {
+    "exclude": true,
+    "exclude_reason": "Igra (gacha RPG sa skeniranjem barkodova); nije self-improvement.",
+    "name": "Warcodes - AI RPG Game"
+  },
+  "6739812031": {
+    "exclude": true,
+    "exclude_reason": "Etablirana firma (MyNetDiary, 31M korisnika, baza hrane); GLP-1 medicinski fokus.",
+    "name": "MyNetDiary PlateAI - AI Coach"
+  },
+  "1418579583": {
+    "name": "WordPal - Vocabulary Builder",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Engleski vokabular kroz kratke dnevne kvizove i igre sa spaced repetition; reči biraju po učestalosti, pa uvek učiš korisne.",
+    "specifics": [
+      "Ključna mehanika: dnevni kviz starih i novih reči, mastery status, igre za utvrđivanje.",
+      "Šta je deljivo: 'reč dana' i broj savladanih reči (procena).",
+      "Društveni sloj: nema ga.",
+      "Monetizacija: trial sa obaveznom karticom, ~60 USD godišnje ili ~10 USD mesečno."
+    ],
+    "psych": "Mali dnevni napredak kao zamena za doomscrolling. Dokaz: 'Instead of mindless scrolling, I spend 10-15 minutes'.",
+    "developer_type": "mali tim (Dynamic Apps Ltd, 2 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Baza reči sa definicijama (licenca rečnika ili otvoreni izvori tipa WordNet/Wiktionary), spaced repetition, mini igre, paywall. Najveći rizik: kvalitet definicija i prava na sadržaj.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Svako jutro 10 minuta umesto TikToka: 300 novih reči za mesec dana.'",
+    "monetization": "Hard paywall sa trialom; masovne žalbe na naplatu, ali i 'worth every penny' recenzije.",
+    "complaints": [
+      "Agresivan trial, naplata odmah ili teško otkazivanje (~15)",
+      "Previsoka cena 60 USD/god (~4)",
+      "Mastery prelak, reči se zaborave (~1)",
+      "Dosadno, tipična igra reči (~1)"
+    ],
+    "suggestions": [
+      "Opcija 'Nisam siguran' u kvizu",
+      "Etimologija reči",
+      "Grupisanje reči sa sličnim značenjem"
+    ],
+    "praise": [
+      "Zamena za skrolovanje, jutarnja navika (~4)",
+      "Vraća reči dok ih ne savladaš (~3)",
+      "Igre i jasan dizajn (~3)"
+    ],
+    "opportunity": "Freemium sa nizom dana, nedeljnom ligom i deljivom 'reč dana' karticom; za Gen Z pozicionirati kao 'zvuči pametnije' umesto ispita.",
+    "growth": "Od 30.4.2019, 10.174 ocene, ~3,74 ocene/dan; recenzije 30d 6 naspram 10. Stabilno, recenzije pominju plaćene reklame.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/wordpal-vocabulary-builder/id1418579583",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1564694267": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa gift karticama i isplatom; glavna motivacija je finansijska nagrada.",
+    "name": "WalkPay: Walk & Earn Rewards"
+  },
+  "6445948886": {
+    "name": "Quabble: Daily Mental Health",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Mentalno zdravlje sa patkom ljubimcem: dnevni check-in i kratke CBT vežbe hrane patku i ulepšavaju njen park.",
+    "specifics": [
+      "Ključna mehanika: dnevni check-in raspoloženja, 'mental health workouts', hrana i cveće za patku kao nagrada.",
+      "Šta je deljivo: patka i park (procena).",
+      "Društveni sloj: 'daily album' gde korisnici dele iskustva i savete.",
+      "Monetizacija: freemium sa većinom sadržaja u pretplati (Quabble Club), pominje se 50 USD."
+    ],
+    "psych": "Briga o ljubimcu pretvara self-care u obavezu prema nekom drugom. Dokaz: 'I feel rewarded for doing my daily check ins'.",
+    "developer_type": "mali tim (museLIVE Inc., 2 aplikacije)",
+    "build_weeks": 8,
+    "build_notes": "Ilustracije i animacije patke, ekonomija nagrada, biblioteka vežbi (sadržaj), zajednica sa moderacijom. Najveći rizik: obim sadržaja i art-a, osetljiva tema mentalnog zdravlja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moja patka umire ako ne brinem o sebi: 60 dana kasnije.'",
+    "monetization": "Freemium, većina sadržaja u pretplati; deo korisnika plaća, mnogi se bune što je mentalno zdravlje iza paywall-a.",
+    "complaints": [
+      "Većina sadržaja iza pretplate (~7)",
+      "Update je pretvorio brigu o patki u posao (~2)",
+      "Naplata posle triala bez upozorenja (~1)",
+      "Ne učitava se (~1)"
+    ],
+    "suggestions": [
+      "Cveće da traje duže",
+      "Više patki/društvo za patku",
+      "Anksioznost journal u besplatnoj verziji"
+    ],
+    "praise": [
+      "Patka i park kao nagrada (~6)",
+      "Smiruje anksioznost (~6)",
+      "Manje preterano od Finch-a (~1)"
+    ],
+    "opportunity": "Isti ljubimac, ali vezan za fizičke navike (san, kretanje, ekran) i prijatelji koji brinu o zajedničkom ljubimcu.",
+    "growth": "Izašla 16.8.2023, 4.292 ocene, ~3,72 ocene/dan; recenzije 30d 6 naspram 11. Stabilno do blagog pada; pominje se TikTok preporuka.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quabble-daily-mental-health/id6445948886",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6753161422": {
+    "exclude": true,
+    "exclude_reason": "Merenje pritiska kamerom (medicinski i obmanjujuće); klinički tracker.",
+    "name": "Cardiora: Blood Pressure"
+  },
+  "6468219825": {
+    "exclude": true,
+    "exclude_reason": "AI konverzacija za 130 jezika (firma, milioni korisnika); vrednost je glasovni AI, ne navika ni bodovanje.",
+    "name": "Talkpal - AI Language Learning"
+  },
+  "6476599557": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka profesionalnih video treninga vođena brendom kreatorke (Camilla); sadržaj i publika osnivača se ne repliciraju.",
+    "name": "Mila: Home Workout & Fitness"
+  }
+}

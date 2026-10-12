@@ -1,0 +1,191 @@
+{
+ "1594204443": {
+  "exclude": true,
+  "exclude_reason": "Vlasnik je Strava Inc. (velika firma, poznat brend).",
+  "name": "Runna: Running Plans & Coach"
+ },
+ "1181028777": {
+  "exclude": true,
+  "exclude_reason": "Utility (sat/widget), nema mehaniku navike.",
+  "name": "Flip Clock:Digital Desk Widget"
+ },
+ "1638253339": {
+  "exclude": true,
+  "exclude_reason": "Osnovna vrednost je zarada poena i gift kartica uz mnogo reklama (rebrend Moneywalk, 8M preuzimanja), blisko finansijama; iza je firma sa velikom bazom.",
+  "name": "AHEALTH: Get Healthy Get Paid"
+ },
+ "6663574866": {
+  "exclude": true,
+  "exclude_reason": "Firma sa VC finansiranjem (Owl Ventures, College Board), milioni korisnika i plaćene TikTok reklame (pominju recenzije); nije mali developer.",
+  "name": "StudyFetch: AI Tutor"
+ },
+ "6742278016": {
+  "name": "Focus Friend, by Hank Green",
+  "exclude": false,
+  "list": "B",
+  "principle": "Virtuelni ljubimac i briga",
+  "differentiator": "Pomodoro tajmer, ali prekid fokusa rastužuje malo zrno pasulja (Bean), a završene sesije donose nagrade za uređenje njegove sobe; uz opciono blokiranje aplikacija.",
+  "specifics": [
+   "Ključna mehanika: tajmer fokusa, Bean plete čarape i šalove dok radiš; prekid = tužan Bean; nagrade se troše na dekoracije, sobe i skinove",
+   "Šta je deljivo: uređene sobe i skinovi Bean-a (screenshot), Live Activity na zaključanom ekranu",
+   "Društveni sloj: nema; najtraženija funkcija su prijatelji/komšije i zajednički fokus",
+   "Monetizacija: freemium, Pro pretplata ili doživotna kupovina (~30–40 USD po recenzijama), bez reklama, dekoracije se ne kupuju novcem"
+  ],
+  "psych": "Briga o virtuelnom biću pretvara izbegavanje telefona u želju da ne razočaraš ljubimca, a sakupljanje dekoracija daje vidljiv napredak: 'really helps me stay focused because i don't want my bean to be sad'.",
+  "developer_type": "mali tim (B-Tech Consulting Group LLC, 4 aplikacije), ali brend i distribucija YouTubera Hank Greena",
+  "build_weeks": 7,
+  "build_notes": "Tajmer sa Live Activity, Screen Time API (FamilyControls entitlement od Apple-a), na Androidu UsageStats/Accessibility, ekonomija nagrada, animirani lik i stotine ilustrovanih dekoracija, lagan backend za sync i kupovine. Najveći rizik: obim i kvalitet ilustracija/animacija i odobrenje Screen Time entitlementa.",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": true,
+   "creator_format": true,
+   "shareable": true
+  },
+  "marketability_score": 4,
+  "hook": "Moj pasulj plače svaki put kad uzmem telefon dok učim, pa sam učila 4 sata bez prekida.",
+  "monetization": "Freemium sa Pro pretplatom i doživotnom kupovinom (~30–40 USD), bez reklama; korisnici je uglavnom prihvataju, deo smatra cenu visokom.",
+  "complaints": [
+   "Spor napredak bez Pro verzije, npr. 16 sati fokusa za novu sobu (~3 pominjanja)",
+   "Ranije besplatne funkcije (whitelist aplikacija) prebačene iza paywalla (~2)",
+   "Ne može se izuzeti muzika ili određena aplikacija iz blokiranja (~2)",
+   "Sadržaj se potroši kad se sobe popune; limit od 2h za besplatne korisnike (~2)"
+  ],
+  "suggestions": [
+   "Prijatelji, komšije i zajednički fokus (Bean-ovi se sreću u parku ili kafiću) (~3)",
+   "Izbor aplikacija koje ostaju dozvoljene tokom fokusa",
+   "Veći svet i više sadržaja za dugoročne korisnike",
+   "Duže sesije za besplatne korisnike"
+  ],
+  "praise": [
+   "Sladak lik i uređivanje sobe kao motivacija (~10)",
+   "Pomaže osobama sa ADHD-om da ostanu fokusirane (~6)",
+   "Bez reklama i bez praćenja podataka"
+  ],
+  "opportunity": "Dodati društveni sloj koji korisnici traže: zajedničke study sesije sa prijateljima, grupni nizovi i deljive sobe, uz sopstveni lik prilagođen Gen Z estetici; solo tajmer postaje grupni izazov koji se širi preko influencera.",
+  "growth": "Oko 19,3 ocene dnevno od izlaska (jul 2025), 8.614 ocena; recenzije 145 u 30d naspram 55 ranije (~2,6x), jasno ubrzanje (procena: početak školske godine i Hank Green publika).",
+  "scores": {
+   "marketabilityVirality": 4,
+   "marketingGap": 3,
+   "buildEase": 3,
+   "voiceOfCustomer": 4,
+   "monetization": 4,
+   "principleFit": 5
+  },
+  "confidence": "visoka",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "6444737095": {
+  "name": "StressWatch: AI Stress Monitor",
+  "exclude": false,
+  "list": "B",
+  "principle": "Ocena sebe i kvantifikacija",
+  "differentiator": "Umesto sirovih HRV brojeva iz Apple Health-a daje jasan status stresa u realnom vremenu, upozorenja kad si 'preopterećen' i Bio Age koji se smanjuje dobrim navikama.",
+  "specifics": [
+   "Ključna mehanika: čitanje HRV i RHR iz Apple Health-a, status stresa, notifikacije, Bio Age, navike za san i kretanje",
+   "Šta je deljivo: status na watch face-u i widgetima (procena: slabo deljivo van toga)",
+   "Društveni sloj: deljenje statusa sa jednim prijateljem",
+   "Monetizacija: pretplata (cena se ne vidi u paketu)"
+  ],
+  "psych": "Kvantifikacija unutrašnjeg stanja i broj (Bio Age) koji se može 'popraviti' daje osećaj kontrole: 'I like to try to get my bio age younger'. Rizik je obrnut efekat kada očitavanja deluju netačno.",
+  "developer_type": "mali tim (One Hundred Bad Ideas Limited, 5 aplikacija)",
+  "build_weeks": 6,
+  "build_notes": "HealthKit (HRV, RHR, san), watchOS aplikacija i komplikacije, widgeti, pozadinske notifikacije; Android preko Health Connect zavisi od nosivog uređaja. Najveći rizik: percepcija tačnosti i zavisnost od Apple Watch-a, manje rasprostranjenog kod publike 18–24.",
+  "marketability": {
+   "one_sentence": true,
+   "visual_3s": true,
+   "creator_format": true,
+   "shareable": false
+  },
+  "marketability_score": 3,
+  "hook": "Moj sat mi je rekao da sam pod stresom tačno u trenutku kad mi je šef poslao poruku.",
+  "monetization": "Pretplata; deo korisnika je spreman da plati ('One of the only apps I'm willing to pay for'), ali ima žalbi na naplatu i otkazivanje.",
+  "complaints": [
+   "Netačna očitavanja, stres kad je korisnik miran i obrnuto (~10 pominjanja)",
+   "Prekidi sinhronizacije i padovi aplikacije (~5)",
+   "Notifikacije i očitavanja i kada sat nije na ruci (~2)",
+   "Problemi sa otkazivanjem i naplatom (~2)"
+  ],
+  "suggestions": [
+   "Deljenje statusa sa više osoba",
+   "Smirenije prikazivanje (gauge) umesto stalno promenljivih očitavanja",
+   "Veći font i kontrastnije boje",
+   "Bolja podrška za novije Apple Watch modele i češće HRV tačke"
+  ],
+  "praise": [
+   "Rano upozorenje na stres kod ADHD-a i anksioznosti (~3)",
+   "Bio Age kao motivacija za zdrave navike",
+   "Jednostavan uvid bez proučavanja složenih podataka"
+  ],
+  "opportunity": "Pozicionirati kao igru sa Bio Age-om i nizom 'mirnih dana', uz transparentno objašnjenje očitavanja i poređenje sa prijateljima; ključno je smanjiti anksioznost od previše notifikacija.",
+  "growth": "Oko 19,2 ocene dnevno od izlaska (apr 2023), 24.305 ocena; recenzije 17 u 30d naspram 17 ranije, stabilno. Apple featuring je verovatno bio glavni kanal rasta.",
+  "scores": {
+   "marketabilityVirality": 3,
+   "marketingGap": 3,
+   "buildEase": 4,
+   "voiceOfCustomer": 4,
+   "monetization": 3,
+   "principleFit": 3
+  },
+  "confidence": "srednja",
+  "sources": [
+   {
+    "label": "App Store",
+    "url": "https://apps.apple.com/us/app/stresswatch-ai-stress-monitor/id6444737095",
+    "date": "2026-10-12"
+   }
+  ],
+  "checked": "2026-10-12"
+ },
+ "6746636289": {
+  "exclude": true,
+  "exclude_reason": "Idle RPG igra, nije self-improvement.",
+  "name": "Forge Master – Idle RPG"
+ },
+ "6737597349": {
+  "exclude": true,
+  "exclude_reason": "Opšti AI asistent velike firme sa sopstvenim modelima.",
+  "name": "DeepSeek - AI Assistant"
+ },
+ "1365028549": {
+  "exclude": true,
+  "exclude_reason": "Arkadna igra, nije self-improvement.",
+  "name": "Flying Gorilla"
+ },
+ "1485756576": {
+  "exclude": true,
+  "exclude_reason": "Firma sa 7 aplikacija, 160-dnevni edukativni program, sertifikovani coachevi i live sesije (velika biblioteka stručnog sadržaja, blisko kliničkom domenu); publika pretežno starija od 18–24.",
+  "name": "Reframe: Drink Less & Thrive"
+ },
+ "1571680865": {
+  "exclude": true,
+  "exclude_reason": "B2B alat za zakazivanje objava na društvenim mrežama, utility.",
+  "name": "Publer: Social Media Tools"
+ },
+ "6756178380": {
+  "exclude": true,
+  "exclude_reason": "Prodavac Adventure Labs ima 10 aplikacija, šablon kviz-onboarding + hard paywall (fabrika aplikacija). Napomena: koncept glow-up rutina za Gen Z je relevantan kao referenca.",
+  "name": "That Girl: Become a Clean Girl"
+ },
+ "1018301773": {
+  "exclude": true,
+  "exclude_reason": "Utility (blokiranje reklama), nije self-improvement.",
+  "name": "AdBlock Pro for Safari"
+ },
+ "1617534373": {
+  "exclude": true,
+  "exclude_reason": "Idle igra, nije self-improvement.",
+  "name": "Planet Evolution: Idle Clicker"
+ },
+ "1279295922": {
+  "exclude": true,
+  "exclude_reason": "Medicinski/fertilitetni tracker (regulisan domen, hardverski testovi).",
+  "name": "Premom-Ovulation Tracker, PCOS"
+ }
+}

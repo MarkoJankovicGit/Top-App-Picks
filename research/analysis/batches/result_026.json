@@ -1,0 +1,304 @@
+{
+  "6474233312": {
+    "exclude": true,
+    "exclude_reason": "Opšti AI asistent velike kineske firme (Beijing Moonshot); nije self-improvement niša.",
+    "name": "Kimi - Kimi K3 is Live"
+  },
+  "6786976763": {
+    "name": "Urge: Break Your Addiction",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Blocker za porno-zavisnost koji spaja Screen Time web filter, DNS profil i cooldown pri gašenju zaštite sa panic dugmetom i grupnim chatom za 'day 0' reset.",
+    "specifics": [
+      "Ključna mehanika: višeslojna blokada sajtova + niz čistih dana + panic dugme u trenutku poriva",
+      "Šta je deljivo: malo; tema je stigmatizovana, eventualno broj dana",
+      "Društveni sloj: accountability chat/board grupa (sa AI botom)",
+      "Monetizacija: hard paywall odmah posle ankete, pretplata (cene se ne vide u podacima)"
+    ],
+    "psych": "Odvikavanje uz trenje i niz dana; rekord za obaranje motiviše i posle recidiva: 'gives you the record to beat if you relapse'.",
+    "developer_type": "mali tim (Flow Alarm, INC., 2 aplikacije; registrovana firma, verovatno isti tim kao Flow Alarm)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls/ManagedSettings web filter), DNS profil, sprečavanje brisanja aplikacije, backend za grupni chat i AI moderaciju. Najveći rizik: Family Controls entitlement i Android ekvivalent (VPN/Accessibility) koji je krhkiji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "Dan 30 bez onoga o čemu niko ne priča: šta se promenilo u mojoj glavi.",
+    "monetization": "Hard paywall posle onboarding ankete, pretplata; cene nisu vidljive u podacima. Jedan korisnik hvali 'excellent price'.",
+    "complaints": [
+      "Neuklonjiv paywall odmah posle ankete (~4)",
+      "Sajtovi se mogu skinuti sa blok liste u trenutku slabosti (1)",
+      "Bugovi: tastatura u boardu, AI poruka se ponavlja u chatu (2)",
+      "Reddit se ne blokira (1)"
+    ],
+    "suggestions": [
+      "Besplatan trial ili besplatan osnovni tajmer",
+      "Zaključavanje blok liste (odloženo otključavanje)",
+      "Blokada Reddita",
+      "Popravka AI poruke u accountability chatu"
+    ],
+    "praise": [
+      "Zaista pomaže da se prestane (~6)",
+      "Promišljeno i 'made by someone who gets it'",
+      "Niz i rekord za obaranje u besplatnoj verziji"
+    ],
+    "opportunity": "Pozicionirati kao širi 'dopamine reset' (porno + scroll) da bi influencer marketing bio moguć; besplatan core (niz + panic), paywall na jaku blokadu sa zaključanom listom.",
+    "growth": "Izašla 2026-07-05; ~5,3 ocene/dan (526 ukupno) za ~3 meseca. Recenzije 30d 5 vs 5 prethodnih: stabilan rani rast.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/urge-break-your-addiction/id6786976763",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755126064": {
+    "exclude": true,
+    "exclude_reason": "Glavna motivacija je novac: ulaznica i udeo u nagradnom fondu (finansijska nagrada); recenzije govore o ROI i isplatama.",
+    "name": "Steppa - Step Challenges"
+  },
+  "6743873832": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je AI chat-coach za ADHD (blizu kliničkog domena) bez jasne mehanike navike; recenzije pominju plaćene reklame, hard paywall i 'chatgpt wrapper'.",
+    "name": "Mindflow AI: Overcome ADHD"
+  },
+  "1454808513": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: novac i gift kartice su glavna motivacija (finansijska nagrada).",
+    "name": "Steps: Make Money & Earn Cash"
+  },
+  "6757408525": {
+    "name": "Rewired: Screen Time Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Screen time blocker obrnuto: aplikacije otključavaš Brain tokenima koje zarađuješ zdravim navikama (šetnja, journaling, disanje) potvrđenim AI fotografijom, a 3D mozak-maskota pokazuje tvoje 'brainrot' stanje.",
+    "specifics": [
+      "Ključna mehanika: navika → tokeni → minuti ekrana; AI provera fotografijom ('touching grass')",
+      "Šta je deljivo: 3D mozak i health meter, zarađeni minuti",
+      "Društveni sloj: nije vidljiv u podacima",
+      "Monetizacija: hard paywall, ~$7 i ~$30 planovi, ~$50 godišnje prema recenzijama"
+    ],
+    "psych": "Nagrada za akciju: ekran postaje zarađena nagrada umesto zabrane: 'I loved having to do tasks to earn my screen time'.",
+    "developer_type": "solo (prodavac je fizičko lice DARYA KOSTYUCHEK, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls, DeviceActivity, ManagedSettings shield), AI vision za proveru fotografije, 3D/animirana maskota, HealthKit/Health Connect za korake. Najveći rizik: Android blokiranje (UsageStats + Accessibility) i varanje kod AI provere.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Telefon mi ne da TikTok dok ne izađem napolje i fotkom dokažem da sam dodirnuo travu.",
+    "monetization": "Hard paywall bez besplatnog nivoa; ~$7 / ~$30, oko $50 godišnje prema recenzijama. Veliki deo publike su tinejdžeri bez kartice i odbijaju.",
+    "complaints": [
+      "Hard paywall, nema besplatne verzije (~18)",
+      "Novi update pretvorio zarađivanje u 'kockanje'/igre (3)",
+      "Lažni X na paywallu (2)",
+      "Problem sa otkazivanjem pretplate (1)"
+    ],
+    "suggestions": [
+      "Besplatni osnovni nivo + premium",
+      "Vratiti staru verziju ili ponuditi izbor moda",
+      "Duži trial",
+      "Pristupačnija opcija za tinejdžere"
+    ],
+    "praise": [
+      "Smanjuje vreme na telefonu, 'life changing' (~6)",
+      "Zaključava aplikacije dok ne završiš ciljeve (2)",
+      "Pomaže vežbanje i ocene (2)"
+    ],
+    "opportunity": "Freemium u kome je zarađivanje tokena besplatno, a premium donosi strožu blokadu i statistiku; dodati prijatelje i niz da bi se aplikacija širila sama.",
+    "growth": "Izašla 2026-01-15; ~5,1 ocena/dan (1.386). Recenzije 30d 0 vs 3: pad posle avgustovskog update-a i paywalla.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/rewired-screen-time-blocker/id6757408525",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1166940722": {
+    "exclude": true,
+    "exclude_reason": "Sadržajna aplikacija (3D zvučna putovanja, binaural); velika biblioteka profesionalnog audio sadržaja.",
+    "name": "Beginning: Sleep & Meditation"
+  },
+  "1350420987": {
+    "exclude": true,
+    "exclude_reason": "Jezički sadržaj sa licenciranim K-pop/K-drama materijalom, 100M korisnika: velika firma i licencirani sadržaj.",
+    "name": "Cake - Learn English & Korean"
+  },
+  "6450921637": {
+    "name": "Gravl: AI Personal Trainer",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "AI trener za snagu koji sam radi progressive overload: procenjuje 1RM i propisuje sledeću težinu zaokruženu na ploče koje tvoja teretana stvarno ima, uz Strength Score po mišićnoj grupi.",
+    "specifics": [
+      "Ključna mehanika: automatska progresija, ocena seta Easy/Hard menja sledeći propis",
+      "Šta je deljivo: Strength Score i PR-ovi",
+      "Društveni sloj: feed (pominje se u recenziji), slab",
+      "Monetizacija: freemium, Premium ~$59,99/god, bez trial-a"
+    ],
+    "psych": "Vidljiv napredak kroz PR-ove i rast težine: 'i keep track of PRs and it's just fun!'.",
+    "developer_type": "mali tim / firma (GAINS COACH PTY LTD, Australija, 2 aplikacije); recenzije pominju plaćene kampanje protiv Fitbod-a",
+    "build_weeks": 8,
+    "build_notes": "Algoritam progresije, baza 300+ vežbi sa videom (licenca ili snimanje), standalone Apple Watch app, HealthKit/Strava/Garmin. Najveći rizik: video biblioteka i kvalitet preporuka težine.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Aplikacija mi je rekla da danas dižem 2,5 kg više, i bila je u pravu.",
+    "monetization": "Freemium; Premium ~$59,99 godišnje (jedna žalba na naplatu $89,98); nema free trial-a.",
+    "complaints": [
+      "Besmislene preporuke težine i kombinacije ploča (~3)",
+      "Bugovi i gubitak podataka posle update-a (~4)",
+      "Nema free trial-a (2)",
+      "Strength Score nerealan (1)"
+    ],
+    "suggestions": [
+      "Unos povreda",
+      "Definisanje dostupnih šipki (EZ i dr.)",
+      "Više opreme (ab crunch mašina)",
+      "Vratiti rekorde ispod vežbe"
+    ],
+    "praise": [
+      "Rezultati, bolji od Fitbod-a (~6)",
+      "Struktura i motivacija za doslednost",
+      "Apple Watch integracija"
+    ],
+    "opportunity": "Gen Z verzija sa deljivim PR karticama, grupnim 'lift streak' izazovima i jednostavnijim UI-jem; preporuke težine sa sigurnosnim granicama i unosom povreda.",
+    "growth": "Od 2023-08; ~5 ocena/dan (5.787). Recenzije 30d 14 vs 24: usporavanje.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 1,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gravl-ai-personal-trainer/id6450921637",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1056269374": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija za pametnu flašu (hardver).",
+    "name": "HidrateSpark Water Tracker"
+  },
+  "6747010310": {
+    "name": "Self-Care Pet: Momo",
+    "exclude": false,
+    "list": "A",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "Finch-tip self-care ljubimac (drevni duh Momo) sa AI chatom; san se prati telefonom na krevetu, a navike i zahvalnost donose novčiće za oblačenje i uređenje sveta.",
+    "specifics": [
+      "Ključna mehanika: dnevni zadaci → Momo coins → kozmetika i avanture",
+      "Šta je deljivo: izgled ljubimca",
+      "Društveni sloj: nije vidljiv",
+      "Monetizacija: premium ~$60/god (AI chat), stalni upsell"
+    ],
+    "psych": "Briga o ljubimcu pretvara navike u brigu o nekom drugom: 'You're raising them with tasks you need to complete everyday'.",
+    "developer_type": "mali tim (O7, Inc, 2 aplikacije)",
+    "build_weeks": 7,
+    "build_notes": "Animirani lik i kozmetika (najveći trošak je art), AI chat (LLM sa moderacijom jer ga koriste deca), praćenje sna akcelerometrom, blokiranje aplikacija. Najveći rizik: art produkcija i bezbednost AI chata za maloletne.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Moj mali ljubimac ostaje tužan ako ne operem zube, i sad sam najorganizovanija osoba koju znam.",
+    "monetization": "Freemium; premium ~$60 godišnje prema recenziji; agresivan upsell na svaki klik.",
+    "complaints": [
+      "AI chat prestao da radi, i za premium (~3)",
+      "Stalni paywall upsell (~2)",
+      "Bugovi: avanture, igra, preview ekran (~4)",
+      "Podrška ne odgovara (2)"
+    ],
+    "suggestions": [
+      "Uređenje sobe kao u Finch-u",
+      "Besplatan chat sa Momom",
+      "Ređi upsell"
+    ],
+    "praise": [
+      "Sladak lik (~6)",
+      "Pomaže rutinu i mentalno zdravlje (~6)",
+      "Bolji od Finch-a (2)"
+    ],
+    "opportunity": "Finch kategorija dokazano radi; razlika bi bila društveni sloj (ljubimci prijatelja, zajedničke avanture), stabilnost i freemium bez stalnog upsella.",
+    "growth": "Od 2025-07; ~5 ocena/dan (2.268). Recenzije 30d 0 vs 3: pad aktivnosti, moguće zasićenje.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/self-care-pet-momo/id6747010310",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "576395411": {
+    "exclude": true,
+    "exclude_reason": "Igra sa 50 mini-igara starijeg studija (MochiBits, 8 aplikacija); zabava, ne lična navika; bez rasta (recenzije 1 vs 0).",
+    "name": "Brain Games - Left vs Right"
+  },
+  "1541193285": {
+    "exclude": true,
+    "exclude_reason": "Ten Labs ima 10 aplikacija (portfolio tracker šablona); nutritivni tracker sa bazom hrane, van narativa doslednosti za Gen Z.",
+    "name": "Protein Tracker: Protein Pal"
+  },
+  "1047223162": {
+    "exclude": true,
+    "exclude_reason": "Utility (ad blocker) poznate firme.",
+    "name": "AdGuard Ad Blocker for Safari"
+  },
+  "1365078730": {
+    "exclude": true,
+    "exclude_reason": "ESL vokabular sa velikom sadržajnom bazom (25.000 reči, slike, audio, AI); publika uglavnom van US 18–24; stagnira (recenzije 1 vs 0).",
+    "name": "WordUp - Vocabulary Builder"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "6471974327": {
+    "exclude": true,
+    "exclude_reason": "Kolekcija casual mini-igara (20+) turskog studija sa 7 aplikacija; generički šablon 'brain training' igre, ne gradi ličnu naviku. Recenzije masovno prijavljuju prevarne pretplate van Apple-a (FastSpring) i lažne reklame.",
+    "name": "Logicus: Brain Training Games"
+  },
+  "1488020055": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija fitnes influencerke (Whitney Simmons) - vrednost počiva na poznatom brendu i velikoj biblioteci profesionalnih video treninga više trenera; nije replikabilno za 2 meseca bez brenda i sadržaja.",
+    "name": "Alive by Whitney Simmons"
+  },
+  "1194023242": {
+    "name": "Daylio Journal - Mood Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Dnevnik bez kucanja: unos u dva tapa (raspoloženje + ikonice aktivnosti), a aplikacija iz toga gradi statistiku koja pokazuje koje navike podižu raspoloženje. Granično zato što je osnovna vrednost samorefleksija, a ne konkretna navika.",
+    "specifics": [
+      "Ključna mehanika: izbor raspoloženja + aktivnosti u 2 koraka, kalendar, statistika korelacija aktivnost/raspoloženje, ciljevi, niz dana",
+      "Šta je deljivo: godišnji 'Year in Pixels' kalendar i dugi nizovi (recenzije: '1,000 days', 'year streak') - procena, deljenje nije eksplicitno u podacima",
+      "Društveni sloj: ne postoji u podacima, potpuno privatna aplikacija",
+      "Monetizacija: freemium sa premium pretplatom; recenzije kažu samo godišnji plan uz 7-dnevni trial"
+    ],
+    "psych": "Niz dana i vidljiva istorija kao vrednost koju korisnik ne želi da izgubi; popravka niza bez vremenskog limita smanjuje odustajanje. Dokaz: 'was devastated that i would lose my 2 year streak'.",
+    "developer_type": "mali tim (procena): Relaxio s.r.o., 1 aplikacija",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + cloud backup/sync, kalendar i grafikoni, prilagodljive ikonice i aktivnosti, podsetnici, PIN zaključavanje, PDF/CSV izvoz. Bez posebnih API-ja. Najveći rizik: pouzdan sync između uređaja (recenzije prijavljuju gubitak podataka) i diferencijacija u zasićenoj kategoriji.",
+    "marketability": {"one_sentence": true, "visual_3s": true, "creator_format": true, "shareable": true},
+    "marketability_score": 3,
+    "hook": "'Pratila sam raspoloženje 365 dana - evo šta me zapravo čini srećnom' uz skrol kroz šareni godišnji kalendar.",
+    "monetization": "Premium pretplata, prema recenzijama samo godišnja (bez mesečne), 7-dnevni trial; deo korisnika smatra to zamkom (~4).",
+    "complaints": [
+      "Samo godišnja pretplata i agresivan trial, teško otkazivanje (~5)",
+      "Gubitak podataka i nestali unosi, nema sync između uređaja (~3)",
+      "Previše upsella i zahteva za ocenu (~3)",
+      "Neželjene izmene (PDF izvoz, grafikoni, 'na današnji dan' kartice) (~3)"
+    ],
+    "suggestions": [
+      "Besplatno PIN zaključavanje",
+      "Opcija za isključivanje 'ovaj dan u istoriji' kartica",
+      "Mesečna pretplata pored godišnje",
+      "Izvoz/integracija za AI analizu (korisnik već šalje CSV u ChatGPT/Gemini)"
+    ],
+    "praise": [
+      "Ekstremno brz i jednostavan unos, navika koja traje godinama",
+      "Prilagodljivost (moodovi, aktivnosti, simptomi, ciljevi)",
+      "Popravka niza bez vremenskog ograničenja"
+    ],
+    "opportunity": "Gen Z verzija sa ugrađenim AI uvidima ('šta ti podiže raspoloženje'), deljivim godišnjim/mesečnim karticama i prijateljima za zajedničke nizove; pošten freemium sa mesečnim planom.",
+    "growth": "Izlazak 2017-01-25, ~17,5 ocena dnevno tokom 9+ godina; recenzije 25 u 30d naspram 26 prethodnih - stabilna, zrela potražnja bez rasta.",
+    "scores": {"marketabilityVirality": 3, "marketingGap": 5, "buildEase": 4, "voiceOfCustomer": 4, "monetization": 4, "principleFit": 4},
+    "confidence": "srednja",
+    "sources": [{"label": "App Store", "url": "https://apps.apple.com/us/app/daylio-journal-mood-tracker/id1194023242", "date": "2026-10-12"}],
+    "checked": "2026-10-12"
+  },
+  "1158048301": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za Hatch hardver (Restore, Rest); vrednost je u fizičkom uređaju, firma sa milionima korisnika.",
+    "name": "Hatch Sleep"
+  },
+  "1164801111": {
+    "exclude": true,
+    "exclude_reason": "Zavisi od Apple Watch-a i sopstvenog algoritma detekcije sna (Sleep Rings, apnea, SpO2); Android paritet nije realan za 2 meseca, publika je starija i nije pogodna za influencer marketing.",
+    "name": "AutoSleep: Watch Sleep Tracker"
+  },
+  "6443673361": {
+    "name": "Mood AI - Daily journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Mood tracker sa 'balonom' raspoloženja u više boja koji meša emocije i okidače u jedan vizuelni zapis dana. Granično: naziv obećava AI, a podaci ne pokazuju jasnu AI funkciju; razvojna podrška deluje slabo.",
+    "specifics": [
+      "Ključna mehanika: unos raspoloženja, emocija i okidača, dnevni zapis, vizuelni prikaz kao obojeni baloni",
+      "Šta je deljivo: obojeni 'baloni' dana (procena), deljenje sa terapeutom pomenuto u opisu",
+      "Društveni sloj: ne postoji u podacima",
+      "Monetizacija: Moodlight Premium, mesečna i godišnja pretplata; statistika i istorija iza paywalla"
+    ],
+    "psych": "Kvantifikacija emocija daje osećaj kontrole i razumevanja obrazaca. Dokaz: 'For someone who finds it difficult to track anything or create any habit, this app helps a lot'.",
+    "developer_type": "mali tim (procena): Monkey Taps, 7 aplikacija; jedan korisnik pominje cene 'even for this company', moguć portfolio sličnih aplikacija",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza, vizuelizacija (animirani baloni), statistika, Face ID zaključavanje, pretplate. Opciono LLM za refleksiju. Najveći rizik: performanse sa velikom istorijom (glavna žalba) i niska diferencijacija.",
+    "marketability": {"one_sentence": true, "visual_3s": true, "creator_format": false, "shareable": false},
+    "marketability_score": 2,
+    "hook": "'Moje raspoloženje ove nedelje u bojama' - time-lapse balona koji menjaju boje iz dana u dan.",
+    "monetization": "Mesečna i godišnja pretplata (cene nisu vidljive); žalbe na cenu i izostanak triala (~3).",
+    "complaints": [
+      "Sporost, lag i padovi kako raste broj unosa (~8)",
+      "Nema prilagođenih raspoloženja i okidača (~2)",
+      "Nema mesečnog pregleda, traka dana kreće od početka korišćenja (~2)",
+      "Cena i izostanak free triala (~3)"
+    ],
+    "suggestions": [
+      "Mesečni pregled raspoloženja",
+      "Prilagođene emocije i okidači",
+      "iPad verzija",
+      "Traka dana koja počinje od današnjeg dana"
+    ],
+    "praise": [
+      "Pomaže refleksiji i razumevanju emocija",
+      "Lep dizajn i koncept balona u bojama",
+      "Dugogodišnja dnevna upotreba kod lojalnih korisnika"
+    ],
+    "opportunity": "Isti koncept vizuelnog raspoloženja, ali brz, sa prilagodljivim okidačima, stvarnim AI uvidima i deljivim mesečnim 'mood art' karticama za Gen Z.",
+    "growth": "Izlazak 2023-01-06, ~17,2 ocene dnevno; recenzije 1 u 30d naspram 4 prethodnih - aktivnost opada, a recenzije ukazuju na zapuštenost aplikacije.",
+    "scores": {"marketabilityVirality": 2, "marketingGap": 4, "buildEase": 5, "voiceOfCustomer": 3, "monetization": 3, "principleFit": 3},
+    "confidence": "niska",
+    "sources": [{"label": "App Store", "url": "https://apps.apple.com/us/app/mood-ai-daily-journal/id6443673361", "date": "2026-10-12"}],
+    "checked": "2026-10-12"
+  },
+  "6737156524": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (MacroFactor / Stronger By Science) sa video bibliotekom Jeffa Nipparda i algoritmima progresivnog opterećenja; vrednost zavisi od brenda i profesionalnog sadržaja.",
+    "name": "MacroFactor Workouts - Tracker"
+  },
+  "6740759484": {
+    "name": "Overcomer - Defeat Lust",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "NoFap/quit-porn aplikacija sa hrišćanskim okvirom: niz dana čistoće + blokator sadržaja + 'Panic Room' sa vođenom molitvom + AI pratilac i zajednica. Granično zbog verskog okvira i oznake praćenja.",
+    "specifics": [
+      "Ključna mehanika: kviz na početku -> personalizovan plan, dnevni check-in, niz dana i milestone kalendar, blokator sadržaja, Panic Room, AI pratilac 24/7",
+      "Šta je deljivo: broj dana čistoće i milestone-i (procena)",
+      "Društveni sloj: zajednica i poruke (recenzije: 'Great community', 'the community is nice')",
+      "Monetizacija: tvrdi paywall posle kviza; pominju se ~$10, $29.99 i $60"
+    ],
+    "psych": "Niz dana i strah od gubitka plus polaganje računa zajednici; gubitak niza zbog baga izazvao je relaps. Dokaz: 'I relapsed because of this glitch... My month long streak disappeared'.",
+    "developer_type": "mali tim (procena): Overcomer App LLC, 2 aplikacije",
+    "build_weeks": 7,
+    "build_notes": "Backend za nalog, zajednicu i moderaciju; Screen Time API (FamilyControls/ManagedSettings) i Safari content blocker na iOS-u, Accessibility/VPN filter na Androidu; LLM pratilac; streak i check-in. Najveći rizik: pouzdanost blokatora i prijave (glavne žalbe), moderacija zajednice sa maloletnicima, App Store pravila za ovu temu.",
+    "marketability": {"one_sentence": true, "visual_3s": false, "creator_format": true, "shareable": false},
+    "marketability_score": 3,
+    "hook": "'Dan 90 bez porn-a - evo šta se promenilo' uz brojač dana na ekranu.",
+    "monetization": "Pretplata sa tvrdim paywallom (nedeljni/godišnji, ~$10 / $29.99 / $60 prema recenzijama); veliki otpor jer korisnici očekuju besplatnu pomoć (~8), deo publike su maloletnici.",
+    "complaints": [
+      "Plaćanje za pomoć kod zavisnosti, nema besplatne verzije (~8)",
+      "Problemi sa prijavom (Apple/Google) i padovi (~7)",
+      "Gubitak podataka i niza posle baga (~3)",
+      "Generičan, siromašan sadržaj u odnosu na cenu (~2)"
+    ],
+    "suggestions": [
+      "Dugme za relaps i mogućnost izmene check-ina istog dana",
+      "Widgeti za praćenje niza",
+      "Vraćanje dnevnog check-in upitnika/dnevnika",
+      "Vođena molitva koja se nastavlja kad je aplikacija u pozadini"
+    ],
+    "praise": [
+      "Zajednica i osećaj da nisi sam",
+      "Personalizovan plan oporavka",
+      "Konkretni rezultati (dani čistoće, više samopouzdanja)"
+    ],
+    "opportunity": "Sekularna (ili opciona verska) verzija sa besplatnim jezgrom (brojač + panic dugme) i plaćenim blokatorom i accountability partnerom; stabilna prijava i zaštita niza od gubitka.",
+    "growth": "Izlazak 2025-02-02, ~17 ocena dnevno; recenzije 1 u 30d naspram 2 prethodnih - visoka stopa ocena uz nisku stopu pisanih recenzija; oznaka praćenja sugeriše plaćeni marketing.",
+    "scores": {"marketabilityVirality": 3, "marketingGap": 3, "buildEase": 3, "voiceOfCustomer": 4, "monetization": 3, "principleFit": 5},
+    "confidence": "srednja",
+    "sources": [{"label": "App Store", "url": "https://apps.apple.com/us/app/overcomer-defeat-lust/id6740759484", "date": "2026-10-12"}],
+    "checked": "2026-10-12"
+  },
+  "1322399438": {
+    "exclude": true,
+    "exclude_reason": "Velika gacha RPG igra (Smilegate), zabava, ne lična navika; nije izvodljivo za 2 meseca.",
+    "name": "Epic Seven"
+  },
+  "6456176249": {
+    "name": "Bevel: AI Health Coach",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "'Whoop bez Whoop narukvice': pretvara podatke sa bilo kog sata (Apple Watch, Oura, Garmin) u tri dnevna skora - Recovery, Sleep, Strain - uz AI trenera. Granično zbog obima (baza hrane, integracije, AI) i jasnih znakova plaćenog marketinga.",
+    "specifics": [
+      "Ključna mehanika: dnevni Recovery/Sleep/Strain/Nutrition skor iz HealthKit podataka, AI preporuke kada trenirati i odmarati, praćenje treninga i obroka",
+      "Šta je deljivo: skorovi kao kartice (procena); korisnik traži Friends/Social funkciju",
+      "Društveni sloj: ne postoji; eksplicitan predlog korisnika za prijatelje i deljenje sna/oporavka",
+      "Monetizacija: besplatna analitika + AI pretplata ($14.99 mesečno prema recenziji), 7-dnevni trial"
+    ],
+    "psych": "Jedan broj dnevno pretvara složene zdravstvene podatke u jasnu povratnu informaciju i jutarnji ritual. Dokaz: 'Made me keep my Apple Watch'.",
+    "developer_type": "mali tim (procena): Starlight Tech LLC, 1 aplikacija; obim proizvoda sugeriše finansiran startup",
+    "build_weeks": 9,
+    "build_notes": "HealthKit + Health Connect, algoritmi skorova (HRV, puls u mirovanju, san), Watch aplikacija, baza hrane (licencirana/API), skener barkoda, LLM trener, integracije Oura/Garmin. MVP samo sa tri skora iz HealthKit-a je realan za ~8 nedelja; puni obim nije. Najveći rizik: tačnost skorova i zavisnost od nosivog uređaja.",
+    "marketability": {"one_sentence": true, "visual_3s": true, "creator_format": true, "shareable": true},
+    "marketability_score": 4,
+    "hook": "'Prestao sam da plaćam Whoop - ova besplatna aplikacija mi daje isti recovery skor sa Apple Watch-a.'",
+    "monetization": "Freemium: analitika besplatna, AI pretplata ~$14.99 mesečno; deo korisnika plaća i hvali AI, deo odbija trial na startu (~4).",
+    "complaints": [
+      "Padovi i bagovi, posebno na iOS 27 (~6)",
+      "Netačni ili zastareli podaci i AI tumačenja (~5)",
+      "Reklame obećavaju 'besplatno', a dočeka te trial/paywall (~4)",
+      "AI nepotreban ili izaziva anksioznost (~3)"
+    ],
+    "suggestions": [
+      "Friends/social funkcija za deljenje sna i oporavka",
+      "Intermittent fasting praćenje",
+      "Povezivanje sopstvenog AI-a (MCP/CSV izvoz)",
+      "Podrška za arapski jezik"
+    ],
+    "praise": [
+      "Sve u jednom (san, oporavak, ishrana, trening) - zamena za Whoop",
+      "Čist interfejs i razumljivi uvidi",
+      "AI trener koji koristi stvarne podatke"
+    ],
+    "opportunity": "Fokusiran MVP za Gen Z: samo tri skora + društveni sloj (prijatelji, zajednički 'recovery' izazovi, rang po snu) koji Bevel nema; pošten freemium bez lažnog 'free' u reklamama.",
+    "growth": "Izlazak 2024-01-08, ~16,9 ocena dnevno; recenzije 55 u 30d naspram 63 prethodnih - visoka i stabilna aktivnost; recenzije pominju Instagram reklame i TikTok, što objašnjava rast.",
+    "scores": {"marketabilityVirality": 4, "marketingGap": 1, "buildEase": 2, "voiceOfCustomer": 4, "monetization": 4, "principleFit": 3},
+    "confidence": "srednja",
+    "sources": [{"label": "App Store", "url": "https://apps.apple.com/us/app/bevel-ai-health-coach/id6456176249", "date": "2026-10-12"}],
+    "checked": "2026-10-12"
+  },
+  "6761459934": {
+    "exclude": true,
+    "exclude_reason": "Generički šablon: opis navodi drugo ime aplikacije ('Brain Bloom'), nepoznat prodavac, casual mini-igre bez navike; recenzije prijavljuju naplatu umesto triala i agresivne reklame.",
+    "name": "IQ Elevate - Brain Training"
+  },
+  "1418794453": {
+    "exclude": true,
+    "exclude_reason": "Licencirani TV brend (Who Wants to Be a Millionaire) i trivia igra sa reklamama; nije lična navika ni mali developer.",
+    "name": "Millionaire Quiz: Trivia Game"
+  },
+  "6786063537": {
+    "exclude": true,
+    "exclude_reason": "Casual trivia igra monetizovana reklamama, studio sa 9 aplikacija (fabrika); ne gradi ličnu naviku.",
+    "name": "TriviaPeak: Trivia Quiz Games"
+  },
+  "6756287369": {
+    "exclude": true,
+    "exclude_reason": "Tekstualni life simulator (BitLife klon sa AI unosom) - zabava, ne lična navika ili disciplina.",
+    "name": "AltLife Sim!"
+  }
+}

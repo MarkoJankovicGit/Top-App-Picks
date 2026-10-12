@@ -1,0 +1,39 @@
+{
+  "_note": "Kljucne reci za otkrivanje kroz Apple Search API (US). Grupisane po psiholoskom principu. Prosiruju se posle svakog skena.",
+  "groups": {
+    "navike_i_nizovi": [
+      "habit tracker", "streak tracker", "daily habits", "morning routine", "discipline",
+      "self improvement", "glow up", "75 hard", "accountability", "goal tracker",
+      "gamified habits", "level up life", "life rpg", "gratitude journal", "daily journal"
+    ],
+    "kretanje": [
+      "step counter", "pedometer", "walking app", "walking challenge", "steps challenge",
+      "running app", "run tracker", "couch to 5k", "running game", "territory running",
+      "pushup counter", "workout challenge", "home workout", "calisthenics", "plank challenge",
+      "fitness challenge", "stretching routine"
+    ],
+    "spavanje_i_budjenje": [
+      "alarm clock mission", "wake up alarm", "sleep tracker", "sleep schedule", "wake up early"
+    ],
+    "fokus_i_ekran": [
+      "focus timer", "pomodoro", "screen time", "app blocker", "phone addiction",
+      "dopamine detox", "study timer", "study with friends", "deep work"
+    ],
+    "odvikavanje": [
+      "quit porn", "quit vaping", "quit smoking", "sober tracker", "quit sugar",
+      "quit social media", "nofap"
+    ],
+    "takmicenje_i_drustveno": [
+      "compete with friends", "fitness challenge friends", "group challenge", "accountability partner",
+      "bet on yourself", "habits with friends", "leaderboard"
+    ],
+    "ucenje_sa_bodovanjem": [
+      "brain training", "daily quiz", "vocabulary builder", "reading tracker", "read more books",
+      "learn something new", "daily lessons"
+    ],
+    "zdrave_navike": [
+      "water tracker", "drink water reminder", "calorie counter photo", "protein tracker",
+      "cold shower", "posture", "intermittent fasting", "skincare routine"
+    ]
+  }
+}

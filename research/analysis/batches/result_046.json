@@ -1,0 +1,520 @@
+{
+  "6751262332": {
+    "exclude": true,
+    "exclude_reason": "Generički AI skener kalorija (šablon kategorije), primarno arapsko tržište; nema diferencijacije.",
+    "name": "Calorie Counter: Kalee"
+  },
+  "376183339": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (TED) i čist video sadržaj.",
+    "name": "TED Talks: Watch and Learn"
+  },
+  "863872931": {
+    "name": "Sober: Sobriety Tracker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Brojač dana treznosti sa više supstanci, anonimnom zajednicom i pretragom sastanaka, razvijen sa savetnikom za zavisnosti.",
+    "specifics": [
+      "Ključna mehanika: brojač dana, streak, kalkulator ušteđenog novca i vremena, dnevni check-in",
+      "Šta je deljivo: milestone dana treznosti (procena)",
+      "Društveni sloj: anonimna zajednica i čet",
+      "Monetizacija: freemium, dodatne supstance i funkcije uz pretplatu"
+    ],
+    "psych": "Niz dana i strah od gubitka: svaki dan treznosti je vidljiv broj. Dokaz: 'The daily check-in keeps me coming back'.",
+    "developer_type": "mali tim (Red Penguin LLC, 1 aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "Brojač i kalendar, zajednica sa moderacijom (najveći posao), lokator sastanaka (spoljni podaci), notifikacije. Najveći rizik: moderacija zajednice i osetljiva tema.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 3,
+    "hook": "'Dan 365 bez alkohola — evo šta mi je aplikacija izračunala da sam uštedeo.'",
+    "monetization": "Freemium; ranije besplatno praćenje više supstanci sada plaćeno, što ljuti korisnike.",
+    "complaints": [
+      "Bagovi kalendara, prazan ekran i gubitak brojača (oko 6)",
+      "Uvedeno plaćanje za dodatne supstance (oko 3)",
+      "Beskoristan modul sastanaka i mala zajednica (oko 2)",
+      "Nema podrške (oko 2)"
+    ],
+    "suggestions": [
+      "Prikaz u mesecima/godinama, ne samo danima",
+      "Omiljeni sastanci u kalendaru",
+      "Rad uz roditeljska ograničenja za mlade"
+    ],
+    "praise": [
+      "Motiviše i podržava oporavak",
+      "Zajednica i čet",
+      "Besplatno i jednostavno"
+    ],
+    "opportunity": "Pouzdan brojač sa deljivim milestone karticama i 'sober buddy' parovima umesto velikog foruma.",
+    "growth": "1.75 ocena/dan od izlaska (2014-06-22), 7850 US ocena; recenzije 30d: 0 naspram 4 u prethodnih 30d. Zrela aplikacija; recenzije pale na 0 u poslednjih 30d — stagnacija.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sober-sobriety-tracker/id863872931",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1484402218": {
+    "name": "Stridekick Activity Challenges",
+    "exclude": false,
+    "list": "B",
+    "principle": "Grupni izazov",
+    "differentiator": "Izazovi u koracima sa prijateljima bez obzira na to koji uređaj ima ko (Fitbit, Apple Watch, Garmin...), punilac rupe posle gašenja Fitbit izazova.",
+    "specifics": [
+      "Ključna mehanika: leaderboard, streak i target izazovi, community izazovi (Journey, Teams)",
+      "Šta je deljivo: rang lista izazova",
+      "Društveni sloj: prijatelji, porodica, kolege, korporativni izazovi",
+      "Monetizacija: pretplata za privatne izazove + korporativna partnerstva + marketplace"
+    ],
+    "psych": "Grupni izazov i polaganje računa. Dokaz: 'I went from walking 10k steps a day to over 20k!'.",
+    "developer_type": "mali tim / firma (Stridekick Inc., 1 aplikacija, B2B partnerstva)",
+    "build_weeks": 8,
+    "build_notes": "Integracije više nosivih uređaja (Fitbit, Garmin, Withings, Polar, HealthKit, Health Connect) — glavni rizik; backend za izazove i čet.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": true
+    },
+    "marketability_score": 2,
+    "hook": "'Fitbit je ukinuo izazove, pa sada moja porodica ratuje ovde.'",
+    "monetization": "Pretplata za privatne izazove; korisnici odbijaju jer je ranije bilo besplatno i jer su javni izazovi puni stranaca.",
+    "complaints": [
+      "Stranci ulaze u izazove osim ako ne platiš (oko 8)",
+      "Sync sa Fitbit/Garmin ne radi (oko 5)",
+      "Uvođenje plaćanja, kraći free period (oko 4)",
+      "Ukinut web pristup (oko 2)"
+    ],
+    "suggestions": [
+      "Privatni izazovi besplatno za male grupe",
+      "Notifikacija kad te neko sustiže",
+      "Lakši čet u grupi",
+      "Vratiti web verziju"
+    ],
+    "praise": [
+      "Takmičenje sa prijateljima različitih uređaja",
+      "Motivacija i zajednica",
+      "Zamena za Fitbit izazove"
+    ],
+    "opportunity": "Besplatni privatni izazovi za male grupe kao viralna petlja, monetizacija kroz kozmetiku/premium statistiku.",
+    "growth": "1.75 ocena/dan od izlaska (2019-12-05), 4379 US ocena; recenzije 30d: 3 naspram 5 u prethodnih 30d. Zrela aplikacija, ravan priliv; publika starija (porodice, korporacije), manje Gen Z.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 4,
+      "buildEase": 2,
+      "voiceOfCustomer": 5,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/stridekick-activity-challenges/id1484402218",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755876142": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (Kur'an, zikr) kao osnovna vrednost.",
+    "name": "Deenback: Muslim self-control"
+  },
+  "6443918070": {
+    "name": "Habit Tracker - HabitKit",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Habit tracker čija je cela suština GitHub-stil mreža obojenih kvadratića — jedan kvadrat za svaki dan kada se pojaviš.",
+    "specifics": [
+      "Ključna mehanika: grid po navici, streak, 'quit' navike sa brojanjem čistih dana, dnevni maksimum",
+      "Šta je deljivo: estetski grid navika",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium (3–4 navike besplatno), Pro pretplata i lifetime"
+    ],
+    "psych": "Vidljiv napredak: popunjena mreža je dokaz identiteta. Dokaz: 'As an ADHD brain, I really thrive on seeing the wins visually'.",
+    "developer_type": "solo (Sebastian Roehl, 4 aplikacije)",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza, grid prikaz, widgeti, opciono iCloud/cloud sync. Najveći rizik: nizak; sync između uređaja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ovo je moja 2026. u kvadratićima — svaki zeleni je dan kad nisam odustao.'",
+    "monetization": "Freemium + Pro (pretplata i lifetime); većina prihvata i podržava developera, manjina se buni na limit od 3–4 navike.",
+    "complaints": [
+      "Limit od 3–4 navike u besplatnoj verziji (oko 3)",
+      "Nema cloud sync, gubitak podataka (oko 4)",
+      "Widget pokazuje 'subscribe' iako je Pro (oko 1)",
+      "Ikonice umesto reči otežavaju pregled (oko 1)"
+    ],
+    "suggestions": [
+      "iCloud sync",
+      "Apple Watch čekiranje",
+      "Beleške uz navike",
+      "Pregled po mesecima za ne-dnevne navike"
+    ],
+    "praise": [
+      "Jednostavnost i estetika",
+      "Vizuelni napredak",
+      "Responzivan developer"
+    ],
+    "opportunity": "Dodati deljive grid kartice i 'grid sa prijateljem' (zajednička mreža) za TikTok aesthetic publiku.",
+    "growth": "1.74 ocena/dan od izlaska (2022-11-26), 2467 US ocena; recenzije 30d: 1 naspram 8 u prethodnih 30d. Pad recenzija (1 naspram 8) u poslednjih 30d; ipak organska, dugovečna, bez praćenja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/habit-tracker-habitkit/id6443918070",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1523819447": {
+    "exclude": true,
+    "exclude_reason": "Marketplace za privatne časove, poznata firma; nije lična navika.",
+    "name": "Superprof | Cours particuliers"
+  },
+  "1569873335": {
+    "name": "Relay: Quit Lust & Addiction",
+    "exclude": false,
+    "list": "B",
+    "principle": "Grupni izazov",
+    "differentiator": "Program za prestanak pornografije koji umesto blokatora gradi privatnu grupu za polaganje računa (po polu) i video lekcije sa terapeutima.",
+    "specifics": [
+      "Ključna mehanika: strukturisan program, video lekcije, alati za porive, emocionalni check-in",
+      "Šta je deljivo: ništa javno (osetljiva tema)",
+      "Društveni sloj: privatne grupe za polaganje računa, odvojene po polu",
+      "Monetizacija: ~150 USD/god ili lifetime, bez mesečnog plana"
+    ],
+    "psych": "Grupna odgovornost i oporavak. Dokaz: 'Guided study and team engagement offer a great opportunity to change habits'.",
+    "developer_type": "firma / mali tim (Relay Health Inc, 1 aplikacija, terapeuti, plaćeni oglasi i YouTube preporuke)",
+    "build_weeks": 8,
+    "build_notes": "Grupni čet i moderacija, video lekcije (licencirani terapeuti, produkcija sadržaja), alati. Najveći rizik: sadržaj od stručnjaka i moderacija grupa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Teško za influencere; procena: faith/podcast kanali (već ih koriste).",
+    "monetization": "~150 USD/god, bez mesečnog plana; deo korisnika plaća, mnogi odustaju na cenu.",
+    "complaints": [
+      "Paywall i cena 150 USD bez mesečnog plana (oko 6)",
+      "Naplata uprkos traženom otkazu (oko 2)",
+      "Metod izaziva osećaj krivice (oko 1)"
+    ],
+    "suggestions": [
+      "Mesečni plan",
+      "Potpun točak emocija u check-inu"
+    ],
+    "praise": [
+      "Zajednica i povezanost",
+      "Psihološki utemeljen program",
+      "Spoj vere i psihologije"
+    ],
+    "opportunity": "Manji 'accountability pod' format bez skupog video sadržaja; ali tema je teško prenosiva na influencere.",
+    "growth": "1.72 ocena/dan od izlaska (2021-08-23), 3228 US ocena; recenzije 30d: 3 naspram 10 u prethodnih 30d. Pad recenzija (3 naspram 10); recenzije pominju plaćene oglase i YouTube kanale.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 2,
+      "voiceOfCustomer": 3,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/relay-quit-lust-addiction/id1569873335",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1609960918": {
+    "name": "Jomo - Screen Time Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Screen time blocker sa strogim modom, šablonima ('Brick Phone Mode') i trenjem pri otključavanju (kucanje razloga, kopiranje nasumičnog koda) — jeftinija Opal alternativa.",
+    "specifics": [
+      "Ključna mehanika: zakazane i brze blokade, strict mode, otključavanje uz razlog ili kod, zarađivanje vremena kroz navike",
+      "Šta je deljivo: smanjenje screen time-a (procena)",
+      "Društveni sloj: nema izraženog",
+      "Monetizacija: freemium + pretplata i lifetime, jeftinije od Opal-a"
+    ],
+    "psych": "Obaveza unapred i namerno trenje. Dokaz: 'Every other app I've tried I've just been able to bypass, but Jomo you can't'.",
+    "developer_type": "mali tim (Jomo, 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) i Android Accessibility/UsageStats, pravila po lokaciji i vremenu. Najveći rizik: entitlement, bagovi API-ja i zaobilaženje.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'21 godina, 6 sati Instagrama dnevno — evo kako sam to spustio na 40 minuta.'",
+    "monetization": "Freemium sa velikim besplatnim delom + Pro/lifetime; korisnici ga hvale kao pristupačnog, deo kritikuje dark patterns u onboardingu.",
+    "complaints": [
+      "Bagovi posle update-a (strict mode, iskupljivanje vremena, izmene) (oko 4)",
+      "Dark patterns u onboardingu (oko 1)",
+      "Komplikovan UI (oko 2)",
+      "Ne radi na iPadu (oko 1)"
+    ],
+    "suggestions": [
+      "Jednostavnije pravilo po lokaciji",
+      "Zatvoriti rupe za zaobilaženje",
+      "Više limita u free verziji"
+    ],
+    "praise": [
+      "Teško se zaobilazi, strogi mod",
+      "Jeftiniji i bolji od Opal-a",
+      "Prilagodljivost i dizajn"
+    ],
+    "opportunity": "Dodati društvenu obavezu (prijatelj odobrava otključavanje) i deljiv nedeljni izveštaj za Gen Z.",
+    "growth": "1.7 ocena/dan od izlaska (2022-10-16), 2480 US ocena; recenzije 30d: 3 naspram 7 u prethodnih 30d. Pad recenzija (3 naspram 7); ipak stabilna, organski preporučena (Reddit).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1476563238": {
+    "name": "Ultiself | Self-Improvement",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Habit tracker koji uz dnevnu ocenu dana i AI uvide pokazuje koje navike zaista utiču na raspoloženje i fokus, plus biblioteka navika sa naučnim objašnjenjima.",
+    "specifics": [
+      "Ključna mehanika: biblioteka navika, check-in od 30 s sa ocenom dana, AI uvidi, kursevi",
+      "Šta je deljivo: ništa izraženo (procena)",
+      "Društveni sloj: lični 'coach' iz podrške (prodajni kontakt)",
+      "Monetizacija: skupa pretplata (prijave 50–87 USD mesečno) i upsell kurseva"
+    ],
+    "psych": "Kvantifikacija sebe: veza navika i ocene dana. Dokaz: 'tracking how individual habits actually impact your daily focus'. Mnoge 5* recenzije deluju generički (moguće podstaknute).",
+    "developer_type": "firma (Ultiself Corporation, 1 aplikacija, prodajni tim koji 'upisuje' korisnike)",
+    "build_weeks": 6,
+    "build_notes": "Habit tracker, ocena dana, korelacije/AI uvidi, biblioteka navika i kurseva (sadržaj). Najveći rizik: sadržaj i reputacija.",
+    "marketability": {
+      "one_sentence": false,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 0,
+    "hook": "Slab; procena: 'Aplikacija mi je pokazala da mi 10 min šetnje diže raspoloženje više od kafe.'",
+    "monetization": "Vrlo skupa pretplata sa žalbama na neovlašćene naplate; model koji korisnici odbijaju.",
+    "complaints": [
+      "Neočekivane naplate 50–100 USD mesečno, nemoguće otkazivanje (oko 9)",
+      "Agresivni prodajni pitch pri svakom otvaranju (oko 2)",
+      "Ne prati automatski (oko 1)"
+    ],
+    "suggestions": [
+      "Jasna cena i lako otkazivanje",
+      "Besplatan osnovni deo"
+    ],
+    "praise": [
+      "Čist i jednostavan UI",
+      "Biblioteka navika sa objašnjenjima",
+      "Brza podrška"
+    ],
+    "opportunity": "Korelacija navika i ocene dana je zanimljiva mehanika; uzeti je, ali sa transparentnim freemium modelom.",
+    "growth": "1.69 ocena/dan od izlaska (2020-05-12), 3950 US ocena; recenzije 30d: 5 naspram 7 u prethodnih 30d. Priliv recenzija ravan; sumnjiv obrazac (mnogo generičkih 5* uz 1* zbog naplate).",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 1,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/ultiself-self-improvement/id1476563238",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1636526901": {
+    "exclude": true,
+    "exclude_reason": "Idle RPG igra, nije self-improvement.",
+    "name": "IdleOn - Idle RPG"
+  },
+  "1453444814": {
+    "name": "GymRats · Fitness challenge",
+    "exclude": false,
+    "list": "A",
+    "principle": "Grupni izazov",
+    "differentiator": "Grupni fitness izazov gde se svaki trening dokazuje fotografijom (znojavi selfi, sprava, screenshot), a grupa sama bira pravila bodovanja.",
+    "specifics": [
+      "Ključna mehanika: kreiraj/pridruži se izazovu, objavi trening sa fotkom, rang lista, slobodna pravila",
+      "Šta je deljivo: foto feed treninga i rang lista",
+      "Društveni sloj: grupe prijatelja, timova, kolega; čet",
+      "Monetizacija: nejasno iz podataka (procena: freemium/pretplata)"
+    ],
+    "psych": "Grupni izazov + polaganje računa kroz foto dokaz. Dokaz: 'Having everyone check in with a photo has kept people engaged'.",
+    "developer_type": "mali tim (Avocado Apps, LLC, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Backend za grupe, feed sa slikama, čet, rang liste, HealthKit/Health Connect uvoz. Najveći rizik: pouzdan automatski uvoz treninga.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Pobedio sam ortake u 30-dnevnom gym izazovu — a gubitnik plaća večeru.'",
+    "monetization": "Nije vidljivo u podacima; korisnici se ne žale na cenu (procena: velikodušan free).",
+    "complaints": [
+      "Apple Health sync prestaje da radi ili zahteva ručni uvoz (oko 5)",
+      "Update-i ukinuli backlog i open-point izazove (oko 3)",
+      "Obavezna fotografija (oko 1)",
+      "Problemi sa prijavom (oko 2)"
+    ],
+    "suggestions": [
+      "Reakcije i odgovori na poruke u četu",
+      "Automatski uvoz koraka (Fitbit)",
+      "Izazovi za druge navike (hidratacija)"
+    ],
+    "praise": [
+      "Najbolja aplikacija za izazove sa prijateljima",
+      "Prilagodljiva pravila",
+      "Jednostavno"
+    ],
+    "opportunity": "Proširiti format na bilo koju naviku (BeReal-stil dokaz) sa ulogom/opkladom i jačim čet slojem.",
+    "growth": "1.68 ocena/dan od izlaska (2019-03-09), 4671 US ocena; recenzije 30d: 1 naspram 0 u prethodnih 30d. Zrela aplikacija, malo recenzija u 30d (1 naspram 0) ali odlična ocena 4,88 i bez praćenja.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gymrats-fitness-challenge/id1453444814",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1460324981": {
+    "exclude": true,
+    "exclude_reason": "Neprofitna zajednica veterana (organizacija), nije opšta self-improvement aplikacija za Gen Z.",
+    "name": "Team RWB"
+  },
+  "1481438778": {
+    "exclude": true,
+    "exclude_reason": "Zahteva hardver (UPRIGHT posture trainer).",
+    "name": "UPRIGHT"
+  },
+  "6758629239": {
+    "name": "Noozr - wake up early",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji se gasi tek kad završiš misiju (matematika, kucanje, koraci, skeniranje QR koda u drugoj sobi, Face ID).",
+    "specifics": [
+      "Ključna mehanika: misije za mozak i telo da se ugasi alarm, bez snooze-a",
+      "Šta je deljivo: snimak jutarnje misije (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: tvrdi paywall, ~30–32 USD/god uz 3–7 dnevni trial"
+    ],
+    "psych": "Trenje pri gašenju alarma. Dokaz: 'My snooze button is in a coffin' i 'gamifying getting out of bed'.",
+    "developer_type": "mali tim / studio (Superdrama, 5 aplikacija; moguć portfolio sličnih aplikacija)",
+    "build_weeks": 5,
+    "build_notes": "AlarmKit (iOS 26) i pouzdani Android alarmi, kamera za QR, senzor koraka, paywall. Najveći rizik: pouzdanost alarma (glavna žalba).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moj alarm ne prestaje dok ne skeniram pastu za zube u kupatilu.'",
+    "monetization": "Tvrdi paywall bez besplatne verzije; masovno odbijanje i žalbe na naplatu trial-a.",
+    "complaints": [
+      "Alarm ne zazvoni ili zvoni u pogrešno vreme (oko 8)",
+      "Nema besplatne verzije, paywall posle podešavanja (oko 10)",
+      "Trial odmah naplaćen (oko 4)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni alarm sa jednom misijom",
+      "Jasna cena pre onboardinga"
+    ],
+    "praise": [
+      "Zaista ne da snooze",
+      "Pomaže da se stigne na vreme"
+    ],
+    "opportunity": "Pouzdan alarm (AlarmKit) + niz ranih ustajanja i društveni 'wake-up check-in' sa prijateljima; freemium.",
+    "growth": "1.68 ocena/dan od izlaska (2026-02-10), 409 US ocena; recenzije 30d: 1 naspram 0 u prethodnih 30d. Mlada aplikacija (2026-02), recenzije koncentrisane u martu–maju i pretežno negativne; tracking + studio.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/noozr-wake-up-early/id6758629239",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

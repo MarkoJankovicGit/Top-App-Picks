@@ -1,0 +1,464 @@
+{
+  "6757320347": {
+    "name": "ScrollToll: Exam App Blocker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator aplikacija, ali Instagram otključavaš tačnim odgovorom na ispitno pitanje (MCAT, SAT, LSAT, mentalna matematika, šah). Svako otključavanje je mini sesija učenja sa ponavljanjem u razmacima.",
+    "specifics": [
+      "Ključna mehanika: Screen Time blokada, jedno pitanje daje 5 minuta pristupa, pa se aplikacija ponovo zaključava; spaced repetition bira pitanja",
+      "Šta je deljivo: statistika tačno/netačno po oblastima; posebna share funkcija nije vidljiva u podacima",
+      "Društveni sloj: nema vidljivog",
+      "Monetizacija: pretplata $9.99 mesečno, trial 3 dana, posle toga besplatno ograničeno na jedno pitanje na sat i jednu aplikaciju"
+    ],
+    "psych": "Trenje i preusmeravanje postojećeg impulsa: otvaranje Instagrama postaje okidač za učenje, bez oslanjanja na volju. Dokaz: „before you know it, you’ve done at least 30 q a day“.",
+    "developer_type": "mali tim ili solo (North Star Labs LLC, 1 aplikacija; recenzije pominju developera koji lično dodaje sadržaj)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls, ManagedSettings, DeviceActivity, potreban Apple entitlement), na Androidu UsageStats i AccessibilityService; banka pitanja sa objašnjenjima, SRS algoritam, backend za sadržaj. Najveći rizik: kvalitet i pravna čistoća ispitnog sadržaja (MCAT/LSAT) i odobrenje Family Controls entitlementa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Instagram mi se ne otvara dok ne odgovorim na MCAT pitanje — evo koliko sam naučila za nedelju dana skrolovanja.",
+    "monetization": "Freemium sa agresivnim ograničenjem: pretplata $9.99 mesečno, trial 3 dana, zatim jedno pitanje na sat u besplatnoj verziji.",
+    "complaints": [
+      "Skriveni paywall posle triala, limit jedno pitanje na sat (~10)",
+      "Zaključan u ekranu plaćanja, ne može da pristupi blokiranim aplikacijama (~2)",
+      "Malo predmeta i jezika (~2)",
+      "Pitanja prelaka u odnosu na pravi ispit (~1)"
+    ],
+    "suggestions": [
+      "Folder sa označenim pitanjima za ponavljanje",
+      "Objašnjenja razbiti po opcijama A–D",
+      "Teža pitanja i više AP i jezičkih paketa",
+      "Uvoz sopstvenih špilova (Quizlet/Anki)"
+    ],
+    "praise": [
+      "Prekida doomscroll i uči u isto vreme (većina pozitivnih recenzija)",
+      "Odlično za ADHD i učenje u malim zalogajima",
+      "Developer sluša i brzo dodaje sadržaj (npr. LSAT paket)"
+    ],
+    "opportunity": "Transparentan besplatni nivo (npr. 10 otključavanja dnevno) umesto skrivenog paywalla, uvoz sopstvenih špilova i nedeljna kartica „naučeno dok sam skrolovao“ za deljenje. Teme za Gen Z (SAT, jezici, opšta kultura) uz streak i rang među prijateljima.",
+    "growth": "742 ocene za ~234 dana (3,17/dan); recenzije 10 u 30d naspram 5 prethodnih — blagi rast i stabilna tražnja. Oznaka praćenja upućuje na moguće plaćene kampanje.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/scrolltoll-exam-app-blocker/id6757320347",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6470828037": {
+    "name": "Push Up Counter & Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Brojač sklekova preko kamere (ARKit/Vision) sa planom „100 sklekova u nizu“, sezonskim izazovima i rang listom prijatelja, države i sveta.",
+    "specifics": [
+      "Ključna mehanika: automatsko brojanje kamerom, 4 moda (Sequence, Open Goal, Limit, Timer), personalizovan plan",
+      "Šta je deljivo: objava treninga na Stravi, trofeji i medalje",
+      "Društveni sloj: rang lista prijatelja, države i sveta",
+      "Monetizacija: pretplata ~$3.99 mesečno i lifetime kupovina"
+    ],
+    "psych": "Takmičenje i vidljiv napredak uz niz dana: rekordi i rang daju broj koji treba oboriti. Dokaz: „the easy streak system made me enjoy it“.",
+    "developer_type": "solo ili mali tim (prodavac „wsfu“, 3 aplikacije; opis navodi ranu verziju i čekanje feedbacka)",
+    "build_weeks": 6,
+    "build_notes": "Detekcija poze (Apple Vision body pose / Google ML Kit Pose), backend za rang liste, widgeti, HealthKit/Health Connect, Strava API. Najveći rizik: tačnost brojanja u lošem svetlu i pod različitim uglovima.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "hook": "Telefon broji moje sklekove i rangira me protiv cele Amerike — dan 1 do 100 sklekova u nizu.",
+    "monetization": "Freemium; pretplata ~$3.99 mesečno i lifetime opcija. U septembru 2026. Free Practice je premešten iza paywalla, pa delimično vraćen posle žalbi.",
+    "complaints": [
+      "Kamera propušta ponavljanja ili zamrzne brojač (~9)",
+      "Funkcije premeštene iza paywalla (~6)",
+      "Bagovi pri registraciji i loginu (~3)",
+      "Nema ručnog unosa kad kamera ne radi (npr. u mraku) (~2)"
+    ],
+    "suggestions": [
+      "Ručni unos sklekova",
+      "Širi ugao kamere i rad u slabom svetlu",
+      "Zaštita od slučajnog završetka runde (znoj na dugmetu)"
+    ],
+    "praise": [
+      "Motivacija i brzo uklapanje u rutinu",
+      "Widgeti, statistika i lifetime opcija",
+      "Developer brzo rešava probleme"
+    ],
+    "opportunity": "Pouzdanije brojanje i više vežbi (čučnjevi, trbušnjaci), grupni izazovi sa prijateljima i deljive kartice ponavljanja; stabilan i jasan besplatni nivo.",
+    "growth": "3.400 ocena za ~3 godine (3,16/dan); recenzije 10 u 30d naspram 1 — skok, verovatno izazvan promenom paywalla (deo novih recenzija su žalbe).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "marketability_score": 4,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/push-up-counter-tracker/id6470828037",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1532989079": {
+    "exclude": true,
+    "exclude_reason": "Hardver: aplikacija je kontroler za Chilipad uređaj za hlađenje kreveta (Sleepme Inc.), ne može se napraviti bez fizičkog proizvoda.",
+    "name": "Chilipad"
+  },
+  "6791076258": {
+    "name": "Habits First",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Blokator ekrana gde se aplikacije otključavaju tek kad završiš dnevne navike (10.000 koraka, trening, meditacija, 20 min Duolinga), automatski proverene preko Apple Health i drugih aplikacija — bez pretplate.",
+    "specifics": [
+      "Ključna mehanika: blokada do ispunjenja navika; uslov jedna, sve ili 2 od 3; važi po rasporedu, lokaciji ili blizini Bluetooth uređaja",
+      "Šta je deljivo: smanjenje screen time-a (procena; share funkcija nije u opisu)",
+      "Društveni sloj: nema u aplikaciji; rast preko developerovog YouTube kanala",
+      "Monetizacija: besplatno bez naloga; Habits Pro jednokratno ~$10"
+    ],
+    "psych": "Premackov princip: zavisnost od skrolovanja postaje nagrada za navike koje se retko rade. Dokaz: „uses the social media addiction to make you actually complete your habits“.",
+    "developer_type": "solo (Eric Su, 1 aplikacija; YouTuber, recenzije pominju njegov kanal kao izvor)",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls entitlement), HealthKit/Health Connect, integracije (Shortcuts, Anki, Chess.com, praćenje korišćenja aplikacija), geofencing, Bluetooth proximity; na Androidu UsageStats i Accessibility. Najveći rizik: pouzdanost blokade i tajmera u pozadini.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Instagram mi je zaključan dok ne prepešačim 10.000 koraka — dan 14.",
+    "monetization": "Besplatno, bez reklama i pretplate; Habits Pro jednokratna kupovina ~$10 (Shortcuts, Anki, Chess.com, Audiobookshelf).",
+    "complaints": [
+      "Aplikacija ponovo zaključa posle otključavanja, mora reload (~3)",
+      "Fiksni 10-minutni prozor posle navike nije fleksibilan (~1)",
+      "Bluetooth uslov radi samo za otključavanje, ne za blokadu (~1)",
+      "Ručni tajmer se pauzira kad se zaključa telefon (~1)"
+    ],
+    "suggestions": [
+      "Desktop verzija i sinhronizacija između uređaja",
+      "Brisanje pogrešno kreiranih navika",
+      "Banka minuta koja se troši po želji umesto fiksnih 10 minuta"
+    ],
+    "praise": [
+      "Besplatno, bez reklama i pretplate (većina recenzija)",
+      "Teško se zaobilazi i stvarno smanjuje screen time",
+      "Jednostavno i prilagodljivo"
+    ],
+    "opportunity": "Isti mehanizam uz društveni sloj (prijatelji vide ko je danas „zaradio“ skrolovanje, zajednički izazovi) i deljive kartice. Korisnici vole odsustvo pretplate, pa monetizaciju treba graditi na premium integracijama ili jednokratnoj kupovini.",
+    "growth": "166 ocena za ~53 dana (3,15/dan); recenzije 36 u 30d naspram 29 — rast; sveža aplikacija sa organskim tokom sa YouTube-a, bez oznake praćenja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/habits-first/id6791076258",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6759581682": {
+    "name": "Nooze: Stop Snoozing",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji se gasi tek kad kamerom potvrdiš misiju: sklekove, nameštanje kreveta, potragu za predmetom ili izgovorene afirmacije, uz nizove i bedževe.",
+    "specifics": [
+      "Ključna mehanika: alarm plus misija verifikovana kamerom, pregled misije unapred",
+      "Šta je deljivo: video jutarnje misije (procena; nije u opisu)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata za smart alarme, paywall posle onboarding upitnika"
+    ],
+    "psych": "Obaveza preuzeta uveče, izvršena ujutru; fizička akcija razbuđuje. Dokaz: „it literally won’t stop ringing until you finish a mission“.",
+    "developer_type": "mali tim (Nura Labs Inc., 3 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "AlarmKit (iOS 26) ili kritične notifikacije, na Androidu AlarmManager sa full-screen intentom; Vision za sklekove i prepoznavanje predmeta. Najveći rizik: pouzdanost alarma (propušten alarm = 1 zvezdica) i verifikacija bez interneta.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Alarm ne prestaje dok ne namestim krevet — pogledaj koliko brzo sam ustala.",
+    "monetization": "Pretplata (smart alarmi zahtevaju pretplatu); cene nisu vidljive u paketu.",
+    "complaints": [
+      "Mora da se plati, paywall posle upitnika (~7)",
+      "Alarm nije zazvonio, korisnik zakasnio na posao (~3)",
+      "Verifikacija misije ne radi (greška konekcije, potraga za predmetom) (~2)",
+      "Alarm zazvonio bez podešavanja (~1)"
+    ],
+    "suggestions": [
+      "Besplatna osnovna misija",
+      "Verifikacija bez interneta",
+      "Izlaz iz zaključavanja kada verifikacija ne uspe"
+    ],
+    "praise": [
+      "Stvarno budi (sklekovi, namesti krevet)",
+      "Produktivnija jutra"
+    ],
+    "opportunity": "Pouzdan alarm sa offline verifikacijom i besplatnom osnovnom misijom, plus zajednički „wake-up streak“ sa prijateljima.",
+    "growth": "685 ocena za ~221 dan (3,1/dan); recenzije 2 u 30d naspram 0 — talas iz TikTok promocije (recenzije pominju videe) je splasnuo.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/nooze-stop-snoozing/id6759581682",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1227402276": {
+    "exclude": true,
+    "exclude_reason": "Utility (to-do lista), ne lična navika; iza je Bonobo/Moleskine brend sa paketom aplikacija (Timepage).",
+    "name": "Actions: To Do List Organizer"
+  },
+  "6476379307": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra (idle RPG) velike firme Shengqu Technology, nije self-improvement.",
+    "name": "Fantamon: Idle RPG"
+  },
+  "1479461686": {
+    "name": "Nutrition Tracker: Foodnoms",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Nutrition tracker sa naglaskom na privatnost i nativni iOS: AI log iz fotografije ili opisa i kalibracija kalorijskog cilja prema stvarnom trendu težine.",
+    "specifics": [
+      "Ključna mehanika: log fotografijom, glasom, barkodom ili etiketom; ciljevi za desetine nutrijenata",
+      "Šta je deljivo: milestones niza logovanja",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium i premium pretplata"
+    ],
+    "psych": "Kvantifikacija i niz logovanja daju osećaj kontrole. Dokaz: „If I plan what I eat, I stay on track.“",
+    "developer_type": "solo ili mali tim (Algebraic Labs, 1 aplikacija; recenzije pominju developera Ryana)",
+    "build_weeks": 9,
+    "build_notes": "Baza namirnica (USDA, Open Food Facts), barkod i OCR etiketa, AI vision API, HealthKit, widgeti. Najveći rizik: kvalitet baze i tačnost AI procena; kategorija traži dugo poliranje.",
+    "marketability": {
+      "one_sentence": false,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Slikam ručak i aplikacija mi kaže koliko proteina mi fali danas.",
+    "monetization": "Freemium; premium pretplata (cena nije u paketu), prijave godišnje naplate posle triala.",
+    "complaints": [
+      "Funkcije premeštane iza paywalla (vlakna, opsezi ciljeva) (~6)",
+      "Bagovi pri logovanju hrane (~3)",
+      "Ograničena baza i integracije (Garmin) (~3)",
+      "Istorija grafikona nestaje kad istekne pretplata (~1)"
+    ],
+    "suggestions": [
+      "Da ciljevi u opsegu stvarno rade",
+      "Garmin integracija",
+      "Generičke začine i bilje u pretrazi",
+      "Bolja VoiceOver podrška"
+    ],
+    "praise": [
+      "Najbolji tracker, nativni osećaj",
+      "AI log glasom i fotografijom",
+      "Developer odgovara i ispravlja"
+    ],
+    "opportunity": "Malo prostora za diferencijaciju u zasićenoj kategoriji; ugao bi bio jedna navika (proteini ili vlakna) sa nizom i društvenim izazovom umesto punog trackera.",
+    "growth": "7.781 ocena za ~7 godina (3,08/dan); recenzije 15 u 30d naspram 12 — stabilno, zrela aplikacija.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 2,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "marketability_score": 2,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/nutrition-tracker-foodnoms/id1479461686",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "890471578": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Wim Hof) i sadržaj sa ličnošću autora kao osnovnom vrednošću.",
+    "name": "Wim Hof Method: Breathwork"
+  },
+  "1226066877": {
+    "exclude": true,
+    "exclude_reason": "Klađenje na konjske trke (NYRA), finansije/klađenje.",
+    "name": "Legacy NYRA Bets"
+  },
+  "6791916451": {
+    "name": "SleepSense: Sleep Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Nema stvarnog zaokreta: praćenje sna preko zvuka uz telefon pored kreveta i ocena sna, sa agresivnim paywallom.",
+    "specifics": [
+      "Ključna mehanika: noćno snimanje zvuka, ocena sna, događaji i trendovi",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: $34.99 godišnje ili $9.99 nedeljno"
+    ],
+    "psych": "Kvantifikacija sna, ali korisnici ne veruju rezultatu. Dokaz: „Every night it gave me an A.“",
+    "developer_type": "firma ili nepoznato (Dualstar Entertainment Group, LLC, 3 aplikacije; oznaka praćenja i reklame)",
+    "build_weeks": 5,
+    "build_notes": "Audio analiza na uređaju (SoundAnalysis/CoreML), pozadinski rad, HealthKit. Najveći rizik: tačnost i pozadinska obrada (aplikacija se zaglavljuje na analizi).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "hook": "Snimila sam se kako spavam — evo šta telefon kaže o mojoj noći.",
+    "monetization": "Pretplata $34.99 godišnje ili $9.99 nedeljno, bez korisnog besplatnog nivoa; prijave odbijenih refundacija.",
+    "complaints": [
+      "Analiza zaglavljena ili radi samo prvu noć (~8)",
+      "Sve se plaća (~7)",
+      "Netačna ocena sna (~3)",
+      "Odbijen refund (~2)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni izveštaj pre plaćanja (izvedeno iz žalbi)"
+    ],
+    "praise": [],
+    "opportunity": "Nije za kopiranje; pokazuje da plaćene reklame za praćenje sna dovode korisnike, ali loš proizvod brzo ruši ocenu.",
+    "growth": "250 ocena za ~82 dana (3,06/dan), prosek 3,85; recenzije 15 u 30d naspram 11 — rast vođen reklamama uz negativan sentiment.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 1,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 1,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "marketability_score": 1,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sleepsense-sleep-tracker/id6791916451",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6738952225": {
+    "name": "MindMax: Your learning partner",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "AI glasovni tutor sa kojim razgovaraš u realnom vremenu (prekidaš, pitaš, vraćaš se), sa istorijskim likovima kao predavačima; sadržaj kreira AI za bilo koju temu ili ispit.",
+    "specifics": [
+      "Ključna mehanika: AI pronalazi rupe u znanju, uči po prioritetu, kvizovi, kreiranje sopstvenog sadržaja",
+      "Šta je deljivo: nije vidljivo",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata Pro i Ultra, trial 7 dana po 60 minuta dnevno"
+    ],
+    "psych": "Personalizovano učenje kroz razgovor, ali bez jakog mehanizma doslednosti. Dokaz: „I learned more on this in 4 minutes than I did in my school history class“.",
+    "developer_type": "mali tim (MindMax Limited, 1 aplikacija; recenzije pominju reklame na Instagramu)",
+    "build_weeks": 8,
+    "build_notes": "LLM i realtime glas (STT/TTS), generisanje kurikuluma, kvizovi, backend. Najveći rizik: trošak inferencije po korisniku i halucinacije u ispitnom sadržaju.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "hook": "Abraham Linkoln mi je objasnio građanski rat za 4 minuta.",
+    "monetization": "Pretplata (Pro i Ultra), trial 7 dana.",
+    "complaints": [
+      "Bagovi: treperenje u kvizovima, pauziranje i premotavanje (~4)",
+      "Loš UI i dugi pasusi posle redizajna (~2)",
+      "Podrška ne odgovara (~2)",
+      "Sadržaj deluje kao ChatGPT (~1)"
+    ],
+    "suggestions": [
+      "Transkript i ponovno slušanje",
+      "Jasna razlika između Pro i Ultra",
+      "Vratiti interaktivna pitanja deo po deo"
+    ],
+    "praise": [
+      "Priprema za stručne ispite (nekretnine, radio-amateri)",
+      "Razgovor sa tutorom tokom lekcije",
+      "Kreiranje sopstvenog sadržaja"
+    ],
+    "opportunity": "Dodati sloj doslednosti (dnevne lekcije od 5 minuta, niz, rang) i fokus na ispite Gen Z publike.",
+    "growth": "1.067 ocena za ~352 dana (3,03/dan); recenzije 4 u 30d naspram 2 — mali uzorak; rast verovatno iz IG reklama.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 2,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "marketability_score": 3,
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/mindmax-your-learning-partner/id6738952225",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6463312362": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je AI chat podrška za mentalno zdravlje i afirmacije (sadržaj/kvazi-terapija), ne navika ili disciplina.",
+    "name": "Manifest: Affirmations Daily"
+  },
+  "6744646858": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija: turska firma sa 9 aplikacija, generički AI kalorijski šablon i recenzije koje deluju veštački (ponavljanje ključnih reči).",
+    "name": "AI Calorie Counter: Eatlike"
+  },
+  "891278325": {
+    "exclude": true,
+    "exclude_reason": "Mobilna igra (endless runner) studija Sybo, nije self-improvement.",
+    "name": "Blades of Brim"
+  }
+}

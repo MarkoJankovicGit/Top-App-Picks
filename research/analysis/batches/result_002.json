@@ -1,0 +1,305 @@
+{
+  "6744608300": {
+    "exclude": true,
+    "exclude_reason": "Igra (endless runner) velikog studija Sybo; Apple Arcade izdanje poznatog brenda, nije lična navika.",
+    "name": "Subway Surfers+"
+  },
+  "6479529917": {
+    "exclude": true,
+    "exclude_reason": "Iza je REFACE (poznata firma); AI skener hrane i kalorijski tracker zahtevaju sopstveni ML/nutritivnu bazu, a ishrana/kalorije nisu jezgro niše navika (procena).",
+    "name": "BitePal: Food Calorie Tracker"
+  },
+  "1633307858": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (Bible trivia); prodavac ima 9 aplikacija, šablonska trivia igra.",
+    "name": "Daily Bible Trivia: Quiz Games"
+  },
+  "6766233167": {
+    "exclude": true,
+    "exclude_reason": "Simple.Life Apps je poznata firma (Simple); osnova je velika biblioteka profesionalnih trening videa sa trenerima, nije izvodljivo za 2 meseca.",
+    "name": "DayClass"
+  },
+  "6751237805": {
+    "exclude": true,
+    "exclude_reason": "Licencirana igra (AMC The Walking Dead), nije lična navika.",
+    "name": "The Walking Dead: Aftermath"
+  },
+  "6448794069": {
+    "exclude": true,
+    "exclude_reason": "Zahteva fizički hardver (Brick uređaj, NFC); ne može se napraviti kao čisto softversko rešenje za 2 meseca.",
+    "name": "Brick - Ditch Distractions"
+  },
+  "6469104372": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija (MNO GO APPS, 10 aplikacija); generička trivia/relaks igra, nema mehaniku navike.",
+    "name": "Antistress trivia - Zen Quiz"
+  },
+  "1559740799": {
+    "exclude": true,
+    "exclude_reason": "Utility (web pregledač) velikog brenda Opera.",
+    "name": "Opera GX"
+  },
+  "6792724152": {
+    "exclude": true,
+    "exclude_reason": "Fabrika aplikacija (MNO GO APPS, 10 aplikacija); generička trivia puzzle igra.",
+    "name": "Wood Quiz Blast: Trivia Blocks"
+  },
+  "6769616094": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj; kineska firma sa 9 aplikacija, šablonska trivia.",
+    "name": "Bible Games: Trivia & Verse"
+  },
+  "6754047293": {
+    "exclude": true,
+    "exclude_reason": "Sportsko klađenje (social sportsbook), van niše.",
+    "name": "Onyx - Sports Picks"
+  },
+  "6746586837": {
+    "name": "Lock In - Reset Your Life",
+    "exclude": false,
+    "list": "A",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Habit tracker, ali tvoj život dobija OVR ocenu kao igrač u FIFA/COD-u: svaka navika daje XP i podiže tvoj ukupni rejting.",
+    "specifics": [
+      "Ključna mehanika: navike i ciljevi daju XP koji podiže OVR (Overall Rating) i rang; nizovi, heatmapa, quit tajmeri sa praćenjem recidiva",
+      "Šta je deljivo: OVR kartica/rang kao sportska kartica igrača (procena, nije eksplicitno navedeno)",
+      "Društveni sloj: nije vidljiv u opisu; samo AI coach i dnevnik",
+      "Monetizacija: tvrdi paywall posle dugog onboarding kviza, oko 30 USD godišnje bez trial-a (iz recenzija)"
+    ],
+    "psych": "Kvantifikacija sebe kroz gaming rang daje Gen Z jasan, statusni pokazatelj napretka. Dokaz: 'Self improvement while gaining prestige and ranks by doing it.'",
+    "developer_type": "mali tim / solo (Omega Labs, LLC, 2 aplikacije; opis u prvom licu: 'I built Lock In because I needed it myself')",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + backend za nalog i sinhronizaciju, notifikacije, gamifikacioni sloj (XP/OVR), jednostavan LLM AI coach preko API-ja, paywall (RevenueCat). Bez HealthKit-a i Screen Time API-ja. Najveći rizik: balans XP sistema da ocena deluje zasluženo, a ne arbitrarno.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj OVR je bio 62 pre 30 dana. Danas je 81.' uz prikaz kartice igrača.",
+    "monetization": "Hard paywall, godišnja pretplata oko 30 USD (iz recenzija), bez besplatne verzije i bez trial-a; ima oznaku praćenja i pominju se reklame.",
+    "complaints": [
+      "Nema besplatne verzije, paywall odmah posle onboarding-a (oko 18/20 negativnih)",
+      "Dugi kviz/onboarding pa tek onda cena, deluje manipulativno (oko 5)",
+      "Publika je mlada i bez novca: 'I'm 14 I don't have money' (oko 2)",
+      "Ne daje konkretne dnevne zadatke (npr. 20 sklekova) (1)"
+    ],
+    "suggestions": [
+      "Besplatna verzija sa osnovnim funkcijama",
+      "Jeftinija ili jednokratna kupovina",
+      "Predloženi dnevni zadaci/izazovi umesto praznog trackera",
+      "Više mišićnih grupa i vežbi"
+    ],
+    "praise": [
+      "OVR/XP i rang sistem motiviše kao igra",
+      "Jasan, uređen sistem, lako za razumevanje",
+      "Hype osećaj 'lock in' identiteta"
+    ],
+    "opportunity": "Freemium sa besplatnim OVR-om i deljivom karticom igrača, plus prijateljski leaderboard OVR-a i unapred definisani dnevni izazovi; pretplata za napredne statistike i AI coach-a.",
+    "growth": "Oko 58 ocena/dan od izlaska (jun 2025, 27.5k ocena); recenzije 30d 10 naspram 8 prethodnih, stabilno; rast verovatno nošen plaćenim reklamama (oznaka praćenja, recenzije pominju ads).",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/lock-in-reset-your-life/id6746586837",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6756000479": {
+    "name": "Sweatmates: Partner Fitness",
+    "exclude": false,
+    "list": "A",
+    "principle": "Polaganje računa",
+    "differentiator": "Fitness app bez statistike: ti i partner postavite nedeljni cilj, dokaz je fotka iz treninga, a ko podbaci duguje ulog (večera, kućni posao).",
+    "specifics": [
+      "Ključna mehanika: nedeljni cilj broja treninga + SweatCam fotka kao dokaz u realnom vremenu",
+      "Šta je deljivo: fotke treninga, nedeljni ishod i 'ko duguje večeru'",
+      "Društveni sloj: par (2 osobe) sa međusobnim polaganjem računa i blagim ulogom",
+      "Monetizacija: logovanje treninga zahteva pretplatu; oko 29.99–39.99 USD godišnje (iz recenzija)"
+    ],
+    "psych": "Polaganje računa partneru plus mali ulog pretvara trening u zajedničku obavezu i blago takmičenje. Dokaz: 'Holds us accountable, even when we both fall off. The wagers are good moderation.'",
+    "developer_type": "solo / mali tim (KnightCollar LLC, 1 aplikacija)",
+    "build_weeks": 4,
+    "build_notes": "Backend za naloge, uparivanje partnera i real-time feed fotografija (npr. Supabase/Firebase), kamera, push notifikacije, nedeljna logika ciljeva, pretplata. Bez HealthKit-a. Najveći rizik: retencija posle prvih nedelja i ispravno upravljanje pretplatama/trial-om.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ko propusti teretanu ove nedelje, plaća večeru' — par snima ko je izgubio.",
+    "monetization": "Pretplata (oko 4 USD mesečno ili 29.99–39.99 USD godišnje iz recenzija), 7-dnevni trial; besplatna verzija praktično ne nudi ništa.",
+    "complaints": [
+      "Sve je iza pretplate, otkriva se tek posle pravljenja naloga (oko 8)",
+      "Nemoguće otkazati trial/pretplatu, naplata bez obaveštenja (oko 7)",
+      "Traži recenziju pre korišćenja, AI grafika deluje jeftino (oko 3)",
+      "Motivacija opada posle par nedelja (1)"
+    ],
+    "suggestions": [
+      "Grupe sa više od 2 osobe (prijatelji)",
+      "Mogućnost naknadnog upload-a fotke, ne samo tokom treninga",
+      "Besplatan osnovni nivo",
+      "Transparentno i jednostavno otkazivanje"
+    ],
+    "praise": [
+      "Polaganje računa partneru i blago takmičenje za parove",
+      "Jednostavno i brzo za korišćenje",
+      "Ulozi (wagers) dodaju zabavu"
+    ],
+    "opportunity": "Proširiti na grupe prijatelja (3–6) i Gen Z format 'squad' izazova sa javnim ulogom, uz pošten trial i otkazivanje; to direktno rešava najčešću želju i najveću žalbu.",
+    "growth": "Oko 47 ocena/dan od izlaska (dec 2025, 13.9k ocena); recenzije 30d 34 naspram 25 prethodnih, raste; traženje ocene u onboarding-u verovatno naduvava ocenu.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sweatmates-partner-fitness/id6756000479",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1644737181": {
+    "name": "BePresent: Screen Time Control",
+    "exclude": false,
+    "list": "B",
+    "principle": "Grupni izazov",
+    "differentiator": "App blocker, ali sa grupnim sesijama bez telefona, takmičenjem sa prijateljima i nagradama iz stvarnog života za sačuvano vreme.",
+    "specifics": [
+      "Ključna mehanika: blokiranje aplikacija kroz sesije (individualne, grupne, Beast Mode), limit otvaranja i trajanja",
+      "Šta je deljivo: smanjenje screen time-a (npr. sa 7h na 2h)",
+      "Društveni sloj: grupne sesije i takmičenje sa prijateljima",
+      "Monetizacija: samo godišnja pretplata oko 50–60 USD (iz recenzija)"
+    ],
+    "psych": "Grupni izazov i nagrade pretvaraju odvikavanje od telefona u zajednički cilj. Dokaz: 'It is gamified so that you actively think before scrolling'.",
+    "developer_type": "mali tim / firma (Screen Detox Inc, 2 aplikacije; od 2022, verovatno finansiran startup — procena)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls, DeviceActivity, ManagedSettings) zahteva Apple entitlement; Android ekvivalent preko Accessibility/UsageStats je zahtevniji. Backend za grupe i nagrade. Najveći rizik: krhkost Screen Time API-ja posle iOS ažuriranja (recenzije pominju iOS 27 bagove) i Android paritet.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj screen time je bio 7 sati, sad je 2 — evo šta sam uradio sa 5 sati dnevno.'",
+    "monetization": "Godišnja pretplata oko 50–60 USD, trial 7 dana; korisnici je smatraju skupom, predlažu oko 30 USD.",
+    "complaints": [
+      "Previsoka cena, samo godišnji plan (oko 6)",
+      "Naplata posle otkazanog trial-a, nema obaveštenja pre naplate (oko 5)",
+      "Blokira potrebne aplikacije (banka, mape, putovanja), malo izuzetaka (oko 3)",
+      "Bagovi na iOS 27 i problemi sa podešavanjem (oko 4)"
+    ],
+    "suggestions": [
+      "Jeftiniji ili mesečni plan, jednokratna kupovina",
+      "Više kategorija izuzetaka od blokiranja",
+      "Beast Mode koji se ne može zaobići uklanjanjem aplikacija",
+      "Lakše menjanje rasporeda blokiranja"
+    ],
+    "praise": [
+      "Zaista smanjuje screen time i doom scrolling",
+      "Gamifikacija tera na razmišljanje pre skrolovanja",
+      "Bolji od drugih app blockera"
+    ],
+    "opportunity": "Isti koncept sa jeftinijim planom i jačim društvenim takmičenjem među prijateljima, plus pametna whitelista korisnih aplikacija.",
+    "growth": "Oko 45 ocena/dan od 2022 (67k ocena); recenzije 30d 200 naspram 0 prethodnih, nagli skok (verovatno nova kampanja ili anomalija podataka — proveriti); oznaka praćenja i recenzije pominju video reklame, dakle plaćeni marketing.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/bepresent-screen-time-control/id1644737181",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6744338972": {
+    "name": "Brainrot: Screen Time Control",
+    "exclude": false,
+    "list": "B",
+    "principle": "Virtuelni ljubimac i briga",
+    "differentiator": "App blocker gde slatki avatar mozga vidljivo truli dok doom skroluješ, pa smanjenje screen time-a postaje briga o liku.",
+    "specifics": [
+      "Ključna mehanika: blokiranje aplikacija/sajtova po rasporedu + avatar mozga koji propada sa skrolovanjem",
+      "Šta je deljivo: stanje 'brainrot' avatara i pad screen time-a",
+      "Društveni sloj: nije vidljiv u opisu",
+      "Monetizacija: sve funkcije zahtevaju pretplatu, oko 4.99 USD nedeljno (iz recenzija)"
+    ],
+    "psych": "Vizuelni lik koji pati od tvog ponašanja daje trenutnu emotivnu povratnu informaciju. Dokaz: 'The one screenblocker app that I actually have a hard time getting around'.",
+    "developer_type": "mali tim (Smolworks Inc, 3 aplikacije; recenzija pominje osnivača i novog partnera)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls entitlement), widget, animirani avatar, Android preko Accessibility/UsageStats. Najveći rizik: pouzdanost zakazanog blokiranja (recenzije: blokira tek kad se otvori aplikacija) i Android paritet.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Ovo je moj mozak posle 6 sati TikToka' — pokazuje se istrulili avatar.",
+    "monetization": "Hard paywall, nedeljna pretplata oko 4.99 USD (iz recenzija), bez trial-a; recenzije pominju plaćanje van aplikacije.",
+    "complaints": [
+      "Mora da se plati, nema besplatne verzije ni trial-a, reklame to ne pominju (oko 13)",
+      "Problemi sa naplatom i otkazivanjem, naplata posle otkaza (oko 3)",
+      "Zakazano blokiranje ne radi dok se ne otvori aplikacija, netačan screen time (oko 4)",
+      "Widget avatar se ne ažurira (1)"
+    ],
+    "suggestions": [
+      "Besplatan plan za mlađe korisnike",
+      "Snooze od 5 min i duže opcije tajmera",
+      "Veća whitelista aplikacija",
+      "Widget koji prikazuje živo stanje mozga"
+    ],
+    "praise": [
+      "Teško se zaobilazi, zaista smanjuje screen time",
+      "Zabavan karakter i 'interview' onboarding",
+      "Pomaže sa spavanjem i fokusom"
+    ],
+    "opportunity": "Koncept 'brainrot avatara' je jak za TikTok; dodali bismo besplatni nivo, društveno poređenje avatara sa prijateljima i pouzdan widget koji je stalno vidljiv.",
+    "growth": "Oko 44 ocene/dan od izlaska (maj 2025, 22.6k ocena); recenzije 30d 36 naspram 64 prethodnih, pad; oznaka praćenja i recenzije pominju reklame.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/brainrot-screen-time-control/id6744338972",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

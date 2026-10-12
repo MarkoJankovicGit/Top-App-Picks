@@ -1,0 +1,190 @@
+{
+  "1020357408": {
+    "exclude": true,
+    "exclude_reason": "Firma (flowkey GmbH) i velika biblioteka licenciranih pesama i profesionalnih lekcija; nije izvodljivo za 2 meseca.",
+    "name": "flowkey – Learn to Play Piano"
+  },
+  "921902664": {
+    "exclude": true,
+    "exclude_reason": "Usluga slanja čestitki (kupovina/logistika), nije lična navika.",
+    "name": "Felt: Greeting Cards & Gifts"
+  },
+  "1597760047": {
+    "exclude": true,
+    "exclude_reason": "Igra (online roleplay), nije self-improvement.",
+    "name": "OneState RP: Role Play Online"
+  },
+  "6736739266": {
+    "exclude": true,
+    "exclude_reason": "Generički dnevnik sa reklamama (šablon), publika iz recenzija uglavnom deca; nema mehanike navike ni napretka osim sitnog streak-a.",
+    "name": "My Daily Diary - Mood Journal"
+  },
+  "924977069": {
+    "exclude": true,
+    "exclude_reason": "Čist sadržaj (dnevne činjenice), developer sa 7 aplikacija; nema bodovanja ni navike.",
+    "name": "Facts - Daily Random Trivia"
+  },
+  "6746760369": {
+    "exclude": true,
+    "exclude_reason": "Igra (life simulator), nije self-improvement.",
+    "name": "Everlife 2 - Life Simulator"
+  },
+  "6648771147": {
+    "name": "FocusFlight - Deepfocus Timer",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Fokus tajmer, ali svaka sesija je let: biraš polazni i odredišni aerodrom, trajanje fokusa je trajanje leta, a avion se kreće preko 3D mape dok radiš. Blokiranje aplikacija se zove 'Airplane Mode'.",
+    "specifics": [
+      "Ključna mehanika: boarding pass + let realnom rutom; dužina sesije = dužina leta; Screen Time blokiranje tokom leta",
+      "Šta je deljivo: mapa preletenih ruta (procena: deljenje nije glavni fokus aplikacije)",
+      "Društveni sloj: nema; korisnici čekaju najavljene 'friend flights' / multiplayer",
+      "Monetizacija: freemium, pro funkcije (window view, izbor polazne lokacije), korisnici pominju ~$20 i doživotni VIP"
+    ],
+    "psych": "Ritual početka i završetka (obaveza unapred) plus vidljiv napredak na mapi; 'Booking a flight before I start working sounds like a small thing'.",
+    "developer_type": "mali tim (procena): Cement Planet LTD, jedina aplikacija prodavca, verzije za iPhone i Mac",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (FamilyControls/DeviceActivity) na iOS, UsageStats/Accessibility na Androidu; 3D globus/mapa (MapLibre ili Mapbox), baza aerodroma i ruta, zvučni ambijent. Najveći rizik: kvalitet 3D vizuelnog utiska i paritet blokiranja na Androidu.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 4,
+    "hook": "'Letela sam od Njujorka do Tokija i za to vreme završila ceo seminarski' - split screen 3D leta i stola za učenje.",
+    "monetization": "Freemium + pro (pretplata ili doživotno, okvirno $20 po recenzijama); bila App of the Day.",
+    "complaints": [
+      "Previše funkcija iza paywalla, posebno window view i izbor polazne lokacije (~5)",
+      "Obećan multiplayer/friend flights još ne postoji (~3)",
+      "Mac verzija komplikovana i VIP se ne prenosi između iPhone i Mac (~2)",
+      "Tutorial let predug (~1)"
+    ],
+    "suggestions": [
+      "Grupni letovi sa prijateljima",
+      "Pomodoro pauze tokom dugih letova ('seatbelt chime')",
+      "Duži letovi, do 8 sati",
+      "Realniji avioni i zvuci kabine (najave, žamor)"
+    ],
+    "praise": [
+      "Najlepše dizajnirana focus aplikacija, atmosfera aerodroma",
+      "Ritual 'bukiranja leta' zaista drži fokus, posebno za ADHD i studente",
+      "Developer sluša feedback (update 2.0)"
+    ],
+    "opportunity": "Dodati društveni sloj koji korisnici traže: zajednički letovi sa prijateljima i 'pasoš' sa pečatima gradova za deljenje; blaži freemium za Gen Z studente.",
+    "growth": "~15,4 ocene/dan od januara 2025 (9.663 ocena); recenzije 13 u 30d naspram 16 prethodnih - stabilno, bez skoka.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focusflight-deepfocus-timer/id6648771147",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1552207792": {
+    "exclude": true,
+    "exclude_reason": "Firma (Zing Coach Inc.) sa velikom bibliotekom profesionalnog fitness sadržaja i AI personalizacijom; oznaka praćenja.",
+    "name": "Zing AI: Home & Gym Workouts"
+  },
+  "1579321589": {
+    "exclude": true,
+    "exclude_reason": "Generički dnevnik sa lozinkom, prodavac sa više sličnih aplikacija (šablon); utility.",
+    "name": "My Diary - Journal with Lock"
+  },
+  "1352790442": {
+    "exclude": true,
+    "exclude_reason": "Marketplace live tutora, velika firma; nije izvodljivo za 2 meseca.",
+    "name": "Preply - Language Learning App"
+  },
+  "6477544815": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka video sadržaja za seniore, prodavac sa 7 aplikacija; publika van ciljne grupe 18–24.",
+    "name": "Chair Yoga for Seniors"
+  },
+  "6749572068": {
+    "exclude": true,
+    "exclude_reason": "Igra (idle RPG).",
+    "name": "Twilight Chronicle: Idle RPG"
+  },
+  "1372575227": {
+    "name": "Gratitude: Self-Care Journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Dnevnik zahvalnosti sa dnevnim promptovima, afirmacijama i vision boardom u jednoj privatnoj aplikaciji, uz streak pisanja. Zaokret u odnosu na običan dnevnik je mali (granično: kategorija je zasićena).",
+    "specifics": [
+      "Ključna mehanika: dnevni prompt + podsetnici dva puta dnevno, streak zahvalnosti",
+      "Šta je deljivo: vision board i afirmacije (procena; nema eksplicitnog deljenja)",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium + Pro pretplata (vision board, upis za prošle dane)"
+    ],
+    "psych": "Streak gradi naviku, ali gubitak boli: 'I had 107 days of journaling, got sick, missed 1 day'.",
+    "developer_type": "mali tim / firma: Hapjoy Technologies Private Limited, 2 aplikacije",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + cloud sync, notifikacije, biblioteka promptova i afirmacija (sadržaj se može generisati), vision board editor. Najveći rizik: diferencijacija u zasićenoj kategoriji i pouzdan backup (žalbe na izgubljene unose).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Svako veče sam pisala 3 stvari na koje sam zahvalna, 100 dana zaredom - evo šta se promenilo.'",
+    "monetization": "Freemium + Pro pretplata; deo korisnika hvali besplatni deo, deo smatra Pro skupim.",
+    "complaints": [
+      "Aplikacija se sama ponovo instalira posle brisanja (~12, verovatno bug)",
+      "Gubitak unosa posle update-a i traženje plaćanja za restore (~3)",
+      "Streak pada na 0 posle jednog propuštenog dana, a upis za prošli dan je Pro (~2)",
+      "Postovi se ne otvaraju / bagovi (~2)"
+    ],
+    "suggestions": [
+      "Zamrzavanje streak-a ili besplatan upis za prošli dan",
+      "Više boja i opcija personalizacije",
+      "Niža cena pretplate"
+    ],
+    "praise": [
+      "Promptovi koji teraju na razmišljanje",
+      "Jednostavan, prijatan UI i podsetnici",
+      "Fotografije čine dnevnik albumom lepih uspomena"
+    ],
+    "opportunity": "Streak sa 'freeze' danima umesto kazne i deljiva godišnja vizualizacija zahvalnosti; pouzdan backup kao jasna prednost.",
+    "growth": "~14,5 ocena/dan od 2018 (44.970 ocena); recenzije 4 naspram 3 - zrela, stagnantna aplikacija.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/gratitude-self-care-journal/id1372575227",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1307736395": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Sam Harris) i velika biblioteka profesionalnog audio sadržaja.",
+    "name": "Waking Up: Meditation & Wisdom"
+  },
+  "400169658": {
+    "exclude": true,
+    "exclude_reason": "Utility (agregator društvenih mreža), iza je Sensor Tower.",
+    "name": "Friendly Social Browser"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "1539930489": {
+    "exclude": true,
+    "exclude_reason": "Igra (dark fantasy RPG), nema veze sa ličnom navikom ili disciplinom; pogođena samo ključnom rečju 'life rpg'.",
+    "name": "Grim Quest - Old School RPG"
+  },
+  "1460664069": {
+    "name": "Music Alarm Clock for Spotify",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Alarm koji te budi tvojom omiljenom pesmom sa Spotify/Apple Music umesto standardnog zvona, uz 'smart wake' i plejliste za spavanje.",
+    "specifics": [
+      "Ključna mehanika: alarm sa izborom pesme iz Spotify/Apple Music biblioteke, smart wake, sleep plejliste",
+      "Šta je deljivo: 'pesma kojom se budim' (procena, nema ugrađenog deljenja)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata (pominje se ~10 USD mesečno i 52 USD godišnje), besplatni studentski pristup"
+    ],
+    "psych": "Prijatan okidač umesto kazne: buđenje uz omiljenu pesmu čini jutro nagradom. Dokaz: 'Waking up to my fav songs everyday for school'. Princip je slab za narativ doslednosti, nema nizova ni napretka.",
+    "developer_type": "mali tim (Make It Count LTD, 1 aplikacija; recenzije pominju developera 'Daniel')",
+    "build_weeks": 6,
+    "build_notes": "Spotify iOS/Android SDK i Apple MusicKit, AlarmKit (iOS) i pouzdani alarmi u pozadini na Androidu, minimalan backend. Najveći rizik: zavisnost od Spotify SDK pravila (puštanje samo isečka, odjava, pauza plejera) i pouzdanost alarma.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Budim se uz Kiss You od One Direction svako jutro' — POV snimak buđenja uz pesmu.",
+    "monetization": "Pretplata uz trial; korisnici prigovaraju na cenu (oko 10 USD/mes, 52 USD/god); traže doživotnu kupovinu.",
+    "complaints": [
+      "Alarm ne zazvoni ili se ugasi (oko 6)",
+      "Previsoka pretplata i beskoristan free plan (oko 8)",
+      "Pušta isečak od 15–30 s u petlji umesto cele pesme (oko 3)",
+      "Previše tih alarm, bez postepenog pojačavanja (oko 2)"
+    ],
+    "suggestions": [
+      "Jednokratna doživotna licenca",
+      "Puštanje cele pesme ili nasumične pesme iz plejliste",
+      "Postepeno pojačavanje glasnoće",
+      "Manje push poruka od developera"
+    ],
+    "praise": [
+      "Buđenje uz omiljenu muziku",
+      "Jednostavno podešavanje",
+      "Radi za tvrdo spavače"
+    ],
+    "opportunity": "Spojiti muzički alarm sa misijom buđenja i nizom ranih ustajanja (streak), uz pouzdaniji alarm i fer freemium.",
+    "growth": "2.06 ocena/dan od izlaska (2019-05-02), 5591 US ocena; recenzije 30d: 12 naspram 11 u prethodnih 30d. Stabilan priliv recenzija; publika deluje mlada (škola), ali proizvod je utility bez retencionog sloja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/music-alarm-clock-for-spotify/id1460664069",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1559730367": {
+    "name": "Focus Traveller - Flow Timer",
+    "exclude": false,
+    "list": "A",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Pomodoro/fokus tajmer, ali dok radiš tvoj animirani putnik se penje na planinu, a sa do 10 prijatelja ideš u zajedničku 'ekspediciju' u realnom vremenu.",
+    "specifics": [
+      "Ključna mehanika: što duže fokus traje, putnik se penje više; journeys po projektima; countdown ili štoperica",
+      "Šta je deljivo: lepe animirane scene i dnevni/godišnji logovi (procena)",
+      "Društveni sloj: grupe do 10 prijatelja koje se fokusiraju zajedno uživo",
+      "Monetizacija: freemium + pretplata (mesečna/godišnja), cena opisana kao pristupačna"
+    ],
+    "psych": "Vidljiv napredak i zajedničko prisustvo (body doubling): penjanje daje opipljiv dokaz rada. Dokaz: 'the concept that you're climbing a mountain' i 'helped me study for 5 hours straight'.",
+    "developer_type": "solo (WEI JEN CHEN, 2 aplikacije; ilustracije radi jedan umetnik)",
+    "build_weeks": 7,
+    "build_notes": "Tajmer i lokalni logovi, backend za grupne sesije u realnom vremenu (websocket), Apple Music integracija, widgeti. Najveći rizik: kvalitet ilustracija/animacija (to je ceo šarm) i rad tajmera u pozadini na iOS-u.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Study with me, ali moj mali planinar se penje samo dok ja ne diram telefon.'",
+    "monetization": "Freemium + pretplata; deo korisnika rado plaća ('I never pay for any subscriptions, but...'), deo se buni što su novi likovi i pozadine iza paywalla.",
+    "complaints": [
+      "Nema Android/web verzije (oko 5)",
+      "Pomodoro ne prelazi automatski na odmor i nema zvuka na kraju sesije (oko 4)",
+      "Netačni logovi vremena i pauziranje tajmera pri prelasku u druge aplikacije (oko 3)",
+      "Novi sadržaj samo za plaćene; problemi sa aktivacijom pretplate (oko 4)"
+    ],
+    "suggestions": [
+      "Android i web verzija",
+      "Automatski prelaz fokus–odmor uz zvučni signal",
+      "To-do lista unutar journey-ja",
+      "Whitelist aplikacija i otključavanje likova kroz napredak"
+    ],
+    "praise": [
+      "Umirujuća grafika, animacije i muzika",
+      "Pomaže kod ADHD-a i učenja",
+      "Grupni fokus sa prijateljima"
+    ],
+    "opportunity": "Cross-platform verzija sa otključavanjem likova i scena kroz akumulirane sate fokusa (nagrada za doslednost umesto paywalla) i deljivim 'vrhovima' za TikTok.",
+    "growth": "2.07 ocena/dan od izlaska (2021-06-22), 4016 US ocena; recenzije 30d: 1 naspram 4 u prethodnih 30d. Pad broja recenzija u poslednjih 30d; organski dugovečna aplikacija sa jakim ocenama, bez oznake praćenja.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/focus-traveller-flow-timer/id1559730367",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1573298047": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Chris Bumstead, 6x Mr. Olympia) i velika biblioteka profesionalnih trening programa.",
+    "name": "STNDRD Workout & Fitness Plans"
+  },
+  "6742710611": {
+    "exclude": true,
+    "exclude_reason": "Generički AI skener kalorija (Cal AI šablon) iza kliničke ordinacije za dijabetes i endokrinologiju; nije diferencirana navika.",
+    "name": "Caloria: Dr Built Health Coach"
+  },
+  "6756301939": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija su nagrade i novac.",
+    "name": "WalkCash - rewards&earn&coin"
+  },
+  "6742879597": {
+    "name": "Daily Discipline - PlanUp",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "AI dnevni planer i habit tracker zasnovan na 'Eat That Frog' metodi: prvo najteži zadatak, plan se diktira glasom.",
+    "specifics": [
+      "Ključna mehanika: to-do + habit tracker + kalendar, 'Frog Task First', glasovni unos plana, dugme za brzo pomeranje",
+      "Šta je deljivo: ništa izraženo (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: tvrdi paywall nakon kviza, oko 60 USD godišnje"
+    ],
+    "psych": "Obaveza unapred: jedna 'žaba' kao fokus dana. Dokaz je slab, recenzije uglavnom napadaju paywall; pozitivno: 'low key changing my life'.",
+    "developer_type": "solo (Hosameldain Aboelenain, 2 aplikacije)",
+    "build_weeks": 5,
+    "build_notes": "Lokalno skladište, LLM za parsiranje glasovnog unosa u kalendar, notifikacije, paywall. Najveći rizik: nema diferencijacije u odnosu na desetine planera.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Ako ujutru prvo ne pojedeš žabu, ceo dan ti je propao' — Eat That Frog u 15 sekundi.",
+    "monetization": "Tvrdi paywall posle onboarding kviza (oko 60 USD/god), agresivne prikazane cene; korisnici ga masovno odbijaju.",
+    "complaints": [
+      "Paywall odmah posle kviza, bez probe (oko 9)",
+      "Manipulativni onboarding i 'trik' cene (oko 3)",
+      "Nema ničeg posebnog, dosadno, 'AI bloatware' (oko 3)",
+      "Naplata godišnje umesto nedeljne bez refundacije (oko 1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni planer",
+      "Jasna cena pre kviza",
+      "Interaktivniji i zanimljiviji doživljaj"
+    ],
+    "praise": [
+      "Pomaže da se 'sredi život'",
+      "Jednostavno organizovanje dana"
+    ],
+    "opportunity": "Diferencirati 'žabu dana' kao javnu obavezu (prijatelj vidi da li si je pojeo) i ublažiti paywall.",
+    "growth": "2.03 ocena/dan od izlaska (2025-04-26), 1082 US ocena; recenzije 30d: 1 naspram 0 u prethodnih 30d. Recenzije pominju plaćene oglase ('3am ad'); ocene po danu solidne ali VoC je dominantno negativan.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/daily-discipline-planup/id6742879597",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6755841875": {
+    "name": "LockFit: App Blocker",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "App blocker kod kog otključavaš Instagram/TikTok tek kad uradiš sklekove, čučnjeve ili plank.",
+    "specifics": [
+      "Ključna mehanika: blokiraj aplikacije, podesi koliko vežbe košta otključavanje, vežba otključava",
+      "Šta je deljivo: statistika zaključanog vremena i broja ponavljanja (procena)",
+      "Društveni sloj: nema, samo solo izazovi",
+      "Monetizacija: pretplata mesečno/godišnje, praktično tvrdi paywall"
+    ],
+    "psych": "Trenje + nagrada za akciju: skrol se 'plaća' kretanjem. Dokaz: 'It actually helps me reduce screen time and get exercise!'.",
+    "developer_type": "solo (Thomas Tirnyuy, 1 aplikacija; legal stranice na vercel.app)",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls/DeviceActivity, Apple odobrenje entitlementa) i Android UsageStats/Accessibility, brojanje ponavljanja kamerom (pose detection na uređaju, npr. Vision/ML Kit). Najveći rizik: pouzdano brojanje ponavljanja i Screen Time entitlement.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj telefon mi ne da TikTok dok ne uradim 20 sklekova.'",
+    "monetization": "Pretplata mesečna/godišnja; mlađi korisnici masovno odbijaju plaćanje ('Not free', 'I'm too poor').",
+    "complaints": [
+      "Nije besplatno, ništa ne radi bez plaćanja (oko 8)",
+      "Onboarding zaglavi na ekranu o zavisnosti (oko 1)",
+      "Konkurent PushLock bolji (oko 1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo (1 aplikacija, 1 vežba)",
+      "Jasnija informacija o ceni pre kviza"
+    ],
+    "praise": [
+      "Smanjuje screen time i uvodi vežbanje",
+      "Pomaže disciplini i mršavljenju",
+      "Jednostavan koncept"
+    ],
+    "opportunity": "Freemium sa 1 blokiranom aplikacijom, plus društveni sloj (dnevni sklek-streak sa prijateljima, rang lista ponavljanja).",
+    "growth": "2.01 ocena/dan od izlaska (2026-01-08), 556 US ocena; recenzije 30d: 1 naspram 2 u prethodnih 30d. Mlada aplikacija (2026), ~2 ocene/dan bez velikog marketinga; publika vrlo mlada (pominju se 11-godišnjaci).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/lockfit-app-blocker/id6755841875",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1449457468": {
+    "exclude": true,
+    "exclude_reason": "Tekstualna fantasy igra, nije lična navika ili disciplina.",
+    "name": "Path of Adventure"
+  },
+  "1459276435": {
+    "exclude": true,
+    "exclude_reason": "Retro auto-battle RPG igra, nije self-improvement.",
+    "name": "Tap Force: Retro RPG"
+  },
+  "6759975000": {
+    "exclude": true,
+    "exclude_reason": "Life simulator igra, nema veze sa stvarnim navikama.",
+    "name": "Sentience - Life Simulator"
+  },
+  "6739289261": {
+    "exclude": true,
+    "exclude_reason": "Utility (caller ID), velika baza brojeva; nije niša.",
+    "name": "CallApp"
+  },
+  "1111447047": {
+    "name": "Habitify: Habit Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Klasičan habit tracker koji se automatski popunjava iz Apple Health, Fitbit, Strava i Screen Time, uz API/MCP da navike loguješ kroz AI asistenta.",
+    "specifics": [
+      "Ključna mehanika: navike sa automatskim logovanjem iz integracija, streak, grafikoni, milestone-i",
+      "Šta je deljivo: grafikoni napretka (procena)",
+      "Društveni sloj: grupni izazovi pomenuti u recenziji ('3-3-3 group challenge')",
+      "Monetizacija: freemium (3 navike besplatno), pretplata oko 28 USD/god i doživotna licenca"
+    ],
+    "psych": "Vidljiv napredak i nizovi; automatizacija smanjuje trenje. Dokaz: 'Beautiful charts, streaks' i 'It has changed my life'.",
+    "developer_type": "mali tim / firma (Unstatic Ltd Co, 3 aplikacije, aktivan od 2016, 3M+ korisnika, Apple feature)",
+    "build_weeks": 8,
+    "build_notes": "Habit core je lak; skupe su integracije (HealthKit, Health Connect, Fitbit, Strava, Screen Time), widgeti, sync, API. Najveći rizik: obim integracija i kvalitet sinhronizacije.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "'Tvoje navike se same čekiraju — sat, Strava i screen time loguju umesto tebe.'",
+    "monetization": "Freemium + pretplata (~28 USD/god) i lifetime; deo korisnika plaća rado, deo smatra free plan beskorisnim.",
+    "complaints": [
+      "Bagovi: widgeti, sortiranje, notifikacije u pogrešno vreme, crash (oko 8)",
+      "Free plan preuzak (3 navike) i skupo (oko 4)",
+      "Naplata uprkos otkazu u trialu (oko 1)",
+      "Zastareo i nespretan UI, slabi trendovi (oko 4)"
+    ],
+    "suggestions": [
+      "UX redizajn trendova i statistike",
+      "Kreiranje navika kroz ChatGPT",
+      "Bolji dnevnik/beleške uz navike",
+      "Lakše povezivanje Apple Watch-a"
+    ],
+    "praise": [
+      "Integracije (Fitbit, Apple Health)",
+      "Cross-platform",
+      "Brza podrška"
+    ],
+    "opportunity": "Uzor za automatsko logovanje, ali bez diferencijacije za Gen Z; pobeđuje se jačim društvenim i vizuelnim slojem.",
+    "growth": "1.93 ocena/dan od izlaska (2016-09-02), 7139 US ocena; recenzije 30d: 4 naspram 3 u prethodnih 30d. Zrela aplikacija (od 2016) sa stabilnim prilivom; nema znakova ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 2,
+      "marketingGap": 4,
+      "buildEase": 3,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 3
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/habitify-habit-tracker/id1111447047",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6752617107": {
+    "name": "Calimax: Calisthenics Coach",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "AI kalistenika trener sa sistemom nivoa 0–17 i otključavanjem veština (planche, front lever) umesto generičnih planova.",
+    "specifics": [
+      "Ključna mehanika: AI generiše program po nivou i opremi, tracker serija, progresija veština",
+      "Šta je deljivo: otključan nivo/veština (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata uz trial"
+    ],
+    "psych": "Vidljiv napredak kroz nivoe i veštine. Dokaz je tanak: 'got my strength up really good'.",
+    "developer_type": "solo (Mihai Sava, 2 aplikacije)",
+    "build_weeks": 7,
+    "build_notes": "Biblioteka 270+ vežbi sa slikama/animacijama (najveći posao), LLM ili pravila za generisanje programa, tracker. Najveći rizik: sadržaj vežbi i kvalitet AI programa.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Od 0 do muscle-upa: aplikacija mi otključava sledeću veštinu tek kad savladam prethodnu.'",
+    "monetization": "Pretplata uz trial; recenzije: naplata odmah po trialu, korisnici (mladi) ne žele da plaćaju.",
+    "complaints": [
+      "Mora da se plati (oko 4)",
+      "Naplata odmah iako je izabran trial (oko 2)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni program"
+    ],
+    "praise": [
+      "Dobro za početnike",
+      "Vidljiv napredak snage"
+    ],
+    "opportunity": "Skill-tree progresija sa video dokazom (snimi pokušaj) i deljivim 'unlock' karticama za TikTok.",
+    "growth": "1.91 ocena/dan od izlaska (2025-11-03), 654 US ocena; recenzije 30d: 2 naspram 1 u prethodnih 30d. Mlada aplikacija sa malo recenzija; uzorak premali za zaključak.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 2,
+      "monetization": 2,
+      "principleFit": 3
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/calimax-calisthenics-coach/id6752617107",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6759210418": {
+    "name": "Mochivia: Daily Learning",
+    "exclude": false,
+    "list": "B",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "'Duolingo za bilo šta': AI pravi personalizovani kurikulum od dnevnih 15-minutnih lekcija i prikazuje naučeno kao graf znanja.",
+    "specifics": [
+      "Ključna mehanika: izbor oblasti, AI generisan learning journey, mikro-lekcije sa pitanjima",
+      "Šta je deljivo: graf znanja (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: nejasno iz podataka (procena: freemium/pretplata)"
+    ],
+    "psych": "Male lekcije koje se slažu i vidljiv graf znanja. Dokaz: 'kind of like Duolingo for anything'.",
+    "developer_type": "mali tim / solo (Bleau Labs LLC, 1 aplikacija)",
+    "build_weeks": 7,
+    "build_notes": "LLM generisanje lekcija i pitanja, renderovanje LaTeX-a, backend za napredak i graf znanja. Najveći rizik: kvalitet i tačnost AI sadržaja (halucinacije), trošak tokena.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Napravio sam sebi fakultet u telefonu — 15 minuta dnevno, bilo koja tema.'",
+    "monetization": "Nije vidljivo u podacima; jedan korisnik kaže da bi platio kad se bagovi poprave.",
+    "complaints": [
+      "Bagovi u lekcijama i unosu odgovora (oko 4)",
+      "LaTeX prikaz matematike puca (oko 1)",
+      "Prelazak između tokova ne radi (oko 1)"
+    ],
+    "suggestions": [
+      "Više vizuelnih primera u onboardingu",
+      "Popraviti renderovanje matematike"
+    ],
+    "praise": [
+      "Personalni kurikulum za bilo koju temu",
+      "Interaktivno i zabavno",
+      "Pomaže doslednosti"
+    ],
+    "opportunity": "Dodati streak, lige i deljiv graf znanja da bi postala 'Duolingo za sve' sa pravim retencionim slojem.",
+    "growth": "1.91 ocena/dan od izlaska (2026-03-20), 393 US ocena; recenzije 30d: 2 naspram 0 u prethodnih 30d. Izašla 2026-03, skoro 2 ocene/dan bez oznake praćenja; rani organski signal.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/mochivia-daily-learning/id6759210418",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

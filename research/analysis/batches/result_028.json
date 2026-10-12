@@ -1,0 +1,248 @@
+{
+  "1513232300": {
+    "exclude": true,
+    "exclude_reason": "Neprofitna organizacija (The Phoenix): vrednost su uživo događaji i mreža partnera, ne može se replicirati za 2 meseca.",
+    "name": "NewForm: Recovery & Wellbeing"
+  },
+  "1572515807": {
+    "name": "ClearSpace: Reduce Screen Time",
+    "exclude": false,
+    "list": "A",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Screen time blocker u kome minute za TikTok/Instagram zarađuješ sklekovima, čučnjevima ili koracima koje broji kamera, uz limit po otvaranju i grupne screen-time izazove.",
+    "specifics": [
+      "Ključna mehanika: pauza pre otvaranja + banka minuta + push-up kamera",
+      "Šta je deljivo: pad screen time-a, broj sklekova",
+      "Društveni sloj: accountability partneri i grupni izazovi (Android ograničen)",
+      "Monetizacija: freemium (1 blokirana aplikacija besplatno), premium skuplji, studenti besplatno"
+    ],
+    "psych": "Nagrada za akciju: scroll se zarađuje fizičkim naporom: 'Finishing your squats, pushups, or steps feels like you've completed something'.",
+    "developer_type": "mali tim (Clearspace Technologies, Inc., 2 aplikacije; procena: mali startup)",
+    "build_weeks": 7,
+    "build_notes": "Screen Time API (DeviceActivity, shield), Vision pose detekcija za sklekove i čučnjeve, HealthKit koraci, backend za grupe. Najveći rizik: tačnost brojanja pokreta i pouzdanost sesija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "Hoćeš 10 minuta TikToka? Daj 20 sklekova, telefon broji.",
+    "monetization": "Freemium; premium za više blokiranih aplikacija (cena se ne vidi, 'pretty expensive'); premium besplatan za studente.",
+    "complaints": [
+      "Bugovi sesija, gubi zarađene minute (~7)",
+      "Brojanje sklekova nepouzdano (~6)",
+      "Samo 1 aplikacija besplatno (~4)",
+      "Ne može da se obriše ili otkaže pretplata (~3)"
+    ],
+    "suggestions": [
+      "Bolja detekcija sklekova",
+      "Share-to iz blokirane aplikacije bez browsinga",
+      "Više blokova u besplatnoj verziji",
+      "Android paritet za grupne izazove"
+    ],
+    "praise": [
+      "Jedina aplikacija koja je smanjila screen time (~8)",
+      "Sklekovi kao bonus teretana (2)",
+      "Besplatna verzija dovoljna, studenti besplatno (2)"
+    ],
+    "opportunity": "Pouzdana detekcija pokreta (više vežbi), stabilne sesije i društveni 'earn your scroll' izazovi sa prijateljima kao glavni viralni motor.",
+    "growth": "Od 2021-07; ~4,7 ocena/dan (8.898). Recenzije 30d 3 vs 5: zrela aplikacija, stabilno nisko.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1039907973": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija za microcurrent uređaj za lice (hardver).",
+    "name": "NuFACE®"
+  },
+  "1463386686": {
+    "exclude": true,
+    "exclude_reason": "Firma sa 900+ vežbi i video sadržajem; velika biblioteka profesionalnog sadržaja.",
+    "name": "Fitify: Home Workout, AI Coach"
+  },
+  "1064020872": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (15M korisnika), nutritivna baza i AI; nije u narativu doslednosti za Gen Z.",
+    "name": "Foodvisor - AI Calorie Counter"
+  },
+  "654810212": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Freeletics GmbH, 60M korisnika).",
+    "name": "Freeletics: Workouts & Fitness"
+  },
+  "6758726329": {
+    "exclude": true,
+    "exclude_reason": "Logička igra i zagonetke (nonogrami), zabava; ne lična navika.",
+    "name": "Logicat - Brain Puzzle"
+  },
+  "6754755269": {
+    "exclude": true,
+    "exclude_reason": "Grupne mini-igre za zabavu; takmičarski format, ali nije self-improvement.",
+    "name": "playus: Daily Group Challenge"
+  },
+  "6448482826": {
+    "name": "Lil Planner: Visual Schedule",
+    "exclude": false,
+    "list": "B",
+    "principle": "Nagrada za akciju",
+    "differentiator": "Vizuelni raspored za decu i ADHD: velike kartice sa slikama i animiranim emotikonima, rutine se odrađuju za dragulje; koriste ga i tinejdžeri za 'aesthetic' organizaciju.",
+    "specifics": [
+      "Ključna mehanika: vizuelne rutine + dragulji kao nagrada",
+      "Šta je deljivo: sladak raspored (screenshot)",
+      "Društveni sloj: nema",
+      "Monetizacija: freemium, plaćaju se dodatni dani i opcije"
+    ],
+    "psych": "Mala nagrada za svaki korak razbija prokrastinaciju: 'I ended up cleaning for three hours'.",
+    "developer_type": "mali tim (Space Sweater, LLC, 2 aplikacije; 'napravili smo za našu porodicu')",
+    "build_weeks": 4,
+    "build_notes": "Lokalno skladištenje, notifikacije/alarmi, upload slika, animacije; bez backenda. Najveći rizik: art (ikonice, animacije), tehnički nizak.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Planer za petogodišnjake je jedino što je sredilo moj ADHD.",
+    "monetization": "Freemium; plaćanje za dodatne dane i opcije (cene se ne vide).",
+    "complaints": [
+      "Podrška ne odgovara (2)",
+      "Nema istorije urađenih zadataka (1)",
+      "Deca menjaju raspored jer je zaštita prosta računica (1)",
+      "Nema alarma za buđenje (1)"
+    ],
+    "suggestions": [
+      "Alarm za početak rutine",
+      "Foto-dokaz da je zadatak urađen",
+      "Prekidač za uključivanje/isključivanje rasporeda",
+      "Pregled istorije"
+    ],
+    "praise": [
+      "Pomaže organizaciju i fokus (~10)",
+      "Slatko i zabavno (~5)",
+      "Besplatna verzija dovoljna (3)"
+    ],
+    "opportunity": "Publika je mešana (roditelji + tinejdžeri); napraviti 'cozy ADHD planner' za 18–24 sa foto-dokazom, nizom i deljivim rasporedom.",
+    "growth": "Od 2024-04; ~4,6 ocena/dan (4.218). Recenzije 30d 4 vs 4: stabilno.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/lil-planner-visual-schedule/id6448482826",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1062945251": {
+    "exclude": true,
+    "exclude_reason": "Poznat brend (Intelligent Change, fizički dnevnici), 6 aplikacija.",
+    "name": "5 Minute Journal・Daily Diary"
+  },
+  "1479615245": {
+    "name": "Quit Vaping",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "Tracker za prestanak vejpovanja sa Buddy sistemom (ti i prijatelj prestajete zajedno i vidite tuđi napredak), oporavkom pluća/srca/mozga po danima i planom smanjenja nikotina.",
+    "specifics": [
+      "Ključna mehanika: streak timer, puff/pod tracker, plan smanjenja, timeline zdravlja",
+      "Šta je deljivo: broj dana i ušteđen novac",
+      "Društveni sloj: buddy sistem i forum zajednice",
+      "Monetizacija: hard paywall $14,99–$30 mesečno ili $99,99 godišnje"
+    ],
+    "psych": "Odvikavanje kroz vidljive milestone-e i zajednicu: 'When I felt like giving up, I would open this app and remember each mile stone'.",
+    "developer_type": "solo (fizičko lice Jonathan Kopp, 6 aplikacija; verovatno serija 'quit' aplikacija, granično za šablon)",
+    "build_weeks": 5,
+    "build_notes": "Lokalni tracker, timeline sadržaj o oporavku, backend za forum i buddy vezu, moderacija, Apple Watch widget. Najveći rizik: moderacija zajednice (lažni profili, trolovi).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "Dan 1 bez vejpa vs dan 30: šta se desilo mojim plućima (i 300$ u džepu).",
+    "monetization": "Hard paywall: $14,99–$30 mesečno ili $99,99 godišnje; korisnici smatraju cenu preskupom u odnosu na uštedu.",
+    "complaints": [
+      "Cena previsoka, ironija 'uštedeo si pa plati' (~7)",
+      "Nema trial-a (~3)",
+      "Bagovi trackera i reset napretka (~3)",
+      "Lažni profili i trolovi u zajednici (2)"
+    ],
+    "suggestions": [
+      "Jeftinija pretplata",
+      "Isključive notifikacije koje podsećaju na vejp",
+      "Sync sa Apple Watch-om",
+      "Dnevne poruke ohrabrenja dve nedelje"
+    ],
+    "praise": [
+      "Zajednica pomaže (~6)",
+      "Dugotrajni uspesi, 1–3 godine bez vejpa (~5)",
+      "Timeline oporavka pluća/srca/mozga (~4)"
+    ],
+    "opportunity": "Gen Z vejperi su idealna publika; besplatan core, buddy sistem kao viralni loop, moderirana zajednica bez lažnih profila.",
+    "growth": "Od 2019-10; ~4,6 ocena/dan (11.642). Recenzije 30d 0 vs 3: opada.",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 4,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/quit-vaping/id1479615245",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1526416889": {
+    "exclude": true,
+    "exclude_reason": "Firma (BONGMI LIMITED, 4 aplikacije) sa generičkim fasting šablonom; dijetetski domen, hard paywall.",
+    "name": "Fastin: Intermittent Fasting"
+  },
+  "979597990": {
+    "exclude": true,
+    "exclude_reason": "Igra (Scrabble varijanta), zabava; developer sa 9 aplikacija.",
+    "name": "Word Master - Classic"
+  },
+  "1438344260": {
+    "exclude": true,
+    "exclude_reason": "ESL vokabular firme sa kuriranim kurikulumom (velika sadržajna baza); publika uglavnom van US 18–24.",
+    "name": "Vocabulary Builder by Atlas"
+  },
+  "6446773000": {
+    "exclude": true,
+    "exclude_reason": "Aplikacija poznatog fitness YouTubera (Stan Browney): brend i rast vezan za njegov kanal, 45+ programa sadržaja.",
+    "name": "90 Day Challenge"
+  }
+}

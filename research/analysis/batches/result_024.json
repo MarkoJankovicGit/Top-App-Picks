@@ -1,0 +1,133 @@
+{
+  "475249619": {
+    "exclude": true,
+    "exclude_reason": "Etabliran nutritivni tracker (1M+ korisnika) zavisan od velike verifikovane baze namirnica i barkodova; nema psihološkog zaokreta.",
+    "name": "My Macros+ | Macro Tracker"
+  },
+  "1536483418": {
+    "exclude": true,
+    "exclude_reason": "Igra (life sim) od studija sa 10 aplikacija.",
+    "name": "Single City: Social Life Sim"
+  },
+  "1558659494": {
+    "exclude": true,
+    "exclude_reason": "Sadržaj za učenje jezika; CLEVER APPS sa više sličnih aplikacija (procena: fabrika).",
+    "name": "10 Minute English"
+  },
+  "6762188741": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn: glavna motivacija korisnika su PayPal isplate (finansijska nagrada); recenzije su gotovo isključivo o isplatama.",
+    "name": "GoWalker:Smart Step Tracker"
+  },
+  "1473588527": {
+    "exclude": true,
+    "exclude_reason": "Igra (RPG).",
+    "name": "LAST CLOUDIA: Pixel Art RPG"
+  },
+  "6740551887": {
+    "exclude": true,
+    "exclude_reason": "Walk-to-earn sa gift karticama kao glavnom motivacijom (finansijska nagrada).",
+    "name": "Winwalk - Get Paid To Walk"
+  },
+  "1540872304": {
+    "exclude": true,
+    "exclude_reason": "Obrazovni alat za decu, publika van 18–24; nije lična navika.",
+    "name": "Math Problems 1st - 12th Grade"
+  },
+  "1175389256": {
+    "exclude": true,
+    "exclude_reason": "Kviz igra sa sadržajem pitanja, nije lična navika.",
+    "name": "Trivia Quiz Knowledge"
+  },
+  "1056175729": {
+    "exclude": true,
+    "exclude_reason": "Klađenje novcem na sopstvene ciljeve (finansijska nagrada); deo veće grupe (FitnessAI, 6 aplikacija).",
+    "name": "StepBet: Walk, Get Active, Win"
+  },
+  "1134655040": {
+    "exclude": true,
+    "exclude_reason": "Velika firma i hardver (trenažeri), 3D svetovi; nemoguće za 2 meseca.",
+    "name": "Zwift: Indoor Cycling Fitness"
+  },
+  "6764007607": {
+    "exclude": true,
+    "exclude_reason": "Do skoro cash-reward aplikacija (konverzija gemova u PayPal); recenzije su o isplatama, motivacija je novac.",
+    "name": "Water Garden Life"
+  },
+  "444924121": {
+    "exclude": true,
+    "exclude_reason": "Etabliran tracker zavisan od verifikovane baze namirnica (Nutracheck); firma.",
+    "name": "Calorie Counter +"
+  },
+  "6752850512": {
+    "exclude": true,
+    "exclude_reason": "Igra (idle sim) od studija Mamboo Entertainment sa više igara.",
+    "name": "Idle Life - Simulator"
+  },
+  "6480463426": {
+    "name": "SuperAlarm - Loud Alarm Clock",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji ne možeš da ugasiš bez misije (skeniranje predmeta, Face ID, hodanje, matematika, memorija) i 'wake up check' koji proverava da nisi zaspao ponovo; pozicioniran kao Miracle Morning alat za tinejdžere i studente.",
+    "specifics": [
+      "Ključna mehanika: šest misija za gašenje alarma, provera budnosti posle gašenja, beskonačan snooze dok misija nije gotova.",
+      "Šta je deljivo: reakcije na alarm i misije (procena: snimci jutarnjih misija).",
+      "Društveni sloj: nema.",
+      "Monetizacija: hard paywall, ~35–40 USD/god, lifetime ~64 USD, 7 dana probe."
+    ],
+    "psych": "Obaveza unapred: sebi uveče stvaraš trenje za ujutru; \"The mission to turn off the alarm is frustrating but effective!\"",
+    "developer_type": "solo / mali tim (Jiseop Han, 2 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "iOS AlarmKit (iOS 26) ili kritične notifikacije, Android AlarmManager/full-screen intent, kamera + on-device prepoznavanje predmeta, Face ID, pedometar. Najveći rizik: pouzdanost alarma posle iOS ažuriranja (žalbe da ne zazvoni).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "Moj alarm ne prestaje dok ne skeniram četkicu za zube u kupatilu.",
+    "monetization": "Hard paywall (~40 USD/god ili ~64 USD lifetime); mnogo žalbi tinejdžera da nije besplatno, ali plaćeni korisnici zadovoljni.",
+    "complaints": [
+      "Nije besplatno iako je tako predstavljeno, paywall pri prvom alarmu (~16)",
+      "Alarm ponekad ne zazvoni, naročito posle iOS ažuriranja (~3)",
+      "Nema načina da se kontaktira developer / prijavi bag (~1)",
+      "Alarm nastavi da zvoni posle gašenja (~1)"
+    ],
+    "suggestions": [
+      "Besplatna osnovna verzija (konkurent Alarmy ima)",
+      "Mesečna opcija umesto plaćanja cele godine odjednom",
+      "Izbor samo jedne omiljene misije (skeniranje predmeta)"
+    ],
+    "praise": [
+      "Konačno budi i teške spavače",
+      "Raznovrsne misije, posebno skeniranje predmeta",
+      "Lep dizajn i brza podrška"
+    ],
+    "opportunity": "Dodati niz jutarnjih buđenja na vreme i društveni sloj (budi se sa prijateljem, ko prvi ustane), plus freemium sa jednom misijom; konkurencija Alarmy je jaka.",
+    "growth": "Izlazak 2024-04-23, 5.248 ocena, ~5,8 ocena/dan. Recenzije 30d: 49 naspram 47: stabilno visok priliv; recenzije pominju reklame i preporuke prijatelja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 4
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/superalarm-loud-alarm-clock/id6480463426",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "527219710": {
+    "exclude": true,
+    "exclude_reason": "Firma sa velikom bibliotekom profesionalnog video sadržaja vežbi.",
+    "name": "Sworkit Fitness & Wellness App"
+  }
+}

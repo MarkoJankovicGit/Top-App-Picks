@@ -1,0 +1,696 @@
+{
+"6758021281": {
+ "differentiator": "An alarm that won't turn off until you complete a mission (push-ups, a photo of the sky, making the bed, finding an object), plus morning streaks.",
+ "specifics": [
+  "Core mechanic: you pick the mission the night before; the alarm only turns off after the mission is done (photo or activity)",
+  "What's shareable: a video of waking up and hunting for an object around the apartment, morning streak (estimate)",
+  "Social layer: none in the data; only streaks and morning insights",
+  "Monetization: mandatory subscription after onboarding, ~$20-30 per year according to reviews"
+ ],
+ "psych": "Pre-commitment: the decision is made at night, and the friction in the morning prevents snoozing. Evidence: 'I used to set 20 alarms and go right back to sleep'.",
+ "developer_type": "small team (estimate): Dialed Labs Inc., 2 apps",
+ "build_notes": "AlarmKit on iOS 26+ (without it, a reliable alarm is the main risk), Android AlarmManager and full-screen intent; on-device Vision for object recognition and photo missions; camera-based push-up counting; minimal backend. Biggest risk: alarm and volume reliability (complaints that it didn't ring).",
+ "hook": "'The alarm makes me take a photo of my fridge before it lets me turn it off' - 6 AM wake-up POV.",
+ "monetization": "Hard paywall subscription, ~$30 per year (a $20 price is also mentioned); 3-7 day trial, billing via Paddle according to one review.",
+ "complaints": [
+  "You have to pay, no free version (~12)",
+  "Unexpected charge after the trial, hard to cancel (~2)",
+  "Long questionnaire before the price is revealed (~2)",
+  "Settings: can't delete an alarm or lower the volume (~2)"
+ ],
+ "suggestions": [
+  "Free version with ads",
+  "Lower price",
+  "Volume control and the ability to delete alarms",
+  "App blocking only on days when an alarm is set"
+ ],
+ "praise": [
+  "Heavy sleepers finally get up on time (~10)",
+  "Missions wake up the brain and build a morning routine",
+  "Better than Alarmy's math problems"
+ ],
+ "opportunity": "Freemium with one free mission and a transparent trial; a social layer (a friend sees whether you got up, group morning challenge) and a post-mission routine.",
+ "growth": "Launched 2026-02-03, ~79 ratings per day; 136 reviews in the last 30 days vs. 64 in the previous 30 - accelerating growth, likely driven by paid ads (reviews mention 'ads I see').",
+ "confidence": "high",
+ "marketing_evidence": "No active ads in the US. All 7 results are unrelated advertisers (games, a funeral home). Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads). On Reddit, they are looking for paid UGC creators.",
+ "reddit_notes": "Almost all mentions come from the developer (launch posts, UGC hiring, build-in-public); the only organic recommendation, in r/GetStudying, looks like possible seeding. It is mentioned as an example of an app making ~$50k per month with UGC marketing."
+},
+"6753029718": {
+ "differentiator": "A NoFap app for young men with a streak counter, emergency tools for moments of urges and 'dopamine reset' routines, behind a hard paywall after a quiz. Borderline because the topic is awkward for mainstream influencers and part of the audience is underage.",
+ "specifics": [
+  "Core mechanic: quiz/test at the start, streak counter, habit tracker, emergency tools and 'light therapy' sessions, 90-day goal",
+  "What's shareable: streak day count - estimate; the topic is private, so sharing is limited",
+  "Social layer: 'Community Support' in the description, no details",
+  "Monetization: 3-day trial then subscription; reviews mention $10, $17.25 and $39.99"
+ ],
+ "psych": "The streak and fear of resetting keep users abstinent; the 90-day goal provides a clear horizon. Evidence: 'If I do not complete my 90 day goal, I'll do it again.'",
+ "developer_type": "solo or small team (estimate): Rewired LLC, 2 apps, privacy policy hosted on a personal github.io",
+ "build_notes": "Onboarding quiz, streak counter, local notifications, audio/visual sessions, simple backend for the community; optionally Screen Time API for blocking. Biggest risk: Apple review and advertising around pornography, underage users and 'scientific'-type claims (one review accuses it of fake diagnostics).",
+ "hook": "'Day 1 of 90 without porn - follow me until I pass 30.'",
+ "monetization": "Hard paywall after onboarding, 3-day trial then subscription (reviews: $10, $17.25, $39.99); most negative reviews refuse to pay.",
+ "complaints": [
+  "Have to pay to use it at all / 'why am I paying to heal' (~15)",
+  "Underage users without a card can't use it (~3)",
+  "Unexpected charge after canceling the trial or wrong amount (~2)",
+  "Focus on men only (~1)"
+ ],
+ "suggestions": [
+  "Free basic version (streak counter)",
+  "Pay only after trying it",
+  "A version for women too"
+ ],
+ "praise": [
+  "Reflection at the start and clear tracking of relapses",
+  "Feeling that it helps with quitting",
+  "The 90-day goal"
+ ],
+ "opportunity": "Free streak counter and an accountability partner, with a subscription for emergency tools and analytics; a broader 'dopamine/discipline reset' framing that is easier to advertise than the NoFap topic.",
+ "growth": "Launched 2025-11-06, ~9.3 ratings per day (3,169 over ~11 months, average 4.81); 3 reviews in the last 30 days vs. 3 - stable; ratings are probably driven by a rating prompt in onboarding (estimate).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads for the app in the US. 'Rewired App' (3 ads, rewiredapp.io) is a different app (a distraction blocker in TestFlight beta) and is excluded; 'Defeat Lust' and 'lust recovery' show no ads from this app. The topic (pornography) is restricted for Meta ads, so marketing is probably outside Meta. The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed)."
+},
+"1553223828": {
+ "differentiator": "A journal without writing: you log your day by tapping a mood 'bean' and activity icons, with kawaii themes and insights into what affects your mood.",
+ "specifics": [
+  "Core mechanic: daily mood and activity entry in a few taps, customizable blocks, pattern insights",
+  "What's shareable: an aesthetic monthly calendar of beans, themes",
+  "Social layer: only theme invitations; users ask for a 'friend mode' and a shared 'memory book'",
+  "Monetization: freemium + subscription, ads after every entry, 'clover' currency for themes"
+ ],
+ "psych": "Quantifying the day and a visual calendar that fills up (a streak of days without pressure). Evidence: 'I’ve used this app for 324 days consistently.'",
+ "developer_type": "small team / studio (BlueSignum Corp., 6 apps; Korea)",
+ "build_notes": "Local database + cloud backup, calendar and statistics, theme and currency system, ads and subscriptions, passcode/Face ID. Biggest risk: design and illustrations (the value is in the aesthetics), not the tech.",
+ "hook": "'My whole October in beans' - scrolling through a colorful monthly mood calendar.",
+ "monetization": "Freemium with ads after entries, subscription (price not in the data), theme purchases for 'clovers'; users ask for a lifetime option.",
+ "complaints": [
+  "Too many ads, long repeated ads (~8)",
+  "Key features behind a paywall, no lifetime plan (~8)",
+  "Themes too expensive and paid separately even in premium (~5)",
+  "Passcode bug, loss of access (~1)"
+ ],
+ "suggestions": [
+  "Lifetime one-time purchase",
+  "Shared journal with friends",
+  "Time/quantity blocks and custom calendars",
+  "Sync with Fitbit/Google Health",
+  "Users compare it to Daylio - DailyBean gets chosen for its more pleasant visual interface",
+  "They ask for tracking multiple moods during the day"
+ ],
+ "praise": [
+  "The simplest journal, works even when you're tired",
+  "Cute aesthetic and customizability",
+  "Insights into mood patterns"
+ ],
+ "opportunity": "The same 'no-writing' format with a social layer (shared calendar with a friend, streaks) and less aggressive ads; a clearer focus on habits instead of a pure journal.",
+ "growth": "~34.7 ratings per day since March 2021 (70,754 ratings over ~5.5 years); reviews in 30 days = 16 vs. 11: stable to slight growth; mature app, growth probably organic + ASO (estimate).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US for 'DailyBean' (exact phrase) or for the developer Harukong; a plain search returns only unrelated advertisers (coffee, Target...). The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed).",
+ "reddit_notes": "Organic mentions over the years, mostly in mental-health and neurodivergent communities; has a small subreddit of its own. Tone is positive, most often compared to Daylio."
+},
+"1645639057": {
+ "differentiator": "An app blocker built around a scale of unlock 'strictness': from waiting and retyping text to an NFC tag, Pomodoro limits and a ban on deleting the app. It also blocks websites and hides Reels/Shorts in Safari.",
+ "specifics": [
+  "Core mechanic: blocking by time, schedule, usage limit and location; Strict Mode picks the type of unlock friction (password, NFC, waiting, copy-text challenge, Pomodoro 5x per day).",
+  "What's shareable: the drop in screen time (daily/weekly/monthly analytics) - users report it themselves, 'dropped by almost 4 hours'.",
+  "Social layer: not present in the description or the reviews.",
+  "Monetization: freemium; only 2 blocked apps free, stricter modes and more apps behind a subscription (price not visible in the data)."
+ ],
+ "psych": "Pre-commitment: the user sets an obstacle for a future temptation now, and the unlock friction breaks the scrolling automatism. Evidence: 'Works better than my willpower'.",
+ "developer_type": "small team (Labi, LLC, 5 apps on the account; estimate: a small company, not a factory)",
+ "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) with the Apple entitlement; Android AccessibilityService/UsageStats; Safari content blocker for sites and Reels/Shorts; NFC; local analytics. Biggest risk: blocking reliability (bypass by changing the phone's time, mentioned in a review) and Apple approving the entitlement.",
+ "hook": "'My screen time dropped from 7 to 3 hours because my phone makes me retype a paragraph every time I open TikTok.'",
+ "monetization": "Freemium + subscription (Pro); prices not visible in the data. Some users complain that previously free features moved behind the paywall.",
+ "complaints": [
+  "Too many features behind the paywall, only 2 apps free, it used to be free (~4)",
+  "Unlocking is too easy, 'unblock' buttons on the home screen (~3)",
+  "Loophole: changing the phone's time breaks the block (~1)",
+  "Can't unlock just one of several blocked apps (~1)"
+ ],
+ "suggestions": [
+  "An internal clock that doesn't depend on system time",
+  "Daily limit on the number of unlocks",
+  "Selective unlocking of individual apps from a group",
+  "Hide the unlock buttons deeper in the app"
+ ],
+ "praise": [
+  "Really reduces screen time (often with concrete numbers)",
+  "Blocks websites too, better than Apple Screen Time",
+  "Simple and customizable strictness settings"
+ ],
+ "opportunity": "Add visible progress and a social layer (a streak of 'clean' days, comparison with friends, a shareable time-saved card) and limit unlocks per day; turn friction into 'earning' time through an action (e.g. push-ups or a walk).",
+ "growth": "About 7.8 ratings per day since September 2022; 44 reviews in the last 30 days vs. 50 in the previous 30, a consistently high pace without growth. Mature, organically sustained demand; reviewers are often teenagers and students (the target group).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads for the app in the US. 'Refocus' (~930) returns unrelated advertisers (reFocus Awards, Luna Focus, churches, coaching) and the competitor Opal (excluded); 'refocusapp' 0 results."
+},
+"6480463426": {
+ "differentiator": "An alarm you can't turn off without a mission (object scanning, Face ID, walking, math, memory) and a 'wake up check' that verifies you haven't fallen back asleep; positioned as a Miracle Morning tool for teens and students.",
+ "specifics": [
+  "Core mechanic: six missions for turning off the alarm, a wakefulness check after dismissal, endless snooze until the mission is done.",
+  "What's shareable: reactions to the alarm and missions (estimate: videos of morning missions).",
+  "Social layer: none.",
+  "Monetization: hard paywall, ~35-40 USD/year, lifetime ~64 USD, 7-day trial."
+ ],
+ "psych": "Pre-commitment: at night you create friction for yourself for the morning; \"The mission to turn off the alarm is frustrating but effective!\"",
+ "developer_type": "solo / small team (Jiseop Han, 2 apps)",
+ "build_notes": "iOS AlarmKit (iOS 26) or critical notifications, Android AlarmManager/full-screen intent, camera + on-device object recognition, Face ID, pedometer. Biggest risk: alarm reliability after iOS updates (complaints that it doesn't ring).",
+ "hook": "My alarm won't stop until I scan my toothbrush in the bathroom.",
+ "monetization": "Hard paywall (~40 USD/year or ~64 USD lifetime); many teen complaints that it isn't free, but paying users are satisfied.",
+ "complaints": [
+  "Not free even though it's presented that way, paywall at the first alarm (~16)",
+  "Alarm sometimes doesn't ring, especially after iOS updates (~3)",
+  "No way to contact the developer / report a bug (~1)",
+  "Alarm keeps ringing after being turned off (~1)"
+ ],
+ "suggestions": [
+  "Free basic version (competitor Alarmy has one)",
+  "Monthly option instead of paying for the whole year upfront",
+  "Choose just one favorite mission (object scanning)"
+ ],
+ "praise": [
+  "Finally wakes up heavy sleepers too",
+  "Varied missions, especially object scanning",
+  "Nice design and fast support"
+ ],
+ "opportunity": "Add an on-time wake-up streak and a social layer (wake up with a friend, who gets up first), plus freemium with one mission; competition from Alarmy is strong.",
+ "growth": "Launched 2024-04-23, 5,248 ratings, ~5.8 ratings/day. Reviews in 30 days: 49 vs. 47: consistently high inflow; reviews mention ads and recommendations from friends.",
+ "confidence": "high",
+ "marketing_evidence": "No SuperAlarm advertisers in the US; the exact phrase returns 0 results, unordered only unrelated ones (Pocket FM, BedJet...). Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads)."
+},
+"6760252122": {
+ "differentiator": "An alarm that turns off only after you scan a pre-selected object, do push-ups or squats, or brush your teeth. Branded as 'top 1%' discipline for Gen Z, not as just another alarm.",
+ "specifics": [
+  "Core mechanic: a challenge (object scanning, push-ups, squats, toothbrush) must be completed for the alarm to stop",
+  "What's shareable: a video of the morning 'torture' and a streak of early wake-ups (estimate, not visible in the description)",
+  "Social layer: not present in the description",
+  "Monetization: mandatory subscription after the quiz, around 50 USD per year, 3-day trial"
+ ],
+ "psych": "Pre-commitment: you make the decision at night, and the morning you has no way out. Evidence: 'Hate it. Makes me wake up' (5 stars).",
+ "developer_type": "solo (Zalan Zelles, seller's personal name, 2 apps, gmail address for support)",
+ "build_notes": "AlarmKit (iOS) and a reliable alarm on Android, camera and on-device object and motion recognition (Vision/ML Kit), paywall. Biggest risk: alarm reliability (reviews: the alarm didn't ring).",
+ "hook": "'My alarm won't let me go until I do 20 push-ups' + a video of you doing push-ups in the dark at 6 AM.",
+ "monetization": "Subscription, around 50 USD/year, hard paywall after the onboarding quiz, 3-day trial.",
+ "complaints": [
+  "Hard paywall after the quiz, no free version (5 of 13)",
+  "Alarm didn't ring (2)",
+  "Charged after the trial even though it didn't work (1)"
+ ],
+ "suggestions": [
+  "Free basic tier (at least one challenge)",
+  "State the price clearly before the quiz",
+  "Reminder before the trial ends"
+ ],
+ "praise": [
+  "Really gets you out of bed",
+  "Motivational tone",
+  "Customizable challenges"
+ ],
+ "opportunity": "One free challenge + a subscription for the rest, with a wake-up streak and a shareable 'wake-up' card showing the time you got up; alarm reliability as the top priority.",
+ "growth": "3.59 ratings/day since launch (2026-03-25, 201 days, 720 US ratings, average 4.68); reviews in 30 days: 0 vs. 1 in the previous 30 days. A new app with a high rating pace for a solo developer; small review sample, momentum fading.",
+ "confidence": "medium",
+ "marketing_evidence": "No 1% Alarm advertisers in the US; results for the phrase are competitors (Unbed App, 18 ads) and unrelated advertisers."
+},
+"6443918070": {
+ "differentiator": "A habit tracker whose whole point is a GitHub-style grid of colored squares - one square for every day you show up.",
+ "specifics": [
+  "Core mechanic: a grid per habit, streak, 'quit' habits with a count of clean days, daily maximum",
+  "What's shareable: an aesthetic habit grid",
+  "Social layer: none",
+  "Monetization: freemium (3-4 habits free), Pro subscription and lifetime"
+ ],
+ "psych": "Visible progress: a filled-in grid is proof of identity. Evidence: 'As an ADHD brain, I really thrive on seeing the wins visually'.",
+ "developer_type": "solo (Sebastian Roehl, 4 apps)",
+ "build_notes": "Local database, grid view, widgets, optional iCloud/cloud sync. Biggest risk: low; sync between devices.",
+ "hook": "'This is my 2026 in squares - every green one is a day I didn't give up.'",
+ "monetization": "Freemium + Pro (subscription and lifetime); most accept it and support the developer, a minority complain about the limit of 3-4 habits.",
+ "complaints": [
+  "Limit of 3-4 habits in the free version (about 3)",
+  "No cloud sync, data loss (about 4)",
+  "Widget shows 'subscribe' even though the user has Pro (about 1)",
+  "Icons instead of words make the overview harder (about 1)"
+ ],
+ "suggestions": [
+  "iCloud sync",
+  "Apple Watch check-ins",
+  "Notes attached to habits",
+  "Monthly view for non-daily habits"
+ ],
+ "praise": [
+  "Simplicity and aesthetics",
+  "Visual progress",
+  "Responsive developer"
+ ],
+ "opportunity": "Add shareable grid cards and a 'grid with a friend' (shared grid) for the TikTok-aesthetic audience.",
+ "growth": "1.74 ratings/day since launch (2022-11-26), 2,467 US ratings; reviews in 30 days: 1 vs. 8 in the previous 30 days. Review drop (1 vs. 8) in the last 30 days; still organic, long-lived, no tracking.",
+ "confidence": "high",
+ "marketing_evidence": "Exact phrase 'HabitKit' has no active ads in the US."
+},
+"1453444814": {
+ "differentiator": "A group fitness challenge where every workout is proven with a photo (sweaty selfie, machine, screenshot), and the group chooses its own scoring rules.",
+ "specifics": [
+  "Core mechanic: create/join a challenge, post a workout with a photo, leaderboard, free-form rules",
+  "What's shareable: photo feed of workouts and the leaderboard",
+  "Social layer: groups of friends, teams, coworkers; chat",
+  "Monetization: unclear from the data (estimate: freemium/subscription)"
+ ],
+ "psych": "Group challenge + accountability through photo proof. Evidence: 'Having everyone check in with a photo has kept people engaged'.",
+ "developer_type": "small team (Avocado Apps, LLC, 1 app)",
+ "build_notes": "Backend for groups, feed with images, chat, leaderboards, HealthKit/Health Connect import. Biggest risk: reliable automatic workout import.",
+ "hook": "'I beat my buddies in a 30-day gym challenge - and the loser pays for dinner.'",
+ "monetization": "Not visible in the data; users don't complain about price (estimate: generous free tier).",
+ "complaints": [
+  "Apple Health sync stops working or requires manual import (about 5)",
+  "Updates removed the backlog and open-point challenges (about 3)",
+  "Mandatory photo (about 1)",
+  "Login problems (about 2)"
+ ],
+ "suggestions": [
+  "Reactions and replies to messages in chat",
+  "Automatic step import (Fitbit)",
+  "Challenges for other habits (hydration)"
+ ],
+ "praise": [
+  "Best app for challenges with friends",
+  "Customizable rules",
+  "Simple"
+ ],
+ "opportunity": "Extend the format to any habit (BeReal-style proof) with a stake/bet and a stronger chat layer.",
+ "growth": "1.68 ratings/day since launch (2019-03-09), 4,671 US ratings; reviews in 30 days: 1 vs. 0 in the previous 30 days. Mature app, few reviews in 30 days (1 vs. 0) but an excellent 4.88 rating and no tracking.",
+ "confidence": "medium",
+ "marketing_evidence": "No GymRats advertisers in the US. Search 'GymRats' (790 results) returns only unrelated brands (Gym Ratzz Activewear, Apex Labs, Hammies...); exact phrase 'GymRats' (20) has no app, 'GymRats app' 0 results."
+},
+"6744783834": {
+ "differentiator": "An AI tool that turns lectures, PDFs, photos of notes or YouTube videos into flashcards, quizzes, notes and a study podcast. Borderline because it's a study utility without a strong consistency mechanic.",
+ "specifics": [
+  "Core mechanic: upload material (PDF, slides, lecture recording, YouTube) -> AI flashcards, quizzes, summaries, tutor chat, podcast",
+  "What's shareable: exam result and 'how I study in 10 minutes' - estimate; a user asks to send sets to others",
+  "Social layer: not present in the data",
+  "Monetization: 1 free set, then a subscription; $97.99/year, with a discount offer (~$75)"
+ ],
+ "psych": "A quick sense of progress and less stress before an exam (visible progress through quizzes). Evidence: 'literally the only way i'm passing my classes rn'.",
+ "developer_type": "small team/startup (estimate): Studley AI Inc., 1 app",
+ "build_notes": "Backend with an LLM pipeline (parsing PDFs/images, transcribing audio recordings, YouTube transcripts), flashcard and quiz generation, TTS for the podcast, subscriptions. Biggest risk: reliability of recording long lectures (lost files) and LLM/transcription cost per user.",
+ "hook": "'I took photos of my notes 10 minutes before the test - the app made me a quiz and I got an A.'",
+ "monetization": "Subscription ($97.99/year, discount in onboarding); only one set free. A good share pay and praise it, but younger users en masse refuse to pay.",
+ "complaints": [
+  "Only one set free, everything else behind a subscription (~9)",
+  "Lost lecture recordings (~2)",
+  "Image/file upload fails and incomplete document processing (~3)",
+  "Podcast feature weak, limit of 10 items per set (~1)"
+ ],
+ "suggestions": [
+  "More than 10 items per set and additional files added to an existing set",
+  "Sending/sharing sets with others",
+  "Resuming an interrupted recording",
+  "More languages (e.g. Kurdish)"
+ ],
+ "praise": [
+  "Helps you pass the exam with less studying",
+  "Simple - you take a photo of your notes and that's it",
+  "Better than a private tutor (according to reviews)"
+ ],
+ "opportunity": "Add a daily study streak, shared sets and a competition with classmates before an exam; a fair free tier (e.g. 3 sets per week) for the younger audience.",
+ "growth": "Launched 2025-05-02, ~8.5 ratings per day (4,457, average 4.68); 6 reviews in 30 days vs. 4 - slight growth, seasonal and tied to the school year (estimate).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads for the app in the US. 'Studley' (25 results) returns only unrelated advertisers (StudleyDuds, Studley Flower Gardens, Jonathan Studley, Solar.Studley); 'studley.ai' 0 results. Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads)."
+},
+"1463294846": {
+ "differentiator": "A tracker for quitting weed and tolerance breaks, where a daily check-in feeds a tree that grows with every day without THC.",
+ "specifics": [
+  "Core mechanic: THC-free timer, daily mood and craving check-in, journal, growing tree, achievements",
+  "What's shareable: the tree and the day count (estimate)",
+  "Social layer: community forum (moved behind the paywall)",
+  "Monetization: freemium + Grounded Plus ~30 USD per year with a 7-day trial"
+ ],
+ "psych": "The visual growth metaphor turns abstinence into a game: 'I love that it makes a game of staying sober.' and 'The symbol of the tree growing reminds you how long change takes.'",
+ "developer_type": "Solo developer (estimate): an individual, Christopher Onuigbo, 3 apps.",
+ "build_notes": "Counter, check-in forms, journal, tree animation, achievements, forum with moderation (backend). Biggest risk: community moderation and advertising restrictions on the cannabis topic on Meta/TikTok.",
+ "hook": "Day 90 without weed: here's what my tree looks like and what changed in my head.",
+ "monetization": "Freemium; Plus ~30 USD/year; the community being moved behind the paywall causes dissatisfaction.",
+ "complaints": [
+  "Community and features moved behind the paywall (3)",
+  "Charged after the trial without warning (2)",
+  "Outdated, ugly design (2)",
+  "Privacy: targeted ads on other networks (1)"
+ ],
+ "suggestions": [
+  "Daily achievements in the first month (1)",
+  "A gradual reduction mode, not just cold turkey (1)",
+  "Smarter notifications (don't remind if the check-in is done) (1)",
+  "Fewer rating prompts"
+ ],
+ "praise": [
+  "The growing tree and the real-time counter",
+  "Community support",
+  "Daily check-in and journal"
+ ],
+ "opportunity": "A modern, aesthetic redesign for Gen Z with a reduction mode, daily achievements in the first month and small private groups instead of a public forum; the same mechanic for vaping and alcohol.",
+ "growth": "2.13 ratings/day (5,773 ratings over 2,708 days); reviews in 30 days: 3 vs. 4 - stable, organic demand.",
+ "confidence": "medium",
+ "marketing_evidence": "No ads for the app. 'Grounded quit' returns 370 unrelated results (grounding products, various advertisers); 'quit weed' 52 results from others (Sunflower Sober, Natural Highs Recovery, Herbal Remedies - excluded). Developer Christopher Onuigbo has no advertisers. The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed)."
+},
+"940579920": {
+ "differentiator": "A food diary without calorie counting: you just photograph your meal and see your whole day on plates, with sharing to a coach or friend.",
+ "specifics": [
+  "Core mechanic: photo meal log in 2 taps, reminders to eat regularly, challenges",
+  "What's shareable: a daily collage of plates",
+  "Social layer: sharing the log with a coach/friend",
+  "Monetization: subscription ~29.99 USD/year with a trial, aggressive upsell"
+ ],
+ "psych": "Self-accountability through a visual record without calorie anxiety. Evidence: 'Being AWARE without TRACKING' and 'I have lost 20 plus pounds'.",
+ "developer_type": "small team (Health Revolution Oy Ltd, 2 apps)",
+ "build_notes": "Camera, local/cloud image storage, calendar and reminders, challenges, sync. Biggest risk: low; storing and syncing photos.",
+ "hook": "'I don't count calories, I just photograph every meal - here's what my week looks like.'",
+ "monetization": "Subscription ~29.99 USD/year; some pay gladly, but there are widespread complaints about locked history and a trial that can't be canceled.",
+ "complaints": [
+  "Without a subscription you can't even view previous days (about 9)",
+  "Trial charged / can't be canceled (about 5)",
+  "Too many ads and notifications (about 5)",
+  "Data loss and iPhone/iPad sync (about 3)"
+ ],
+ "suggestions": [
+  "Free history view for at least 7 days",
+  "Automatic meal-time detection",
+  "Lifetime license for 20-30 USD"
+ ],
+ "praise": [
+  "Awareness of eating without counting calories",
+  "Simple and fast",
+  "Helps with weight loss"
+ ],
+ "opportunity": "A photo diary with a streak and a group of friends (BeReal for meals) and a fair freemium with history.",
+ "growth": "1.79 ratings/day since launch (2014-12-04), 7,757 US ratings; reviews in 30 days: 2 vs. 1 in the previous 30 days. Mature app (since 2014), a steady small inflow; strong concept but the monetization irritates.",
+ "confidence": "medium",
+ "marketing_evidence": "1 active ad in the US from the advertiser 'See How You Eat App', active since 13.7.2026 (~3 months); a single variant, minimal marketing."
+},
+"1538884989": {
+ "differentiator": "Group competitions in steps, exercise minutes, calories and body-fat % with a live leaderboard and chat, as a replacement for the discontinued Fitbit group challenges; also sold as a package for teams and companies.",
+ "specifics": [
+  "Core mechanic: challenges with a leaderboard (steps, minutes, calories, body-fat %, weight), in-challenge chat",
+  "What's shareable: the leaderboard and a challenge invitation",
+  "Social layer: strong; family, friends, coworkers, schools",
+  "Monetization: $5.99/month or $24.99/year; groups $99.99 (5) to $999.99 (50) per year"
+ ],
+ "psych": "A leaderboard with people you know provides an external motivator. Evidence: 'I had a lot of fun and was motivated to walk further than I would have otherwise'.",
+ "developer_type": "small team (Strive Competitions LLC, 1 app; fast personal support replies)",
+ "build_notes": "Backend with a real-time leaderboard and chat, HealthKit + Health Connect (no Android version exists, users ask for it), anti-cheat logic, group subscriptions. Biggest risk: cheating (devices like Cubii, manual entry) and sync accuracy.",
+ "hook": "'I challenged the whole crew to 10 days of steps, last place pays for dinner.'",
+ "monetization": "Subscription, individual and group; users pay, but regret that challenges are now behind the paywall.",
+ "complaints": [
+  "Cheating in challenges with no response (3)",
+  "Everything became paid after an update (2)",
+  "Sync doesn't work / no manual step entry (5)",
+  "No Android version, imperial units only (3)"
+ ],
+ "suggestions": [
+  "Relative goals (points based on a personal goal, like Apple Fitness)",
+  "Manual entry of steps and workouts",
+  "Android version",
+  "Removing incorrectly synced workouts"
+ ],
+ "praise": [
+  "Fast and personal customer support",
+  "Fun competitions with family and coworkers",
+  "Chat and team energy"
+ ],
+ "opportunity": "A cross-platform version with relative goals and anti-cheat rules, plus a Gen Z 'betting without money' format (penalties, challenges) and shareable weekly results.",
+ "growth": "Launched 2021-06, 3,035 ratings, about 1.57 ratings/day; reviews 1 vs. 0, stagnating, but a stable base.",
+ "confidence": "high",
+ "marketing_evidence": "No advertisers for the app. 'Strive walking' returns only unrelated ones (Strive Footwear USA, Strive Rehab & Wellness, Tstrive); exact phrase 'Strive app' 0, 'Walking Tracker' only Woofz (a different app). The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed)."
+},
+"1372575227": {
+ "differentiator": "A gratitude journal with daily prompts, affirmations and a vision board in one private app, with a writing streak. The twist compared to a regular journal is small (borderline: the category is saturated).",
+ "specifics": [
+  "Core mechanic: daily prompt + reminders twice a day, gratitude streak",
+  "What's shareable: vision board and affirmations (estimate; no explicit sharing)",
+  "Social layer: none",
+  "Monetization: freemium + Pro subscription (vision board, backfilling past days)"
+ ],
+ "psych": "A streak builds the habit, but losing it hurts: 'I had 107 days of journaling, got sick, missed 1 day'.",
+ "developer_type": "small team / company: Hapjoy Technologies Private Limited, 2 apps",
+ "build_notes": "Local database + cloud sync, notifications, a library of prompts and affirmations (content can be generated), vision board editor. Biggest risk: differentiation in a saturated category and reliable backup (complaints about lost entries).",
+ "hook": "'Every evening I wrote 3 things I'm grateful for, 100 days in a row - here's what changed.'",
+ "monetization": "Freemium + Pro subscription; some users praise the free part, others find Pro expensive.",
+ "complaints": [
+  "App reinstalls itself after deletion (~12, probably a bug)",
+  "Loss of entries after an update and being asked to pay for a restore (~3)",
+  "Streak drops to 0 after one missed day, and backfilling a past day is Pro (~2)",
+  "Posts won't open / bugs (~2)"
+ ],
+ "suggestions": [
+  "Streak freeze or free backfilling of a past day",
+  "More colors and personalization options",
+  "Lower subscription price"
+ ],
+ "praise": [
+  "Prompts that make you think",
+  "Simple, pleasant UI and reminders",
+  "Photos turn the journal into an album of beautiful memories"
+ ],
+ "opportunity": "A streak with 'freeze' days instead of punishment and a shareable yearly gratitude visualization; reliable backup as a clear advantage.",
+ "growth": "~14.5 ratings/day since 2018 (44,970 ratings); reviews 4 vs. 3 - a mature, stagnant app.",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. 'Hapjoy', 'Gratitude Self-Care Journal' and 'Gratitude app' (exact phrase) 0 results; 'Gratitude Journal' 270 results, but only other brands (Creed App, Bible Today, journal publishers).",
+ "reddit_notes": "Few, but organic mentions; users recommend it in threads about gratitude apps (daily prompts). Tone is positive; UGC ads in the results relate to other apps (Gratitude Lock, planners)."
+},
+"6739782103": {
+ "differentiator": "Steps and water in one minimalist 'Liquid Glass' app with beautiful widgets and Apple Watch complications; an App Store Awards 2025 finalist.",
+ "specifics": [
+  "Core mechanic: automatic steps + water reminders",
+  "What's shareable: widget aesthetics (estimate)",
+  "Social layer: none",
+  "Monetization: subscription or purchase ('costly to buy outright')"
+ ],
+ "psych": "Small habits that are visible on a widget. Evidence: 'Sometimes the tiniest habits are the most important.' (description)",
+ "developer_type": "small team (Arkade Club Private Limited, 4 apps)",
+ "build_notes": "HealthKit/Health Connect, widgets, Watch. Biggest risk: step accuracy (mostly because of permissions).",
+ "hook": "'The most beautiful steps widget you've ever seen.'",
+ "monetization": "Subscription or one-time purchase; prices not visible.",
+ "complaints": [
+  "Steps aren't counted or aren't accurate (9)",
+  "Payment isn't clear before entering data (4)",
+  "Mandatory login (1)"
+ ],
+ "suggestions": [
+  "Guest mode",
+  "Subtracting logged water",
+  "Notifications without opening the app"
+ ],
+ "praise": [
+  "Design and Liquid Glass aesthetics",
+  "Widgets and Watch",
+  "Water reminder"
+ ],
+ "opportunity": "The aesthetics are enough for growth; adding challenges with friends would bring virality.",
+ "growth": "3.21 ratings/day since launch (2025-02-13, 606 days, 1,943 US ratings, average 4.64); reviews in 30 days: 40 vs. 19 in the previous 30 days. A young app, reviews doubled (40 vs. 19): accelerating growth, probably due to the award/featuring.",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. Exact phrase 'GO Club' (34) only golf carts and unrelated advertisers; 'GO Club steps water' has no advertisers for the app."
+},
+"6470828037": {
+ "differentiator": "A camera-based push-up counter (ARKit/Vision) with a '100 push-ups in a row' plan, seasonal challenges and a leaderboard of friends, country and world.",
+ "specifics": [
+  "Core mechanic: automatic counting by camera, 4 modes (Sequence, Open Goal, Limit, Timer), personalized plan",
+  "What's shareable: posting workouts to Strava, trophies and medals",
+  "Social layer: leaderboard of friends, country and world",
+  "Monetization: subscription ~$3.99 monthly and a lifetime purchase"
+ ],
+ "psych": "Competition and visible progress with a streak: records and rank give you a number to beat. Evidence: \"the easy streak system made me enjoy it\".",
+ "developer_type": "solo or small team (seller \"wsfu\", 3 apps; the description mentions an early version and waiting for feedback)",
+ "build_notes": "Pose detection (Apple Vision body pose / Google ML Kit Pose), backend for leaderboards, widgets, HealthKit/Health Connect, Strava API. Biggest risk: counting accuracy in poor lighting and from different angles.",
+ "hook": "My phone counts my push-ups and ranks me against all of America - day 1 to 100 push-ups in a row.",
+ "monetization": "Freemium; subscription ~$3.99 monthly and a lifetime option. In September 2026, Free Practice was moved behind the paywall, then partially restored after complaints.",
+ "complaints": [
+  "Camera misses reps or freezes the counter (~9)",
+  "Features moved behind the paywall (~6)",
+  "Bugs during sign-up and login (~3)",
+  "No manual entry when the camera doesn't work (e.g. in the dark) (~2)"
+ ],
+ "suggestions": [
+  "Manual push-up entry",
+  "Wider camera angle and low-light operation",
+  "Protection against accidentally ending a round (sweat on the button)"
+ ],
+ "praise": [
+  "Motivation and quickly fitting into a routine",
+  "Widgets, statistics and the lifetime option",
+  "Developer fixes problems quickly"
+ ],
+ "opportunity": "More reliable counting and more exercises (squats, sit-ups), group challenges with friends and shareable rep cards; a stable, clear free tier.",
+ "growth": "3,400 ratings over ~3 years (3.16/day); 10 reviews in 30 days vs. 1 - a spike, probably triggered by the paywall change (some of the new reviews are complaints).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. Exact phrase 'Push Up Counter' 1 result (National Bobblehead Hall of Fame, unrelated). The name is generic, the developer's name is unknown, so no developer search was done. The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed)."
+},
+"1508326506": {
+ "differentiator": "A mood diary where you draw your own emoji face of the day, so the calendar becomes a gallery of personal emoticons; adds a Pal companion and social reactions. Borderline: a diary, not a habit in the narrow sense; the seller has 9 apps.",
+ "specifics": [
+  "Core mechanic: draw/pick the emoji of the day + a short entry, mood calendar and charts, rewards for checking in",
+  "What's shareable: widget and calendar with your own emoticons (estimate)",
+  "Social layer: reactions, follows and likes (from reviews)",
+  "Monetization: freemium + in-app purchases and ads for adding media"
+ ],
+ "psych": "Self-expression and a long-term record about yourself: 'been tracking my mood for 3 yrs now! super cute widget'.",
+ "developer_type": "small company: EMMO Corp., 9 apps (estimate: a multi-product studio)",
+ "build_notes": "Canvas for drawing emojis, calendar and charts, media attachments and cloud sync, widgets, social feed. Biggest risk: data migrations (complaints about entries lost after an update).",
+ "hook": "'I drew my face every day for a year - this is my year in emoticons.'",
+ "monetization": "Freemium, in-app purchases and ads to unlock photo/video; some users say the paid option is worth it.",
+ "complaints": [
+  "Big update broke the layout, fonts and widgets (~7)",
+  "Entries lost after the update (~2)",
+  "Ads for adding images and a 'no ad to show' error (~2)",
+  "In-app purchases in a mood app, invite codes only for premium (~2)"
+ ],
+ "suggestions": [
+  "Option for the old layout",
+  "Bring back 'hide days without entries'",
+  "Bigger emoticons in the calendar, customizable widget",
+  "Voice input",
+  "Full English localization (part of the interface remains in Korean)"
+ ],
+ "praise": [
+  "Drawing your own emoticons and personalization",
+  "Cute mood widget",
+  "A safe, private space to vent"
+ ],
+ "opportunity": "Your own drawn emoji as a shareable 'year in faces' and a streak; stable migrations as a basic requirement.",
+ "growth": "~12.4 ratings/day since 2020 (29,354); reviews 24 vs. 2 - a spike caused by a big update (mostly negative reactions).",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. 'EMMO' 19 results, all unrelated (emmo.motion is an AI film creator, EMMA Kreativzentrum, gifts). The app has a tracking label, so ads outside Meta or via persona pages are possible (unconfirmed).",
+ "reddit_notes": "Wide organic mentions in mental-health communities (BPD, bipolar, ADHD, antidepressants) over several years; users praise the simplicity and cute design. Very positive tone, no traces of the developer or UGC ads."
+},
+"6759581682": {
+ "differentiator": "An alarm that turns off only after you confirm a mission with the camera: push-ups, making the bed, hunting for an object or speaking affirmations, with streaks and badges.",
+ "specifics": [
+  "Core mechanic: alarm plus a camera-verified mission, mission preview in advance",
+  "What's shareable: a video of the morning mission (estimate; not in the description)",
+  "Social layer: none",
+  "Monetization: subscription for smart alarms, paywall after the onboarding questionnaire"
+ ],
+ "psych": "A commitment made at night, fulfilled in the morning; the physical action wakes you up. Evidence: \"it literally won’t stop ringing until you finish a mission\".",
+ "developer_type": "small team (Nura Labs Inc., 3 apps)",
+ "build_notes": "AlarmKit (iOS 26) or critical notifications, on Android AlarmManager with a full-screen intent; Vision for push-ups and object recognition. Biggest risk: alarm reliability (a missed alarm = 1 star) and verification without internet.",
+ "hook": "The alarm won't stop until I make my bed - look how fast I got up.",
+ "monetization": "Subscription (smart alarms require a subscription); prices not visible in the data.",
+ "complaints": [
+  "Have to pay, paywall after the questionnaire (~7)",
+  "Alarm didn't ring, user was late for work (~3)",
+  "Mission verification doesn't work (connection error, object hunt) (~2)",
+  "Alarm rang without being set (~1)"
+ ],
+ "suggestions": [
+  "Free basic mission",
+  "Verification without internet",
+  "An exit from the lock when verification fails"
+ ],
+ "praise": [
+  "Really wakes you up (push-ups, making the bed)",
+  "More productive mornings"
+ ],
+ "opportunity": "A reliable alarm with offline verification and a free basic mission, plus a shared 'wake-up streak' with friends.",
+ "growth": "685 ratings over ~221 days (3.1/day); reviews 2 in 30 days vs. 0 - the wave from TikTok promotion (reviews mention videos) has faded.",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. Exact phrase 'Nooze' 4 results, all unrelated (Pet Passion 'SNOOZE', Bears with Benefits, algorx). Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads).",
+ "reddit_notes": "No mentions on Reddit in Google results; hits are about general alarm apps and an unrelated site, nooze.news."
+},
+"1541027222": {
+ "differentiator": "An app blocker that doesn't ban but adds friction: a delayed open that grows with each open, an 'Is this important' prompt, a scroll interruption and locking of its own settings. Everything key is free, plus a streak for respecting limits.",
+ "specifics": [
+  "Core mechanic: a pause before opening a distracting app (escalating), limits per day and per app, strict block by time or number of opens, a streak of days without exceeding limits.",
+  "What's shareable: the drop in screen time and streak length (a review mentions streaks of 500+ and 400+); there is no visible sharing mechanism in the app (estimate).",
+  "Social layer: none in the app; spreads by word of mouth ('I've put over 7 friends on').",
+  "Monetization: free, with a donation or lifetime premium (mini-games instead of scrolling)."
+ ],
+ "psych": "Friction breaks the muscle-memory automatic opening, and the streak adds fear of loss: 'prevents opening certain apps out of muscle memory'.",
+ "developer_type": "solo or small team (ScreenZen LLC, 1 app, no tracking label; reviews note the developer listens to feedback)",
+ "build_notes": "iOS: Screen Time API (FamilyControls, ManagedSettings, DeviceActivity, shield screen) with the Apple entitlement; Android: UsageStats + AccessibilityService (Google Play policy risk). Minimal backend. Biggest risk: fragility of the Screen Time API after iOS updates (already visible in reviews) and entitlement approval.",
+ "hook": "I put a 30-second wait before every Instagram open, here's my screen time after 7 days.",
+ "monetization": "Free; voluntary donation or lifetime access to premium features (price not visible in the data).",
+ "complaints": [
+  "Bugs after an iOS or app update: the 'Open' button doesn't respond, crashes in settings (~3)",
+  "Blocks without warning or also blocks apps that weren't selected (~2)",
+  "Can't delete apps, constant re-syncing (~2)",
+  "'Not free' because part of it is behind payment (~1)"
+ ],
+ "suggestions": [
+  "Reliable warning 5 minutes before a block",
+  "A clear 'stop' signal when the user bypasses a limit",
+  "Keep it simple instead of adding complex new features",
+  "Choosing the session length when opening an app",
+  "A mode without a timer (only a pause/friction before opening)",
+  "Comparison with OneSec - users ask for a similar 'pause' approach"
+ ],
+ "praise": [
+  "Free, yet more effective than Apple Screen Time and paid competitors (~10)",
+  "Highly customizable and hard to bypass (~5)",
+  "The open counter and the streak keep users honest (~3)"
+ ],
+ "opportunity": "Add a social layer for Gen Z: a shared streak with a friend, a shareable 'hours reclaimed' card and a weekly duel for who scrolls less; a subscription for social features with a free core.",
+ "growth": "~26.9 ratings per day over ~5.2 years (51,441 ratings); 150 reviews in 30 days vs. 0 in the previous 30 days (probably a data gap, estimate). Steady organic growth driven by word of mouth.",
+ "confidence": "high",
+ "marketing_evidence": "Only 2 active ads in the US (screenzen.co), both launched 8.10.2026 - one its own, one a creator partnership; a test, no sustained campaign.",
+ "reddit_notes": "Strong organic presence for years (nosurf, digitalminimalism, ADHD communities), the free model is constantly praised; the developer actively responds to feedback. Tone is strongly positive, with criticism that the friction works only temporarily."
+},
+"6751820866": {
+ "differentiator": "Self-discovery as a game: levels of questions get deeper and deeper, a small creature guides you, and the app combines answers into a profile of patterns (attachment, self-sabotage, thinking).",
+ "specifics": [
+  "Core mechanic: quizzes and quests by level, journal prompts, insights that adapt to the user, a companion creature.",
+  "What's shareable: personality insights and a 'constellation' (estimate; format like a personality quiz).",
+  "Social layer: not in the data.",
+  "Monetization: subscription after a 3-day trial, paywall in onboarding."
+ ],
+ "psych": "Identity and curiosity about yourself, packaged as progression through levels. Evidence: 'This makes reflection feel easy and not forced'.",
+ "developer_type": "small team (Ora Labs, Inc., 1 app)",
+ "build_notes": "Designing the question bank and levels (most of the work is content), LLM for synthesizing insights, animated creature, account and sync. Biggest risk: quality and 'accuracy' of insights; without a psychologist it comes across as generic.",
+ "hook": "'In 10 questions this app explained why I sabotage relationships.'",
+ "monetization": "Subscription with a short trial; those who stay pay, but the paywall in onboarding triggers 1-star reviews.",
+ "complaints": [
+  "Short trial and a paywall that can't be skipped (~5)",
+  "Insights can't be read or scrolled (~2)",
+  "Loss of account and data (~1)",
+  "Freezing in onboarding (~1)"
+ ],
+ "suggestions": [
+  "Availability outside the US (Canada)",
+  "Longer trial",
+  "Finish the constellation feature"
+ ],
+ "praise": [
+  "Precise and deep insights about yourself (~6)",
+  "Journaling that finally sticks (~4)",
+  "Cute companion creature (~2)"
+ ],
+ "opportunity": "Add shareable insight cards and comparison with a friend/partner (compatibility) as a viral layer; free first levels before the paywall.",
+ "growth": "Launched 12.2.2026, 908 ratings, ~3.76 ratings/day; reviews in 30 days 2 vs. 3. A solid start without a tracking label, many mentions of therapists.",
+ "confidence": "medium",
+ "marketing_evidence": "No Innie advertisers in the US (48 results, all unrelated)."
+},
+"6760232059": {
+ "differentiator": "An alarm you can't turn off until you photograph a specific object in your home, and after waking up it guides you through an affirmation and a short meditation instead of scrolling.",
+ "specifics": [
+  "Core mechanic: a photo mission (find and photograph an object) to turn off the alarm, a system alarm via AlarmKit (rings even through silent/Focus)",
+  "What's shareable: a video of the morning 'hunt' for the object (estimate, no built-in sharing)",
+  "Social layer: none",
+  "Monetization: hard paywall (~30 USD according to a review) before setup"
+ ],
+ "psych": "Upfront friction: the user schedules a physical task for themselves that gets them out of bed: 'You literally cannot snooze it's so great for me.'",
+ "developer_type": "Solo developer (estimate): an individual, Oduduabasi Victor, 4 apps.",
+ "build_notes": "AlarmKit (iOS 26) for the system alarm, on Android AlarmManager + full-screen intent; on-device object recognition (Vision/ML Kit, comparison with a reference image), affirmations and short meditations (audio content). Biggest risk: alarm reliability on Android and false object recognition.",
+ "hook": "POV: the alarm won't stop until you find the toothbrush in the bathroom.",
+ "monetization": "Hard paywall, ~30 USD mentioned; prices not in the data.",
+ "complaints": [
+  "Have to pay before anything else (7)",
+  "Alarm rings at a random time (1)"
+ ],
+ "suggestions": [
+  "Free basic tier before the paywall (derived from complaints)",
+  "Louder sounds are more effective (user tip)"
+ ],
+ "praise": [
+  "Really gets you out of bed, no snooze",
+  "Fun 'item search' mission",
+  "Design and affirmations"
+ ],
+ "opportunity": "Keep the photo mission, but add morning streaks, a friend who sees whether you got up on time (accountability) and a free first level; move the paywall to after the first successful morning.",
+ "growth": "2.72 ratings/day (559 ratings over 206 days) - a fast start for a new app; reviews in 30 days: 1 vs. 6 - slowing down after the initial wave.",
+ "confidence": "medium",
+ "marketing_evidence": "No active ads in the US. Exact phrase 'BeYou': 230 unrelated (BeYou Showroom, BeYou Medical Spa...); 'BeYou Alarm': generic alarm advertisers, none of them this app."
+}
+}

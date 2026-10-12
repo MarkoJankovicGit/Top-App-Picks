@@ -1,0 +1,418 @@
+{
+  "1556357398": {
+    "exclude": true,
+    "exclude_reason": "Velika firma i licencirani IP (Scopely/Niantic, Nintendo Pikmin); AR/geo igra sa mapom sveta, ne može za 2 meseca.",
+    "name": "Pikmin Bloom Walking Adventure"
+  },
+  "1609906813": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (CashWalk, korejski lanac reward aplikacija); osnovna vrednost je zarada gift kartica, zahteva partnerstva sa brendovima i ad mrežu.",
+    "name": "CashWalk - Daily Step Counter"
+  },
+  "1565768051": {
+    "exclude": true,
+    "exclude_reason": "Zvanična aplikacija Alcoholics Anonymous World Services: licencirana literatura i organizacija iza; pretežno sadržaj, ne proizvod malog developera.",
+    "name": "Everything AA"
+  },
+  "1458862350": {
+    "exclude": true,
+    "exclude_reason": "Hevy Studios je etablirana firma (10M+ korisnika, Apple feature); gym log sa velikom bibliotekom video vežbi, nije mali developer.",
+    "name": "Hevy - Workout Tracker Gym Log"
+  },
+  "6775974979": {
+    "exclude": true,
+    "exclude_reason": "People search / background lookup utility, nije lična navika; uz to privatnost i regulatorni rizik.",
+    "name": "DeepFind AI Search Agent"
+  },
+  "1460579936": {
+    "exclude": true,
+    "exclude_reason": "Etablirana firma (Falou, milioni korisnika, 20+ jezika); velika biblioteka jezičkog sadržaja, ne može za 2 meseca.",
+    "name": "Falou - Fast language learning"
+  },
+  "6451190245": {
+    "exclude": true,
+    "exclude_reason": "Fantasy sportovi za pravi novac (klađenje), regulisan domen.",
+    "name": "Splash Sports | Survivor & DFS"
+  },
+  "1457846652": {
+    "exclude": true,
+    "exclude_reason": "40 igara i 1000 nivoa, 20M korisnika: etablirana firma i velika biblioteka sadržaja, ne može za 2 meseca.",
+    "name": "MindPal - Brain Training Games"
+  },
+  "6444046612": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je velika biblioteka ekspertskih lekcija iz mnogo oblasti (umetnost, matematika, istorija...); sadržaj je proizvod, ne mehanika.",
+    "name": "Nibble: Daily Learning & Quiz"
+  },
+  "6743036247": {
+    "name": "Arise: Level Up Workout Game",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Generator treninga upakovan kao RPG 'level up' (Solo Leveling estetika): dnevni questovi, rang (E, D, C...), poeni i kazna u XP ako preskočiš trening.",
+    "specifics": [
+      "Ključna mehanika: dnevni questovi iz personalizovanog plana, XP i rang, penal u poenima za propušten trening",
+      "Šta je deljivo: rang/level i 'aura farm' estetika, transformacija tela (procena)",
+      "Društveni sloj: samo Discord link (prema recenziji ne radi); nema rang liste, korisnici je traže",
+      "Monetizacija: hard paywall, 15$/mesec ili 50$/god"
+    ],
+    "psych": "Igrifikacija napretka kroz rang i strah od gubitka XP poena; korisnici hvale da to nije 'corny'. Dokaz: 'gamifies weight-lifting without making it corny'.",
+    "developer_type": "mali tim / mini studio (Digital Lions Apps S.L., 4 aplikacije; Španija)",
+    "build_weeks": 6,
+    "build_notes": "Generator plana (pravila ili LLM), biblioteka vežbi sa animacijama (može licencirani paket), XP/rang sistem, nalog i sinhronizacija, pretplate. Najveći rizik: auth/restore purchase bagovi (glavna žalba) i kvalitet sadržaja vežbi.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Tretiram teretanu kao Solo Leveling: danas sam prešao iz E u D rang' - snimak rang ekrana pa treninga.",
+    "monetization": "Hard paywall, 15$/mesec ili 50$/god, bez free nivoa; jak otpor jer App Store prikazuje 'besplatno', ali deo korisnika plaća godišnje.",
+    "complaints": [
+      "Paywall bez upozorenja, nema free probe (~13)",
+      "Odjava i gubitak pretplate/poena posle plaćanja, login petlja (~11)",
+      "Nema podrške, Discord link ne radi (~5)",
+      "Nedostaju funkcije: vežbe za podlakticu, widget, Apple Watch (~6)"
+    ],
+    "suggestions": [
+      "Online rang lista za takmičenje sa drugima",
+      "Widgeti i Apple Watch",
+      "Praćenje makroa i ishrane",
+      "Iznenadni bonus questovi (npr. trčanje)"
+    ],
+    "praise": [
+      "Igrifikacija treninga koja nije detinjasta",
+      "Lep UI i koncept 'level up u stvarnom životu'",
+      "Personalizovan plan i dnevni questovi"
+    ],
+    "opportunity": "Ista RPG mehanika uz pouzdan nalog, mali free nivo i društveni sloj (rang lista prijatelja, guild izazovi) koji korisnici eksplicitno traže.",
+    "growth": "~37,6 ocena/dan od aprila 2025 (20.978 ocena za ~18 meseci); recenzije 30d = 24 naspram 32: blagi pad; uz oznaku praćenja verovatno plaćeni oglasi (recenzija pominje 'ad').",
+    "scores": {
+      "marketabilityVirality": 4,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/arise-level-up-workout-game/id6743036247",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6741765734": {
+    "name": "Pushscroll: Exercise To Scroll",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "App blocker kod kog se vreme za skrolovanje 'kupuje' sklekovima: 1 sklek = 1 minut TikToka, kamera broji ponavljanja.",
+    "specifics": [
+      "Ključna mehanika: blokada aplikacija, otključavanje vežbama (sklekovi, čučnjevi, iskoraci, plank), pose detection protiv varanja",
+      "Šta je deljivo: broj sklekova umesto sati na ekranu, smanjenje screen time-a",
+      "Društveni sloj: prijatelj može da čuva šifru (Hard Mode); nema takmičenja",
+      "Monetizacija: pretplata, blokiranje iza paywalla; pominje se 5$/mesec i 15$/mesec"
+    ],
+    "psych": "Trenje pre zavisnog ponašanja zamenjeno malom zdravom akcijom; korisnici osećaju dvostruku dobit. Dokaz: 'I literally just did 30 pushups.. For an hour of screen time. I feel AMAZING!'",
+    "developer_type": "mali tim (Pushscroll GmbH, 1 aplikacija)",
+    "build_weeks": 6,
+    "build_notes": "Screen Time API (FamilyControls/ManagedSettings/DeviceActivity, Apple entitlement), Android UsageStats + Accessibility, on-device pose detection (Vision / ML Kit), streak, pretplate. Najveći rizik: odobrenje FamilyControls entitlementa, zaobilaženje blokade i tačnost brojanja.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Moj telefon traži 30 sklekova da bih otvorio TikTok' - POV snimak kako se radi sklek ispred telefona.",
+    "monetization": "Pretplata sa paywallom za osnovnu funkciju (blokiranje); korisnici pominju 5-15$/mesec. Veliki otpor kod mlađih, ali zadovoljni ostaju mesecima.",
+    "complaints": [
+      "Sve iza paywalla, nema free probe (~14)",
+      "Netačno brojanje, lako se vara ili ne broji pravilnu formu (~4)",
+      "Logika streak-a i tajmera kažnjava korisnika (~3)",
+      "Bagovi: beli ekran, blokira pogrešnu aplikaciju (~3)"
+    ],
+    "suggestions": [
+      "Otključavanje minuta koracima (npr. 10.000 koraka)",
+      "Potpuno zaključavanje telefona do zadatog broja sklekova",
+      "Pauziranje tajmera kad se izađe iz aplikacije",
+      "Više vežbi prilagođenih ženama i bolji redosled u journey modu"
+    ],
+    "praise": [
+      "Stvarno smanjuje screen time (do 3h dnevno)",
+      "Uz to gradi naviku vežbanja",
+      "Story/journey mod sa progresijom"
+    ],
+    "opportunity": "Dodati takmičenje i grupni sloj (ko je 'zaradio' najviše minuta, zajednički izazov sa prijateljima), koračanje kao valutu i freemium sa malim dnevnim fondom.",
+    "growth": "~37,3 ocena/dan od juna 2025 (17.723 ocena za ~16 meseci); recenzije 30d = 14 naspram 30: pad; oznaka praćenja i recenzije pominju 'advertisement', znači plaćeni oglasi.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushscroll-exercise-to-scroll/id6741765734",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1553223828": {
+    "name": "DailyBean - simplest journal",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Dnevnik bez pisanja: dan se beleži tapom na 'pasuljak' raspoloženja i ikone aktivnosti, uz kawaii teme i uvide šta utiče na raspoloženje.",
+    "specifics": [
+      "Ključna mehanika: dnevni unos raspoloženja i aktivnosti u nekoliko tapova, prilagodljivi blokovi, uvidi o obrascima",
+      "Šta je deljivo: estetski mesečni kalendar sa pasuljcima, teme",
+      "Društveni sloj: samo pozivnice za teme; korisnici traže 'friend mode' i zajedničku 'memory book'",
+      "Monetizacija: freemium + pretplata, reklame posle svakog unosa, valuta 'detelina' za teme"
+    ],
+    "psych": "Kvantifikacija dana i vizuelni kalendar koji se popunjava (niz dana bez pritiska). Dokaz: 'I’ve used this app for 324 days consistently.'",
+    "developer_type": "mali tim / studio (BlueSignum Corp., 6 aplikacija; Koreja)",
+    "build_weeks": 5,
+    "build_notes": "Lokalna baza + cloud backup, kalendar i statistika, sistem tema i valute, reklame i pretplate, šifra/Face ID. Najveći rizik: dizajn i ilustracije (vrednost je u estetici), ne tehnika.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Moj ceo oktobar u pasuljcima' - skrol kroz šareni mesečni kalendar raspoloženja.",
+    "monetization": "Freemium sa reklamama posle unosa, pretplata (cena nije u podacima), kupovina tema za 'deteline'; korisnici traže lifetime opciju.",
+    "complaints": [
+      "Previše reklama, dugi ponavljani oglasi (~8)",
+      "Ključne funkcije iza paywalla, nema lifetime plana (~8)",
+      "Teme preskupe i u premiumu se plaćaju posebno (~5)",
+      "Bag sa šifrom, gubitak pristupa (~1)"
+    ],
+    "suggestions": [
+      "Lifetime jednokratna kupovina",
+      "Zajednički dnevnik sa prijateljima",
+      "Blokovi za vreme/količinu i sopstveni kalendari",
+      "Sinhronizacija sa Fitbit/Google Health"
+    ],
+    "praise": [
+      "Najjednostavniji dnevnik, radi i kad si umoran",
+      "Slatka estetika i prilagodljivost",
+      "Uvidi u obrasce raspoloženja"
+    ],
+    "opportunity": "Isti 'no-writing' format sa društvenim slojem (zajednički kalendar sa prijateljem, nizovi) i manje agresivnim reklamama; jasniji fokus na navike umesto čistog dnevnika.",
+    "growth": "~34,7 ocena/dan od marta 2021 (70.754 ocena za ~5,5 godina); recenzije 30d = 16 naspram 11: stabilno do blagi rast; zrela aplikacija, rast verovatno organski + ASO (procena).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 4,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/dailybean-simplest-journal/id1553223828",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6741707862": {
+    "name": "Welmi - Calorie Counter & Diet",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "AI brojač kalorija (fotografija, glas, barkod) sa dodatnim GLP-1 dnevnikom doza, uz preporuke obroka i post; jaka hispanska publika.",
+    "specifics": [
+      "Ključna mehanika: foto/glas unos obroka, dnevni kalorijski cilj, makroi, GLP-1 podsetnici",
+      "Šta je deljivo: gubitak kilograma i grafikon napretka (procena)",
+      "Društveni sloj: nije vidljiv u opisu",
+      "Monetizacija: pretplata/paywall (korisnici: 'sve je plaćeno'), cena nije u podacima"
+    ],
+    "psych": "Kvantifikacija ishrane i vidljiv gubitak kilograma. Dokaz: 'Llevo dos semanas usando la app y he logrado bajar 10 libras'.",
+    "developer_type": "mali tim / mini studio (T-Shaped Apps Ltd, 3 aplikacije)",
+    "build_weeks": 6,
+    "build_notes": "Vision LLM za prepoznavanje hrane, nutritivna baza (licenca ili otvoreni izvori), barkod, HealthKit/Health Connect, pretplate. Najveći rizik: tačnost procene i kvalitet baze; kategorija je prezasićena (Cal AI i klonovi).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Slikam tanjir i za 2 sekunde znam koliko kalorija jedem' - snimak skeniranja obroka.",
+    "monetization": "Pretplata sa paywallom (cena nije u podacima); malo žalbi na cenu u uzorku.",
+    "complaints": [
+      "Makroi i porcije nisu tačni (~3)",
+      "Gotovo sve je plaćeno (~2)",
+      "Ne može da se ispravi pogrešno prepoznata hrana (~1)",
+      "Nema sinhronizacije sa satovima tipa Amazfit (~1)"
+    ],
+    "suggestions": [
+      "Podsetnici za obroke na osnovu istorije",
+      "Ručna izmena prepoznatog obroka",
+      "Integracija sa više satova",
+      "Besplatan osnovni nivo"
+    ],
+    "praise": [
+      "Lako korišćenje, foto prepoznavanje deluje tačno",
+      "Vidljiv gubitak kilograma",
+      "Sve na jednom mestu (kalorije, voda, trening)"
+    ],
+    "opportunity": "Malo prostora za diferencijaciju u čistom AI brojaču; vredelo bi samo uz jak zaokret (nizovi, takmičenje sa prijateljima ili 'protein challenge'). Uzorak recenzija je kratak i pretežno španski 5*, moguće podstaknute ocene (procena).",
+    "growth": "~34,3 ocena/dan od februara 2025 (20.269 US ocena; opis tvrdi 250k+ globalno); recenzije 30d = 16 naspram 20: stabilno; oznaka praćenja i brojka sugerišu plaćeni marketing.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 2,
+      "buildEase": 4,
+      "voiceOfCustomer": 2,
+      "monetization": 4,
+      "principleFit": 2
+    },
+    "confidence": "niska",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/welmi-calorie-counter-diet/id6741707862",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6757661674": {
+    "name": "SocialLite-Block Reels&Shorts",
+    "exclude": false,
+    "list": "B",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Umesto blokiranja cele mreže, 'hirurški' uklanja samo Reels/Shorts i algoritamski feed, a ostavlja DM-ove, profile i objavljivanje.",
+    "specifics": [
+      "Ključna mehanika: alternativni klijent/omotač za Instagram, YouTube, Snapchat, Facebook bez kratkih videa; hard lock",
+      "Šta je deljivo: 'Instagram bez Reelsa', smanjen screen time",
+      "Društveni sloj: nema",
+      "Monetizacija: pretplata ~10$/mesec ili ~50$/god, dug onboarding pre paywalla"
+    ],
+    "psych": "Trenje uklanja okidač beskonačnog skrola bez žrtvovanja društvenih veza. Dokaz: 'removing my access to youtube shorts and reels has been wildly beneficial'.",
+    "developer_type": "mali tim / solo (Sociallite LLC, 1 aplikacija)",
+    "build_weeks": 8,
+    "build_notes": "WebView omotač oko web verzija društvenih mreža sa filtriranjem DOM-a, Screen Time API za preusmeravanje, sigurna obrada logina. Najveći rizik: ToS kršenje i lomljenje pri svakoj promeni Instagram/YouTube weba, bezbednost naloga (prijava 'ulogovao me u tuđi nalog'), App Store odbijanje.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Imam Instagram, ali nemam Reels' - poređenje mog i tvog Instagrama za 3 sekunde.",
+    "monetization": "Pretplata ~10$/mesec ili ~50$/god posle dugog onboardinga; jak otpor jer se reklamira kao besplatna.",
+    "complaints": [
+      "Bagovi, spor rad, ne učitava sadržaj, nema glasovnih poruka (~8)",
+      "Reklamira se kao besplatna, a pretplata ~10$/mesec (~8)",
+      "Neželjene posledice: SafeSearch u Safariju, blokira TikTok/LinkedIn/YouTube bez pitanja (~5)",
+      "Predug onboarding sa mnogo pitanja (~4)"
+    ],
+    "suggestions": [
+      "Notifikacije za poruke",
+      "Lako prebacivanje naloga za kreatore",
+      "Jednokratna kupovina",
+      "Browser režim za sve mreže"
+    ],
+    "praise": [
+      "Konačno YouTube/Instagram bez Shorts/Reels",
+      "Više vremena za hobije i učenje",
+      "Hard lock otežava gašenje"
+    ],
+    "opportunity": "Ideja je jaka i jasno tražena, ali tehnički i pravno krhka; za nas bolja varijanta je trenje/izazov oko kratkih videa (npr. Screen Time + misija) nego omotač oko tuđih aplikacija.",
+    "growth": "~33,7 ocena/dan od januara 2026 (8.616 ocena za ~8,5 meseci); recenzije 30d = 150 (gornja granica uzorka) naspram 0: verovatno nagli porast pažnje posle nove verzije ili kampanje (procena).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 2,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/sociallite-block-reels-shorts/id6757661674",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6760209491": {
+    "name": "PushClock - Loud Alarm Clock",
+    "exclude": false,
+    "list": "A",
+    "principle": "Obaveza unapred i trenje",
+    "differentiator": "Alarm koji se gasi samo izvršenom misijom (sklekovi koje broji kamera, AI provera slike namešten kreveta, 'touch grass', meme izazovi), sa slaganjem misija i zaključavanjem aplikacija do buđenja.",
+    "specifics": [
+      "Ključna mehanika: 25+ misija za gašenje, stack više misija, ponovno zvonjenje, wake-up check posle par minuta, app blocking od spavanja do misije",
+      "Šta je deljivo: snimak buđenja uz misiju, niz jutara, Gen Z misije ('the 67', recreate a meme)",
+      "Društveni sloj: nije vidljiv; recenzije pominju influencera ('Jeremiah brought me here')",
+      "Monetizacija: hard paywall, ~20-30$ godišnje"
+    ],
+    "psych": "Obaveza unapred: večerašnji ja zaključava jutarnjeg sebe. Dokaz: 'i hate this thing but boy do it wake me up'.",
+    "developer_type": "solo / mali tim (Kaizen Technologies LLC, 1 aplikacija; recenzije pominju osnivača Jeremiaha)",
+    "build_weeks": 6,
+    "build_notes": "AlarmKit (iOS 26) i exact alarm/full-screen intent na Androidu, on-device pose detection, vision API za proveru slike, Screen Time API za blokadu, streak, pretplate. Najveći rizik: pouzdanost alarma ('hasn’t even been going off') i zaobilaženje utišavanjem.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Alarm mi neće stati dok ne izađem napolje i dodirnem travu' - POV u 6 ujutru.",
+    "monetization": "Hard paywall posle onboardinga, ~20-30$/god; masovan otpor kod tinejdžera ('30 bucks for an alarm'), ali zadovoljni kažu da vredi.",
+    "complaints": [
+      "Paywall posle dugog onboardinga, 'plaćam alarm' (~17)",
+      "Alarm ne zvoni / praćenje ne radi (~3)",
+      "Neočekivana naplata, bez refundacije (~2)",
+      "Ne želim da delim podatke u aplikaciji (~1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo sa premium planom",
+      "Jednokratna kupovina (~20$) umesto pretplate",
+      "Cena navedena pre onboardinga"
+    ],
+    "praise": [
+      "Jedini alarm koji budi duboke spavače",
+      "Budi i mozak, ne samo telo; zabavne misije",
+      "Rešava i skrolovanje u krevetu"
+    ],
+    "opportunity": "Dodati društveni sloj (buđenje sa prijateljem, ko je prvi ustao, zajednički niz) i freemium sa 1 misijom; kreatorski format je već dokazan preko influencera.",
+    "growth": "~32,1 ocena/dan od marta 2026 (6.699 ocena za ~7 meseci); recenzije 30d = 7 naspram 16: pad; rast verovatno vođen influencer/UGC kampanjom (recenzije pominju kreatora) uz oznaku praćenja.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 3,
+      "buildEase": 4,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushclock-loud-alarm-clock/id6760209491",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "6450879111": {
+    "exclude": true,
+    "exclude_reason": "Igra (idle RPG), veliki izdavač.",
+    "name": "Overmortal-Idle RPG"
+  },
+  "414478124": {
+    "exclude": true,
+    "exclude_reason": "Velika firma (Tencent), messaging.",
+    "name": "WeChat"
+  },
+  "6747166058": {
+    "exclude": true,
+    "exclude_reason": "Firma (Endo Health) sa lekarski dizajniranim planovima i AI telefonskim pozivima; medicinski/regulisan domen.",
+    "name": "Glow: Diet Coach & Meal Plans"
+  },
+  "1638765506": {
+    "exclude": true,
+    "exclude_reason": "Igra (kolekcionarski TCG).",
+    "name": "BoxedUp: Sneaker Trading Game"
+  },
+  "6752903766": {
+    "exclude": true,
+    "exclude_reason": "Utility skener hrane (kupovina); vrednost zavisi od velike baze proizvoda i sastojaka, korisnici se žale na netačne podatke; nema mehanike navike.",
+    "name": "Exposr - Food Product Scanner"
+  },
+  "1439828095": {
+    "exclude": true,
+    "exclude_reason": "Etablirana firma (Shred Labs, od 2018) sa velikom bibliotekom vežbi i AI planovima; oznaka praćenja.",
+    "name": "SHRED: Gym & Home Workouts"
+  },
+  "1595784171": {
+    "exclude": true,
+    "exclude_reason": "Igra (platformer), nema veze sa trčanjem.",
+    "name": "Pop's World - Running game"
+  },
+  "1365548683": {
+    "exclude": true,
+    "exclude_reason": "Igra (RPG).",
+    "name": "The Wanderer: Post-Nuclear RPG"
+  },
+  "1325285782": {
+    "exclude": true,
+    "exclude_reason": "Firma (Prodege) i kviz za novac; finansije/nagrade.",
+    "name": "Swagbucks Trivia for Money"
+  },
+  "1477619146": {
+    "exclude": true,
+    "exclude_reason": "Roditeljska kontrola (utility), firma.",
+    "name": "Bark - Parental Controls"
+  },
+  "6478942469": {
+    "name": "Life Reset: 66 Day Habit",
+    "exclude": false,
+    "list": "A",
+    "principle": "Igrifikacija učenja",
+    "differentiator": "Habit tracker kao 'Solo Leveling' u stvarnom životu: 66-dnevni program pretvara ciljeve u dnevne questove sa XP, levelima, ligama i heroj-modom sa lootom.",
+    "specifics": [
+      "Ključna mehanika: personalizovan onboarding kviz, 66-dnevni program, dnevni questovi, XP, lige (bronza/srebro), hard mode posle 66 dana",
+      "Šta je deljivo: level, liga i 'arc' progres (procena)",
+      "Društveni sloj: lige/rang (iz recenzija), bez direktnog sloja prijatelja",
+      "Monetizacija: hard paywall posle onboardinga, ~$60/god (popusti do ~$29–34)"
+    ],
+    "psych": "RPG identitet + niz dana: 'To convert my life into a real life anime has motivated me'.",
+    "developer_type": "mali tim (procena): Savvy Tech Limited, jedina aplikacija; recenzije opisuju agresivne reklame ('targeted hard with ads', 'Misleading Ads')",
+    "build_weeks": 7,
+    "build_notes": "Backend za naloge, lige i sync; onboarding kviz i generator programa (pravila ili LLM), XP/level/loot sistem, mini alati (fokus, disanje, journaling), opciono Screen Time. Najveći rizik: stabilnost streak/XP logike (glavna žalba) i balans ekonomije igre.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Dan 1 od 66: pretvorio sam svoj život u Solo Leveling' - level-up animacija preko snimka treninga.",
+    "monetization": "Hard paywall, godišnja pretplata ~$60 sa ponudama popusta; deo korisnika plaća i smatra da vredi.",
+    "complaints": [
+      "Nema besplatne verzije ni triala, paywall posle dugog kviza (~9)",
+      "Bagovi: reset streak-a i XP-a, zadaci se sami čekiraju, rušenje (~7)",
+      "Problemi sa naplatom i popustima (~3)",
+      "'AI slop' tekstovi i dizajn (~1)"
+    ],
+    "suggestions": [
+      "Besplatan osnovni nivo (npr. samo screen control i čitanje)",
+      "Ograničenja vremena za aplikacije protiv doomscrollinga",
+      "Podesiv raspored notifikacija za noćne smene",
+      "Kozmetika i stvarna vrednost itema za heroja"
+    ],
+    "praise": [
+      "RPG/anime osećaj motiviše ('Solo Leveling')",
+      "Personalizovan program iz onboardinga",
+      "Developer stalno dodaje sadržaj"
+    ],
+    "opportunity": "Ista 'real-life RPG' fantazija, ali sa freemium ulazom, partijama/rejdovima sa prijateljima i pouzdanom streak logikom (freeze).",
+    "growth": "~13,8 ocena/dan od aprila 2024 (12.589 ocena, 1,5M korisnika po opisu); recenzije 9 naspram 5 - blagi rast, uz plaćene reklame.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 2,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 4,
+      "principleFit": 5
+    },
+    "confidence": "visoka",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/life-reset-66-day-habit/id6478942469",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6773065691": {
+    "name": "Slay 75",
+    "exclude": false,
+    "list": "A",
+    "principle": "Niz dana i strah od gubitka",
+    "differentiator": "Tracker za 75 Hard izazov, ali 'girly' i estetizovan za devojke: 'become the girl', discipline score, afirmacije i disanje umesto mačo tona originala.",
+    "specifics": [
+      "Ključna mehanika: dnevni checklist 5 pravila (ishrana, voda, 10k koraka, 45 min trening, čitanje), dan izazova, discipline score, streak",
+      "Šta je deljivo: dan izazova i estetika 'reset era' (procena)",
+      "Društveni sloj: nema",
+      "Monetizacija: hard paywall posle onboardinga, bez triala"
+    ],
+    "psych": "Obaveza na 75 dana i identitet ('that girl'): 'This app keeps me accountable and it's so pretty.'",
+    "developer_type": "mali tim: BETTER BOUND LLC, 3 aplikacije",
+    "build_weeks": 4,
+    "build_notes": "Tracker + nalog, checklist, statistika, afirmacije, vođeno disanje, opciono HealthKit/Health Connect za korake. Najveći rizik: nizak prag ulaska konkurencije; estetika je ključna prednost.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 5,
+    "hook": "'Dan 1 od 75 da postanem ta devojka' - GRWM + čekiranje liste na kraju dana.",
+    "monetization": "Hard paywall (cena se ne vidi u podacima); korisnice masovno odbijaju plaćanje bez probe.",
+    "complaints": [
+      "Obavezno plaćanje posle tutorijala, bez besplatne verzije ili triala (~12)",
+      "Osećaj manipulacije zbog 'sob story' onboardinga (~2)"
+    ],
+    "suggestions": [
+      "Besplatna verzija sa osnovnim checklistom",
+      "Free trial"
+    ],
+    "praise": [
+      "Estetika i layout motivišu",
+      "Drži odgovornom za dnevne ciljeve",
+      "Jednostavna i 'cute'"
+    ],
+    "opportunity": "Freemium checklist + plaćeni dodaci, plus grupni 75-dnevni izazov sa drugaricama i deljive kartice dana za Stories.",
+    "growth": "Izašla 1.6.2026; 1.828 ocena (~13,8/dan); recenzije 20 naspram 2 - jak rani rast.",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 4,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/slay-75/id6773065691",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6472562569": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je zarada (gift kartice) kroz reklame i mini igre - finansije/offerwall, generički šablon; korisnici kažu da se hodanje gubi iza reklama.",
+    "name": "Earn Cash Walk Steps - Walkify"
+  },
+  "444741112": {
+    "exclude": true,
+    "exclude_reason": "Utility (telefonija), firma.",
+    "name": "Pinger: Call Plus Texting App"
+  },
+  "1262697756": {
+    "name": "MySteps - Step Counter",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Klasičan pedometar sa GPS workout modom i ciljevima; nema pravog zaokreta (granično: generički step counter, korisnici većinom van US).",
+    "specifics": [
+      "Ključna mehanika: automatsko brojanje koraka, GPS workout mod, ciljevi i bedževi",
+      "Šta je deljivo: ništa posebno",
+      "Društveni sloj: nema",
+      "Monetizacija: nedavno prebačeno na obaveznu pretplatu"
+    ],
+    "psych": "Kvantifikacija dnevne aktivnosti; slab princip - recenzije su uglavnom o ceni, ne o motivaciji ('Execellent. Keep me fit').",
+    "developer_type": "mali tim (procena): Company Next Leap, jedna aplikacija",
+    "build_weeks": 3,
+    "build_notes": "HealthKit/Health Connect, Core Motion, GPS praćenje i mape, grafikoni. Najveći rizik: tačnost brojanja (žalbe) i nulta diferencijacija.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": false,
+      "shareable": false
+    },
+    "marketability_score": 1,
+    "hook": "Nema prirodnog hooka (procena).",
+    "monetization": "Prelazak sa besplatnog na obaveznu pretplatu; korisnici ga odbijaju.",
+    "complaints": [
+      "Aplikacija postala dostupna samo uz pretplatu (~14, uglavnom arapski korisnici)",
+      "Netačno brojanje koraka, manjak 2–3k dnevno (~3)",
+      "Prikazuje samo današnji dan umesto nedelje (~1)",
+      "Previše notifikacija (~1)"
+    ],
+    "suggestions": [
+      "Vratiti besplatnu verziju",
+      "Nedeljni pregled koraka na početnom ekranu"
+    ],
+    "praise": [
+      "Jednostavna i pregledna",
+      "Motiviše na kretanje"
+    ],
+    "opportunity": "Malo prostora: kategorija je komoditizovana; zanimljiva samo kao baza za društvenu ili igrifikovanu verziju (vidi Stompers).",
+    "growth": "~13,4 ocene/dan od 2017 (44.961); recenzije 5 naspram 1 - porast je verovatno talas negativnih zbog paywalla.",
+    "scores": {
+      "marketabilityVirality": 1,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 1,
+      "principleFit": 2
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/mysteps-step-counter/id1262697756",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  }
+}

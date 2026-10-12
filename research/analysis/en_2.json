@@ -1,0 +1,714 @@
+{
+"6648771147": {
+  "differentiator": "A focus timer where every session is a flight: you pick a departure and destination airport, the focus time equals the flight time, and the plane moves across a 3D map while you work. The app blocker is called 'Airplane Mode'.",
+  "specifics": [
+   "Core mechanic: boarding pass + flight on a real route; session length = flight length; Screen Time blocking during the flight",
+   "What's shareable: map of flown routes (estimate: sharing is not the app's main focus)",
+   "Social layer: none; users are waiting for the announced 'friend flights' / multiplayer",
+   "Monetization: freemium, pro features (window view, choice of departure location), users mention ~$20 and a lifetime VIP"
+  ],
+  "psych": "A ritual for starting and finishing (commitment up front) plus visible progress on the map; 'Booking a flight before I start working sounds like a small thing'.",
+  "developer_type": "small team (estimate): Cement Planet LTD, the publisher's only app, iPhone and Mac versions",
+  "build_notes": "Screen Time API (FamilyControls/DeviceActivity) on iOS, UsageStats/Accessibility on Android; 3D globe/map (MapLibre or Mapbox), airport and route database, ambient sound. Biggest risk: the quality of the 3D visual impression and blocking parity on Android.",
+  "hook": "'I flew from New York to Tokyo and finished my whole term paper during that time' - split screen of the 3D flight and a study desk.",
+  "monetization": "Freemium + pro (subscription or lifetime, roughly $20 according to reviews); was App of the Day.",
+  "complaints": [
+   "Too many features behind the paywall, especially window view and departure location choice (~5)",
+   "Promised multiplayer/friend flights still doesn't exist (~3)",
+   "Mac version is complicated and VIP doesn't carry over between iPhone and Mac (~2)",
+   "Tutorial flight is too long (~1)"
+  ],
+  "suggestions": [
+   "Group flights with friends",
+   "Pomodoro breaks during long flights ('seatbelt chime')",
+   "Longer flights, up to 8 hours",
+   "More realistic planes and cabin sounds (announcements, chatter)",
+   "Android version (users are building their own clones because FocusFlight isn't on Android)",
+   "Optional app blocking during the session (mentioned as a competitor advantage)"
+  ],
+  "praise": [
+   "Best-designed focus app, airport atmosphere",
+   "The 'booking a flight' ritual really holds focus, especially for ADHD and students",
+   "Developer listens to feedback (update 2.0)"
+  ],
+  "opportunity": "Add the social layer users are asking for: shared flights with friends and a 'passport' with city stamps for sharing; a softer freemium for Gen Z students.",
+  "growth": "~15.4 ratings/day since January 2025 (9,663 ratings); reviews 13 in 30d vs 16 prior - stable, no spike.",
+  "confidence": "high",
+  "marketing_evidence": "No active ads in the US. Exact phrase 'FocusFlight' 0 results, 'Focus Flight' 1 unrelated (The Gold Spartan); a plain search and the developer name (Cement Planet) return only unrelated advertisers.",
+  "reddit_notes": "Plenty of mentions; FocusFlight is used as a reference example of a successful focus app (clones, questions about how it grows, praise for the design). Tone positive; growth is attributed to TikTok/Instagram content, but no UGC ad was found."
+},
+"1194023242": {
+  "differentiator": "A journal without typing: two-tap entry (mood + activity icons), and the app builds statistics from it showing which habits lift your mood. Borderline because the core value is self-reflection, not a concrete habit.",
+  "specifics": [
+   "Core mechanic: choosing mood + activities in 2 steps, calendar, activity/mood correlation statistics, goals, streak",
+   "What's shareable: the yearly 'Year in Pixels' calendar and long streaks (reviews: '1,000 days', 'year streak') - estimate, sharing is not explicit in the data",
+   "Social layer: doesn't exist in the data, fully private app",
+   "Monetization: freemium with a premium subscription; reviews say only an annual plan with a 7-day trial"
+  ],
+  "psych": "A streak and visible history as value the user doesn't want to lose; streak repair with no time limit reduces drop-off. Evidence: 'was devastated that i would lose my 2 year streak'.",
+  "developer_type": "small team (estimate): Relaxio s.r.o., 1 app",
+  "build_notes": "Local database + cloud backup/sync, calendar and charts, customizable icons and activities, reminders, PIN lock, PDF/CSV export. No special APIs. Biggest risk: reliable cross-device sync (reviews report data loss) and differentiation in a saturated category.",
+  "hook": "'I tracked my mood for 365 days - here's what actually makes me happy' while scrolling through a colorful yearly calendar.",
+  "monetization": "Premium subscription, per reviews annual only (no monthly), 7-day trial; some users see it as a trap (~4).",
+  "complaints": [
+   "Annual-only subscription and aggressive trial, hard to cancel (~5)",
+   "Data loss and disappearing entries, no sync between devices (~3)",
+   "Too many upsells and rating prompts (~3)",
+   "Unwanted changes (PDF export, charts, 'on this day' cards) (~3)"
+  ],
+  "suggestions": [
+   "Free PIN lock",
+   "Option to turn off 'this day in history' cards",
+   "Monthly subscription alongside annual",
+   "Export/integration for AI analysis (a user already sends CSV to ChatGPT/Gemini)",
+   "Bring themes and fonts from the My Diary app to Daylio",
+   "Adaptive font size (accessibility)"
+  ],
+  "praise": [
+   "Extremely fast and simple entry, a habit that lasts for years",
+   "Customizability (moods, activities, symptoms, goals)",
+   "Streak repair with no time limit"
+  ],
+  "opportunity": "A Gen Z version with built-in AI insights ('what lifts your mood'), shareable yearly/monthly cards and friends for shared streaks; an honest freemium with a monthly plan.",
+  "growth": "Launched 2017-01-25, ~17.5 ratings/day over 9+ years; reviews 25 in 30d vs 26 prior - stable, mature demand with no growth.",
+  "confidence": "medium",
+  "marketing_evidence": "No active ads in the US: the only result is an old unrelated ad for a 'Best game 2022' page (from 2022).",
+  "reddit_notes": "Mature, large organic community (r/Daylio 9.8k+), users with multi-year streaks; the free version is considered sufficient. Tone strongly positive."
+},
+"6741765734": {
+  "differentiator": "An app blocker where scrolling time is 'bought' with push-ups: 1 push-up = 1 minute of TikTok, the camera counts reps.",
+  "specifics": [
+   "Core mechanic: app blocking, unlocking via exercises (push-ups, squats, lunges, plank), pose detection against cheating",
+   "What's shareable: number of push-ups instead of hours on screen, reduced screen time",
+   "Social layer: a friend can hold the passcode (Hard Mode); no competition",
+   "Monetization: subscription, blocking behind a paywall; $5/month and $15/month are mentioned"
+  ],
+  "psych": "Friction before the addictive behavior replaced by a small healthy action; users feel a double win. Evidence: 'I literally just did 30 pushups.. For an hour of screen time. I feel AMAZING!'",
+  "developer_type": "small team (Pushscroll GmbH, 1 app)",
+  "build_notes": "Screen Time API (FamilyControls/ManagedSettings/DeviceActivity, Apple entitlement), Android UsageStats + Accessibility, on-device pose detection (Vision / ML Kit), streak, subscriptions. Biggest risk: FamilyControls entitlement approval, blocker circumvention and counting accuracy.",
+  "hook": "'My phone demands 30 push-ups before I can open TikTok' - POV video of doing push-ups in front of the phone.",
+  "monetization": "Subscription with a paywall on the core function (blocking); users mention $5-15/month. Strong resistance among younger users, but satisfied ones stay for months.",
+  "complaints": [
+   "Everything behind the paywall, no free trial (~14)",
+   "Inaccurate counting, easy to cheat or doesn't count proper form (~4)",
+   "Streak and timer logic punishes the user (~3)",
+   "Bugs: white screen, blocks the wrong app (~3)"
+  ],
+  "suggestions": [
+   "Unlock minutes with steps (e.g. 10,000 steps)",
+   "Fully lock the phone until a set number of push-ups is done",
+   "Pause the timer when leaving the app",
+   "More exercises suited to women and a better order in journey mode",
+   "Lower price - more developers are building free/cheaper clones because Pushscroll is expensive ($40-60)"
+  ],
+  "praise": [
+   "Really reduces screen time (up to 3h a day)",
+   "Also builds an exercise habit",
+   "Story/journey mode with progression"
+  ],
+  "opportunity": "Add competition and a group layer (who 'earned' the most minutes, shared challenge with friends), steps as a currency and a freemium with a small daily allowance.",
+  "growth": "~37.3 ratings/day since June 2025 (17,723 ratings over ~16 months); reviews 30d = 14 vs 30: decline; the tracking flag and reviews mention 'advertisement', meaning paid ads.",
+  "confidence": "medium",
+  "marketing_evidence": "9 active ads in the US, all launched 8-10.10.2026, as partner (creator) ads from the pushups.ben account; fresh campaign.",
+  "reddit_notes": "Original posts by the developer (1 year old) and case study threads about $30K MRR in 4 months; today it is mostly mentioned as a reference in posts by competing clones. Tone neutral to positive, the complaint is price."
+},
+"6498880303": {
+  "differentiator": "Turns an iPhone into a 'dumbphone': a text-based home screen with only essential apps, grayscale and blocking, so every app launch requires a conscious step.",
+  "specifics": [
+   "Core mechanic: minimalist launcher via widgets and shortcuts, digital detox and app blocking.",
+   "What's shareable: the minimalist home screen aesthetic and screen time before/after (estimate).",
+   "Social layer: none.",
+   "Monetization: hidden trial after about a week, lifetime ~$25 or ~$6 monthly."
+  ],
+  "psych": "Friction interrupts impulsive app opening. Evidence: 'put my phone right back down because I didn't need it.'",
+  "developer_type": "solo (Ankit Kumar, 4 apps, Gmail support)",
+  "build_notes": "iOS: WidgetKit, App Intents/Shortcuts, Screen Time API (FamilyControls requires an Apple entitlement), guide for hiding icons; Android: a real launcher. Biggest risk: FamilyControls approval and iOS launcher limitations.",
+  "hook": "'I turned my iPhone into a dumbphone in 5 minutes: screen time from 7h to 2h.'",
+  "monetization": "Subscription or lifetime after a hidden trial; users who see the value pay, but the bait-and-switch triggers 1-star reviews.",
+  "complaints": [
+   "Hidden trial: after a week the paywall blocks the home screen (~7)",
+   "Too expensive for a 'shortcut' (~3)",
+   "Blocker doesn't work reliably (~1)",
+   "Background transparency doesn't work (~1)"
+  ],
+  "suggestions": [
+   "A clear free basic version",
+   "Price around $5",
+   "Fix the steps in the guide for removing the text under icons"
+  ],
+  "praise": [
+   "Noticeably reduced screen time (~10)",
+   "Fast and easy setup (~5)",
+   "Clean aesthetic (~4)"
+  ],
+  "opportunity": "Transparent freemium, a shareable screen time report (before/after) and a streak of days under the goal; add a challenge with friends.",
+  "growth": "Released 8.5.2024, 3,581 ratings, ~4.04 ratings/day; reviews 30d 12 vs 12. Stable organic growth with no tracking flag.",
+  "confidence": "high",
+  "marketing_evidence": "Exact phrase 'Minimalist Launcher' returns 0 results in the US.",
+  "reddit_notes": "The name is generic; the only reliable mention is a founder comment in r/iosapps linking to this app. Threads about iOS minimalist launchers are dominated by competitors (Dumbify, Minimizit, Smile, dp). No UGC ads."
+},
+"6749520351": {
+  "differentiator": "A 75 Hard tracker that builds a personalized 75-day reset (hard or soft) from a questionnaire, with a daily progress photo, a community and a library of book summaries.",
+  "specifics": [
+   "Core mechanic: daily checklist + progress photo + 75 days without a break",
+   "What's shareable: before/after transformation",
+   "Social layer: accountability community",
+   "Monetization: hard paywall with no trial, weekly or annual subscription (~$35-40)"
+  ],
+  "psych": "A public challenge with a fixed deadline and a streak that must not break: 'I'm amazed at how committed I feel noting down my goals'.",
+  "developer_type": "small team (75Me LLC, 2 apps); TikTok marketing, according to a review via AI-generated accounts",
+  "build_notes": "Checklist, camera and photo gallery/timelapse, community (backend + moderation), book summaries (licensed or AI). Biggest risk: the community and book content; the rest is simple.",
+  "hook": "Day 1 vs day 75: I did 75 Soft, here's the photo timelapse.",
+  "monetization": "Hard paywall with no trial; weekly or annual subscription (~$35-40 per year according to reviews). Users reject annual billing for a 75-day challenge.",
+  "complaints": [
+   "'Just a checklist' for too much money (~8)",
+   "No trial, you can't see anything before paying (~5)",
+   "The list can't be customized, no oz/ml choice (3)",
+   "Annual billing and refused refunds (3)"
+  ],
+  "suggestions": [
+   "Customizable task list and units",
+   "Workout plan alongside the challenge",
+   "One-time purchase per challenge or a monthly price",
+   "Switching soft ↔ hard",
+   "Tracking workout plans and muscle groups (cited as a gap)"
+  ],
+  "praise": [
+   "Community and accountability (~4)",
+   "Better than the official 75 Hard app (1)",
+   "Personalized program (2)"
+  ],
+  "opportunity": "A one-time price per challenge, a customizable list, an automatic shareable transformation timelapse and a group 75 with friends.",
+  "growth": "Since 2025-08; ~4.8 ratings/day (2,002). Reviews 30d 1 vs 4: a wave from TikTok in July-August, then a drop.",
+  "confidence": "medium",
+  "marketing_evidence": "No 75Me advertiser in the US; both searches return only unrelated advertisers. Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads).",
+  "reddit_notes": "Dozens of comments in self-improvement/fitness subreddits, all from the same period (~6 months ago) and with templated text ('app 75Me ... might be worth'), which strongly suggests planned comment seeding (developer or paid accounts), not organic buzz. No UGC ads were found, but Reddit comment marketing is a likely channel."
+},
+"6744338972": {
+  "differentiator": "An app blocker where a cute brain avatar visibly rots while you doomscroll, so reducing screen time becomes taking care of a character.",
+  "specifics": [
+   "Core mechanic: scheduled blocking of apps/sites + a brain avatar that deteriorates with scrolling",
+   "What's shareable: the 'brainrot' state of the avatar and the drop in screen time",
+   "Social layer: not visible in the description",
+   "Monetization: all features require a subscription, around $4.99 weekly (from reviews)"
+  ],
+  "psych": "A visual character suffering from your behavior gives instant emotional feedback. Evidence: 'The one screenblocker app that I actually have a hard time getting around'.",
+  "developer_type": "small team (Smolworks Inc, 3 apps; a review mentions the founder and a new partner)",
+  "build_notes": "Screen Time API (FamilyControls entitlement), widget, animated avatar, Android via Accessibility/UsageStats. Biggest risk: reliability of scheduled blocking (reviews: it blocks only once the app is opened) and Android parity.",
+  "hook": "'This is my brain after 6 hours of TikTok' - a rotten avatar is shown.",
+  "monetization": "Hard paywall, weekly subscription around $4.99 (from reviews), no trial; reviews mention payment outside the app.",
+  "complaints": [
+   "You have to pay, no free version or trial, ads don't mention it (about 13)",
+   "Billing and cancellation problems, charged after cancelling (about 3)",
+   "Scheduled blocking doesn't work until the app is opened, inaccurate screen time (about 4)",
+   "Widget avatar doesn't update (1)"
+  ],
+  "suggestions": [
+   "A free plan for younger users",
+   "5-minute snooze and longer timer options",
+   "A larger app whitelist",
+   "A widget showing the live state of the brain",
+   "A free version (competitors position themselves as the free alternative)"
+  ],
+  "praise": [
+   "Hard to get around, really reduces screen time",
+   "Fun character and 'interview' onboarding",
+   "Helps with sleep and focus"
+  ],
+  "opportunity": "The 'brainrot avatar' concept is strong for TikTok; we would add a free tier, social comparison of avatars with friends and a reliable widget that is always visible.",
+  "growth": "About 44 ratings/day since launch (May 2025, 22.6k ratings); reviews 30d 36 vs 64 prior, decline; the tracking flag and reviews mention ads.",
+  "confidence": "medium",
+  "marketing_evidence": "Search for 'Brainrot' (180 results) has no ads for the app ('Brainrot Project' is Spotify music). Exact phrase 'Brainrot Screen Time': 4 active ads, launched 27-28.8.2026. Small test, no new creatives.",
+  "reddit_notes": "The main mention is the developer's launch/build-in-public post in r/SaaS (80+ comments); the rest are programmers analyzing its UI (Health score) and clones. Few organic user threads; the name is generic so there is a lot of noise."
+},
+"1225155794": {
+  "differentiator": "A focus timer where a tree grows as long as you don't touch your phone and dies if you leave; the twist compared to Forest is planting together with friends (you can see who killed the tree) and a generous free tier.",
+  "specifics": [
+   "Core mechanic: a focus session = a seed that grows into a tree; leaving the app kills the tree; success unlocks new species and builds a garden.",
+   "What's shareable: personal garden, tree collection and study statistics.",
+   "Social layer: group planting, comparing study time with friends, chat; a reward tree from friends.",
+   "Monetization: free core and premium (prices not in the listing, estimate)."
+  ],
+  "psych": "Losing something you've already started building is stronger than a reward: 'the guilt of killing a tree has been a huge factor in my ability to stay focused'.",
+  "developer_type": "small team (AppFinca Inc., 1 app, but has a tracking flag)",
+  "build_notes": "Timer + blocking (iOS Screen Time API or just detecting when the app is left), backend for friends and real-time group sessions, tree illustrations. Biggest risk: differentiation in a saturated category (Forest, Focus Friend) and the blocking entitlement.",
+  "hook": "If I pick up my phone while studying, my tree dies, and the whole group sees it.",
+  "monetization": "Freemium; users praise how much is free ('more free features than forest'), premium prices are not in the listing.",
+  "complaints": [
+   "No tutorial, feels complicated (~1)",
+   "Timer bug, doesn't allow less than 43 minutes (~1)",
+   "An update changed a favorite experience (~1)",
+   "The screen has to stay on, drains the battery (~1)"
+  ],
+  "suggestions": [
+   "Dark mode",
+   "Onboarding or tutorial",
+   "Work with the screen off",
+   "Ability to use other (allowed) apps during a focus session",
+   "Restore the previous behavior after an unpopular update"
+  ],
+  "praise": [
+   "The guilt of a killed tree holds focus (~4)",
+   "Pride in your own garden, cute and relaxing (~4)",
+   "Competing with friends on study time and free features (~4)"
+  ],
+  "opportunity": "Turn group planting into the main product: a shared 'forest' for a class or crew with a weekly ranking and 'study with me' sessions, plus working with the screen off.",
+  "growth": "~24.9 ratings per day over ~9 years (82,836 ratings); reviews 46 in 30d vs 23 in the prior 30d, growth likely due to the start of the school year (estimate). Lasting, seasonal student demand.",
+  "confidence": "high",
+  "marketing_evidence": "No active ads in the US: exact phrase 0 results, 'Flora focus app' 1 unrelated result, 'AppFinca' (developer) only unrelated advertisers (fincas, dramas). The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "Long-running organic mentions, mostly as a free alternative to Forest; there is a small subreddit r/FloraApp. Tone positive, with complaints about one recent update."
+},
+"6755640836": {
+  "differentiator": "A habit tracker as an island builder: completing habits and focus sessions earns bananas used to build an island, unlock rare monke characters and pirate ships; the character and tone come from the developer's YouTube channel.",
+  "specifics": [
+   "Core mechanic: habits + focus timer → bananas → decorations, characters of varying rarity, new islands.",
+   "What's shareable: your own island/world, rare characters (estimate).",
+   "Social layer: the developer's Discord community and YouTube channel; none in the app.",
+   "Monetization: hard paywall, $39.96/year or $79.99 lifetime."
+  ],
+  "psych": "Caring for a world and collecting turn habits into a game; \"I find myself itching to complete any task that pops up to get me bananas.\"",
+  "developer_type": "solo (Myles Nicholas Root, 3 apps; reviews confirm a solo developer with a YouTube channel)",
+  "build_notes": "Habit/focus logic, Live Activity, 2D/isometric world editor and art assets (characters, decorations). Biggest risk: illustration production and balancing the game economy.",
+  "hook": "My island only grows when I do my habits, here's what it looks like after 30 days.",
+  "monetization": "Hard paywall ($39.96/year, $79.99 lifetime); part of the audience (teenagers) rejects it, but paying users say it's worth it.",
+  "complaints": [
+   "No free version, paywall after a long questionnaire (~14)",
+   "Purchase unclearly stated in the description (~3)",
+   "No warning before the trial ends (~1)",
+   "No iPad version (~1)"
+  ],
+  "suggestions": [
+   "A free version with fewer features or with ads",
+   "More music and sound options",
+   "An iPad version",
+   "More than 3 habits at the start"
+  ],
+  "praise": [
+   "Gamification really motivates",
+   "The tone and the Monke character",
+   "Personalized onboarding"
+  ],
+  "opportunity": "A freemium entry for Gen Z (free island, paid characters/decorations) and a shareable island snapshot; add social visits to friends' islands.",
+  "growth": "Launched 2025-12-11, 1,954 ratings, ~6.4 ratings/day, no tracking flag. Reviews 30d: 4 vs 5: stable; growth comes organically from the developer's YouTube content.",
+  "confidence": "high",
+  "marketing_evidence": "No Monke advertiser in the US (150 results, all unrelated: Monkey 47, Fresh Monkee, Gorilla Tag...).",
+  "reddit_notes": "No Reddit mentions in Google results; 'monke' is a meme term. A different app, 'NoFap Tracker: Monke Reset' (id6784268940), was found, not this one."
+},
+"6749665109": {
+  "differentiator": "An app blocker, but social media time is 'bought' with gold you earn by completing real daily tasks (gym, reading, going outside), with photo verification.",
+  "specifics": [
+    "Core mechanic: every morning at 6am the 'main quest' resets; completing it earns Knight's gold used to unlock blocked apps.",
+    "What's shareable: reduced screen time (before/after), estimate: no built-in share format.",
+    "Social layer: none visible; the mascot (Focus Buddy) reacts to behavior.",
+    "Monetization: hard paywall, $9.99 monthly / ~$50 annually, 7-day trial."
+  ],
+  "psych": "Reward for action and commitment up front: the user has to 'earn' scrolling; review: \"my screen time has dropped by almost 3 hours\".",
+  "developer_type": "small team (Brain Nourishment, LLC, 2 apps)",
+  "build_notes": "iOS Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) and Android UsageStats/Accessibility; photo verification (possibly AI), backend for quests. Biggest risk: Apple approval of the Family Controls entitlement and unlock reliability (complaints about apps not being unblocked).",
+  "hook": "My phone won't let me have TikTok until I do 20 push-ups, so here's how much my screen time dropped in a week.",
+  "monetization": "Subscription $9.99/mo or ~$50/yr, no free version; younger users overwhelmingly reject the paywall.",
+  "complaints": [
+   "Unexpected paywall after onboarding and permissions (~9)",
+   "The app blocks everything and can't be deleted because of parental controls (~4)",
+   "Camera/photo verification doesn't work (~2)",
+   "Redesign removed the original daily sidequest concept (~2)"
+  ],
+  "suggestions": [
+   "More uses for crowns/currency (rewards, cosmetics)",
+   "Monster battles / more RPG elements",
+   "A clear free version or a trial period before blocking",
+   "Reliable unblocking after a completed quest"
+  ],
+  "praise": [
+   "Really reduces screen time",
+   "Feels like a video game",
+   "Kind support and refund"
+  ],
+  "opportunity": "Show the paywall before asking for Screen Time permissions and add a free tier with one quest; add a social layer (shared quests, a friends leaderboard by screen time reduction).",
+  "growth": "Launched 2025-09-29, 2,472 ratings, ~6.5 ratings/day. Reviews 30d: 0 vs 3: decline after the redesign/rename; growth was likely driven by Instagram ads (mentioned in reviews).",
+  "confidence": "medium",
+  "marketing_evidence": "No active ads for the app in the US; excluded Journi (photo journal), Journee and other unrelated advertisers. Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads).",
+  "reddit_notes": "No Reddit mentions in Google results; the name is generic, results are about competitors (Jomo, Ember, Pause, Blockrr, ScreenBreak)."
+},
+"6742422198": {
+  "differentiator": "'Canva for running': instead of another tracker, a tool that turns workouts from Apple Health/Garmin into aesthetic stat templates for Instagram Stories, plus Runcam, which records a workout with live stats.",
+  "specifics": [
+   "Core mechanic: activity sync, 45+ stat templates, editor with a photo, copy to clipboard.",
+   "What's shareable: everything; the whole product is a shareable output for Stories.",
+   "Social layer: feed and an emerging community ('Strava + Instagram').",
+   "Monetization: estimate freemium; a review mentions a forced watermark."
+  ],
+  "psych": "Identity ('I'm a runner') and social proof through sharing; \"Became a runner because of this app.\"",
+  "developer_type": "small team / startup (Aura Movement Technology, Inc., 1 app; founder Zach is mentioned in reviews)",
+  "build_notes": "HealthKit/Health Connect, Strava/Garmin API, template editor (canvas rendering), camera with overlay stats, route maps, backend for the feed. Biggest risk: editor performance and sync (complaints about crashes and slow syncing).",
+  "hook": "A Strava screenshot is boring, here's what my workout looks like when I style it for Stories.",
+  "monetization": "Estimate: freemium with a watermark on the free version; prices aren't visible in the listing.",
+  "complaints": [
+   "Bugs and editor crashes when adding elements (~3)",
+   "Onboarding and sign-in problems (Google/Apple only) (~3)",
+   "Slow activity syncing (~2)",
+   "Forced watermark (~1)"
+  ],
+  "suggestions": [
+   "Sign-in with email",
+   "Faster sync with the watch",
+   "More fonts/serif styles in templates"
+  ],
+  "praise": [
+   "Design and aesthetics of the templates",
+   "Developer quickly ships feedback",
+   "A better alternative to Strava for sharing"
+  ],
+  "opportunity": "Expand from running to other habits (gym, reading, streaks) as shareable progress cards; the review sample seems partly 'friendly' (founder mentions), so organic demand needs to be verified.",
+  "growth": "Launched 2025-08-11, 2,479 ratings (average 4.92), ~5.8 ratings/day, no tracking flag. Reviews 30d: 4 vs 10: slowing down.",
+  "confidence": "medium",
+  "marketing_evidence": "No active ads for the app in the US; exact phrase 2 unrelated results, excluded AuraBloom (a different brand).",
+  "reddit_notes": "Moderate organic presence in running communities; Share Aura is used as a reference app for running graphics, and competitors (Self Share and others) mention it in their launch posts. The thread 'Anyone using Share Aura' is identically cross-posted in two subreddits, probably competitor promotion. Tone positive, no UGC ads."
+},
+"6760949346": {
+  "differentiator": "An alarm with no snooze button: it turns off only when the camera counts a set number of push-ups or squats, so you're awake and have already done a small workout.",
+  "specifics": [
+   "Core mechanic: alarm + choice of exercise and number of reps, real-time camera counting, no snooze.",
+   "What's shareable: a video of morning reps in pajamas, a streak of mornings without being late (estimate; the description doesn't mention sharing).",
+   "Social layer: none in the data.",
+   "Monetization: mandatory subscription, a user mentions the annual plan; prices aren't visible."
+  ],
+  "psych": "Friction up front: you can't turn off the alarm until your body moves, and the day starts with a small win. Evidence: 'it really makes you get out of bed!!'",
+  "developer_type": "small team (MMCH Digital Solutions LLC, 2 apps)",
+  "build_notes": "On-device pose detection (Apple Vision / ML Kit pose), rep counting, AlarmKit (iOS 26) and AlarmManager/full-screen intent on Android, paywall. Biggest risk: alarm reliability when the app is closed and counting accuracy in low light.",
+  "hook": "'My alarm won't turn off until I do 20 push-ups: day 1 vs day 30.'",
+  "monetization": "Hard paywall, subscription (annual is mentioned); users overwhelmingly refuse to pay 'for an alarm'.",
+  "complaints": [
+   "You have to pay for the basic alarm function (~5)",
+   "Rep detection is unreliable, counts fewer so you do double (~1)",
+   "Alarm rings even though it's turned off (~1)"
+  ],
+  "suggestions": [
+   "A free basic alarm with one exercise",
+   "More reliable person detection without adjusting the phone"
+  ],
+  "praise": [
+   "Really gets you out of bed (~3)",
+   "Combines waking up and a fitness habit (~3)"
+  ],
+  "opportunity": "Freemium with one free exercise, a streak of mornings and a weekly challenge with friends ('who got up first'); focus on alarm reliability above all.",
+  "growth": "Launched 22.4.2026, 735 ratings, ~4.25 ratings/day; reviews 30d 2 vs 2. Fast start for a new app, stable pace.",
+  "confidence": "medium",
+  "marketing_evidence": "Exact phrase 'AlarmFit' returns 0 results in the US; unordered only unrelated advertisers (FitSleeps, Hears...). The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "No Reddit mentions in Google results; all hits are the user u/AlarmFit (gaming comments), unrelated to the app."
+},
+"6748418458": {
+  "differentiator": "Looksmaxxing turned into a 30-day habit program: an AI face scan gives a score and tracks change, with only 3 tasks a day (skin, sleep, water, sun, posture) and a streak that resets.",
+  "specifics": [
+   "Core mechanic: daily/weekly AI face scan, a plan of 3 tasks a day, a 30-day streak with reset.",
+   "What's shareable: before/after scans and the score (estimate; looksmaxxing is a strong TikTok format).",
+   "Social layer: none.",
+   "Monetization: hard paywall, subscription required for scans and plans (~$30, from a review)."
+  ],
+  "psych": "Quantifying appearance gives tangible proof of progress, and the 30-day streak protects consistency. Evidence: 'I look better than Marlon' after 6 months.",
+  "developer_type": "small team (Metellus Productions LLC, 5 apps; estimate: a small consumer app studio)",
+  "build_notes": "Camera + on-device face detection (Vision/ML Kit) and an LLM/vision API for the 'score' and tips; task plan generation; local photo storage. Biggest risk: credibility and ethics of rating appearance (body image among 18-24s), stability of task generation.",
+  "hook": "'I let AI rate my face every day for 30 days: here's what sleep, water and sun did.'",
+  "monetization": "Hard paywall, subscription ($30 is mentioned); a large share of negative reviews come from minors who can't pay.",
+  "complaints": [
+   "You have to pay before seeing anything, 20-minute intro then paywall (~8)",
+   "After an update it asks for payment again and resets the program (~1)",
+   "Tasks repeat, stuck on the same 6 (~1)",
+   "The information is available for free on YouTube (~1)"
+  ],
+  "suggestions": [
+   "A free trial scan before the paywall",
+   "Deleting and retaking photos",
+   "More varied tasks after the first 30 days"
+  ],
+  "praise": [
+   "Detailed analysis and a realistic plan",
+   "Concrete tips for style and routine",
+   "Motivation and a sense of visible change"
+  ],
+  "opportunity": "A free first scan as a viral entry point, shareable before/after cards, and a focus on habits (sleep, skin, workouts) instead of a 'beauty score'; add competition with friends on consistency, not looks.",
+  "growth": "About 7.3 ratings per day since July 2025, but only 1 review in 30 days vs 0 prior; review volume is low and the pace looks slowed (estimate: campaign waves).",
+  "confidence": "low",
+  "marketing_evidence": "No active ads for the app in the US. 'Mogged' (57) returns looksmaxxing ads from other brands (Norse Organics, Ascend Skin, Tallmenshoes) that use the word 'mogged'; 'moggedup' and 'Mogged app' 0 results. The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "No confirmed mentions of this app. Numerous developer posts (r/iosapps 80+ comments, r/buildinpublic, r/AppBusiness, ~6 months ago) refer to a DIFFERENT app, 'Mogged - AI Face Rating & Glow' (id6757205994), which targets the same looksmaxxing niche and takes over Umax searches through Apple Search Ads."
+},
+"1572515807": {
+  "differentiator": "A screen time blocker where you earn minutes for TikTok/Instagram with push-ups, squats or steps counted by the camera, plus a limit per open and group screen-time challenges.",
+  "specifics": [
+   "Core mechanic: a pause before opening + a minute bank + push-up camera",
+   "What's shareable: drop in screen time, number of push-ups",
+   "Social layer: accountability partners and group challenges (limited on Android)",
+   "Monetization: freemium (1 blocked app free), more expensive premium, free for students"
+  ],
+  "psych": "Reward for action: scrolling is earned through physical effort: 'Finishing your squats, pushups, or steps feels like you've completed something'.",
+  "developer_type": "small team (Clearspace Technologies, Inc., 2 apps; estimate: a small startup)",
+  "build_notes": "Screen Time API (DeviceActivity, shield), Vision pose detection for push-ups and squats, HealthKit steps, backend for groups. Biggest risk: accuracy of movement counting and session reliability.",
+  "hook": "Want 10 minutes of TikTok? Give me 20 push-ups, the phone counts.",
+  "monetization": "Freemium; premium for more blocked apps (price not visible, 'pretty expensive'); premium is free for students.",
+  "complaints": [
+   "Session bugs, loses earned minutes (~7)",
+   "Push-up counting is unreliable (~6)",
+   "Only 1 app free (~4)",
+   "Can't delete the account or cancel the subscription (~3)"
+  ],
+  "suggestions": [
+   "Better push-up detection",
+   "Share-to from the blocked app without browsing",
+   "More blocks in the free version",
+   "Android parity for group challenges",
+   "A cheaper or free basic plan (complaints that the subscription is a hassle)"
+  ],
+  "praise": [
+   "The only app that reduced screen time (~8)",
+   "Push-ups as a bonus gym (2)",
+   "Free version is enough, free for students (2)"
+  ],
+  "opportunity": "Reliable movement detection (more exercises), stable sessions and social 'earn your scroll' challenges with friends as the main viral engine.",
+  "growth": "Since 2021-07; ~4.7 ratings/day (8,898). Reviews 30d 3 vs 5: a mature app, stably low.",
+  "confidence": "high",
+  "marketing_evidence": "No ClearSpace (screen time app) advertiser in the US; results unrelated (Vinted, IKEA, Pocket FM...). The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "Strong, long-running organic presence (2-3 years) in r/nosurf, r/digitalminimalism, r/ADHD; often cited as the iOS standard alongside One Sec and Opal, and competitors mention it as a reference. Tone positive, the only frequent complaint is price. No UGC ads."
+},
+"6753698904": {
+  "differentiator": "Blocks apps until you do a daily number of push-ups, and the camera counts reps on its own. Plus ranks, 'aura' and streaks for Gen Z.",
+  "specifics": [
+   "Core mechanic: Screen Time blocking + push-up counting via camera or floor detection",
+   "What's shareable: rank/aura, total push-up count, progress (e.g. 15 → 30 in a week)",
+   "Social layer: only competing with yourself",
+   "Monetization: free core function, Pro subscription (total stats and extras)"
+  ],
+  "psych": "Friction as a toll: scrolling is paid for with push-ups. Evidence: 'I followed through and I'm on day 80.'",
+  "developer_type": "solo (David Koontz, personal name, 5 apps)",
+  "build_notes": "Screen Time API (FamilyControls), pose detection (Vision/ML Kit), streaks and ranks. Biggest risk: counting accuracy (the most common complaint) and an Android equivalent of blocking.",
+  "hook": "'Instagram is locked until I do 30 push-ups' + split-screen phone and push-ups.",
+  "monetization": "Freemium: basics free, annual Pro subscription.",
+  "complaints": [
+   "Inaccurate push-up counting (7)",
+   "Lost progress after an update (1)",
+   "Too much behind Pro (2)"
+  ],
+  "suggestions": [
+   "Squats and other exercises",
+   "Total push-up count for free",
+   "Choosing which apps to block"
+  ],
+  "praise": [
+   "Really reduces screen time",
+   "Consistency and visible progress",
+   "Free basic version"
+  ],
+  "opportunity": "More reliable counting, more exercises and a social layer (daily friends ranking, 'who unlocked their phone first').",
+  "growth": "3.54 ratings/day since launch (2025-11-20, 326 days, 1,152 US ratings, average 4.72); reviews 30d: 2 vs 4 in the prior 30d. A young app with a good rating pace; reviews are declining (2 vs 4), but the audience is clearly teenagers and Gen Z.",
+  "confidence": "high",
+  "marketing_evidence": "No active ads in the US. Exact phrase 'PushUpLock' 0 results, 'Push Up Lock' 1 result (Trichon Labs, unrelated); a plain search returns 50,000 unrelated. The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "No Reddit mentions in Google results (both searches with zero hits)."
+},
+"6651826679": {
+  "differentiator": "A screen time limiter where, when your time runs out, your real friends decide whether you get more minutes; you have to 'beg' them, and they can refuse and troll you.",
+  "specifics": [
+   "Core mechanic: daily limit per app, asking friends for more time, approve/deny",
+   "What's shareable: funny requests and friends' replies ('beg', 'pathetic')",
+   "Social layer: key; friends as controllers, use in pairs",
+   "Monetization: free blocking of one app, subscription for more (users say it's affordable)"
+  ],
+  "psych": "Social accountability and mild embarrassment in front of friends are stronger than a 'another 15 minutes' button. Evidence: 'helps my insta addiction and embarrasses me if i try to give in'.",
+  "developer_type": "solo (Ryan Moazzami, personal name, 2 apps; reviews: 'made by a young person', responsive creator)",
+  "build_notes": "Screen Time API (FamilyControls/DeviceActivity, Apple entitlement), Android version via AccessibilityService (doesn't currently exist), backend for friends and real-time push requests. Biggest risk: reliability of time counting (bug that blocks after 12 min) and the entitlement.",
+  "hook": "'I gave my best friend control over my TikTok, here's how I begged her for 10 minutes.'",
+  "monetization": "Freemium: 1 app free, subscription for more; users accept it as affordable.",
+  "complaints": [
+   "Time counting bugs, blocks too early (3)",
+   "App groups don't add up time as expected (2)",
+   "No Android version, friends on Android can't join (1)",
+   "Username problem after reinstalling (1)"
+  ],
+  "suggestions": [
+   "Combining a daily limit and allowed hours",
+   "A shared limit for a group of apps",
+   "Android version"
+  ],
+  "praise": [
+   "The only screen time app that actually works (5+)",
+   "Fun and funny, friends troll",
+   "Responsive creator"
+  ],
+  "opportunity": "A cross-platform version with reliable counting and group 'squad' limits, plus a shareable screenshot of requests as a built-in viral format.",
+  "growth": "Launched 2025-09-03, 611 ratings over about 404 days, about 1.51 ratings/day; reviews 2 vs 4; organic growth with no tracking flag.",
+  "confidence": "high",
+  "marketing_evidence": "Exact phrase 'Friend Controls' 0 results; a plain search (5,100) returns unrelated ones (Bark - Parental Controls and others)."
+},
+"6743036247": {
+  "differentiator": "A workout generator packaged as an RPG 'level up' (Solo Leveling aesthetic): daily quests, rank (E, D, C...), points and an XP penalty if you skip a workout.",
+  "specifics": [
+   "Core mechanic: daily quests from a personalized plan, XP and rank, a point penalty for a missed workout",
+   "What's shareable: rank/level and the 'aura farm' aesthetic, body transformation (estimate)",
+   "Social layer: only a Discord link (per a review it doesn't work); no leaderboard, users are asking for it",
+   "Monetization: hard paywall, $15/month or $50/year"
+  ],
+  "psych": "Gamified progress through rank and fear of losing XP points; users praise that it isn't 'corny'. Evidence: 'gamifies weight-lifting without making it corny'.",
+  "developer_type": "small team / mini studio (Digital Lions Apps S.L., 4 apps; Spain)",
+  "build_notes": "Plan generator (rules or LLM), exercise library with animations (could be a licensed pack), XP/rank system, account and sync, subscriptions. Biggest risk: auth/restore purchase bugs (the main complaint) and exercise content quality.",
+  "hook": "'I treat the gym like Solo Leveling: today I went from E to D rank' - a video of the rank screen, then the workout.",
+  "monetization": "Hard paywall, $15/month or $50/year, no free tier; strong resistance because the App Store shows 'free', but some users pay annually.",
+  "complaints": [
+   "Paywall without warning, no free trial (~13)",
+   "Logout and loss of subscription/points after paying, login loop (~11)",
+   "No support, Discord link doesn't work (~5)",
+   "Missing features: forearm exercises, widget, Apple Watch (~6)"
+  ],
+  "suggestions": [
+   "An online leaderboard to compete with others",
+   "Widgets and Apple Watch",
+   "Macro and nutrition tracking",
+   "Surprise bonus quests (e.g. a run)",
+   "Users ask for a free version or a cheaper alternative - the paywall is the main complaint"
+  ],
+  "praise": [
+   "Workout gamification that isn't childish",
+   "Nice UI and the 'level up in real life' concept",
+   "Personalized plan and daily quests"
+  ],
+  "opportunity": "The same RPG mechanic with a reliable account, a small free tier and a social layer (friends leaderboard, guild challenges) that users explicitly ask for.",
+  "growth": "~37.6 ratings/day since April 2025 (20,978 ratings over ~18 months); reviews 30d = 24 vs 32: slight decline; with the tracking flag, likely paid ads (a review mentions an 'ad').",
+  "confidence": "medium",
+  "marketing_evidence": "16 active ads in the US (12 cards), all launched 15-21.9.2026; a new campaign, none running 60+ days. Excluded 'Solo Leveling:ARISE' (game) and 'Arise Homes'.",
+  "reddit_notes": "Moderate mentions; threads with 50-100+ comments arise because people see the ads and ask whether the app is legit. Tone mixed, the main complaint is that the app isn't free; early developer posts from 2025."
+},
+"1621719397": {
+  "differentiator": "A gym log that turns your lifts into a Strength Score and rank (lifts compared to animals), with groups that compete in challenges.",
+  "specifics": [
+   "Core mechanic: set logging, Strength Score and rank per muscle group, AI coach",
+   "What's shareable: rank and workout summary (screenshot)",
+   "Social layer: lifting groups and challenges",
+   "Monetization: $39.99/year subscription, 7-day trial, no free tier"
+  ],
+  "psych": "A quantified rank gives identity and competition: 'I got my friend into it and it really motivates us to go'.",
+  "developer_type": "small team: Atlas Smart Technologies LTD with 3 apps",
+  "build_notes": "Exercise database with GIFs (licensed or off-the-shelf), logging, backend for groups, AI plan. Biggest risk: size of the exercise database and logging UX.",
+  "hook": "The app says my bench is worth a gorilla, what's yours worth?",
+  "monetization": "$39.99 annual subscription; some users consider the price fair, some complain about the lack of a free tier.",
+  "complaints": [
+   "Hard paywall, stuck trial screen (~7)",
+   "New UI broke history and features (~6)",
+   "Bugs: weight entry, crashes during workouts (~6)",
+   "Charged after cancelling (~3)"
+  ],
+  "suggestions": [
+   "Rest timer on Dynamic Island",
+   "Auto-finish a forgotten workout",
+   "'You vs yourself' rank",
+   "Bring back the quick workout summary for screenshots"
+  ],
+  "praise": [
+   "Easy workout logging",
+   "Rank system and comparison with animals",
+   "Motivation with friends"
+  ],
+  "opportunity": "A 'you vs yourself' rank plus a shareable rank card after every workout, without a hard paywall at the start.",
+  "growth": "10.99 ratings per day since May 2022; reviews 30d 6 vs 16, decline after the problematic UI update.",
+  "confidence": "medium",
+  "marketing_evidence": "No active ads in the US. 'Stronger Gym' 23,000 unrelated (Fitbod, BetterMe are competitors); 'Stronger app' only the SCU university; 'Strength Score' and 'Atlas Smart Technologies' have no app advertisers. The app has a tracking flag, so ads outside Meta or via persona pages are possible (unconfirmed).",
+  "reddit_notes": "Almost no mentions; the only thread is a promotional post by the founder from a user profile. The name gets confused with Strong, Stronger by the Day and Stronger By Science, no organic recommendations were found, no UGC ad found."
+},
+"1631305261": {
+  "differentiator": "A focus timer for students where every session adds a tile to a shared garden with friends, and apps are blocked while the session lasts.",
+  "specifics": [
+   "Core mechanic: focus/Pomodoro sessions with app blocking, flashcards with spaced repetition, AI assistant.",
+   "What's shareable: shared garden and streaks (estimate).",
+   "Social layer: shared gardens, tracking friends' streaks, likes and invites.",
+   "Monetization: subscription (~$200 per year is mentioned), tile purchases."
+  ],
+  "psych": "A group garden turns focus into a shared project and accountability. Evidence: 'I love the gardens!'",
+  "developer_type": "small team (Focus Labs, 1 app)",
+  "build_notes": "Screen Time API / Android UsageStats, backend for friends and gardens, tile editor, flashcards, LLM. Biggest risk: blocking reliability and scope (garden + flashcards + AI) for 2 months.",
+  "hook": "'My friends and I build a garden only when we study: here's what it looks like after exam season.'",
+  "monetization": "Subscription and in-app purchases; users complain that basic features are locked.",
+  "complaints": [
+   "Account and sign-in problems (phone, code) (~5)",
+   "Degradation after paid features, limited allowed apps (~3)",
+   "AI 'slop' and the new icon (~3)",
+   "School isn't on the list (~2)"
+  ],
+  "suggestions": [
+   "Selling and trading tiles",
+   "Moving tiles added by others",
+   "More tile types (riverbank)"
+  ],
+  "praise": [
+   "Shared gardens with friends (~4)",
+   "App blocking helps studying (~6)",
+   "Better exam grades (~3)"
+  ],
+  "opportunity": "Keep the core (garden + blocking), drop the AI excess and focus on challenges between classes; email sign-in and no school list.",
+  "growth": "Launched 24.10.2022, 5,710 ratings, ~3.94 ratings/day; reviews 30d 3 vs 3. Stable; claims 2M+ users, reviews mention ads.",
+  "confidence": "medium",
+  "marketing_evidence": "Exact phrase 'Focus Tree' returns 0 active ads in the US. Meta Ad Library is empty, but reviews point to paid marketing (e.g. TikTok or Instagram ads).",
+  "reddit_notes": "Moderate organic presence among students (r/GetStudying, university subreddits, UK Post_16); positioned as a bug-free alternative to Forest, with offline tracking and a pomodoro timer. Tone positive. Some comments (r/SharkAdvice) look promotional. No UGC ads."
+},
+"6755542324": {
+  "differentiator": "An alarm with no snooze button: it turns off only when the camera counts a set number of push-ups (or sit-ups), works offline and breaks through Do Not Disturb mode.",
+  "specifics": [
+   "Core mechanic: camera counts reps, adjustable number, push-ups, sit-ups or knee push-ups",
+   "What's shareable: nothing in the app",
+   "Social layer: none",
+   "Monetization: subscription (over $10 monthly according to reviews), paywall after the onboarding test; early users got lifetime"
+  ],
+  "psych": "A commitment made in advance, with physical effort that wakes you up and builds a morning exercise habit. Evidence: “Hold yourself accountable before the time to do so.”",
+  "developer_type": "solo (Iuri Jorbenadze, 1 app; the description states a solo developer)",
+  "build_notes": "AlarmKit or critical alerts on iOS, full-screen intent on Android; on-device pose detection (Vision / ML Kit). Biggest risk: alarm reliability and full-body detection in the small frame of a phone on the floor.",
+  "hook": "The only way to turn off my alarm is 20 push-ups — day 1 vs day 30.",
+  "monetization": "Subscription (over $10 monthly per reviews), paywall after the onboarding test; early users have lifetime.",
+  "complaints": [
+   "Subscription for an alarm, paywall revealed only at the end of onboarding (~9)",
+   "Camera doesn't capture the whole body, hard to position the phone (~4)",
+   "After an update the alarm repeats in a loop or doesn't ring (~4)",
+   "Alarm isn't loud enough (~1)"
+  ],
+  "suggestions": [
+   "A louder alarm and easier import of your own sound",
+   "Detection that needs only the upper body",
+   "A cheaper or free basic tier",
+   "Squats/jumps as an alternative to push-ups (already partly supported)"
+  ],
+  "praise": [
+   "Really wakes you up and breaks the snooze loop (most reviews)",
+   "Builds a morning push-up habit",
+   "Can't be turned off by silencing the phone"
+  ],
+  "opportunity": "Combine the Pushy and Nooze approaches: a reliable alarm with multiple missions, a shared wake-up streak with friends and a shareable short '7:00 proof' video; a clear free tier for one alarm.",
+  "growth": "941 ratings over ~318 days (2.96/day); reviews 7 in 30d vs 12 — slowing after the subscription was introduced.",
+  "confidence": "high",
+  "marketing_evidence": "No active ads in the US. 'Pushy push ups' (43) and 'Pushy alarm' (~210) have no app advertiser; excluded Aero-Swing ('pushy swing').",
+  "reddit_notes": "Numerous mentions in r/GetOutOfBed over ~12 months, but a large share are developer comments (openly 'I've created') and templated recommendations ('search Pushy push ups alarm'), so the organic share is unclear. Tone positive. The UGC search was NOT done (Google CAPTCHA), ugc_hiring was not checked."
+},
+"6782149051": {
+  "differentiator": "75 Hard for girls: an aesthetic 75-day challenge where you pick your own 'that girl' habits, prove them with a photo and do it with friends via a code.",
+  "specifics": [
+   "Core mechanic: a personal daily list (workout, water, reading, skincare, no phone in bed), 75 days in a row, photo proof",
+   "What's shareable: the aesthetic look of the list and progress, photo proofs (estimate)",
+   "Social layer: inviting friends with a code and seeing their daily progress",
+   "Monetization: paid, no free version (~$5 per a review)"
+  ],
+  "psych": "A group challenge with public commitment and a streak: 'The majority of women who finished the challenge had someone doing it with them' (from the description); reviews show the hook is strong, but users expect more than a list.",
+  "developer_type": "Solo developer (estimate): individual Iurii Frolov, 3 apps.",
+  "build_notes": "Habit list, streak calendar, photo proofs (storage), friend code and progress feed (backend), aesthetic UI, widgets. Biggest risk: the perception of 'just a checklist' and retention after the first days.",
+  "hook": "Day 1 of 75 of my Baddie Protocol – who's with me? Enter the code.",
+  "monetization": "Paid app/subscription with no free version; reviews mention ~$5; marketing via TikTok (per a review, AI-generated video).",
+  "complaints": [
+   "'Just a checklist' for money (3)",
+   "No free version (2)",
+   "Marketing with AI videos on TikTok feels misleading (1)"
+  ],
+  "suggestions": [
+   "A free version (1)",
+   "More content: programs, workouts, meal ideas (derived from complaints)"
+  ],
+  "praise": [
+   "Reliable and 'exactly what I was looking for'"
+  ],
+  "opportunity": "The same challenge with a stronger group layer (a group streak that breaks if one person quits, a shareable daily group photo collage) and a free start; this addresses the 'just a list' complaint and provides a viral format.",
+  "growth": "2.29 ratings/day (249 ratings over 109 days) – a good start for a very new app; reviews 30d: 0 vs 2 – small sample, no signal of acceleration.",
+  "confidence": "medium",
+  "marketing_evidence": "No active ads in the US. Exact phrase 'Baddie Protocol' and 'Baddie app': 0 results."
+}
+}

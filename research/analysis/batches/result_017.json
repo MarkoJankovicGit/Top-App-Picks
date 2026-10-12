@@ -1,0 +1,303 @@
+{
+  "6478773954": {
+    "name": "Fasting Tracker • Easy Fast",
+    "exclude": false,
+    "list": "B",
+    "principle": "Vidljiv napredak",
+    "differentiator": "Tajmer posta koji uživo pokazuje faze tela (ketoza, sagorevanje masti, autofagija) po satu, uz izdašan besplatan nivo bez reklama i naloga. Granično zbog rizika poremećaja ishrane i slabijeg uklapanja u Gen Z narativ.",
+    "specifics": [
+      "Ključna mehanika: start/stop tajmer posta (16:8, 18:6, Flexi), faze tela po satu, praćenje vode i težine, izmena istorije",
+      "Šta je deljivo: završen post i faza tela ('18h - autofagija') - procena, deljenje nije opisano u podacima",
+      "Društveni sloj: ne postoji u podacima",
+      "Monetizacija: besplatna osnova, Pro (OMAD, 20:4, programi, widgeti, Live Activities, Apple Watch); recenzija navodi $9.99/mes ili $49.99/god"
+    ],
+    "psych": "Vidljiv napredak kroz faze tela drži korisnika u postu do sledećeg praga. Dokaz: 'It's so helpful and helps me stay in my fast.'",
+    "developer_type": "solo: opis kaže 'I'm a solo developer', Samtark Pty Ltd, 2 aplikacije",
+    "build_weeks": 4,
+    "build_notes": "Lokalna baza, tajmer sa notifikacijama, HealthKit (težina, voda), widgeti, Live Activities, Apple Watch; bez backend-a za MVP. Najveći rizik: pouzdano čuvanje posta (recenzije: post se ne sačuva, gubitak podataka posle ažuriranja) i zdravstveni/ED rizik u komunikaciji.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 3,
+    "hook": "'Šta se dešava u tvom telu u 16. satu posta' - tajmer se puni dok se pale faze tela.",
+    "monetization": "Freemium: osnovno besplatno bez reklama; Pro pretplata ~$9.99/mes ili $49.99/god (iz recenzije); deo korisnika traži jednokratnu kupovinu.",
+    "complaints": [
+      "Prelazak sa besplatnog na trial/pretplatu, 'sell out' (~3)",
+      "Post se ne sačuva ili se izgubi istorija posle ažuriranja (~2)",
+      "Promoviše poremećaje ishrane / neodgovarajuća starosna oznaka 4+ (~2)",
+      "Prisilno ažuriranje da bi se aplikacija otvorila (~1)"
+    ],
+    "suggestions": [
+      "Jednokratna Pro kupovina",
+      "Apple Shortcuts podrška",
+      "Widgeti koji prikazuju aktivni post"
+    ],
+    "praise": [
+      "Jednostavnost, bez reklama i bez nagovaranja na pretplatu",
+      "Prikaz faza posta po satu",
+      "Flexi plan i izmena vremena početka"
+    ],
+    "opportunity": "Dodati društveni sloj (zajednički post sa prijateljem, deljiva kartica završenog posta) i nizove, uz jasne zaštitne mehanizme protiv ekstremnog posta za mlađu publiku.",
+    "growth": "Izlazak 2024-03-05, ~9,4 ocene dnevno (8.968 ukupno, prosek 4,96); recenzije 4 u 30d naspram 6 prethodnih - stabilno, bez ubrzanja.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 5,
+      "buildEase": 5,
+      "voiceOfCustomer": 3,
+      "monetization": 3,
+      "principleFit": 3
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/fasting-tracker-easy-fast/id6478773954",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6730116702": {
+    "exclude": true,
+    "exclude_reason": "GLP-1/medikamentni tracker sa AI skeniranjem hrane (klinički domen vezan za terapiju). Prodavac VOCALBEATS.AI sa 5 aplikacija, oznaka praćenja; recenzije masovno prijavljuju tvrdi paywall i netačan AI unos.",
+    "name": "Glowise: GLP-1 Tracker & Diary"
+  },
+  "6753029718": {
+    "name": "Rewired: Defeat Lust Now",
+    "exclude": false,
+    "list": "B",
+    "principle": "Odvikavanje i oporavak",
+    "differentiator": "NoFap aplikacija za mlade muškarce sa brojačem niza, hitnim alatima za trenutke poriva i 'dopamine reset' rutinama, iza tvrdog paywalla posle kviza. Granično jer je tema nezgodna za mainstream influencere, a publika je delom maloletna.",
+    "specifics": [
+      "Ključna mehanika: kviz/test na početku, brojač niza, habit tracker, hitni alati i 'light therapy' sesije, cilj 90 dana",
+      "Šta je deljivo: broj dana niza - procena, tema je privatna pa je deljenje ograničeno",
+      "Društveni sloj: 'Community Support' u opisu, bez detalja",
+      "Monetizacija: 3-dnevni trial pa pretplata; recenzije pominju $10, $17.25 i $39.99"
+    ],
+    "psych": "Niz dana i strah od resetovanja drže apstinenciju; cilj od 90 dana daje jasan horizont. Dokaz: 'If I do not complete my 90 day goal, I'll do it again.'",
+    "developer_type": "solo ili mali tim (procena): Rewired LLC, 2 aplikacije, politika privatnosti na ličnom github.io",
+    "build_weeks": 4,
+    "build_notes": "Onboarding kviz, brojač niza, lokalne notifikacije, audio/vizuelne sesije, jednostavan backend za zajednicu; opciono Screen Time API za blokiranje. Najveći rizik: Apple review i oglašavanje na temu pornografije, maloletni korisnici i tvrdnje tipa 'naučno' (jedna recenzija optužuje za lažne dijagnostike).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Dan 1 od 90 bez pornografije - pratite me dok ne pređem 30.'",
+    "monetization": "Tvrdi paywall posle onboardinga, 3-dnevni trial pa pretplata (recenzije: $10, $17.25, $39.99); većina negativnih recenzija odbija plaćanje.",
+    "complaints": [
+      "Mora da se plati da bi se uopšte koristilo / 'zašto plaćam da se izlečim' (~15)",
+      "Maloletni korisnici bez kartice ne mogu da koriste (~3)",
+      "Neočekivana naplata posle otkazivanja triala ili pogrešan iznos (~2)",
+      "Fokus samo na muškarce (~1)"
+    ],
+    "suggestions": [
+      "Besplatna osnovna verzija (brojač niza)",
+      "Plaćanje tek posle isprobavanja",
+      "Verzija i za žene"
+    ],
+    "praise": [
+      "Refleksija na početku i jasno praćenje pada",
+      "Osećaj da pomaže u prestanku",
+      "Cilj od 90 dana"
+    ],
+    "opportunity": "Besplatan brojač niza i partner za polaganje računa, a pretplata za hitne alate i analitiku; širi okvir 'dopamine/discipline reset' koji je lakši za oglašavanje od NoFap teme.",
+    "growth": "Izlazak 2025-11-06, ~9,3 ocene dnevno (3.169 za ~11 meseci, prosek 4,81); recenzije 3 u 30d naspram 3 - stabilno; ocene verovatno podstaknute promptom za ocenu u onboardingu (procena).",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 5,
+      "voiceOfCustomer": 4,
+      "monetization": 2,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/rewired-defeat-lust-now/id6753029718",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "6751909914": {
+    "exclude": true,
+    "exclude_reason": "Verski sadržaj (molitve, devocionali, Biblija) je osnovna vrednost; blokiranje aplikacija je samo dodatak. Van niše po pravilu za verski sadržaj.",
+    "name": "Sanctify - Prayers & App Block"
+  },
+  "987136347": {
+    "exclude": true,
+    "exclude_reason": "Firma sa 10 aplikacija (Vocabulous US, od 2015), vrednost počiva na urednički kuriranoj bazi reči i igrama; monetizacija preko dugih reklama koje korisnici odbijaju. Zreo proizvod firme, ne mali developer.",
+    "name": "Word of the Day・Vocabulary"
+  },
+  "6782316565": {
+    "name": "Pushup RPG: Fitness Quest",
+    "exclude": false,
+    "list": "A",
+    "principle": "Takmičenje i rang",
+    "differentiator": "Sklekovi i čučnjevi kao kontroler za RPG: kamera broji ponavljanja, svako ponavljanje udara čudovište, a u duelu uživo sa prijateljem pomera konopac kao u potezanju. Snimak duela se deli.",
+    "specifics": [
+      "Ključna mehanika: on-device brojanje ponavljanja kamerom, borbe protiv bosova, XP, zlato, oprema, nivoi; čučnjevi ravnopravni sa sklekovima",
+      "Šta je deljivo: snimak celog duela od 40 sekundi sa konopcem",
+      "Društveni sloj: duel uživo sa prijateljem, Arena sa nasumičnim protivnikom, gilde sa nedeljnim bosom, rang liste po vežbi",
+      "Monetizacija: besplatno; postoji članarina (recenzija pominje kupljen membership), cene nisu vidljive"
+    ],
+    "psych": "Takmičenje i igrifikacija pretvaraju seriju u borbu, pa se serija završi. Dokaz: 'Love tracking my friends' progress too. Keeps it fun.'",
+    "developer_type": "solo: Yerasyl Amanbek (fizičko lice), 4 aplikacije",
+    "build_weeks": 8,
+    "build_notes": "Pose detection (Apple Vision / ML Kit, bez sopstvenog modela), real-time duel (WebSocket/Firebase), matchmaking, gilde i rang liste, snimanje kamere + igre, RPG ekonomija. Najveći tehnički rizik: tačnost brojanja pri brzim ponavljanjima i različitim uglovima kamere (glavna žalba), zatim sinhronizacija duela uživo.",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": true,
+      "creator_format": true,
+      "shareable": true
+    },
+    "marketability_score": 4,
+    "hook": "'Izazvala sam drugaricu na duel u sklekovima - telefon broji, konopac odlučuje.'",
+    "monetization": "Besplatno sa članarinom (cena nepoznata); korisnici ističu da je besplatno, pa je spremnost na plaćanje neproverena.",
+    "complaints": [
+      "Kamera ne broji ili pogrešno broji ponavljanja (~6)",
+      "Kamera se okreće bočno / previše zumirana, nema rotacije (~3)",
+      "Na visokim nivoima nemoguće (31+ sklekova za 22s), statovi opreme besmisleni (~2)",
+      "Obrisan nalog i članarina (~1)"
+    ],
+    "suggestions": [
+      "Rotacija i zum kamere za male prostorije",
+      "Sopstvena muzika tokom igre",
+      "Lakše zarađivanje zlata i više stvari za kupovinu",
+      "Više vrsta opreme i vežbi"
+    ],
+    "praise": [
+      "Zabavno i motiviše na vežbanje",
+      "Besplatno",
+      "Praćenje napretka prijatelja i dueli"
+    ],
+    "opportunity": "Pouzdanije brojanje (kalibracija, tolerancija forme), više vežbi (trbušnjaci, plank) i jasna pretplata za kozmetiku i sezonske bosove; TikTok format duela već postoji.",
+    "growth": "Izlazak 2026-06-25, 1.010 ocena za ~3,5 meseca (~9,3 dnevno, prosek 4,85); recenzije 19 u 30d naspram 40 prethodnih - pad posle početnog talasa (recenzija pominje TikTok kao izvor).",
+    "scores": {
+      "marketabilityVirality": 5,
+      "marketingGap": 5,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 5
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pushup-rpg-fitness-quest/id6782316565",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1632352471": {
+    "exclude": true,
+    "exclude_reason": "Kreativni planer za ukrašavanje (stikeri, šabloni, AI slike) - utility/kreativni alat, a ne mehanika navike. Prodavac TULSTAIL sa 3 aplikacije; recenzije gotovo isključivo o paywallu.",
+    "name": "Digital Planner – Task Journal"
+  },
+  "6449196562": {
+    "exclude": true,
+    "exclude_reason": "Osnovna vrednost je AI analiza kože i preporuka proizvoda (kupovina), uz potrebu za velikom bazom kozmetičkih proizvoda i modelom za analizu lica; nije replikabilno za 2 meseca bez licenciranih podataka.",
+    "name": "Skan - #1 Skincare App"
+  },
+  "6499230536": {
+    "exclude": true,
+    "exclude_reason": "Prateća aplikacija za Oasis pametna svetla (Mixtiles) - vrednost je u hardveru.",
+    "name": "Oasis Lights"
+  },
+  "959001619": {
+    "exclude": true,
+    "exclude_reason": "Društvena mreža za razmenu jezika (Tandem, od 2015, milioni korisnika) - zahteva veliku zajednicu, moderaciju i bezbednosni tim; velika firma.",
+    "name": "Tandem: Practice Languages"
+  },
+  "893687399": {
+    "exclude": true,
+    "exclude_reason": "Zreo navigacioni proizvod za bicikliste (od 2014) sa planerom ruta, offline mapama i bibliotekom ruta zajednice; firma i obim van 2 meseca.",
+    "name": "Ride with GPS: Bike Navigation"
+  },
+  "1478980974": {
+    "exclude": true,
+    "exclude_reason": "Generički tracker vode od prodavca sa 9 aplikacija (TMEDILAB), monetizacija agresivnim reklamama; šablon fabrike aplikacija.",
+    "name": "Drink water: Drinking reminder"
+  },
+  "6451746641": {
+    "name": "Arrow: Workout & Macro Tracker",
+    "exclude": false,
+    "list": "B",
+    "principle": "Ocena sebe i kvantifikacija",
+    "differentiator": "Gym tracker koji trening, ishranu i težinu svodi na jedan broj (Arrow Score: snaga, ishrana, doslednost) uz trofeje, nedeljne questove i nizove. Granično zbog obima izrade (AI skeniranje hrane, adaptivni TDEE) i jakog otpora novom paywallu.",
+    "specifics": [
+      "Ključna mehanika: log treninga i PR-ova, adaptivni TDEE, trend težine, AI skeniranje obroka, Arrow Score, trofeji, nedeljni questovi, niz dana",
+      "Šta je deljivo: Arrow Score i PR-ovi - procena, deljenje nije opisano",
+      "Društveni sloj: ne vidi se u podacima",
+      "Monetizacija: Gold i Diamond pretplate; recenzije: $17/god, $80 za zadržavanje podataka"
+    ],
+    "psych": "Jedan broj koji raste i niz dana pretvaraju trening u igru. Dokaz: 'This is like a good game to get them gains.'",
+    "developer_type": "mali tim (procena): LevelUp App Studios LLC, 1 aplikacija (ranije 'Level')",
+    "build_weeks": 8,
+    "build_notes": "Baza vežbi, log setova, grafikoni PR-ova, gamifikacija (score, trofeji, questovi), AI vision za hranu (eksterni LLM), adaptivni TDEE, HealthKit. MVP bez ishrane ~6 nedelja; pun obim graniči sa 2 meseca. Najveći rizik: brzina i offline rad u teretani (recenzije: sporo, pada).",
+    "marketability": {
+      "one_sentence": true,
+      "visual_3s": false,
+      "creator_format": true,
+      "shareable": false
+    },
+    "marketability_score": 2,
+    "hook": "'Moj gym score je bio 41 - evo šta sam promenio da dođem do 80.'",
+    "monetization": "Pretplata Gold/Diamond; nedavni paywall na ulazu i premeštanje plaćenih funkcija u viši nivo izazvali talas 1-zvezdica.",
+    "complaints": [
+      "Novi tvrdi paywall i dugačak onboarding čak i za postojeće korisnike (~9)",
+      "Sporo, pada, gubi niz (~4)",
+      "Plaćene funkcije premeštene u skuplji nivo (~3)",
+      "Novi UI i netačne statistike (~3)"
+    ],
+    "suggestions": [
+      "Offline logovanje u teretani",
+      "Apple Watch / Apple Health integracija",
+      "Kalendar treninga po mesecu/godini",
+      "Kardio da ne bude obavezan u nedeljnim questovima"
+    ],
+    "praise": [
+      "Treniranje kao igra, motivacija",
+      "Praćenje PR-ova i volumena",
+      "Tim koji stalno unapređuje aplikaciju (stariji korisnici)"
+    ],
+    "opportunity": "Brz offline gym log sa score-om u Arrow stilu, uz prijatelje i rang listu po teretani; pošten freemium bez zaključavanja postojećih podataka.",
+    "growth": "Izlazak 2023-12-23, ~8,8 ocena dnevno (9.054, prosek 4,79); recenzije 0 u 30d naspram 4 - pad aktivnosti posle promene monetizacije u 2026.",
+    "scores": {
+      "marketabilityVirality": 3,
+      "marketingGap": 3,
+      "buildEase": 3,
+      "voiceOfCustomer": 5,
+      "monetization": 3,
+      "principleFit": 4
+    },
+    "confidence": "srednja",
+    "sources": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/arrow-workout-macro-tracker/id6451746641",
+        "date": "2026-10-12"
+      }
+    ],
+    "checked": "2026-10-12"
+  },
+  "1635707277": {
+    "exclude": true,
+    "exclude_reason": "Biblioteka 500+ video treninga od prodavca sa 8 aplikacija (ENERJOY); fabrika aplikacija sa agresivnom naplatom, ciljna grupa starija.",
+    "name": "Light: Chair Yoga Plan"
+  },
+  "6748642404": {
+    "exclude": true,
+    "exclude_reason": "Video biblioteka chair yoga/pilates za seniore i srednje godine (PROMIN APPS); vrednost je u profesionalnom video sadržaju, publika nije 18-24, recenzije prijavljuju spornu naplatu.",
+    "name": "Yogio: Chair Yoga & Pilates"
+  }
+}

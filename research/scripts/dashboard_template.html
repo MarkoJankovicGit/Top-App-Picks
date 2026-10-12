@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Top App Picks</title>
+<style>
+:root{--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#6e6e73;--faint:#86868b;--line:#e5e5ea;--blue:#0071e3;--blue-bg:#e8f1fc;--green:#1a7f37;--green-bg:#e6f4ea;--amber:#9a6200;--amber-bg:#fdf3dc;--red:#c9342b;--red-bg:#fdecea;--hover:#fafafc;--radius:14px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body.locked{overflow:hidden}
+.wrap{max-width:1360px;margin:0 auto;padding:28px 16px 64px}
+h1{font-size:28px;font-weight:700;letter-spacing:-.02em;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 20px}
+.funnel{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:16px}
+.f{background:var(--card);border-radius:var(--radius);padding:12px 14px}
+.f b{display:block;font-size:22px;font-weight:700;letter-spacing:-.01em}
+.f span{color:var(--muted);font-size:12px}
+.section{background:var(--card);border-radius:var(--radius);padding:14px 16px;margin-bottom:12px}
+.section h3{margin:0 0 8px;font-size:13px;font-weight:600;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:0;background:var(--bg);color:var(--text);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+.chip span{color:var(--faint);margin-left:4px}
+.chip.on{background:var(--blue);color:#fff}.chip.on span{color:#dbe9ff}
+.note{color:var(--muted);font-size:12.5px;margin:0 0 16px;padding:0 2px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+input,select{font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);max-width:100%}
+input:focus,select:focus{outline:2px solid var(--blue-bg);border-color:var(--blue)}
+.tw{overflow-x:auto;background:var(--card);border-radius:var(--radius)}
+table{border-collapse:collapse;width:100%;min-width:1180px}
+th{position:sticky;top:0;background:var(--card);text-align:left;font-weight:600;font-size:12px;color:var(--faint);padding:12px 10px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap;user-select:none}
+th:hover{color:var(--text)}
+td{padding:12px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.row{cursor:pointer}
+tr.row:hover td{background:var(--hover)}
+.app{display:flex;gap:12px;align-items:flex-start;min-width:240px}
+.icon{width:48px;height:48px;border-radius:11px;flex:none;background:var(--bg);border:1px solid var(--line);object-fit:cover}
+.app a{color:var(--text);font-weight:600;text-decoration:none}
+.app a:hover{color:var(--blue)}
+.small{color:var(--muted);font-size:12px}
+.cat{display:inline-block;color:var(--blue);font-size:12px;font-weight:500;margin-top:2px}
+.tag{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600}
+.tA{background:var(--green-bg);color:var(--green)}.tB{background:var(--amber-bg);color:var(--amber)}
+.num{text-align:right;white-space:nowrap}
+.score{display:inline-block;min-width:40px;text-align:center;padding:4px 8px;border-radius:10px;background:var(--blue-bg);color:var(--blue);font-weight:700}
+.diff{max-width:340px}
+.btn{border:0;background:var(--blue-bg);color:var(--blue);font:inherit;font-weight:600;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.btn:hover{background:var(--blue);color:#fff}
+.btn.ghost{background:var(--bg);color:var(--text)}
+.btn.ghost:hover{background:var(--line);color:var(--text)}
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:opacity .2s;z-index:10}
+.scrim.on{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(640px,100%);background:var(--card);box-shadow:-12px 0 40px rgba(0,0,0,.12);transform:translateX(100%);transition:transform .25s ease;z-index:11;display:flex;flex-direction:column}
+.drawer.on{transform:none}
+.dh{display:flex;gap:14px;align-items:flex-start;padding:20px 20px 14px;border-bottom:1px solid var(--line)}
+.dh .icon{width:72px;height:72px;border-radius:16px}
+.dh h2{margin:0;font-size:20px;letter-spacing:-.01em}
+.dnav{display:flex;gap:6px;margin-left:auto;flex:none}
+.db{overflow-y:auto;padding:16px 20px 32px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin-bottom:18px}
+.kpi{background:var(--bg);border-radius:12px;padding:10px 12px}
+.kpi b{display:block;font-size:17px}
+.kpi span{color:var(--muted);font-size:12px}
+.blk{margin-bottom:18px}
+.blk h4{margin:0 0 6px;font-size:13px;font-weight:600;color:var(--muted);text-transform:none}
+.blk p{margin:0}
+.blk ul{margin:0;padding-left:18px}
+.lead{font-size:15px;line-height:1.5}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+.vbox{border-radius:12px;padding:10px 12px}
+.vbox h5{margin:0 0 4px;font-size:12px}
+.vbox ul{margin:0;padding-left:16px;font-size:13px}
+.vneg{background:var(--red-bg)}.vneg h5{color:var(--red)}
+.vsug{background:var(--blue-bg)}.vsug h5{color:var(--blue)}
+.vpos{background:var(--green-bg)}.vpos h5{color:var(--green)}
+.bar{display:grid;grid-template-columns:170px 1fr 52px;gap:10px;align-items:center;font-size:13px;margin-bottom:6px}
+.track{height:8px;background:var(--bg);border-radius:99px;overflow:hidden}
+.fill{height:100%;background:var(--blue);border-radius:99px}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
+.links a{text-decoration:none}
+.src a{color:var(--blue);text-decoration:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Top App Picks</h1>
+<p class="sub" id="sub"></p>
+<div class="funnel" id="funnel"></div>
+<div class="section"><h3>Categories</h3><div class="chips" id="cats"></div></div>
+<div class="section"><h3>Psychological principles (count · average score)</h3><div class="chips" id="princ"></div></div>
+<p class="note">Snapshot of the US App Store, self-improvement niche. The list is refreshed daily, and trends become more reliable as history accumulates. iOS has no public download counts, so US ratings and reviews are used as relative signals. Marketing: 0 = no ads found, 1 = low or unconfirmed, 2 = moderate. Click a row or "Details" for the full profile.</p>
+<div class="controls">
+<input id="q" placeholder="Search: name, category, what sets it apart" size="38">
+<select id="fc"><option value="">Category: all</option></select>
+<select id="fl"><option value="">List: all</option><option>A</option><option>B</option></select>
+<select id="fp"><option value="">Principle: all</option></select>
+<select id="fm"><option value="">Marketing: all</option><option value="0">0 only</option><option value="1">0–1</option><option value="2">0–2</option></select>
+</div>
+<div class="tw"><table><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
+</div>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true"><div class="dh" id="dh"></div><div class="db" id="db"></div></aside>
+<script>
+const D = __DATA__;
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n==null?"–":Number(n).toLocaleString("en-US",{maximumFractionDigits:1});
+const trend=g=>g==null?"–":(g>=1.3?"↑ ":g<0.7?"↓ ":"→ ")+fmt(g)+"×";
+const iconHtml=(r,cls="icon")=>r.icon?`<img class="${cls}" src="${esc(r.icon)}" alt="" loading="lazy">`:`<div class="${cls}"></div>`;
+const cols=[
+ ["rank","#",r=>r.rank,"num"],
+ ["name","App",r=>`<div class="app">${iconHtml(r)}<div><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.name)}</a><div class="small">${esc(r.seller)}</div><span class="cat">${esc(r.category||"")}</span></div></div>`],
+ ["list","List",r=>`<span class="tag t${r.list}">${r.list}</span>`],
+ ["differentiator","What sets it apart",r=>`<div class="diff">${esc(r.differentiator||"")}</div><div class="small">${esc(r.principle||"")}</div>`],
+ ["ratings_us","US ratings",r=>fmt(r.ratings_us)+`<div class="small">★ ${r.avg_rating}</div>`,"num"],
+ ["ratings_per_day_since_launch","Ratings/day",r=>fmt(r.ratings_per_day_since_launch),"num"],
+ ["review_growth_ratio","Growth 30d",r=>trend(r.review_growth_ratio),"num"],
+ ["marketing_level","Marketing",r=>r.marketing_level??"–","num"],
+ ["build_weeks","Build (wks)",r=>r.build_weeks??"–","num"],
+ ["marketability_score","Market. /4",r=>r.marketability_score??"–","num"],
+ ["total","Score",r=>`<span class="score">${r.total}</span>`,"num"],
+ ["_d","",r=>`<button class="btn" data-open="${r.id}">Details</button>`],
+];
+let sortKey="rank",sortDir=1,view=[],cur=-1;
+const $=id=>document.getElementById(id);
+const blk=(t,html)=>html?`<div class="blk"><h4>${t}</h4>${html}</div>`:"";
+const p=s=>s?`<p>${esc(s)}</p>`:"";
+const ul=a=>a&&a.length?`<ul>${a.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`:"";
+const vbox=(cls,t,a)=>a&&a.length?`<div class="vbox ${cls}"><h5>${t}</h5>${ul(a)}</div>`:"";
+function openDrawer(i){
+ cur=i;const r=view[i];if(!r)return;
+ const short=encodeURIComponent((r.name||"").split(/[:\-–|]/)[0].trim());
+ $("dh").innerHTML=`${iconHtml(r)}<div><h2>${esc(r.name)}</h2><div class="small">${esc(r.seller)} · ${esc(r.developer_type||"")}</div><div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap;align-items:center"><span class="cat">${esc(r.category||"")}</span><span class="tag t${r.list}">List ${r.list}</span><span class="score">${r.total}</span><span class="small">#${r.rank}</span></div></div>
+ <div class="dnav"><button class="btn ghost" id="prev" aria-label="Previous app">‹</button><button class="btn ghost" id="next" aria-label="Next app">›</button><button class="btn ghost" id="close" aria-label="Close">✕</button></div>`;
+ const k=[["US ratings",fmt(r.ratings_us)],["Avg rating","★ "+r.avg_rating],["Ratings/day",fmt(r.ratings_per_day_since_launch)],["Review growth 30d",trend(r.review_growth_ratio)],["Marketing level",r.marketing_level??"–"],["Build (weeks)",r.build_weeks??"–"],["Marketability",(r.marketability_score??"–")+" / 4"],["Released",(r.release_date||"").slice(0,10)],["Developer apps",r.developer_app_count??"–"],["Tracking label",r.tracking_label?"Yes":"No"],["Reviews 30d / prev 30d",`${r.reviews_30d??"–"} / ${r.reviews_prev_30d??"–"}`],["Confidence",r.confidence||"–"]];
+ const bars=D.criteria.map(([key,l])=>{const v=r.scores?.[key];return `<div class="bar"><span>${l}</span><div class="track"><div class="fill" style="width:${v?v/5*100:0}%"></div></div><span class="small">${v??"–"}/5 · ${D.weights[key]}%</span></div>`}).join("");
+ const src=(r.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label||s.url)}</a> <span class="small">${esc(s.date||"")}</span></li>`).join("");
+ const subs=(r.subreddits||[]).map(s=>"r/"+esc(s)).join(", ");
+ $("db").innerHTML=`<div class="links">
+  <a class="btn" href="${esc(r.url)}" target="_blank" rel="noopener">Open in App Store</a>
+  <a class="btn ghost" href="https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=${short}&search_type=keyword_unordered&media_type=all" target="_blank" rel="noopener">Meta Ad Library</a>
+  <a class="btn ghost" href="https://www.google.com/search?q=site%3Areddit.com+%22${short}%22" target="_blank" rel="noopener">Reddit (Google)</a>
+  <a class="btn ghost" href="https://www.tiktok.com/search?q=${short}" target="_blank" rel="noopener">TikTok</a></div>
+ <div class="kpis">${k.map(([l,v])=>`<div class="kpi"><b>${esc(v)}</b><span>${l}</span></div>`).join("")}</div>
+ ${blk("What sets it apart",`<p class="lead">${esc(r.differentiator||"")}</p>`)}
+ ${blk("Key details",ul(r.specifics))}
+ ${blk("Psychological principle",`<p><b>${esc(r.principle||"")}</b></p>${p(r.psych)}`)}
+ ${blk("Voice of customer",`<div class="vgrid">${vbox("vneg","Complaints",r.complaints)}${vbox("vsug","Suggestions",r.suggestions)}${vbox("vpos","Praise",r.praise)}</div>`)}
+ ${blk("Our opportunity",p(r.opportunity))}
+ ${blk("Hook idea",p(r.hook))}
+ ${blk("Marketing",p(r.marketing_evidence))}
+ ${blk("Growth",p(r.growth))}
+ ${blk("Monetization",p(r.monetization))}
+ ${blk("Build",p(r.build_notes))}
+ ${blk("Reddit",(subs?`<p>${subs}</p>`:"")+p(r.reddit_notes))}
+ ${blk("Score breakdown",bars)}
+ ${blk("Sources",src?`<ul class="src">${src}</ul>`:"")}`;
+ $("db").scrollTop=0;
+ $("drawer").classList.add("on");$("scrim").classList.add("on");$("drawer").setAttribute("aria-hidden","false");document.body.classList.add("locked");
+ $("prev").onclick=()=>openDrawer(Math.max(0,cur-1));$("next").onclick=()=>openDrawer(Math.min(view.length-1,cur+1));$("close").onclick=closeDrawer;
+}
+function closeDrawer(){$("drawer").classList.remove("on");$("scrim").classList.remove("on");$("drawer").setAttribute("aria-hidden","true");document.body.classList.remove("locked");cur=-1}
+function render(){
+ const q=$("q").value.toLowerCase(),fc=$("fc").value,fl=$("fl").value,fp=$("fp").value,fm=$("fm").value;
+ view=D.rows.filter(r=>(!fc||r.category===fc)&&(!fl||r.list===fl)&&(!fp||r.principle===fp)&&(fm===""||(r.marketing_level??9)<=+fm)
+  &&(!q||[r.name,r.category,r.principle,r.differentiator,r.seller].join(" ").toLowerCase().includes(q)));
+ view.sort((a,b)=>{const x=a[sortKey],y=b[sortKey];return (x==null)-(y==null)||(x>y?1:x<y?-1:0)*sortDir});
+ $("body").innerHTML=view.map((r,i)=>`<tr class="row" data-i="${i}">${cols.map(c=>`<td class="${c[3]||""}">${c[2](r)}</td>`).join("")}</tr>`).join("")
+  ||`<tr><td colspan="${cols.length}">No apps match these filters.</td></tr>`;
+ document.querySelectorAll("#cats .chip").forEach(c=>c.classList.toggle("on",c.dataset.v===fc));
+ document.querySelectorAll("#princ .chip").forEach(c=>c.classList.toggle("on",c.dataset.v===fp));
+}
+function chips(el,key,select){
+ const agg={};D.rows.forEach(r=>{const k=r[key]||"Other";(agg[k]=agg[k]||{n:0,s:0}).n++;agg[k].s+=r.total});
+ const entries=Object.entries(agg).sort((a,b)=>b[1].n-a[1].n);
+ $(el).innerHTML=entries.map(([k,v])=>`<button class="chip" data-v="${esc(k)}">${esc(k)}<span>${v.n}${key==="principle"?" · "+Math.round(v.s/v.n):""}</span></button>`).join("");
+ $(select).innerHTML+=entries.map(([k])=>`<option value="${esc(k)}">${esc(k)}</option>`).join("");
+ $(el).onclick=e=>{const c=e.target.closest(".chip");if(!c)return;$(select).value=$(select).value===c.dataset.v?"":c.dataset.v;render()};
+}
+$("head").innerHTML=cols.map(c=>`<th data-k="${c[0]}">${c[1]}</th>`).join("");
+$("head").onclick=e=>{const k=e.target.dataset.k;if(!k||k==="_d")return;sortDir=sortKey===k?-sortDir:(["rank","build_weeks","marketing_level"].includes(k)?1:-1);sortKey=k;render()};
+$("body").onclick=e=>{if(e.target.closest("a"))return;const tr=e.target.closest("tr.row");if(tr)openDrawer(+tr.dataset.i)};
+$("scrim").onclick=closeDrawer;
+document.addEventListener("keydown",e=>{if(cur<0)return;if(e.key==="Escape")closeDrawer();if(e.key==="ArrowDown"||e.key==="ArrowRight")openDrawer(Math.min(view.length-1,cur+1));if(e.key==="ArrowUp"||e.key==="ArrowLeft")openDrawer(Math.max(0,cur-1))});
+["q","fc","fl","fp","fm"].forEach(id=>$(id).addEventListener("input",render));
+chips("cats","category","fc");chips("princ","principle","fp");
+const f=D.funnel;
+$("sub").textContent=`Self-improvement niche · US App Store · snapshot ${D.date} · generated ${D.generated}`;
+$("funnel").innerHTML=[["Found in search",f.pool],["Passed automatic filters",f.auto],["Passed all checks",f.passed],["Top picks",f.top],["List A",f.A],["List B",f.B]].map(([l,v])=>`<div class="f"><b>${fmt(v)}</b><span>${l}</span></div>`).join("");
+render();
+</script>
+</body>
+</html>
