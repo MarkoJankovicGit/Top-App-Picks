@@ -47,6 +47,39 @@ def demand_score(app, all_apps):
     return round(min(5, max(1, score)), 1)
 
 
+def stage1_breakdown(pool, cfg):
+    """Koliko je aplikacija ispalo na kom automatskom filteru (redosled kao u 02_filter.py)."""
+    from collections import Counter
+    from common import days_since, parse_date
+    allowed, excl = set(cfg["allowedGenres"]), [k.lower() for k in cfg["excludeNameKeywords"]]
+    cm, qu, pf, sd = cfg["criticalMass"], cfg["quality"], cfg["prefilter"], cfg["smallDeveloper"]
+    artist = Counter(a["artist_id"] for a in pool)
+    c = Counter()
+    for a in pool:
+        name = (a["name"] or "").lower()
+        age = days_since(parse_date(a["release_date"])) or 1
+        upd = days_since(parse_date(a["current_version_date"])) or 0
+        if a["genre"] not in allowed or any(k in name for k in excl):
+            c["genre"] += 1
+        elif not a["matched_keywords"] and a["genre"] != "Health & Fitness":
+            c["chart_only"] += 1
+        elif a["ratings_us"] >= sd["bigBrandRatingsFlag"]:
+            c["big_brand"] += 1
+        elif a["ratings_us"] < cm["minRatingsBorderline"]:
+            c["few_ratings"] += 1
+        elif a["avg_rating"] < qu["minAvgRatingBorderline"]:
+            c["low_rating"] += 1
+        elif upd > pf["maxDaysSinceUpdate"]:
+            c["stale"] += 1
+        elif a["ratings_us"] / age < pf["minRatingsPerDay"]:
+            c["slow"] += 1
+        elif artist[a["artist_id"]] > sd["maxAppsBorderline"]:
+            c["factory"] += 1
+        else:
+            c["kept"] += 1
+    return dict(c)
+
+
 def main():
     cfg = thresholds()
     weights = cfg["weights"]
@@ -135,7 +168,22 @@ def main():
     for i, r in enumerate(rows, 1):
         r["rank"] = i
 
-    pool_n = len(load_json(latest("pool_*.json")))
+    pool = load_json(latest("pool_*.json"))
+    pool_n = len(pool)
+    cand_ids = {str(a["id"]) for a in cands}
+    excluded_analysis = sum(1 for k, v in analysis.items() if k in cand_ids and v.get("exclude"))
+    kept_analysis = sum(1 for k, v in analysis.items() if k in cand_ids and not v.get("exclude"))
+    method = {"stage1": stage1_breakdown(pool, cfg), "excluded_analysis": excluded_analysis,
+              "kept_analysis": kept_analysis, "keywords": sum(len(v) for v in load_json(ROOT / "config" / "keywords.json")["groups"].values()),
+              "thresholds": {"min_ratings": cfg["criticalMass"]["minRatingsBorderline"],
+                             "min_avg": cfg["quality"]["minAvgRatingBorderline"],
+                             "max_days_since_update": cfg["prefilter"]["maxDaysSinceUpdate"],
+                             "min_ratings_per_day": cfg["prefilter"]["minRatingsPerDay"],
+                             "max_dev_apps": cfg["smallDeveloper"]["maxAppsBorderline"],
+                             "big_brand": cfg["smallDeveloper"]["bigBrandRatingsFlag"],
+                             "window_days": cfg["alive"]["windowDays"],
+                             "min_reviews_window": cfg["alive"]["minReviewsInWindow"],
+                             "build_months": cfg["build"]["maxMonths"], "team": cfg["build"]["teamSize"]}}
     funnel = {"pool": pool_n, "auto": len(cands), "analyzed": sum(1 for a in cands if str(a["id"]) in analysis),
               "top": len(rows), "passed": all_passed, "A": sum(r.get("list") == "A" for r in rows),
               "B": sum(r.get("list") == "B" for r in rows)}
@@ -154,7 +202,7 @@ def main():
 
     template = (ROOT / "scripts" / "dashboard_template.html").read_text(encoding="utf-8")
     payload = json.dumps({"rows": rows, "funnel": funnel, "date": TODAY,
-                          "criteria": CRITERIA, "weights": weights,
+                          "criteria": CRITERIA, "weights": weights, "method": method,
                           "generated": datetime.now().strftime("%Y-%m-%d %H:%M")}, ensure_ascii=False)
     payload = payload.replace("</", "<\\/")
     (OUTPUT / "dashboard.html").write_text(template.replace("__DATA__", payload), encoding="utf-8")
