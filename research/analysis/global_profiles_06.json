@@ -1,0 +1,674 @@
+{
+  "il:1535008473": {
+    "name_en": "I Passed the Test: Accompanied-Driving Tracker",
+    "exclude": true,
+    "exclude_reason": "Single-purpose Israeli driving-regulation utility (tracks the new-driver 'escort' period after the driving test, with widgets and a push alert when it ends); no relevance to any lens.",
+    "what_it_is": "Countdown/progress tracker for the post-test accompanied-driving period of new Israeli drivers."
+  },
+  "ua:6450309698": {
+    "name_en": "Tysha (Silence): Meditations in Ukrainian",
+    "exclude": false,
+    "what_it_is": "Ukrainian-language meditation app with 100+ authored guided meditations for anxiety, sleep and emotional recovery, plus a self-practice timer and personal history/stats.",
+    "sets_apart": "'Retreats' are soft multi-day meditation challenges that build regularity around one theme and deepen gradually; the product is native-language, ad-free and framed around mindfulness plus psychology.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Soft challenges and stats = gentle discipline and ritual; guided audio sessions, but no personalization, journal or companion visible.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free download, explicitly no ads; paywall not visible in the excerpt (subscription/IAP likely, inference from the terms-of-use link).",
+    "traction": "1.4k ratings (4.93) in UA since 2023-09; 48 US ratings (in US store).",
+    "export_potential": 2,
+    "export_reason": "Guided audio plus soft challenges is a generic, crowded mechanic; the real differentiator is the Ukrainian voice and language, which is content-bound and does not travel (only the native-language niche play does).",
+    "idea_seed": "A 5-7 day themed 'retreat' format for Gen Z women (e.g., social-anxiety reset, post-breakup sleep) voiced by one relatable female creator, ad-free, with gentle progress instead of hard streaks.",
+    "build_effort": "low",
+    "build_components": "Audio player with offline cache, content CMS, meditation timer, history/stats, challenge ('retreat') progression, reminders, subscription paywall; main cost is recording 100+ sessions.",
+    "confidence": "high"
+  },
+  "pl:6470379635": {
+    "name_en": "Rzeczpospolita.pl",
+    "exclude": true,
+    "exclude_reason": "News publisher app (national daily plus PDF edition behind a subscription paywall); media company, no relevance to any lens.",
+    "what_it_is": "Paywalled news app giving access to RP.PL articles and the daily newspaper PDF."
+  },
+  "ua:874286278": {
+    "name_en": "MomLife: Pregnancy & Mom Chat",
+    "exclude": false,
+    "what_it_is": "Pregnancy and early-motherhood companion with pregnancy/baby calendars, feeding/sleep/diaper trackers, mom chat and groups, clinic reviews and a kids' goods marketplace (Russian description).",
+    "sets_apart": "Pairs trackers with a hyper-local social layer: chat with women at the same pregnancy stage, find mom friends with same-age kids nearby, and buy/sell second-hand kids' goods inside the app.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Women-only community and tracking app, but for a life stage (pregnancy/parenting), not Gen Z self-improvement.",
+    "women_oriented": "yes",
+    "dev_type": "company",
+    "monetization": "Free download; no pricing in the excerpt (ads/marketplace/premium unknown).",
+    "traction": "4.0k ratings (4.78) in UA since 2014-06; 768 US ratings (in US store); 5 UI languages.",
+    "export_potential": 2,
+    "export_reason": "Stage-matched community and trackers are language-agnostic, but the US pregnancy category is crowded (inference), medical-advice content is liability-heavy, and local community needs critical mass.",
+    "idea_seed": "Auto-matched 'same-stage' cohort circles for Gen Z women: users on the same day of a 30-day reset, or at the same life moment (first job, new city), get a small chat group for accountability.",
+    "build_effort": "high",
+    "build_components": "Trackers and calendars, expert content, geo-based matching and chat, community moderation, marketplace listings, clinic reviews, push, backend at scale.",
+    "confidence": "medium"
+  },
+  "il:1505061544": {
+    "name_en": "Theory: Passing the Israeli Driving Theory Test 2026",
+    "exclude": false,
+    "what_it_is": "Free exam-prep app for the Israeli driving theory test with the official 1,800+ question bank, filtered to the chosen license type.",
+    "sets_apart": "Per-license question sets across four subjects, each with a 'practice' mode (instant right/wrong feedback, fix mistakes) and a separate 'test' mode, with a progress bar; UI in Hebrew, Arabic and English.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "Quiz practice over a fixed official bank; no user-supplied material, AI or short-form content.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Free (stated); ads likely (inference).",
+    "traction": "1.2k ratings (4.45) in IL since 2020-04; 36 US ratings (in US store).",
+    "export_potential": 1,
+    "export_reason": "Value is the official Israeli question bank (jurisdiction-bound, regulated exam content); the practice/test split is generic.",
+    "idea_seed": "A practice-vs-timed-mock toggle with per-subject progress bars in a quiz app that turns a college woman's own notes into study sets, so revision feels like a real exam run.",
+    "build_effort": "low",
+    "build_components": "Question bank DB, quiz engine with practice/exam modes, per-subject progress, local storage, HE/AR/EN localization; legal check on the official bank.",
+    "confidence": "high"
+  },
+  "in:6451157089": {
+    "name_en": "Revisable: NEET, USMLE, AMC",
+    "exclude": false,
+    "what_it_is": "AI medical-exam prep app (NEET, USMLE, FMGE, AMC, PLAB, MCAT etc.) with adaptive spaced-repetition flashcards, MCQs with AI answer analysis, an AI tutor chat, revision notes and personalised study paths.",
+    "sets_apart": "Closes the loop between MCQs, AI explanations of why you were wrong, spaced-repetition flashcards and an AI tutor, with achievement trophies; one app covers many national exam syllabi.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 0
+    },
+    "lens_note": "Flashcards, spaced repetition and AI feedback are core K2 mechanics, but content is curated medical syllabi rather than user-supplied material.",
+    "women_oriented": "no",
+    "dev_type": "small team",
+    "monetization": "Free download; premium tier not visible in the excerpt (subscription likely, inference).",
+    "traction": "1.2k ratings (4.47) in IN since 2023-09; 14 US ratings (in US store).",
+    "export_potential": 3,
+    "export_reason": "Mechanic is language-agnostic and English-based, and already names US exams; content is exam/domain-bound, with medical-accuracy liability and heavy US competition (inference).",
+    "idea_seed": "Make every wrong quiz answer auto-generate an AI explanation plus a spaced-repetition card from the user's own notes, wrapped in cute trophies and streaks for US college women.",
+    "build_effort": "medium",
+    "build_components": "LLM tutor/analysis (RAG over notes), flashcard scheduler (SM-2/FSRS), MCQ engine, achievements, study-path planner, content pipeline/licensing, subscription.",
+    "confidence": "high"
+  },
+  "pl:6753288406": {
+    "name_en": "AION MIND",
+    "exclude": false,
+    "what_it_is": "AI 'intellectual sparring partner' that turns racing thoughts into a concrete action plan by challenging the user instead of just storing notes (Polish description).",
+    "sets_apart": "Deliberately confrontational journaling: asks uncomfortable questions and points out inconsistencies in your thinking to force decisions, positioned against 'nice diaries' and generic AI chat.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "AI journaling/self-reflection fits K1, but the tone is hard-edged and aimed at 'doers and leaders'; it needs a gentler reframing.",
+    "women_oriented": "no",
+    "dev_type": "small team",
+    "monetization": "Free download; model not visible in the excerpt (subscription/credits likely, inference).",
+    "traction": "108 ratings (4.41) in PL since 2025-11; 0 US ratings (listed in US store, no traction).",
+    "export_potential": 3,
+    "export_reason": "LLM-based and language-agnostic (UI listed as EN); AI journaling is crowded and the harsh tone may repel Gen Z women; early traction leaves the mechanic unproven.",
+    "idea_seed": "A 'gentle challenger' AI journal for Gen Z women that remembers what you wrote over weeks, kindly flags contradictions ('Monday you said X, today Y') and ends each entry with one tiny next step.",
+    "build_effort": "medium",
+    "build_components": "LLM journaling chat with long-term memory/RAG, tone/prompt design, action-step extraction with reminders, optional voice input, mental-health safety guardrails, subscription.",
+    "confidence": "medium"
+  },
+  "pl:1593364930": {
+    "name_en": "Zdrofit+ (formerly ZdrowAppka)",
+    "exclude": true,
+    "exclude_reason": "Corporate gym-chain app (Benefit Systems SA, 42.8k PL ratings) tied to club membership, class and trainer booking; friend groups with activity rankings are the only portable idea and are generic.",
+    "what_it_is": "Gym-chain companion app with public profile, friend activity rankings, class booking, workouts and trainer booking."
+  },
+  "pl:1107917398": {
+    "name_en": "Audioteka",
+    "exclude": true,
+    "exclude_reason": "Established audiobook retailer/streaming group (41.7k PL ratings, 9 UI languages, 5 apps) selling a licensed publisher catalog; big company with a standard store/library mechanic, not a small developer.",
+    "what_it_is": "Audiobook store and player with free sample chapters, downloads, favourites and podcasts."
+  },
+  "sa:1454030988": {
+    "name_en": "Akhdar: Your Friend for Knowledge",
+    "exclude": false,
+    "what_it_is": "Arabic knowledge app with 15-minute book summaries (listen or read), audiobooks, podcasts and expert sessions across 16 sections and 70+ fields, usable offline.",
+    "sets_apart": "Arabic-first micro-learning: summaries you can listen to in 15 minutes plus expert-led sessions, with daily recommendations, progress/achievement tracking and a 7-day trial that unlocks all paid content.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 2
+    },
+    "lens_note": "Closest to K3 and K2 via audio summaries and 'learn in 15 minutes', but curated and licensed rather than personalised or user-supplied; personal/professional growth topics give a loose K1 link.",
+    "women_oriented": "no",
+    "dev_type": "small team",
+    "monetization": "Subscription with a 7-day full-access free trial (stated); some free ad-free books.",
+    "traction": "1.1k ratings (4.48) in SA since 2019-02; 726 US ratings (same app, also on the EG storefront as eg:1454030988).",
+    "export_potential": 2,
+    "export_reason": "The summary/expert-session format is proven but crowded; the value here is Arabic licensed content and experts (language- and licensing-bound); the 726 US ratings likely reflect an Arabic-speaking diaspora (inference).",
+    "idea_seed": "A daily 15-minute listen-or-read growth plan for Gen Z women: choose a goal (confidence, boundaries, money habits) and get one short audio idea per day, with a free first week unlocking everything.",
+    "build_effort": "medium",
+    "build_components": "Audio player with offline downloads, content CMS (summaries, expert sessions), categories and daily recommendations, progress/achievements, subscription with trial; content licensing or AI-generated summaries is the main cost/risk.",
+    "confidence": "medium"
+  },
+  "th:6670156126": {
+    "name_en": "Melonote: AI Voice Summary Note",
+    "exclude": false,
+    "what_it_is": "AI note-taker that turns recordings, meetings, lectures, audio files, YouTube links, websites and notes into summaries, to-dos, mind maps, flashcards and multiple-choice quizzes.",
+    "sets_apart": "One input, many outputs: any source (live recording, audio, video, YouTube, web page) becomes not just a transcript or summary but study artefacts (mind map, flashcards, MCQ quiz), bridging capture and active recall.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 3,
+      "K3": 1
+    },
+    "lens_note": "K2 core: user-supplied material becomes flashcards and quizzes (no short-form video in the excerpt). K3 only via a text-to-speech keyword hit, not visible in the excerpt.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Free download; pricing not visible in the excerpt (subscription or credits likely, inference).",
+    "traction": "3.9k ratings (4.94) in TH since 2024-09; 42 US ratings (in US store); UI in EN, DE, ES, ID, KO, PL, TH, ZH; developer has 3 apps.",
+    "export_potential": 4,
+    "export_reason": "AI pipeline is language-agnostic and already ships in English plus 7 other languages; the barrier is a crowded US AI-note/study category, so the angle must be Gen Z-women aesthetic and social study rather than features; recording-consent rules apply.",
+    "idea_seed": "Drop in any lecture recording, YouTube link or PDF and get a 60-second study reel plus flashcards and a quiz in a cute aesthetic, with shareable study sets and friend streaks for US college women.",
+    "build_effort": "medium",
+    "build_components": "Audio recording and background transcription (cloud STT), URL/YouTube/web ingestion, LLM pipelines for summary/mind map/flashcards/quiz, spaced-repetition scheduling, sharing/export, subscription with credit metering.",
+    "confidence": "high"
+  },
+  "eg:1454030988": {
+    "name_en": "Akhdar: Your Friend for Knowledge",
+    "exclude": false,
+    "what_it_is": "Arabic knowledge app with 15-minute book summaries (listen or read), audiobooks, podcasts and expert sessions across 16 sections and 70+ fields, usable offline.",
+    "sets_apart": "Arabic-first micro-learning: summaries you can listen to in 15 minutes plus expert-led sessions, with daily recommendations, progress/achievement tracking and a 7-day trial that unlocks all paid content.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 2
+    },
+    "lens_note": "Closest to K3 and K2 via audio summaries and 'learn in 15 minutes', but curated and licensed rather than personalised or user-supplied; personal/professional growth topics give a loose K1 link.",
+    "women_oriented": "no",
+    "dev_type": "small team",
+    "monetization": "Subscription with a 7-day full-access free trial (stated); some free ad-free books.",
+    "traction": "952 ratings (4.6) in EG since 2019-02; 726 US ratings (same app, also on the KSA storefront as sa:1454030988).",
+    "export_potential": 2,
+    "export_reason": "The summary/expert-session format is proven but crowded; the value here is Arabic licensed content and experts (language- and licensing-bound); the 726 US ratings likely reflect an Arabic-speaking diaspora (inference).",
+    "idea_seed": "A daily 15-minute listen-or-read growth plan for Gen Z women: choose a goal (confidence, boundaries, money habits) and get one short audio idea per day, with a free first week unlocking everything.",
+    "build_effort": "medium",
+    "build_components": "Audio player with offline downloads, content CMS (summaries, expert sessions), categories and daily recommendations, progress/achievements, subscription with trial; content licensing or AI-generated summaries is the main cost/risk.",
+    "confidence": "medium"
+  },
+  "pl:1564797423": {
+    "name_en": "WomanUp: Training and Health",
+    "exclude": false,
+    "what_it_is": "Polish women's health and fitness platform with 180+ home/gym workouts (pilates, yoga, abs, glutes, Kegel), stretching, kinesiotaping, podcasts, meditations and expert knowledge content, fronted by physiotherapist-trainer Gosia Włodarczyk.",
+    "sets_apart": "A single credentialed female expert (physiotherapist plus trainer) is the face of a holistic women's-health app that puts workouts, pelvic-floor and kinesiotaping content, podcasts and meditation under one roof.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Women-only holistic wellness (movement plus mind) with expert-led content; no habit, ritual or companion mechanics visible in the excerpt. Podcasts and meditations are the only audio touchpoint.",
+    "women_oriented": "yes",
+    "dev_type": "small team",
+    "monetization": "Free download; paywall not stated (subscription for the workout library likely, inference).",
+    "traction": "933 ratings (4.92) in PL since 2022-02; 12 US ratings (in US store).",
+    "export_potential": 3,
+    "export_reason": "Creator-led women's wellness is a proven model, but this one is bound to Polish and to one expert's brand; a US version needs a local creator and content library, and women's-health topics (pelvic floor) need careful medical-claim handling.",
+    "idea_seed": "A creator-led all-in-one women's wellness app for US Gen Z with 10-minute mobility and pelvic-floor routines, a weekly podcast and guided meditations under one credentialed female expert.",
+    "build_effort": "medium",
+    "build_components": "Video workout streaming with program calendar, podcast and meditation audio, content CMS, profiles/progress, push reminders, subscription; content production is the main cost.",
+    "confidence": "medium"
+  },
+  "pl:1510802814": {
+    "name_en": "Workout Tracker: SmartWorkout",
+    "exclude": false,
+    "what_it_is": "Free gym workout log for tracking weights, reps, volume and RIR/RPE with unlimited routines and workout plans.",
+    "sets_apart": "Serves both beginners (simple log) and advanced lifters (progressive overload, RIR/RPE) with a generous free tier; otherwise a standard category app.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Routine and progress tracking only; no gentle or women angle, no learning or audio.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Freemium: a 'free features' list implies a paid premium tier (inference).",
+    "traction": "929 ratings (4.72) in PL since 2021-03; 21 US ratings (in US store); 10 UI languages.",
+    "export_potential": 1,
+    "export_reason": "Language-agnostic but a saturated category with no distinctive mechanic and nothing specific to Gen Z women.",
+    "idea_seed": "Borrow the beginner/advanced dual mode: a women's strength companion that starts as a dead-simple log and unlocks RIR/RPE-style detail later (progressive disclosure).",
+    "build_effort": "low",
+    "build_components": "Exercise DB, set/rep logging, plans/routines, charts, rest timer, cloud sync, localization.",
+    "confidence": "high"
+  },
+  "il:6474908067": {
+    "name_en": "Kaloria: Israeli Calorie Counter",
+    "exclude": false,
+    "what_it_is": "Hebrew-language calorie and macro tracker with 60,000 local foods plus 3M barcode products, water/weight logging and progress reports.",
+    "sets_apart": "Fully localised for Israel: local-food database, translation of foreign-language food labels, price comparison, product-quality scores and healthy recipes, all in Hebrew.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Diary-style logging habit only; no women-specific or gentle angle. The scan add-ons (label translation, quality score, price comparison) are the interesting part.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; premium tier not visible in the excerpt (subscription likely, inference).",
+    "traction": "875 ratings (4.55) in IL since 2023-12; 15 US ratings (in US store); developer has 6 apps; claims tens of thousands of users.",
+    "export_potential": 1,
+    "export_reason": "Core value is the Hebrew/local food database (market-bound); US calorie tracking is crowded and sensitive for Gen Z women (disordered-eating concerns, inference); only the scan-and-score idea travels.",
+    "idea_seed": "Scan-to-score: scan a food or skincare barcode and get an ingredient-quality score with cheaper or cleaner alternatives, framed as a label-reading companion for Gen Z women rather than calorie counting.",
+    "build_effort": "medium",
+    "build_components": "Barcode scanner, food/product DB (licensed or open data), meal logging and reports, label OCR plus LLM translation, price-data integration (hardest), recipes, subscription.",
+    "confidence": "medium"
+  },
+  "th:6791503108": {
+    "name_en": "Nak by Polyme (otter meditation)",
+    "exclude": false,
+    "what_it_is": "Meditation app where you sit with an otter on a floating island and the front camera verifies your eyes are closed, so the timer only runs while you are really meditating.",
+    "sets_apart": "Verified meditation: on-device camera eye-closure detection pauses the clock when eyes open ('meditation you can't fake'). The otter evolves across 7 levels (5 min to 1 hour) up to the Naga King, with orbs, a ladder by total minutes or longest streak, a private journal and Apple Health logging.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Near point-for-point K1: cute evolving companion, soft but verified discipline, streak/ladder, journal. Practical catch: the phone must be propped facing you with the screen on (inference).",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; no pricing in the excerpt (orbs/IAP or subscription likely, inference; standard Apple EULA link).",
+    "traction": "865 ratings (4.91) in TH in about 2 months since 2026-08-06; 8 US ratings (in US store); very fast early traction.",
+    "export_potential": 4,
+    "export_reason": "Mechanic is visual and language-agnostic (the Naga King is Thai-myth-specific but swappable). Risks: front-camera/biometric privacy optics in the US (mitigated by the stated on-device processing) and eye-detection reliability in low light (inference).",
+    "idea_seed": "A cute-companion presence ritual for Gen Z women: your pet only grows while you are truly still (camera-verified eyes-closed), with friend ladders and a private journal.",
+    "build_effort": "medium",
+    "build_components": "On-device eye-closure detection (Apple Vision/ARKit; ML Kit on Android), session timer with pause/resume, companion art and evolution states, orbs/rewards, leaderboard backend, private journal, HealthKit/Health Connect logging, camera-consent flows, subscription/IAP.",
+    "confidence": "high"
+  },
+  "id:1447472969": {
+    "name_en": "eKatolik",
+    "exclude": true,
+    "exclude_reason": "Religious-content app (Catholic Bible, liturgical calendar, prayers, daily reflections).",
+    "what_it_is": "Indonesian-language offline Catholic Bible, liturgy, prayer and daily-reflection app."
+  },
+  "ru:905741784": {
+    "name_en": "English Grammar (Grammarize)",
+    "exclude": false,
+    "what_it_is": "Offline English-grammar trainer and reference for Russian speakers with explained rules, varied test types, an irregular-verb table with pronunciation, phrasal verbs, statistics and cross-device sync.",
+    "sets_apart": "Reference plus trainer in one: bonus tests and rewards for good results, fully offline use and synced progress; it claims an Apple recommendation (self-reported).",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "Language-learning quizzes over fixed content; no user-supplied material, AI or audio personalisation.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Free download; ads/IAP not visible in the excerpt (unknown).",
+    "traction": "835 ratings (4.35) in RU since 2014-08, last update 2025-07; 38 US ratings (in US store).",
+    "export_potential": 1,
+    "export_reason": "Content is English grammar explained for Russian speakers (language-pair-bound) in a crowded category; nothing specific to Gen Z women.",
+    "idea_seed": "Weak seed: a small bonus-round-and-reward moment after strong quiz scores in a study app for Gen Z women.",
+    "build_effort": "low",
+    "build_components": "Static content plus test engine, statistics, offline storage, device sync, localization.",
+    "confidence": "high"
+  },
+  "in:1536252998": {
+    "name_en": "Hobfit: Women Health & Wellness",
+    "exclude": false,
+    "what_it_is": "Women-oriented wellness platform combining workouts, expert guidance, health tracking and habit building with a supportive community; claims 500,000+ members (excerpt truncated).",
+    "sets_apart": "Pitches itself as holistic 'beyond workouts' wellness (movement plus nutrition and health tracking in one place); no concrete differentiating mechanic is visible in the excerpt.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Women's wellness plus 'sustainable habits' plus community is on-theme for K1, but the title says women while the body text says it welcomes everyone, and no ritual or companion mechanic is shown.",
+    "women_oriented": "yes",
+    "dev_type": "company",
+    "monetization": "Free download; paywall not stated (subscription for workouts/programs likely, inference).",
+    "traction": "781 ratings (3.93, mediocre) in IN since 2020-10; 35 US ratings (in US store); self-reported 500k+ members.",
+    "export_potential": 2,
+    "export_reason": "Generic positioning with a mediocre rating; workout and expert content is language- and creator-bound, and there is no distinctive mechanic to transplant.",
+    "idea_seed": "Weak seed: one women's wellness hub that combines movement, nutrition and habit check-ins with small community circles, viable only with a sharper hook.",
+    "build_effort": "medium",
+    "build_components": "Workout video library, habit/health tracker, nutrition logging, community feed/chat with moderation, subscription.",
+    "confidence": "low"
+  },
+  "pk:1669712591": {
+    "name_en": "Al Quran",
+    "exclude": true,
+    "exclude_reason": "Religious-content app (Quran reading and listening) from a multi-app publisher with 18 UI languages.",
+    "what_it_is": "Quran reading and audio app for iPhone and iPad."
+  },
+  "sa:6443390362": {
+    "name_en": "Ynmo Tifli (child development platform)",
+    "exclude": true,
+    "exclude_reason": "Children's/medical app: child-development screening, specialist consultations and therapy sessions for parents, run as part of a Saudi national initiative.",
+    "what_it_is": "Parent app for developmental assessments and specialist therapy of children in Saudi Arabia."
+  },
+  "ru:1587330949": {
+    "name_en": "Assistant: Testing",
+    "exclude": false,
+    "what_it_is": "Paid mobile quiz app for creating your own single- or multiple-choice tests, or importing existing test files (qst/qsz formats), to practise and share them.",
+    "sets_apart": "Mobile successor to a legacy desktop test trainer: opens the .qst/.qsz test files already used in CIS higher education and lets users author and share tests as files; also pitched for staff training and candidate screening.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 0
+    },
+    "lens_note": "User-supplied or user-authored question sets are K2-adjacent, but there is no AI generation, short-form content or spaced repetition in the excerpt.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Paid up front (price 99.0 in the RU store, presumably RUB, inference); no ads mentioned.",
+    "traction": "616 ratings (4.51) in RU since 2021-11; 18 US ratings (in US store); 17+ UI languages.",
+    "export_potential": 2,
+    "export_reason": "Value comes from legacy CIS file formats (market-bound); generic quiz authoring is crowded and AI generation would supersede manual authoring.",
+    "idea_seed": "Import any existing study set or exam file, get an instant practice mode, and send a share-link so a friend can take the same quiz: social accountability on top of a Gen Z woman's own material.",
+    "build_effort": "low",
+    "build_components": "Quiz engine, test authoring UI, qst/qsz import/export parsers, share via file/link, local storage, localization.",
+    "confidence": "medium"
+  },
+  "vn:1041327503": {
+    "name_en": "eDoctor: Know Your Health",
+    "exclude": true,
+    "exclude_reason": "Healthcare/medical platform (health monitoring and, apparently, doctor/clinic finding); regulated medical domain with no self-improvement mechanic visible.",
+    "what_it_is": "Vietnamese health-care and health-monitoring app aimed at cost, waiting-time and information-confusion pain points when seeking care."
+  },
+  "th:6743988772": {
+    "name_en": "NutriGuide: AI Calorie Counter",
+    "exclude": false,
+    "what_it_is": "AI calorie and macro tracker where meals are logged by photo, voice or text, with streaks, a calendar history and achievements.",
+    "sets_apart": "Habit layer on top of an AI food logger: daily logging streaks, monthly check-in stats, a calendar of meal history and an achievement system; UI in 15+ languages.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Streak/habit mechanics around nutrition logging; no gentle or women-specific angle visible.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free download; no pricing in the excerpt (subscription likely, inference).",
+    "traction": "562 ratings (4.83) in TH since 2025-04; 15 US ratings (in US store); developer has 3 apps.",
+    "export_potential": 2,
+    "export_reason": "Photo/voice logging is language-agnostic, but the US AI-calorie category is saturated and sensitive for Gen Z women (disordered-eating and review scrutiny, inference).",
+    "idea_seed": "A habit-first food check-in for Gen Z women (snap a photo, answer 'balanced and enough today?') with a calendar and gentle achievements but no calorie targets.",
+    "build_effort": "medium",
+    "build_components": "Photo food recognition (vision LLM/API), voice logging (STT), nutrition DB, streak/calendar/achievements, charts, subscription.",
+    "confidence": "medium"
+  },
+  "th:6746932241": {
+    "name_en": "Civil Service Exam Tutor: Law Focus (Thailand)",
+    "exclude": false,
+    "what_it_is": "Thai exam-prep app for civil-service and teacher exams (Part A local, OCSC, OBEC) with 800+ law practice questions and a second condensed-content feature.",
+    "sets_apart": "Questions are not random: each is derived from past-exam analysis and the real syllabus scope, focusing only on frequently tested points, with detailed explained answers and no ads in the free question bank.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "Digesting a huge syllabus into high-yield practice matches the K2 spirit, but the content is fixed, editorial and local-law-specific. The second feature is not visible; 'summary' is inferred from a keyword hit.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Free question bank without ads (stated); the second feature is likely paid (inference).",
+    "traction": "175 ratings (4.86) in TH since 2025-07; not in US store.",
+    "export_potential": 1,
+    "export_reason": "Wholly bound to Thai civil-service law content and exam format, with no US store presence; only the frequency-weighted high-yield idea transfers.",
+    "idea_seed": "AI that ranks the topics in a student's uploaded syllabus and past papers by exam frequency and builds a 'high-yield only' quiz ('study the 20% that gets tested') for US college women.",
+    "build_effort": "low",
+    "build_components": "Question bank with explanations, quiz engine, progress tracking, paywall; content curation is the main cost.",
+    "confidence": "medium"
+  },
+  "ua:6443956259": {
+    "name_en": "Smart School 2.0",
+    "exclude": true,
+    "exclude_reason": "School e-diary (grades, homework, attendance, messages with teachers) that needs a school-issued login; children/school administration, no consumer relevance.",
+    "what_it_is": "Electronic school diary app for students and parents, accessible only with credentials from the school."
+  },
+  "ua:1062550132": {
+    "name_en": "KION Music: Songs and Podcasts",
+    "exclude": true,
+    "exclude_reason": "Music and podcast app of a telecom corporation (Mobile TeleSystems PJSC); big corporation, not in US store.",
+    "what_it_is": "Russian-language music streaming and podcast player with offline listening and sleep/meditation music."
+  },
+  "th:6449518288": {
+    "name_en": "Webudding: Digital Templates",
+    "exclude": false,
+    "what_it_is": "Marketplace and file manager for digital diaries, planners, templates, stickers, fonts and brushes (20,000+ items from 2,000+ creators), bought on the phone and used on other devices.",
+    "sets_apart": "Two-sided creator marketplace for the digital journaling and planner-decoration niche: new templates weekly, 1,000+ free items to seed adoption, and one place to organise purchased and local files.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Digital diary/sticker aesthetics are an identity and ritual-expression layer adjacent to K1; the app is a content store, not a habit tracker. Women-orientation is inferred from the diary/sticker aesthetic, not stated.",
+    "women_oriented": "yes",
+    "dev_type": "company",
+    "monetization": "Free app with paid digital items (purchases and a 'purchased files' library are mentioned) plus 1,000+ free items; creator revenue share likely (inference).",
+    "traction": "523 ratings (4.92) in TH since 2023-07; 22 US ratings (in US store); UI in EN, JA, KO, ZH, TH; developer has 2 apps.",
+    "export_potential": 3,
+    "export_reason": "Assets (stickers, templates) are language-agnostic and journaling-aesthetic culture exists in the US (inference), but a marketplace needs creator supply (cold start) and competes with existing template marketplaces and notebook-app ecosystems.",
+    "idea_seed": "An in-app journal/planner with a curated cute sticker-and-template shop (later creator uploads) so Gen Z women decorate daily check-ins and weekly resets, with streak-unlocked free packs.",
+    "build_effort": "high",
+    "build_components": "Catalog/search, IAP/payments, creator upload and review pipeline plus payouts, file import/export and cross-device sync, licensing/moderation; an MVP with a curated first-party pack set would be medium.",
+    "confidence": "medium"
+  },
+  "ua:6765892774": {
+    "name_en": "Calorize: AI Calorie Tracker",
+    "exclude": false,
+    "what_it_is": "Conversational calorie tracker: speak, type or point the camera and the AI assistant 'Mira' logs the meal with calories and macros, edits it in chat and reads back your day and week.",
+    "sets_apart": "Chat-first logging with no search or forms ('eggs and coffee' goes into breakfast), edits by chat ('make it 400 g'), 'same lunch as Monday' copying and learned usual portions; the weekly read-back names what is working, what is drifting and the one change worth making, 'supportive, never scolding'.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "The supportive AI coach and weekly 'one change' reflection fit K1's soft discipline; the calorie topic itself is not women-specific.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free download; no pricing in the excerpt (subscription likely, inference).",
+    "traction": "426 ratings (4.81) in UA in about 5 months since 2026-05-08; 19 US ratings (in US store).",
+    "export_potential": 3,
+    "export_reason": "Conversational/voice AI is language-agnostic and already in English, but the US AI-calorie category is crowded and diet-culture sensitive for Gen Z women (inference); the weekly 'one change' coach pattern travels better than the calorie use case.",
+    "idea_seed": "A habit coach you simply talk to ('did my walk, skipped stretching') that does a gentle Sunday read-back of what is working, what is drifting and one tiny change for next week.",
+    "build_effort": "medium",
+    "build_components": "LLM chat with tool calling (log/edit/copy entries), speech-to-text, food photo recognition, nutrition DB, per-user memory of usual foods, weekly summary generation, subscription.",
+    "confidence": "high"
+  },
+  "id:6449655325": {
+    "name_en": "ngaji.ai: Quran Recitation Tutor",
+    "exclude": true,
+    "exclude_reason": "Religious-content app (Quran recitation tutor). Its AI pronunciation scoring is an interesting mechanic, but the product is religious.",
+    "what_it_is": "Indonesian AI tutor that scores Quran pronunciation from voice recordings, starting with hijaiyah letters."
+  },
+  "id:1468247837": {
+    "name_en": "Calorie Counter: Myfitsociety",
+    "exclude": false,
+    "what_it_is": "Weight-loss app combining calorie and macro tracking, AI food scanning, goal-based workouts and routine tracking (fasting, steps, sleep).",
+    "sets_apart": "Positions as 'not just a calorie counter, not just a workout app': connects food, workouts and habits (fasting, steps, sleep) into one routine; otherwise a standard all-in-one.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Weight-loss all-in-one with habit tracking. The discovery keyword 'aplikasi wanita' (women's app) hints at a female skew, but the visible description is gender-neutral.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free download; paywall not visible in the excerpt (premium subscription likely, inference).",
+    "traction": "352 ratings (4.74) in ID since 2019-12; 1 US rating (in US store).",
+    "export_potential": 1,
+    "export_reason": "Crowded weight-loss category with no distinctive mechanic and a negligible US footprint; diet-focused positioning is sensitive for Gen Z women (inference).",
+    "idea_seed": "Weak seed: bundle food, movement and routine check-ins into one gentle daily ritual for Gen Z women instead of separate trackers.",
+    "build_effort": "medium",
+    "build_components": "Food DB and AI scan, workout library, fasting/steps/sleep trackers (HealthKit/Health Connect), charts, subscription.",
+    "confidence": "low"
+  },
+  "eg:976628194": {
+    "name_en": "Abjjad: Arabic Books, Novels and Stories",
+    "exclude": false,
+    "what_it_is": "Arabic ebook and audiobook subscription library (30,000+ titles plus podcasts) with a free tier of 1,500+ books.",
+    "sets_apart": "Positions itself as the largest legal Arabic digital library versus poor-quality pirated PDFs: one subscription covers ebooks, audiobooks and podcasts, ad-free, with a free no-credit-card entry tier.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 2
+    },
+    "lens_note": "Arabic audiobooks and podcasts are pitched for listening while driving (excerpt truncated), but this is a licensed catalog, not personalised audio; self-help is one category among many.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Subscription (stated) with a free tier of 1,500+ books; ad-free.",
+    "traction": "3.0k ratings (4.74) in EG since 2015-04; 2,622 US ratings (strong diaspora pull, inference); claims 1.5M readers.",
+    "export_potential": 2,
+    "export_reason": "Content is Arabic and licence-bound; the 'legal vs pirated' pitch is market-specific. The 2.6k US ratings show demand pockets for heritage-language content, which is the only part that travels.",
+    "idea_seed": "Heritage-language growth audio for US second-generation Gen Z women (Arabic, Spanish, Hindi, Korean...): short stories and daily-ritual audio that reconnect language and identity.",
+    "build_effort": "high",
+    "build_components": "Ebook reader and audiobook player with offline/DRM, catalog and publisher licensing (hardest), subscription with free tier, recommendations, podcasts.",
+    "confidence": "medium"
+  },
+  "in:1551919780": {
+    "name_en": "Kuku FM: Audiobooks & Stories",
+    "exclude": false,
+    "what_it_is": "Audio-first entertainment app with serialized original audio shows, audiobooks and stories (romance/drama, horror, motivation, self-help), offline downloads and a Car Mode.",
+    "sets_apart": "Cinematic serialized audio with fresh episodes daily, 'pay only for what you listen' pricing instead of a flat subscription, and a dedicated Car Mode for safe on-the-go listening.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 2
+    },
+    "lens_note": "K3: episodic audio designed for commuting, with Car Mode and offline, but a produced catalog rather than personalised audio. The romance/drama emphasis hints at a female skew (inference).",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free download; usage-based 'pay only for what you listen', no forced ads, no hidden fee (stated).",
+    "traction": "11.9k ratings (4.11) in IN since 2021-06; 480 US ratings (in US store); UI in EN, HI, KO.",
+    "export_potential": 3,
+    "export_reason": "Serial audio and Car Mode are language-agnostic formats and usage-based pricing is transferable, but original content production is the moat and expensive; the 4.11 rating suggests friction.",
+    "idea_seed": "AI-narrated serialized audio stories personalised to a Gen Z woman's mood or goal (confidence, heartbreak recovery, focus), with a Walk/Car mode and pay-per-episode credits instead of a subscription.",
+    "build_effort": "high",
+    "build_components": "Audio player with offline and Car Mode, content CMS and recommendations, usage-based billing/coins, original content production (AI-generated episodes could cut this to medium).",
+    "confidence": "medium"
+  },
+  "th:6791012852": {
+    "name_en": "CreditPlanner: Finance Guide",
+    "exclude": true,
+    "exclude_reason": "Personal-finance/budget tracker (income and expense tracking, spending analysis).",
+    "what_it_is": "Budget planning and income/expense tracking app."
+  },
+  "in:6444768111": {
+    "name_en": "FitterHer",
+    "exclude": false,
+    "what_it_is": "Online fitness and nutrition coaching platform where nutritionists, fitness coaches and health specialists support clients' eating and exercise habits, plus a free knowledge pool.",
+    "sets_apart": "Human-coached habit change with myth-busting content on food, body and mind, pitched as simple, achievable and sustainable; no concrete app mechanic is visible beyond that.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Women-coded (name) habit coaching with human experts; no ritual, companion or cycle mechanics visible. The description itself is gender-neutral.",
+    "women_oriented": "yes",
+    "dev_type": "small team",
+    "monetization": "Free download; paid coaching programs implied by 'clients' (inference); free knowledge pool.",
+    "traction": "291 ratings (4.63) in IN since 2023-01; 7 US ratings (in US store).",
+    "export_potential": 2,
+    "export_reason": "A human-coach model does not scale like software and nutrition advice is regulation-adjacent; the content is generic and not distinctive.",
+    "idea_seed": "Hybrid AI-plus-human accountability: an AI habit companion for daily nudges with optional paid weekly check-ins with a real coach, aimed at Gen Z women.",
+    "build_effort": "medium",
+    "build_components": "Coach-client chat, plan/program delivery, habit tracking, content library, payments/subscriptions, coach admin tools.",
+    "confidence": "low"
+  },
+  "ua:6744938951": {
+    "name_en": "Audiobooks: Book Library",
+    "exclude": false,
+    "what_it_is": "Russian-language audiobook library app with genre browsing, ratings and descriptions, a player (speed, rewind, sleep timer) and offline listening for subscribers.",
+    "sets_apart": "Nothing distinctive in the excerpt: standard audiobook player features with a paywall on unlimited downloads and offline listening.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Generic audiobook listening; no personalization, summaries or habit layer.",
+    "women_oriented": "no",
+    "dev_type": "solo",
+    "monetization": "Auto-renewing subscription gating unlimited downloads and offline listening (stated); free browsing.",
+    "traction": "291 ratings (4.65) in UA since 2025-04; 5 US ratings (in US store).",
+    "export_potential": 1,
+    "export_reason": "Generic player in a saturated category; content source and licensing are unclear (inference) and the catalog is Russian/Ukrainian.",
+    "idea_seed": "Weak seed: sleep timer, speed control and offline downloads are table stakes for any K3 audio player aimed at Gen Z women.",
+    "build_effort": "low",
+    "build_components": "Audio player (speed, sleep timer), catalog with genre browse, offline downloads, subscription paywall; content licensing is unresolved.",
+    "confidence": "medium"
+  },
+  "th:6778568911": {
+    "name_en": "Seokgamoney: Buddha Luck",
+    "exclude": false,
+    "what_it_is": "Tongue-in-cheek stress-relief app of situational micro-rituals: tap a wooden block 108 times when angry, spin prayer beads when restless, walk with Buddha (steps from Apple Health), read one Buddha line a day, or open the app instead of your wallet when tempted to shop.",
+    "sets_apart": "Organised by emotional situation ('when rage boils up', 'when you can't face work', 'when the shopping demon visits') with a tactile micro-action and a joke for each, including an impulse-spend replacement ritual and walks tied to step data.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Playful mood-regulation rituals and soft habit loops fit K1. Buddhist theming is a skin and the tone is comedic rather than devotional (inference), but it is borderline for the religious-content exclusion.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; no pricing in the excerpt (IAP or subscription likely, inference).",
+    "traction": "819 ratings (4.92) in TH in about 3 months since 2026-07-04; 50 US ratings (in US store); very fast early traction; developer has 3 apps.",
+    "export_potential": 4,
+    "export_reason": "Tap/haptic rituals are language-agnostic and easy to reskin (worry stone, bubble wrap, cute cat); Buddhist iconography needs a secular reskin for the US to avoid appropriation backlash (inference); 50 US ratings already show organic pull.",
+    "idea_seed": "A 'when X happens, do Y' emotional first-aid app for Gen Z women: pick a feeling (spiralling, cravings, shopping urge, can't start work) and get a 60-second tactile ritual with a cute companion, plus an 'open this instead of the shopping app' impulse-delay mode.",
+    "build_effort": "low",
+    "build_components": "Tap/haptic/sound interactions, bead-spin animation, daily quote content, HealthKit/Health Connect step sync, notifications, simple IAP; art and sound assets are the main work.",
+    "confidence": "high"
+  },
+  "id:1294193080": {
+    "name_en": "Inspigo Learning Experience",
+    "exclude": false,
+    "what_it_is": "AI-powered soft-skills learning app with AI role-play simulations, bite-sized audio, 700+ book summaries read in 15 minutes, case studies and career/well-being content, plus goal and progress tracking.",
+    "sets_apart": "'AI Role Play' lets users practise soft skills in simulated scenarios with assigned roles instead of only consuming content, alongside bite-sized audio and 15-minute bestseller summaries.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 2
+    },
+    "lens_note": "Micro-learning (15-minute summaries, bite-sized audio) matches K2/K3, but from curated content; AI role-play is the distinctive piece. Work/career framing, no women focus.",
+    "women_oriented": "no",
+    "dev_type": "company",
+    "monetization": "Free download; model not visible in the excerpt (subscription or B2B licences likely, inference).",
+    "traction": "235 ratings (4.49) in ID since 2017-10; 6 US ratings (in US store).",
+    "export_potential": 3,
+    "export_reason": "LLM role-play is language-agnostic and an English UI exists; curated soft-skills and summary content is licensed and corporate-leaning, and local traction is small, so the concept is unproven at consumer scale.",
+    "idea_seed": "'Practice the hard conversation' AI role-play for Gen Z women (ask for a raise, set a boundary, decline a date) with a coach-style debrief and 5-minute audio takeaways to listen to on the way.",
+    "build_effort": "medium",
+    "build_components": "LLM role-play engine with scenario/persona prompts, optional voice (STT/TTS), feedback rubric, audio and summary content library, goals/progress tracking, subscription.",
+    "confidence": "medium"
+  },
+  "mx:348177651": {
+    "name_en": "Storytel: Audiobooks and Ebooks",
+    "exclude": true,
+    "exclude_reason": "Large international audiobook/ebook corporation (Storytel Sweden AB; 22.5k MX and 11.2k US ratings, 18 UI languages); not a small developer.",
+    "what_it_is": "Audiobook and ebook streaming subscription with podcasts, offline downloads and personal recommendations."
+  },
+  "ua:1419570041": {
+    "name_en": "kitUP: Micro Learning Everyday",
+    "exclude": false,
+    "what_it_is": "Self-improvement micro-learning app: 15 minutes a day of book summaries and podcasts (read or listen), organised into personalised plans and challenge lists such as a 28-day personal-development plan.",
+    "sets_apart": "Plan-based rather than free-browse: guided multi-week plans and challenge lists mix reading and listening to build a daily reading habit; claims 5M+ users and ships in 16 UI languages.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 2,
+      "K3": 2
+    },
+    "lens_note": "Closest integrated analogue to all three lenses (habit plan + learn-in-minutes + audio), but content is curated, not user-supplied or generated, and it is already established in the US.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free download; paywall not visible in the excerpt (subscription likely, inference).",
+    "traction": "2.0k ratings (3.95) in UA since 2018-11; 1,424 US ratings (already established in US store); claims 5M+ users; developer name suggests a Turkish company (inference).",
+    "export_potential": 4,
+    "export_reason": "Already exported (16 UI languages, 1.4k US ratings), so the format clearly travels; the 3.95 rating hints at an execution gap, but it is a direct competitor/benchmark rather than an untapped import.",
+    "idea_seed": "A woman-focused version of the 15-minute daily plan: 28-day identity-based growth plans (confidence, boundaries, money habits) mixing short reads, audio and one micro-challenge a day with friend check-ins.",
+    "build_effort": "medium",
+    "build_components": "Content library/CMS (summaries, podcasts), plan and challenge engine with daily scheduling and streaks, audio player with offline, goal-based personalisation, subscription; AI-generated summaries could cut content cost.",
+    "confidence": "medium"
+  }
+}

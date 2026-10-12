@@ -1,0 +1,500 @@
+{
+ "r:quickcastai英語リスニング": {
+  "exclude": false,
+  "name_en": "QuickCast - AI English Listening",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 2,
+   "K3": 3
+  },
+  "lens_note": "K3 core: any text becomes a level-matched audio episode for commute, walk or chores. K2 relevant on the input side (own URLs, PDFs, notes, YouTube; transcript and term hints for review), but the output is audio, not cards, quizzes or reels. Positioned as English-listening practice in the JP store.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "The mechanic (share-sheet ingestion into a personalised audio queue with adjustable depth) is language-agnostic and culturally neutral; only the English-learner positioning is local and could be re-pitched as 'learn anything from my own stuff'. Hurdles: rights to ingest articles and video transcripts, TTS cost per minute, and a crowded audio-summary space (inference). Traction is small (10 JP ratings at 4.3 since 2025-07).",
+  "idea_seed": "Share-to-listen for Gen Z women: send any article, lecture PDF, notes or YouTube link to the app and get a personalised audio episode at the depth you choose for your walk or commute, followed by a short set of recap cards.",
+  "build_effort": "medium",
+  "build_components": "Share extension; URL, PDF and YouTube-transcript ingestion; LLM summarisation with depth/level control; TTS with background and offline playback; listening queue and transcript view; recap cards; subscription. Main risks are content rights and TTS unit economics.",
+  "confidence": "high"
+ },
+ "r:sleepscapesleepaidalarmsleephabittracker": {
+  "exclude": false,
+  "name_en": "Sleepscape: Sleep Aid, Alarm and Sleep Habit Tracker",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: a sleep routine (aid, alarm, habit tracking) is a ritual and soft-discipline topic, but only the thread title is visible, so the real mechanic is unknown.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "A sleep bundle is language-agnostic and low-regulation as a wellness product (inference), and the English r/iosapps thread (50+ comments) shows interest, but nothing differentiating is visible beyond being iOS 26-native, the category is crowded (inference), and no store listing was found under this name.",
+  "idea_seed": "A two-minute evening wind-down ritual for Gen Z women that bundles calming sounds, a 'tomorrow's intention' tap and a gentle alarm into one good-night/good-morning loop, scored as a soft streak rather than a sleep-data dashboard.",
+  "build_effort": "medium",
+  "build_components": "Sleep-sound library and mixer; alarm scheduling (platform alarm APIs are the fragile part - inference); sleep-habit log with streak and widgets; optional HealthKit/Health Connect sleep import; subscription.",
+  "confidence": "low"
+ },
+ "r:복기복을부르는일기bokgi": {
+  "exclude": false,
+  "name_en": "Bokgi - The Luck-Bringing Diary",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: mood, achievements and habits logged in one low-effort record, with a positive 'luck' framing that suits soft self-improvement.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Tap-based entry (no long writing) is language-agnostic and lowers journaling friction; the 'luck' framing is Korean but maps to a manifesting / good-vibes tone (inference). 1,178 KR ratings at 4.76 show the format has pull; there has been no update since 2024-04 (possibly dormant - inference), and the luck-themed content itself would not travel.",
+  "idea_seed": "A three-tap daily check-in (mood, one win, habits done) framed as manifesting your good luck, which auto-builds a weekly 'good things' recap card so Gen Z women can journal without typing.",
+  "build_effort": "low",
+  "build_components": "Tap-based entry UI for mood, achievement and habit; calendar and recap views; reminders; local-first storage with optional sync; share cards; subscription for themes and insights.",
+  "confidence": "high"
+ },
+ "r:travelechotitletruncatedtravelechoai": {
+  "exclude": false,
+  "name_en": "Travel Echo (title truncated: 'Travel Echo: AI-...')",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 0,
+   "K3": 1
+  },
+  "lens_note": "Unverified, title only. If it is an AI travel/audio guide (inference from the name), it is loosely K3 (on-the-go audio) but destination-bound rather than goal-driven.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "No confirmed mechanic; a travel audio guide would depend on place-specific content and POI data (inference), and the app was not found in the US/HK stores (possibly delisted), which weakens any traction signal.",
+  "idea_seed": "Speculative (app unverified): an AI-narrated audio walk for exploring a new city or neighbourhood solo, generated on the fly to the user's interests and pace.",
+  "build_effort": "medium",
+  "build_components": "Geolocation and POI/maps data (licensing and cost); LLM script generation; TTS with background audio and offline packs; route and trip UI; subscription.",
+  "confidence": "low"
+ },
+ "r:yongshinhalmomaikoreanfortunetellingwebapp": {
+  "exclude": false,
+  "name_en": "Yongshinhalmom - AI Korean Fortune Telling (web app)",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose and assumption-based: divination content as an identity/ritual product. Web only and one comment on the thread, so there is no real signal on mechanics or demand. Borderline spiritual content, but not a religious-content app.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Birth-data readings map to astrology and personality content that Gen Z women already use (inference), but saju-specific content is culture-bound, AI 'predictions' raise accuracy and ethics concerns, and there is no store listing or traction evidence.",
+  "idea_seed": "A daily ritual reading for Gen Z women that turns birth data plus a one-tap mood check-in into a short, shareable personal reflection and one tiny action for the day (identity and ritual, not predictions).",
+  "build_effort": "low",
+  "build_components": "Birth-data and chart calculation library; LLM prompt templates with safety guardrails; daily push; share cards; subscription. Tone and trust are the real work.",
+  "confidence": "low"
+ },
+ "r:auraderreadaloudebooktts": {
+  "exclude": false,
+  "name_en": "Aurader: Read Aloud Ebook TTS",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 2
+  },
+  "lens_note": "K3 relevant: high-quality TTS of the user's own books for listening on the go, with soothing background music; no topic- or goal-based generation or personalisation. K2 loose: own material in, but long-form read-aloud rather than micro-learning.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Mechanic is language-agnostic and has already travelled: 168 US ratings (4.79) in about 8 months since release (2026-02-18) from a China-based maker, versus 395 in CN. Risks: TTS cost per hour and voice quality, ebook/PDF format handling, and a crowded read-aloud category (inference).",
+  "idea_seed": "Cozy listening for study and commute: drop in your own book, PDF or lecture notes and hear it read in a natural voice over ambient music tuned to the activity (walk, commute, wind-down).",
+  "build_effort": "medium",
+  "build_components": "EPUB/PDF parsing; cloud or on-device TTS with natural voices; background audio with sleep timer and offline; ambient-music layer with licensed or royalty-free tracks; library and bookmarks; Pro subscription.",
+  "confidence": "medium"
+ },
+ "r:随心听书离线有声书播放器": {
+  "exclude": false,
+  "name_en": "Suixin Audiobooks - Offline Audiobook Player",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 0,
+   "K3": 1
+  },
+  "lens_note": "K3 loose: an offline player for the user's own audiobook/book files and cloud or NAS libraries; it plays content, it does not generate or personalise it.",
+  "women_oriented": "no",
+  "dev_type": "solo",
+  "export_potential": 1,
+  "export_reason": "Own-files and self-hosted sources (NAS, AList, AudioBookshelf) are a power-user niche (inference); generic offline audiobook players are saturated (inference); and 24 CN ratings at 4.17 give no traction signal to learn from.",
+  "idea_seed": "A 'my audio shelf' for Gen Z women that pulls their own lectures, podcasts and book files into goal-based playlists ('morning walk', 'wind-down') with offline playback and resume.",
+  "build_effort": "low",
+  "build_components": "File import (Files/iCloud/Drive); background audio player with offline and resume; library and playlists; optional cloud-drive connectors; paywall.",
+  "confidence": "medium"
+ },
+ "r:拾芽shiya亲子打卡与成长存钱罐": {
+  "exclude": true,
+  "exclude_reason": "Parenting/children's category: parent-child check-in and growth piggy bank, with bedtime stories generated from a young child's day (per V2EX interview); the audience is parents of small children, not Gen Z women, and parenting/kids apps are out of scope. Aside: the 'turn your own day into a personalised bedtime story' mechanic could be adapted to adult wind-down audio."
+ },
+ "r:marknow习惯打卡日常记录健康打卡时间管理": {
+  "exclude": false,
+  "name_en": "MarkNow - Habit Check-in, Daily Log, Health Log and Time Management",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: habit and health check-ins plus daily logs in one app, but it is a generic, customisable tracker (power-user flavour) rather than a gentle, identity-led ritual.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "User-defined record types (text, number, toggle) are language-agnostic and the format has clear CN demand (422 ratings at 4.8; comparable check-in apps by tiny devs reach 3,267 ratings at 4.92), but a build-your-own tracker skews to quantified-self users, so Gen Z women would likely need opinionated templates and aesthetics (inference).",
+  "idea_seed": "A make-your-own tracker with pretty templates (skincare routine, cycle symptoms, gratitude, workouts) where the user can add custom fields and gets an aesthetic weekly recap.",
+  "build_effort": "low",
+  "build_components": "Dynamic field-schema engine (text, number, toggle); template gallery; charts and weekly recap; widgets and reminders; local-first storage with optional sync; paywall. The original was built by one dev in three months with Flutter.",
+  "confidence": "high"
+ },
+ "r:呱呱计数习惯打卡软件": {
+  "exclude": false,
+  "name_en": "Guagua Counter - Habit Check-in",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: habit check-in with a mascot that visualises accumulated effort (cute-companion mechanic). The visualisation details are not visible; the mascot idea comes from the sspai article.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Counter-plus-mascot is language-agnostic, and the strong signal is quality: 2,413 CN ratings at 4.91 for a solo dev since 2025-01-02. Cute-companion habit apps are already a recognised category in the US (Finch-style apps are cited elsewhere in this packet), so differentiation, not transferability, is the issue.",
+  "idea_seed": "A habit counter whose mascot visibly grows or redecorates with every logged effort - counter-first, no guilt - so small repeated actions show up as a character and a room that fill up over time.",
+  "build_effort": "low",
+  "build_components": "Counter/check-in logic with progress that does not depend on streaks; mascot animation (Rive/Lottie) and evolution states; widgets and reminders; local storage with optional sync; paywall for skins.",
+  "confidence": "medium"
+ },
+ "r:黑鸟日记时间胶囊心情日记blackbirddiary黑鸟写信": {
+  "exclude": false,
+  "name_en": "Black Bird Diary - Time Capsule and Mood Diary (Black Bird Letters)",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: journaling with mood recording built around a 'letter to your future self' time-capsule hook, a reflective ritual rather than a daily log.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Delayed-open letters are language-agnostic and emotionally sticky, with a return reason built in; 263 CN ratings at 4.9 since 2025-05 from a solo dev. Risks: 'future letter' tools are an established niche (inference) and retention depends on the open-date mechanic rather than daily use.",
+  "idea_seed": "Sealed 'letters to future me' that unlock on a chosen date or milestone, with a mood check-in attached and a year-end recap of everything you wrote to yourself.",
+  "build_effort": "low",
+  "build_components": "Rich-text, voice and photo letter editor; scheduled unlock with local and push notifications; mood tagging; lock/encryption and cloud backup; share cards; paywall.",
+  "confidence": "medium"
+ },
+ "r:rehabit": {
+  "exclude": false,
+  "name_en": "ReHabit",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: a daily-habit app structured on a self-improvement book (The 7 Habits of Highly Effective People), but the framework is effectiveness-oriented rather than gentle or identity-led. Not found in the CN/US stores (renamed or removed), so unverified.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Framework-led habit programmes are language-agnostic and a book hook is a clear positioning device, but branded frameworks raise IP and licensing questions (inference), plain habit tracking is saturated (inference), and there is no traction or store evidence.",
+  "idea_seed": "Book-to-routine: pick the self-help book you are reading and get a weekly programme of micro-habits and reflection prompts drawn from its principles.",
+  "build_effort": "low",
+  "build_components": "Habit tracker core; programme/content engine (weekly plans, prompts); reminders and progress views. An optional LLM step that generates programmes from a user-chosen book would add content-rights and quality checks.",
+  "confidence": "low"
+ },
+ "r:onemood心情日记手帐情绪状态管理": {
+  "exclude": false,
+  "name_en": "OneMood - Mood Journal and Emotional-State Management",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core by category (mood diary with emotional-state tracking). The title includes 手帐 (decorative hand-journal/planner culture), which suggests an aesthetic-journal angle (inference), but no differentiating mechanic is visible in the packet.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Mood journaling is language-agnostic, but the packet shows no distinctive mechanic, mood journals are a crowded category (inference), and traction is weak (67 CN ratings at 4.57 since 2023-08).",
+  "idea_seed": "A mood journal that looks like a scrapbook page (stickers, washi tape, photo collage), where the decorated entry itself is the mood log and can be posted as a story card.",
+  "build_effort": "low",
+  "build_components": "Entry editor with stickers and templates; mood scale and charts; calendar view; lock and backup; share-card export; paywall for sticker packs.",
+  "confidence": "medium"
+ },
+ "r:me让健康更直观": {
+  "exclude": false,
+  "name_en": "Me - Make Health More Visual",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: mood, health and 'relationships' records shown as visual charts, a personal-dashboard take on wellbeing. What the relationships record contains (a people log? - inference) is not clear from the snippet.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Charts over mood and health logs are language-agnostic, but it is a generic dashboard; the one distinctive element (relationship tracking next to mood) is unclear, and health records add sensitive-data obligations (inference). 513 CN ratings at 4.74 since 2023-10.",
+  "idea_seed": "A mood-and-people log: tag who or what you were with when you felt good or drained, and get a weekly 'who lifts me / who drains me' chart.",
+  "build_effort": "low",
+  "build_components": "Mood, people and activity logging UI; tags and simple correlation charts; reminders; local-first encrypted storage; optional HealthKit/Health Connect import; paywall.",
+  "confidence": "medium"
+ },
+ "r:心光ai生活记录伴侣xinguang": {
+  "exclude": false,
+  "name_en": "Xinguang (Heart-Light) - AI Life-Logging Companion",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: an AI companion on top of daily life and mood logging (journal plus companion). The packet does not describe mechanics beyond 'AI note and life record'.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 3,
+  "export_reason": "Strongest traction in this batch (12,705 CN ratings at 4.83 since 2022-12), so the AI life-log companion has proven pull; but the category is crowded in the US (inference), the mechanics are not visible, and AI journaling needs mental-health safety handling and strict privacy.",
+  "idea_seed": "An AI 'journal friend' you text or voice-dump to during the day, which turns scattered logs into an evening reflection and a weekly 'what I did / how I felt' recap in a warm persona rather than a clinical coach.",
+  "build_effort": "medium",
+  "build_components": "Chat/voice capture with speech-to-text; LLM summarisation with long-term memory over entries; recap generation; safety layer for crisis language; encryption and data-deletion controls; subscription. LLM cost per user is the economic risk.",
+  "confidence": "medium"
+ },
+ "r:dayceデイスライフログ音声ジャーナル": {
+  "exclude": false,
+  "name_en": "Dayce - Life Log and Voice Journal",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 1
+  },
+  "lens_note": "K1 core: bedtime voice journaling with an AI-written diary as a low-friction ritual. K3 loose: audio is the input channel, not on-the-go listening content.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Speaking instead of writing is language-agnostic (speech-to-text and LLMs cover many languages - inference) and lowers journaling friction; but the evidence is thin (a note.com post with 2 likes, not found in the JP App Store by name), the AI-diary space is contested (inference), and voice data raises privacy duties.",
+  "idea_seed": "A 60-second bedtime voice debrief: talk about your day, get an AI-written diary entry, one gratitude highlight and a gentle prompt for tomorrow, with no typing.",
+  "build_effort": "medium",
+  "build_components": "Voice recording and speech-to-text; LLM diary generation; entry timeline and search; evening reminder; privacy controls (audio retention and deletion); subscription.",
+  "confidence": "low"
+ },
+ "r:kokorune": {
+  "exclude": false,
+  "name_en": "kokorune",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant by category only (a diary-creation app); no mechanic is described and no store listing was found, so nothing app-specific can be assessed.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 1,
+  "export_reason": "Nothing is known about the mechanic or differentiation, no store listing was found, and the only traction signal is 30+ users on launch day (a note.com post with 9 likes).",
+  "idea_seed": "Generic seed only, nothing app-specific to transfer: a one-line-a-day diary with gentle prompts whose edge would have to come from tone and aesthetics for Gen Z women.",
+  "build_effort": "low",
+  "build_components": "Entry editor; calendar view; reminders; local storage with backup; lock. Standard diary scaffolding.",
+  "confidence": "low"
+ },
+ "r:tubehabit動画と一緒に習慣化・記録・ルーティン": {
+  "exclude": false,
+  "name_en": "TubeHabit - Build Habits, Logs and Routines with Videos",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 1,
+   "K3": 0
+  },
+  "lens_note": "K1 core: a habit/routine app whose unit is a video the user already likes. K2 loose: user-supplied links (the user's own material) become the habit list, but no short-form learning content, cards or quizzes are generated.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Linking a habit to a specific video is language-agnostic and needs no content licensing (the user brings the link), and video-led workouts and study routines are common (inference); but it reads as a feature rather than a standalone product (inference), and traction is minimal (3 JP ratings at 5.0, released 2025-10-14).",
+  "idea_seed": "Turn the YouTube workout, yoga or study video you already love into a daily routine: paste the link, tick it off, and watch the streak build around that exact video.",
+  "build_effort": "low",
+  "build_components": "URL parsing and metadata/thumbnail fetch (oEmbed/API); habit and routine engine with logging and streaks; reminders and widgets; optional in-app player (check platform terms); paywall.",
+  "confidence": "medium"
+ },
+ "r:routiny루티니습관루틴관리식물키우기": {
+  "exclude": false,
+  "name_en": "Routiny - Habit and Routine Manager with Plant Growing",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: routines drive a cute plant companion (reward loop), so soft discipline works through nurturing. Only 1 rating so far; velog posts document the solo dev's global launch and an 'honest reality' one week in.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "The plant-companion reward loop is language-agnostic and visually universal, and the solo dev is already targeting a global launch (velog posts, v2.3.0), but traction is near zero (1 KR rating since 2026-02-20). It validates how easy the pattern is to build rather than demand, and the category has known incumbents (Finch is cited elsewhere in this packet).",
+  "idea_seed": "A plant or tiny garden that grows only when you complete your daily routines and wilts gently, never punitively, if you skip, so soft discipline feels like caring for something.",
+  "build_effort": "low",
+  "build_components": "Routine/habit engine; plant growth states and art (Rive/Lottie); reminders and widgets; local storage with optional sync; paywall for plant species. The original was built cross-platform in Flutter by one dev.",
+  "confidence": "medium"
+ },
+ "r:히어릿hearit개발자를위한it팟캐스트": {
+  "exclude": false,
+  "name_en": "hEARit - IT Podcasts for Developers",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 2
+  },
+  "lens_note": "K3 relevant: short, topic-based audio explainers (CS, IT trends, frameworks) plus easy podcast discovery, but curated rather than generated or personalised, and aimed at developers. K2 loose: audio micro-learning without user material.",
+  "women_oriented": "no",
+  "dev_type": "small team",
+  "export_potential": 2,
+  "export_reason": "Content-bound (Korean developer audience) and a bootcamp team project with 3 ratings and about 100 first users; only the 'short audio explainers for one professional niche' pattern travels.",
+  "idea_seed": "Vertical micro-podcasts: 3-5 minute walk-and-learn audio explainers for one career path that Gen Z women are entering, such as early-career tech or nursing, assembled from curated sources.",
+  "build_effort": "medium",
+  "build_components": "Podcast/RSS index and search, or AI-generated episodes with TTS; short-episode player with background and offline; topic follows and daily queue; curation/CMS. Content sourcing and rights are the real bottleneck.",
+  "confidence": "medium"
+ },
+ "r:areyoudead死了么demumu": {
+  "exclude": false,
+  "name_en": "Are You Dead? (Demumu)",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: a one-tap daily check-in with an emergency contact is a safety/accountability ritual rather than self-improvement. Global-viral borderline case, not a local-only find; the original was not found in the CN store (many clones in the US store).",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "The mechanic is trivial and language-agnostic, virality came from the provocative name (per packet), and living alone and personal safety are universal themes (inference). But clones already exist in the US store, and alert reliability (a missed alert has real-world consequences) creates duty-of-care, consent and SMS/push-delivery risk.",
+  "idea_seed": "A 'got home safe' or daily 'I'm okay' tap shared with 2-3 close friends, who get a gentle nudge if you miss it, framed as care rather than surveillance, for women living alone, commuting late or going on dates.",
+  "build_effort": "medium",
+  "build_components": "One-tap check-in; scheduler with escalation to contacts via push/SMS; contact invites and consent; background-reliability handling on iOS/Android; optional location sharing; legal disclaimers. Delivery reliability is the hard part.",
+  "confidence": "low"
+ },
+ "r:catzyselfcarejourney": {
+  "exclude": false,
+  "name_en": "Catzy: Self-Care Journey",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: cute pet-companion self-care (care for a cat, care for yourself) in the Finch style. The Reddit snippet is a community header, so mechanics beyond the framing are not visible. Women-orientation is not stated, but the category skews female (the packet cites Finch in r/adhdwomen).",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 5,
+  "export_reason": "Already English-language and in the US store: 1,075 US ratings at 4.88 since 2024-11-11 from a small Chinese studio, which shows the pet-companion self-care mechanic is language-agnostic and travels. The risk is not transfer but differentiation against established Finch-style apps.",
+  "idea_seed": "A pet-companion self-care app where caring for the pet is the daily check-in loop, differentiated from Finch-style incumbents by a sharper niche such as cycle-aware days, study mode or friend pods.",
+  "build_effort": "medium",
+  "build_components": "Companion art and animation (illustration is the bottleneck); care loop with in-app currency and items; daily goals and check-ins; notifications and widgets; journaling/mood module; subscription; economy balancing.",
+  "confidence": "medium"
+ },
+ "r:publickz": {
+  "exclude": false,
+  "name_en": "publickz",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 2,
+   "K3": 0
+  },
+  "lens_note": "K2 relevant on format: the user's own long video becomes short vertical (reel-style) clips, which is the K2 output format, but the product appears aimed at creators repurposing content rather than learners (inference from the title).",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Long-video-to-vertical-clips is language-agnostic, but it is a web tool with no traction yet (3 comments, about 3 weeks old), the repurposing category is crowded (inference), and heavy video processing makes unit economics and third-party copyright hard.",
+  "idea_seed": "Lecture-to-reels: upload a recorded lecture or long video and get 30-60 second vertical study clips with captions and one recap card each, ready to scroll between classes.",
+  "build_effort": "high",
+  "build_components": "Large-file upload and background processing; transcription; LLM segment selection and titles; vertical reframing and burned-in captions (FFmpeg/render pipeline); storage/CDN; in-app reel player; quiz/recap cards; subscription. Compute cost per hour of video.",
+  "confidence": "low"
+ },
+ "r:aydaperiodtrackerayda": {
+  "exclude": false,
+  "name_en": "Ayda - Period Tracker",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: cycle tracking (cycle-aware wellness) positioned for Muslim women with a faith-and-self-care framing. Borderline on the religious-content rule: a health tracker with a faith identity rather than a religious-content app, so kept and flagged; whether it carries faith-specific content is not visible.",
+  "women_oriented": "yes",
+  "dev_type": "small team",
+  "export_potential": 3,
+  "export_reason": "Already in the US store (277 ratings at 4.84 since 2025-05-09) and launched in a women-first community rather than a dev forum; the transferable pattern is identity-first positioning of a crowded category. The faith niche itself is not our audience, and cycle data is sensitive (privacy/regulatory exposure - inference).",
+  "idea_seed": "An identity-first cycle companion for one specific community of US Gen Z women, such as student athletes, PCOS or neurodivergent users, launched inside that community's own subreddits and groups instead of dev channels.",
+  "build_effort": "medium",
+  "build_components": "Cycle logging and prediction; symptom and mood tracking; notifications; educational content per identity niche; privacy and data-deletion controls (health-data laws); optional partner sharing; subscription.",
+  "confidence": "medium"
+ },
+ "r:wellnessjournalappforwomenofcolormuslimahsweunearthedcom": {
+  "exclude": false,
+  "name_en": "Wellness journal for women of color and muslimahs (weunearthed.com)",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: identity-specific wellness journaling by a woman founder, in beta; testers are recruited via r/muslimdevs and r/BetaTestersNeeded. Mechanics beyond 'wellness journal' are not visible.",
+  "women_oriented": "yes",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Identity-specific journaling is language-agnostic and a clear positioning (built for women of color, by a woman) that could be adapted to other under-served groups; but it is pre-launch with minimal traction (1 and 5 comments), has no store listing, and its authenticity depends on the founder's lived experience (inference).",
+  "idea_seed": "A guided wellness journal co-designed with one under-served identity group of Gen Z women, with prompts, affirmations and cultural references written in that community's own voice.",
+  "build_effort": "low",
+  "build_components": "Guided journal prompts and templates; mood and gratitude tracking; reminders; private/encrypted storage; community content co-design (the main effort); optional subscription.",
+  "confidence": "medium"
+ },
+ "r:deendoor": {
+  "exclude": true,
+  "exclude_reason": "Religious-content app: daily Islamic practice companion (Quran, prayer times per the thread titles); out of scope by rule. Also 0 US ratings, released 2026-09-12."
+ },
+ "r:sukoonlife": {
+  "exclude": true,
+  "exclude_reason": "Religious-content app: Islamic lifestyle video feed with stories on the prophets. Aside: the reel-style feed format is generic K2 and not specific to this app."
+ },
+ "r:nemonicaiaudiocourses": {
+  "exclude": false,
+  "name_en": "Nemonic - AI Audio Courses",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 3,
+   "K3": 3
+  },
+  "lens_note": "Direct K2 x K3 hybrid: a goal, topic or own PDF goes in; 5-60 minute hands-free audio lessons come out, followed by spaced-repetition practice (the K2 loop). The store text claims 3,900+ audio lessons. The match of the store listing to the Reddit thread is probable, not confirmed.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "US-native already (no localisation barrier) and content-agnostic because the user supplies the goal or PDF; held at 4 because traction is thin (15 US ratings at 5.0 since 2026-03-28, last update 2026-10-06) and goal-only audio courses carry hallucination and quality risk.",
+  "idea_seed": "Goal-to-audio-course for walks and commutes: a Gen Z woman types a goal ('understand therapy-speak', 'ace my nursing exam') or drops in her notes PDF and gets a short personalised audio series plus quick spaced-repetition prompts for her next walk.",
+  "build_effort": "medium",
+  "build_components": "PDF/URL/topic ingestion; LLM curriculum and script generation with grounding checks (hallucination control); multi-voice TTS; audio player with background, offline and downloads; spaced-repetition scheduler and quiz cards; subscription; generation cost controls (TTS minutes).",
+  "confidence": "medium"
+ },
+ "r:gipfl": {
+  "exclude": false,
+  "name_en": "Gipfl",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: accountability with friends. One private shared habit grid with a row per person for a partner or a few close friends, no public feed. Based on the thread title; not found in the US App Store by name.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "A tiny, language-agnostic mechanic with no moderation burden (friends only) and a built-in invite loop; the risks are cold start per group and shared-habit features in existing trackers (inference). Evidence is a 10+ comment r/SideProject thread and no store listing.",
+  "idea_seed": "A private friend-circle habit grid for 2-5 close friends: one shared weekly grid, one row per friend, tiny nudges and a Sunday recap, with no public feed, streak shaming or leaderboards.",
+  "build_effort": "low",
+  "build_components": "Accounts (Sign in with Apple/Google); invite and deep links; shared grid data model with near-real-time sync; push nudges; weekly recap; light moderation (block/leave); subscription.",
+  "confidence": "low"
+ },
+ "r:momentumappmomentumtrackcom": {
+  "exclude": false,
+  "name_en": "Momentum (app.momentumtrack.com)",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: a web habit tracker. The packet shows only the 'made for my girlfriend' story (600+ comments in r/webdev plus a 90+ comment update thread) and no mechanic, so the engagement measures the story, not demonstrated app usage.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "No mechanic is visible; the signal is the emotional 'built for her' hook (inference: a marketing angle rather than a feature), and the product is a web app with no store or user-count evidence.",
+  "idea_seed": "Speculative: let one friend or partner build a routine for another and send it as a link she can adopt in one tap, turning the 'made for my girlfriend' hook into a sharing loop.",
+  "build_effort": "low",
+  "build_components": "Habit tracker core; routine templates with shareable links/deep links; accounts or an anonymous claim flow; reminders; paywall.",
+  "confidence": "low"
+ }
+}

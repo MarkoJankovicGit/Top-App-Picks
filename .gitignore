@@ -9,3 +9,11 @@ research/analysis/batches/batch_*.json
 __pycache__/
 *.pyc
 .env*
+
+# Arhive i veliki globalni podaci (regenerisu se skriptama)
+*.zip
+research/data/global/
+research/analysis/psych_packet_*.json
+research/analysis/global_batches/
+research/analysis/reddit_batches/
+research/analysis/check_*.json

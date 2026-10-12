@@ -1,0 +1,2837 @@
+{
+  "apps": {
+    "1553223828": {
+      "core": "Makes self-reflection feel effortless and safe: a 5-minute, no-writing life log that lets tired or overwhelmed users feel on top of their own life and see themselves clearly, without the pressure of a blank page.",
+      "trigger": "Wanting to remember and make sense of their days and moods without the effort of journaling: busy or tired days (\"even when you are tired\"), ADHD habit-building trouble (\"As someone with adhd, it’s really hard to build habits\"), tracking moods, meds and periods, and wanting a private place for feelings. Parents also use it with kids (1.25).",
+      "retention": {
+        "cue": "End-of-day prompt and a low-effort routine; invite codes that unlock themes.",
+        "action": "Tap moods/activities/custom blocks, optionally a few words or a photo; about five minutes.",
+        "reward": "Cute beans and monthly themes, 'insights' on what makes you feel best and worst, a calendar to look back on (friends, memories), streak pride.",
+        "feeling": "Light, organized, kept-together, no pressure.",
+        "evidence": "Long tenure in sample: \"324 days consistently\", 514 days, \"everyday for the past 4 years\"."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Users describe a light, low-pressure companion for tired or pressured days; irritation appears only when ads and pay-gates interrupt it.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "keep it low pressure on your self"
+          },
+          {
+            "rating": 5,
+            "quote": "Great for a pressured day. :)"
+          }
+        ]
+      },
+      "identity": "Weak identity framing; the recurring statement is self-knowledge: \"I’ve learned a lot about myself and my daily routines\" and \"It helped me find patterns in my mood\", plus life-impact claims (\"in so many areas of my life\").",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "\"cute\" is the most common adjective (13 reviews mention cute/aesthetic/adorable, including negative ones). Users love the beans, monthly themes and icons; the clover economy for cosmetics is the main grievance."
+      },
+      "social": "No peer layer. A referral loop (invite -> free themes, 1.10) and a request for a shared \"memory book\" with friends (1.2); the log doubles as a memory archive (\"see pictures of my friends and things i did a while ago\"); family cross-use (mother, kids).",
+      "money": {
+        "pays_for": "No satisfied payer is evidenced in the sample. Users want cosmetics (themes, icons, extra emotions) through an earn-or-buy 'clover' economy and would pay for a one-time lifetime license.",
+        "price_points": [
+          "Premium described as 'hefty' annual/monthly, no figure",
+          "Wish: \"Maybe if it was a dollar a month I’d consider it\" (1.29)",
+          "Lifetime license requested (1.3, 1.16, 1.36)"
+        ],
+        "paywall_complaints_in_sample": 14,
+        "sample_size": 38,
+        "notes": "14 of 38 reviews complain: 6 about ads firing on every save/edit, the rest about clover/premium pricing. \"5 stars once they let me buy a lifetime license\" (1.3) shows pricing-model preference."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: dominant cute/aesthetic language and emoji (💗🍉🎀), \"menstruations\" and \"period tracker\" use (1.17, 1.27), a mother and daughter both using it; no explicit self-identification."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "this has been the only one that has stuck successfully, and I think that’s because you can really customize it to your needs"
+        },
+        {
+          "rating": 5,
+          "quote": "keeps it light and simple ! Super nice way to track things even when you are tired :)"
+        },
+        {
+          "rating": 5,
+          "quote": "it’s so amazing to be able to look back and see pictures of my friends and things i did a while ago"
+        },
+        {
+          "rating": 4,
+          "quote": "i hate adding to my list of subscription to worry or bother with"
+        },
+        {
+          "rating": 2,
+          "quote": "Having to watch ads every time you edit an entry is ridiculous."
+        }
+      ],
+      "anti_patterns": [
+        "Interstitial ads after every save/edit, growing longer: \"3 minutes of a monopoly ad that played on a 30 second loop\" (1.33), \"actual torture now being a free user\" (1.32).",
+        "A soft-currency economy that makes cute cosmetics hard to reach, and a premium tier that does not include them: \"I thought that by paying for premium I would get access to themes\" (1.35).",
+        "No one-time/lifetime option: \"I hate monthly and yearly subscriptions\" (1.36).",
+        "Drift from a safe private space into monetization: \"it felt like just a place where I can write down anything I felt\" (1.34).",
+        "A password bug that forces a full reset (1.31)."
+      ]
+    },
+    "1508326506": {
+      "core": "A private, endlessly personalizable emotional diary that makes users feel witnessed by their own archive: feelings, including sad ones, become drawn, collected, pretty entries rather than something to hide or fix.",
+      "trigger": "Needing somewhere to put feelings without telling people: \"i have trouble expressing my emotions\" and \"i dont want to talk abt stuff with people bc im not ready\". Also mood tracking for mental health (2.16), low mood (\"all I can track is how I’m sad\") and creative self-expression.",
+      "retention": {
+        "cue": "Home-screen mood widget, end of day, an emotional moment.",
+        "action": "Pick or draw an emoji, write a line, add a photo or voice note; decorate with fonts and stickers.",
+        "reward": "A beautiful personal archive: the mood calendar and the \"“universe” of emotions over the years\", past entries from the same day, pets and stickers, light social reactions.",
+        "feeling": "Calm, therapeutic, safe and 'mine'; attachment is strong enough that users fear losing it (\"i hope nothing happens to this app\").",
+        "evidence": "\"i have a 1,244 day writing streak\"; about 4 years (2.4, 2.36), 3 years (2.12), 5-6 years (2.11, Chinese review)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Comfort, privacy and not being judged are the core feeling; sadness is welcome rather than fixed.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Definitely a comforting safe space.. Lots of reassurance and privacy, I love it."
+          },
+          {
+            "rating": 5,
+            "quote": "A friend that dosent make fun of you"
+          }
+        ]
+      },
+      "identity": "Expressive and relational rather than aspirational: \"journaling has helped me have a better connection with myself\", \"Changed my life once i found the right emojis for me\", \"I don’t think I could use any other app, it means a lot to me!\". The record becomes part of the self: when an update wiped custom emotions from widgets, \"it’s not accurate to how i felt at those days anymore\".",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "8 reviews mention cute/aesthetic; users stress doodling their own emojis and customizing fonts, colors and backgrounds: \"It makes journaling enjoyable and aesthetic.\""
+      },
+      "social": "Mostly private, with a light social layer that helps retention: \"a social aspect that encourages you to hop back on\" (2.6). Likes/follows lost in the update caused outrage (2.11, Chinese review); invite codes (2.31). The emotional core is anonymous witnessing, not peer pressure.",
+      "money": {
+        "pays_for": "Premium (more photos, longer audio, features): \"PRO TIP: the $$ option is worth it!\" (2.16); long-time users had bought a one-time premium years ago (2.4).",
+        "price_points": [
+          "4.99 monthly or 40 annually (2.29, currency not stated)",
+          "$30.00 to be a member (2.36)",
+          "Legacy one-time premium (2.4)"
+        ],
+        "paywall_complaints_in_sample": 5,
+        "sample_size": 40,
+        "notes": "5 of 40 reviews complain about monetization (a legacy buyer offered a subscription, ads required to attach photos, invite codes working only for premium payers). About 10 further reviews complain about the update itself (lost data, layout and preferences) rather than about price."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: heavy 'so cute', 'obsessed', 'sm' language, stickers and pets, mood-journal use. Many reviews are in Chinese or Russian, so the base is global rather than US-only."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Definitely a comforting safe space.. Lots of reassurance and privacy, I love it."
+        },
+        {
+          "rating": 5,
+          "quote": "i have trouble expressing my emotions and i think this app is perfect for me because i dont want to talk abt stuff with people bc im not ready"
+        },
+        {
+          "rating": 5,
+          "quote": "i have a 1,244 day writing streak"
+        },
+        {
+          "rating": 5,
+          "quote": "It makes journaling enjoyable and aesthetic."
+        },
+        {
+          "rating": 3,
+          "quote": "I said that i was sad bc my grandma called me big and it sent me to s weight loss app???"
+        }
+      ],
+      "anti_patterns": [
+        "A forced redesign that destroyed personal investment: \"Update ruined everything.\" (2.36); custom emotions in widgets lost (2.34); likes/follows gone (2.11); notes lost (2.37); fonts and colours changed (2.38). A Russian-language 1-star review says the diary was turned into a game (2.32).",
+        "Monetizing what loyal users already had: a one-time premium holder is shown a subscription (2.4); photos now need ads or a membership: \"You have to watch ADS to add more than one picture OR pay $30.00\" (2.36); ads that fail block the feature (2.30).",
+        "A body-image cross-sell at a vulnerable moment: \"I said that i was sad bc my grandma called me big and it sent me to s weight loss app???\" (2.40).",
+        "Removing a preference people relied on: \"they removed the hide days with no diary preference option\" (2.35)."
+      ]
+    },
+    "6746586837": {
+      "core": "Turns self-discipline into a status game: XP, an OVR rating and 'prestige' make becoming 'locked in' feel like leveling up a character, offering hype and rank rather than comfort.",
+      "trigger": "Hope for a fresh start and visible transformation: \"Seems like it can really change your life\", \"I feel like this app will change me\", wanting to get fit or get \"back on track\". Meme-driven 'lock in'/'aura' culture with teen-coded slang; at least one reviewer is a teen (\"I’m 14\"). Most positive reviews are written at install or on day one.",
+      "retention": {
+        "cue": "Daily habits and goals, tags, streaks and heatmaps.",
+        "action": "Log habits and workouts, journal, breathe, earn XP.",
+        "reward": "XP -> OVR rating, ranks and \"prestige\".",
+        "feeling": "Hype, 'getting stronger', status.",
+        "evidence": "Thin: about 10 of 28 positive reviews are pre-use hope (\"Is it free. Let’s see\"); median positive review is 56 characters; only 3.22 (\"locked in forever since i got ts\") and 3.25 hint at sustained use."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Gamified status language (rank, prestige, XP) and meme hype; no gentleness vocabulary.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Self improvement while gaining prestige and ranks by doing it."
+          },
+          {
+            "rating": 5,
+            "quote": "It reallly hyped me up and i couldn’t feel like im getting stronger"
+          }
+        ]
+      },
+      "identity": "Transformation is promised rather than reported: \"I feel like this app will change me\", \"I hope it would change my life or my fit\", \"really showed me the steps i needed to take on getting back on the right path for my life\". The paywall is read as identity-blocking: \"Why should I have to pay to make myself better?\"",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "No review mentions design, cuteness or colour; the appeal is rank and status."
+      },
+      "social": "None in-app; status is solo (rank/prestige). Peer talk is meme-speak: \"Just download it bro it’s worth it\".",
+      "money": {
+        "pays_for": "Nothing is evidenced as paid-and-happy; all money talk in the sample is refusal.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 11,
+        "sample_size": 40,
+        "notes": "11 of 40 reviews (all 1-star) are paywall complaints: \"Listed on the AppStore as a free app, instant paywall after download\" (3.33), a long quiz then a paywall (3.30, 3.32, 3.40), and an explicit affordability barrier: \"I’m 14 I don’t have money\" (3.38)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Male/teen-coded slang ('aura', 'locked tf in', 'tuff', 'bro'), a Call of Duty analogy, gym/muscle-group requests; almost no female-coded language."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "If you have ever played call of duty you will love this! Self improvement while gaining prestige and ranks by doing it."
+        },
+        {
+          "rating": 5,
+          "quote": "It reallly hyped me up and i couldn’t feel like im getting stronger"
+        },
+        {
+          "rating": 1,
+          "quote": "to reel you in, just to slap you with a subscription before you can truly use the app"
+        },
+        {
+          "rating": 1,
+          "quote": "Why should I have to pay to make myself better?"
+        },
+        {
+          "rating": 1,
+          "quote": "I’m 14 I don’t have money"
+        }
+      ],
+      "anti_patterns": [
+        "An intake about personal struggles followed immediately by a hard paywall: \"just to slap you with a subscription before you can truly use the app\" (3.30); \"the paywall after that annoyingly long quiz is a bummer\" (3.40).",
+        "A 'free' store listing with no free tier: \"Listed on the AppStore as a free app, instant paywall after download\" (3.33).",
+        "Moralized pricing: \"You have to buy a membership to work on yourself\" (3.29), \"Why should I have to pay to make myself better?\" (3.36).",
+        "Reaching teens with no affordable path: \"I’m 14 I don’t have money\" (3.38)."
+      ]
+    },
+    "6742278016": {
+      "core": "Turns self-control into caretaking: you stay off your phone for a little Bean who would be sad otherwise and who needs a home decorated, so focus feels like looking after someone instead of restraining yourself.",
+      "trigger": "Compulsive phone use and trouble sustaining attention for study or chores, often with ADHD: \"When I compulsively grab my phone\", \"As someone with adhd it makes me stay on track\", \"helped my short attention span\". Students (MCAT, homework) are the core.",
+      "retention": {
+        "cue": "The urge to grab the phone, or the start of a study/work block.",
+        "action": "Start a Bean timer (Deep Focus locks distracting apps) and stay to the end; decorate during breaks.",
+        "reward": "Prizes (socks, scarves) that buy decorations for the Bean's rooms, skins, puns and animation.",
+        "feeling": "Delight plus a gentle duty to a character (\"accountable to a little bean and his knitting hobby\"), relief compared with doomscrolling.",
+        "evidence": "\"I’ve been using it since it came out\"; lifetime-pro owners. Loop ceiling: \"the rooms were filled, there’s nothing left to accomplish by staying focused anymore\" (4.31)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "No-pressure, no-ads, no-data-tracking trust language plus mild, affectionate guilt toward a character (not toward oneself).",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "no pressure if I do inevitably get distracted"
+          },
+          {
+            "rating": 5,
+            "quote": "really helps me stay focused because i don’t want my bean to be sad"
+          }
+        ]
+      },
+      "identity": "Mostly functional identity (student, ADHD brain) rather than aspiration: \"it’s changed the way I study\", \"This app is fully a mental health rescue for me\", \"The only app that actually keeps me off my phone\".",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "8 reviews use cute/stylish/beautifully animated; hand-drawn rooms and decor are the reward itself (\"it’s all hand drawn\")."
+      },
+      "social": "No peer layer, and the most common request is for one: \"I would love an update where you could have friends and focus together!\" (4.7), \"ADD FRIENDS/Neighbors!!!\" (4.28). Creator trust helps: \"Hank Green Fan. Doesn’t track your data! Nice!\" (4.13).",
+      "money": {
+        "pays_for": "Pro: longer timers, whitelisting, more socks/decorations. Lifetime-pro owners are vocal fans: \"Paying for pro is super worth it, too.\"",
+        "price_points": [
+          "$30 lifetime (4.31)",
+          "\"$40 for an app purchase seems steep to me\" (4.33)"
+        ],
+        "paywall_complaints_in_sample": 3,
+        "sample_size": 35,
+        "notes": "3 of 35 reviews complain (16 focus-hours to unlock a room unless you pay, a 2-hour free timer cap, whitelisting moved behind the paywall); one affordability mention (\"I’d get pro but I’m poor\"). Users praise that real money cannot buy rewards: \"you can't buy socks or scarfs with real money other focus apps do that and it ruins the purpuse\" (4.21)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: decor/cute language, \"beany baby\", many students and ADHD self-descriptions; no explicit gender markers."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "really helps me stay focused because i don’t want my bean to be sad"
+        },
+        {
+          "rating": 5,
+          "quote": "It’s so delightful, first of all, to be accountable to a little bean and his knitting hobby."
+        },
+        {
+          "rating": 5,
+          "quote": "No ads to distract me, no stealing data, no pressure if I do inevitably get distracted."
+        },
+        {
+          "rating": 5,
+          "quote": "HES JUST A LIL GUY LET HIM FINISH MAKING THE SOCKS"
+        },
+        {
+          "rating": 1,
+          "quote": "whitelisting apps to allow during a timer is now locked behind the paywall when it wasn't before"
+        }
+      ],
+      "anti_patterns": [
+        "Moving a previously free feature behind the paywall: \"whitelisting apps to allow during a timer is now locked behind the paywall when it wasn't before\" (4.32).",
+        "Slow free progression that feels like a pay-nag: \"focus for 16 hours to unlock a new room if you don’t pay\" (4.12); \"how Hard anything is to earn\" (4.30).",
+        "All-or-nothing blocking: users cannot keep music apps available (4.29).",
+        "A content ceiling after purchase: \"the rooms were filled\" (4.31)."
+      ]
+    },
+    "1540983473": {
+      "core": "Makes adulting feel like decorating: a pretty, calm, forgiving planner where the beauty itself is the reason to open it and stay organized.",
+      "trigger": "Disorganization and forgetfulness in a busy life: \"I’ve been trying to be more organized\", \"I’m really forgetful\", many birthdays and bill dates, grad-school and high-school schedules.",
+      "retention": {
+        "cue": "Widgets, reminders and a crowded schedule.",
+        "action": "Add events, tasks and habits; mood and gratitude check-ins; diary.",
+        "reward": "A beautiful, customizable all-in-one view that \"makes planning my days actually feel fun\"; developer generosity (free premium gifts).",
+        "feeling": "Calm control: \"makes busy life manageable!\"",
+        "evidence": "\"After two years of using STILL LOVE\" (5.20); \"several months\" (5.15)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Calm, playful, polished; delight rather than discipline.",
+        "quotes": [
+          {
+            "rating": 4,
+            "quote": "the same polished, calm feel"
+          },
+          {
+            "rating": 5,
+            "quote": "makes planning my days actually feel fun"
+          }
+        ]
+      },
+      "identity": "Light: wanting to be an organized person (\"I am so excited to get my life more organized with Floret!\"). Aesthetics is the motivator: \"it’s motivating for me because its aesthetically pleasing!\"",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "16 reviews mention cute/aesthetic/beautiful. The clearest causal statement in the packet: \"it’s motivating for me because its aesthetically pleasing!\" The premium pop-up hurts precisely because \"i just wanted a cute calendar\" (5.29)."
+      },
+      "social": "No peer layer; the developer relationship is the social bond: \"the developer is so sweet and understanding\" (5.4), \"they actually sent me premium!!\" (5.8), the team \"will reply too your emails & questions\" (5.10).",
+      "money": {
+        "pays_for": "Premium, described as worth it by satisfied users (\"Premium membership is worth it!\"); some received it free from the team.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 4,
+        "sample_size": 33,
+        "notes": "4 of 33 reviews complain: a premium pop-up on every open (5.29), a Russian-language 1-star saying all functions are paid (5.32), \"No price please!\" (5.33), plus a truncated critique that \"you need to pay to\" (5.1)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Emoji walls (💅🏻🌸🎀🩷), 'cutesy', 'my new favorite planner💗', high-school/grad students, birthdays and household bills: the strongest girly-aesthetic language among the planners."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "It’s so cute and makes planning my days actually feel fun."
+        },
+        {
+          "rating": 5,
+          "quote": "it’s motivating for me because its aesthetically pleasing!"
+        },
+        {
+          "rating": 5,
+          "quote": "that combines all of my thoughts neatly and aesthetically makes busy life manageable!"
+        },
+        {
+          "rating": 5,
+          "quote": "the developer is so sweet and understanding"
+        },
+        {
+          "rating": 3,
+          "quote": "i just wanted a cute calendar"
+        }
+      ],
+      "anti_patterns": [
+        "Premium pop-ups on routine actions: \"every time i open it i get a “buy premium” pop up and even when im just trying to set a birthday reminder i get asked to buy premium!\" (5.29).",
+        "Crashes on the core action after an update: \"it crashes the app when trying to put in new task\" (5.31, also 5.30).",
+        "Planner gaps for real schedules: weak month-at-a-glance for rotating shifts (5.25), no colour-coding for classes (5.22), confusing lists (5.1)."
+      ]
+    },
+    "1528322796": {
+      "core": "Turns work blocks into small, visible, satisfying harvests (smiling tomatoes) while the app does the policing through blocking, so focusing feels like collecting rather than enduring.",
+      "trigger": "Procrastination, studying and long work stretches, often with ADHD/neurodivergence and fear of burnout: \"helps a lot with adhd\", \"I hated having no breaks because I would just cause more stress\".",
+      "retention": {
+        "cue": "Starting a work or study block (watch/live-activity timer).",
+        "action": "Run a 25-minute pomodoro with app blacklist/whitelist and focus tags.",
+        "reward": "Smiling tomatoes that bounce and pile up (\"Love collecting the GOOD tomatoes it’s so satisfying:)\"), stats by tag.",
+        "feeling": "Satisfaction and clean, un-nagging focus; \"being healthy too\".",
+        "evidence": "The 4-5 star sample is dominated by feature requests (custom breaks, alert sounds, session counters): engaged tool-users rather than emotional testimonials."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Playful, light, anti-burnout.",
+        "quotes": [
+          {
+            "rating": 4,
+            "quote": "It’s cute and simple but also playful."
+          },
+          {
+            "rating": 5,
+            "quote": "The veggies just make me feel like I’m being healthy too!!"
+          }
+        ]
+      },
+      "identity": "Professional/student identity: \"As a graphic designer, I SWEAR by the Pomodoro method when I’m working for long stretches!\"; neurodivergence framed positively: \"allowing your neurodivergence to focus on keeping track of your tracking\".",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "5 reviews mention cute/beautiful UI; the tomatoes are the reward, but most reviews are about utility and requests (colour-coded fruit per tag, a gamification on/off toggle)."
+      },
+      "social": "Negligible; no social features mentioned.",
+      "money": {
+        "pays_for": "Plus: app blacklist/whitelist (\"the only reason I got the paid version\", 6.33) and watch/sync features; one reviewer would pay for a watch-complication tweak (\"I will definitely pay and revise my review!\", 6.15).",
+        "price_points": [
+          "A '-72%' limited-offer plan pop-up (6.29), base price not stated"
+        ],
+        "paywall_complaints_in_sample": 3,
+        "sample_size": 37,
+        "notes": "3 of 37 reviews complain about upsell pressure (discount pop-up on every launch, several free-trial prompts, no usable free tier). One paid-feature failure (6.33) and one complaint about being forced to review (6.32)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Cute-skin language only; no gendered terms."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Love collecting the GOOD tomatoes it’s so satisfying:)"
+        },
+        {
+          "rating": 5,
+          "quote": "I love how the pomodori bounce around the screen"
+        },
+        {
+          "rating": 5,
+          "quote": "I hated having no breaks because I would just cause more stress so I tried this app and method and it is helpful!!!"
+        },
+        {
+          "rating": 2,
+          "quote": "I don't have enough self control to not have these apps blocked"
+        },
+        {
+          "rating": 1,
+          "quote": "so many pop ups and questions before you even get to use the app"
+        }
+      ],
+      "anti_patterns": [
+        "Repeated promo/free-trial pop-ups before the timer: \"so many pop ups and questions before you even get to use the app\" (6.36); a discount ad \"showing up every time I opened the app\" (6.29).",
+        "A paid blocklist that does not hold: \"only a handful actually get whitelisted\" (6.33).",
+        "Review-gating: \"Forcing reviews for features\" (6.32), which also likely inflates ratings.",
+        "Loss of the collection: \"keep the tomatoes forever so i can bring my tomatoes back\" (6.30)."
+      ]
+    },
+    "1333303155": {
+      "core": "Removes decision fatigue and self-doubt: a trusted woman's done-for-you plan plus a challenge community that makes showing up feel like joining a team and becoming stronger and more confident.",
+      "trigger": "Getting back to exercise with a plan and confidence: \"I was getting the courage to step in a gym\", pregnancy and postpartum, busy mothers, long-time followers of Tammy.",
+      "retention": {
+        "cue": "Weekly programs, challenge launches, meal plans and grocery lists.",
+        "action": "Follow guided gym/home workouts with form videos and meal plans.",
+        "reward": "Visible strength and body results, completed programs and challenges, sisterhood (\"let’s go girls\"), confidence.",
+        "feeling": "Empowered, supported, relieved of thinking: \"takes all of the thinking out of my fitness routine!\"",
+        "evidence": "Multi-year tenure is common: \"since covid 2020\", \"downloaded it 5 years ago\", 4-6 years, repeat challenges (\"4th challenge\")."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Supportive and empowering, with aspirational body goals; not pressure or hype.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "a journey of self-love and transformation"
+          },
+          {
+            "rating": 5,
+            "quote": "takes all of the thinking out of my fitness routine!"
+          }
+        ]
+      },
+      "identity": "A strong adult identity shift: \"I’m more confidant now in my mid 40’s than I was in my mid 20’s\", \"built my confidence and consistency. Thankful for this empowerment!\", \"I was struggling with confidence and feeling lost in my fitness journey\".",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Only 3 of 40 reviews mention it (\"loved the whole vibe like the aesthetic, the layout…\" (7.4), \"The app is really pretty\" (7.13)), though an update that is no longer \"aesthetically satisfying\" (7.40) is punished; the draw is the trusted creator and the results."
+      },
+      "social": "High: challenges where thousands of women train together (description), \"easy to add friends and keep up with your challenge\" (7.13), \"challenges that build a sense of community\" (7.20); a parasocial bond with Tammy (\"I’m a long time follower of hers\", \"you feel like your working out with her\").",
+      "money": {
+        "pays_for": "An annual subscription for programs, meal plans and challenges: \"the yearly fee is definitely worth it\" (7.6) and \"All for such a cheap price!\" (7.9), compared with in-person classes; extra programs are sold separately.",
+        "price_points": [
+          "\"a 60$ program\" plus \"an additional 45$\" mid-month (7.29)",
+          "\"expen$$$$ive\" (7.30)"
+        ],
+        "paywall_complaints_in_sample": 3,
+        "sample_size": 40,
+        "notes": "3 of 40 reviews complain (paying twice for programs, ads inside a paid tier, price vs. reliability)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Built \"for women\" (description); mothers, postpartum/pregnancy, 'booty', 'let’s go girls', Pilates. The skew is older (reviewers in their 40s, one \"at 48yrs old\"), i.e. mostly not Gen Z."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "you feel like your working out with her"
+        },
+        {
+          "rating": 5,
+          "quote": "I was struggling with confidence and feeling lost in my fitness journey"
+        },
+        {
+          "rating": 5,
+          "quote": "so all I have to do is just show up and do it!"
+        },
+        {
+          "rating": 5,
+          "quote": "All for such a cheap price!"
+        },
+        {
+          "rating": 1,
+          "quote": "I don’t know why they changed anything, the app was perfect the way it was before."
+        }
+      ],
+      "anti_patterns": [
+        "Mid-program updates that rename and reshuffle programs and break continuity: \"I was finishing up week 6 of my program and with the update some of the workouts are completely different\" (7.39); \"I cannot find any of the programs I’ve used in the past as they’ve changed all the names and exercises\" (7.37). Long-term users file most of the update complaints; one 1-star was won back by developer outreach (7.22).",
+        "Logged data not persisting: weights \"set back to “0 lb” again\" (7.34), meals disappearing (7.35).",
+        "Ads inside a paid tier: \"It’s super frustrating this app has ad pop ups when you are paying to use it!\" (7.33).",
+        "Paying twice: \"I purchased a 60$ program and it won’t allow me to view the workouts without saying I need to spend an additional 45$ in the middle of the month.\" (7.29).",
+        "Videos that do not load and force quits (7.32, 7.30)."
+      ]
+    },
+    "6756178380": {
+      "core": "Sells the aspirational identity of 'the girl who has her life together': a soft, aesthetic routine coach that promises to turn the user into her.",
+      "trigger": "Glow-up and fresh-start moments (back to school: \"glow up for back to school\"), feeling overwhelmed or stuck (\"It brings clarity when I am confused and overwhelmed\"), being 20 and building habits, sadness, and Instagram ads that \"made it look like a good support system\".",
+      "retention": {
+        "cue": "A quiz-personalized plan and morning/night routine reminders.",
+        "action": "Routines, aesthetic habit tracker, journaling, affirmations, gratitude, monthly reset.",
+        "reward": "A sense of clarity and calm confidence; glow-up progress.",
+        "feeling": "Becoming 'that girl': soft, balanced, put together.",
+        "evidence": "Thin: most positive reviews are short first-weeks impressions (median 61 characters); the one detailed payer is a week in (\"I purchased a year’s subscription about a week ago\")."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Soft, aspirational hype: the brand promises a calm, non-stressful tone, but review language is 'glow up' and 'slay' identity talk.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "this app gives so much confidence and is going to change my routine!!"
+          },
+          {
+            "rating": 5,
+            "quote": "It is already making me happy"
+          }
+        ]
+      },
+      "identity": "The most explicit identity framing in the packet: \"this app is so slay get it if you wanna be that girl\", \"Literally helped me become a better person and look better\", \"This app helps girls or woman that want to get better\". Payment is read as an identity tax: \"You should be able to get help and glow up without paying money.\"",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Central to the brand promise (description: vibey, calming, beautifully aesthetic) but almost absent from user language: only 1 of 33 reviews (a 1-star) says \"I enjoyed the aesthetic\". Users talk about identity and outcomes instead."
+      },
+      "social": "None.",
+      "money": {
+        "pays_for": "A personalized routine plan; one subscriber says \"I will never let this app go\" a week in.",
+        "price_points": [
+          "\"charged 64$\" for the yearly plan (8.24)",
+          "\"$60 just to access the app\" (8.25)",
+          "a \"$50 plan\" (8.27)",
+          "\"13 dollars a month\" (8.28)",
+          "$40-$42 charged after a 7-day trial (8.30, 8.31)"
+        ],
+        "paywall_complaints_in_sample": 9,
+        "sample_size": 33,
+        "notes": "9 of 33 reviews complain (hard paywall after the quiz; auto-charge after the trial without the promised reminder). One further paid-but-cannot-log-in review (8.27)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Brand 'That Girl', 'clean girl', \"girls or woman\", 'slay', 'glow up', school-age users."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "this app is so slay get it if you wanna be that girl"
+        },
+        {
+          "rating": 5,
+          "quote": "Literally helped me become a better person and look better , and build confidence"
+        },
+        {
+          "rating": 5,
+          "quote": "I’m young and I’m trying to create new boundaries and habits for myself"
+        },
+        {
+          "rating": 1,
+          "quote": "typical scam formula where they ask you 20 questions then hit you with a pay wall"
+        },
+        {
+          "rating": 1,
+          "quote": "You should be able to get help and glow up without paying money."
+        }
+      ],
+      "anti_patterns": [
+        "Quiz -> hard paywall: \"typical scam formula where they ask you 20 questions then hit you with a pay wall\" (8.25).",
+        "A free trial that bills without the promised reminder: \"Did not send a reminder to cancel before free trial ended, although it stated it would and I was charged $40\" (8.31); \"I did not sign up for a subscription\" yet \"was just charged 64$\" (8.24).",
+        "A deceptive ad promise: \"AI advertising is very deceptive\" (8.30), the zodiac workout is \"just a button that tells you what your zodiac sign is\".",
+        "Broken sign-in for paying users (8.16, 8.23, 8.27).",
+        "'Wellness' exploitation framing: \"I’m exhausted with all of these “wellness” apps exploiting those wanting to do better with themselves\" (8.33)."
+      ]
+    },
+    "6757347283": {
+      "core": "Gives hope and emotional rehearsal: personalized audio stories in a calm, warm voice let users feel their desired life as already happening, and feel accompanied while waiting for it.",
+      "trigger": "Wanting a better life (career, relationships, money) and a reason to believe it will happen: \"give you some hope that it WILL happen\"; users who have \"tried so many manifestation programs\"; sleep, commute and chore listening slots.",
+      "retention": {
+        "cue": "Morning, bedtime, driving, cleaning or the gym.",
+        "action": "Listen to a personalized story/affirmation built from your own intentions, details and (optionally) your own voice.",
+        "reward": "Emotional release and hope (\"made me cry\"), perceived synchronicities, feeling \"closer to the Universe\".",
+        "feeling": "Calm, accompanied, believing.",
+        "evidence": "A returner after months: \"I missed the way I feel when I hear these stories!\" (9.22): the pull is emotional, not instrumental."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Soothing, intimate, magical; some users cry.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "You feel less alone using this."
+          },
+          {
+            "rating": 5,
+            "quote": "The first story immediately made me cry and touched straight to my heart!"
+          }
+        ]
+      },
+      "identity": "Future-self identity: \"New life , here we come !\" (9.25), \"literally the next day i got what i wanted\" (9.17), \"Changed my life\" (9.22). Personal details about people in your life make it \"personal\" (9.1, 9.9).",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Few reviews (1 of 40) mention cute/beautiful; the voice is the product (\"I love the soft voice Sarah has\"). Imagery matters when it fails: \"out of all the hundreds of pictures it's all rich white girls\" (9.31)."
+      },
+      "social": "None; a parasocial bond with the founder/voice: \"Thank you Sara Perl\" and \"You are an absolute gem\" (9.1).",
+      "money": {
+        "pays_for": "A weekly subscription for personalized audio; satisfied payers: \"it’s 6.99 a week but it’s definitely worth it\" (9.8), \"worth every penny plus more\" (9.26).",
+        "price_points": [
+          "$6.99 a week (9.8); \"7 dollars\" weekly (9.2, 9.32)",
+          "\"$336 a year\" (9.35)",
+          "\"$40 a month\" (9.33)"
+        ],
+        "paywall_complaints_in_sample": 14,
+        "sample_size": 40,
+        "notes": "14 of 40 reviews complain about price or the paywall; plus one data-intake complaint (9.34)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: the manifestation/affirmation genre, emoji (🪷🩷✨🍭), a request for a \"male customization option\" (9.18) implying a female default, and an imagery critique of \"rich white girls\" (9.31). No explicit self-identification."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "The first story immediately made me cry and touched straight to my heart!"
+        },
+        {
+          "rating": 5,
+          "quote": "You feel less alone using this."
+        },
+        {
+          "rating": 5,
+          "quote": "although it’s 6.99 a week but it’s definitely worth it!"
+        },
+        {
+          "rating": 1,
+          "quote": "The app just interrogated me for 20 minutes and then asked for money."
+        },
+        {
+          "rating": 1,
+          "quote": "Why does a manifestation app need to know if I have children, where I live, and so many other personal details?"
+        }
+      ],
+      "anti_patterns": [
+        "A 20-minute intimate questionnaire before the price is revealed: \"The app just interrogated me for 20 minutes and then asked for money.\" (9.36).",
+        "Data-extraction suspicion: \"Why does a manifestation app need to know if I have children, where I live, and so many other personal details?\" (9.34); \"the most thinly-veiled data grab I have ever seen\" (9.33).",
+        "Weekly pricing that compounds: \"$336 a year for an app that isn’t a guarantee!\" (9.35); \"$7 a week is crazy\" (9.32).",
+        "Billing and cancellation failures: \"They charged me even tho I deleted the app and never subscribed\" (9.37); \"I can’t cancel my subscription\" (9.29).",
+        "A 'glorified AI chatbot' perception (9.33) and homogeneous imagery (9.31); a modal that cannot be dismissed (9.3)."
+      ]
+    },
+    "6746784659": {
+      "core": "Makes a punishing challenge (75 Hard) feel cute, social and survivable: discipline performed alongside other women instead of alone.",
+      "trigger": "Wanting to commit to a 75-day challenge and \"lock in\" but lacking motivation (\"i’ve been wanting to lock in for a while now but the motivation is hard\"), wanting a softer or custom version, glow-up and 'wellness journey' moments, and relief from shame (\"I don't have to be ashamed anymore\").",
+      "retention": {
+        "cue": "A daily checklist and friends' to-do lists visible in real time.",
+        "action": "Check off tasks, water and workouts; edit or build a custom challenge; see others' progress.",
+        "reward": "Day count/streak, peer visibility and encouragement, a cutesy interface.",
+        "feeling": "Accountable, excited, part of a group of \"gals\".",
+        "evidence": "Thin: roughly 12 of 28 positive reviews are day 0-3 (\"Starting 75 Hard in 2 days. Stay tuned!\"); median positive review 108 characters."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Cute packaging around a hard discipline challenge, with encouragement from peers rather than rivalry (soft hype).",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Makes a hard challenge feel so cutesy:)"
+          },
+          {
+            "rating": 5,
+            "quote": "It’s so inspiring to see all the other gals out there challenging themselves, sharing their, and encouraging one another along the way."
+          }
+        ]
+      },
+      "identity": "\"I can’t WAIT to get started and see a new me!\" (10.15), \"reach your goals and your better self!\" (10.28), \"Glow Up\" (10.26), \"I don't have to be ashamed anymore\" (10.17).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "9 of 40 reviews use aesthetic/cute (\"aesthetically pleasing\" is the repeated phrase); the design is what makes a hard challenge feel soft."
+      },
+      "social": "Core feature and core promise (do the 75-day challenge with friends and see their to-dos live). When it works it is the hook (\"you get to connect with so many other people doing the same challenges as you\", 10.2); when it fails it is the biggest complaint: \"There is supposed to be a social aspect but you can’t communicate with others. All the posts are generic & actually seem fake.\" (10.30); add-friend bugs (10.4, 10.29).",
+      "money": {
+        "pays_for": "Weekly/monthly/yearly access. Buyers purchase instantly (\"I just downloaded and instantly bought the plan\") and anchor the price to coffee: \"Not even bad considering I normally go to Dutch bros 5x or more a week\"; another calls it \"affordable\" (10.7).",
+        "price_points": [
+          "$7.99/week, $14.99/month, $49.99/year (description)",
+          "\"50$ for the year\" (10.29)"
+        ],
+        "paywall_complaints_in_sample": 6,
+        "sample_size": 40,
+        "notes": "6 of 40 reviews complain about paywall/price/subscription (hard paywall before entering: 10.31, 10.33; a social-media ad that says free: 10.32). Two more are paid-but-broken (10.29, 10.34) and two are 'AI scam' trust complaints (10.38, 10.40)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Brand 'Her 75', \"gals\", 'girls', 'cutesy', 🩷 emoji, a Dutch Bros coffee reference."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Makes a hard challenge feel so cutesy:)"
+        },
+        {
+          "rating": 5,
+          "quote": "It’s so inspiring to see all the other gals out there challenging themselves, sharing their, and encouraging one another along the way."
+        },
+        {
+          "rating": 5,
+          "quote": "Not even bad considering I normally go to Dutch bros 5x or more a week."
+        },
+        {
+          "rating": 1,
+          "quote": "There is supposed to be a social aspect but you can’t communicate with others. All the posts are generic & actually seem fake."
+        },
+        {
+          "rating": 1,
+          "quote": "Says it’s free on social media but is $50"
+        }
+      ],
+      "anti_patterns": [
+        "A social layer that feels fake or non-functional: \"All the posts are generic & actually seem fake\" (10.30); add-friend errors (10.4, 10.29).",
+        "Free in social-media promos, paid in-app: \"Says it’s free on social media but is $50\" (10.32).",
+        "AI-promoted marketing and suspected fake reviews: \"USES AI TO PROMOTES ITS APP AND DOESNT WORK AS ADVERTISED!! REVIEWS ARE AI!!!\" (10.38); \"promoted as AI and the progress is fake\" (10.40).",
+        "Rigid 75-day logic that ignores real life: \"Tried to pause the challenge while I was on a trip and it just kept counting days\" (10.34).",
+        "Crashes and setup blocks (10.37, 10.39)."
+      ]
+    },
+    "1481275761": {
+      "core": "Makes consistent movement feel like a treat and a friendship (warm women instructors, 20-minute classes) that supports life stages, so women return to their bodies without punishment.",
+      "trigger": "Returning to exercise postpartum or during pregnancy, time-poor mothers, and wanting something that sticks: \"The only workout I’ve stuck with\" (11.15); a friend's recommendation (11.22); burnout from intense programs (11.21).",
+      "retention": {
+        "cue": "A weekly calendar, live classes, a busy-day need for \"quickies\".",
+        "action": "Take a 20-30 minute class (prenatal, postpartum, dance cardio, strength).",
+        "reward": "Feeling energized and strong, visible changes and compliments, instructor warmth, variety.",
+        "feeling": "Joy and confidence: \"now I am sad on the days I don’t get my workout\".",
+        "evidence": "Since 2019 (11.7), since the pandemic (11.2), 4 years (11.22); life-stage re-entry (pregnancy -> postpartum)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Warm, positive and non-punishing; fun is the vocabulary, not discipline.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "She’s so positive in her workouts and her philosophy of doing 20-30 minute workouts 4-6 times a week compared to pushing yourself till burnout is very effective."
+          },
+          {
+            "rating": 5,
+            "quote": "youre having so much fun that you dont even realize it!"
+          }
+        ]
+      },
+      "identity": "\"TSS changed my life\" (11.6), \"I’m finally coming back to my best self\" (11.6), \"Confidence skyrocketed!!\" and \"Meghan has redefined my relationship with working out\" (11.21).",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Not mentioned; the draw is the people and the workouts (fun, variety)."
+      },
+      "social": "Medium: instructors as warm personalities (\"Megan is so kind and motivating\", 11.12), live classes that keep people coming back (11.24), and friendship language: \"I recommend it to all my girlfriends!\" (11.7), \"Having a Workout Bestie 24/7\" (11.22).",
+      "money": {
+        "pays_for": "A subscription justified by one signature feature or an instructor: \"The dancing arms is worth the subscription alone\" (11.11). The free trial converts: \"with a 5 week free trial, I was hooked!\" (11.15), \"The free trial makes it an easy decision because you truly have nothing to lose\" (11.5).",
+        "price_points": [],
+        "paywall_complaints_in_sample": 0,
+        "sample_size": 32,
+        "notes": "0 of 32 reviews complain about price or paywall despite a paid subscription (negatives are about login, UX, instruction quality and fake-review suspicion). Only 4 low-rating reviews are in the sample, so absence is suggestive, not proof."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "\"women\", mothers, prenatal/postpartum programs, 'girlfriends', 'bestie', Pilates; the skew is older (mothers), not specifically Gen Z."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "I haven’t worked out consistently in years and now I am sad on the days I don’t get my workout"
+        },
+        {
+          "rating": 5,
+          "quote": "She’s so positive in her workouts and her philosophy of doing 20-30 minute workouts 4-6 times a week compared to pushing yourself till burnout is very effective."
+        },
+        {
+          "rating": 5,
+          "quote": "youre having so much fun that you dont even realize it!"
+        },
+        {
+          "rating": 5,
+          "quote": "Having a Workout Bestie 24/7"
+        },
+        {
+          "rating": 2,
+          "quote": "After seeing Megan on IG and reading a bunch of these reviews, I tried this app and something felt very off."
+        }
+      ],
+      "anti_patterns": [
+        "Under-cued, chaotic classes that feel unsafe: \"Very little prompting for the upcoming moves and half the time I have no idea what is next\" (11.30).",
+        "Fake-review suspicion damages trust: \"realized that most of these reviews are fake!\" (11.32).",
+        "Missing calendar/up-next: \"no idea why the daily videos aren’t loaded into the built in calendar either\" (11.31); an Apple TV login hang (11.29)."
+      ]
+    },
+    "1559730367": {
+      "core": "Regulates attention and the nervous system rather than demanding performance: a soothing 'journey' (calm music, a character climbing a mountain, optional co-op) makes focus feel safe and progress feel like travel.",
+      "trigger": "Hard to concentrate alone, ADHD and stress, finals week, hours lost scrolling: \"as someone who can’t lock in\", \"helped me study for 5 hours straight\", and wanting a study buddy (description).",
+      "retention": {
+        "cue": "Starting study/work; finals; group invites.",
+        "action": "Start a journey timer (pomodoro, stopwatch or group) and log projects.",
+        "reward": "The character climbs toward the summit, soothing scenes and music, time-spent data.",
+        "feeling": "Calm and cozy: \"in a way that calms the nervous system\".",
+        "evidence": "\"for years\" (12.14); a one-year premium subscriber (12.15)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "The strongest 'calm' vocabulary in the packet (11 of 35 reviews).",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "in a way that calms the nervous system"
+          },
+          {
+            "rating": 5,
+            "quote": "The way it moves is so mesmerizing and the music is so soft I could sleep to it."
+          }
+        ]
+      },
+      "identity": "Light: \"It keeps me motivated and relaxed at the same time\" (12.15), \"Sometimes all it takes is one small change to help you on your way to success\" (12.24).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "11 reviews name design, graphics or music; atmosphere is the product (\"I love the design of it and how cozy it is!\")."
+      },
+      "social": "Medium and under-built: group expeditions are loved (\"the group focus feature (which I love)\", 12.28) but limited: \"I wish for the “co-op” piece, you weren’t limited on time\" (12.1) and group mode forces deep focus (12.28).",
+      "money": {
+        "pays_for": "Premium (pomodoro mode, new journals, deleting sessions): \"I never pay for any subscriptions, but this app is just the best and I subscribed to their premium plan for 1 year\" (12.15); \"the price is very reasonable\" (12.22); \"the developer needs to profit some\" (12.2).",
+        "price_points": [],
+        "paywall_complaints_in_sample": 4,
+        "sample_size": 35,
+        "notes": "4 of 35 reviews complain (features moved behind the paywall, characters/backgrounds locked, annual fee charged without support). One further paid-but-still-locked review (12.7)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Gender-neutral language ('cute', 'cozy'); husband and PA-student mentions; international users."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "in a way that calms the nervous system"
+        },
+        {
+          "rating": 5,
+          "quote": "I love the design of it and how cozy it is!"
+        },
+        {
+          "rating": 5,
+          "quote": "I never pay for any subscriptions, but this app is just the best and I subscribed to their premium plan for 1 year."
+        },
+        {
+          "rating": 3,
+          "quote": "unlock new characters and backgrounds so it can be reinforcing without having to pay…"
+        },
+        {
+          "rating": 4,
+          "quote": "I wish for the “co-op” piece, you weren’t limited on time"
+        }
+      ],
+      "anti_patterns": [
+        "Paying but features still locked, with no support: \"I subscribed to the monthly plan but the features are still locked\" (12.7); \"There is no support with this app at all.\" (12.35).",
+        "Features migrating behind the paywall: \"All of the new “features” are for people who pay.\" (12.34).",
+        "Inaccurate logs: \"I worked for two hours but in my journal it only reflected one hour\" (12.32).",
+        "Missing basics: cannot silence background sound (12.30), no whitelist (12.12), no Android/web (12.8, 12.27, 12.31)."
+      ]
+    },
+    "1589243137": {
+      "core": "A forgiving garden: it makes small daily care visible and permits bad days, turning habit-building from a pass/fail test into gentle growth.",
+      "trigger": "Low mood and slipping routines: \"Combat seasonal depression\", feeling \"off track\", school and health habits; discovery through Pinterest (13.25) and App Store browsing (13.26).",
+      "retention": {
+        "cue": "Widget, reminders and ambient music.",
+        "action": "Tick a small daily routine (only the basics on bad days).",
+        "reward": "Flowers bloom and the garden evolves, a yearly overview, soothing music and bird sounds.",
+        "feeling": "Grounded, softly encouraged, no shame about missed days.",
+        "evidence": "Bought \"3 years ago\" (13.1); lapsed users return: \"still come back to it when i feel I’m falling off\" (13.11)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Explicitly 'not like the pet apps' (13.8): calm, mature, forgiving.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "if I’m struggling, only the basics are required and don’t kill my garden for a missed day!"
+          },
+          {
+            "rating": 5,
+            "quote": "Keeps me grounded"
+          }
+        ]
+      },
+      "identity": "\"I realized how off track I tend to get\" (13.26); positioned as a grown-up tool: \"reminds me of a more mature version of finch\" (13.21); \"it really kept me on track with my goals\" (13.14).",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "6 of 32 reviews (about a fifth of the positives), plus atmosphere and music: \"The flowers are sooo adorable\", \"super clean the graphics are amazing\", \"a calm, relaxing, atmosphere\"; the home-screen widget works as a pretty status display."
+      },
+      "social": "None.",
+      "money": {
+        "pays_for": "A one-time purchase (several reviewers: \"Best app I ever bought\", \"I love that I was able to purchase the app instead of being a monthly subscription\"), or the cheap subscription/lifetime unlock for more habits and garden growth.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 5,
+        "sample_size": 32,
+        "notes": "5 of 32 reviews complain, mostly mild and from 3-5 star reviews: only 5 habits free (13.30), \"I have to pay to grow my garden!\" (13.16), many features paid (13.22, 13.28), \"Adds nothing but fees\" (13.32)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: Pinterest discovery (13.25), 'adorable', 🦋🫶 emoji, 'a more mature version of finch', seasonal depression; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "if I’m struggling, only the basics are required and don’t kill my garden for a missed day!"
+        },
+        {
+          "rating": 5,
+          "quote": "it’s just a soft touch to being more aware of what I need to get done!"
+        },
+        {
+          "rating": 5,
+          "quote": "the sub is cheap and even offers a lifetime access which I do plan to purchase in the future"
+        },
+        {
+          "rating": 5,
+          "quote": "I have to pay to grow my garden! This to me is absurd"
+        },
+        {
+          "rating": 4,
+          "quote": "sometimes it feels a bit like a chore personally"
+        }
+      ],
+      "anti_patterns": [
+        "Paywalling the reward itself: \"I have to pay to grow my garden!\" (13.16).",
+        "A free tier too tight to build the habit (5 habits, 13.30).",
+        "Feeling like a chore: \"sometimes it feels a bit like a chore personally\" (13.3).",
+        "Perceived rent-seeking over native tools: \"Shameless piggybacking on default reminders app. Adds nothing but fees.\" (13.32)."
+      ]
+    },
+    "1315396498": {
+      "core": "Turns a boring body-care chore into play: a gentle reminder plus delight (fish that dance and multiply) replaces the nagging alarm.",
+      "trigger": "Forgetting to hydrate and needing a reminder that isn't harsh: \"a gentle reminder to hydrate\"; trying many apps first (\"I deleted 8-10??!! before I downloaded this one!\"); parents helping a sick child (14.24).",
+      "retention": {
+        "cue": "Reminders (the fish 'dance') and widgets.",
+        "action": "Log a sip (custom bottle size, other drinks).",
+        "reward": "New fish over time, fish that flip or leap when tapped, water sounds.",
+        "feeling": "Delight and a no-guilt nudge.",
+        "evidence": "\"I’ve been using it for years now\" (14.7); one user defected from Plant Nanny after its monetization (14.34)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Gentle, playful, zero-guilt.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Just what I need, a gentle reminder to hydrate, and it’s cute and entertaining!"
+          },
+          {
+            "rating": 5,
+            "quote": "I can set an alarm but why would I when have something that’s fun to look at and makes fun sounds."
+          }
+        ]
+      },
+      "identity": "Minimal: \"It IS helping me remember to drink water.\" (14.12), \"I’ve noticed myself drinking more water\" (14.28).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "16 of 35 mention cute/graphics; users are sensitive to visual authenticity: an AI-looking animation update triggered 1-star reviews."
+      },
+      "social": "None; family helpers (a child names the fish, 14.24; a sister tracks progress, 14.32).",
+      "money": {
+        "pays_for": "Pro (no ads, Apple Watch, iCloud sync, naming drinks, fish types) per the description; no review in the sample says they bought it. Free users are content: \"You don’t really even need premium for it to be a nice app\".",
+        "price_points": [],
+        "paywall_complaints_in_sample": 0,
+        "sample_size": 35,
+        "notes": "0 paywall complaints. Ads in the corner are tolerated (\"ads are not annoying!\") but 4 reviews are ad-related complaints (rewarded-ad failures 14.10, bigger ad placement 14.29, sexually suggestive ads 14.31 and 14.32)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Gender-neutral; kids, older users and parents."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Just what I need, a gentle reminder to hydrate, and it’s cute and entertaining!"
+        },
+        {
+          "rating": 5,
+          "quote": "I can set an alarm but why would I when have something that’s fun to look at and makes fun sounds."
+        },
+        {
+          "rating": 5,
+          "quote": "No tricks or constant ads. It’s exactly what it markets as."
+        },
+        {
+          "rating": 1,
+          "quote": "the new ones look AI generated eeeeeeewwwwww"
+        },
+        {
+          "rating": 2,
+          "quote": "This app appears child-friendly, but evidently, it is not."
+        }
+      ],
+      "anti_patterns": [
+        "An art-style change that looks AI-generated: \"the new ones look AI generated eeeeeeewwwwww\" (14.30); \"the new animations look ai generated and the ad placements now take up more of the screen\" (14.29).",
+        "Inappropriate ads in a child-friendly-looking app: \"This app appears child-friendly, but evidently, it is not.\" (14.32).",
+        "Aggressive monetization in a competitor drove switching: \"Loved Plant Nanny till greed took over\" (14.34).",
+        "Lifeless motion: fish \"do not move like fish\" (14.35)."
+      ]
+    },
+    "1638926773": {
+      "core": "Turns walking into a shared pet-and-town game: friends' presence supplies the accountability, and the avatar's body externalizes progress (and sometimes shame).",
+      "trigger": "Wanting motivation to walk, friend competition, and a replacement for a workplace walking challenge that ended: \"Originally i was trying to look fot an app similar to my company’s walking challenge after it ended\".",
+      "retention": {
+        "cue": "A step goal, friend bell nudges, town upgrades.",
+        "action": "Walk (steps sync via Health), collect donuts, upgrade the house with friends.",
+        "reward": "Charlie gets fitter, outfits and items, house upgrades, friend comparisons.",
+        "feeling": "Camaraderie with \"a small feeling of competition\", pride; anxiety about losing progress.",
+        "evidence": "\"almost 110 days with Charlie\" (15.2); friend-group retention: \"My friends and I love this app and use it religiously\" (15.4)."
+      },
+      "emotional_tone": {
+        "class": "hype/competition (with pressure/shame backlash)",
+        "notes": "Friendly competition is the draw; the same body-weight avatar produces the sharpest shame complaints.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Before it felt fun on my own, but it’s better now with a small feeling of competition."
+          },
+          {
+            "rating": 3,
+            "quote": "this app would be so much better if it didn’t literally fat shame people"
+          }
+        ]
+      },
+      "identity": "\"This app has changed my life.\" (15.7), \"hard earned six pack\" (15.37), an effusive letter praising \"the power of discipline and collective accountability\" (15.10).",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "Only 4 of 40 reviews say cute, but dress-up and house upgrades are the core reward loop: \"the items are so cute and creative\" (15.19), \"much more fun with dressing up the character\" (15.14); lost outfits are a loss complaint (15.34)."
+      },
+      "social": "Very high; it is the core. Invite loops (\"I’ve invited a lot of my friends to download the app too\", 15.2), group houses and a town (15.4, 15.12), competition (15.5, 15.8, 15.14), and a long list of requests for chat, emotes, a ranking board, gifting/trading and donation visibility (15.3, 15.6, 15.16, 15.19, 15.20).",
+      "money": {
+        "pays_for": "Not evidenced; the app monetizes through rewarded ads (donuts).",
+        "price_points": [],
+        "paywall_complaints_in_sample": 0,
+        "sample_size": 40,
+        "notes": "0 paywall complaints in 40 reviews; ad bugs (15.18, 15.30) and constant review prompts (15.8, 15.32)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "A male-coded default character (\"it would be fun if there was a female character too, that way some of the clothes look better\", 15.26) and mixed friend groups (a boyfriend, friends); women are present but not the design centre."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Before it felt fun on my own, but it’s better now with a small feeling of competition."
+        },
+        {
+          "rating": 5,
+          "quote": "This app has motivated me a lot to get my steps in (almost 110 days with Charlie lol), and I’ve invited a lot of my friends to download the app too."
+        },
+        {
+          "rating": 3,
+          "quote": "this app would be so much better if it didn’t literally fat shame people"
+        },
+        {
+          "rating": 3,
+          "quote": "the consequences are a little too harsh"
+        },
+        {
+          "rating": 5,
+          "quote": "I walked only to upgrade the house but after upgrading to town house, I have no purpose on walking because there’s no next step"
+        }
+      ],
+      "anti_patterns": [
+        "Body-shaming copy and mechanics: \"why am i getting notifications everyday about how my friends are “getting chubbier”\" (15.39).",
+        "All-or-nothing penalties: \"3-4 days of progress gets wiped out in one day and it’s a little unfair\" (15.29); a glitch cost a streak (15.37).",
+        "End of progression: \"after upgrading to town house, I have no purpose on walking because there’s no next step\" (15.28).",
+        "Review begging: \"every single time I open it it asks me for a review\" (15.32).",
+        "Step-data problems across devices (Garmin, Fitbit, Apple Watch, offline), maintenance downtime (15.35, 15.40), account loss (15.34)."
+      ]
+    },
+    "6755110504": {
+      "core": "A commitment device that converts phone-limiting into earning: permission to scroll is earned through healthy tasks, for people who cannot go cold turkey.",
+      "trigger": "Phone overuse and ADHD: \"I use to sit on my phone all day\", \"I’ve just been on my phone way too much\", and being unable to quit cold turkey (16.4). At least three reviewers are minors (10, 13, and a child asking the app to allow ages 5 and up).",
+      "retention": {
+        "cue": "The urge to open a blocked app.",
+        "action": "Complete a real-world task (habit, a \"touch grass\" photo) to earn capped screen-time minutes.",
+        "reward": "Unlocked minutes, motivational badges, a buddy code.",
+        "feeling": "In control, 'not glued'.",
+        "evidence": "Short-term: \"now I go outside all the time!\" (16.5). The loop is gameable: \"I kept cheating by taking pictures of the grass\" (16.1), and restrictions can be lifted at any time (16.5)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Friend framing around a firm structure; users appreciate being eased rather than blocked cold.",
+        "quotes": [
+          {
+            "rating": 4,
+            "quote": "I appreciate the concept of “earning” time to use blocked apps."
+          },
+          {
+            "rating": 4,
+            "quote": "I use to sit on my phone all day, and now I go outside all the time!"
+          }
+        ]
+      },
+      "identity": "\"it has help me in so many different areas of my life\" (16.12).",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "One mention only: \"I downloaded this app because it looked super cute\" (16.6), from a user who then hit the paywall."
+      },
+      "social": "Low: a buddy code (16.1).",
+      "money": {
+        "pays_for": "Unglue Plus: a paid user says earning screen time is good for people who cannot quit cold turkey (16.4).",
+        "price_points": [
+          "\"29.99 a year\" (16.9)",
+          "\"49 dollars\" (16.15)"
+        ],
+        "paywall_complaints_in_sample": 17,
+        "sample_size": 24,
+        "notes": "17 of 24 reviews (about 70%) complain about paying; 6 of them are rated 4-5 stars (rating used to get noticed: \"Making it five so you can see this!\"). Hard paywall with no X, re-install lock-out, only 3 free tasks (16.23)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "No gendered language; at least three reviewers are minors (10, 13, under the age gate)."
+      },
+      "quotes": [
+        {
+          "rating": 4,
+          "quote": "I appreciate the concept of “earning” time to use blocked apps."
+        },
+        {
+          "rating": 5,
+          "quote": "I struggle with ADHD and this app helps me so much with stuff around the house, being healthier, my mental health, and physical health."
+        },
+        {
+          "rating": 1,
+          "quote": "I’m 13 years old and I wanted to try Unglue because it seemed nice and I’ve just been on my phone way too much."
+        },
+        {
+          "rating": 5,
+          "quote": "Making it five so you can see this!"
+        },
+        {
+          "rating": 1,
+          "quote": "Makes you send pictures of your face and what your doing… tbh that’s really sketchy to me"
+        }
+      ],
+      "anti_patterns": [
+        "A hard paywall with no exit: \"There was NO x to leave it and I was just stuck at that page\" (16.6); \"it won’t let me get past this stupid “get unglue plus for 29.99 a year” screen\" (16.9).",
+        "Re-install lock-out for returning free users (16.9, 16.10, 16.23).",
+        "A lock-in on an app used by kids: \"you can’t delete it unless you have your screen time password\" (16.14).",
+        "Face/photo proof felt \"really sketchy\" (16.14).",
+        "Weak enforcement undermines the promise (16.5), and the proof is gameable (16.1)."
+      ]
+    },
+    "6447218598": {
+      "core": "A guilt-free diet tracker: caring for a capybara reframes calorie counting from self-surveillance and shame into friendly, rewarded self-care.",
+      "trigger": "Weight loss with an aversion to \"the very boring fitness app that feel so serious and intimidating\"; a history of disordered eating (17.15); a parent managing a child's intake (17.5); trying \"at least 10 calorie tracking apps\" first.",
+      "retention": {
+        "cue": "Meal and water reminders.",
+        "action": "Log food, exercise and water (AI and barcode scan).",
+        "reward": "Gems/leaves -> decor and items for the capybara, graphs, positive commentary and meal ideas.",
+        "feeling": "Encouraged, not judged: \"does not guilt you\".",
+        "evidence": "\"the only one I’ve continued to use for more than a week or two\" (17.18); \"I lost 8 pounds in 16 weeks\" (17.6)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "The strongest anti-shame language in the packet.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "This app does not guilt you, it encourages you, gives you advice without making you feel bad."
+          },
+          {
+            "rating": 5,
+            "quote": "I hate the very boring fitness app that feel so serious and intimidating."
+          }
+        ]
+      },
+      "identity": "Outcome-based: \"I lost 8 pounds in 16 weeks\" (17.6); \"How can anyone not love the idea of a capybara nutrition coach?\" (17.17). For a user with a bulimia history the identity is relief: \"does not guilt you\" (17.15).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "12 of 30 mention cute/colorful/decor; fragile to AI art: \"the “art” and writing is all ai\" made one fan disengage (17.2)."
+      },
+      "social": "None in-app; users benchmark against Finch and Bitepal (17.7, 17.24).",
+      "money": {
+        "pays_for": "A subscription for the meal planner and tracking: \"worth the money\" (17.3), but only after value was felt.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 10,
+        "sample_size": 30,
+        "notes": "10 of 30 reviews complain: hard paywall with a forced one-week trial and no skip (17.19, 17.20, 17.26), undisclosed subscription (17.22, 17.27, 17.29), refunds and billing ignored (17.25, 17.28). A mid-2025 review says AI scan and barcode scan were free with no pop-ups (17.14), while 2026 reviews say \"it was free and now it’s a subscription\" (17.27): monetization tightened."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Diet/weight-loss genre, 'so cute', Finch comparison; but also a male reviewer (\"I’m a BIG guy\", 17.15) and a parent."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "This app does not guilt you, it encourages you, gives you advice without making you feel bad."
+        },
+        {
+          "rating": 5,
+          "quote": "I hate the very boring fitness app that feel so serious and intimidating."
+        },
+        {
+          "rating": 5,
+          "quote": "I’ve continued to use for more than a week or two!"
+        },
+        {
+          "rating": 5,
+          "quote": "I don’t care about unlocking foods for the capybara because all of the images are ai."
+        },
+        {
+          "rating": 1,
+          "quote": "I used this app in the past and it was free and now it’s a subscription that you don’t find out about til after you sign up."
+        }
+      ],
+      "anti_patterns": [
+        "A hard paywall without disclosure: \"there should be SOME warning in the actual app that there is a full paywall\" (17.22).",
+        "A forced trial after collecting personal data: \"I put in all my information only to immediately get prompted to start a free trial for one week no option to skip it\" (17.20).",
+        "AI-generated art and writing: \"the “art” and writing is all ai\" (17.2).",
+        "Unsafe suggestions: \"Some of the meal plan suggestions are like 1500 calories a day, which is definitely way too little\" (17.16).",
+        "Silence on refunds and support (17.23, 17.25, 17.28); a review request during setup: \"I haven't even gotten to the actual app!\" (17.29)."
+      ]
+    },
+    "6747010310": {
+      "core": "A tiny talking companion that gives lonely or overwhelmed users someone to talk to and a reason to do basic self-care, so reliability comes from a gentle 'other' instead of self-discipline.",
+      "trigger": "Low motivation after a break-up (\"I just installed today after a break up. I’ve had no motivation.\"), stress and self-doubt (\"I’m always thinking that I’m not good enough for other people\"), ADHD, and deciding to look after themselves (\"This year, I told myself that I was going to take care of myself more\").",
+      "retention": {
+        "cue": "Momo's text-like nudges; sleep tracking by placing the phone on the bed.",
+        "action": "Complete habits, gratitude and sleep; chat with Momo; send Momo on adventures.",
+        "reward": "Coins -> items, Momo grows and goes on adventures, encouragement.",
+        "feeling": "Someone is rooting for me: \"I have somebody to talk to\".",
+        "evidence": "Weeks to months: \"I have not stopped using it since\" (18.19). Two reviewers recommend it for children (18.1, 18.19)."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Comforting, parasocial warmth.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "experience is comforting!"
+          },
+          {
+            "rating": 5,
+            "quote": "It’s helped me with my mental health because I have somebody to talk to even if it’s just the pet."
+          }
+        ]
+      },
+      "identity": "\"I am now the better self of me now than I could ever be!\" (18.2), \"now I realize that I’m just perfect\" (18.21), \"This year, I told myself that I was going to take care of myself more\" (18.19).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "7 of 34 mention cute/precious, plus \"visually appealing\" (18.5); the creature itself (\"purple self help demon\") is the draw."
+      },
+      "social": "Parasocial and caretaking: \"it’s like having a baby. You’re raising them with tasks you need to complete everyday\" (18.28); no peer features.",
+      "money": {
+        "pays_for": "Premium (chat and extra features); one reviewer paid and still saw features fail (18.31).",
+        "price_points": [
+          "\"$60 a year\" (18.32)"
+        ],
+        "paywall_complaints_in_sample": 3,
+        "sample_size": 34,
+        "notes": "3 of 34 reviews complain: chat locked behind payment (18.30), nagging on every misclick (18.32), a wish for free chat (18.6). One paid-but-broken (18.31). A reviewer demands the \"1000 coins\" promised for a 5-star rating (18.20): incentivized reviews."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Indirect: 'pookie', 'so cute', break-up and mental-health framing, children mentioned as users; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "he's like my therapist; now I can cancel my appointments."
+        },
+        {
+          "rating": 5,
+          "quote": "It’s helped me with my mental health because I have somebody to talk to even if it’s just the pet."
+        },
+        {
+          "rating": 5,
+          "quote": "I just installed today after a break up. I’ve had no motivation."
+        },
+        {
+          "rating": 5,
+          "quote": "I play a lot of games and I am always the person in the games who likes to earn the coins so it makes me want to do the things that need to be done"
+        },
+        {
+          "rating": 1,
+          "quote": "Accidentally click a “premium” hat? Bugs you for money."
+        }
+      ],
+      "anti_patterns": [
+        "A nagging upsell on every misclick: \"Accidentally click a “premium” hat? Bugs you for money.\" (18.32).",
+        "Paywalling what users love most (the chat): \"U can’t even chat with it\" (18.30).",
+        "Premium features that stop working after payment (18.31); silent developers (18.29).",
+        "A review-for-coins incentive that inflates ratings (18.20)."
+      ]
+    },
+    "6749520351": {
+      "core": "Sells commitment itself: a customizable 75-day reset in which the checklist, the community and the 75-day clock create the feeling of being committed and accountable.",
+      "trigger": "TikTok exposure to 75 Hard/Soft culture (19.22, 19.24, 19.30, 19.31, 19.32), wanting a life reset (\"Exactly what I needed for a life reset!\") and accountability.",
+      "retention": {
+        "cue": "The 75-day clock, a daily checklist and a community feed.",
+        "action": "Tick customized goals (workout, reading, nutrition, photos).",
+        "reward": "Day count, progress photos, community.",
+        "feeling": "Committed and accountable: \"I’m amazed at how committed I feel noting down my goals\".",
+        "evidence": "Thin: about 5 of 23 positive reviews are pre-use (\"Can’t review yet if I haven’t used it\", \"I haven’t used it yet gotta see results\"); median positive review 69 characters. Two 5-star reviews say \"it’s free\" while many 1-2 star reviews say it is not."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Discipline-and-accountability hype; commitment is the feeling being sold.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "I’m amazed at how committed I feel noting down my goals. It helps seeing the great community in there too."
+          },
+          {
+            "rating": 5,
+            "quote": "keeps me completely accountable"
+          }
+        ]
+      },
+      "identity": "\"perfect to be a better person overall\" (19.8), \"perfect for transforming your life over 75 days\" (19.19), \"Great way to improve your life!\" (19.21).",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "Matters mainly when missing: \"it’s not even aesthetically pleasing 😭\" (19.25), \"App looks like a toddler made it\" (19.27); positives: \"better design\" (19.15), \"clean design\" (19.17)."
+      },
+      "social": "Medium: \"I like the community aspect a lot\" (19.16), \"supportive community kept me motivated\" (19.19).",
+      "money": {
+        "pays_for": "Nothing evidenced as paid-and-happy; price became the anchor of regret.",
+        "price_points": [
+          "\"$35\" (19.26, 19.29)",
+          "\"$40\" (19.27)",
+          "\"yearly or weekly pay not even a month\" (19.31)"
+        ],
+        "paywall_complaints_in_sample": 10,
+        "sample_size": 35,
+        "notes": "10 of 35 reviews complain; 'just a checklist' is the dominant charge (19.24, 19.25, 19.28, 19.29, 19.30, 19.35). Billing mismatch: \"presented as a WEEKLY charge and then they charge you for the entire year!!\" (19.27)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "'75 Soft' and 'yall' but no gendered terms; a TikTok-driven mixed audience."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "I’m amazed at how committed I feel noting down my goals."
+        },
+        {
+          "rating": 5,
+          "quote": "Helps me create a program that’s tailored to me, my goals and how I strict I want to be"
+        },
+        {
+          "rating": 2,
+          "quote": "It is literally just a checklist and even visually it is not appealing."
+        },
+        {
+          "rating": 1,
+          "quote": "It is presented as a WEEKLY charge and then they charge you for the entire year!!"
+        },
+        {
+          "rating": 1,
+          "quote": "every account i’ve searched up so far is all ai"
+        }
+      ],
+      "anti_patterns": [
+        "\"just a checklist\" for $35-40: \"It is literally just a checklist and even visually it is not appealing\" (19.28); \"it doesn’t even let you customize the checklist\" (19.25).",
+        "A TikTok promo that looks AI-made: \"every account i’ve searched up so far is all ai\" (19.32).",
+        "Billing mismatch and no refunds: 19.27; \"impossible to get a refund\" (19.26).",
+        "Rigid logic: cannot switch from soft to hard (19.26); sign-in kicks users out (19.34)."
+      ]
+    },
+    "6755640836": {
+      "core": "A meme-fluent 'support friend' (the mascot of a creator many users already watch) that makes habit-building feel like a game and like talking to someone who gets ADHD brains.",
+      "trigger": "Wanting to change who they are (\"I want to change who i have become\"), ADHD, addiction recovery (20.33), and following the creator's videos (\"I love watching the videos and learning tons of things\").",
+      "retention": {
+        "cue": "Daily habits/tasks and focus sessions.",
+        "action": "Complete small habits toward goals; watch short videos/lessons.",
+        "reward": "Bananas -> trees, tents, campfires, pirate ships, islands and new monke characters; creator videos.",
+        "feeling": "Playful momentum: \"itching to complete any task that pops up to get me bananas\".",
+        "evidence": "\"I’ve used this app for 5 months\" (20.7) is the only multi-month report; the rest are days."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Playful, meme-fluent, but sincere; a mascot as 'support friend', not a drill sergeant.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "monke will treat you right if you see Monke as support friend and not single solution"
+          },
+          {
+            "rating": 5,
+            "quote": "it has changed my life 180 for the better and it has taught me to always stay Monke"
+          }
+        ]
+      },
+      "identity": "\"always stay Monke\" (20.1), \"genuinely made me a better person\" (20.7), \"It made me who I I am\" (20.23), \"I want to see what i can be other then what i am now\" (20.12).",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Rarely mentioned (the monke characters, 20.5); humor and tone matter more than art."
+      },
+      "social": "A parasocial creator bond and Discord: \"Watch a lot of his videos and thought if I play his game it will help him and me\" (20.31); a refund was needed \"just to join the discord\" (20.38).",
+      "money": {
+        "pays_for": "A one-month purchase to try it: \"I just pay for one month just to see what it is actually like and it’s worth it\" (20.5); a fan accepts it as \"expensive, yeah\" (20.2).",
+        "price_points": [
+          "\"$80\" (20.39)"
+        ],
+        "paywall_complaints_in_sample": 13,
+        "sample_size": 40,
+        "notes": "13 of 40 reviews complain; 11 are hard-paywall complaints (several explicitly after the survey), and 3 come from cash-limited users, two of them explicitly a minor or a student (20.33, 20.36; plus 20.37). Moral framing: \"They’re using people that are struggling with life to get them emotional about it and have them Pay for it.\" (20.39)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Male/teen-coded slang ('ooga booga', 'brother Monke', 'bro', 'peak')."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "This Monke give ADHD monke like me simple truths that go long way."
+        },
+        {
+          "rating": 5,
+          "quote": "Been here only a few days and I find myself itching to complete any task that pops up to get me bananas."
+        },
+        {
+          "rating": 5,
+          "quote": "I want to change who i have become I want to see what i can be other then what i am now"
+        },
+        {
+          "rating": 1,
+          "quote": "They’re using people that are struggling with life to get them emotional about it and have them Pay for it."
+        },
+        {
+          "rating": 3,
+          "quote": "I have been struggling with addiction for a year now and I was very excited to start using this app and turn my life around, only to see a paywall."
+        }
+      ],
+      "anti_patterns": [
+        "Survey, then paywall: \"They gave you a whole entire survey just to give you the iconic 3 payment option buttons.\" (20.38); \"it gives you an entire survey to complete before it brings up needing a subscription\" (20.29).",
+        "Monetizing a struggling audience through a trusted creator: \"I have been struggling with addiction for a year now\" and \"only to see a paywall\" (20.33); 20.39.",
+        "A trial-end surprise: \"Did not warn me before free trial was about to end.\" (20.35).",
+        "Value doubt: \"Games pretty much just a normal chore planner.\" (20.34)."
+      ]
+    },
+    "6773065691": {
+      "core": "Packages discipline as identity ('become the girl') in a pretty, affirmation-laced checklist, selling the confidence of looking and feeling put-together.",
+      "trigger": "Wanting to lose weight or improve body and confidence, to stop struggling (\"I’ve been struggling\"), and the 75 Hard format; many reviewers are on day 0-3.",
+      "retention": {
+        "cue": "A daily 75-day challenge checklist.",
+        "action": "Check off eat clean, drink clean, 10,000 steps, a 45-minute workout and reading; affirmations; a breathing tab.",
+        "reward": "A discipline score, streak and completion rates.",
+        "feeling": "Accountable, \"so pretty\".",
+        "evidence": "Thin: reviews are first-days (\"Started using it a couple days ago\"); median positive review 62 characters."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Aspirational 'slay' hype that turns to anger when the paywall appears.",
+        "quotes": [
+          {
+            "rating": 4,
+            "quote": "The layout and overall theme of this app is gravely motivating"
+          },
+          {
+            "rating": 5,
+            "quote": "This app keeps me accountable and it’s so pretty."
+          }
+        ]
+      },
+      "identity": "\"This is helping me be a better version of myself\" (21.11); \"if they really wanted people to be confident they would make it free…\" (21.7); price as an identity gate: \"you have to pay to feel beautiful absolutely not\" (21.24), \"I have to pay just to look good\" (21.25).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "4 of 27 mention aesthetic/cute/pretty and the theme is called \"motivating\" (21.4)."
+      },
+      "social": "Minimal: only the address \"my girlies\" (21.27).",
+      "money": {
+        "pays_for": "Nothing evidenced as paid-and-happy (21.14, \"Defiantly worth it\", is the only positive).",
+        "price_points": [],
+        "paywall_complaints_in_sample": 12,
+        "sample_size": 27,
+        "notes": "12 of 27 reviews (44%) complain, all hard-paywall: no free tier or trial (\"it doesent come with a free trial\", 21.27), forced after the tutorial/setup (21.20, 21.21, 21.23); 11 of the 12 low-rating reviews in the sample are paywall complaints (the sample caps low-rating reviews at 12 per app, so true prevalence may be higher)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "'become the girl', \"my girlies\", \"pay to feel beautiful\", \"look good\", 'so pretty'."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "This app keeps me accountable and it’s so pretty."
+        },
+        {
+          "rating": 4,
+          "quote": "The layout and overall theme of this app is gravely motivating"
+        },
+        {
+          "rating": 1,
+          "quote": "you have to pay to feel beautiful absolutely not"
+        },
+        {
+          "rating": 1,
+          "quote": "It literally made me so hyped and then brought me down when it said I had NO CHOICE but to pay in order to use an app I was excited about ugh"
+        },
+        {
+          "rating": 1,
+          "quote": "not great for my girlies who dont want to spend money"
+        }
+      ],
+      "anti_patterns": [
+        "Pay-after-effort bait-and-switch: \"Once you go through all the effort to log everything it forces you to pay.\" (21.21); \"went through the entire tutorial and I can only continue by paying, for what? No idea.\" (21.23).",
+        "Affective whiplash: \"It literally made me so hyped and then brought me down\" (21.16).",
+        "Price as an identity gate: \"you have to pay to feel beautiful absolutely not\" (21.24).",
+        "No free tier or trial for a cash-limited audience: \"not great for my girlies who dont want to spend money\" (21.27)."
+      ]
+    },
+    "6755039509": {
+      "core": "A cozy focus timer (a knitting avocado) that lets ADHD users focus alongside a tiny character and be rewarded by decorating its home.",
+      "trigger": "ADHD focus trouble (\"using a normal timer just never helps\"), a reading slump (22.1), phone overuse (22.3, 22.4).",
+      "retention": {
+        "cue": "Starting a focus block.",
+        "action": "Start the timer; the avocado knits; interrupt and it drops the needles.",
+        "reward": "Beanies and gloves traded for decorations and room upgrades.",
+        "feeling": "\"It makes getting stuff done addictive\".",
+        "evidence": "Content ceiling: \"I’ve completed it all! There’s no more rooms to do\" (22.3), and only two rooms (22.6), so the loop ends."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Cozy and affectionate, with some chore fatigue about caring for a digital critter.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "Sometimes when my avocado is knitting, I’ll be in my comfy chair crocheting!"
+          },
+          {
+            "rating": 3,
+            "quote": "I don’t need another thing to take care of."
+          }
+        ]
+      },
+      "identity": "\"This app has really helped me focus in all parts of my life\" (22.3), \"10/10 ADHD app\" (22.9).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "5 of 20 mention cute/adorable; users name their avocados (\"i named mine vee\", \"I named him Poot\")."
+      },
+      "social": "None; family use (\"very useful for my daughter\", 22.8).",
+      "money": {
+        "pays_for": "Pro for blocking and 'punishment': \"There is 0 punishment for getting on your phone unless you pay monthly\" (22.18); one paying user cannot use it as intended (22.20).",
+        "price_points": [
+          "An ad for \"pro for 40% off\" then \"55% off\", but no discount at checkout (22.15)"
+        ],
+        "paywall_complaints_in_sample": 4,
+        "sample_size": 20,
+        "notes": "4 of 20 reviews complain; plus 2 clone accusations (22.15, 22.16) and 1 paid-but-broken (22.20)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Cute/decor language, named pets, crocheting, a reading slump; daughters; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "using a normal timer just never helps, but something about helping your own avacado decorate his home when you focus makes it actually fun to focus up"
+        },
+        {
+          "rating": 5,
+          "quote": "this app got me out of my 3-month-long reading slump!"
+        },
+        {
+          "rating": 3,
+          "quote": "I don’t need a digital critter demanding me to give it water"
+        },
+        {
+          "rating": 1,
+          "quote": "This app is a copy of Focus Friend, an app that came out a few months earlier and won an award."
+        },
+        {
+          "rating": 2,
+          "quote": "There is 0 punishment for getting on your phone unless you pay monthly."
+        }
+      ],
+      "anti_patterns": [
+        "Clone backlash: \"This app is a copy of Focus Friend, an app that came out a few months earlier and won an award.\" (22.16); the story is \"WORD FOR WORD\" (22.15).",
+        "Pet-as-chore: \"I don’t need a digital critter demanding me to give it water\" (22.14).",
+        "Pay-gated enforcement (22.18) and a disappearing currency: \"my motion keep disappearing\".",
+        "Bait discounts: \"but when you go to subscribe there is no discount!\" (22.15).",
+        "The phone must stay awake, causing overheating (22.13)."
+      ]
+    },
+    "6751820866": {
+      "core": "Makes users feel seen: a gamified self-discovery game whose accurate insights and gentle prompts feel like a 'mini therapist' that does not drain you.",
+      "trigger": "Wanting to understand themselves and a journaling habit that sticks: \"I’ve tried journaling before but never stick with it\" (23.19), \"I used to be someone who was never into self help\" (23.7), a therapist's recommendation (23.9), and pushing emotions aside (23.14).",
+      "retention": {
+        "cue": "New quizzes/quests and daily journal prompts.",
+        "action": "Answer personal questions and prompts.",
+        "reward": "Insights and a personality 'constellation', perceived accuracy, and a bond with the creature (\"I've also gotten surprisingly close to my innie lol\").",
+        "feeling": "Understood and grounded.",
+        "evidence": "\"several months\" (23.2); \"I finish all quizzes the moment more are added so there have been many lulls\" (23.15): content cadence limits the loop."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Intimate and non-draining; reflection that feels easy.",
+        "quotes": [
+          {
+            "rating": 3,
+            "quote": "I loved the free trial it was so cool and actually fun, not draining yourself by writing your feelings and feeling empty."
+          },
+          {
+            "rating": 5,
+            "quote": "This makes reflection feel easy and not forced"
+          }
+        ]
+      },
+      "identity": "An explicit 'kind of person' statement: \"I used to be someone who was never into self help or journaling and this completly changed my mindset!\" (23.7); \"I’ve learned so much about myself\" (23.6).",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "One cuteness mention: \"I also love the little creature that helps you on your journey it’s so cute\" (23.8); the draw is insight, not looks."
+      },
+      "social": "None; the bond is with the creature and the app's 'therapist' role.",
+      "money": {
+        "pays_for": "Not evidenced; a 3-day free trial then a paywall.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 6,
+        "sample_size": 27,
+        "notes": "6 of 27 reviews complain (forced trial with no exit, 3 days too short, unavailable outside the US). Product love coexists with the anger: \"I can see that it was very helpful but it’s not free\" (23.20)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Self-discovery/healing/therapy-adjacent genre, 'my innie', journaling; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Basically free therapy!"
+        },
+        {
+          "rating": 5,
+          "quote": "It’s really surprised me how much I’ve learned about myself and how accurate it is."
+        },
+        {
+          "rating": 5,
+          "quote": "I’ve tried journaling before but never stick with it. This makes reflection feel easy and not forced"
+        },
+        {
+          "rating": 5,
+          "quote": "This app is helping me find myself and heal in ways that even my therapist wasn’t able to."
+        },
+        {
+          "rating": 1,
+          "quote": "a screen for the free trial version of your app that I can’t exit without accepting"
+        }
+      ],
+      "anti_patterns": [
+        "A forced trial screen with no exit: \"a screen for the free trial version of your app that I can’t exit without accepting\" (23.24); \"Forced to do free trail in order use the app\" (23.22).",
+        "A trial too short to judge a reflective product: \"do more than 3 days free trial atleast 15 days\" (23.20).",
+        "Lost data: \"my account was wiped and all the work I have done in the app has disappeared\" (23.26).",
+        "A broken insights view that \"makes the app useless\" (23.27); onboarding freeze (23.4)."
+      ]
+    },
+    "6746562271": {
+      "core": "A cozy cat body-double: the cat sits with you while you focus and gently-but-firmly blocks distractions, so discipline feels like companionship rather than self-policing.",
+      "trigger": "ADHD (24.1, 24.8), phone addiction and \"screen detox\" (24.27), study anxiety and burnout (24.20, 24.23), and cat love.",
+      "retention": {
+        "cue": "The lock-screen cat when you pick up the phone; study time.",
+        "action": "Start a focus session (strict blocking optional); night-time blocking.",
+        "reward": "Gifts -> fish -> furniture and decorations; seasonal cats; hand-drawn animations.",
+        "feeling": "Cozy company: \"I don't want to upset my cat friend\".",
+        "evidence": "\"Used for 4 months, I am now able to focus 3hrs/session easily\" (24.25). 26 of 29 reviews are 5-star: the lowest low-rating share in the packet."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Cozy, comforting, 'gentle yet firm'.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "It blocks your apps for you in a gentle yet firm way, and the app itself is just so cute and aesthetic."
+          },
+          {
+            "rating": 4,
+            "quote": "It takes away the anxiety of studying for me and allows for actual fun while studying!"
+          }
+        ]
+      },
+      "identity": "\"I’ve become much more productive and disciplined after downloading this\" (24.7); \"as someone with ADHD, i have a really hard time sticking to things, especially productivity apps\" (24.8).",
+      "aesthetics": {
+        "importance": "high",
+        "evidence": "21 of 29 mention cute/hand-drawn/adorable; the absence of AI is praised: \"no AI in sight, hoorayy!!!\" (24.24)."
+      },
+      "social": "Low: \"study with friends feature\" (24.24), \"study buddy\" (24.7).",
+      "money": {
+        "pays_for": "Pro/lifetime as support for the artists; the free tier is good enough: \"the free version works well and is better than any other focus apps (all without purchasing)\" (24.19); \"i would consider pro for just to support the artists\" (24.24); a Chinese-language reviewer will consider a lifetime membership (24.13).",
+        "price_points": [],
+        "paywall_complaints_in_sample": 0,
+        "sample_size": 29,
+        "notes": "0 paywall complaints in 29 reviews; the only money-related wish is more ambient sounds in the free tier (24.20)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Cat-lover/cute/hand-drawn language, 'morning pages'; many CJK-language reviews; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "It blocks your apps for you in a gentle yet firm way, and the app itself is just so cute and aesthetic."
+        },
+        {
+          "rating": 4,
+          "quote": "It takes away the anxiety of studying for me and allows for actual fun while studying!"
+        },
+        {
+          "rating": 5,
+          "quote": "Used for 4 months, I am now able to focus 3hrs/session easily."
+        },
+        {
+          "rating": 5,
+          "quote": "this app is something i would consider pro for just to support the artists. no AI in sight, hoorayy!!!"
+        },
+        {
+          "rating": 5,
+          "quote": "I really like how it comes up on your lock screen so your cat can intimidate you when you pick your phone up."
+        }
+      ],
+      "anti_patterns": [
+        "Loss of control over the chosen companion after updates: \"I can’t even use my favorite cat because of it. I’m very upset by it.\" (24.29).",
+        "Automation glitches in night blocking (24.4); a font bug (24.26).",
+        "(Praised absences) no AI art, no ads, no pay-to-win (24.24)."
+      ]
+    },
+    "6756554711": {
+      "core": "A supportive capybara companion that carries the emotional load of habits for anxious/ADHD users, with notifications that support rather than nag.",
+      "trigger": "Anxiety, ADHD and depression (\"I struggle with anxiety adhd depression\"), laziness and cleaning, building habits; young users (a 9-year-old).",
+      "retention": {
+        "cue": "Supportive notifications (including hydration).",
+        "action": "Complete tasks and habits; daily adventures cost energy.",
+        "reward": "Points/energy -> Capy's adventures, locations and items.",
+        "feeling": "Supported, not nagged.",
+        "evidence": "About a month (25.1); family adoption (\"now the whole family uses it\", 25.12); many positive reviews are very short."
+      },
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "notes": "Supportive notifications are called out as a feature.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "I love that the notifications don’t try to make you use the app they are just supporting"
+          },
+          {
+            "rating": 5,
+            "quote": "since i like capys its made me want to make my little capybara happy"
+          }
+        ]
+      },
+      "identity": "\"before I had this I was to lazy to do anything AFTER:IM DOING EVERYTHING IT SAYS TO DO\" (25.14, a 9-year-old).",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "3 of 25 mention cute/adorable (e.g. \"capybara is adorable\"); attachment to the capybara matters more than the art."
+      },
+      "social": "Requests: \"Can you update to have friends?\" (25.4); family use (25.12).",
+      "money": {
+        "pays_for": "Subscription/pro; no satisfied payer evidenced.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 4,
+        "sample_size": 25,
+        "notes": "4 of 25 reviews complain (growth mission paywalled 25.18, 25.20; \"you gotta pay for everything or you get trash things\", 25.23; subscription pop-ups, 25.24)."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Cute/capybara-lover language, anxiety/ADHD framing, kids; no explicit gender."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "I love that the notifications don’t try to make you use the app they are just supporting"
+        },
+        {
+          "rating": 5,
+          "quote": "I struggle with anxiety adhd depression and this has helped me out so much"
+        },
+        {
+          "rating": 5,
+          "quote": "since i like capys its made me want to make my little capybara happy"
+        },
+        {
+          "rating": 4,
+          "quote": "Can you update to have friends?"
+        },
+        {
+          "rating": 2,
+          "quote": "It’s so similar to finch that it’s not cool it’s basically a copy of finch but finch is better in everyway"
+        }
+      ],
+      "anti_patterns": [
+        "Finch-clone perception: \"basically a copy of finch but finch is better in everyway\" (25.24); subscription pop-ups.",
+        "Account loss on a new phone: \"profile not found\" (25.19).",
+        "Support silence (25.21).",
+        "Repeat-until-done logic that cannot carry tasks over (25.22)."
+      ]
+    },
+    "6785825235": {
+      "core": "'Become that girl' glow-up challenges with photo proof and collectible stickers: visible, shareable proof of becoming.",
+      "trigger": "Body insecurity and wanting a girly, motivating routine: \"i’ve always been insecure\", \"Yes girl motivate me\"; first-day users.",
+      "retention": {
+        "cue": "Daily glow-up challenge tasks.",
+        "action": "Complete tasks and validate with photos.",
+        "reward": "Collectible aesthetic stickers.",
+        "feeling": "Not evidenced.",
+        "evidence": "Not evidenced: n=6, first-day reviews; the sticker loop is untested in this sample."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Aspirational, girly hype.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "the app is all girly & allat very cute; i hope it gives you rewards for things & stuff yes Like Yes girl motivate me Thank you."
+          }
+        ]
+      },
+      "identity": "\"i’ve always been insecure but now i am skinny and perfff\" (26.1).",
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "\"girly & allat very cute\" (26.2): one of 6 reviews, but stickers and photos are the reward in the product design."
+      },
+      "social": "None.",
+      "money": {
+        "pays_for": "No evidence of satisfied payers.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 2,
+        "sample_size": 6,
+        "notes": "2 of 6 reviews complain (\"waste of money\", \"Costs money\")."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "'become that girl', \"girly\", \"Yes girl\", 🎀."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "i’m new to working out i’ve always been insecure but now i am skinny and perfff"
+        },
+        {
+          "rating": 5,
+          "quote": "the app is all girly & allat very cute"
+        },
+        {
+          "rating": 5,
+          "quote": "so it will help u the way u wan be helped"
+        },
+        {
+          "rating": 1,
+          "quote": "The camera option just guess how to do it because it won’t tell you."
+        },
+        {
+          "rating": 1,
+          "quote": "Costs money"
+        }
+      ],
+      "anti_patterns": [
+        "No onboarding for the core mechanic: \"No direction at all on how to use.\" (26.5); \"The camera option just guess how to do it because it won’t tell you.\"",
+        "Resetting is painful (26.5); a paywall (26.6)."
+      ]
+    },
+    "6782149051": {
+      "core": "A 'become that girl' 75-day checklist with friend accountability: sells identity and shared commitment, but users judge it as 'just a checklist'.",
+      "trigger": "TikTok exposure (\"Saw on TikTok\") and wanting to 'become that girl' and glow up.",
+      "retention": {
+        "cue": "The 75-day challenge and friend invites.",
+        "action": "Check off a personal daily list; snap a photo as proof; see friends' progress.",
+        "reward": "Streak and shared progress.",
+        "feeling": "Not evidenced.",
+        "evidence": "Not evidenced (n=6). The description claims \"The majority of women who finished the challenge had someone doing it with them\"."
+      },
+      "emotional_tone": {
+        "class": "hype/competition",
+        "notes": "Aspirational 'baddie' hype.",
+        "quotes": [
+          {
+            "rating": 5,
+            "quote": "I never felt like this before, It’s like I found it"
+          }
+        ]
+      },
+      "identity": "\"I never felt like this before, It’s like I found it\" (27.2); the product line is 'Become that girl'.",
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Not mentioned in any review; the description promises a clean, soft, aesthetic design."
+      },
+      "social": "Core in the description (invite friends with a code, see each other's daily progress) but no review mentions it.",
+      "money": {
+        "pays_for": "No evidence of satisfied payers.",
+        "price_points": [
+          "\"$47.99\" (27.5)",
+          "\"Checklist for 5 bucks\" (27.3)"
+        ],
+        "paywall_complaints_in_sample": 4,
+        "sample_size": 6,
+        "notes": "4 of 6 reviews complain, including a 5-star review that asks \"make it free ?\" (27.1)."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "'Become that girl', 'baddie', 'glow up'; the description cites 'the majority of women'."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "quote": "Absoloutley perfect !. But make it free ?"
+        },
+        {
+          "rating": 5,
+          "quote": "I never felt like this before, It’s like I found it"
+        },
+        {
+          "rating": 1,
+          "quote": "Saw on TikTok, but it was a lie. No free version at all, and users who purchased said it’s just a checklist. Checklist for 5 bucks. Not worth it"
+        },
+        {
+          "rating": 1,
+          "quote": "the developer uses ai generated videos to marketing"
+        },
+        {
+          "rating": 1,
+          "quote": "So I purchased a plan and it literally just has a list."
+        }
+      ],
+      "anti_patterns": [
+        "\"Checklist for 5 bucks\" (27.3); \"it literally just has a list\" (27.5); \"just an todo list\" (27.4).",
+        "Marketing perceived as fake: \"the developer uses ai generated videos to marketing\" (27.4); the TikTok promise \"was a lie\" (27.3)."
+      ]
+    }
+  },
+  "synthesis": {
+    "mechanisms": [
+      {
+        "rank": 1,
+        "name": "Cuteness and aesthetics as the emotional reward and self-expression",
+        "why_it_works": "A cute, hand-drawn, personalized look makes self-improvement feel like a treat made for 'someone like me' instead of a serious, intimidating obligation, so users open the app for pleasure and read the ritual as self-expression.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1540983473,
+          1528322796,
+          1333303155,
+          6756178380,
+          6757347283,
+          6746784659,
+          1559730367,
+          1589243137,
+          1315396498,
+          1638926773,
+          6755110504,
+          6447218598,
+          6747010310,
+          6749520351,
+          6773065691,
+          6755039509,
+          6751820866,
+          6746562271,
+          6756554711,
+          6785825235
+        ],
+        "approx_review_count": 157,
+        "best_quote": {
+          "app_id": 1540983473,
+          "rating": 5,
+          "quote": "it’s motivating for me because its aesthetically pleasing!"
+        }
+      },
+      {
+        "rank": 2,
+        "name": "Gentle, forgiving, low-friction structure (anti-shame)",
+        "why_it_works": "Users arrive with a history of failed, shaming systems and limited energy, so calm, small and forgiving design (only the basics on bad days, no guilt, five-minute entries) breaks the fail-guilt-quit loop and makes coming back after a lapse feel safe.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1540983473,
+          1528322796,
+          1333303155,
+          6757347283,
+          6746784659,
+          1481275761,
+          1559730367,
+          1589243137,
+          1315396498,
+          6447218598,
+          6747010310,
+          6755039509,
+          6751820866,
+          6746562271,
+          6756554711
+        ],
+        "approx_review_count": 59,
+        "best_quote": {
+          "app_id": 6447218598,
+          "rating": 5,
+          "quote": "This app does not guilt you, it encourages you, gives you advice without making you feel bad."
+        }
+      },
+      {
+        "rank": 3,
+        "name": "Aspirational identity: 'become that girl', 'new me', 'best self'",
+        "why_it_works": "The app is bought as a ticket to a calmer, more confident, put-together self, which drives downloads and first-week excitement but retains only when the product also feels safe and works; the same framing makes a paywall feel like an identity tax (9 further reviews show this inverse).",
+        "apps": [
+          1508326506,
+          6746586837,
+          1333303155,
+          6756178380,
+          6757347283,
+          6746784659,
+          1481275761,
+          1638926773,
+          6747010310,
+          6749520351,
+          6755640836,
+          6773065691,
+          6751820866,
+          6746562271,
+          6756554711,
+          6785825235,
+          6782149051
+        ],
+        "approx_review_count": 58,
+        "best_quote": {
+          "app_id": 6756178380,
+          "rating": 5,
+          "quote": "I’m young and I’m trying to create new boundaries and habits for myself"
+        }
+      },
+      {
+        "rank": 4,
+        "name": "Personalization as ownership and being known",
+        "why_it_works": "Custom emojis, categories, themes, plans and voiced stories make the app feel like 'mine' and make insights feel accurate, which raises switching costs, creates a sense of being understood, and turns erased customizations into real grief.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1540983473,
+          1528322796,
+          6756178380,
+          6757347283,
+          6746784659,
+          1559730367,
+          1589243137,
+          1315396498,
+          6755110504,
+          6749520351,
+          6755640836,
+          6751820866,
+          6746562271
+        ],
+        "approx_review_count": 53,
+        "best_quote": {
+          "app_id": 1553223828,
+          "rating": 5,
+          "quote": "this has been the only one that has stuck successfully, and I think that’s because you can really customize it to your needs"
+        }
+      },
+      {
+        "rank": 5,
+        "name": "Effort made visible: collecting, decorating, growing, streaks",
+        "why_it_works": "Invisible discipline becomes a tangible artifact (rooms, flowers, tomatoes, rank) that proves the effort counted, so its loss (streak wipes) or exhaustion (all rooms done) hurts as much as the gain motivates.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6746586837,
+          6742278016,
+          1528322796,
+          1333303155,
+          1559730367,
+          1589243137,
+          1315396498,
+          1638926773,
+          6447218598,
+          6747010310,
+          6749520351,
+          6755640836,
+          6755039509,
+          6746562271
+        ],
+        "approx_review_count": 48,
+        "best_quote": {
+          "app_id": 6742278016,
+          "rating": 5,
+          "quote": "I feel so incentivized to study so I can make my bean’s house feel like a home!"
+        }
+      },
+      {
+        "rank": 6,
+        "name": "Light social accountability and body-doubling",
+        "why_it_works": "Friends, a challenge group or a visible community make quitting socially costly and effort witnessed, and cute framing keeps it cooperative rather than rivalrous; solo apps get constant requests for exactly this.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1333303155,
+          6746784659,
+          1481275761,
+          1559730367,
+          1638926773,
+          6755110504,
+          6749520351,
+          6773065691,
+          6746562271,
+          6756554711
+        ],
+        "approx_review_count": 47,
+        "best_quote": {
+          "app_id": 1638926773,
+          "rating": 5,
+          "quote": "Before it felt fun on my own, but it’s better now with a small feeling of competition."
+        }
+      },
+      {
+        "rank": 7,
+        "name": "Self-care by proxy: nurturing a creature or living world",
+        "why_it_works": "Caring for a dependent (bean, cat, capybara, fish, garden) is easier to justify than caring for oneself, so guilt that would be self-directed becomes a gentle duty to someone else.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1589243137,
+          1315396498,
+          1638926773,
+          6447218598,
+          6747010310,
+          6755640836,
+          6755039509,
+          6751820866,
+          6746562271,
+          6756554711
+        ],
+        "approx_review_count": 47,
+        "best_quote": {
+          "app_id": 6742278016,
+          "rating": 5,
+          "quote": "really helps me stay focused because i don’t want my bean to be sad"
+        }
+      },
+      {
+        "rank": 8,
+        "name": "Externalized executive function: gentle-but-firm structure for ADHD and phone compulsion",
+        "why_it_works": "Users who cannot self-start or self-limit want an outside rule-keeper (blocking, timers, rewards) delivered kindly, so willpower becomes compliance with a friendly system.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1540983473,
+          1528322796,
+          1559730367,
+          6755110504,
+          6747010310,
+          6755640836,
+          6755039509,
+          6746562271,
+          6756554711
+        ],
+        "approx_review_count": 36,
+        "best_quote": {
+          "app_id": 6746562271,
+          "rating": 5,
+          "quote": "It blocks your apps for you in a gentle yet firm way"
+        }
+      },
+      {
+        "rank": 9,
+        "name": "A non-judgmental private witness (emotional offloading, 'free therapy')",
+        "why_it_works": "A private, always-available listener with no social risk lets users put feelings somewhere and feel less alone, so the app becomes a safe space rather than a tool.",
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          6756178380,
+          6757347283,
+          1559730367,
+          1589243137,
+          6747010310,
+          6751820866,
+          6746562271,
+          6756554711
+        ],
+        "approx_review_count": 33,
+        "best_quote": {
+          "app_id": 6747010310,
+          "rating": 5,
+          "quote": "helped me with my mental health because I have somebody to talk to even if it’s just the pet"
+        }
+      },
+      {
+        "rank": 10,
+        "name": "A trusted human behind the app (creator, coach or indie developer)",
+        "why_it_works": "A named person who visibly cares (Tammy, Megan, a responsive developer) turns a purchase into a relationship, which raises tolerance for price and bugs and makes extractive monetization feel like betrayal.",
+        "apps": [
+          6746586837,
+          6742278016,
+          1540983473,
+          1333303155,
+          6757347283,
+          1481275761,
+          1559730367,
+          1638926773,
+          6755640836,
+          6773065691,
+          6751820866,
+          6746562271
+        ],
+        "approx_review_count": 31,
+        "best_quote": {
+          "app_id": 1333303155,
+          "rating": 5,
+          "quote": "I love supporting one of Tammy’s businesses bc I’m a long time follower of hers."
+        }
+      }
+    ],
+    "common_root": "Hypothesis: the root is borrowed self-regulation from a kind 'other'. These women want to become a calmer, more put-together version of themselves, but arrive overwhelmed (ADHD, stress, break-up, postpartum, finals) and tired of being their own harsh judge after systems that felt \"so serious and intimidating\". The apps that win relocate the emotional stake outside the self (a bean (\"i don’t want my bean to be sad\"), a garden that blooms, a coach who is \"so positive\", a friend \"that dosent make fun of you\", a group of other women), so discipline is felt as caretaking, play or company instead of self-punishment (the users' own phrase is \"gentle yet firm\"), and cute, personal, visible artifacts (rooms, flowers, tomatoes, streaks) prove that every small act was witnessed and counted. Aspirational identity ('that girl', 'new me') is the adoption hook, but forgiveness, ownership and a trusted person behind the app are what retain, and willingness to pay follows felt help and trust: charging for entry right after users have disclosed a vulnerability reads as exploitation (\"Why should I have to pay to make myself better?\").",
+    "what_fails": [
+      {
+        "pattern": "Hard paywall right after a long intake quiz: value is withheld until the user has disclosed personal struggles",
+        "approx_review_count": 87,
+        "apps": [
+          6746586837,
+          6756178380,
+          6757347283,
+          6746784659,
+          6755110504,
+          6447218598,
+          6749520351,
+          6755640836,
+          6773065691,
+          6755039509,
+          6751820866,
+          6785825235,
+          6782149051
+        ],
+        "evidence": "87 reviews across 13 apps describe being forced to pay or start a trial before any use (mostly 1-star); 20 specifically describe a long questionnaire or tutorial followed by the paywall. In Lock In and Slay 75, 11 of the 12 sampled low-rating reviews are about exactly this. The model demonstrably converts some people (\"I just downloaded and instantly bought the plan\"), but it generates the loudest public hostility in the packet.",
+        "example_quote": {
+          "app_id": 6746586837,
+          "rating": 1,
+          "quote": "to reel you in, just to slap you with a subscription before you can truly use the app"
+        }
+      },
+      {
+        "pattern": "Moralized pricing: paying for self-improvement or healing is read as exploitation",
+        "approx_review_count": 13,
+        "apps": [
+          6746586837,
+          6756178380,
+          6757347283,
+          6755110504,
+          6755640836,
+          6773065691
+        ],
+        "evidence": "Users frame the price as an ethical failure, strongest where the intake collected vulnerability or a trusted creator is behind the app: \"Why should I have to pay to make myself better?\" (3.36); \"I’m exhausted with all of these “wellness” apps exploiting those wanting to do better with themselves\" (8.33); \"I have to pay just to look good\" (21.25).",
+        "example_quote": {
+          "app_id": 6755640836,
+          "rating": 1,
+          "quote": "They’re using people that are struggling with life to get them emotional about it and have them Pay for it."
+        }
+      },
+      {
+        "pattern": "'Free' framing versus paid reality; undisclosed subscription",
+        "approx_review_count": 18,
+        "apps": [
+          1553223828,
+          6746586837,
+          6756178380,
+          6757347283,
+          6746784659,
+          6755110504,
+          6447218598,
+          6749520351,
+          6755640836,
+          6755039509,
+          6751820866,
+          6782149051
+        ],
+        "evidence": "Store listings, social ads or descriptions that say or imply free, with the paywall buried: \"Listed on the AppStore as a free app, instant paywall after download\" (3.33); the disclosure is \"listed all the way at the bottom of the app description by an asterisk\" (17.22). Several reviews also say it used to be free (17.27).",
+        "example_quote": {
+          "app_id": 6746784659,
+          "rating": 1,
+          "quote": "Says it’s free on social media but is $50"
+        }
+      },
+      {
+        "pattern": "Billing traps and silent support: trial charges without the promised reminder, cancellation and refund failures",
+        "approx_review_count": 15,
+        "apps": [
+          6756178380,
+          6757347283,
+          6746784659,
+          1559730367,
+          6447218598,
+          6747010310,
+          6749520351,
+          6755640836,
+          6755039509,
+          6756554711
+        ],
+        "evidence": "Charges after trials, charges after deletion, no response on refunds: \"Did not send a reminder to cancel before free trial ended, although it stated it would and I was charged $40\" (8.31); \"I can’t cancel my subscription\" (9.29); \"impossible to get a refund\" (19.26).",
+        "example_quote": {
+          "app_id": 6757347283,
+          "rating": 1,
+          "quote": "They charged me even tho I deleted the app and never subscribed"
+        }
+      },
+      {
+        "pattern": "Commodity features sold as a premium ('just a checklist')",
+        "approx_review_count": 13,
+        "apps": [
+          6746784659,
+          1589243137,
+          6749520351,
+          6755640836,
+          6782149051
+        ],
+        "evidence": "Reviewers compare the price with what the phone already does: \"Shameless piggybacking on default reminders app. Adds nothing but fees.\" (13.32); \"Checklist for 5 bucks\" (27.3). Concentrated in the 75-day apps, where the product is a list plus a promise.",
+        "example_quote": {
+          "app_id": 6749520351,
+          "rating": 2,
+          "quote": "It is literally just a checklist and even visually it is not appealing."
+        }
+      },
+      {
+        "pattern": "AI-fakery signals: AI-made marketing and accounts, suspected fake reviews, AI-generated art",
+        "approx_review_count": 11,
+        "apps": [
+          6756178380,
+          6746784659,
+          1481275761,
+          1315396498,
+          6447218598,
+          6749520351,
+          6782149051
+        ],
+        "evidence": "This audience reads AI aesthetics as inauthenticity and distrusts glowing review sections: \"USES AI TO PROMOTES ITS APP\" and \"REVIEWS ARE AI!!!\" (10.38); \"the “art” and writing is all ai\" (17.2); \"realized that most of these reviews are fake!\" (11.32). The mirror image is praise for hand-drawn work: \"no AI in sight, hoorayy!!!\" (24.24).",
+        "example_quote": {
+          "app_id": 6749520351,
+          "rating": 1,
+          "quote": "every account i’ve searched up so far is all ai"
+        }
+      },
+      {
+        "pattern": "Updates that erase what users built or move free features behind a paywall",
+        "approx_review_count": 26,
+        "apps": [
+          1553223828,
+          1508326506,
+          6742278016,
+          1540983473,
+          1333303155,
+          1315396498,
+          6447218598,
+          6747010310,
+          6746562271
+        ],
+        "evidence": "Long-term, multi-year users become the angriest reviewers when redesigns reset personal data, rename familiar programs or take a free feature away; one app won a 1-star back with developer outreach (7.22).",
+        "example_quote": {
+          "app_id": 1333303155,
+          "rating": 3,
+          "quote": "I was finishing up week 6 of my program and with the update some of the workouts are completely different"
+        }
+      },
+      {
+        "pattern": "Shame, harsh penalties and extra chores inside a 'self-care' game",
+        "approx_review_count": 7,
+        "apps": [
+          1508326506,
+          1589243137,
+          1638926773,
+          6755039509
+        ],
+        "evidence": "Body-weight avatars that punish, all-or-nothing resets and pets that demand chores break the gentle contract: \"fat shame\" (15.39), \"3-4 days of progress gets wiped out in one day\" (15.29), \"I don’t need another thing to take care of\" (22.14); a diary app answered sadness with a weight-loss redirect (2.40).",
+        "example_quote": {
+          "app_id": 1638926773,
+          "rating": 3,
+          "quote": "this app would be so much better if it didn’t literally fat shame people"
+        }
+      },
+      {
+        "pattern": "Interruptive monetization at the moment of the core action: ads, promo pop-ups, review prompts, unsafe ads",
+        "approx_review_count": 24,
+        "apps": [
+          1553223828,
+          1508326506,
+          1540983473,
+          1528322796,
+          1333303155,
+          1315396498,
+          1638926773,
+          6447218598,
+          6747010310,
+          6756554711
+        ],
+        "evidence": "Ads after every save, discount pop-ups before the timer, review begging and sexually suggestive ads in a child-friendly-looking app. Ads in a corner are tolerated (\"ads are not annoying!\", 14.13); ads that block the action are not.",
+        "example_quote": {
+          "app_id": 1553223828,
+          "rating": 2,
+          "quote": "Having to watch ads every time you edit an entry is ridiculous."
+        }
+      },
+      {
+        "pattern": "Paid-but-broken: premium that does not work, plus data and account loss",
+        "approx_review_count": 11,
+        "apps": [
+          1528322796,
+          6756178380,
+          6746784659,
+          1559730367,
+          1638926773,
+          6747010310,
+          6755039509,
+          6751820866,
+          6756554711
+        ],
+        "evidence": "Paying users who cannot use what they bought, or who lose progress, escalate to 1 star and moral language: \"I paid for pro and still can’t use it\" (22.20), \"my account was wiped and all the work I have done in the app has disappeared\" (23.26).",
+        "example_quote": {
+          "app_id": 1559730367,
+          "rating": 5,
+          "quote": "I subscribed to the monthly plan but the features are still locked"
+        }
+      }
+    ],
+    "paid_for": {
+      "pays_for": [
+        {
+          "what": "Done-for-you guidance from a trusted woman or creator with visible results (programs, meal plans, classes), sold as an annual fee or a trial-first subscription",
+          "approx_review_count": 7,
+          "apps": [
+            1333303155,
+            1481275761
+          ],
+          "evidence": "Tammy Fit and The Sculpt Society are the two apps where subscribers say the money is justified, and they are among the lowest-complaint subscription apps (3 of 40 and 0 of 32 reviews). The price is anchored against in-person classes (\"the same as in-person class\"), the trial does the selling (\"with a 5 week free trial, I was hooked!\"), and the reviewers around them are largely mothers and women in their 40s (7.1 \"at 48yrs old\", 11.15 \"6 months postpartum\"), not visibly Gen Z.",
+          "example_quote": {
+            "app_id": 1333303155,
+            "rating": 4,
+            "quote": "the yearly fee is definitely worth it"
+          }
+        },
+        {
+          "what": "A fair upgrade on a free core they already love: longer timers, app blocking/whitelisting, more habits, sync, widgets, premium themes",
+          "approx_review_count": 10,
+          "apps": [
+            1508326506,
+            6742278016,
+            1540983473,
+            1528322796,
+            1559730367,
+            6755110504,
+            6746562271
+          ],
+          "evidence": "Satisfied or willing payers in Focus Friend, FocusPomo, Floret, Focus Traveller, EMMO, Unglue and Cat On Chair describe paying for upgrades on a free core they already use (\"I never pay for any subscriptions, but this app is just the best and I subscribed to their premium plan for 1 year\"); one reviewer offers to pay for a single watch tweak (6.15). Blocking and whitelisting is the clearest paid feature (6.33, 22.18, 22.20, 16.4), which is why moving it behind a paywall backfires (4.32).",
+          "example_quote": {
+            "app_id": 6742278016,
+            "rating": 5,
+            "quote": "Paying for pro is super worth it, too."
+          }
+        },
+        {
+          "what": "One-time or lifetime ownership, strongly preferred over subscriptions",
+          "approx_review_count": 10,
+          "apps": [
+            1553223828,
+            1508326506,
+            6742278016,
+            1589243137,
+            6746562271
+          ],
+          "evidence": "Ten reviews across five apps bought a lifetime or one-time unlock or say they would: \"Best app I ever bought\" (13.1), \"5 stars once they let me buy a lifetime license\" (1.3), \"paid the $30 for life\" (4.31). The counter-sentiment is explicit subscription fatigue: \"Why does everything have to be a subscription nowadays\" (10.36).",
+          "example_quote": {
+            "app_id": 1589243137,
+            "rating": 5,
+            "quote": "I love that I was able to purchase the app instead of being a monthly subscription."
+          }
+        },
+        {
+          "what": "Personalized, emotionally immersive content once the user has felt it work (voiced stories, meal planners), often tested with a one-month or trial purchase",
+          "approx_review_count": 5,
+          "apps": [
+            6756178380,
+            6757347283,
+            6447218598,
+            6755640836
+          ],
+          "evidence": "Satisfied payers even at the weekly price: \"although it’s 6.99 a week but it’s definitely worth it!\" (9.8); \"I just pay for one month just to see what it is actually like and it’s worth it\" (20.5); \"worth the money\" (17.3, a meal planner).",
+          "example_quote": {
+            "app_id": 6757347283,
+            "rating": 5,
+            "quote": "This app is worth every penny plus more."
+          }
+        },
+        {
+          "what": "Hope, bought on impulse right after onboarding",
+          "approx_review_count": 5,
+          "apps": [
+            6756178380,
+            6746784659,
+            6755640836,
+            6773065691
+          ],
+          "evidence": "A visible minority converts instantly and anchors the price to everyday treats: \"I just downloaded and instantly bought the plan. Not even bad considering I normally go to Dutch bros 5x or more a week\" (10.16). The packet shows only days of use for these buyers, so their retention is unproven; the same funnel produces the hard-paywall backlash.",
+          "example_quote": {
+            "app_id": 6746784659,
+            "rating": 5,
+            "quote": "I just downloaded and instantly bought the plan."
+          }
+        },
+        {
+          "what": "Supporting makers they feel good about",
+          "approx_review_count": 4,
+          "apps": [
+            1333303155,
+            1559730367,
+            6746562271
+          ],
+          "evidence": "Payment framed as support rather than purchase: \"the developer needs to profit some\" (12.2), \"I will keep support the developers\" (12.22), \"i would consider pro for just to support the artists\" (24.24), \"I love supporting one of Tammy’s businesses\" (7.8).",
+          "example_quote": {
+            "app_id": 1559730367,
+            "rating": 5,
+            "quote": "The developers obviously respect the user and the price is very reasonable!"
+          }
+        }
+      ],
+      "refuses_to_pay_for": [
+        {
+          "what": "Access before value: a hard paywall or forced trial right after onboarding",
+          "approx_review_count": 87,
+          "apps": [
+            6746586837,
+            6756178380,
+            6757347283,
+            6746784659,
+            6755110504,
+            6447218598,
+            6749520351,
+            6755640836,
+            6773065691,
+            6755039509,
+            6751820866,
+            6785825235,
+            6782149051
+          ],
+          "evidence": "87 reviews in 13 of the 27 apps, 57 of them 1-star and most of the rest 2-3 stars. Apps with the strongest retention evidence (free core, trial-first or one-time purchase) rarely receive these.",
+          "example_quote": {
+            "app_id": 6773065691,
+            "rating": 1,
+            "quote": "Once you go through all the effort to log everything it forces you to pay."
+          }
+        },
+        {
+          "what": "Weekly pricing, which makes the annual cost feel hidden",
+          "approx_review_count": 6,
+          "apps": [
+            6757347283,
+            6746784659,
+            6749520351
+          ],
+          "evidence": "A weekly price reads as small at the paywall and large on a calendar: \"$336 a year for an app that isn’t a guarantee!\" (9.35); a \"WEEKLY charge\" that becomes the entire year (19.27); a student who cannot afford \"$7.99/weekly\" (10.31).",
+          "example_quote": {
+            "app_id": 6757347283,
+            "rating": 4,
+            "quote": "A weekly subscription of 7 dollars is overly a luxury some ppl don’t have"
+          }
+        },
+        {
+          "what": "A checklist or commodity feature priced as a program",
+          "approx_review_count": 13,
+          "apps": [
+            6746784659,
+            1589243137,
+            6749520351,
+            6755640836,
+            6782149051
+          ],
+          "evidence": "75Me, Baddie Protocol and Her 75 are repeatedly called 'just a checklist' (\"nothing more than a checklist\", 19.25); the phone's free Reminders app is the benchmark (13.32, 19.24).",
+          "example_quote": {
+            "app_id": 6749520351,
+            "rating": 2,
+            "quote": "It is literally just a checklist and even visually it is not appealing."
+          }
+        },
+        {
+          "what": "Paying and still being nagged, advertised to or locked out",
+          "approx_review_count": 7,
+          "apps": [
+            1553223828,
+            1528322796,
+            1333303155,
+            1559730367,
+            6747010310,
+            6755039509
+          ],
+          "evidence": "Premium that does not remove the pain: ads inside a paid tier (7.33), premium without the cosmetics users wanted (1.35), features still locked after payment (12.7, 22.20, 18.31), a paid blocklist that does not hold (6.33), and a nag on every misclick (18.32).",
+          "example_quote": {
+            "app_id": 1333303155,
+            "rating": 1,
+            "quote": "It’s super frustrating this app has ad pop ups when you are paying to use it!"
+          }
+        },
+        {
+          "what": "Paying again for what was free or already bought",
+          "approx_review_count": 5,
+          "apps": [
+            1508326506,
+            6742278016,
+            1333303155,
+            6447218598
+          ],
+          "evidence": "Monetization changes aimed at loyal users trigger the sharpest reactions: a one-time premium buyer shown a subscription (2.4), a free feature moved behind the paywall (4.32), a free app that became a subscription (17.27), an extra charge mid-program (7.29).",
+          "example_quote": {
+            "app_id": 6742278016,
+            "rating": 1,
+            "quote": "whitelisting apps to allow during a timer is now locked behind the paywall when it wasn't before"
+          }
+        },
+        {
+          "what": "Anything beyond a minor's or student's budget",
+          "approx_review_count": 10,
+          "apps": [
+            6746586837,
+            6742278016,
+            6756178380,
+            6757347283,
+            6746784659,
+            6755110504,
+            6755640836,
+            6773065691
+          ],
+          "evidence": "Ten reviewers say they are a minor, a student, broke or cash-limited: \"I’m 14 I don’t have money\" (3.38), \"I'm not old enough to hold a job\" (20.33), \"I’d get pro but I’m poor\" (4.3). Interest is visible in this group (they download and finish onboarding), payment is not.",
+          "example_quote": {
+            "app_id": 6746586837,
+            "rating": 1,
+            "quote": "I’m 14 I don’t have money"
+          }
+        },
+        {
+          "what": "Pay-to-skip effort in reward economies (weak evidence)",
+          "approx_review_count": 3,
+          "apps": [
+            1553223828,
+            6742278016,
+            1589243137
+          ],
+          "evidence": "Rewards earned by effort are part of the value: \"you can't buy socks or scarfs with real money other focus apps do that and it ruins the purpuse\" (4.21); users resent paying to grow the garden (13.16) or buying icons with game money (1.20). Only three reviews, but consistent.",
+          "example_quote": {
+            "app_id": 6742278016,
+            "rating": 5,
+            "quote": "i love how you can't buy socks or scarfs with real money other focus apps do that and it ruins the purpuse"
+          }
+        }
+      ],
+      "price_points_observed": [
+        "Her 75 (6746784659): $7.99/week, $14.99/month, $49.99/year (store description); a review cites \"50$ for the year\" (10.29).",
+        "Stella (6757347283): \"6.99 a week\" (9.8), \"7 dollars\" weekly (9.2), \"$336 a year\" (9.35), \"$40 a month\" (9.33).",
+        "That Girl (6756178380): \"13 dollars a month\" (8.28), \"charged 64$\" for the year (8.24), a \"$50 plan\" (8.27), \"charged $40\" after a free trial (8.31).",
+        "Unglue (6755110504): \"29.99 a year\" (16.9), \"49 dollars\" (16.15).",
+        "Focus Friend (6742278016): \"paid the $30 for life\" (4.31), \"$40 for an app purchase seems steep to me\" (4.33).",
+        "EMMO (1508326506): \"4.99 MONTHLY or 40 annually\" (2.29), \"$30.00 to be one a member\" (2.36).",
+        "75Me (6749520351): \"$35\" (19.26), \"$40\" (19.27).",
+        "Baddie Protocol (6782149051): \"$47.99\" (27.5), \"Checklist for 5 bucks\" (27.3).",
+        "Monke (6755640836): \"$80\" (20.39).",
+        "Self-Care Pet: Momo (6747010310): \"$60 a year\" (18.32).",
+        "Tammy Fit (1333303155): \"a 60$ program\" plus \"an additional 45$\" (7.29).",
+        "DailyBean (1553223828): wish for a price around \"a dollar a month\" (1.29)."
+      ],
+      "caveats": [
+        "Evidence of willingness to pay is thinnest where it matters most: the satisfied payers sit in the older, creator-led fitness apps (Tammy Fit, Sculpt Society: mothers and women in their 40s) and in a few adults who test a paid plan; explicit ages in the hard-paywall complaints are 9, 10, 13 and 14, so the Gen Z and teen audience shows engagement plus refusal, not payment.",
+        "Ratings overstate satisfaction: incentivized or gated reviews (18.20 coins for 5 stars, 6.32 reviews forced for features, 15.8 and 15.32 review nags), 4-5 star reviews that are really paywall complaints (27 of the 166 complaints, e.g. 16.6), and fake-review suspicion (11.32, 19.25).",
+        "Counts are in-sample: each app contributes up to 28 four/five-star and up to 12 one-to-three-star reviews, so complaint counts saturate at 12 per app and say nothing about prevalence."
+      ]
+    },
+    "gaps": [
+      {
+        "gap": "Light, safe social co-presence inside the cute solo apps (friends, neighbors, shared rooms, co-focus) without ranking pressure",
+        "approx_review_count": 13,
+        "apps": [
+          1553223828,
+          6742278016,
+          6746784659,
+          1559730367,
+          1638926773,
+          6756554711
+        ],
+        "evidence": "Solo apps keep receiving the same request: \"ADD FRIENDS/Neighbors!!!\" (4.28), \"Can you update to have friends?\" (25.4), a friends \"memory book\" (1.2), unlimited co-op (12.1). The social apps do not fully deliver either: Charlie users ask for chat, emotes, gifting and a ranking board (15.3, 15.6, 15.16, 15.19), and Her 75's social layer is called \"generic & actually seem fake\" (10.30) with add-friend errors (10.4, 10.29).",
+        "example_quote": {
+          "app_id": 6742278016,
+          "rating": 5,
+          "quote": "I would love an update where you could have friends and focus together!"
+        }
+      },
+      {
+        "gap": "Long-horizon progression: something to work toward after the first rooms, houses and levels are complete",
+        "approx_review_count": 10,
+        "apps": [
+          6742278016,
+          1315396498,
+          1638926773,
+          6447218598,
+          6755039509,
+          6751820866,
+          6756554711
+        ],
+        "evidence": "The reward loop ends while users still want it: \"the rooms were filled, there’s nothing left to accomplish by staying focused anymore\" (4.31), \"after upgrading to town house, I have no purpose on walking because there’s no next step\" (15.28), \"I’ve completed it all! There’s no more rooms to do\" (22.3), and an Innie user who finishes all quizzes the moment more are added (23.15).",
+        "example_quote": {
+          "app_id": 1638926773,
+          "rating": 5,
+          "quote": "I walked only to upgrade the house but after upgrading to town house, I have no purpose on walking because there’s no next step"
+        }
+      },
+      {
+        "gap": "An honest affordability path: a useful free tier, an ad-supported option, a lifetime purchase, or a trial long enough to judge",
+        "approx_review_count": 17,
+        "apps": [
+          1553223828,
+          6746586837,
+          6742278016,
+          6756178380,
+          6757347283,
+          6746784659,
+          6755110504,
+          6755640836,
+          6773065691,
+          6751820866
+        ],
+        "evidence": "Requests come from minors, students and subscription-fatigued adults: \"not even an ad option\" (20.30), \"do more than 3 days free trial atleast 15 days\" (23.20), a lifetime plan (1.36), \"make then app free to use in the first days\" (20.37). Several apps do this partly (Cat On Chair, Eden, Focus Friend), but no review mentions a student or teen plan.",
+        "example_quote": {
+          "app_id": 6755640836,
+          "rating": 2,
+          "quote": "There is no option to not pay a subscription to use this app not even an ad option."
+        }
+      },
+      {
+        "gap": "Devices and integrations: wearables, Android, iPad and web",
+        "approx_review_count": 16,
+        "apps": [
+          1553223828,
+          1508326506,
+          1528322796,
+          1559730367,
+          1638926773,
+          6447218598,
+          6755640836
+        ],
+        "evidence": "Step and activity data from Garmin, Fitbit, Google Health and Apple Watch (15.15, 15.27, 15.31, 15.38, 1.23); Android, iPad or web versions (12.8, 12.27, 12.31, 20.28, 20.37); a watch widget (17.18) and complication (6.15).",
+        "example_quote": {
+          "app_id": 1638926773,
+          "rating": 5,
+          "quote": "Would be great if my garmin watch could connect to the app to update my step count"
+        }
+      },
+      {
+        "gap": "Forgiving, flexible goal logic: pausing, carry-over, adjustable targets, retiring a finished habit",
+        "approx_review_count": 13,
+        "apps": [
+          1540983473,
+          1528322796,
+          1333303155,
+          6746784659,
+          1559730367,
+          1638926773,
+          6749520351,
+          6756554711
+        ],
+        "evidence": "Users ask the app to bend to real life: \"Wish I could adjust the step goal though so it’s more achievable\" (15.11), pausing a challenge during a trip (10.34), carrying an unfinished task to the next day (25.22), archiving an established habit without losing history (25.1), custom break lengths per tag (6.9), sub-tags (6.16).",
+        "example_quote": {
+          "app_id": 1638926773,
+          "rating": 4,
+          "quote": "Wish I could adjust the step goal though so it’s more achievable."
+        }
+      },
+      {
+        "gap": "Safety guardrails around the emotional and body-image territory these apps now occupy, and for minors",
+        "approx_review_count": 15,
+        "apps": [
+          1508326506,
+          6746586837,
+          1315396498,
+          1638926773,
+          6755110504,
+          6447218598,
+          6747010310,
+          6751820866,
+          6756554711
+        ],
+        "evidence": "Users describe the apps as therapist substitutes (18.1, 23.12), report triggers or risky advice (a weight-loss redirect after sadness 2.40, fat-shaming notifications 15.39, 1500-calorie plans 17.16, a user with a bulimia history 17.15), and minors are in the funnel (16.11, 16.16, 16.17, 25.14) next to unsuitable ads (14.31, 14.32). No review mentions any safeguard or escalation path; in the (900-character-truncated) descriptions only Drink Water Aquarium carries a medical disclaimer, for water targets.",
+        "example_quote": {
+          "app_id": 6747010310,
+          "rating": 5,
+          "quote": "he's like my therapist; now I can cancel my appointments."
+        }
+      },
+      {
+        "gap": "Cycle- and life-stage-aware pacing in the gentle habit, focus and journal apps",
+        "approx_review_count": 12,
+        "apps": [
+          1553223828,
+          1333303155,
+          1481275761
+        ],
+        "evidence": "Life-stage design exists only in the two fitness apps (pregnancy and postpartum programs that users praise: 11.14, 11.26, 7.8), while DailyBean users repurpose a generic tracker for periods (1.17, 1.27). No cozy habit or focus app in the packet adapts pacing to cycle, postpartum or low-energy phases; the evidence for cycle-aware demand is thin (2 reviews).",
+        "example_quote": {
+          "app_id": 1553223828,
+          "rating": 4,
+          "quote": "Great for jotting down emotions, or as a period tracker, or just a journal"
+        }
+      },
+      {
+        "gap": "One gentle hub instead of stacking many single-purpose cute apps; Finch is the unspoken benchmark",
+        "approx_review_count": 12,
+        "apps": [
+          1553223828,
+          1540983473,
+          1559730367,
+          1589243137,
+          6447218598,
+          6747010310,
+          6756554711
+        ],
+        "evidence": "Users run several apps side by side (DailyBean plus Finch, 1.17; another habit app next to Eden, 13.14; the same developer's two apps, 5.7) and ask for rewards beyond the core metric (\"I wish we could log and get gems and leaves for other things besides diet\", 17.11). Finch is named in 6 reviews across 5 apps as the reference (\"a more mature version of finch\", 13.21; \"basically a copy of finch\", 25.24) but is not in the packet.",
+        "example_quote": {
+          "app_id": 6447218598,
+          "rating": 5,
+          "quote": "I wish we could log and get gems and leaves for other things besides diet"
+        }
+      }
+    ],
+    "method_notes": [
+      "Sample frame: 853 reviews over 27 apps (up to 28 four/five-star plus up to 12 one-to-three-star per app; texts cut at about 420 characters and prefixed with the review title). All counts are in-sample counts from hand-vetted review lists (keyword search only surfaced candidates); one review can support several mechanisms. They are not prevalence estimates, and low-rating counts saturate at 12 per app.",
+      "Ranking of mechanisms is by recurrence (apps first, then reviews); it is not a causal ranking. Hypothesis on roles: identity framing mostly drives adoption, gentleness, ownership and companionship drive retention, trust drives payment.",
+      "Six 75-day / 'become her' / quiz-paywall apps (Lock In, That Girl, 75Me, Monke, Slay 75, Baddie Protocol) plus CapyCare have short positive reviews with medians of 56-70 characters (all other apps: 100-420), many of them written before real use, so their 4.6-4.8 averages mostly reflect anticipation and gated reviews. Tenure evidence is also confounded by app age: the older apps (2017-2022) show multi-year use, the 2025-26 launches cannot yet.",
+      "Gender and age are inferred only from language and product framing (no demographics). Explicit ages are 9, 10, 13, 14 and 20 in the cheap, cute and hype apps and the 40s in the fitness apps, so the engaged audience of the cute/hype apps skews teen and young adult, while the paying evidence comes from adult women.",
+      "Acquisition channels mentioned in reviews: TikTok (75Me, Baddie Protocol), Instagram (That Girl, Sculpt Society), YouTube (Monke, FocusPomo), Pinterest (Eden), a video ad (Focado). Several of the paywalled, social-media-acquired apps are accused of AI-made promotion (Her 75, That Girl, 75Me, Baddie Protocol).",
+      "Every quote in this file was matched programmatically to the exact review text in the packet; non-English reviews were paraphrased rather than quoted."
+    ]
+  }
+}

@@ -1,0 +1,1847 @@
+{
+ "run": {
+  "region": "EAST ASIA (CN/JP/KR/TW/HK) + SOUTH-EAST ASIA + LATIN AMERICA + AFRICA + cross-cutting concept queries",
+  "searches_done": 32,
+  "stopped_by_captcha": false,
+  "notes": "FINAL. 32/32 searches, no CAPTCHA or unusual-traffic page. Pacing >=23s between search starts, enforced by a timestamp file. Worked in one tab (319064896), closed at the end. Tabs that could not be closed from this session's tab group: 319064885 (orphan from a previous run) and 319064893 (my first work tab; it was orphaned when I closed the empty tab 319064892 and the tab group dissolved - lesson: never close another tab before the very end). REDDIT PRESENCE BY REGION: strong = Brazil (r/brdev, r/MicroSaaSBR), Argentina (r/devsarg), Singapore (I Made This flair), global English maker subs (r/SideProject, r/iosapps, r/IMadeThis) where East Asian solo devs post in English, Muslim app makers (r/MuslimVentures, r/muslimdevs 920+ followers). LITTLE OR NONE = China, Japan, Korea (local makers publish on V2EX, sspai, note.com, Qiita, velog; local subreddits are expat/culture chatter), Taiwan (zero hits), Indonesia/Vietnam/Philippines (user chatter only, zero makers), Thailand/Malaysia (few, off-lens), Mexico/Colombia/Chile/Peru (general chatter or finance/dev tools), Africa (career/freelance talk; show-and-tell only for games/forums/finance/prepaid meters, none on-lens). WOMEN-ORIENTED evidence: AYDA (cycle tracker for Muslim women), 'wellness journal for women of color/muslimahs' (weunearthed.com), Japan femtech apps (CareMe, Lumino, Beauty Agent Local). MARKET SIGNALS from iTunes API: 15+ 'PDF to Audiobook' apps were released in the US store in 2026, almost all under 100 ratings (saturated, vibe-coded); the Chinese 'habit check-in (打卡)' genre is crowded with tiny indie apps (MarkTimes 3,267 ratings 4.92, 呱呱计数 2,413 ratings 4.91). Google snippets rarely reveal app names; the 'exact title + apps.apple.com' follow-up trick worked only when the post body contains the name near an App Store mention."
+ },
+ "queries": [
+  {
+   "q": "site:reddit.com/r/SideProject OR site:reddit.com/r/indiehackers OR site:reddit.com/r/iosapps (\"from China\" OR \"Chinese developer\" OR \"based in China\" OR \"from Taiwan\" OR \"from Hong Kong\") app \"I built\" (habit OR learning OR audio OR journal)",
+   "useful_results": 1,
+   "note": "Only Travel Echo (Hong Kong dev, 'AI-...' travel/audio, 2y old, not in US/HK store) is lens-relevant. China-based devs surfaced were calculator-vault and tally-counter apps (off-lens). No Taiwan hits."
+  },
+  {
+   "q": "site:reddit.com/r/SideProject OR site:reddit.com/r/indiehackers OR site:reddit.com/r/iosapps (\"from Japan\" OR \"Japanese developer\" OR \"based in Tokyo\") app \"I built\" (habit OR learning OR audio OR journal)",
+   "useful_results": 3,
+   "note": "QuickCast (K3/K2, store verified), an unnamed solo-Japan habit tracker (r/iosapps 30+ comments), plus off-lens Japan solo-dev threads (budget tracker, DYSTOPIA SNS, LogicPad, HS students' portal)."
+  },
+  {
+   "q": "site:reddit.com/r/SideProject OR site:reddit.com/r/indiehackers OR site:reddit.com/r/iosapps (\"from Korea\" OR \"Korean developer\" OR \"based in Seoul\") app \"I built\" (habit OR learning OR audio OR journal)",
+   "useful_results": 2,
+   "note": "Sleepscape (solo Korean dev, sleep aid/alarm/sleep-habit tracker, 50+ comments in r/iosapps) and Yongshinhalmom (AI fortune-telling web app). Rest travel/utility/dating."
+  },
+  {
+   "q": "site:reddit.com/r/China OR site:reddit.com/r/chinalife OR site:reddit.com/r/China_irl \"Chinese app\" (habit OR study OR audio OR \"self discipline\") popular",
+   "useful_results": 1,
+   "note": "Expat/culture/politics only. One lead: the viral 'Are You Dead?' check-in app (r/China). Doubao = ByteDance (big company, skipped)."
+  },
+  {
+   "q": "site:reddit.com/r/korea OR site:reddit.com/r/hanguk (갓생 OR 습관 OR 공부 OR 오디오북) 앱",
+   "useful_results": 1,
+   "note": "Korean-language query: old/learner threads. Single maker post: Bokgi (복기) diary+habit app in r/hanguk. Korean makers post on velog/OKKY, not Reddit."
+  },
+  {
+   "q": "site:reddit.com/r/japan OR site:reddit.com/r/japanlife \"Japanese app\" (habit OR study OR journal) popular",
+   "useful_results": 0,
+   "note": "Expats asking about Japanese-learning/tourist apps (Todaii Easy Japanese etc.); no local apps."
+  },
+  {
+   "q": "site:reddit.com/r/LearnJapanese OR site:reddit.com/r/LearnKorean OR site:reddit.com/r/ChineseLanguage app \"made by\" (solo OR indie) (flashcards OR audio OR habit)",
+   "useful_results": 0,
+   "note": "Only r/LearnJapanese appeared. The weekly 'Material Recs and Self-Promo Wednesdays' thread is where tiny makers post (e.g. 'app that blocks distracting apps behind flashcards'); not region-specific, makers unnamed in snippet."
+  },
+  {
+   "q": "site:v2ex.com 独立开发 (习惯 OR 学习 OR 听书 OR 日记) app 上线",
+   "useful_results": 6,
+   "note": "Very productive. Aurader (AI audiobook TTS), 随心听书 (offline audiobook), 拾芽 (bedtime-story/parent-child check-in), MarkNow (habit/life log), weekly 独立开发周记 series by a diary-app dev (app name not visible), Vibe-coded iOS app post."
+  },
+  {
+   "q": "site:sspai.com (习惯 OR 学习 OR 播客 OR 日记) 独立开发者 应用",
+   "useful_results": 6,
+   "note": "sspai indie-dev stories: 黑鸟日记 + 呱呱计数 (same dev, 3 apps in 6 months), OneMood, Me, ReHabit, 心光 (AI life-log, interview)."
+  },
+  {
+   "q": "site:zenn.dev OR site:qiita.com OR site:note.com 個人開発 アプリ (習慣 OR 勉強 OR 音声 OR 日記) リリース",
+   "useful_results": 4,
+   "note": "note.com dominates: Dayce (voice journal), kokorune (diary), TubeHabit (habit with YouTube videos), Erica's 5000-download 'overseas hit' (name not visible). Qiita: Engy (AI English speaking, off-lens). No Zenn hits."
+  },
+  {
+   "q": "site:okky.kr OR site:velog.io 앱 출시 개인 개발 (습관 OR 공부 OR 오디오 OR 루틴)",
+   "useful_results": 2,
+   "note": "velog.io 1인 개발자 posts: Routiny (habit app, plant grows) and hEARit (IT podcast app, bootcamp team). OKKY returned nothing."
+  },
+  {
+   "q": "site:reddit.com/r/indonesia aplikasi (buatan OR \"bikin sendiri\") (kebiasaan OR belajar OR audiobook OR jurnal)",
+   "useful_results": 0,
+   "note": "Only user chatter in Indonesian (journaling threads incl. 'Komodo yang suka Journaling ngumpul sini yuk' 50+ comments, analog pen-and-paper); no app makers."
+  },
+  {
+   "q": "site:reddit.com/r/SideProject (\"from Indonesia\" OR \"Indonesian developer\" OR \"from Vietnam\" OR \"from Thailand\" OR \"from Malaysia\" OR \"from the Philippines\") app \"I built\" (habit OR learning OR audio)",
+   "useful_results": 1,
+   "note": "Only lead: a 16-year-old Malaysian solo dev (Koglesh) with '3 apps to fight overthinking' (names not visible). Others off-lens (Ranflo SaaS, VoiceBee dictation). A sidebar snippet mentions 'I built an AI audio guide that tells you stories about places as you ...' (K3-type, maker/location unknown)."
+  },
+  {
+   "q": "site:reddit.com/r/Philippines OR site:reddit.com/r/phinvest app (\"I made\" OR gawa) (habit OR study OR audio)",
+   "useful_results": 0,
+   "note": "Finance/expat chatter only; one 3-year-old 'Made an app for students' thread (unnamed). No makers of lens-relevant apps."
+  },
+  {
+   "q": "site:reddit.com/r/VietNam OR site:reddit.com/r/Vietnam app (\"tự làm\" OR \"I built\") (thói quen OR học OR \"sách nói\")",
+   "useful_results": 0,
+   "note": "Vietnamese-language threads are culture/daily life (100+ comments) with no app makers; one English-learning pain-points research thread."
+  },
+  {
+   "q": "site:reddit.com/r/singapore OR site:reddit.com/r/malaysia OR site:reddit.com/r/Thailand app \"I built\" local (habit OR study OR audio)",
+   "useful_results": 0,
+   "note": "r/singapore 'I Made This' flair gets maker posts (bus-timing iOS app 150+ comments, open-source tools) and r/Thailand has a few (Thai accounting-notebook app, Thai-alphabet learning app) but none on-lens."
+  },
+  {
+   "q": "site:reddit.com/r/brdev (\"fiz um app\" OR \"criei um app\" OR \"lancei meu app\") (hábitos OR estudo OR áudio OR resumo)",
+   "useful_results": 0,
+   "note": "r/brdev is a strong local maker community (40-120+ comment launch threads) but the apps are dev tools (meeting-minutes recorder, Ollama client, menu-bar app, QCY headphone control). Sidebar leads: 'Criei um app para aprender idiomas com qualquer música' (r/Idiomas, 3y old, K2-type, unnamed) and r/AnimaisPortugal pet routine app."
+  },
+  {
+   "q": "site:reddit.com/r/brasil OR site:reddit.com/r/brasilivre aplicativo (\"feito por brasileiro\" OR criei) (hábitos OR estudos OR audiolivro)",
+   "useful_results": 0,
+   "note": "Old user threads (study apps, audiobook recs, Anki). Discovery: r/MicroSaaSBR (Brazilian micro-SaaS makers) via a cross-post snippet 'Eu criei um aplicativo útil para o estudante...'."
+  },
+  {
+   "q": "site:reddit.com/r/mexico \"hice una app\" OR \"creé una app\" (hábitos OR estudio OR audio OR \"desarrollo personal\")",
+   "useful_results": 0,
+   "note": "r/mexico is general; maker posts appear only as sidebar items (workout logger in r/Chilefit, Devvit Reddit-to-audio app, Android-Auto-like app, roommate finder). Nothing on-lens."
+  },
+  {
+   "q": "site:reddit.com/r/devsarg OR site:reddit.com/r/argentina OR site:reddit.com/r/Chile OR site:reddit.com/r/Colombia OR site:reddit.com/r/PERU \"hice una app\" (hábitos OR estudio OR audio)",
+   "useful_results": 0,
+   "note": "r/devsarg is a lively Spanish-language builder community (Scriba audio transcription, expense app with voice input 50+ comments, medical-entrants exam app) but nothing K1/K2/K3. r/Colombia: finance app only."
+  },
+  {
+   "q": "site:reddit.com/r/SideProject (\"from Brazil\" OR \"Brazilian developer\" OR \"from Mexico\" OR \"from Argentina\" OR \"from Colombia\") app \"I built\" (habit OR learning OR audio)",
+   "useful_results": 3,
+   "note": "Best LatAm query: publickz (Brazil, long video -> vertical clips), Pablo from Argentina (topic -> narrated 1080p explainer video, name not visible), Thiago from Brazil (10-month iOS app 'to help break ...', name not visible), Alex 23 from Brazil (thought-capture for ADHD, mapping unverified)."
+  },
+  {
+   "q": "site:reddit.com Latina OR Brazilian women \"habit app\" OR \"self care app\" OR \"journal app\" recommend",
+   "useful_results": 1,
+   "note": "No Latina/Brazilian-specific threads; Google drifted to US women's communities (r/adhdwomen: Finch self-care pet app praised; r/therapyGPT: Futura 1-min self-care app by a small team). Side lead: Catzy (self-care cat app by a Chongqing company) - store verified."
+  },
+  {
+   "q": "site:reddit.com/r/Nigeria OR site:reddit.com/r/southafrica OR site:reddit.com/r/Kenya OR site:reddit.com/r/ghana app \"I built\" local developer (habit OR learning OR audio)",
+   "useful_results": 0,
+   "note": "Career/freelance/startup talk; show-and-tell posts are gaming hub, forum, search engine, mental-health platform (sidebar). Only lead: r/ghana 'I Couldn't Attend University, So I'm Building an App to Help ...' (education, unnamed)."
+  },
+  {
+   "q": "site:reddit.com/r/SideProject (\"from Nigeria\" OR \"from Kenya\" OR \"from Ghana\" OR \"from South Africa\" OR \"from Egypt\") app \"I built\" (habit OR learning OR audio)",
+   "useful_results": 1,
+   "note": "Lead: 'I'm Ali Alchaddad. Built a habit app for my CV at 17' (location not shown, app unnamed). Others off-lens (micro-loan crypto, prepaid meter tracker, studio, XIndex, CallPDF voice apps). Africa has little on-lens Reddit presence."
+  },
+  {
+   "q": "site:reddit.com \"solo dev\" OR \"solo developer\" app turn (PDF OR notes OR lecture) into (audio OR podcast OR \"short videos\") (China OR Turkey OR Brazil OR Indonesia OR Nigeria)",
+   "useful_results": 2,
+   "note": "Country terms did not constrain results. On-lens K3 hits: 'Solo dev here: I spent 8 months building a PDF-to-audiobook app, and I even run my own GPU server for the voices' (r/SideProject, 2 weeks old, name not visible, country not shown) and 'Built a personalized AI audio app for the affirmation/...' (r/EntrepreneurRideAlong, 10+ comments, 7 months). A Reddit-to-audio Devvit app and a CompTIA read-along app also surfaced."
+  },
+  {
+   "q": "site:reddit.com (\"my girlfriend\" OR \"my wife\" OR \"my sister\") \"I built\" (habit OR journal OR routine) app for women",
+   "useful_results": 3,
+   "note": "Many 'built it for my girlfriend/wife' habit and journal apps (Gipfl shared grid, Momentum in r/webdev with 600+ comments, an offline journal built with a wife, pair habit trackers, a tracker that texts the girlfriend). Mostly Western makers; none explicitly for women. The 'built for my partner' story is a proven Reddit hook (600+ comments)."
+  },
+  {
+   "q": "site:reddit.com \"I built\" app walking audio (personalized OR \"AI\") (commute OR walk) lessons",
+   "useful_results": 3,
+   "note": "AI audio course on any topic for commuting (probable match Nemonic - AI Audio Courses by KnowMore Labs, store-verified), 'iOS app to teach something new everyday via 10 min ...' (E_XL, name not visible), AI audio-tour generators (r/LondonTravel sidebar), 5-minute personalised AI news podcast (r/IMadeThis). Users in r/studytips ask for 'listen to your notes'."
+  },
+  {
+   "q": "site:reddit.com Muslim women OR hijabi app (routine OR habit OR \"self care\" OR journal) built by founder",
+   "useful_results": 8,
+   "note": "Most productive women-oriented query: AYDA (cycle tracker for Muslim women), wellness journal for women of color/muslimahs (weunearthed.com), DeenDoor, Sukoon Life, AI-reflection journals, Salah diary, privacy-first companion with 5,000 installs in 2 weeks; communities r/MuslimVentures, r/muslimdevs, r/MuslimDevelopers, r/muslimgirlswithtaste. Retention thread: 'Islamic apps need to be free, no ads, respect privacy and be feature rich'."
+  },
+  {
+   "q": "FOLLOW-UP site:reddit.com (\"cycle tracker app to support Muslim women\" OR \"wellness journal app built for women of color\") (apps.apple.com OR testflight OR \"App Store\")",
+   "useful_results": 2,
+   "note": "Names resolved: AYDA (u/aydaforme; on the App Store) and Sarah's journal at weunearthed.com (beta, cross-posted to r/BetaTestersNeeded). r/muslimdevs shows '920+ followers'."
+  },
+  {
+   "q": "FOLLOW-UP site:reddit.com (\"I built a simple & beautiful habit tracker because I struggled\" OR \"I spent 10 months building an iOS app to help break\") (apps.apple.com OR \"App Store\")",
+   "useful_results": 1,
+   "note": "Names NOT revealed. Thiago's Brazilian app is to 'help break the scrolling ...' (doomscrolling habit, K1). The Japan habit tracker is downloadable in Australia (global store) and cross-posted with a '(Free)' suffix. Side signals: many indie habit trackers (Keep Up!, 'gentle habit app - no pressure' after 5 years, Stoic habit tracker with journaling)."
+  },
+  {
+   "q": "FOLLOW-UP site:reddit.com (\"I spent 8 months building a PDF-to-audiobook\" OR \"I built an AI App that generates a full audio course on any topic\" OR \"Built an iOS app to teach something new everyday\") (apps.apple.com OR \"App Store\")",
+   "useful_results": 1,
+   "note": "Google did not reveal names. Extra detail: the PDF-to-audiobook dev runs his own GPU server for voices and cross-posts to r/audiobooks, r/droidappshowcase, r/MemomindAI. iTunes API scan identified Nemonic as the probable 'AI audio course' app and showed 15+ similar PDF-to-audiobook apps launched in 2026."
+  },
+  {
+   "q": "FOLLOW-UP site:note.com 個人開発 アプリ 女性向け (習慣 OR 日記 OR セルフケア OR 生理 OR ルーティン)",
+   "useful_results": 5,
+   "note": "Japanese femtech and women self-care on note.com: CareMe (period/PMS sharing app, 15k JP ratings), Lumino (35+, pre-menopause), Beauty Agent Local (beauty log + ingredient check web app, solo), Art Ako's women's health record web service (early dev diary). Big players (Lunalun/MTI, Laruun/Medley) dominate; none of this is on Reddit."
+  }
+ ],
+ "subreddits": [
+  {
+   "name": "SideProject",
+   "region": "Global (English); many East Asian solo devs introduce themselves here",
+   "language": "en",
+   "role": "builders",
+   "why": "Best source of 'I'm a solo developer from <country>' maker posts (Japan, Korea, China, HK hits in q1-q3)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/SideProject/comments/1d74ate/a_journey_to_my_first_launched_product_travel/"
+  },
+  {
+   "name": "iosapps",
+   "region": "Global (English)",
+   "language": "en",
+   "role": "both",
+   "why": "Solo devs from Japan/Korea announce iOS apps (QuickCast, Sleepscape, a Japan habit tracker); threads reach 5-50+ comments",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/iosapps/comments/1mcfmvs/i_built_quickcast_an_app_that_turns_articles_pdfs/"
+  },
+  {
+   "name": "hanguk",
+   "region": "South Korea",
+   "language": "ko",
+   "role": "both",
+   "why": "Korean-language subreddit, small; contains the Bokgi diary/habit app maker post; mostly general chat",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/hanguk/comments/zaco1s/"
+  },
+  {
+   "name": "korea",
+   "region": "South Korea",
+   "language": "en/ko",
+   "role": "users",
+   "why": "Large English-language Korea community; audiobook/study app recommendation threads but no maker posts seen",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/korea/comments/1j8ryjd/"
+  },
+  {
+   "name": "China",
+   "region": "China",
+   "language": "en",
+   "role": "users",
+   "why": "News/politics; mentions viral Chinese apps (Are You Dead?, Doubao); not a maker community",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/China/comments/1qbzir9/"
+  },
+  {
+   "name": "chinalife",
+   "region": "China (expats)",
+   "language": "en",
+   "role": "users",
+   "why": "Expat Q&A about Chinese apps and 'Chinese alternatives to western apps'; no maker posts",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/chinalife/comments/1szivaj/"
+  },
+  {
+   "name": "China_irl",
+   "region": "China",
+   "language": "en/zh",
+   "role": "users",
+   "why": "Discusses what is popular on Chinese app charts (Doubao); weak for small-dev discovery",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/China_irl/comments/1mgpfpx/"
+  },
+  {
+   "name": "japanlife",
+   "region": "Japan (expats)",
+   "language": "en",
+   "role": "users",
+   "why": "Expats asking for Japanese-learning/transit apps; no local maker posts (r/japan same)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/japanlife/comments/1i5kaa3/"
+  },
+  {
+   "name": "LearnJapanese",
+   "region": "Global learners (Japan topic)",
+   "language": "en",
+   "role": "both",
+   "why": "Weekly 'Material Recs and Self-Promo Wednesdays' thread = recurring channel for tiny app makers (K2 flashcard/audio mechanics)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/LearnJapanese/comments/1ti4uep/"
+  },
+  {
+   "name": "indonesia",
+   "region": "Indonesia",
+   "language": "id",
+   "role": "users",
+   "why": "Active journaling threads (K1 interest signal, analog journals) but no app makers; local dev talk not found here",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/indonesia/comments/1x2xm6h/"
+  },
+  {
+   "name": "V2EX (v2ex.com) [non-Reddit]",
+   "region": "China",
+   "language": "zh",
+   "role": "builders",
+   "why": "Chinese developer forum: 独立开发 / 分享创造 launch posts with promo codes, weekly 独立开发周记 logs; source of Aurader, MarkNow, 随心听书, 拾芽",
+   "size_hint": null,
+   "evidence_url": "https://www.v2ex.com/t/1195298"
+  },
+  {
+   "name": "sspai 少数派 (sspai.com) [non-Reddit]",
+   "region": "China",
+   "language": "zh",
+   "role": "both",
+   "why": "Productivity/tech media + Matrix writing community; '独立开发者故事' series and maker self-posts (ReHabit, Me, OneMood, 黑鸟日记, 心光 interview)",
+   "size_hint": null,
+   "evidence_url": "https://sspai.com/post/101126"
+  },
+  {
+   "name": "note.com [non-Reddit]",
+   "region": "Japan",
+   "language": "ja",
+   "role": "builders",
+   "why": "Japanese creator platform; 個人開発 posts with launch diaries and download numbers (Dayce, kokorune, TubeHabit, Erica 5000 downloads)",
+   "size_hint": null,
+   "evidence_url": "https://note.com/app_dayce/n/n2e29e5259df0"
+  },
+  {
+   "name": "Qiita [non-Reddit]",
+   "region": "Japan",
+   "language": "ja",
+   "role": "builders",
+   "why": "Japanese developer blog platform; 個人開発 launch write-ups (Engy AI English conversation app)",
+   "size_hint": null,
+   "evidence_url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702"
+  },
+  {
+   "name": "velog.io [non-Reddit]",
+   "region": "South Korea",
+   "language": "ko",
+   "role": "builders",
+   "why": "Korean developer blog platform; 1인 개발자 launch retrospectives (Routiny habit app, hEARit IT podcast app, others)",
+   "size_hint": null,
+   "evidence_url": "https://velog.io/@routinyservice/1인-개발자의-Flutter-습관-앱-글로벌-출시기-Routiny-v2.3.0"
+  },
+  {
+   "name": "singapore",
+   "region": "Singapore",
+   "language": "en",
+   "role": "both",
+   "why": "Has an 'I Made This' flair; makers post local apps and get 60-150+ comments (bus-timing iOS app, open-source tool) - none on-lens in this scan but the best SEA channel for local maker threads",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/singapore/comments/1cjsmoa/"
+  },
+  {
+   "name": "Thailand",
+   "region": "Thailand",
+   "language": "en",
+   "role": "both",
+   "why": "Expat + local; occasional maker posts (Thai accounting-notebook app 70+ comments, Thai-alphabet learning app 109 comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Thailand/comments/1utjiw7/"
+  },
+  {
+   "name": "malaysia",
+   "region": "Malaysia",
+   "language": "en",
+   "role": "users",
+   "why": "General discussion; AI/education debates; no on-lens maker posts found",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/malaysia/comments/1ubd24x/"
+  },
+  {
+   "name": "Philippines",
+   "region": "Philippines",
+   "language": "en/tl",
+   "role": "users",
+   "why": "General discussion; only an old 'Made an app for students' thread; no lens-relevant makers",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "phinvest",
+   "region": "Philippines",
+   "language": "en/tl",
+   "role": "users",
+   "why": "Personal-finance community (habit/discipline talk) - not a maker channel",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "VietNam",
+   "region": "Vietnam",
+   "language": "vi",
+   "role": "users",
+   "why": "Active Vietnamese-language community (100+ comment threads) but no app makers surfaced",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/VietNam/comments/1hyq3t2/"
+  },
+  {
+   "name": "brdev",
+   "region": "Brazil",
+   "language": "pt",
+   "role": "builders",
+   "why": "Largest Portuguese-language developer subreddit; 'Criei um app...' launch threads get 40-120+ comments (mostly dev tools/open source) - right place to ask for lens-related maker posts",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/brdev/comments/1vpyx4g/"
+  },
+  {
+   "name": "MicroSaaSBR",
+   "region": "Brazil",
+   "language": "pt",
+   "role": "builders",
+   "why": "Brazilian micro-SaaS makers; seen via 'Eu criei um aplicativo útil para o estudante...' cross-post (K2-type student app)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/brasil/comments/b3z3q2/"
+  },
+  {
+   "name": "brasil",
+   "region": "Brazil",
+   "language": "pt",
+   "role": "users",
+   "why": "General community; study-app and audiobook recommendation threads (user voice), no current maker posts",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/brasil/comments/13rebnr/"
+  },
+  {
+   "name": "brasilivre",
+   "region": "Brazil",
+   "language": "pt",
+   "role": "users",
+   "why": "General community; nothing on-lens",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/brasilivre/comments/17kpg9p/"
+  },
+  {
+   "name": "Idiomas",
+   "region": "Brazil/Portugal (Portuguese speakers learning languages)",
+   "language": "pt",
+   "role": "both",
+   "why": "Language-learning community where a maker posted 'Criei um app para aprender idiomas com qualquer música' (K2-type)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/brdev/comments/1ndu7hu/"
+  },
+  {
+   "name": "mexico",
+   "region": "Mexico",
+   "language": "es",
+   "role": "users",
+   "why": "General; maker posts only appear as sidebar items; no on-lens apps found",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/mexico/comments/1tpv2gl/"
+  },
+  {
+   "name": "devsarg",
+   "region": "Argentina",
+   "language": "es",
+   "role": "builders",
+   "why": "Active Spanish-language builder community: many 'Hice una app...' posts (expense app with voice input 50+ comments, audio transcription, exam app for medical entrants)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/devsarg/comments/1qn1jul/"
+  },
+  {
+   "name": "Colombia",
+   "region": "Colombia",
+   "language": "es",
+   "role": "both",
+   "why": "Occasional maker posts (finance app '6 months building'); no on-lens apps",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Colombia/comments/1t33nhz/"
+  },
+  {
+   "name": "Chilefit",
+   "region": "Chile",
+   "language": "es",
+   "role": "both",
+   "why": "Makers post fitness trackers ('Hice una app minimalista para registrar entrenamientos'); adjacent to K1",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/mexico/comments/1tpv2gl/"
+  },
+  {
+   "name": "Nigeria",
+   "region": "Nigeria",
+   "language": "en",
+   "role": "both",
+   "why": "Show-and-tell posts (African gaming hub, Quibbles forum) and founder-mindset threads; no on-lens app found",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Nigeria/comments/1u305u2/"
+  },
+  {
+   "name": "ghana",
+   "region": "Ghana",
+   "language": "en",
+   "role": "both",
+   "why": "Developer career and startup threads; one education-app maker thread ('I Couldn't Attend University, So I'm Building an App to Help ...')",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/ghana/comments/1ihptfq/"
+  },
+  {
+   "name": "Kenya",
+   "region": "Kenya",
+   "language": "en",
+   "role": "users",
+   "why": "Freelancing/dev-cost discussions; no maker posts on-lens",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Kenya/comments/13wovbu/"
+  },
+  {
+   "name": "southafrica",
+   "region": "South Africa",
+   "language": "en",
+   "role": "both",
+   "why": "Occasional personal-project posts (Meepo search engine for Superbalist); none on-lens",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/southafrica/comments/zc5h62/"
+  },
+  {
+   "name": "adhdwomen",
+   "region": "Global (women, English) - K1 user voice",
+   "language": "en",
+   "role": "users",
+   "why": "Women discuss self-care apps (Finch praised as 'game changer'); useful for K1 mechanics and wording, not regional",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/adhdwomen/comments/1hv8rqr/"
+  },
+  {
+   "name": "MuslimVentures",
+   "region": "Global Muslim consumer-app makers (diaspora)",
+   "language": "en",
+   "role": "both",
+   "why": "Makers and users discuss Muslim apps (journals, Salah diary, DeenDoor, Sukoon Life); retention thread 'What makes a Muslim app worth keeping after the first week?'",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/MuslimVentures/comments/1wvuvhc/"
+  },
+  {
+   "name": "muslimdevs",
+   "region": "Global Muslim developers",
+   "language": "en",
+   "role": "builders",
+   "why": "Builders post beta calls, incl. a wellness journal app for women of color/muslimahs",
+   "size_hint": "920+ followers",
+   "evidence_url": "https://www.reddit.com/r/muslimdevs/comments/1sy8vcb/"
+  },
+  {
+   "name": "MuslimDevelopers",
+   "region": "Global Muslim developers",
+   "language": "en",
+   "role": "builders",
+   "why": "Launch posts such as 'Muslim To-Do iOS App' (daily spiritual routine built around the five prayers)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wxi7q3/"
+  },
+  {
+   "name": "muslimgirlswithtaste",
+   "region": "Global (Muslim women)",
+   "language": "en",
+   "role": "users",
+   "why": "Women-only taste community where AYDA (cycle tracker for Muslim women) was announced with 20+ comments - proof that women-first communities accept maker posts",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1oovh04/"
+  },
+  {
+   "name": "BetaTestersNeeded",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Makers recruit beta testers (e.g. wellness journal for women of color)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/BetaTestersNeeded/comments/1su570b/"
+  },
+  {
+   "name": "IMadeThis",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Cross-post venue for solo devs (Japan habit tracker cross-posted, privacy-first Muslim companion app with 5,000 installs, 5-min AI news podcast app)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/IMadeThis/comments/1tdev39/"
+  },
+  {
+   "name": "EntrepreneurRideAlong",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Solo makers share numbers; includes 'personalized AI audio app for the affirmation/...' thread",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1rkxo6f/"
+  },
+  {
+   "name": "ProductivityApps",
+   "region": "Global",
+   "language": "en",
+   "role": "both",
+   "why": "Habit-tracker makers (pair/friend habit tracker) and users",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/ProductivityApps/comments/1tl9v1w/"
+  },
+  {
+   "name": "webdev",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "'I made a habit tracking app for my girlfriend' got 600+ comments; shows the strength of the built-for-my-partner story",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/webdev/comments/1hte1qt/"
+  },
+  {
+   "name": "droidappshowcase",
+   "region": "Global (Android)",
+   "language": "en",
+   "role": "builders",
+   "why": "Android launch showcase; PDF-to-audiobook dev cross-posts here",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/droidappshowcase/comments/1wrl8om/"
+  },
+  {
+   "name": "FreeAppReviews",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "'Indie dev with 5M+ organic download here. Post your app' thread (250+ comments) = feedback exchange for small devs",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/FreeAppReviews/comments/1uzulo6/"
+  }
+ ],
+ "finds": [
+  {
+   "app": "QuickCast - AI英語リスニング",
+   "store_id": "6748022299",
+   "store_url": "https://apps.apple.com/jp/app/id6748022299",
+   "country": "Japan (ja UI; English learners)",
+   "developer": "Kazumasa Shimomura",
+   "dev_type": "solo (self-described indie developer)",
+   "lenses": [
+    "K3",
+    "K2"
+   ],
+   "what_it_is": "iOS app that turns English articles, YouTube videos, PDFs and study notes into AI listening audio matched to the learner's level, for commute/walk/chores; transcript and term hints for later review.",
+   "sets_apart": "User-supplied material (URL/PDF/notes) becomes a personalised audio episode; share-sheet ingestion from Safari/YouTube/news apps into a listening queue; explanation depth by level. Direct K2 x K3 hybrid.",
+   "traction": "JP App Store: 10 ratings (4.3); released 2025-07-08, updated 2026-06-03; Reddit thread 5 comments. Small.",
+   "monetization": "Free download; paid tier not verified",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built QuickCast - an app that turns articles & PDFs into ...",
+     "subreddit": "r/iosapps",
+     "age": "1 year ago",
+     "comments": "5 comments",
+     "url": "https://www.reddit.com/r/iosapps/comments/1mcfmvs/i_built_quickcast_an_app_that_turns_articles_pdfs/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "app": "Sleepscape: Sleep Aid, Alarm, Sleep Habit Tracker",
+   "store_id": null,
+   "store_url": null,
+   "country": "South Korea (maker); English-language iOS audience",
+   "developer": "unknown (self-described 'solo developer building apps from Korea')",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "iOS 26 sleep app: sleep aid + alarm + sleep-habit tracker (per thread title).",
+   "sets_apart": "Bundles sleep aid, alarm and habit tracking in one iOS 26-native app; details beyond the title not visible in the snippet.",
+   "traction": "r/iosapps thread 50+ comments, ~3 months old. Store listing not found via iTunes API under 'Sleepscape' (US/KR) - final store name may differ.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "[iOS 26] Sleepscape: Sleep Aid, Alarm, Sleep Habit Tracker",
+     "subreddit": "r/iosapps",
+     "age": "3 months ago",
+     "comments": "50+ comments",
+     "url": "https://www.reddit.com/r/iosapps/comments/1u988zx/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "(name not visible) simple & beautiful habit tracker by solo dev from Japan",
+   "store_id": null,
+   "store_url": null,
+   "country": "Japan",
+   "developer": "unknown (self-described solo developer from Japan)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit tracker announced in r/iosapps; the title says it was built because the maker struggled with habits.",
+   "sets_apart": "unknown - name and details not visible in Google snippet",
+   "traction": "r/iosapps thread 30+ comments, ~8 months old",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a simple & beautiful habit tracker because I struggled ...",
+     "subreddit": "r/iosapps",
+     "age": "8 months ago",
+     "comments": "30+ comments",
+     "url": "https://www.reddit.com/r/iosapps/comments/1qtw3ae/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "복기 - 복을 부르는 일기 (Bokgi)",
+   "store_id": "1605894697",
+   "store_url": "https://apps.apple.com/kr/app/id1605894697",
+   "country": "South Korea (ko)",
+   "developer": "Sung Hee Bae (Play package kr.co.jaystory.bokgi)",
+   "dev_type": "solo/very small (individual seller)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Easy diary app combining emotion, achievement and habit logging through taps ('the diary that brings luck').",
+   "sets_apart": "Tap-based diary (no long writing) that merges mood, achievements and habits in one record; positive 'luck' framing; seasonal updates (Christmas post).",
+   "traction": "KR App Store: 1,178 ratings (4.76); released 2022-04-03, updated 2024-04-24; r/hanguk post 1 comment.",
+   "monetization": "Free download; IAP not verified",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "탭으로 완성하는 감정,성취,습관 일기앱 복기에서 크리스마스 ...",
+     "subreddit": "r/hanguk",
+     "age": "3 years ago",
+     "comments": "1 comment",
+     "url": "https://www.reddit.com/r/hanguk/comments/zaco1s/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "app": "Travel Echo (title truncated: 'Travel Echo: AI-...')",
+   "store_id": null,
+   "store_url": null,
+   "country": "Hong Kong",
+   "developer": "unknown (maker says he/she is from Hong Kong)",
+   "dev_type": "solo (first launched product)",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Maker's 'journey to my first launched product' post; title begins 'Travel Echo: AI-' (probably an AI travel/audio guide - NOT confirmed).",
+   "sets_apart": "unverified",
+   "traction": "6 comments, ~2 years old; not found in US/HK App Store via iTunes API (possibly delisted).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "A journey to my first launched product - Travel Echo: AI- ...",
+     "subreddit": "r/SideProject",
+     "age": "2 years ago",
+     "comments": "6 comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1d74ate/a_journey_to_my_first_launched_product_travel/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Yongshinhalmom (AI Korean fortune-telling web app)",
+   "store_id": null,
+   "store_url": null,
+   "country": "South Korea",
+   "developer": "unknown (frontend developer from Korea)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Web app that turns Korean fortune telling (saju-style) into an AI experience; adjacent to identity/ritual content popular with young women (assumption).",
+   "sets_apart": "Traditional fortune-telling content wrapped in AI; web only, no store listing.",
+   "traction": "r/SideProject thread 1 comment, ~4 months old",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I turned Korean fortune telling into an AI web app and people ...",
+     "subreddit": "r/SideProject",
+     "age": "4 months ago",
+     "comments": "1 comment",
+     "url": "https://www.reddit.com/r/SideProject/comments/1trnpf6/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Aurader: Read Aloud Ebook TTS",
+   "store_id": "6758951184",
+   "store_url": "https://apps.apple.com/us/app/id6758951184",
+   "country": "China (zh maker), global store",
+   "developer": "Static Fire Technology Co., Ltd. (V2EX post written by the maker)",
+   "dev_type": "solo/small (unverified)",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Immersive AI audiobook/ebook reader: high-quality TTS read-aloud with soothing background music.",
+   "sets_apart": "Soothing background music layered under high-quality TTS ('immersive listening'); Pro tier; maker gave lifetime Pro codes to V2EX readers.",
+   "traction": "US store 168 ratings (4.79), CN store 395 ratings (4.75); released 2026-02-18; V2EX post Mar 2, 2026.",
+   "monetization": "Free + Pro membership; snippet mentions a $59.99 price (unverified)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "做了个沉浸式AI 听书工具Aurader，送大家一个永久Pro 会员 ...",
+     "subreddit": "V2EX (non-Reddit)",
+     "age": "Mar 2, 2026",
+     "comments": "n/a",
+     "url": "https://www.v2ex.com/t/1195298"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "随心听书 - 离线有声书播放器",
+   "store_id": "6755520834",
+   "store_url": "https://apps.apple.com/cn/app/id6755520834",
+   "country": "China (zh)",
+   "developer": "Shandong far Heng Supply Chain Management Co., Ltd (store seller; V2EX posts by individual maker)",
+   "dev_type": "solo (unverified)",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Offline-first audiobook/reading app (iOS+Android) for people with their own book library, cloud drive or audiobook files; v2.0.10 adds self-hosted music server support (AList / AudioBookshelf mentioned).",
+   "sets_apart": "Self-hosted/own-files audiobook player (NAS and cloud-drive sources) rather than a catalogue.",
+   "traction": "CN store: 24 ratings (4.17); released 2025-12-17; V2EX update post May 25, 2026.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "随心听书2.0.10 更新：支持自建音乐服务器， AList / Watch ...",
+     "subreddit": "V2EX (non-Reddit)",
+     "age": "May 25, 2026",
+     "comments": "n/a",
+     "url": "https://www.v2ex.com/t/1215276"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "拾芽 (Shiya) - 亲子打卡与成长存钱罐",
+   "store_id": "6771161520",
+   "store_url": "https://apps.apple.com/cn/app/id6771161520",
+   "country": "China (zh)",
+   "developer": "Jiang Yilong (江奕龙)",
+   "dev_type": "solo",
+   "lenses": [
+    "K3",
+    "K1"
+   ],
+   "what_it_is": "Parent app that turns a child's daily small moments into bedtime stories (per V2EX interview); store listing frames it as parent-child check-in + growth piggy bank.",
+   "sets_apart": "Personalised bedtime story generated from the child's own day; built because the dev had no time to tell his daughter bedtime stories.",
+   "traction": "CN store: 5 ratings (5.0); released 2026-06-05; <1 month live at the interview date (Jul 23, 2026).",
+   "monetization": "unknown",
+   "women_oriented": "unknown (parents; likely mothers - unverified)",
+   "evidence": [
+    {
+     "title": "因为没时间给女儿讲睡前故事，他做了一款App",
+     "subreddit": "V2EX (non-Reddit)",
+     "age": "Jul 23, 2026",
+     "comments": "n/a",
+     "url": "https://www.v2ex.com/t/1229183"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "MarkNow - 习惯打卡、日常记录、健康打卡、时间管理",
+   "store_id": "6739256038",
+   "store_url": "https://apps.apple.com/cn/app/id6739256038",
+   "country": "China (zh)",
+   "developer": "Cai Kunyu (坤雨 蔡)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Life-logging / habit check-in app with fully custom fields (text, number, toggle ...), built in Flutter by a solo dev in three months.",
+   "sets_apart": "Customisable record types instead of fixed habit ticks - one app for habits, health and daily logs; dev handed out promo codes on V2EX.",
+   "traction": "CN store: 422 ratings (4.8); released 2025-01-29; V2EX post Feb 13, 2025. Comparable CN habit-check-in (打卡) apps by tiny devs: MarkTimes 3,267 ratings (4.92), DayMark 394 (4.48).",
+   "monetization": "Free download; IAP not verified",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "「送码」使用Flutter 三个月独立开发一个生活记录应用MarkNow",
+     "subreddit": "V2EX (non-Reddit)",
+     "age": "Feb 13, 2025",
+     "comments": "n/a",
+     "url": "https://www.v2ex.com/t/1111081"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "app": "呱呱计数 - 习惯打卡软件",
+   "store_id": "6739162457",
+   "store_url": "https://apps.apple.com/cn/app/id6739162457",
+   "country": "China (zh)",
+   "developer": "Qiu Fan (帆 邱)",
+   "dev_type": "solo (3 apps in 6 months per sspai article)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit check-in counter app; the sspai article says it visualises everyday habits together with the 呱呱 mascot.",
+   "sets_apart": "Mascot-driven visualisation of effort ('seeing your effort visualised'); very high rating for its size.",
+   "traction": "CN store: 2,413 ratings (4.91); released 2025-01-02.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "独立开发者6个月时间开发的3款APP",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Jul 17, 2025",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/101126"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "黑鸟日记 - 时间胶囊, 心情日记 (Black Bird Diary / 黑鸟写信)",
+   "store_id": "6745124614",
+   "store_url": "https://apps.apple.com/cn/app/id6745124614",
+   "country": "China (zh)",
+   "developer": "Qiu Fan (帆 邱)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Diary app for writing letters to your future self (time capsule) with mood recording.",
+   "sets_apart": "'Letter to future self' / time-capsule mechanic as the journaling hook.",
+   "traction": "CN store: 263 ratings (4.9); released 2025-05-22.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "独立开发者6个月时间开发的3款APP",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Jul 17, 2025",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/101126"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "ReHabit",
+   "store_id": null,
+   "store_url": null,
+   "country": "China (zh)",
+   "developer": "unknown (sspai Matrix author)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Daily-habit app built by the author to practise 'The 7 Habits of Highly Effective People' for self-improvement.",
+   "sets_apart": "Built around a self-improvement book framework.",
+   "traction": "unknown; not found in CN/US App Store via iTunes API (renamed/removed?)",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "为了养成每日习惯、实现自我提升，我开发了ReHabit 这款应用",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Mar 18, 2024",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/85961"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "OneMood - 心情日记手帐, 情绪状态管理",
+   "store_id": "6462837446",
+   "store_url": "https://apps.apple.com/cn/app/id6462837446",
+   "country": "China (zh)",
+   "developer": "Lin Gunning (滚宁 林), same seller as the DayMark habit app",
+   "dev_type": "solo (self-taught)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Mood diary / journal with emotional-state tracking; same seller also ships the DayMark habit check-in app.",
+   "sets_apart": "Self-taught-dev story (sspai #37: two apps, a calculator and OneMood); details of mechanics not visible.",
+   "traction": "CN store: OneMood 67 ratings (4.57), released 2023-08-22; DayMark 394 ratings (4.48).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "独立开发者故事#37- 自学编程开发的两款App",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Feb 6, 2024",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/86358"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Me - 让健康更直观",
+   "store_id": "6468550888",
+   "store_url": "https://apps.apple.com/cn/app/id6468550888",
+   "country": "China (zh)",
+   "developer": "Liu (弨 刘)",
+   "dev_type": "solo (self-taught at 38)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "iOS app for health records, mood records and relationships with visual charts (per sspai snippet).",
+   "sets_apart": "Health/mood data made visual; built in three spare-time months by a self-taught 38-year-old, launched Oct 2023.",
+   "traction": "CN store: 513 ratings (4.74); released 2023-10-10.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "38 岁的我，如何自学编程上架了一款叫做Me 的App",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Mar 6, 2025",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/97076"
+    },
+    {
+     "title": "介绍一下我独立开发的健康App",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "May 6, 2024",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/88542"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "心光 - AI 生活记录伴侣 (Xinguang)",
+   "store_id": "1631169735",
+   "store_url": "https://apps.apple.com/cn/app/id1631169735",
+   "country": "China (zh)",
+   "developer": "Wang Yuxiao (王禹效) / LIGHT WITHIN LIFE PTE. LTD.",
+   "dev_type": "solo founder, small team (unverified)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "AI life-logging companion / AI note app: record daily life and moods with AI help.",
+   "sets_apart": "AI companion layer on top of life recording; founder story 'from indie developer to super-slash youth' (sspai podcast interview).",
+   "traction": "CN store: 12,705 ratings (4.83); released 2022-12-31.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "对话《心光》王禹效：从独立开发者到超级斜杠青年",
+     "subreddit": "sspai (non-Reddit)",
+     "age": "Nov 20, 2024",
+     "comments": "n/a",
+     "url": "https://sspai.com/post/94092"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Dayce (デイス) - ライフログ&音声ジャーナル",
+   "store_id": null,
+   "store_url": null,
+   "country": "Japan (ja)",
+   "developer": "unknown (note.com account app_dayce)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1",
+    "K3"
+   ],
+   "what_it_is": "Voice journal app: you just talk before bed and AI summarises the day into a diary.",
+   "sets_apart": "Voice-only journaling (speak instead of write) with AI summary.",
+   "traction": "note post 2 likes, ~7 months old; not found in JP App Store via iTunes API by name.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "AIが日記を要約してくれるアプリを個人開発した｜Dayce",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "7 months ago",
+     "comments": "2 likes",
+     "url": "https://note.com/app_dayce/n/n2e29e5259df0"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "kokorune",
+   "store_id": null,
+   "store_url": null,
+   "country": "Japan (ja)",
+   "developer": "roga (note.com)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Diary-creation app released over New Year; 30+ users on day one.",
+   "sets_apart": "unknown",
+   "traction": "note post 9 likes, ~9 months old; not found in JP App Store by name.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "個人開発アプリが初日で30人以上使ってくれた｜roga",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "9 months ago",
+     "comments": "9 likes",
+     "url": "https://note.com/roga/n/n1a2e44645daf"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "TubeHabit - 動画と一緒に習慣化・記録・ルーティン",
+   "store_id": "6752489660",
+   "store_url": "https://apps.apple.com/jp/app/id6752489660",
+   "country": "Japan (ja)",
+   "developer": "Yui Matsumoto (note: ゆんぺん)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1",
+    "K2"
+   ],
+   "what_it_is": "Habit app built around YouTube videos: paste a video URL to build a list of videos you want to turn into a habit, plus logging and routines.",
+   "sets_apart": "Habit formation anchored on the user's own YouTube links (user-supplied content as the habit).",
+   "traction": "JP store: 3 ratings (5.0); released 2025-10-14; note post 10+ likes.",
+   "monetization": "Free download",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "続かない習慣に悩んでいた私が作ったアプリの話【新リリース】",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "11 months ago",
+     "comments": "10+ likes",
+     "url": "https://note.com/yunpen/n/n815c01b905af"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Routiny (루티니) - 습관 루틴 관리 & 식물 키우기",
+   "store_id": "6758573546",
+   "store_url": "https://apps.apple.com/kr/app/id6758573546",
+   "country": "South Korea (ko), global launch",
+   "developer": "Changhwan Joo",
+   "dev_type": "solo (1인 개발자)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Flutter habit/routine app where completing daily routines grows your own plant.",
+   "sets_apart": "Plant-growing companion as the reward loop (cute companion mechanic); velog posts document the global launch and 'one week after launch - honest reality'.",
+   "traction": "KR store: 1 rating (5.0); released 2026-02-20; velog posts from Mar 2026.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "1인 개발자의 Flutter 습관 앱 글로벌 출시기 - Routiny v2.3.0",
+     "subreddit": "velog.io (non-Reddit)",
+     "age": "Mar 21, 2026",
+     "comments": "n/a",
+     "url": "https://velog.io/@routinyservice/1인-개발자의-Flutter-습관-앱-글로벌-출시기-Routiny-v2.3.0"
+    },
+    {
+     "title": "Flutter 습관 앱 글로벌 출시 후 일주일 - 솔직한 현실",
+     "subreddit": "velog.io (non-Reddit)",
+     "age": "n/a",
+     "comments": "n/a",
+     "url": "https://velog.io/@routinyservice/Flutter-습관-앱-글로벌-출시-후-일주일-솔직한-현실"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "히어릿 hEARit - 개발자를 위한 IT 팟캐스트",
+   "store_id": "6756041112",
+   "store_url": "https://apps.apple.com/kr/app/id6756041112",
+   "country": "South Korea (ko)",
+   "developer": "Yuyoung Rhee (Woowacourse bootcamp team project)",
+   "dev_type": "small team (bootcamp project)",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "IT/CS podcast app: listen to CS, IT-trend and framework topics as short podcasts and find podcasts easily.",
+   "sets_apart": "Curated audio micro-learning for developers.",
+   "traction": "KR store: 3 ratings (5.0); released 2025-12-10; velog post says first 100 users.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "기획부터 출시, 그리고 첫 100명의 사용자까지: 우테코 프로젝트 A to Z",
+     "subreddit": "velog.io (non-Reddit)",
+     "age": "Oct 12, 2025",
+     "comments": "n/a",
+     "url": "https://velog.io/@hearit/기획부터-출시-그리고-첫-100명의-사용자까지-우테코-프로젝트-A-to-Z"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Are You Dead? (死了么 / Demumu)",
+   "store_id": null,
+   "store_url": null,
+   "country": "China (zh) - became globally viral in news",
+   "developer": "unknown here (press reports a very small team - unverified)",
+   "dev_type": "small team (unverified)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Daily check-in app for young people living alone: if you do not check in, an emergency contact is alerted (snippet: 'viral Chinese app for young people living alone').",
+   "sets_apart": "Safety/accountability mechanic: daily 'I'm alive' check-in + emergency contact; extremely simple; spread through the provocative name. Borderline: global-viral, not local-only.",
+   "traction": "r/China thread 5 comments (~9 months ago) calls it China's hottest app; original not found by iTunes API in CN store (many clones in US store).",
+   "monetization": "unknown",
+   "women_oriented": "unknown (young people living alone)",
+   "evidence": [
+    {
+     "title": "China's Hottest App Is a Daily Test of Whether You're Still ...",
+     "subreddit": "r/China",
+     "age": "9 months ago",
+     "comments": "5 comments",
+     "url": "https://www.reddit.com/r/China/comments/1qbzir9/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(names not visible) three apps to fight overthinking - Koglesh, 16, Malaysia",
+   "store_id": null,
+   "store_url": null,
+   "country": "Malaysia",
+   "developer": "Koglesh (16-year-old developer)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Three small apps aimed at overthinking (mental-wellness / self-reflection) by a teenage solo dev; also mentions a geography app.",
+   "sets_apart": "unknown - snippet shows title only",
+   "traction": "r/SideProject thread, ~1 month old, comment count not shown",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I'm 16 from Malaysia and built 3 apps to fight overthinking ...",
+     "subreddit": "r/SideProject",
+     "age": "1 month ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1w2c2lj/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Catzy: Self-Care Journey",
+   "store_id": "6737681541",
+   "store_url": "https://apps.apple.com/us/app/catzy-self-care-journey/id6737681541",
+   "country": "China (Chongqing-based seller), English-language global audience",
+   "developer": "Chongqing niruo Technology Co. Ltd.",
+   "dev_type": "small company/team (unverified size)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Self-care app where you care for a cat with love and for yourself with intention (own description in a Reddit community header).",
+   "sets_apart": "Cute pet-companion framing of self-care (Finch-style) built by a small Chinese studio for an English audience; ~1,000 ratings at 4.88.",
+   "traction": "US store: 1,075 ratings (4.88); released 2024-11-11; has its own Reddit community (header text surfaced by Google).",
+   "monetization": "Free download; IAP not verified",
+   "women_oriented": "unknown (category is heavily used by women, e.g. Finch in r/adhdwomen)",
+   "evidence": [
+    {
+     "title": "Thirsty little buddy : r/Awww (snippet shows Catzy community description)",
+     "subreddit": "r/Awww",
+     "age": "2 weeks ago",
+     "comments": "40+ comments",
+     "url": "https://www.reddit.com/r/Awww/comments/1wqw4t7/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "publickz",
+   "store_id": null,
+   "store_url": null,
+   "country": "Brazil",
+   "developer": "unknown (self-described solo dev from Brazil)",
+   "dev_type": "solo",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Web app that turns long videos into vertical clips (title: 'turns long videos into vertical clips and ...').",
+   "sets_apart": "Repurposes the user's own long video into short vertical (reel-style) clips - adjacent to K2.",
+   "traction": "r/SideProject 3 comments, ~3 weeks old",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built publickz: it turns long videos into vertical clips and ...",
+     "subreddit": "r/SideProject",
+     "age": "3 weeks ago",
+     "comments": "3 comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1wiajpi/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) topic-to-narrated-video web app by Pablo, Argentina",
+   "store_id": null,
+   "store_url": null,
+   "country": "Argentina",
+   "developer": "Pablo (solo founder)",
+   "dev_type": "solo",
+   "lenses": [
+    "K2",
+    "K3"
+   ],
+   "what_it_is": "Web app: type a topic (example 'The Fermi Paradox') and get a 1080p video with narration; the same maker also built a tool that turns YouTube tutorials into something you do not need to pause (title cut off).",
+   "sets_apart": "Topic or existing video -> narrated explainer/study video (reel-like learning output).",
+   "traction": "r/SideProject 2 comments, ~6 months old",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "type \"The Fermi Paradox\", get a 1080p video with narration ...",
+     "subreddit": "r/SideProject",
+     "age": "6 months ago",
+     "comments": "2 comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1s6bnoq/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) iOS app 'to help break ...' by Thiago, solo dev from Brazil",
+   "store_id": null,
+   "store_url": null,
+   "country": "Brazil",
+   "developer": "Thiago (solo dev)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "iOS app built over 10 months 'to help break the scrolling ...' (doomscrolling/phone-use habit); post includes the App Store link but the name is not in the snippet.",
+   "sets_apart": "Habit-breaking (anti-scrolling) angle; details not visible.",
+   "traction": "r/SideProject 2 comments (1 year ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I spent 10 months building an iOS app to help break ...",
+     "subreddit": "r/SideProject",
+     "age": "1 year ago",
+     "comments": "2 comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1lr2vsl/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) habit app by Ali Alchaddad, 17",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown (not shown)",
+   "developer": "Ali Alchaddad",
+   "dev_type": "solo (17-year-old founder)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit app built 'for my CV at 17' per thread title; details not visible.",
+   "sets_apart": "unknown",
+   "traction": "unknown; thread title only",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I'm Ali Alchaddad. Built a habit app for my CV at 17, and ...",
+     "subreddit": "r/SideProject",
+     "age": "n/a",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1ulfwef/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Ayda - Period Tracker (AYDA)",
+   "store_id": "6745415462",
+   "store_url": "https://apps.apple.com/us/app/id6745415462",
+   "country": "Global (Muslim women); maker location not shown",
+   "developer": "Ayda Health Inc. (Reddit user u/aydaforme)",
+   "dev_type": "small team/startup (unverified)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Cycle/period tracker built to support Muslim women; thread title continues 'here are 10 ...'; framed as faith plus self-care ('caring for your body is an amana').",
+   "sets_apart": "Cycle tracking positioned around Muslim women's faith context and announced in a women-first taste community rather than a dev subreddit.",
+   "traction": "US store: 277 ratings (4.84); released 2025-05-09; r/muslimgirlswithtaste thread 20+ comments (~11 months old).",
+   "monetization": "Free download; IAP not verified",
+   "women_oriented": "true - title 'to support Muslim women', posted in r/muslimgirlswithtaste",
+   "evidence": [
+    {
+     "title": "I built a cycle tracker app to support Muslim women",
+     "subreddit": "r/muslimgirlswithtaste",
+     "age": "11 months ago",
+     "comments": "20+ comments",
+     "url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1oovh04/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "wellness journal app for women of color / muslimahs (weunearthed.com)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown (not shown)",
+   "developer": "Sarah (self-described founder, developer, writer, marketer)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Wellness journal app built for women of color and muslimahs, in beta; testers sign up at weunearthed.com.",
+   "sets_apart": "Identity-specific journaling built by a woman founder; recruits testers across r/muslimdevs and r/BetaTestersNeeded.",
+   "traction": "r/muslimdevs 1 comment (5 months ago); r/BetaTestersNeeded 5 comments; beta stage.",
+   "monetization": "unknown",
+   "women_oriented": "true - 'built for women of color, by a woman'",
+   "evidence": [
+    {
+     "title": "wellness journal app built for women of color/muslimahs",
+     "subreddit": "r/muslimdevs",
+     "age": "5 months ago",
+     "comments": "1 comment",
+     "url": "https://www.reddit.com/r/muslimdevs/comments/1sy8vcb/"
+    },
+    {
+     "title": "wellness journal app built for women of color, by a woman ...",
+     "subreddit": "r/BetaTestersNeeded",
+     "age": "5 months ago",
+     "comments": "5 comments",
+     "url": "https://www.reddit.com/r/BetaTestersNeeded/comments/1su570b/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "DeenDoor",
+   "store_id": "6798593982",
+   "store_url": "https://apps.apple.com/us/app/deendoor/id6798593982",
+   "country": "unknown (Muslim audience)",
+   "developer": "Daler Khodzhimatov",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Daily companion for practicing Muslims; just published on the App Store.",
+   "sets_apart": "Daily practice routine app; details beyond the snippet not visible.",
+   "traction": "US store: 0 ratings, released 2026-09-12; r/MuslimVentures 5 comments (3 weeks ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built an app for daily Islamic practice would love your ...",
+     "subreddit": "r/MuslimVentures",
+     "age": "3 weeks ago",
+     "comments": "5 comments",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1wk14yh/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Sukoon Life",
+   "store_id": "6759110473",
+   "store_url": "https://apps.apple.com/us/app/sukoon-life/id6759110473",
+   "country": "unknown (Muslim audience)",
+   "developer": "SUKOON LIFE LTD",
+   "dev_type": "small team (unverified)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Islamic lifestyle app with an immersive short-form video feed ('wholesome Muslim Netflix' with stories on the prophets).",
+   "sets_apart": "Reel-style short-form video feed inside a faith app (K2 format applied to religious learning).",
+   "traction": "US store: 31 ratings (4.71); released 2026-04-07.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "DIFFERENT take on Islamic apps - Sukoon Life",
+     "subreddit": "r/MuslimVentures",
+     "age": "n/a",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1urx2id/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "(name not visible) journaling app for Muslims built in 6 weeks (AI reflection, max 4 exchanges)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (maker post)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Journaling app for Muslims with a structured AI conversation (max 4 exchanges) and a journal to revisit past reflections.",
+   "sets_apart": "AI-guided reflection with a hard cap on exchanges; faith-specific journaling.",
+   "traction": "r/MuslimVentures 2 comments (4 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Update: I built a journaling app for Muslims in 6 weeks - ...",
+     "subreddit": "r/MuslimVentures",
+     "age": "4 months ago",
+     "comments": "2 comments",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1tuogtx/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) privacy-first Muslim companion app for iOS (5,000 organic installs in 2 weeks)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (r/IMadeThis maker)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Privacy-first Muslim companion iOS app built over 6 months of nights and weekends.",
+   "sets_apart": "Privacy-first positioning; organic installs only.",
+   "traction": "Claims 5,000 organic installs in the first 2 weeks; r/IMadeThis 4 comments (5 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I made a privacy-first muslim companion app for iOS. 6 ...",
+     "subreddit": "r/IMadeThis",
+     "age": "5 months ago",
+     "comments": "4 comments",
+     "url": "https://www.reddit.com/r/IMadeThis/comments/1tdev39/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Nemonic - AI Audio Courses",
+   "store_id": "6757449293",
+   "store_url": "https://apps.apple.com/us/app/id6757449293",
+   "country": "unknown (likely US; seller KnowMore Labs, LLC)",
+   "developer": "KnowMore Labs, LLC",
+   "dev_type": "small team (unverified)",
+   "lenses": [
+    "K3",
+    "K2"
+   ],
+   "what_it_is": "Tell it a goal, topic or drop a PDF and it generates 5-60 minute hands-free audio lessons, then brings ideas back with spaced-repetition practice (3,900+ audio lessons per store text).",
+   "sets_apart": "Audio courses on any goal plus own-PDF ingestion plus spaced repetition - a direct K2 x K3 hybrid. Match to the Reddit post is PROBABLE (release date and description fit) but not confirmed.",
+   "traction": "US store: 15 ratings (5.0); released 2026-03-28; updated 2026-10-06; Reddit thread 6 comments (6 months old).",
+   "monetization": "Free download; paid tier not verified",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built an AI App that generates a full audio course on any topic in seconds, so I could actually learn things while commuting",
+     "subreddit": "r/SideProject",
+     "age": "6 months ago",
+     "comments": "6 comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1skfjca/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) PDF-to-audiobook app with own GPU voice server - solo dev",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown (not shown)",
+   "developer": "unknown (Reddit user Puzzleheaded-Boot525)",
+   "dev_type": "solo",
+   "lenses": [
+    "K3",
+    "K2"
+   ],
+   "what_it_is": "App that turns PDFs into audiobooks; the dev spent 8 months building it and runs his own GPU server for the voices.",
+   "sets_apart": "Self-hosted voice generation (cost control) for PDF-to-audio; cross-posted to r/audiobooks, r/droidappshowcase and r/MemomindAI. Category is saturated (15+ similar apps released in the US store in 2026).",
+   "traction": "r/SideProject thread ~2 weeks old, comment count not shown.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Solo dev here: I spent 8 months building a PDF-to-audiobook ...",
+     "subreddit": "r/SideProject",
+     "age": "2 weeks ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1wqr05u/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) iOS app that generates a personalized 5-minute AI news podcast every morning",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (r/IMadeThis maker)",
+   "dev_type": "solo",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "iOS app that generates a personalised 5-minute news podcast each morning using AI.",
+   "sets_apart": "Daily personalised short audio habit (morning ritual).",
+   "traction": "r/IMadeThis 1 comment (5 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I made an iOS app that generates a personalized 5-min ...",
+     "subreddit": "r/IMadeThis",
+     "age": "5 months ago",
+     "comments": "1 comment",
+     "url": "https://www.reddit.com/r/IMadeThis/comments/1syxukg/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) iOS app teaching something new every day via 10-minute lessons (E_XL)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "Reddit user E_XL",
+   "dev_type": "solo",
+   "lenses": [
+    "K3",
+    "K2"
+   ],
+   "what_it_is": "iOS app that teaches something new every day through ~10-minute lessons (title cut: 'via 10 min ...').",
+   "sets_apart": "Daily micro-lesson ritual; details not visible.",
+   "traction": "r/SideProject video post dated Mar 29, 2026.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Built an iOS app to teach something new everyday via 10 min ...",
+     "subreddit": "r/SideProject",
+     "age": "Mar 29, 2026",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1s6p1wz/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) personalized AI audio app for affirmations",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (r/EntrepreneurRideAlong maker)",
+   "dev_type": "solo",
+   "lenses": [
+    "K3",
+    "K1"
+   ],
+   "what_it_is": "Personalised AI-generated audio app for the affirmation/(meditation) niche; title cut 'for the affirmation/ ...'.",
+   "sets_apart": "Personalised AI audio for self-improvement content (affirmations).",
+   "traction": "r/EntrepreneurRideAlong 10+ comments (7 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Built a personalized AI audio app for the affirmation/ ...",
+     "subreddit": "r/EntrepreneurRideAlong",
+     "age": "7 months ago",
+     "comments": "10+ comments",
+     "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1rkxo6f/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Gipfl",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (maker built it for his wife and close friends)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit tracker for use with a partner or a few close friends: one shared grid with a row per person.",
+   "sets_apart": "Private shared habit grid for partner/close friends only (accountability with friends, no public feed).",
+   "traction": "r/SideProject 10+ comments (4 months ago); not found in the US App Store by name.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a habit tracker specifically for use with your partner or ...",
+     "subreddit": "r/SideProject",
+     "age": "4 months ago",
+     "comments": "10+ comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1tr24q2/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Momentum (app.momentumtrack.com)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (r/webdev poster)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Web habit-tracking app the maker built for his girlfriend.",
+   "sets_apart": "Built-for-my-girlfriend story drove 600+ comments in r/webdev and a 90+ comment update thread.",
+   "traction": "r/webdev 600+ comments (1 year ago) plus update thread 90+ comments.",
+   "monetization": "unknown",
+   "women_oriented": "unknown (built for a girlfriend)",
+   "evidence": [
+    {
+     "title": "I made a habit tracking app for my girlfriend",
+     "subreddit": "r/webdev",
+     "age": "1 year ago",
+     "comments": "600+ comments",
+     "url": "https://www.reddit.com/r/webdev/comments/1hte1qt/"
+    },
+    {
+     "title": "I made a habit tracking app for my girlfriend (Update)",
+     "subreddit": "r/webdev",
+     "age": "1 year ago",
+     "comments": "90+ comments",
+     "url": "https://www.reddit.com/r/webdev/comments/1iknud3/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) habit tracker for two people (pair up with a friend)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (maker and his girlfriend)",
+   "dev_type": "solo/duo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit tracker where two people pair up and can see each other's progress.",
+   "sets_apart": "Two-person accountability (pair mode).",
+   "traction": "r/SideProject 10+ comments (4 months ago); same post in r/ProductivityApps (3 comments).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a habit tracker for two people. You pair up with ...",
+     "subreddit": "r/SideProject",
+     "age": "4 months ago",
+     "comments": "10+ comments",
+     "url": "https://www.reddit.com/r/SideProject/comments/1tl9btk/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) gentle habit app - no pressure (5 years in the making)",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown",
+   "developer": "unknown (r/iosapps maker)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Gentle habit app built over 5 years with a no-pressure philosophy; available on the App Store.",
+   "sets_apart": "No-pressure/gentle positioning - literal match to K1 wording.",
+   "traction": "r/iosapps 10+ comments (1 year ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Spending 5 years building a gentle habit app - no pressure ...",
+     "subreddit": "r/iosapps",
+     "age": "1 year ago",
+     "comments": "10+ comments",
+     "url": "https://www.reddit.com/r/iosapps/comments/1ni41g3/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Beauty Agent Local",
+   "store_id": null,
+   "store_url": null,
+   "country": "Japan (ja)",
+   "developer": "ゼオン (note.com author)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Web app that supports self-care for women: beauty records and ingredient checks in one place.",
+   "sets_apart": "Beauty log plus ingredient check for a women's self-care routine; web app released by an individual.",
+   "traction": "note post 4 likes, ~7 months old.",
+   "monetization": "unknown",
+   "women_oriented": "true - 'a web app supporting self-care for women' (女性向けセルフケア)",
+   "evidence": [
+    {
+     "title": "美容の記録・成分チェックが1つでできるWebアプリを作成",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "7 months ago",
+     "comments": "4 likes",
+     "url": "https://note.com/joyous_hyena3882/n/nd66866f751d2"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not visible) women's health record web service by Art Ako",
+   "store_id": null,
+   "store_url": null,
+   "country": "Japan (ja)",
+   "developer": "アートあこ (note.com author)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Web service for keeping a long-term record of women's health: basal body temperature, periods and condition logs; the post is development diary #01.",
+   "sets_apart": "Long-term personal health record; built in public as a solo project (diary series).",
+   "traction": "note post 9 likes, ~2 weeks old; early stage.",
+   "monetization": "unknown",
+   "women_oriented": "true - 'a web service to keep women's health records'",
+   "evidence": [
+    {
+     "title": "【個人開発#01】 30分しかない！でも、今日からサービスの ...",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "2 weeks ago",
+     "comments": "9 likes",
+     "url": "https://note.com/artaco/n/n31c4407fbf40"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "ケアミー (CareMe) - 生理・PMSの共有アプリ",
+   "store_id": "1505033077",
+   "store_url": "https://apps.apple.com/jp/app/id1505033077",
+   "country": "Japan (ja)",
+   "developer": "Health & Rights Inc.",
+   "dev_type": "small startup (unverified size)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Period and PMS tracking app whose twist is sharing your condition with a partner or family; targets women troubled by PMS.",
+   "sets_apart": "Sharing mechanic (partner/family see period and PMS status) instead of a purely private tracker.",
+   "traction": "JP store: 15,137 ratings (4.61); released 2020-05-14; startup profile on note.com (10+ likes).",
+   "monetization": "Free download; IAP not verified",
+   "women_oriented": "true - PMS/period app for women",
+   "evidence": [
+    {
+     "title": "PMS特化のベストアプリを目指すスタートアップ",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "1 year ago",
+     "comments": "10+ likes",
+     "url": "https://note.com/femtechjapan/n/nd8829f2244a2"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "ルミノ (Lumino) - プレ更年期からの生理・体調管理アプリ",
+   "store_id": "6753783350",
+   "store_url": "https://apps.apple.com/jp/app/id6753783350",
+   "country": "Japan (ja; LINE-based)",
+   "developer": "menopeer Inc.",
+   "dev_type": "small startup (unverified size)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Period and health management app for women from pre-menopause (35+), delivered through LINE.",
+   "sets_apart": "Targets the 35+ segment and the pre-menopause phase, built inside LINE; NOT Gen Z.",
+   "traction": "JP store: 200 ratings (4.04); released 2025-11-04; note post 7 likes (1 year ago).",
+   "monetization": "unknown",
+   "women_oriented": "true - 'for women 35 and older'",
+   "evidence": [
+    {
+     "title": "月経管理のその先へ。プレ更年期からの新しいヘルスケアアプリ",
+     "subreddit": "note.com (non-Reddit)",
+     "age": "1 year ago",
+     "comments": "7 likes",
+     "url": "https://note.com/femtechjapan/n/n2aad9dfaeb03"
+    }
+   ],
+   "confidence": "low"
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "r:beautyagentlocal": {
+  "exclude": false,
+  "name_en": "Beauty Agent Local",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: women's self-care web app that combines a beauty/skincare record (routine log) with ingredient checks in one place. No learning or audio element. Evidence is a single note.com post (4 likes, ~7 months old), so very thin.",
+  "women_oriented": "yes",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Skincare routines are a strong Gen Z interest (inference) and ingredient names follow an international standard (INCI - inference), but ingredient scanners and skincare trackers already exist in the US (inference), the ingredient database is the content bottleneck, and cosmetic-claim wording needs care.",
+  "idea_seed": "A skin diary for US Gen Z women that logs the AM/PM routine as a daily ritual, tracks skin photos over time and warns when products on your shelf clash (for example retinol with exfoliating acids).",
+  "build_effort": "medium",
+  "build_components": "Routine log and product shelf (search or barcode scan), ingredient database and interaction rules (licensed or curated - the main bottleneck), skin-photo timeline, reminders, subscription; optional LLM for plain-language ingredient explanations.",
+  "confidence": "low"
+ },
+ "r:ケアミーcareme生理・pmsの共有アプリ": {
+  "exclude": false,
+  "name_en": "CareMe: Period & PMS Sharing App",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: cycle-aware wellness for women with a social-support twist - a partner or family member can see your period and PMS status, so the tracker doubles as a way to ask for care. No learning or audio element. Strong local traction (15,137 JP ratings, 4.61, since May 2020).",
+  "women_oriented": "yes",
+  "dev_type": "small team",
+  "export_potential": 3,
+  "export_reason": "The sharing mechanic is language-agnostic and proven at scale in JP, but in the US cycle data is highly sensitive (privacy expectations after the 2022 abortion-law changes and state health-data laws - inference) and big trackers already offer partner sharing (inference). Sharing with best friends rather than a partner or family may fit Gen Z better (inference), which changes the product.",
+  "idea_seed": "A 'cycle besties' mode for US Gen Z women: opt-in, revocable sharing of your cycle phase and PMS mood with a partner or chosen friends, who get short, kind nudges on how to support you.",
+  "build_effort": "medium",
+  "build_components": "Cycle logging and prediction, sharing graph with granular consent and instant revoke, push notifications with supportive copy templates, privacy by design (encryption, delete-my-data), subscription; health-data legal review (inference: FTC Health Breach Notification Rule, state laws).",
+  "confidence": "medium"
+ },
+ "r:ルミノluminoプレ更年期からの生理・体調管理アプリ": {
+  "exclude": false,
+  "name_en": "Lumino: Period & Health Management from Pre-Menopause",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: period and health management for women 35+ entering pre-menopause, also delivered through LINE chat - NOT Gen Z. Only the life-stage framing and the chat-based delivery are of interest. Small traction (200 JP ratings, 4.04; released Nov 2025).",
+  "women_oriented": "yes",
+  "dev_type": "small team",
+  "export_potential": 2,
+  "export_reason": "Wrong age segment for our target and LINE is not a US channel; the US analogue would be SMS/WhatsApp-style check-ins, which have weak adoption for health apps (inference). Perimenopause tracking is a US niche for older women (inference), so only the life-stage-aware idea travels.",
+  "idea_seed": "A life-stage-aware cycle companion for US Gen Z women (first cycles, coming off the pill, irregular or PCOS cycles) that lives in a simple text thread instead of a feature-heavy tracker app.",
+  "build_effort": "low",
+  "build_components": "Messaging channel (SMS/WhatsApp provider; no native app needed for an MVP), cycle and symptom logic, LLM or rules for parsing replies, simple web dashboard, consent and health-data handling.",
+  "confidence": "low"
+ },
+ "r:habittrackertodolist": {
+  "exclude": false,
+  "name_en": "Habit Tracker - To-Do List",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: generic all-in-one free app (tasks, notes, habits, workouts) with no women, gentle or companion angle. The interesting part is go-to-market: maker-stated growth 650 -> 1,600 -> 2,600 users through repeated milestone threads on r/developersIndia.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "The product is commodity and probably Android-only (not found in the US/IN App Store search per packet), so there is no mechanic to export. The transferable lesson is the Reddit build-in-public cadence, which is language-agnostic.",
+  "idea_seed": "Borrow the launch playbook, not the product: public milestone posts (users, feedback asks) in niche communities where Gen Z women hang out, for a habit app that has a distinct twist.",
+  "build_effort": "low",
+  "build_components": "Habit/task/notes/workout CRUD, local-first storage with optional sync, notifications, widgets, Firebase analytics. Commodity features.",
+  "confidence": "medium"
+ },
+ "r:folksablephotoaccountability": {
+  "exclude": false,
+  "name_en": "Folksable: Photo Accountability",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: accountability with friends - 'social contracts' with friends, shared streaks and photo proof instead of solo tracking. How strict the contracts are is not described, so 'gentle' is unverified (inference). Small but alive: 17 US ratings (4.65), updated Aug 2026.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Friend contract plus photo proof is language-agnostic and already on the US store, and closed friend groups keep moderation light. The main risk is cold start (it only works when friends join, so invite loops decide success); 17 ratings means demand is unproven.",
+  "idea_seed": "Tiny accountability circles for US Gen Z women: 2-5 friends agree on a light weekly commitment, drop one photo proof a day (gym, study desk, skincare) and cheer each other with stickers, with no public feed.",
+  "build_effort": "medium",
+  "build_components": "Friend graph and invite deep links, commitment/contract model, camera capture with image storage/CDN, streak logic, push reminders and reactions, report/block. The viral invite loop is the hard part, not the tech.",
+  "confidence": "low"
+ },
+ "r:fratecatexttospeechreader": {
+  "exclude": false,
+  "name_en": "Frateca: Text to Speech Reader",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 2
+  },
+  "lens_note": "K3 relevant: turns your own PDFs, articles, eBooks and web pages into natural AI-voice audio (up to 3.5x speed) for 'reclaiming hours of your day'; it is a utility reader with no topic/goal personalisation or habit awareness. K2 loose: own material in, audio out, but no quiz or card layer.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Already in the US store (32 ratings, 3.84) and language-agnostic, but TTS readers are commoditised (inference) and a mediocre rating on a small base shows no sign of pull. The value for us is the layer on top (summaries, personalisation, warmer voices), not the reader itself.",
+  "idea_seed": "A 'read it to me' pocket companion for US Gen Z women: drop in a class PDF, newsletter or article and get a short warm-voiced audio summary for your walk, with an optional quiz-cards follow-up.",
+  "build_effort": "low",
+  "build_components": "Document/URL ingestion and text extraction, cloud neural TTS, summarisation LLM, audio player (background, offline, speed control), subscription; per-minute TTS cost is the main variable cost.",
+  "confidence": "low"
+ },
+ "r:yptstudygroupyeolpumta": {
+  "exclude": false,
+  "name_en": "YPT - Study Group (Yeolpumta)",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 1,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: social accountability for studying - friends see your study time, groups and rankings (body doubling at a distance); named as the default answer in 'study with friends' threads. K2 loose: study context only, no content generation from own material.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Already proven outside Korea: 1,735 US ratings (4.66) and 3,164 in India (4.61), apparently by word of mouth (per packet), with a language-agnostic timer + group + ranking mechanic. Risks: rankings can feel stressful (inference), the study-timer space is crowded (inference) and cold start needs a ready friend group.",
+  "idea_seed": "A softer 'study together' room for US Gen Z women: a live shared timer with 3-6 friends, a cozy visual theme and an opt-in weekly recap instead of public rankings.",
+  "build_effort": "medium",
+  "build_components": "Timer with real-time presence (WebSocket or realtime DB), friend/group system, study log and weekly stats, todo, push, widgets/Live Activities; rankings optional and off by default.",
+  "confidence": "medium"
+ },
+ "r:focustownpomodorotimer": {
+  "exclude": false,
+  "name_en": "Focustown: Pomodoro Timer",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: a cute, cozy low-poly world where you study or work beside real people in cafe or library 'servers' - aesthetic body doubling and soft accountability, with the pomodoro timer as a social game. No learning content or audio.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Strong US validation: 7,680 ratings (4.77) on a listing dated Feb 2026, and the cozy-world mechanic is language-agnostic. That also means the idea is taken - the whitespace is a women-specific or aesthetic angle, or activities other than studying. Live multiplayer rooms bring moderation and server-cost needs (inference).",
+  "idea_seed": "A cozy co-working cafe for US Gen Z women where a cute avatar sits at a shared table with real people doing the same thing - studying, a skincare routine, a workout, journaling - to a quiet timer.",
+  "build_effort": "high",
+  "build_components": "Real-time multiplayer presence (shared rooms), animated low-poly or 2D scenes, avatars and customisation, timer, matchmaking/rooms, moderation/report, ambient audio, subscription/IAP. Real-time plus art assets drive the cost; a 2D version would be medium.",
+  "confidence": "medium"
+ },
+ "r:joidailyplannerorganizer": {
+  "exclude": false,
+  "name_en": "Joi: Daily Planner & Organizer",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: calendar, tasks and habits on one timeline with a design-led concept (routine design); no women, gentle or companion angle. The Reddit discussion (80+ comments) centred on price and regional pricing, not on the mechanic.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Already in the US store (189 ratings, 4.41; India 31) and the planner category is crowded (inference); a single timeline is a UX pattern, not a moat. The useful signal is pricing: an Indian commenter called the subscription (about $5) high, so regional pricing matters outside the US.",
+  "idea_seed": "A single 'my day' timeline for US Gen Z women that mixes calendar events, to-dos and rituals (morning skincare, a walk, journaling) in one soft visual flow instead of separate habit and task apps.",
+  "build_effort": "medium",
+  "build_components": "Timeline UI with calendar sync (EventKit/Google Calendar API), task and habit models, recurrence logic, widgets, notifications, subscription with regional pricing; calendar sync and recurrence edge cases are the hard part.",
+  "confidence": "medium"
+ },
+ "r:habitagehabitgoaltrackerhabitsasjourneys": {
+  "exclude": false,
+  "name_en": "HabitAge: Habit & Goal Tracker (habits as journeys)",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: reframes each habit as a journey you 'sail' ('show up and you sail') - a narrative metaphor for streaks, closer to a gentle companion than a checklist. Only a feedback-seeking post (8 comments, ~5 months ago) is known; no numbers and no store listing resolved.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "The journey framing is language-agnostic and cheap to adapt, but it is a presentation-layer twist on a crowded category with no visible traction; the unresolved store listing suggests it may be early or unreleased (inference).",
+  "idea_seed": "A habit app for US Gen Z women where each ritual is a storybook journey (a path that grows, a cute travel companion) and a missed day pauses the trip instead of breaking a streak.",
+  "build_effort": "low",
+  "build_components": "Habit model with journey/progress visualisation (illustrated path or map), reminders, local-first storage, 'pause, don't break' streak logic, light illustration assets.",
+  "confidence": "low"
+ },
+ "r:lifereset66dayhabitpossiblytherise66dayhabitapp": {
+  "exclude": false,
+  "name_en": "Life Reset: 66 Day Habit",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: a game-like 66-day programme (daily quests, XP, streaks) for people starting from a low point rather than a blank tracker; the Reddit pitch ('get your sh*t together in 66 days') is blunt, not gentle. The match to the thread is inferred from the 2024-04-11 release date and the 66-day concept, not verified.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Already proven with US users: 12,607 ratings (4.71) and a store claim of 1.5M people started, so the fixed-length programme + quests mechanic is validated in English. The whitespace for us is a gentler, women-oriented tone and cycle-aware pacing; the game-like habit space is crowded (inference).",
+  "idea_seed": "A 'reset' programme for US Gen Z women: a guided 30- or 66-day arc that starts from a low point, with small daily quests, a kind-but-honest tone and lighter quests in low-energy phases.",
+  "build_effort": "medium",
+  "build_components": "Authored programme/quest content with a progression engine, XP/streak/levels, onboarding quiz, daily reminders, optional AI check-in, subscription paywall and conversion experiments; content authoring is the main cost.",
+  "confidence": "low"
+ },
+ "r:skillablypdfsandnotesintoquizzes": {
+  "exclude": false,
+  "name_en": "Skillably (PDFs and notes into quizzes)",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 3,
+   "K3": 0
+  },
+  "lens_note": "K2 core mechanic: the user's own PDFs and notes become quizzes. Evidence is only a title seen in a search snippet inside an r/JEENEETards result (an Indian exam-prep community - inference), with no product details, numbers or store listing.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Own material to quiz is language-agnostic, but it is among the most crowded AI categories (inference) and nothing in the packet shows a differentiator. Its value is as a demand signal from exam-prep students, not as a transferable twist.",
+  "idea_seed": "Snap-a-page-to-quiz for US Gen Z women students: photograph or upload notes or a PDF and get five quiz cards in under a minute, in a pretty note-style UI with no streak pressure.",
+  "build_effort": "low",
+  "build_components": "PDF/photo upload with OCR and text extraction, LLM quiz and flashcard generation, spaced-repetition scheduler, simple card UI, subscription; LLM tokens per document are the variable cost.",
+  "confidence": "low"
+ },
+ "r:streetlore": {
+  "exclude": false,
+  "name_en": "StreetLore",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 3
+  },
+  "lens_note": "K3 core: AI narrates the world around you as you walk or drive - location-triggered audio on any street, not curated tour routes (guided-walk format, screen-free). Not personalised by goal or habit. K2 loose: bite-size local learning. Tiny so far: 2 ratings, listed 2026-05-15.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Language-agnostic and fits US walking and driving habits, and a store listing exists (only 2 ratings). Hard parts: factual accuracy of AI-narrated facts about real places (inference), TTS and LLM cost per minute, background-location battery and privacy; women walking alone may also need ambient awareness (inference).",
+  "idea_seed": "A walk companion for US Gen Z women that narrates your own neighbourhood and mixes in a goal or mood segment (gratitude, a pep talk, a short learning bite) so every 20-minute walk becomes a ritual.",
+  "build_effort": "medium",
+  "build_components": "Background location/geofencing plus a POI data API, LLM narration grounded in POI or encyclopedic data (inference: needed against hallucination), streaming or pre-generated TTS, offline caching, background audio, permissions and battery handling, subscription.",
+  "confidence": "low"
+ },
+ "r:histourystorelistingnotresolved": {
+  "exclude": false,
+  "name_en": "hisTOURy",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 2
+  },
+  "lens_note": "K3 relevant: press play, put the phone away - hands-free audio tied to your route that tells the story behind each street name you pass, on foot or by car. Narrow content (street-name origins) and no goal personalisation. Fresh signal: 20+ comments within 2 days; store listing not resolved, no numbers.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "The 'press play, no screen' framing travels well, but street-name stories need a curated or generated dataset per city (content-bound) and the hook is niche; no store link or traction numbers confirm it has shipped.",
+  "idea_seed": "Route-timed audio for US Gen Z women: pick a goal and the app builds an episode that ends exactly when your commute or walk does, with a few local stories sprinkled in.",
+  "build_effort": "medium",
+  "build_components": "Route/ETA detection (maps API, motion and location), episode assembly timed to trip length, TTS or recorded audio, background playback, local content dataset (street names/POIs), subscription; AI-generated vs curated content drives the cost.",
+  "confidence": "low"
+ },
+ "r:herhabitscyclehabittracker": {
+  "exclude": false,
+  "name_en": "HerHabits: Cycle Habit Tracker",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: habits and medications synced to the menstrual cycle, so expectations follow cycle phase instead of a flat daily streak - cycle-aware wellness plus soft discipline. Aimed squarely at our segment but tiny: 15 US ratings (4.87), listed 2026-03-24, updated Aug 2026.",
+  "women_oriented": "yes",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Built for the US store in English, so no localisation, and cycle syncing is a visible Gen Z topic (inference). Risks: crowded cycle-tracker space (inference), weak evidence behind cycle-based performance claims (inference), health-data privacy, and only 15 ratings so demand is unproven.",
+  "idea_seed": "Cycle-aware routines for US Gen Z women: the app resizes your habit list to the phase (lighter on low-energy days, push on high-energy days) and explains why, with no streak shame.",
+  "build_effort": "medium",
+  "build_components": "Cycle logging and phase prediction, habit and medication models with phase rules, notifications, privacy by design (encrypted or on-device data, delete-my-data), optional HealthKit, subscription; medication reminders add liability considerations (inference).",
+  "confidence": "medium"
+ },
+ "r:lunarcyclephaseadhdplannerstorelistingnotresolved": {
+  "exclude": false,
+  "name_en": "Lunar (cycle-phase ADHD planner)",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: habit/ADHD planner for women that uses cycle phase and energy as inputs - a 10-second daily check-in, then it learns your completion patterns ('hormones tank focus and no app addressed it'). Built by a male maker for his girlfriend, who kept abandoning planners. Evidence: two small threads (4 + 1 comments), no store listing.",
+  "women_oriented": "yes",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Language-agnostic and aimed at an underserved niche (women with ADHD whose focus varies with the cycle - inference); the 10-second check-in lowers abandonment risk. Risks: ADHD and hormone claims must avoid medical wording (inference) and there is no sign of traction yet.",
+  "idea_seed": "A 10-second daily 'energy + cycle phase' check-in for US Gen Z women that reshapes the day's to-do list (fewer, easier tasks on low days) and learns which tasks you actually finish.",
+  "build_effort": "medium",
+  "build_components": "Check-in UI, cycle and energy data model, adaptive task prioritisation (rules first, ML/LLM later), completion analytics, notifications, subscription; privacy handling for cycle data.",
+  "confidence": "low"
+ },
+ "r:owlyaistudyflashcards": {
+  "exclude": false,
+  "name_en": "Owly: AI Study & Flashcards",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 3,
+   "K3": 0
+  },
+  "lens_note": "K2 core: notes, PDFs and images become interactive questions and flashcards, with a social twist - head-to-head quizzes against friends ('stop scrolling, start studying together'). Evidence is a lifetime-deal promo post ($39.99, 48 hours; 6 comments) and 9 ratings (5.0), so traction is unproven.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Language-agnostic and already in the US store, but 'AI flashcards' is one of the most crowded categories (inference). The transferable twist is friend-vs-friend quiz duels built from your own notes; the lifetime-deal tactic hints at a price-sensitive student audience (inference).",
+  "idea_seed": "Quiz duels from your own notes for US Gen Z women: upload a lecture PDF, get a 10-question game to play with a friend or study group, and win cute streak rewards.",
+  "build_effort": "medium",
+  "build_components": "PDF/image ingestion with OCR and LLM question generation, flashcard/spaced-repetition engine, async (turn-based) multiplayer with friend invites, leaderboards, subscription or lifetime IAP; async duels avoid real-time complexity.",
+  "confidence": "low"
+ },
+ "r:bestystorelistingnotresolved": {
+  "exclude": false,
+  "name_en": "Besty (women's life-balance to-do app)",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 relevant: explicit women-first positioning for productivity ('to-do lists can be overwhelming'), aiming to balance all areas of life; v1 is only a to-do list. Thread had 20+ comments (~1 year ago); store listing not resolved, no numbers.",
+  "women_oriented": "yes",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "The women-first, life-balance framing is a clear and marketable hook that does not depend on language, but v1 has no real mechanic, the listing is unresolved (maybe unreleased - inference) and planners are crowded (inference).",
+  "idea_seed": "A 'life areas' planner for US Gen Z women: instead of one endless to-do list, a soft dashboard of 4-6 life areas (body, money, friends, study, home, me-time) where you choose 1-3 small tasks a day to stay balanced.",
+  "build_effort": "low",
+  "build_components": "Task model with a life-area taxonomy, daily-focus picker capped at 3, balance-wheel visualisation, reminders, local-first storage, optional subscription. Commodity components.",
+  "confidence": "low"
+ },
+ "r:mentonotesthatquizyouback": {
+  "exclude": false,
+  "name_en": "Mento (notes that quiz you back)",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 3,
+   "K3": 0
+  },
+  "lens_note": "K2 core: notes and flashcards in one place - write or import a PDF and the notes quiz you back on a spaced-repetition schedule, with no separate deck creation. Built by a solo maker from a college pain point. Thin evidence: 5 comments (~1 month ago), no store link.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Language-agnostic and fits the US college audience; removing the deck-creation step is a real friction cut versus separate flashcard tools (inference). Notes plus spaced repetition is crowded and there are no traction numbers.",
+  "idea_seed": "A notes app for US Gen Z women students where every highlighted line becomes a quiz card automatically, with a 2-minute 'quiz me' session pushed into the gaps of your day.",
+  "build_effort": "medium",
+  "build_components": "Rich-text notes editor, PDF import and highlight-to-card extraction, LLM card generation, spaced-repetition scheduler, widgets/push for micro-sessions, sync; editor and sync are the hardest parts.",
+  "confidence": "low"
+ },
+ "r:koalaairecordslecturesintonotesflashcardsquizzes": {
+  "exclude": false,
+  "name_en": "Koala-AI (lecture recorder to notes, flashcards, quizzes)",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 3,
+   "K3": 0
+  },
+  "lens_note": "K2 core: records a live lecture and automatically turns it into notes, flashcards and quizzes - capture-first rather than upload-first. Tiny: 5 US ratings (5.0), listed 2026-03-30; thread had 2 comments.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 3,
+  "export_reason": "Language-agnostic and US-store-ready, but lecture-to-notes apps are crowded (inference) and recording lectures has consent and campus-policy friction (inference). The capture-first hook is the transferable part.",
+  "idea_seed": "Record-and-forget class capture for US Gen Z women: tap record in lecture (or paste a podcast or YouTube link) and get a 3-minute recap, flashcards and a quiz before you leave class.",
+  "build_effort": "medium",
+  "build_components": "Background audio recording, cloud speech-to-text, LLM structuring into notes/cards/quiz, card UI, storage and sync, subscription; ASR plus LLM cost per hour of audio is the main variable cost.",
+  "confidence": "low"
+ },
+ "r:befreedgetsmarterdaily": {
+  "exclude": false,
+  "name_en": "BeFreed: Get Smarter Daily!",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 2,
+   "K3": 3
+  },
+  "lens_note": "K3 core: goal-first personalised audio learning - tell it who you want to grow into (charisma, leadership, calm) and it builds audio from bestselling books, research papers, interviews and expert talks, then adapts; the closest existing product to the K3 concept. K2 relevant: paste your own PDF, article or YouTube link. K1 loose: self-improvement framing, not gentle or women-specific.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "Already in the US with strong traction (4,044 ratings, 4.69), so demand for goal-first audio is validated - and it is the incumbent to beat. The whitespace is a Gen Z women angle, a walk/commute-aware layer and less 'productivity-bro' content (inference). Content rights for books are a legal risk (inference), and the Reddit mention may be promotional.",
+  "idea_seed": "Goal-first audio for US Gen Z women: pick who you want to become (confident, calm, boss at work) and get a 10-minute daily episode built from books, research and your own PDFs, timed to your walk or commute.",
+  "build_effort": "high",
+  "build_components": "Content ingestion (books, papers, transcripts; licensing is the hard part), LLM summarisation and script generation, TTS voices, personalisation and memory (goals, history), background/offline audio player, plan-builder UI, subscription.",
+  "confidence": "medium"
+ },
+ "r:huxefromthenotebooklmaudiooverviewcreatorsstorelistingnotfound": {
+  "exclude": false,
+  "name_en": "Huxe (personal audio briefings from the NotebookLM audio-overview creators)",
+  "lens_fit": {
+   "K1": 0,
+   "K2": 1,
+   "K3": 3
+  },
+  "lens_note": "K3 core: daily personalised audio from your own sources (RSS) and interests; commuters named it as the product that should fit a morning commute routine. K2 loose: own sources turned into audio overviews. Store listing not found; the NotebookLM link comes from the Reddit post title (unverified); thread had 30+ comments.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 4,
+  "export_reason": "English-language and commuter-oriented, and a strong validation of 'a daily personal podcast from my sources'. Risks: the claimed NotebookLM pedigree makes it a formidable competitor, generated multi-voice audio has quality, latency and cost implications (inference), and the unresolved listing means its status (beta, waitlist) is unknown.",
+  "idea_seed": "A daily morning briefing for US Gen Z women: a 5-10 minute personal audio built from your interests and optional links or newsletters that starts when you start your walk or commute, with a warm host.",
+  "build_effort": "high",
+  "build_components": "Source ingestion (RSS, newsletters, links), LLM summarisation and dialogue scripting, multi-voice TTS, scheduling and walk/commute triggers, personalisation memory, background audio, subscription; TTS/LLM cost per user per day is the key unit-economics risk.",
+  "confidence": "low"
+ },
+ "r:strollstepstoscreentime": {
+  "exclude": false,
+  "name_en": "Stroll - Steps to Screen Time",
+  "lens_fit": {
+   "K1": 2,
+   "K2": 0,
+   "K3": 1
+  },
+  "lens_note": "K1 relevant: a soft-discipline loop - walk to earn screen time, then use distracting apps more intentionally (a gentle blocker, not a hard lock). K3 loose: walking is the shared context for audio-on-the-go, but the app has no audio. Part of a 'walk before you scroll' micro-trend (Stroll before you Scroll, DoomStroll, Mochii touch-grass per packet). Tiny: 14 IN ratings (5.0), listed 2026-06-25.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "Language-agnostic and rides the Gen Z doomscrolling / touch-grass conversation (inference), but several clones already exist (per packet), so it is easy to copy, and app blocking depends on Apple's Screen Time/FamilyControls entitlement and Android permissions (inference). Traction is unproven.",
+  "idea_seed": "'Walk to unlock' for US Gen Z women: earn your social-media minutes with a short walk powered by an audio companion (pep talk, story or learning bite), so the steps feel like a ritual rather than a toll.",
+  "build_effort": "medium",
+  "build_components": "Step/activity data (HealthKit, Health Connect), app blocking via iOS Screen Time/FamilyControls and Android usage access (entitlement approval and OS limits are the main risk), earn/streak logic, notifications, subscription.",
+  "confidence": "medium"
+ },
+ "r:floatingbuddiesanimatedcompanionsonandroid": {
+  "exclude": false,
+  "name_en": "Floating Buddies (animated screen companions, Android)",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: cute companion mechanic - tiny animated characters move around on top of your screen - but no habit or self-improvement function is described. Android-only, seen only in a 360+ comment self-promotion megathread (~6 months ago); no numbers.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Drawing over other apps is Android-specific (iOS does not allow it - inference from platform rules), so it cannot ship as-is on iPhone, where much of US Gen Z is (inference). The cute-companion appeal is the only transferable asset and works better when tied to a habit function.",
+  "idea_seed": "A companion that lives on the lock screen, widget and Live Activity of US Gen Z women and reacts to habit check-ins and mood (grows, sleeps, cheers) instead of just decorating the screen.",
+  "build_effort": "medium",
+  "build_components": "Companion character art and animation (Lottie/Rive/sprites), widgets and Live Activities (iOS) plus overlay or widgets (Android), behaviour state machine tied to habit and mood data, notification logic, IAP for outfits; the art and animation pipeline is the main cost.",
+  "confidence": "low"
+ },
+ "r:vaylamentalwellnesssupportprobablematchambiguous": {
+  "exclude": false,
+  "name_en": "Vayla (emotional wellness app)",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: only known as an 'emotional wellness app' from the title of an r/IMadeThis post. The store match was chosen by release date (2026-05-19 vs a thread ~June 2026) and another 'Vayla' app exists, so even the identity is unverified.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Nothing is known about the mechanic, emotional-wellness apps are crowded in the US and can drift into health-claim territory (inference), and traction is negligible (2 ratings, 1 comment).",
+  "idea_seed": "Placeholder, no mechanic known: a 60-second mood check-in for US Gen Z women that returns one small, kind action (breathe, text a friend, take a walk) instead of a score.",
+  "build_effort": "low",
+  "build_components": "Mood check-in UI, small authored action library, reminders, local-first storage, optional LLM reflections with crisis-language guardrails (inference: needed for safety).",
+  "confidence": "low"
+ },
+ "r:bloomsocialhabittrackerwithaicoach": {
+  "exclude": false,
+  "name_en": "Bloom (social habit tracker with AI coach)",
+  "lens_fit": {
+   "K1": 3,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 core: social/accountability habit tracking plus an AI coach whose tone is a visible product decision - testers 'started arguing' with the coach because it was too blunt. That is exactly the gentle-versus-harsh discipline question for K1. vc.ru launch story dated 9 Jul 2026; no user numbers, no confirmed store listing.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 4,
+  "export_reason": "AI coach plus friends is language-agnostic and the tone lesson (calibrate bluntness per user) transfers directly. The maker is in Russia and the app is probably Android/RuStore-first (inference), so it has no US presence, which leaves room; AI-coach habit apps are crowded (inference) and LLM cost per active user is a factor.",
+  "idea_seed": "A habit app for US Gen Z women with a tone dial on the AI coach (soft friend, hype girl, straight talker) and a small friend circle that sees your check-ins.",
+  "build_effort": "medium",
+  "build_components": "Habit tracker, friend/circle graph, LLM coach with persona and tone settings plus memory, safety guardrails and tone evals, push notifications, subscription; LLM cost per active user.",
+  "confidence": "medium"
+ },
+ "r:капляkaplyadropaigoalplannerformerlyhabittracker": {
+  "exclude": false,
+  "name_en": "Kaplya ('Drop') - AI goal planner, formerly a habit tracker",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: started as a habit tracker with an AI mentor, then removed habits and rebuilt as an AI goal planner (AI conversation and focus mode kept). The value is the pivot signal - a plain habit tracker was not enough for this team - not a mechanic. vc.ru article ~3 days old (Oct 2026); no numbers; not found in the ru App Store.",
+  "women_oriented": "unknown",
+  "dev_type": "small team",
+  "export_potential": 3,
+  "export_reason": "A conversational AI planner with a focus mode is language-agnostic but generic in a crowded category (inference); the packet does not explain why habits were dropped, and there is no US presence or traction data.",
+  "idea_seed": "Skip the checklist: a conversation-first planner for US Gen Z women where you tell an AI mentor what you want this month and it proposes three small steps a week, adjusting after each chat.",
+  "build_effort": "medium",
+  "build_components": "LLM chat with memory and goal decomposition, goal/step model, focus timer, notifications, subscription; prompt and eval work to keep advice consistent and safe.",
+  "confidence": "medium"
+ },
+ "r:habitsflowhabittrackerinferredmatch": {
+  "exclude": false,
+  "name_en": "HabitsFlow: Habit Tracker",
+  "lens_fit": {
+   "K1": 1,
+   "K2": 0,
+   "K3": 0
+  },
+  "lens_note": "K1 loose: minimal habit tracker for 'people tired of bloated habit apps' - anti-bloat is the only twist. The store match is inferred from the maker's name (Pavlo Antoniuk). Tiny: 1 US rating (v1.09 updated 2026-10-08), though threads drew 20+ comments.",
+  "women_oriented": "unknown",
+  "dev_type": "solo",
+  "export_potential": 2,
+  "export_reason": "Generic habit tracker with no distinctive mechanic in a very crowded category (inference). The transferable signals are the appetite for simplicity (20+ comment threads in r/iosapps and r/ProductivityApps) and 8+ languages (EN, FR, DE, KO, PL, PT, RU, ZH) as a cheap growth lever.",
+  "idea_seed": "A 'one habit at a time' mode for US Gen Z women: pick a single keystone ritual for two weeks with a calm, stat-free UI, then graduate to a second one.",
+  "build_effort": "low",
+  "build_components": "Habit CRUD with a strict one-to-three habit cap, simple calendar view, local notifications, widgets, localisation, subscription or one-time purchase. Basic.",
+  "confidence": "low"
+ },
+ "r:sakeenahjournalwebappjournalingappformuslimmomsinferredsameapp": {
+  "exclude": true,
+  "exclude_reason": "Religious-content app: faith-based journaling for Muslims (pitched as a journaling app for Muslim moms in Muslim-focused subs); web only, no traction numbers."
+ },
+ "r:sakinahprayertimesquranjournalingandavoicecompanionstorelistingnotmatched": {
+  "exclude": true,
+  "exclude_reason": "Religious-content app: prayer times, Qur'an recitation, journaling and a voice companion for a Muslim audience; store listing not identified and no traction numbers."
+ }
+}

@@ -1,0 +1,87 @@
+{
+  "_note": "Globalni sken App Store prodavnica. Tri koncepta (K1, K2, K3). english_base se koristi gde je use_english veći od 0 (broj reči po konceptu). local = lokalni jezik prodavnice.",
+  "lenses": {
+    "K1": "Self-improvement for women: gentle habits, rituals, mood, identity, pets, cycle-aware wellness",
+    "K2": "Micro-learning: the user's own material becomes short videos, cards and quizzes",
+    "K3": "Audio on the go: pick a topic and get personalized audio for walking or driving"
+  },
+  "english_base": {
+    "K1": ["habit tracker for women", "self care routine", "self improvement", "daily routine planner", "mood journal", "gratitude journal", "wellness planner", "cute habit tracker", "glow up", "morning routine", "self care pet", "affirmations", "women wellness", "girl challenge"],
+    "K2": ["microlearning", "flashcards from notes", "AI study notes", "turn pdf into quiz", "short video lessons", "learn in 5 minutes", "bite sized learning", "study reels", "AI flashcards", "summarize pdf", "video summary study", "quiz maker", "spaced repetition", "learning shorts"],
+    "K3": ["audio learning", "text to speech articles", "AI podcast generator", "listen to articles", "audiobook summaries", "learn while walking", "commute podcast", "personalized podcast", "audio courses", "listen to pdf", "AI audio generator", "sleep stories", "walking audio guide", "voice learning"]
+  },
+  "storefronts": {
+    "in": {"name": "India", "use_english": 14, "local": {
+      "K1": ["आदत ट्रैकर", "सेल्फ केयर", "महिलाओं के लिए ऐप", "दैनिक दिनचर्या", "पर्सनैलिटी डेवलपमेंट", "डायरी जर्नल"],
+      "K2": ["फ्लैशकार्ड", "पढ़ाई ऐप", "रिवीजन नोट्स", "करंट अफेयर्स", "UPSC notes", "छोटे वीडियो से सीखें"],
+      "K3": ["ऑडियो कहानियां", "हिंदी ऑडियोबुक", "बुक समरी ऑडियो", "हिंदी पॉडकास्ट", "समाचार सुनें", "ऑडियो करंट अफेयर्स"]}},
+    "cn": {"name": "China", "use_english": 0, "local": {
+      "K1": ["习惯养成", "自律打卡", "早起打卡", "女生自律", "情绪日记", "仪式感", "手帐", "养成 宠物", "治愈 日常", "自我提升", "冥想 正念"],
+      "K2": ["碎片化学习", "知识卡片", "背单词", "短视频学习", "AI学习笔记", "刷题", "学习打卡", "自习室 陪伴", "思维导图", "AI 学习助手"],
+      "K3": ["听书", "有声书", "播客", "AI听书", "文章转语音", "听知识", "睡前故事", "通勤 听书", "AI播客", "助眠 白噪音"]}},
+    "ru": {"name": "Russia", "use_english": 0, "local": {
+      "K1": ["трекер привычек", "саморазвитие", "дневник благодарности", "утренняя рутина", "привычки для женщин", "дневник настроения", "самопомощь", "челлендж 21 день", "медитация"],
+      "K2": ["карточки для запоминания", "микрообучение", "конспекты ИИ", "конспект из pdf", "интервальные повторения", "короткие видео обучение", "викторина тесты", "ИИ репетитор"],
+      "K3": ["аудиокниги", "слушать статьи", "подкасты", "озвучка текста", "аудиокурсы", "саммари книг аудио", "слушать новости", "нейроозвучка", "аудио для прогулки"]}},
+    "kr": {"name": "South Korea", "use_english": 0, "local": {
+      "K1": ["습관 루틴", "자기계발", "갓생", "미라클 모닝", "감정 일기", "여성", "자기돌봄", "챌린지 인증", "습관 트래커", "감사 일기"],
+      "K2": ["단어장", "플래시카드", "공부 타이머", "요약", "AI 공부", "암기", "퀴즈", "쇼츠 학습"],
+      "K3": ["오디오북", "팟캐스트", "책 요약", "TTS 읽어주는", "기사 듣기", "수면 소리", "산책 오디오"]}},
+    "jp": {"name": "Japan", "use_english": 0, "local": {
+      "K1": ["習慣", "習慣化", "自己啓発", "日記", "朝活", "女性向け", "セルフケア", "ルーティン", "感謝日記"],
+      "K2": ["暗記", "単語帳", "フラッシュカード", "勉強", "要約", "ショート動画 学習", "クイズ", "AI 勉強"],
+      "K3": ["オーディオブック", "ポッドキャスト", "読み上げ", "記事 音声", "本の要約 音声", "睡眠 音", "散歩 音声"]}},
+    "tr": {"name": "Turkey", "use_english": 0, "local": {
+      "K1": ["alışkanlık takibi", "kişisel gelişim", "günlük rutin", "kadınlar için alışkanlık", "şükran günlüğü", "ruh hali günlüğü", "meditasyon", "kendine bakım"],
+      "K2": ["flash kart", "ezber uygulaması", "yapay zeka not özeti", "kısa video öğrenme", "mikro öğrenme", "soru çözüm", "aralıklı tekrar"],
+      "K3": ["sesli kitap", "podcast", "makale dinle", "metni sese çevir", "kitap özeti sesli", "uyku hikayeleri", "yürüyüş sesli rehber"]}},
+    "sa": {"name": "Saudi Arabia", "use_english": 0, "local": {
+      "K1": ["تطوير الذات", "متابعة العادات", "روتين يومي", "تطبيق للنساء", "يوميات", "تأمل", "امتنان", "تحدي 30 يوم", "عادات إيجابية", "العناية بالنفس"],
+      "K2": ["بطاقات تعليمية", "تعلم بسرعة", "ملخصات", "مذاكرة", "اختبار قصير", "فيديوهات تعليمية قصيرة", "حفظ"],
+      "K3": ["كتب صوتية", "بودكاست", "قصص صوتية", "تحويل النص إلى صوت", "ملخصات كتب صوتية", "قراءة المقالات صوتيا", "قصص قبل النوم"]}},
+    "eg": {"name": "Egypt", "use_english": 0, "local": {
+      "K1": ["تطوير الذات", "متابعة العادات", "روتين يومي", "تطبيق للنساء", "يوميات", "تأمل", "امتنان", "تحدي 30 يوم", "عادات إيجابية", "العناية بالنفس"],
+      "K2": ["بطاقات تعليمية", "تعلم بسرعة", "ملخصات", "مذاكرة", "اختبار قصير", "فيديوهات تعليمية قصيرة", "حفظ"],
+      "K3": ["كتب صوتية", "بودكاست", "قصص صوتية", "تحويل النص إلى صوت", "ملخصات كتب صوتية", "قراءة المقالات صوتيا", "قصص قبل النوم"]}},
+    "ae": {"name": "United Arab Emirates", "use_english": 10, "local": {
+      "K1": ["تطوير الذات", "متابعة العادات", "روتين يومي", "تطبيق للنساء", "العناية بالنفس"],
+      "K2": ["بطاقات تعليمية", "تعلم بسرعة", "ملخصات", "مذاكرة", "اختبار قصير"],
+      "K3": ["كتب صوتية", "بودكاست", "قصص صوتية", "تحويل النص إلى صوت", "ملخصات كتب صوتية"]}},
+    "br": {"name": "Brazil", "use_english": 0, "local": {
+      "K1": ["rastreador de hábitos", "autoconhecimento", "desenvolvimento pessoal", "diário", "rotina diária", "autocuidado", "hábitos para mulheres", "gratidão", "meditação"],
+      "K2": ["flashcards", "resumo de estudos", "resumo de livros", "aprender rápido", "quiz", "revisão espaçada", "vídeos curtos aprender", "IA resumo pdf"],
+      "K3": ["audiolivro", "podcast", "ouvir artigos", "texto para fala", "resumo de livros áudio", "histórias para dormir", "áudio para caminhar"]}},
+    "mx": {"name": "Mexico", "use_english": 0, "local": {
+      "K1": ["hábitos", "desarrollo personal", "diario", "rutina diaria", "autocuidado", "para mujeres", "gratitud"],
+      "K2": ["tarjetas de estudio", "resumen de libros", "aprender rápido", "quiz", "resumir pdf IA", "microaprendizaje"],
+      "K3": ["audiolibros", "podcast", "texto a voz", "escuchar artículos", "historias para dormir", "resúmenes de libros audio"]}},
+    "id": {"name": "Indonesia", "use_english": 0, "local": {
+      "K1": ["pelacak kebiasaan", "pengembangan diri", "jurnal harian", "rutinitas pagi", "aplikasi wanita", "self care", "syukur"],
+      "K2": ["kartu belajar", "belajar cepat", "ringkasan buku", "kuis", "belajar AI", "catatan pdf"],
+      "K3": ["audiobook", "podcast", "teks ke suara", "dengar artikel", "cerita pengantar tidur", "ringkasan buku audio"]}},
+    "vn": {"name": "Vietnam", "use_english": 0, "local": {
+      "K1": ["thói quen", "phát triển bản thân", "nhật ký", "thiền", "phụ nữ", "tự chăm sóc", "theo dõi thói quen"],
+      "K2": ["thẻ ghi nhớ", "học nhanh", "tóm tắt sách", "trắc nghiệm", "học từ vựng"],
+      "K3": ["sách nói", "podcast", "chuyển văn bản thành giọng nói", "nghe báo", "truyện audio", "truyện ngủ"]}},
+    "th": {"name": "Thailand", "use_english": 0, "local": {
+      "K1": ["นิสัย", "พัฒนาตัวเอง", "ไดอารี่", "สมาธิ"],
+      "K2": ["แฟลชการ์ด", "เรียนรู้", "สรุปหนังสือ"],
+      "K3": ["หนังสือเสียง", "พอดแคสต์", "แปลงข้อความเป็นเสียง"]}},
+    "pl": {"name": "Poland", "use_english": 0, "local": {
+      "K1": ["nawyki", "rozwój osobisty", "dziennik", "samoopieka", "dla kobiet"],
+      "K2": ["fiszki", "nauka", "streszczenia", "quiz", "powtórki"],
+      "K3": ["audiobooki", "podcast", "czytaj na głos", "słuchaj artykułów", "bajki na dobranoc"]}},
+    "ua": {"name": "Ukraine", "use_english": 0, "local": {
+      "K1": ["звички", "саморозвиток", "щоденник", "самодопомога", "для жінок"],
+      "K2": ["картки", "навчання", "конспекти", "тести"],
+      "K3": ["аудіокниги", "подкасти", "озвучка тексту", "казки"]}},
+    "il": {"name": "Israel", "use_english": 0, "local": {
+      "K1": ["הרגלים", "פיתוח אישי", "יומן", "לנשים"],
+      "K2": ["כרטיסיות", "למידה", "סיכומים"],
+      "K3": ["ספרי שמע", "פודקאסט", "הקראת טקסט"]}},
+    "ph": {"name": "Philippines", "use_english": 8, "local": {"K1": [], "K2": [], "K3": []}},
+    "ng": {"name": "Nigeria", "use_english": 8, "local": {"K1": [], "K2": [], "K3": []}},
+    "za": {"name": "South Africa", "use_english": 8, "local": {"K1": [], "K2": [], "K3": []}},
+    "pk": {"name": "Pakistan", "use_english": 8, "local": {"K1": [], "K2": [], "K3": []}}
+  }
+}

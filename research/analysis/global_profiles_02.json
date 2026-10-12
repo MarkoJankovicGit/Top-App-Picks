@@ -1,0 +1,706 @@
+{
+  "cn:6449919551": {
+    "name_en": "iFlytek Spark - AI Assistant That Gets You",
+    "exclude": true,
+    "exclude_reason": "General-purpose LLM assistant (resumes, papers, PPT, code, image/video generation, translation) branded iFlytek Spark (Xunfei Xinghuo), i.e. the flagship product of a large AI corporation (inferred from the brand name); not a niche self-improvement app and not replicable by a small team.",
+    "confidence": "high"
+  },
+  "br:6446605092": {
+    "name_en": "Genius AI: Lecture Recorder",
+    "exclude": false,
+    "what_it_is": "AI study app that turns a recorded lecture (or the teacher's PDFs and documents) into a transcript, summary, flashcards, quiz, topic notebook and even a podcast of the key points.",
+    "sets_apart": "Capture is 'press record and go back to listening to the teacher', and every output is built from the student's own class material ('study what is on YOUR exam, not generic theory'), including a lecture-specific Q&A chat and an auto-generated key-points podcast. Playful, anti-boring brand voice ('studying is boring, we make it genius').",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 3,
+      "K3": 2
+    },
+    "lens_note": "Textbook K2 (own recordings and PDFs -> cards, quiz, summary) with a built-in K3 bridge: the generated key-points podcast turns notes into something you can listen to.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; pricing not visible in the (truncated) description, probably freemium subscription (inferred).",
+    "traction": "25.5k ratings in BR since 2023 (avg 4.85); in US store with 209 ratings",
+    "export_potential": 4,
+    "export_reason": "Mechanic is language-agnostic and the app is already live in the US store, but AI lecture notes is a crowded US category (inferred), so success would hinge on positioning and tone, not the tech.",
+    "idea_seed": "'Walk-and-study' for students: drop in a lecture or PDF and get a 5-minute podcast version plus flashcards you can review by audio on the way to class, in a cozy aesthetic.",
+    "build_effort": "medium",
+    "build_components": "audio recording + ASR transcription, PDF/doc parsing, LLM summaries/flashcards/quiz, TTS podcast generation, lecture Q&A chat, paywall",
+    "confidence": "high"
+  },
+  "kr:1597693251": {
+    "name_en": "Part-Time Study - AI Study Challenge App",
+    "exclude": false,
+    "what_it_is": "Study-habit app where you put your own money on a daily study promise, AI measures your real study time, and you get a refund proportional to how well you kept the promise.",
+    "sets_apart": "A commitment contract: a money stake replaces willpower ('if willpower is weak, use the force of money'), with AI-measured study time instead of self-reported check-ins, framed as a promise to yourself rather than a competition with others. Quotes an 86% average goal-completion rate.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "K1: accountability/discipline loop, but a real-money stake is 'hard' rather than gentle; K2 only study-adjacent (no content engine). How the AI measures study time is not stated.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Deposit-and-refund model (user pays a deposit, gets money back according to the promise kept); how the operator earns (e.g. forfeited deposits) is not stated.",
+    "traction": "2.2k ratings in KR since 2021 (avg 4.05); US store: 8 ratings",
+    "export_potential": 2,
+    "export_reason": "Mechanic is language-agnostic, but real-money deposits and refunds raise payments, App Store in-app-purchase and wagering-law questions in the US (inferred), and a hard financial stake clashes with a gentle positioning for Gen Z women.",
+    "idea_seed": "Soft-stakes accountability: pledge a small amount (or a donation, or in-app gems) to a friend pod that you only get back by completing your daily routine, with photo or timer proof.",
+    "build_effort": "high",
+    "build_components": "payments with deposits/refunds (compliance heavy), AI or sensor-based study verification, timers, challenge engine, friend/pod layer; a virtual-stakes variant would be medium",
+    "confidence": "medium"
+  },
+  "jp:1058865810": {
+    "name_en": "reminDO - Forgetting-Curve Memorization App",
+    "exclude": false,
+    "what_it_is": "Free spaced-repetition memo app: you save anything you want to remember (book takeaways, web-page key points, photographed notes, quotes, foreign-language items) and it notifies you when you are about to forget it.",
+    "sets_apart": "Reviews are presented like clearing a to-do list, with a scientific hook (about 80% forgotten after a month) and a capture-anything inbox rather than vocabulary decks only; an Anki-based algorithm was added in 2022.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 0
+    },
+    "lens_note": "K2-relevant: your own material becomes scheduled review items, but capture is manual - no AI generation or short-video format.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Described as free to use; no subscription or in-app purchase mentioned in the visible text.",
+    "traction": "17.9k ratings in JP since 2016 (avg 4.56); US store: 61 ratings",
+    "export_potential": 3,
+    "export_reason": "Forgetting-curve nudges are language-agnostic and the app is already localised into 7 languages, but spaced repetition is a saturated US category (inferred); only the capture-anything framing is distinctive.",
+    "idea_seed": "A 'save it, we'll remind you right before you forget' inbox: screenshots, quotes, book highlights and saved posts become 20-second review cards pushed at forgetting-curve timing.",
+    "build_effort": "low",
+    "build_components": "capture (text/photo/share extension), SRS scheduler (SM-2/FSRS), local notifications and widgets, sync",
+    "confidence": "high"
+  },
+  "ru:430330715": {
+    "name_en": "Books Without Internet 2026",
+    "exclude": false,
+    "what_it_is": "Offline library app with a large catalogue of books across genres (romance, sci-fi, mystery, classics, business, history, philosophy, fairy tales) and a personal library; matched keywords hint at audiobooks, audio courses and self-development sections.",
+    "sets_apart": "Nothing distinctive in the visible text: a 'huge library that works offline' pitch, with a year stamped in the app name (an ASO tactic, inferred) on a listing that dates back to 2011.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Loosely K3 (audiobooks/audio courses and offline use per keywords) but no personalisation or goal mechanic; essentially a content shelf. The description is generic and truncated.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; model not stated (ads or in-app purchases likely, inferred).",
+    "traction": "17.9k ratings in RU since 2011 (avg 4.42); US store: 518 ratings",
+    "export_potential": 1,
+    "export_reason": "Content-bound (Russian-language catalogue, rights status unknown) and no differentiating mechanic to transfer.",
+    "idea_seed": "Not much to borrow beyond an offline-first 'commute shelf' that pre-downloads tomorrow's audio queue so listening never breaks in tunnels or on flights.",
+    "build_effort": "low",
+    "build_components": "reader/audio player, offline downloads, personal library, catalogue sync",
+    "confidence": "low"
+  },
+  "cn:1617091849": {
+    "name_en": "CoStudy - Virtual Study Room",
+    "exclude": false,
+    "what_it_is": "Virtual school-campus study room where you focus alongside friends and matched strangers, earn coins for completed focus sessions and can buy a membership.",
+    "sets_apart": "Recreates a school so you feel seen: buildings by education stage, floors by goal or region, desk-mate and 'Co-buddy' pairing; deep-focus mode blocks leaving the app (leaving wastes a study session) and every finished session pays 'focus wages' in an in-app currency.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "K1: body-doubling and accountability with friends plus a reward loop for routine; no content processing, so K2 is only study-adjacent.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Subscription membership sold as non-auto-renewing products (CNY 15 first month / 28 later month, 66 for 3 months, 168 for 12 months, 428 for 3 years) plus an in-app coin economy.",
+    "traction": "13.6k ratings in CN since 2022 (avg 4.56); US store: 71 ratings",
+    "export_potential": 4,
+    "export_reason": "Presence-based co-studying is language-agnostic and 'study with me' behaviour already exists in the US (inferred); the campus metaphor is China-flavoured but easy to reskin (cafe, library, dorm); needs realtime infra and moderation.",
+    "idea_seed": "A cozy 'study cafe' room where you sit next to friends or matched buddies on a shared timer with focus lock, earning a soft currency per session to decorate your own corner.",
+    "build_effort": "medium",
+    "build_components": "realtime presence/rooms, focus timer with app lock (iOS Screen Time entitlement, inferred), friends and matching, virtual currency and room items, moderation, subscriptions",
+    "confidence": "high"
+  },
+  "ru:557094374": {
+    "name_en": "My Diary (school e-diary)",
+    "exclude": true,
+    "exclude_reason": "School e-diary (grades, homework, schedule, attendance) that only works if the school is connected to the BARS e-school system; pupils and parents, institution-driven; the 'diary' keyword hit is a false positive.",
+    "confidence": "high"
+  },
+  "kr:1242173441": {
+    "name_en": "OneVoca - My Own Vocabulary List",
+    "exclude": false,
+    "what_it_is": "Flexible memorisation app where you build your own word or sentence lists on any subject (languages, medical and chemistry terms, history, Bible verses) and study them with several study modes and AI voice read-aloud.",
+    "sets_apart": "Treats any term list as a first-class deck, not just language vocabulary, and has native-sounding AI text-to-speech in 40 languages so audio is built in. Made by a solo developer who addresses users in the first person.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 1
+    },
+    "lens_note": "K2-relevant (user-defined lists with study modes); K3 is loose: TTS reads your own cards aloud, but no commute or hands-free mode is mentioned.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free download; no pricing or in-app purchase details in the visible text (ads or premium unknown).",
+    "traction": "12.7k ratings in KR since 2017 (avg 4.58); US store: 75 ratings",
+    "export_potential": 3,
+    "export_reason": "Language-agnostic with 40-language TTS already built in, but 'my own flashcards' is a saturated US category (inferred); transfer value lies in the audio-first angle.",
+    "idea_seed": "Paste any list (terms, quotes, affirmations, song lyrics) and the app reads your deck aloud in natural voices so you can 'listen-learn' on a walk.",
+    "build_effort": "low",
+    "build_components": "deck editor and import, study modes, cloud TTS, notifications",
+    "confidence": "medium"
+  },
+  "eg:586168895": {
+    "name_en": "Iqraaly - Audiobooks (Read to Me)",
+    "exclude": false,
+    "what_it_is": "Arabic audiobook and audio-story platform with 2,000+ professionally narrated titles (novels, romance, horror, historical and social fiction) and a claimed 7 million listeners across the Arab world.",
+    "sets_apart": "Arabic-first catalogue of celebrated regional authors (Mahfouz, Kanafani, Ahmed Khaled Tawfik) in professional narration, a local-language content moat; matched keywords also point to audiobook summaries, podcasts and self-development.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 2
+    },
+    "lens_note": "K3 library play: audio-first, listen-anywhere in Arabic. Summaries and self-development are only hinted by keywords (the visible text is fiction-centred).",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; subscription or paid access likely (not stated in the visible text, inferred).",
+    "traction": "10.4k ratings in EG since 2012 (avg 4.62); 4,475 ratings in US store (likely Arabic-speaking diaspora, inferred). Seller is listed under a person's name but the catalogue scale suggests a team. Same app as the Saudi listing.",
+    "export_potential": 2,
+    "export_reason": "Content-bound: Arabic-language rights and narrator catalogue; the mechanic (audiobook library) is generic. Mainly proof that a local-language audio library can build a multi-country audience.",
+    "idea_seed": "A nightly wind-down shelf: narrated bedtime stories for adults plus 10-minute audio digests of self-growth books, with a sleep timer and a 'one idea for tomorrow' note.",
+    "build_effort": "medium",
+    "build_components": "audio player with offline downloads, catalogue CMS, subscriptions; the real cost is content licensing and narration (AI voices could replace it)",
+    "confidence": "medium"
+  },
+  "vn:1453643910": {
+    "name_en": "AudioAZ - Audiobooks & Stories",
+    "exclude": false,
+    "what_it_is": "Free audiobook app built on public-domain books (7,000+ titles; formerly Audiobook.xyz and Sachnoi.app) with offline downloads and cross-device sync.",
+    "sets_apart": "Zero-licence-cost model: only public-domain audiobooks, which lets a solo developer offer a big library for free with 'almost no ads', plus a share button for friends.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 2
+    },
+    "lens_note": "K3-relevant as an offline audiobook library, but public-domain classics only and no personalisation or goal mechanic.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free and ad-supported ('almost no ads'); no subscription mentioned.",
+    "traction": "10.5k ratings in VN since 2019 (avg 4.86); US store: 199 ratings",
+    "export_potential": 2,
+    "export_reason": "Public-domain content is legally portable and English public-domain audio is plentiful (inferred), but the app has no distinctive mechanic and the US already has free audiobook options (inferred).",
+    "idea_seed": "A 'cozy classics' audio shelf of public-domain romance and gothic novels (Austen, Bronte) with a sleep timer and ambient layers, aimed at the dark-academia crowd.",
+    "build_effort": "low",
+    "build_components": "audio player with background and offline play, public-domain catalogue ingestion, device sync, ads",
+    "confidence": "medium"
+  },
+  "pl:1291830373": {
+    "name_en": "Empik Go - Audiobooks and Ebooks",
+    "exclude": true,
+    "exclude_reason": "Subscription and storefront of a large retail/media corporation (Empik S.A., 240,000+ licensed titles, self-described as one of Poland's most popular book apps; size inferred from the entity and catalogue) - not a small developer, and a generic audiobook/ebook player with no transferable indie mechanic (car mode and 'listen anywhere' framing are standard).",
+    "confidence": "medium"
+  },
+  "jp:1288435689": {
+    "name_en": "Monoxer - Solve to Remember",
+    "exclude": false,
+    "what_it_is": "AI-based adaptive memorisation app: you register what you want to memorise (English, kanji, history, manuals) as a 'Book' and it auto-generates questions, tracks your recall status and adapts difficulty.",
+    "sets_apart": "Auto-generated, varied question types (multiple choice, typing, copy-writing) driven by a three-state memory dashboard (memorised / memorising / weak) that decides what is asked next and predicts what you are about to forget; Books can be created or found in-app.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 3,
+      "K3": 0
+    },
+    "lens_note": "Core K2: any user-supplied list becomes an adaptive quiz loop with a visible memory state; no audio and no short-video output.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free download; no pricing in the description (the developer has a corporate site; premium or institutional licences likely, inferred).",
+    "traction": "87.6k ratings in JP since 2017 (avg 4.29); US store: 153 ratings; UI also in EN, ID, NE, ZH",
+    "export_potential": 3,
+    "export_reason": "Mechanic is language-agnostic and already ships EN/ID/NE/ZH UI, but adaptive flashcards are a crowded US category (inferred); what travels is the memory-state meter and auto-varied question formats.",
+    "idea_seed": "Turn any notes into an adaptive daily quiz with a three-state memory meter (memorised / learning / wobbly) shown as a growing garden, so progress feels visible and cute.",
+    "build_effort": "medium",
+    "build_components": "question generation (LLM or templates), adaptive scheduler, several question types (typing, multiple choice, copy-writing), progress dashboard, sync",
+    "confidence": "high"
+  },
+  "kr:1663556775": {
+    "name_en": "Ultimate Focus - Focus Timer",
+    "exclude": false,
+    "what_it_is": "Focus and study timer with per-task sessions, Pomodoro, post-session reflections, calendar sync, app and website blocking, habit reminders and heavy visual customisation.",
+    "sets_apart": "Built on the idea that focus comes from an easy-to-start environment, not willpower: drag-to-set timer, sessions split per task, a short focus retrospective after each session that syncs to your calendar, 70+ colour themes and app icons, and app blocking during sessions.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "K1: routine/habit tooling with an aesthetic-personalisation angle (themes, icons, widgets); K2 only as a study timer.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Freemium: premium unlocks alert sounds, background music and iCloud sync (model and price not stated).",
+    "traction": "8.7k ratings in KR since 2023 (avg 4.79); US store: 188 ratings; 6 UI languages",
+    "export_potential": 3,
+    "export_reason": "Fully language-agnostic, but focus timers are a crowded US category (inferred); what travels is the post-session reflection plus calendar log and the aesthetic customisation.",
+    "idea_seed": "An aesthetic focus timer where each session ends with a one-line reflection that builds a 'study diary' and a weekly 'when do I focus best' insight.",
+    "build_effort": "low",
+    "build_components": "timer/Pomodoro, app blocking (Screen Time API), calendar sync, widgets and Shortcuts, themes, iCloud sync",
+    "confidence": "medium"
+  },
+  "sa:586168895": {
+    "name_en": "Iqraaly - Audiobooks (Read to Me)",
+    "exclude": false,
+    "what_it_is": "Arabic audiobook and audio-story platform with 2,000+ professionally narrated titles (novels, romance, horror, historical and social fiction) and a claimed 7 million listeners across the Arab world.",
+    "sets_apart": "Arabic-first catalogue of celebrated regional authors (Mahfouz, Kanafani, Ahmed Khaled Tawfik) in professional narration, a local-language content moat; matched keywords also point to audiobook summaries, podcasts, self-development and bedtime stories.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 2
+    },
+    "lens_note": "K3 library play: audio-first, listen-anywhere in Arabic. Summaries, self-development and bedtime stories are only hinted by keywords (the visible text is fiction-centred).",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; subscription or paid access likely (not stated in the visible text, inferred).",
+    "traction": "8.9k ratings in SA since 2012 (avg 4.57); same app as the Egyptian listing (10.4k ratings); 4,475 ratings in US store (likely Arabic-speaking diaspora, inferred). Seller is listed under a person's name but the catalogue scale suggests a team.",
+    "export_potential": 2,
+    "export_reason": "Content-bound: Arabic-language rights and narrator catalogue; the mechanic (audiobook library) is generic. Mainly proof that a local-language audio library can build a multi-country audience.",
+    "idea_seed": "A nightly wind-down shelf: narrated bedtime stories for adults plus 10-minute audio digests of self-growth books, with a sleep timer and a 'one idea for tomorrow' note.",
+    "build_effort": "medium",
+    "build_components": "audio player with offline downloads, catalogue CMS, subscriptions; the real cost is content licensing and narration (AI voices could replace it)",
+    "confidence": "medium"
+  },
+  "jp:860500836": {
+    "name_en": "Target no Tomo - English Vocabulary App (Obunsha)",
+    "exclude": false,
+    "what_it_is": "Official companion app to Obunsha's 'Eitango Target' vocabulary textbook series, with spare-time listening, multiple test formats, a national ranking, twice-daily '5 questions' pushes, and weak-word training and a personal word list as in-app purchases.",
+    "sets_apart": "Publisher-backed and tied to specific textbook editions, with a national ranking to benchmark yourself and a morning-and-night '5 questions' micro-drill that carries the learning habit; won a Japan e-Learning Award (app category).",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 0
+    },
+    "lens_note": "Loose fit: content-bound vocabulary drill; the useful bits are the twice-daily 5-question habit hook and the ranking.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free app with in-app purchases (weak-word training mode, 'My word list').",
+    "traction": "98.5k ratings in JP since 2014 (avg 4.65), not in US store",
+    "export_potential": 1,
+    "export_reason": "Content-bound to specific Japanese textbooks and an exam-prep market; only the twice-daily micro-drill and ranking mechanics transfer.",
+    "idea_seed": "A morning-and-evening '5 questions' ritual: two tiny push-triggered drills per day tied to a streak, as a habit anchor for whatever the user is learning.",
+    "build_effort": "low",
+    "build_components": "question bank/CMS, audio, quiz engine, ranking, push scheduling, in-app purchases",
+    "confidence": "high"
+  },
+  "tr:1419570041": {
+    "name_en": "kitUP: Micro Learning Everyday",
+    "exclude": false,
+    "what_it_is": "Daily 15-minute micro-learning app for personal development: read or listen to book summaries and podcasts and follow personalised plans and challenge lists (such as a 28-day personal-development plan).",
+    "sets_apart": "Self-improvement framed as a fixed 15-minute daily slot with goal-based plans and challenge lists, where the same content can be read or listened to - a reading-habit product rather than a content library. Claims 5M+ users and ships in 16 languages.",
+    "lens_fit": {
+      "K1": 2,
+      "K2": 2,
+      "K3": 3
+    },
+    "lens_note": "Closest blend of our three concepts in this batch: habit plans (K1), learn-in-minutes (K2) and listenable book/podcast content (K3); content is licensed rather than user-supplied or generated.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; premium subscription likely (description truncated, inferred).",
+    "traction": "32.1k ratings in TR since 2018 (avg 4.21); 1,424 ratings in US store; 16 UI languages; claims 5M+ users",
+    "export_potential": 4,
+    "export_reason": "Goal-based plans plus a daily 15-minute slot are language-agnostic and the app is already localised into 16 languages with a US footprint; limits are content licensing and a crowded book-summary category (inferred), which AI-generated or original content could sidestep.",
+    "idea_seed": "28-day 'glow-up' plans (confidence, boundaries, money habits, situationship detox) delivered as a 10-minute daily audio-plus-cards session with a streak, personalised from a short quiz.",
+    "build_effort": "medium",
+    "build_components": "content library/CMS (licensed or AI-generated), audio player + TTS, plan/challenge engine, notifications and streaks, personalisation quiz, subscriptions, localisation",
+    "confidence": "medium"
+  },
+  "br:1190110484": {
+    "name_en": "Cingulo: Healing and Growth",
+    "exclude": false,
+    "what_it_is": "Self-guided emotional-wellbeing app for working through emotional issues and building self-knowledge on your own, based on a claimed 15+ years of scientific research and clinical knowledge.",
+    "sets_apart": "Positions itself between self-help and therapy: a method drawing on modern psychology and personal-development approaches that users apply by themselves, usable alone at home or alongside therapy (text truncated), backed by an authority claim and testimonials of 'fast, deep transformations'.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Core K1 (self-knowledge and emotional growth). K3 is loose: the meditation keyword suggests guided audio, but the visible text does not describe it (inferred).",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; subscription likely (not stated, inferred).",
+    "traction": "70.3k ratings in BR since 2017 at 4.95 avg; 702 ratings in US store (EN listed)",
+    "export_potential": 3,
+    "export_reason": "The 'do inner work on your own' framing is language-agnostic and the app already lists EN, but mental-health claims create compliance and liability exposure in the US (inferred) and the method content is the whole product (must be authored and translated by clinicians).",
+    "idea_seed": "A 'between-therapy-sessions' inner-work app: short guided sessions that tackle one emotional pattern at a time (people-pleasing, anxious attachment, burnout) with a visible pattern-progress map.",
+    "build_effort": "medium",
+    "build_components": "clinical-style programme content (sessions, exercises), audio/video guidance, progress tracking, reminders, subscription, safety and crisis flows",
+    "confidence": "low"
+  },
+  "jp:1231920500": {
+    "name_en": "Kamidana App - Gratitude Diary, Manifestation and Purification",
+    "exclude": false,
+    "what_it_is": "A phone-based household Shinto shrine that combines a daily fortune (omikuji), a daily quote, a moon-phase and lucky-day calendar, a gratitude 'worship diary', a wish plaque (ema) and a 'let it go' purification ritual.",
+    "sets_apart": "Packages gratitude journaling as a ritual: a psychology-based writing format for end-of-day thanks, a purification feature where a paper doll (hitogata) takes on the worries and 'impurities' you write down, and a calendar tying moon phases, solar terms and lucky days to your daily rhythm.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Core K1: ritual, gratitude journaling, moon rhythm and manifestation. Shinto framing is cultural rather than preachy (borderline for the 'religious app' exclusion), and the mechanics are secularisable.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; no pricing in the visible text (ads or in-app purchases unknown).",
+    "traction": "7.0k ratings in JP since 2017 (avg 4.67); US store: 183 ratings; UI also in EN, ZH",
+    "export_potential": 4,
+    "export_reason": "Ritual mechanics (daily fortune, structured gratitude entry, release ritual, moon calendar) are language-agnostic and secularisable for a US audience already into moon and manifestation content (inferred); Shinto iconography and the Japanese lucky-day calendar are culture-bound and need a reskin.",
+    "idea_seed": "A secular ritual app: daily one-card fortune, a moon-phase intention prompt, a structured gratitude entry and a 'let it go' ritual where you write a worry on a paper charm and watch it burn or dissolve.",
+    "build_effort": "low",
+    "build_components": "daily content/fortune engine, moon and calendar logic, journal with prompts, ritual animations, notifications, optional premium content",
+    "confidence": "medium"
+  },
+  "ru:1220327765": {
+    "name_en": "Vzahleb - Books, Manga, Fanfics",
+    "exclude": false,
+    "what_it_is": "Reading and listening app for short fiction: chat-message stories, chat quests, audio stories, novels, e-books, manga and fan fiction, with a romance-heavy 'romance club' collection and 1,000+ stories.",
+    "sets_apart": "Stories told as the characters' chat conversations ('peek into their messages, uncover secrets') plus interactive chat quests, as a bite-sized alternative to long text, mixing fan-fiction-style content with audio stories.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Entertainment, not self-improvement; relevant only as a format (chat-style micro-stories, short audio stories). Women skew is inferred from the romance, fanfic and manga focus, not stated.",
+    "women_oriented": "yes",
+    "dev_type": "small team",
+    "monetization": "Free download; in-app purchases or subscription for premium stories likely (not stated in the visible text, inferred).",
+    "traction": "69.2k ratings in RU since 2017 (avg 4.54); 1,673 ratings in US store; UI in RU, EN, UK, BE, KK",
+    "export_potential": 3,
+    "export_reason": "Chat-story format is language-agnostic, but the catalogue is Russian-language fiction and fan fiction (content-bound; user-generated content brings moderation and copyright issues) and the US already has chat-fiction apps (inferred).",
+    "idea_seed": "Learn through chat-format micro-dramas: a 3-minute fictional group chat where a friend faces a dilemma (boundaries, money, dating) and you pick the replies, ending with a one-line takeaway - micro-learning as gossip.",
+    "build_effort": "medium",
+    "build_components": "chat-story reader and authoring CMS, audio player, paywall; moderation tooling if user-generated",
+    "confidence": "medium"
+  },
+  "ua:1447875950": {
+    "name_en": "Unified School (school e-diary)",
+    "exclude": true,
+    "exclude_reason": "School management e-diary for parents and teachers (schedule, grades, homework, attendance, teacher chat) - children/school-administration category; the 'diary' keyword hit is a false positive.",
+    "confidence": "high"
+  },
+  "ua:565967395": {
+    "name_en": "MEGOGO: Live TV, Movies, Sport",
+    "exclude": true,
+    "exclude_reason": "Large video and live-TV streaming service (movies, series, sport) - big-corporation entertainment platform; audiobooks and podcasts are an incidental side feature.",
+    "confidence": "high"
+  },
+  "jp:998279540": {
+    "name_en": "SELF - Mental Self-Care Starting With AI",
+    "exclude": false,
+    "what_it_is": "AI companion for venting and everyday mental support (tired, lonely, exhausted) that learns your life patterns and preferences, with a diary/record function, chit-chat, love and personality diagnostics, fortune, schedule, weather and news.",
+    "sets_apart": "Seven robot personas unlock as your 'sync level' with the AI rises - from an accept-everything starter bot to characters such as Furuse Ai (adapts to your values), Ando Yu (always looks after you) and an 'onee'-style adviser (Yukio) who answers any problem - so the relationship itself is the progression system. Pitched as a Doraemon-like helper.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Core K1: character companions, mood-aware chat and diary. AI mental-support positioning needs safety guardrails in the US.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; no pricing in the visible text (persona unlocks are level-based, so revenue may come from subscription or ads; unknown).",
+    "traction": "18.9k ratings in JP since 2016 (avg 4.4), not in US store; JP-only UI, redesigned Mar 2023",
+    "export_potential": 4,
+    "export_reason": "A persona roster unlocked by relationship depth is language-agnostic and works well with LLMs; AI-companion and mental-support products face safety, minors and platform-policy scrutiny in the US and the category is crowded (inferred); Japanese character humour needs adaptation.",
+    "idea_seed": "A mood-diary companion with a roster of AI 'friends' (soft bestie, blunt big sister, hype coach, mentor) that unlock as your check-in streak or bond level grows, all feeding one private mood timeline.",
+    "build_effort": "medium",
+    "build_components": "LLM chat with persona prompts and safety/crisis guardrails, user memory, diary and mood log, unlock/progression system, character art, notifications, subscription",
+    "confidence": "medium"
+  },
+  "kr:1538546706": {
+    "name_en": "VoCat - My Own Vocabulary List",
+    "exclude": false,
+    "what_it_is": "Vocabulary-list app with unlimited personal lists that works offline, auto-fills meaning, part of speech and synonyms through Google Translate when you type a word, and has a cat mascot called Nero.",
+    "sets_apart": "Low-friction card creation: type a word and the rest auto-fills; import lists from CSV/Excel/Google Sheets, attach photos (camera, album or Google image URL), share lists with friends, back up to Google Drive, and pick up ready-made lists from an in-app 'bookstore' (e.g. Korean Ministry of Education word lists). The cat 'Nero' is a cute bonus.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 0
+    },
+    "lens_note": "K2-relevant: user-built decks with quizzes; K1 only via the small cute-companion element.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; the ready-made word-list 'bookstore' may be paid or in-app purchase (not stated).",
+    "traction": "5.4k ratings in KR since 2020 (avg 4.87); US store: 112 ratings; UI listed in 70 languages",
+    "export_potential": 2,
+    "export_reason": "Language-agnostic and already listed in 70 languages, but a plain vocabulary-list tool in a saturated US category (inferred); the cute mascot and low-friction card creation are the only parts worth borrowing.",
+    "idea_seed": "A flashcard maker with a tiny pet mascot that reacts to your reviews and auto-fills cards (definition, example, image) from a word, a photo or a pasted note.",
+    "build_effort": "low",
+    "build_components": "deck editor, translation/dictionary API, CSV import, quizzes, image attach, cloud backup, mascot animations",
+    "confidence": "high"
+  },
+  "jp:1115551289": {
+    "name_en": "Voicy - Voices That Enrich Your Days",
+    "exclude": false,
+    "what_it_is": "Curated audio platform with 2,000+ channels of short voice broadcasts by vetted personalities (celebrities, experts, executives, working mothers, newspapers and media), made for hands-free listening while commuting, cooking, running or before bed.",
+    "sets_apart": "Curation by audition (personalities pass a roughly 5% application rate) and an audio-blog format of short, personal, regular talks rather than long podcasts; a premium-listener tier opens closed broadcasts, and content is grouped by life topics (business and career, news, lifestyle such as decluttering).",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 3
+    },
+    "lens_note": "Core K3 consumption pattern (hands-free daily listening by interest), but human-recorded and creator-driven rather than generated or personalised to the listener's goals.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free to listen; premium-listener subscription for closed broadcasts (some paid).",
+    "traction": "47.2k ratings in JP since 2016 (avg 4.75); US store: 234 ratings (JA only)",
+    "export_potential": 3,
+    "export_reason": "Audio-blog format and creator curation are language-agnostic, but the model depends on recruiting and vetting a roster of local personalities (creator-bound); a generated-audio variant would avoid that.",
+    "idea_seed": "A 'daily voice' feed for women's growth topics: 3-minute morning and evening audio notes (AI-generated from the user's goals and mood, or from vetted creators) built for the walk or commute.",
+    "build_effort": "high",
+    "build_components": "creator recording/upload and moderation tooling, audio player, curation and discovery, premium tier and creator payouts; an AI-generated variant would be medium",
+    "confidence": "high"
+  },
+  "kr:1071024844": {
+    "name_en": "Memorization Whale - Talking Vocabulary",
+    "exclude": false,
+    "what_it_is": "Talking flashcard service for 8 languages (80,000+ words) where every word is explained and repeated by voice with pictures, so you can learn just by listening, including from the phone lock screen on a commute; also user-made lists, a conversation section and video lectures.",
+    "sets_apart": "Audio-first memorisation: each card is read and explained aloud and repeats automatically ('words stick just by leaving the app on'), lock-screen learning for commutes, and no login required.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 3
+    },
+    "lens_note": "Best K2/K3 bridge in this batch: flashcards delivered as passive audio and lock-screen cards for commutes.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; video lectures and conversation content may be paid (not stated in the visible text).",
+    "traction": "4.3k ratings in KR since 2016 (avg 4.51); US store: 86 ratings",
+    "export_potential": 3,
+    "export_reason": "Audio-first passive review is language-agnostic and fits walking and commuting, but the product relies on curated, voiced word lists (content-bound) and flashcards are saturated in the US (inferred); TTS over user decks removes the content dependency.",
+    "idea_seed": "Lock-screen audio drills: your saved notes and decks play hands-free as prompt, pause, answer during a walk, with interval-based repetition.",
+    "build_effort": "medium",
+    "build_components": "TTS or recorded audio per card, background audio session and lock-screen controls/widgets, SRS, deck editor, content CMS",
+    "confidence": "high"
+  },
+  "kr:1270676408": {
+    "name_en": "QANDA - AI Math Problem Solver and Study App",
+    "exclude": false,
+    "what_it_is": "AI study app where you snap a photo of a problem to get a step-by-step solution in about 5 seconds, photograph your own working for AI correction, auto-generate memorisation quizzes from photographed material, and use a study timer that shows friends' live study status.",
+    "sets_apart": "Photo-first input across the whole workflow: solving, AI feedback on your own handwritten working ('personal tutor'), and AI-made memory quizzes from a photo of study material, plus a social study timer that shows friends studying live for motivation. Claims 95M students worldwide.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 0
+    },
+    "lens_note": "K2-relevant (photo of material -> quiz, AI feedback); K1 loose via the social study timer. A scale-up rather than a tiny developer, and aimed at school students.",
+    "women_oriented": "unknown",
+    "dev_type": "company",
+    "monetization": "Free download; premium or subscription not stated in the visible text (inferred).",
+    "traction": "43.2k ratings in KR since 2017 (avg 3.95); US store: 779 ratings; 14 UI languages; claims 95M students",
+    "export_potential": 3,
+    "export_reason": "Photo-to-solution and photo-to-quiz are language-agnostic and the app already ships in 14 languages, but homework solvers are a crowded, fast-commoditising US category (inferred) aimed at K-12 more than at Gen Z women self-improvement.",
+    "idea_seed": "Snap-to-quiz for anything you read: photograph a textbook page, screenshot or book highlight and get a 3-question memory quiz plus a one-line explainer back.",
+    "build_effort": "medium",
+    "build_components": "camera and OCR, LLM solutions and feedback, quiz generation, social study timer with live status, subscriptions",
+    "confidence": "medium"
+  },
+  "kr:6754797367": {
+    "name_en": "Univ AI - Lecture Recording, PDF Summary, Quiz",
+    "exclude": false,
+    "what_it_is": "AI study assistant that turns lecture recordings (with live sentence-level transcription), PDFs, YouTube links and notes into summaries, quizzes, flashcards, key concepts and mind maps, with an AI tutor for follow-up questions.",
+    "sets_apart": "The transcript is tappable (tap any sentence to replay that audio segment) and one input pipeline - audio, PDF, YouTube or memo - feeds every output (summary, quiz, flashcards, mind map, tutor), built for exam prep ('spend less time organising, more time studying').",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 3,
+      "K3": 0
+    },
+    "lens_note": "Core K2 (own recordings, PDFs and links -> quiz, flashcards, summary); no audio output or short-video format yet.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; pricing not shown (freemium subscription likely, inferred).",
+    "traction": "3.6k ratings in KR in about 10 months since Nov 2025 (avg 4.64); US store: 13 ratings; 12 UI languages",
+    "export_potential": 4,
+    "export_reason": "Fully language-agnostic and already localised (12 languages), but AI notes and quiz from lectures and PDFs is the most crowded AI-study niche in the US (inferred); differentiation must come from audience (Gen Z women), aesthetics and added audio or short-video output.",
+    "idea_seed": "Drop in a lecture, PDF or YouTube link and get a 60-second reel-style explainer, flashcards and a quiz, with a shared study streak among friends and a cozy study-aesthetic skin.",
+    "build_effort": "medium",
+    "build_components": "ASR with timestamps, PDF/YouTube ingestion, LLM summaries/quizzes/mind maps, flashcards, AI tutor chat, subscriptions; short-video generation would add effort",
+    "confidence": "high"
+  },
+  "ru:1016647134": {
+    "name_en": "Smart Reading: Books and Audio",
+    "exclude": false,
+    "what_it_is": "Non-fiction book-summary app (self-development, business, psychology, marketing, investing, history): key ideas to read or listen to, full books and audiobooks, and tests to reinforce what you learned.",
+    "sets_apart": "Pairs key-idea summaries with comprehension tests in one app that also hosts full books and audiobooks; topics lean toward habits, personal effectiveness, relationships and career.",
+    "lens_fit": {
+      "K1": 1,
+      "K2": 2,
+      "K3": 2
+    },
+    "lens_note": "Summary + test + audio is a K2/K3 blend on licensed content; not user-supplied or generated, so it informs format rather than technology.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; subscription likely (description truncated, inferred).",
+    "traction": "3.7k ratings in RU since 2017 (avg 4.61); US store: 124 ratings",
+    "export_potential": 3,
+    "export_reason": "Summary-plus-test format is language-agnostic, but it relies on licensed non-fiction (rights) and the US has established summary apps (inferred); AI-generated original digests would be the portable version.",
+    "idea_seed": "10-minute audio digests of psychology and self-growth topics that end with a five-question recall check and one 'try this today' action.",
+    "build_effort": "medium",
+    "build_components": "content CMS, LLM summary generation and TTS/audio player, quiz engine, offline downloads, subscriptions",
+    "confidence": "medium"
+  },
+  "ru:6739163717": {
+    "name_en": "KidsUp: Child Development",
+    "exclude": true,
+    "exclude_reason": "Parenting app for developing children from 6 months to preschool age (activities, skills tracker, expert articles) - children's category, outside our target; gratitude/mood-diary keyword hits are false positives.",
+    "confidence": "high"
+  },
+  "tr:348177651": {
+    "name_en": "Storytel - Audiobooks Library",
+    "exclude": true,
+    "exclude_reason": "Global audiobook and ebook subscription company (Storytel Sweden AB, 18 UI languages, 11k US ratings) - big corporation with a licensed catalogue; no small-developer mechanic to learn from.",
+    "confidence": "high"
+  },
+  "vn:1287426517": {
+    "name_en": "Learn English Words - 4English",
+    "exclude": false,
+    "what_it_is": "English-learning 'super app' for Vietnamese speakers: spaced-repetition vocabulary packs, 1,000+ bilingual news articles with tap-to-save words, and listening to news and podcasts (per matched keywords).",
+    "sets_apart": "Vocabulary comes from real content: you save words directly while reading news, stories or videos and build your own packs, then review them with SRS (images, flashcards, fill-in-the-blank); 1,000+ ready packs (IELTS, TOEIC, TOEFL, idioms, events).",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 2,
+      "K3": 1
+    },
+    "lens_note": "K2-relevant: material you read becomes review cards. K3 is only hinted by the 'podcast' and 'listen to newspapers' keywords (the visible text is truncated).",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; premium or subscription likely (not visible, inferred).",
+    "traction": "111k ratings in VN since 2017 (avg 4.76); 2.7k ratings in US store; 13 UI languages",
+    "export_potential": 3,
+    "export_reason": "The read/listen -> tap word -> SRS pipeline is language-agnostic and the app is already in the US store with 2.7k ratings, but it is built around English-as-a-foreign-language with Vietnamese bilingual content, a niche for US natives.",
+    "idea_seed": "Read-to-remember: tap any word or phrase in an article, newsletter or podcast transcript to save it into a personal deck that quizzes you later.",
+    "build_effort": "medium",
+    "build_components": "article ingestion and reader with tap-to-define, dictionary/translation API, SRS, TTS/audio, content packs, subscriptions",
+    "confidence": "medium"
+  },
+  "kr:6503250569": {
+    "name_en": "MyMori - Journal That Tends Your Heart",
+    "exclude": false,
+    "what_it_is": "Self-care journaling app where you chat with a tree character as if texting; the tree writes your diary entry for you and replies warmly, and a 'heart bird' can carry an anonymised summary of your entry to a stranger in another 'forest' and bring back a reply.",
+    "sets_apart": "No blank page: you send messy texts or photos and the tree turns them into a tidy diary entry plus a kind reply; the heart-bird mechanic sends a secretly condensed version of your entry to someone worldwide and returns a response, and a daily question lets you read how others answered via their birds.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Core K1: cute companion, low-effort journaling, daily-question ritual and light anonymous peer support; the bird-message layer needs moderation and safety work.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download; no pricing in the visible text (subscription likely, inferred).",
+    "traction": "2.2k ratings in KR since 2024 (avg 4.91); US store: 65 ratings; 11 UI languages",
+    "export_potential": 5,
+    "export_reason": "Chat-to-diary with a cute character and anonymous 'bird letters' is language-agnostic (already localised into 11 languages incl. EN) and fits the US journaling and self-care trend (inferred); main risks are moderation and mental-health safety in the peer-message layer.",
+    "idea_seed": "Text-to-journal companion: talk to a cute character that writes your entry and replies kindly, with an optional 'letter bird' that shares an AI-anonymised snippet with a stranger and brings back a reply.",
+    "build_effort": "medium",
+    "build_components": "LLM diary rewriting and warm replies, photo captioning, anonymisation/summarisation, async peer-message routing with moderation and crisis detection, daily-question content, habit reminders and widgets, character art, subscription",
+    "confidence": "high"
+  },
+  "ru:1536189561": {
+    "name_en": "Uchi.ru: Grades 0-4",
+    "exclude": true,
+    "exclude_reason": "Children's school-curriculum learning platform (grades 0-4, self-described as the #1 educational platform in Russia) - children's app; gratitude/mood-diary keyword hits are false positives.",
+    "confidence": "high"
+  },
+  "ru:1490891826": {
+    "name_en": "Prosto by Irena Ponaroshku - Meditation",
+    "exclude": false,
+    "what_it_is": "Russian-language meditation and sleep app with 30+ original courses, sleep stories ('bedtime fairy tales' for adults), binaural tracks and singles, voiced by a roster of named narrators including the founder, with a Premium subscription.",
+    "sets_apart": "Meditation positioned as simple and anti-esoteric ('no pseudo-mysticism, only science-based techniques'), a soft 'care for yourself' tone, a creator-led brand named after its founder, and casting of recognisable voices for courses and sleep stories.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 2
+    },
+    "lens_note": "Core K1 gentle self-care delivered as audio (K3-relevant: courses, sleep stories, binaural tracks, 'wherever you are'); the differentiator is the founder-led brand and named voices.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free download with a Premium subscription (smart meditation selection and extended content).",
+    "traction": "16.3k ratings in RU since 2020 (avg 4.71); US store: 421 ratings (EN listed)",
+    "export_potential": 3,
+    "export_reason": "Meditation and sleep-story content is generic and crowded in the US (inferred); what transfers is the creator-led, anti-woo soft positioning with named voices, which is voice- and talent-bound.",
+    "idea_seed": "Creator-fronted self-care audio: a recognisable creator (or licensed voice) narrates sleep stories and 5-minute resets in a science-first, no-woo tone, with a premium tier that personalises the pick.",
+    "build_effort": "medium",
+    "build_components": "audio content production and CMS, player with offline and sleep timer, 'smart selection' recommender, binaural audio, subscriptions",
+    "confidence": "medium"
+  },
+  "ru:975657561": {
+    "name_en": "SoundStream: Podcasts",
+    "exclude": false,
+    "what_it_is": "Podcast, audiobook and radio app with search by keywords, authors or channels, topic subscriptions, offline downloads and interactive podcasts held live.",
+    "sets_apart": "Live interactive podcasts: listeners can take part in the broadcast and get closer to hosts, on top of a standard podcast/audiobook/radio player.",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 2
+    },
+    "lens_note": "K3-relevant as a spoken-word audio app with an offline and subscription flow; the only twist is live listener participation. No personalisation or goal mechanic visible.",
+    "women_oriented": "unknown",
+    "dev_type": "small team",
+    "monetization": "Free to listen and download; business model not stated (ads or premium unknown).",
+    "traction": "1.7k ratings in RU since 2015 (avg 4.65); US store: 53 ratings",
+    "export_potential": 2,
+    "export_reason": "Content- and language-bound (Russian-language podcasts) and podcast players are saturated in the US (inferred); live interactive audio is a feature, not a product.",
+    "idea_seed": "Scheduled live 'walk-along' audio sessions where a host leads a 20-minute topic walk and listeners send voice questions that get answered in the next session.",
+    "build_effort": "medium",
+    "build_components": "RSS podcast ingestion and player, offline downloads, subscriptions and push, live audio rooms (managed realtime service), search",
+    "confidence": "medium"
+  },
+  "ru:529094166": {
+    "name_en": "LitRes: Audiobooks Online",
+    "exclude": true,
+    "exclude_reason": "Large licensed-catalogue audiobook retailer (self-described as the largest Russian audiobook catalogue, 97,000+ titles) - big content corporation and a generic player; no small-developer mechanic to learn from.",
+    "confidence": "high"
+  },
+  "br:1229827447": {
+    "name_en": "Atma: Meditation and Sleep",
+    "exclude": true,
+    "exclude_reason": "Meditation and sleep app published by Telefonica Brasil SA, a large telecom corporation (big corporation); generic meditation content library (1,200+ meditations).",
+    "confidence": "high"
+  },
+  "jp:1005093433": {
+    "name_en": "Music LIST Z - Music Player",
+    "exclude": false,
+    "what_it_is": "Free music player built on copyright-free tracks, with genre browsing, own playlists, continuous play, favourites, a popularity ranking and 2x/slow playback, pitched for commuting and background listening.",
+    "sets_apart": "Zero-licence-cost library plus simple utility features (continuous play, ranking, speed control, share button) in a no-frills solo-developer app; the copy also mentions videos, so it may play video-sourced music (inferred).",
+    "lens_fit": {
+      "K1": 0,
+      "K2": 0,
+      "K3": 1
+    },
+    "lens_note": "Off-concept: music, not spoken-word or learning. Kept only because it is audio for commuting (and the sleep-sound keyword hit); interesting mainly as proof of how far a bare-bones solo utility can scale.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Free; model not stated (ads likely, inferred).",
+    "traction": "129.7k ratings in JP since 2015 (avg 4.52); US store: 32 ratings",
+    "export_potential": 1,
+    "export_reason": "No distinctive mechanic, and a copyright-free or video-sourced catalogue is a licensing risk (inferred); the JP traction likely reflects local utility-app and ASO habits.",
+    "idea_seed": "A sleep-and-focus sounds player with speed control and continuous play, extended with spoken wind-down tracks (affirmations, body scan) and a bedtime timer.",
+    "build_effort": "low",
+    "build_components": "audio/video-sourced player with playlists, background play, favourites and ranking, ads",
+    "confidence": "medium"
+  },
+  "ru:1517399178": {
+    "name_en": "I Am a Schoolchild (Tatarstan)",
+    "exclude": true,
+    "exclude_reason": "Official regional government app for school pupils (schedule, homework, grades, class rating) tied to the Tatarstan e-education system - children/school-administration app; diary keyword hits are false positives.",
+    "confidence": "high"
+  },
+  "ru:1511288995": {
+    "name_en": "Mintalitea: CBT Diary",
+    "exclude": false,
+    "what_it_is": "CBT-style psychological diary where you log situation, thoughts, emotions, reaction, beliefs and scenario step by step, with statistics on emotions, reactions and beliefs, anonymous server storage and sync; claims 50,000+ users worldwide.",
+    "sets_apart": "A structured cognitive-behavioural thought-record flow (situation, thoughts, emotions, reaction, beliefs, scenario) with pattern statistics showing how often each emotion or belief recurs, and anonymous server-side storage that survives reinstalls.",
+    "lens_fit": {
+      "K1": 3,
+      "K2": 0,
+      "K3": 0
+    },
+    "lens_note": "Core K1: mood and thought journaling with insight charts; clinical (CBT) framing needs careful claims in the US.",
+    "women_oriented": "unknown",
+    "dev_type": "solo",
+    "monetization": "Freemium with a Premium subscription tier (the visible text breaks off at 'PREMIUM (subscription...').",
+    "traction": "825 ratings in RU since 2020 (avg 4.84); US store: 17 ratings; 11 UI languages; claims 50k+ users",
+    "export_potential": 4,
+    "export_reason": "CBT thought-record journaling is a well-known, language-agnostic technique already localised into 11 languages by a solo developer; limits are a crowded mental-health category and the need to avoid clinical claims (inferred).",
+    "idea_seed": "A 60-second guided 'thought check-in' (situation, thought, feeling, reframe) with weekly pattern insights such as 'your top 3 triggers', packaged as a friendly mood journal rather than therapy.",
+    "build_effort": "low",
+    "build_components": "step-by-step entry forms, statistics and charts, anonymous account sync, notifications, subscription",
+    "confidence": "high"
+  }
+}

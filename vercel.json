@@ -1,5 +1,11 @@
 {
   "buildCommand": "",
   "outputDirectory": "research/output",
-  "rewrites": [{ "source": "/", "destination": "/dashboard.html" }]
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/dashboard.html"
+    }
+  ],
+  "cleanUrls": true
 }

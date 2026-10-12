@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Insights</title>
+<style>
+:root{--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#6e6e73;--faint:#86868b;--line:#e5e5ea;--blue:#0071e3;--blue-bg:#e8f1fc;--pink:#c2255c;--pink-bg:#fde8ef;--violet:#5e5ce6;--violet-bg:#eeeefd;--teal:#0f7b8a;--teal-bg:#e2f4f6;--amber:#9a6200;--amber-bg:#fdf3dc;--green:#1a7f37;--green-bg:#e6f4ea;--red:#c9342b;--red-bg:#fdecea;--radius:14px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px;margin:0 auto;padding:28px 16px 72px}
+nav.top{display:flex;gap:8px;margin:0 0 14px;font-size:13px}nav.top a{color:#0071e3;text-decoration:none;background:#e8f1fc;padding:5px 12px;border-radius:999px;font-weight:600}nav.top a.on{background:#0071e3;color:#fff}
+h1{font-size:30px;letter-spacing:-.02em;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 20px}
+h2{font-size:18px;margin:30px 0 10px;letter-spacing:-.01em}
+.root{background:var(--blue);color:#fff;border-radius:18px;padding:22px 24px;font-size:20px;line-height:1.4;font-weight:600;letter-spacing:-.01em}
+.three{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-top:10px}
+.three div{background:var(--card);border-radius:var(--radius);padding:12px 14px;font-size:13px;color:var(--muted)}.three b{display:block;color:var(--text);font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-bottom:2px}
+.layers{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}
+.layer{background:var(--card);border-radius:var(--radius);padding:14px;border-top:4px solid var(--c)}
+.layer .n{font-size:12px;color:var(--faint);font-weight:700}.layer h3{margin:2px 0 4px;font-size:15px}.layer p{margin:0 0 6px;font-size:13px;color:var(--muted)}.layer .q{font-size:12px;font-style:italic;color:var(--text)}
+.card{background:var(--card);border-radius:var(--radius);padding:16px}
+.bars{display:grid;grid-template-columns:minmax(150px,300px) 1fr 90px;gap:8px 12px;align-items:center;font-size:13px}
+.track{height:12px;background:var(--bg);border-radius:99px;overflow:hidden}.fill{height:100%;border-radius:99px}
+.bars .v{color:var(--muted);text-align:right;font-size:12px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);margin-top:12px}.legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}.chip{padding:4px 11px;border-radius:999px;font-size:12.5px;background:var(--bg)}
+.chip.r{background:var(--red-bg);color:var(--red)}.chip.g{background:var(--green-bg);color:var(--green)}.chip.b{background:var(--blue-bg);color:var(--blue)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:10px}
+.mech{background:var(--card);border-radius:var(--radius);padding:14px}
+.mech h3{margin:0 0 2px;font-size:14.5px}.mech .app{font-size:12px;color:var(--muted);margin-bottom:6px}.mech p{margin:0;font-size:13px}
+.tag{display:inline-block;margin-top:8px;padding:2px 9px;border-radius:999px;font-size:11.5px;font-weight:600;background:var(--cb);color:var(--c)}
+table{width:100%;border-collapse:collapse;font-size:13px;background:var(--card);border-radius:var(--radius);overflow:hidden}
+th{text-align:left;font-size:12px;color:var(--faint);padding:10px 12px;border-bottom:1px solid var(--line)}td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.pill{display:inline-block;padding:2px 10px;border-radius:999px;font-weight:700;font-size:12px}
+.v-core{background:var(--green-bg);color:var(--green)}.v-eng{background:var(--blue-bg);color:var(--blue)}.v-feat{background:var(--amber-bg);color:var(--amber)}
+.idea{background:var(--card);border-radius:var(--radius);padding:16px;border-left:5px solid var(--c)}
+.idea h3{margin:0 0 2px;font-size:16px}.idea .one{margin:0 0 8px;color:var(--muted)}
+.idea dl{margin:0;display:grid;grid-template-columns:110px 1fr;gap:4px 10px;font-size:13px}.idea dt{color:var(--faint)}.idea dd{margin:0}
+.note{background:var(--amber-bg);color:#5c3d00;border-radius:var(--radius);padding:12px 16px;font-size:13px;margin-top:12px}
+.small{color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav class="top"><a href="index.html">Top 100 apps</a><a href="global.html">Global Finds</a><a href="insights.html" class=on>Insights</a></nav>
+<h1>Why women's self-improvement apps win</h1>
+<p class="sub">55 US apps and 1,937 reviews read twice by independent runs (six readings), plus 319 apps from 21 foreign App Stores.</p>
+
+<div class="root">They give her relief from her own harsh self-judgment. A kind "other" holds the stake of her consistency so she can act without shame, and the app keeps proof that she is becoming someone who takes care of herself.</div>
+<div class="three">
+<div><b>Reading A · habit, mood, focus apps</b>"Relief from self-judgment while change becomes possible."</div>
+<div><b>Reading B · category winners</b>"Borrowed self-trust under emotional safety."</div>
+<div><b>Reading C · cute niche apps</b>"Borrowed self-regulation from a kind 'other'."</div>
+</div>
+<p class="small" style="margin:8px 0 0">An earlier, independent run over the same reviews reached the same root in other words: "a witness who will not judge", "gently held by something that knows me", "gently witnessed while trying".</p>
+
+<h2>Five layers</h2>
+<div class="layers" id="layers"></div>
+
+<h2>What the reviews are about</h2>
+<div class="card"><div class="bars" id="bars"></div><div class="legend" id="leg"></div><p class="small" style="margin:10px 0 0">Reviews in the sample that support each theme (overlapping, not prevalence). Cuteness is the top signal in niche apps but a wrapper in the big winners (about 6% of their reviews).</p></div>
+
+<h2>What breaks trust, what she pays for</h2>
+<div class="cols">
+<div class="card"><b>Breaks trust (reviews)</b><div class="chips" style="margin-top:8px" id="breaks"></div></div>
+<div class="card"><b>She pays for</b><div class="chips" style="margin:8px 0 12px" id="pays"></div><b>She refuses</b><div class="chips" style="margin-top:8px" id="refuses"></div></div>
+</div>
+<h2>Gaps nobody serves well</h2>
+<div class="card"><div class="chips" id="gaps"></div></div>
+
+<h2>Mechanics from around the world that fit the root</h2>
+<div class="cards" id="mech"></div>
+<p class="small">Small-developer apps from the Global Finds catalog. "Not in US" means the App Store lookup found no US listing.</p>
+
+<h2>Your three concepts, one verdict each</h2>
+<table>
+<thead><tr><th>Concept</th><th>Demand proof</th><th>Crowding</th><th>White space</th><th>Verdict</th></tr></thead>
+<tbody id="verdicts"></tbody>
+</table>
+
+<h2>Concept hypotheses to test</h2>
+<p class="small" style="margin:-4px 0 10px">The unifying object is the era: an identity, a ritual, a small group and proof. Your three concepts become three families of eras.</p>
+<div class="cards" id="ideas" style="grid-template-columns:repeat(auto-fill,minmax(420px,1fr))"></div>
+
+<h2>Validation plan: $50k over 6 months (draft thresholds, to calibrate after week 3)</h2>
+<table><thead><tr><th>When</th><th>What</th><th>Budget</th><th>Measure and continue if</th></tr></thead><tbody id="plan"></tbody></table>
+
+<div class="note"><b>Persona caution.</b> The evidence of paying skews to adult women (30s and 40s); the cute-app crowd is teens and students who cannot pay (ages 9–17 appear among paywall complaints). Only 46% of 18–24s fully pay for their own subscriptions. Validate with women about 22–30 (first jobs) and use 18–21 as the viral top of the funnel.</div>
+<p class="small">Sources: research/analysis/PSYCH_SYNTHESIS.md, genz_women_research.md, Global Finds catalog. Counts are from hand-coded review extractions; gender and age are inferred from language.</p>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const C={safe:"#c2255c",other:"#9b2fae",struct:"#0071e3",proof:"#5e5ce6",money:"#c98a00",ritual:"#0f7b8a"};
+const layers=[
+ ["1","Entry","Identity promise and a first step that costs nothing","“I have always wanted to be someone who journals.”","#0071e3"],
+ ["2","Safety","Remove shame so she comes back","“It’s gentle, encouraging, and meets you where you’re at”","#c2255c"],
+ ["3","The other","Someone else carries the stake","“This self care app helps you take care of yourself while caring for your little pet”","#9b2fae"],
+ ["4","Proof","Turn effort into identity","“I am 24 wks consistent w SWEAT app. That’s a huge accomplishment for me.”","#5e5ce6"],
+ ["5","Fair exchange","Payment follows attachment","“This is the one app that doesn’t need a subscription every month.”","#c98a00"]];
+$("layers").innerHTML=layers.map(l=>`<div class="layer" style="--c:${l[4]}"><div class="n">${l[0]}</div><h3>${l[1]}</h3><p>${l[2]}</p><div class="q">${l[3]}</div></div>`).join("");
+const themes=[
+ ["Cute and aesthetic surface",250,37,"safe"],["Outsourced executive function and accountability",233,43,"struct"],["A kind other: witness, voice, character",227,46,"other"],
+ ["Safety and gentleness",167,42,"safe"],["Effortless entry, user in control",165,25,"struct"],["Visible accumulating proof",157,38,"proof"],
+ ["Identity upgrade (“that girl”)",148,39,"proof"],["Being known, personalization",146,30,"proof"],["Trust and fair exchange",143,33,"money"],
+ ["Time-anchored daily ritual",30,9,"ritual"],["Made for me: life stage, women-first",29,7,"ritual"]];
+const mx=Math.max(...themes.map(t=>t[1]));
+$("bars").innerHTML=themes.map(t=>`<span>${t[0]}</span><div class="track"><div class="fill" style="width:${t[1]/mx*100}%;background:${C[t[3]]}"></div></div><span class="v">${t[1]} · ${t[2]} apps</span>`).join("");
+$("leg").innerHTML=[["safe","Safety"],["other","The other"],["struct","Structure"],["proof","Proof and identity"],["money","Trust and money"],["ritual","Ritual and belonging"]].map(([k,l])=>`<span><i style="background:${C[k]}"></i>${l}</span>`).join("");
+const chips=(el,arr,cls)=>$(el).innerHTML=arr.map(x=>`<span class="chip ${cls}">${x}</span>`).join("");
+chips("breaks",["Quiz, then hard paywall · 87","Hidden or hard-to-cancel charges · 32","Billing traps for vulnerable users · 35","Caps on the core job · 45","Paywall ambush, free-to-paid rug pull · 25","Updates that erase her investment · 26–30","Redesign that adds friction · 30","AI replacing a human voice · 15","Shame and doom copy · 14","Upsell pop-ups · 18"],"r");
+chips("pays",["Annual plan after the habit forms (~$30–70)","One-time unlocks of a daily tool ($2–10)","Lifetime purchase","A guide she trusts (Sweat, Calm, Hallow)","Cosmetics and collection items","Bundle that feels like one smart purchase"],"g");
+chips("refuses",["Paying before value","Weekly pricing ($6.99–7.99/week)","A locked core job","A checklist sold as a product","Paying again for what was free","AI-generated “premium”"],"r");
+chips("gaps",["A companion with memory and a voice, not generic AI","Cozy low-pressure co-presence (no feed)","Forgiving goal logic: pause, carry-over, bad-day mode","In-session control and queue","A portable, private record that survives redesigns","Widgets and watch cues","Honest affordability: lifetime, hardship, long trial","Cycle and life-stage pacing","Crisis guardrails and women’s data privacy"],"b");
+const mech=[
+ ["Rest counts as done","My Routine · South Korea","25k Korean ratings, 18 languages. A rest day is a first-class check-in, so no streak is ever broken.","Safety","safe"],
+ ["Anonymous pods with photo proof","Minchalle · Japan","Five strangers per team, photo proof, no public feed. 35k ratings, not in US.","The other","other"],
+ ["The character writes your diary","MyMori · South Korea","Send messy texts or photos; the tree writes the entry and replies kindly. A “heart bird” carries a summary to a stranger and brings a reply back.","The other","other"],
+ ["Relationship as progression","SELF · Japan","Seven AI personas unlock as your “sync level” rises. 19k ratings, not in US.","The other","other"],
+ ["A weekly letter from a friend","muute · Japan","AI journaling that sends a weekly and monthly insight letter. 21k ratings, not in US.","Being known","proof"],
+ ["The time-box is the promise","12min · Fábula · kitUP","12 to 15 minutes a day of audio book summaries. 6k to 7k US ratings each.","Ritual","ritual"],
+ ["Gacha, pet and decoration on a study app","Cheese Words · China","87k ratings, not in US. Care-by-proxy and collection on top of vocabulary.","Proof","proof"],
+ ["Same date across years","10-Year Diary · Japan","One page per date shows what you wrote in earlier years. 30k ratings; cheap to build.","Proof","proof"],
+ ["Your material becomes a study feed and a podcast","ScrollToStudy · Zachet · Snitchnotes","South Africa, Russia, Poland. One upload becomes cards, quizzes and audio for the road.","Content","struct"],
+ ["Faith-aware cycle and journaling for women","AYDA · MyHayd · Sakeenah","Muslim women founders launching in r/muslimgirlswithtaste. A niche where communities already pay (Hallow $69.99).","Belonging","ritual"]];
+$("mech").innerHTML=mech.map(m=>`<div class="mech"><h3>${m[0]}</h3><div class="app">${m[1]}</div><p>${m[2]}</p><span class="tag" style="--c:${C[m[4]]};--cb:${C[m[4]]}22">${m[3]}</span></div>`).join("");
+const verd=[
+ ["K1 · Women's gentle growth","Finch 763k ratings, Flo, Me+; women’s communities keep asking for gentle, cute apps.","High at the generic habit-tracker level.","Voice companion with memory, small-group co-presence, cycle and faith-aware, forgiving logic.","<span class='pill v-core'>Core</span> Where the root lives."],
+ ["K2 · Micro-learning from own material","At least a dozen small apps worldwide already turn material into notes, cards and podcasts.","Very high; free NotebookLM and ChatGPT compete. Mostly students.","A reel-style feed exists (ScrollToStudy) but tiny.","<span class='pill v-feat'>Feature</span> Use as content engine, not as the product."],
+ ["K3 · Audio on the go","Ximalaya 4.2M ratings, Yandex Books and Podcasts 984k, Fábula and 12min in LatAm; BeFreed 4k US ratings; commuters ask for it on r/notebooklm.","Medium in the US: Speechify, Blinkist, NotebookLM, BeFreed.","Relationship and ritual, not generation: a voice that knows her, anchored to a daily walk.","<span class='pill v-core'>Vehicle</span> The best carrier of the kind other."]];
+$("verdicts").innerHTML=verd.map(r=>`<tr>${r.map((c,i)=>`<td>${i===0?`<b>${c}</b>`:c}</td>`).join("")}</tr>`).join("");
+const ideas=[
+ ["Soft Era · flagship (K1)","A 75-day era with 2–4 close friends: tiny daily steps grow one shared little world with a creature that waits for you.","#c2255c",
+  [["Kind other","The creature and the small group; no rankings. A missed day rests, it never resets."],["Ritual","3–5 steps under a minute each. An end-of-era recap video to share."],["From the world","Minchalle (small pods with photo proof), My Routine (rest counts as done), 10-Year Diary (same date across years), MyMori (kind reply, heart-bird letter)."],["Money","Free loop forever. Plus at about $39.99/year offered after week one, price shown before any quiz. Cosmetics. Creator-made eras with revenue share."],["Why your team","Micro and nano creators launch eras with their audience; the friend group builds invites into the product."],["Biggest risk","Minors, Finch adding groups, illustration workload, the “75 Hard” trademark."],["First test","15–20 nano creators, three hooks, waitlist cost and invite rate. About $3k."]]],
+ ["Walk Era · audio ritual (K3)","The hot girl walk era with a 15-minute audio: a micro-lesson on her topic, two minutes of speaking out loud, a kind reply.","#0f7b8a",
+  [["Proof of habit","Time-boxed audio rituals: 12min, Fábula, kitUP (6k–7k US ratings each); Ximalaya 4.2M ratings in China."],["Trend","Hot girl walk 641M+ views, free meetups in 30+ cities; run clubs growing."],["Biggest risk","15+ “PDF to audiobook” apps launched in 2026 (saturation); AI-voice distrust (15 reviews against); content cost."],["Plan","Human-written scripts first; AI only for personalization, and disclosed."],["First test","One walk pack inside Soft Era: 200 women for 14 days; completion and a $39.99 paywall test. About $10k."]]],
+ ["Study Era · micro-learning (K2)","Study-with-friends rooms; her notes become a 60-second recap and an audio for the road.","#5e5ce6",
+  [["From the world","YPT, Todomate, CoStudy, Focustown (study rooms); ScrollToStudy, Zachet (material into feed and podcast)."],["Verdict","Acquisition and loyalty, not revenue: students rarely pay and NotebookLM is free."],["First test","Pilot with three campus creators inside Soft Era."]]],
+ ["Beachhead option","A faith- or identity-aware women's companion as the first 1,000 users","#c98a00",
+  [["Evidence","AYDA, Sakeenah, MyHayd (Muslim women founders); Hallow shows faith communities pay $69.99/year."],["Risk","Narrow audience; diverges from your brand."],["Use","Only if the broad test stalls."]]]];
+$("ideas").innerHTML=ideas.map(i=>`<div class="idea" style="--c:${i[2]}"><h3>${i[0]}</h3><p class="one">${i[1]}</p><dl>${i[3].map(r=>`<dt>${r[0]}</dt><dd>${r[1]}</dd>`).join("")}</dl></div>`).join("");
+const plan=[["Weeks 1–3","Message test before building","~$3k","Waitlist cost and share who invite a friend"],["Weeks 3–10","Build the MVP (outside this budget)","–","Internal test with 50–100 women from the waitlist"],["Months 3–4","Soft launch through creator eras","~$20k","D7 ≥ 25%, D30 ≥ 12%, ≥ 1 invite per active user, ≥ 5% pay by day 30"],["Months 5–6","Scale what works, second era wave","~$25k","Cost per paying user under half of first-year revenue"]];
+$("plan").innerHTML=plan.map(r=>`<tr>${r.map((c,i)=>`<td>${i===0?`<b>${c}</b>`:c}</td>`).join("")}</tr>`).join("");
+</script>
+</body>
+</html>

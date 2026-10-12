@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Global Finds</title>
+<style>
+:root{--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#6e6e73;--faint:#86868b;--line:#e5e5ea;--blue:#0071e3;--blue-bg:#e8f1fc;--green:#1a7f37;--green-bg:#e6f4ea;--amber:#9a6200;--amber-bg:#fdf3dc;--pink:#c2255c;--pink-bg:#fde8ef;--violet:#5e5ce6;--violet-bg:#eeeefd;--teal:#0f7b8a;--teal-bg:#e2f4f6;--radius:14px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body.locked{overflow:hidden}
+.wrap{max-width:1360px;margin:0 auto;padding:28px 16px 64px}
+h1{font-size:28px;font-weight:700;letter-spacing:-.02em;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 18px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:16px}
+.st{background:var(--card);border-radius:var(--radius);padding:10px 14px}.st b{display:block;font-size:20px;font-weight:700}.st span{color:var(--muted);font-size:12px}
+.lenses{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px;margin-bottom:16px}
+.lens{background:var(--card);border-radius:var(--radius);padding:14px 16px;border-top:4px solid;cursor:pointer;border-left:0;text-align:left;font:inherit;color:inherit}
+.lens h3{margin:0 0 4px;font-size:15px;display:flex;justify-content:space-between;align-items:baseline}.lens h3 span{font-size:20px;font-weight:700}
+.lens p{margin:0;color:var(--muted);font-size:12.5px}
+.lens.on{outline:2px solid currentColor}
+.K1{--c:var(--pink);--cb:var(--pink-bg)}.K2{--c:var(--violet);--cb:var(--violet-bg)}.K3{--c:var(--teal);--cb:var(--teal-bg)}
+.lens.K1{border-color:var(--pink);color:var(--pink)}.lens.K2{border-color:var(--violet);color:var(--violet)}.lens.K3{border-color:var(--teal);color:var(--teal)}
+.lens h3,.lens p{color:var(--text)}.lens p{color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center}
+input,select{font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);max-width:100%}
+input:focus,select:focus{outline:2px solid var(--blue-bg);border-color:var(--blue)}
+.tog{border:0;background:var(--card);border-radius:999px;padding:7px 13px;font:inherit;font-size:13px;cursor:pointer;color:var(--text);border:1px solid var(--line)}
+.tog.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+.count{color:var(--muted);font-size:13px;margin-left:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:var(--card);border-radius:var(--radius);padding:14px;display:flex;flex-direction:column;gap:10px;cursor:pointer;border:1px solid transparent}
+.card:hover{border-color:var(--line)}
+.ch{display:flex;gap:12px;align-items:flex-start}
+.icon{width:56px;height:56px;border-radius:13px;flex:none;background:var(--bg);border:1px solid var(--line);object-fit:cover}
+.ch b{display:block;font-size:15px;line-height:1.25}
+.small{color:var(--muted);font-size:12px}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:4px}
+.chip{display:inline-block;padding:2px 9px;border-radius:999px;font-size:11.5px;font-weight:600;background:var(--cb,var(--bg));color:var(--c,var(--muted))}
+.chip.plain{background:var(--bg);color:var(--muted);font-weight:500}
+.chip.us{background:var(--green-bg);color:var(--green)}
+.chip.w{background:var(--pink-bg);color:var(--pink)}
+.apart{font-size:13.5px}
+.seed{font-size:13px;color:var(--muted);border-left:3px solid var(--line);padding-left:10px}
+.metrics{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted);margin-top:auto}
+.metrics b{color:var(--text)}
+.dots{letter-spacing:2px;color:var(--blue)}
+.btn{border:0;background:var(--blue-bg);color:var(--blue);font:inherit;font-weight:600;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn:hover{background:var(--blue);color:#fff}.btn.ghost{background:var(--bg);color:var(--text)}.btn.ghost:hover{background:var(--line)}
+.section{background:var(--card);border-radius:var(--radius);padding:14px 16px;margin:18px 0 12px}
+.section h3{margin:0 0 10px;font-size:15px}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th{text-align:left;font-size:12px;color:var(--faint);padding:8px;border-bottom:1px solid var(--line)}
+td{padding:8px;border-bottom:1px solid var(--line);vertical-align:top}
+.tw{overflow-x:auto}
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:opacity .2s;z-index:10}.scrim.on{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(660px,100%);background:var(--card);box-shadow:-12px 0 40px rgba(0,0,0,.12);transform:translateX(100%);transition:transform .25s ease;z-index:11;display:flex;flex-direction:column}.drawer.on{transform:none}
+.dh{display:flex;gap:14px;align-items:flex-start;padding:20px 20px 14px;border-bottom:1px solid var(--line)}.dh .icon{width:72px;height:72px;border-radius:16px}.dh h2{margin:0;font-size:20px}
+.dnav{display:flex;gap:6px;margin-left:auto;flex:none}
+.db{overflow-y:auto;padding:16px 20px 32px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin-bottom:18px}.kpi{background:var(--bg);border-radius:12px;padding:10px 12px}.kpi b{display:block;font-size:16px}.kpi span{color:var(--muted);font-size:12px}
+.blk{margin-bottom:16px}.blk h4{margin:0 0 6px;font-size:13px;color:var(--muted);font-weight:600}.blk p{margin:0}.blk ul{margin:0;padding-left:18px}
+.lead{font-size:15px;line-height:1.5}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.ev li{margin-bottom:4px}.ev a{color:var(--blue);text-decoration:none}
+.orig{background:var(--bg);border-radius:10px;padding:10px 12px;font-size:12.5px;color:var(--muted);white-space:pre-wrap}
+nav.top{display:flex;gap:8px;margin:0 0 14px;font-size:13px}nav.top a{color:#0071e3;text-decoration:none;background:#e8f1fc;padding:5px 12px;border-radius:999px;font-weight:600}nav.top a.on{background:#0071e3;color:#fff}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav class="top"><a href="index.html">Top 100 apps</a><a href="global.html" class=on>Global Finds</a><a href="insights.html">Insights</a></nav>
+<h1>Global Finds</h1>
+<p class="sub" id="sub"></p>
+<div class="stats" id="stats"></div>
+<div class="lenses" id="lenses"></div>
+<div class="controls">
+<input id="q" placeholder="Search name, idea, mechanic" size="30">
+<select id="fc"><option value="">Country: all</option></select>
+<select id="fs"><option value="">Source: all</option><option value="store">App Store scan</option><option value="reddit">Found on Reddit</option><option value="both">Both</option></select>
+<select id="so"><option value="interest">Sort: interest</option><option value="ratings">Sort: local ratings</option><option value="export">Sort: export potential</option></select>
+<button class="tog" id="tUS">Not known in the US</button>
+<button class="tog" id="tW">For women</button>
+<button class="tog" id="tS">Small teams only</button>
+<button class="tog" id="tE">Export potential 4+</button>
+<button class="tog" id="tU">Include unnamed Reddit signals</button>
+<span class="count" id="count"></span>
+</div>
+<div class="grid" id="grid"></div>
+<div class="section"><h3>Communities to keep (where makers and users talk)</h3><div class="tw"><table><thead><tr><th>Community</th><th>Region</th><th>Language</th><th>Role</th><th>Why it matters</th></tr></thead><tbody id="comm"></tbody></table></div></div>
+</div>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true"><div class="dh" id="dh"></div><div class="db" id="db"></div></aside>
+<script>
+const D=__DATA__;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n==null?"–":Number(n).toLocaleString("en-US",{maximumFractionDigits:1});
+const LN={K1:"Women's self-improvement",K2:"Micro-learning",K3:"Audio on the go"};
+const iconHtml=(r,c="icon")=>r.icon?`<img class="${c}" src="${esc(r.icon)}" alt="" loading="lazy">`:`<div class="${c}"></div>`;
+const dots=n=>n?"●".repeat(n)+"○".repeat(5-n):"–";
+const interest=r=>{const fit=Math.max(...["K1","K2","K3"].map(k=>r.lens_fit?.[k]||0));return (r.export_potential||0)*2+fit*2+(r.in_us===false?2:0)+(r.women==="yes"?1:0)+Math.min(3,Math.log10(Math.max(r.ratings_local||1,1)))};
+let view=[],cur=-1,lensSel="",flags={us:false,w:false,e:false,s:false,u:false};
+function lensChips(r){return (r.lenses||[]).map(k=>`<span class="chip ${k}">${k} ${LN[k]}</span>`).join("")}
+function card(r,i){
+ return `<div class="card" data-i="${i}"><div class="ch">${iconHtml(r)}<div><b>${esc(r.name_en&&r.name_en!==r.name?r.name_en:r.name)}</b>${r.name_en&&r.name_en!==r.name?`<div class="small">${esc(r.name)}</div>`:""}<div class="small">${esc(r.country||"")}${(r.also_in||[]).length?" +"+r.also_in.length:""} · ${esc(r.dev_type||"")}</div><div class="chips">${lensChips(r)}${r.women==="yes"?'<span class="chip w">for women</span>':""}${r.in_us===false?'<span class="chip us">not in US store</span>':""}</div></div></div>
+ <div class="apart">${esc(r.sets_apart||r.what_it_is||"")}</div>
+ ${r.idea_seed?`<div class="seed">${esc(r.idea_seed)}</div>`:""}
+ <div class="metrics"><span>Local ratings <b>${fmt(r.ratings_local)}</b></span><span>US <b>${r.in_us===false?"not in US":fmt(r.ratings_us)}</b></span><span>Export <span class="dots">${dots(r.export_potential)}</span></span>${(r.evidence||[]).length?`<span>Reddit <b>${r.evidence.length}</b></span>`:""}</div></div>`;
+}
+function render(){
+ const q=$("q").value.toLowerCase(),fc=$("fc").value,fs=$("fs").value,so=$("so").value;
+ view=D.items.filter(r=>(!lensSel||(r.lenses||[]).includes(lensSel))&&(!fc||r.country===fc)&&(!fs||(fs==="both"?(r.source||[]).length>1:(r.source||[]).includes(fs)))
+  &&(flags.u||!r.unnamed)&&(!flags.s||/^(solo|small)/i.test(r.dev_type||""))&&(!flags.us||r.in_us===false)&&(!flags.w||r.women==="yes")&&(!flags.e||(r.export_potential||0)>=4)
+  &&(!q||[r.name,r.name_en,r.sets_apart,r.idea_seed,r.what_it_is,r.country].join(" ").toLowerCase().includes(q)));
+ view.sort((a,b)=>so==="ratings"?(b.ratings_local||0)-(a.ratings_local||0):so==="export"?(b.export_potential||0)-(a.export_potential||0)||interest(b)-interest(a):interest(b)-interest(a));
+ $("grid").innerHTML=view.map(card).join("")||'<div class="small">No apps match these filters.</div>';
+ $("count").textContent=view.length+" apps";
+ document.querySelectorAll(".lens").forEach(l=>l.classList.toggle("on",l.dataset.k===lensSel));
+ ["us","w","e","s","u"].forEach(k=>$({us:"tUS",w:"tW",e:"tE",s:"tS",u:"tU"}[k]).classList.toggle("on",flags[k]));
+}
+function openD(i){
+ cur=i;const r=view[i];if(!r)return;
+ $("dh").innerHTML=`${iconHtml(r)}<div><h2>${esc(r.name_en&&r.name_en!==r.name?r.name_en:r.name)}</h2><div class="small">${esc(r.name!==r.name_en?r.name+" · ":"")}${esc(r.seller||r.developer||"")} · ${esc(r.dev_type||"")}</div><div class="chips">${lensChips(r)}${r.women==="yes"?'<span class="chip w">for women</span>':""}<span class="chip plain">${esc(r.country||"")}</span></div></div><div class="dnav"><button class="btn ghost" id="prev">‹</button><button class="btn ghost" id="next">›</button><button class="btn ghost" id="close">✕</button></div>`;
+ const k=[["Also listed in",(r.also_in||[]).join(", ")||"–"],["Local ratings",fmt(r.ratings_local)],["US ratings",r.in_us===false?"not in US store":fmt(r.ratings_us)],["Export potential",(r.export_potential||"–")+" / 5"],["Build effort",r.build_effort||"–"],["Released",r.released||"–"],["Developer apps",r.dev_apps??"–"],["Confidence",r.confidence||"–"],["Languages",(r.languages||[]).slice(0,5).join(", ")||"–"]];
+ const blk=(t,h)=>h?`<div class="blk"><h4>${t}</h4>${h}</div>`:"";
+ const p=s=>s?`<p>${esc(s)}</p>`:"";
+ const ev=(r.evidence||[]).map(e=>`<li>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title||e.url)}</a>`:esc(e.title)} <span class="small">· r/${esc(String(e.subreddit||"").replace(/^r\//,""))} · ${esc(e.age||"")} · ${esc(e.comments||"")} comments</span></li>`).join("");
+ $("db").innerHTML=`<div class="links">${r.url?`<a class="btn" href="${esc(r.url)}" target="_blank" rel="noopener">Open store page</a>`:""}${r.seller_url?`<a class="btn ghost" href="${esc(r.seller_url)}" target="_blank" rel="noopener">Developer site</a>`:""}</div>
+ <div class="kpis">${k.map(([l,v])=>`<div class="kpi"><b>${esc(v)}</b><span>${l}</span></div>`).join("")}</div>
+ ${blk("What sets it apart",`<p class="lead">${esc(r.sets_apart||"")}</p>`)}
+ ${blk("What it is",p(r.what_it_is))}
+ ${blk("Idea for us",p(r.idea_seed))}
+ ${blk("Fit with our concepts",p(r.lens_note)+`<p class="small">${["K1","K2","K3"].map(k=>`${k}: ${r.lens_fit?.[k]??0}/3`).join(" · ")}</p>`)}
+ ${blk("Traction",p(r.traction))}
+ ${blk("Monetization",p(r.monetization))}
+ ${blk("Export potential",p(r.export_reason))}
+ ${blk("Seen on Reddit and communities",ev?`<ul class="ev">${ev}</ul>`:"")}
+ ${blk("Store description (original)",r.description?`<div class="orig">${esc(r.description)}</div>`:"")}`;
+ $("db").scrollTop=0;$("drawer").classList.add("on");$("scrim").classList.add("on");document.body.classList.add("locked");
+ $("prev").onclick=()=>openD(Math.max(0,cur-1));$("next").onclick=()=>openD(Math.min(view.length-1,cur+1));$("close").onclick=closeD;
+}
+function closeD(){$("drawer").classList.remove("on");$("scrim").classList.remove("on");document.body.classList.remove("locked");cur=-1}
+$("grid").onclick=e=>{const c=e.target.closest(".card");if(c)openD(+c.dataset.i)};
+$("scrim").onclick=closeD;
+document.addEventListener("keydown",e=>{if(cur<0)return;if(e.key==="Escape")closeD();if(e.key==="ArrowRight"||e.key==="ArrowDown")openD(Math.min(view.length-1,cur+1));if(e.key==="ArrowLeft"||e.key==="ArrowUp")openD(Math.max(0,cur-1))});
+["q","fc","fs","so"].forEach(id=>$(id).addEventListener("input",render));
+$("tUS").onclick=()=>{flags.us=!flags.us;render()};$("tW").onclick=()=>{flags.w=!flags.w;render()};$("tE").onclick=()=>{flags.e=!flags.e;render()};$("tS").onclick=()=>{flags.s=!flags.s;render()};$("tU").onclick=()=>{flags.u=!flags.u;render()};
+const countries=[...new Set(D.items.map(r=>r.country).filter(Boolean))].sort();
+$("fc").innerHTML+=countries.map(c=>`<option>${esc(c)}</option>`).join("");
+$("lenses").innerHTML=["K1","K2","K3"].map(k=>`<button class="lens ${k}" data-k="${k}"><h3>${k} · ${LN[k]} <span>${D.items.filter(r=>(r.lenses||[]).includes(k)).length}</span></h3><p>${esc(D.lenses[k])}</p></button>`).join("");
+$("lenses").onclick=e=>{const l=e.target.closest(".lens");if(!l)return;lensSel=lensSel===l.dataset.k?"":l.dataset.k;render()};
+$("stats").innerHTML=Object.entries(D.stats).map(([l,v])=>`<div class="st"><b>${fmt(v)}</b><span>${esc(l)}</span></div>`).join("");
+$("sub").textContent=`Small-developer apps outside the US that relate to our three concepts · snapshot ${D.date}`;
+$("comm").innerHTML=(D.communities||[]).map(c=>`<tr><td>${c.evidence_url?`<a href="${esc(c.evidence_url)}" target="_blank" rel="noopener">${esc(c.name)}</a>`:esc(c.name)}${c.size_hint?` <span class="small">${esc(c.size_hint)}</span>`:""}</td><td>${esc(c.region)}</td><td>${esc(c.language)}</td><td>${esc(c.role)}</td><td>${esc(c.why)}</td></tr>`).join("")||'<tr><td colspan="5" class="small">No communities recorded yet.</td></tr>';
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,3277 @@
+{
+  "apps": {
+    "1576857102": {
+      "core": "Replaces pressure-based fitness tracking with permission to rest, so the user can build an exercise habit without feeling they are failing a test, and gradually learns to trust their own body signals.",
+      "trigger": "Burnout from all-or-nothing trackers (\"Apple’s rings feel like high pressure and lead to feelings of failure\"), returning to activity after illness (\"ease into an active lifestyle again\"), and wanting daily push-or-rest guidance without being a data cruncher; mostly Apple Watch owners looking for a daily readiness read.",
+      "retention": "Cue: first thing in the morning (sleep and readiness check, home-screen widget) -> Action: follow a tougher or easier workout suggestion and record it -> Reward: a readiness snapshot, Activity Path progress and explicit permission to rest -> Feeling: encouraged, balanced, self-aware. Rest days sit inside the loop, so a missed day does not break the habit (\"without feeling all-or-nothing\"). Habit evidence: \"first app I open every morning\", \"One of the few apps that I open and use daily\".",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "summary": "Users define the app against pressure: it \"feels encouraging\", rewards balance and rest, and one reviewer says they are \"motivated by positivity\". The only dissonance is a few adult users who find the cute presentation \"babyish\".",
+        "quotes": [
+          {
+            "rating": 4,
+            "text": "While Apple’s rings feel like high pressure and lead to feelings of failure, Gentler Streaks feels encouraging and keeps me exercising."
+          },
+          {
+            "rating": 5,
+            "text": "I am motivated by positivity so this is the first app I open every morning"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I’ve learned how to listen to my body and take rest days when needed"
+          },
+          {
+            "rating": 5,
+            "text": "I know I shouldn’t need the app to validate that I need rest"
+          },
+          {
+            "rating": 5,
+            "text": "I’m a psychologist who preaches healthy habit forming"
+          },
+          {
+            "rating": 5,
+            "text": "Abundante, exitosa,bendecida"
+          }
+        ],
+        "note": "Identity is self-trust rather than performance: the app teaches the user to read their own body and gives permission to rest. The Spanish-language 5-star is a manifestation-style self-label rather than a product review (my translation: abundant, successful, blessed; I always attract good things)."
+      },
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "Cute graphics are praised in 2 positive reviews (\"it’s adorable\", \"the graphics! Adorable.\") and one 2-star says \"It’s cute\"; but 2 adult reviewers call the presentation childish (\"babyish\"), so cute is polarizing. Visual summaries are valued as comprehension aids (\"great visual for understanding balance in movement and rest\")."
+      },
+      "social": "Low. No friends, leaderboards or sharing appear in the sample. The social signal is trust in a small team: a very responsive support team (\"Wonderfully human!\"), indie ownership, and a psychologist reviewer who recommends it professionally. Cross-app comparison appears once: a user running Hume, Withings and Gentler Streak finds \"polar opposites in recommendations\".",
+      "money": {
+        "pays_for": "Premium subscription for daily readiness and coaching. One reviewer pays for Gentler Streak premium alongside Withings and Hume premiums; another says \"I will renew and maybe even upgrade to Premium\".",
+        "price_points": [],
+        "paywall_complaints_in_sample": 3,
+        "notes": "Strict paywall/price complaints: price called too expensive, a paywall revealed after personal data was imported, menstruation data behind the subscription. Two more are value-for-money complaints (\"not happy about spending the money\", \"A complete waste of money\"). Money friction coexists with 5-star ratings (renewing while unhappy)."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Only one explicitly gendered review (a 2-star calling paywalled menstruation data the \"Pink Tax\"). Adorable/cute language is not gendered; most reviewers talk about endurance sport, Apple Watch Ultra, illness recovery and a psychologist's view, so the sample skews adult and health-journey, not obviously Gen Z or female."
+      },
+      "quotes": [
+        {
+          "rating": 4,
+          "text": "While Apple’s rings feel like high pressure and lead to feelings of failure, Gentler Streaks feels encouraging and keeps me exercising."
+        },
+        {
+          "rating": 5,
+          "text": "I’ve learned how to listen to my body and take rest days when needed because of Gentler Streak."
+        },
+        {
+          "rating": 5,
+          "text": "I know I shouldn’t need the app to validate that I need rest, but it really does help me back off when I am torn between pushing too hard and resting."
+        },
+        {
+          "rating": 5,
+          "text": "I LOVE that this app always encourages balance and self-awareness above just pushing through to some arbitrary goal."
+        },
+        {
+          "rating": 2,
+          "text": "It’s very frustrating that menstruation data requires a subscription."
+        }
+      ],
+      "anti_patterns": [
+        "AI features perceived as shoved in: 2 reviews, e.g. \"being shoved into everything\"; \"Eff AI. Not interested in AI so I'm deleting\".",
+        "Paywall revealed after personal data was already imported: 1 Chinese-language 1-star (my translation).",
+        "Menstruation data behind the subscription, called the \"Pink Tax\": 1 review.",
+        "Ads in the free tier: \"every 5 seconds there was a add\" (1).",
+        "Recommendations that ignore strength training: \"doesn’t recognize the benefit of anything other than doing cardio\" (1).",
+        "Update regressions and bugs: 2 low-star reviews, e.g. \"Horrible update\"; plus a 5-star about watch lock-ups.",
+        "Babyish presentation or annoying cute language for adult users: 2 reviews.",
+        "Not intuitive for some: \"I might as well just fill in a spreadsheet\" (1)."
+      ]
+    },
+    "1264782561": {
+      "core": "Gives the user a daily, personal-sounding reading of themselves and their relationships that turns uncertainty into something to orient by: comfort and a feeling of being seen when it lands, shame and dread when it turns negative.",
+      "trigger": "Curiosity that becomes a need for daily guidance (\"daily guidance and to get clarity on the now and what’s to come\"); skeptics won over by writing that feels personal (\"I was skeptical at first\"); relationship and friendship questions (compare charts with friends); a therapist substitute (\"My therapist\").",
+      "retention": "Cue: waking up and the daily push notification (\"one of the first things I check when I wake up\") -> Action: read the day's horoscope (and friends' compatibility) -> Reward: a line that feels uncannily true, delivered unpredictably (\"Hit or miss but when it hits\") -> Feeling: seen, oriented, occasionally unsettled. Pay layer: question bundles in the Void. The loop breaks when text feels AI-written or generic (\"I don’t even check it anymore but I would every single day when I wake up\").",
+      "emotional_tone": {
+        "class": "mixed",
+        "secondary": "gentle/safe/cozy for fans (comfort, guidance) versus pressure/guilt/shame for detractors (negativity, fear)",
+        "summary": "Positive reviews use comfort language (\"Comfort Food\", \"light in the dark\"); the low-star pile is dominated by tone: 7 reviews (1-4 stars) call it negative, fear-mongering or invalidating (e.g. \"weirdly committed to making you feel worse about yourself\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Like a light in the dark in a way."
+          },
+          {
+            "rating": 2,
+            "text": "weirdly committed to making you feel worse about yourself"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "the relationship between my sign and my characteristics began to really come together and allowed me an opportunity to look and think further about my life from a much more balanced perspective"
+          },
+          {
+            "rating": 5,
+            "text": "My therapist. Spot on everyday."
+          },
+          {
+            "rating": 4,
+            "text": "it’s made me feel worse about myself, rather than just reflective about my flaws"
+          }
+        ],
+        "note": "The sign/chart works as a self-explanation system and a therapy-like outlet, which is why negativity lands as an identity blow rather than as bad content."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Visual design is barely mentioned (one 2-star calls it \"polished, provocative\"). What users judge is voice and writing quality (\"the writing\", \"word salad\", AI \"emdashes\") and whether the daily presentation changed (\"I prefer the older presentation\")."
+      },
+      "social": "Medium. Adding friends to compare charts is a core feature: users want to \"mute friends\" out of their daily readings, a bug unblocks blocked people after contact sync, and a 3-star lapsed user misses the time when \"You could add your friends and learn to read charts\" was free. Readings also leak into real relationships (\"telling me to break up with my partner\").",
+      "money": {
+        "pays_for": "Premium layer: Void pay-per-question bundles (\"You pay to have specific questions answered\"), full charts and reports; one reviewer says it was \"Worth it\".",
+        "price_points": [
+          "About $50 for a year, ordered by mistake instead of a month (1-star)",
+          "Void bundle reportedly charged 5x for a single bundle (1-star)"
+        ],
+        "paywall_complaints_in_sample": 4,
+        "notes": "Complaints cluster on the pay-per-question Void (money taken when no answer is produced, 5x charge) and on refunds being routed through Apple; one lapsed user mourns features that used to be free."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "No explicit gender self-reference, but strong soft signals: Gen Z register (\"lowkey\", \"W t f\", \"word salad\"), relationship, love and ex-partner content, friends' compatibility, therapy-substitute framing (\"My therapist\") and a pop-star endorsement in the description. The skew is inferred, not stated."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "It gives me like a path to follow if that makes sense."
+        },
+        {
+          "rating": 5,
+          "text": "My therapist. Spot on everyday."
+        },
+        {
+          "rating": 5,
+          "text": "Hit or miss but when it hits it’s like w t f? How did you know"
+        },
+        {
+          "rating": 2,
+          "text": "weirdly committed to making you feel worse about yourself"
+        },
+        {
+          "rating": 1,
+          "text": "Part of the allure of CoStar was that it was personal."
+        }
+      ],
+      "anti_patterns": [
+        "Negative, fear-mongering tone: 7 reviews, e.g. \"Doom and gloom 247\".",
+        "Harmful relationship advice: \"telling me to break up with my partner\" (1).",
+        "AI-written, generic horoscopes: 3 reviews, e.g. \"Now everything is written by ai and is just word salad\".",
+        "Void billing traps and slow refunds: 3 reviews (money taken when no answer is given, 5x charge, a year ordered instead of a month with an unfriendly support reply).",
+        "A formerly free feature turned paid: \"Use to be free\" (1).",
+        "Social-safety bug: contact sync unblocks blocked people (1).",
+        "No way to mute friends in the daily readings (1, 4-star).",
+        "Perceived inaccuracy: predictions \"wrong 99% of the time\"; \"It’s wrong most of the time\" (2)."
+      ]
+    },
+    "1450365119": {
+      "core": "Packages self-understanding (traits, ADHD and anxiety patterns) into short, cute assessments that give a vague inner state a name and a hopeful story; the sample shows the hook (the reveal) but no evidence of a lasting habit.",
+      "trigger": "Wanting to understand oneself (\"to love yourself, you must learn what it means to understand yourself\"), mental-health and neurotype concerns (\"people who have OCD,ADHD, ANXIETY or stress\"), a cheap entry point (a $1 test with pay-what-you-want framing), and distrust of the category (\"I never believe these kinds of apps\").",
+      "retention": "Only the entry loop is visible: Cue: curiosity or a low-price test -> Action: answer the assessment -> Reward: a result that \"helped open my eyes\", in a soft, cute wrapper -> Feeling: hope and validation. Positive reviews are first-session reactions (\"Just started. I hope it helps\"); nobody describes weeks of use. Eleven of the 12 low-star reviews are about charges and cancellation, so revenue continues without evidence of habit.",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "summary": "Soft, cute and reassuring for those who stay; trust collapses into anger when billing is hidden (\"Scam\", \"Fraud\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "This cloud make me feel so good"
+          },
+          {
+            "rating": 5,
+            "text": "A delightful escape!"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I believe to love yourself, you must learn what it means to understand yourself."
+          },
+          {
+            "rating": 5,
+            "text": "I got alot faith in it already and faith in myself."
+          },
+          {
+            "rating": 1,
+            "text": "I’m diagnosed and in therapy"
+          }
+        ],
+        "note": "Self-understanding is framed as the path to self-love. A diagnosed user rejects the label when it contradicts lived experience, which shows how exposed diagnostic-style content is to accuracy backlash."
+      },
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "2 of 11 positive reviews, but they carry the strongest emotional language in the sample: \"so sweet and cute\", a cloud mascot, \"artfully designed\", \"adorable in its graphics, colors, and design theme\", and \"audio haptics\"."
+      },
+      "social": "None in the sample (no friends, sharing or community). The only social signal is trust in the maker: \"Thank you to whoever created this app\" from fans, and anger at the company in the low-star reviews.",
+      "money": {
+        "pays_for": "A $1/$0.99 test that unlocks results under pay-what-you-want framing; one user likes it (\"I love how the app doesn’t have a set price-you choose what you pay\"). Reviewers then report an undisclosed subscription on top.",
+        "price_points": [
+          "$1 test for results (1-star)",
+          "$0.99 payment, then $29.99 attempted twice (1-star)",
+          "$14.99 extra charge after paying for results (2-star)",
+          "$17.34 results fee regardless of option chosen (1-star)",
+          "$30 charged twice a month after deleting the app (1-star)",
+          "$40 charged on download (1-star)",
+          "over $120 in disputed charges (1-star)"
+        ],
+        "paywall_complaints_in_sample": 11,
+        "notes": "Every 1-star in the sample is a billing complaint except one about inaccurate results. 12 of 23 sampled reviews are low-star, so this shows the pattern, not its prevalence."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "No gendered language in the sample. Only soft signals: \"so sweet and cute\", adorable design, self-love framing; reviewers mention OCD/ADHD/anxiety without gender. This is absence of evidence, not evidence of absence."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "This cloud make me feel so good"
+        },
+        {
+          "rating": 5,
+          "text": "I believe to love yourself, you must learn what it means to understand yourself."
+        },
+        {
+          "rating": 5,
+          "text": "I never believe these kinds of apps, they are usually ineffective and just take my money with no results."
+        },
+        {
+          "rating": 5,
+          "text": "A delightful escape!"
+        },
+        {
+          "rating": 1,
+          "text": "I only agreed to $1 for test results, and then they also charged me for a subscription."
+        }
+      ],
+      "anti_patterns": [
+        "Undisclosed extra charge or subscription after a $1 test: 10 reviews, e.g. \"You’ll get charged $40 just for downloading the app.\"",
+        "Charges continuing after cancelling or deleting: 5 reviews, e.g. \"twice a month every month you try to charge me $30\".",
+        "Cancellation errors: \"Canceling is next to impossible\" (1).",
+        "Pay-what-you-want that charges a fixed fee: \"will take the full $17.34 regardless of which option you choose\" (1).",
+        "Results judged inaccurate by a diagnosed user (1)."
+      ]
+    },
+    "493145008": {
+      "core": "Offers anxious or sleepless users a trusted, expert-led daily reset that, once anchored to a morning or bedtime routine, becomes a marker of looking after their own mind.",
+      "trigger": "Anxiety and stress (\"helped me with my anxiety issues\"), trouble falling asleep (\"hard time falling asleep\"), wanting a practice that sticks after trying other mindfulness (\"keep me practicing consistently\"), an adolescent user, and therapy referral through a partner service (SonderMind).",
+      "retention": "Cue: morning routine and bedtime -> Action: a short guided session, course or Sleepcast -> Reward: calm, sleep, a skill that compounds (\"8 years now and it’s something I keep coming back to\") -> Feeling: grounded. Leaks: content sprawl (\"doom scrolling for 15 minutes before I find a meditation\"), no easy way to resume courses, and everything locked without a subscription.",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "secondary": "ironic stress backlash when the product creates the stress it promises to remove",
+        "summary": "Fans describe calm, anxiety relief and a morning anchor; critics say the product causes the stress it claims to remove (\"Ironically, this app is not mindful in its UX design\", \"App made to reduce stress but the cost stresses me\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "I LOVE Headspace! It has really helped me with my anxiety issues."
+          },
+          {
+            "rating": 1,
+            "text": "App made to reduce stress but the cost stresses me"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I think mindfulness and breathing training are underrated."
+          },
+          {
+            "rating": 5,
+            "text": "Headspace is now my morning routine and an essential part of my life."
+          }
+        ],
+        "note": "Little identity language beyond \"life changing\" and routine. The \"Sold out\" review shows that values-based identity (anti tech-bro, anti AI health) can end a subscription."
+      },
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "3 of 20 reviews: \"visual appeal\" and \"Fabulous design\" (positive; design praised when it put daily meditation back in the \"prime spot\") against \"not mindful in its UX design\" (2-star). Design is rewarded when it simplifies and punished when clutter appears."
+      },
+      "social": "None in-app. Parasocial care for a Headspace face (\"My favorite headspace person please take care of yourself\"), and human therapists through SonderMind (one cancelled last minute and was still billed).",
+      "money": {
+        "pays_for": "Subscription that unlocks the library (Sleepcasts, courses, therapy and coach add-ons). No explicit satisfied-payer statement in the sample; even 5-star reviewers complain about the paywall.",
+        "price_points": [
+          "14-day free trial that billed a full year on acceptance (1-star)"
+        ],
+        "paywall_complaints_in_sample": 8,
+        "notes": "Complaints: \"everything has a paywall now\", no free sample (\"They don’t even offer a small sample\"), a trial that bills a year, hard cancellation, and a therapist session billed though cancelled."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "No gendered language; reviewers include an adolescent and an 8-year meditator. Nothing in the sample indicates a female or Gen Z skew."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "Headspace is now my morning routine and an essential part of my life."
+        },
+        {
+          "rating": 4,
+          "text": "I’ve been using Headspace to meditate for 8 years now and it’s something I keep coming back to."
+        },
+        {
+          "rating": 5,
+          "text": "My favorite headspace person please take care of yourself."
+        },
+        {
+          "rating": 1,
+          "text": "App made to reduce stress but the cost stresses me"
+        },
+        {
+          "rating": 1,
+          "text": "I feel more lost than when I decided I needed to meditate in the first place."
+        }
+      ],
+      "anti_patterns": [
+        "Everything behind the paywall: 8 reviews mention paywall, price or billing (e.g. \"cant do nun without a subscription dont even bother\").",
+        "Trial that bills a full year: \"immediately charged for an entire year\" (1); hard-to-cancel flow (1).",
+        "AI companion and AI content: 3 reviews, e.g. \"The addition of an AI is not only unhelpful but unethical as well\" and a \"Sold out\" complaint about the AI-health acquirer.",
+        "Navigation clutter that causes stress: 3 reviews (2 low-star plus a 4-star that cannot resume courses).",
+        "Therapy referral that cancels last minute yet bills (1).",
+        "Not enough sleep meditations over 20 minutes (1).",
+        "Previously free features now paid: \"a previously free app has an overhaul and puts every previous feature behind a paid membership\" (1)."
+      ]
+    },
+    "571800810": {
+      "core": "A soothing bedtime ritual in which a trusted voice puts the user to sleep and helps regulate their emotions, making night-time feel safe and held.",
+      "trigger": "Insomnia (\"persistent insomnia\"), anxiety and overthinking (\"My struggle with anxiety and overthinking is real\"), grief and heartbreak, COVID stress; referred by a doctor (\"Kaiser Dr. recommended\"), by advice to try guided meditation, or through an employer benefit (\"had a free calm subscription\").",
+      "retention": "Cue: bedtime, waking in the night, morning -> Action: press play on a Daily Calm, Sleep Story or soundscape -> Reward: falling asleep, calm, a favorite narrator -> Feeling: soothed and cared for (\"Matthew giving me sweet purs like a kitten goodnight\"). Stacked across the day: \"Start the day with a Daily and end with a sleep story.\" Retention is multi-year (\"about six years\", \"since COVID started\") and paid.",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "summary": "The most consistently cozy tone in the packet: calm, sleep, healing, peace. The sharpest backlash is irony: a paying user bothered by a persistent upsell banner says it makes them feel \"the opposite of calm\".",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "the Calm app allows me to regulate and relax my emotions, allowing me to make healthier decisions."
+          },
+          {
+            "rating": 3,
+            "text": "something that makes me feel the opposite of calm every time I open the app"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I feel so rich again"
+          },
+          {
+            "rating": 5,
+            "text": "I wasn’t usually someone who mediated or felt like I needed something or someone to calm me down."
+          },
+          {
+            "rating": 5,
+            "text": "You have a power to change your mind, literally."
+          },
+          {
+            "rating": 5,
+            "text": "I am a spiritual being having a human experience"
+          }
+        ],
+        "note": "Calm shifts self-image from someone who cannot sleep or calm down to someone who can regulate themselves; peace is described as wealth (\"more priceless and more expensive is peace of mind\")."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Visuals are almost never mentioned; the aesthetic is auditory: narrator voices, soundscapes, stories (\"immersive, beautiful\"). One accessibility request from a visually impaired user."
+      },
+      "social": "Low in-app. Strong parasocial attachment to named narrators (\"Matthew\", \"Harry Styles\", \"Rége Jean Page\"), household use through the family plan (3 complaints), and recommendation language (\"You definitely should pay for it. Totally worth it!\").",
+      "money": {
+        "pays_for": "Annual subscription and family plan. Satisfied payers say \"paid version is awesome and perfect\" and \"You definitely should pay for it\"; a long-term \"paid subscriber\" asks only for playlist ordering.",
+        "price_points": [
+          "$80 (annual), in a complaint about an upsell banner (3-star)",
+          "about $85, premium content not received (1-star)",
+          "$100 family plan that does not work (1-star)"
+        ],
+        "paywall_complaints_in_sample": 6,
+        "notes": "Complaints are about the family plan, refunds and support, not about paying for core content; 3 of the 30 positive reviews explicitly say they pay and are satisfied."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "No explicit gender markers. Soft signals only: celebrity-narrator fandom with flirtatious wording (\"Father daddy\", \"sweet purs like a kitten\"), grief and heartbreak stories, and a family-plan complaint from someone with \"My husband\" and \"my daughter\"."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "Start the day with a Daily and end with a sleep story."
+        },
+        {
+          "rating": 5,
+          "text": "the Calm app allows me to regulate and relax my emotions, allowing me to make healthier decisions."
+        },
+        {
+          "rating": 5,
+          "text": "My fav part is Matthew giving me sweet purs like a kitten goodnight"
+        },
+        {
+          "rating": 5,
+          "text": "You definitely should pay for it. Totally worth it!"
+        },
+        {
+          "rating": 3,
+          "text": "something that makes me feel the opposite of calm every time I open the app"
+        }
+      ],
+      "anti_patterns": [
+        "Upsell banner shown to a paying subscriber: \"immovable ad to upgrade to a family plan right under my progress bar\" (1).",
+        "Billing, family-plan failures and slow support: 5 reviews, e.g. \"a routine support request took 4 weeks to resolve\".",
+        "Updates that break habits: \"You keep making unhelpful changes to the app\" (1); shuffle/Bluetooth bug (1).",
+        "Long narrator intros: \"Why does a person need to introduce themselves\" (1).",
+        "No way to reorder playlists (1, 4-star).",
+        "Accessibility and bilingual gaps: 2 reviews."
+      ]
+    },
+    "1049234587": {
+      "core": "A woman-first, coach-led program that converts a history of failed workout attempts into visible consistency and pride, through a trusted female trainer, stage-of-life programming (including postpartum) and a community that makes the user feel they belong.",
+      "trigger": "Life resets, especially postpartum and pregnancy (\"recovering postpartum with my first baby\"), baby weight and stress eating, and many failed attempts at consistency (\"After many failed attempts at consistency\"); wanting a personal trainer at home; trust in Kayla and a \"woman first approach\".",
+      "retention": "Cue: the program calendar and weekly plan, plus mid-year challenges -> Action: follow a guided, progressive workout at home or in the gym -> Reward: a consistency tally (\"24 wks consistent\"), body change, trainer encouragement -> Feeling: capable, proud, supported by \"like-minded women\". Multi-year retention in the sample (4, 5, 6 and 10 years). Leaks: rigid workout flow and trial billing.",
+      "emotional_tone": {
+        "class": "mixed",
+        "secondary": "supportive, slow progression plus warm accountability (hype-lite); no shame language in the sample",
+        "summary": "Encouraging push from a trusted woman (\"Thanks girl for the push!\"), slow progression (\"Slow and steady wins the race\"), no guilt language; the only anger is about unforgiving billing (\"Extremely unforgiving company\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Thanks girl for the push!"
+          },
+          {
+            "rating": 5,
+            "text": "Slow and steady wins the race."
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "After many failed attempts at consistency in my previous workout journey I actually completed it."
+          },
+          {
+            "rating": 5,
+            "text": "That’s a huge accomplishment for me."
+          },
+          {
+            "rating": 5,
+            "text": "Mommas!!"
+          },
+          {
+            "rating": 5,
+            "text": "Forever a Kayla fan"
+          },
+          {
+            "rating": 5,
+            "text": "my whole life and physique has changed"
+          }
+        ],
+        "note": "The strongest identity pattern among the fitness apps: from someone who fails at consistency to someone who completes; plus a group identity as mothers and fan loyalty to a named trainer."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "UI design is mentioned once (\"great design and thought process\"). Appearance talk is about the body (\"physique has changed\", \"Down 45 pounds\"), not the interface."
+      },
+      "social": "Medium-high. Community is a stated reason to stay (\"the SWEAT community is awesome!\"), virtual community challenges are core to the offer, and word of mouth is active in both directions (a burned user: \"I've already convinced each not to support a company like this\").",
+      "money": {
+        "pays_for": "Subscription for programs, on-demand workouts and meal plans: \"So worth the money!\"; multi-year subscribers (4, 5, 6 and 10 years).",
+        "price_points": [
+          "$30 charged for an unused trial, refund refused (1-star)"
+        ],
+        "paywall_complaints_in_sample": 3,
+        "notes": "3 strict billing complaints (+1 value-for-money 3-star, +1 unspecified \"Scam\" 1-star). A 7-day trial charged immediately in two reports; refund requests refused."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Product is explicitly for women (\"Fitness App For Women\"); reviewers speak as mothers and women: \"Mommas!!\", \"momma of 3\", postpartum or pregnancy in 4 reviews, \"woman first approach\", \"Thanks girl\", Spanish \"app para mujeres\". Caveat: visible reviewers skew mothers aged 30+; Gen Z is not evidenced."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "I’ve tried every single group fitness option out there as well as personal trainers and I am 24 wks consistent w SWEAT app. That’s a huge accomplishment for me."
+        },
+        {
+          "rating": 5,
+          "text": "After many failed attempts at consistency in my previous workout journey I actually completed it."
+        },
+        {
+          "rating": 5,
+          "text": "Sweat takes out the guess work and whatever stage of life I’m at, there is a sweat workout for that."
+        },
+        {
+          "rating": 5,
+          "text": "Thanks girl for the push!"
+        },
+        {
+          "rating": 1,
+          "text": "I've already convinced each not to support a company like this."
+        }
+      ],
+      "anti_patterns": [
+        "Trial and refund friction: 3 reviews (plus an unspecified \"Scam\" 1-star), e.g. \"They have a 7 day free trial and I did it but they charged me immediately\".",
+        "Crashes and glitches: 3 reviews, e.g. \"The app crashes or takes an extremely long time to open.\"",
+        "Rigid in-workout flow (cannot reorder, skip and return, or split supersets at a busy gym; an easy-to-hit skip button with no undo): 4 reviews, e.g. \"you can’t reorder the exercises or split up supersets and circuits\".",
+        "Repetitive programming (1)."
+      ]
+    },
+    "6443820380": {
+      "core": "Removes every excuse and decision between wanting to move and having moved (the user sets time, music, voice and focus; a fresh session is generated), so they can practise privately and without self-consciousness.",
+      "trigger": "Wanting to return to Pilates without a studio (\"afraid to go to a class since it has been a while\"), little time (\"12 min\"), self-consciousness (\"self conscious about working out in front of others\"), back pain, depression and anxiety during the pandemic; many are existing Down Dog yoga users.",
+      "retention": "Cue: any free 10-12 minutes, travel, evenings (\"I’m gonna do this every night (or at least try)\") -> Action: pick duration, focus, music and voice, then press start -> Reward: a finished session in the time available, strength, pain relief (\"my back pain is gone\") -> Feeling: capable and calm. Variety (\"endlessly unique sequences\") prevents boredom and the bundle of all Down Dog apps raises the cost of leaving. Multi-year tenure (3 and 5 years).",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "secondary": "firm self-accountability edge that users read as empowering, not shaming",
+        "summary": "Low-drama and non-judging (\"Not overwhelming\", \"without too much drama\") with a self-accountability edge (\"eliminates the ability to excuse yourself\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Not overwhelming."
+          },
+          {
+            "rating": 5,
+            "text": "without too much drama"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I set up my room like a yoga studio."
+          },
+          {
+            "rating": 5,
+            "text": "The down dog apps have changed my practices which has changed my life."
+          },
+          {
+            "rating": 5,
+            "text": "it eliminates the ability to excuse yourself!"
+          },
+          {
+            "rating": 5,
+            "text": "It helped me battle depression and anxiety by being more active and taking care of my body."
+          }
+        ],
+        "note": "Identity is built through the ritual itself (a dedicated room, a practice) and through self-discipline made easy; one reviewer self-identifies as a teacher (\"Perfect for Teachers\")."
+      },
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "About 4 of 33 reviews touch aesthetics: a room painted \"dark taupe\" as a practice space, video transitions that are \"not robotic\", filters and music, and a Russian-language 3-star (my translation) that prefers the old interface: thin wide font, thin lines and semi-transparent colors, clean and Apple-like."
+      },
+      "social": "Word of mouth only: \"I recommend it to everyone I love\", \"I recommend it to everyone I talk to about health\"; no in-app social; some practise with kids (\"something the kids can do too\").",
+      "money": {
+        "pays_for": "A single purchase that includes Pilates plus all Down Dog apps (yoga, HIIT and more). The cleanest willingness-to-pay language in the packet: \"Best fitness purchase one can make\", \"Worth the pay\", \"Completely worth it\", \"reasonably priced\", \"The greatest purchase I’ve ever made and I own a home\".",
+        "price_points": [],
+        "paywall_complaints_in_sample": 0,
+        "notes": "6 of 30 positive reviews explicitly say it is worth the money and no paywall complaint appears anywhere in the sample, which suggests that bundle + customization + no billing surprises is a pay-friendly design."
+      },
+      "female_signal": {
+        "level": "medium",
+        "evidence": "Pilates and yoga are women-coded categories and the description sells \"Sculpt gorgeous lean muscle\", but there is no explicit gender self-reference; reviewers include teachers, parents and \"I’m 60 yrs old\". Soft signals only: self-conscious about group classes, love-life improvement, a room-as-studio ritual."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "I love that I can decide how much I want to workout without too much drama or endless hours of finding the perfect routine in yt."
+        },
+        {
+          "rating": 5,
+          "text": "I love this app bc it eliminates the ability to excuse yourself!"
+        },
+        {
+          "rating": 5,
+          "text": "10 minutes is better than 0!"
+        },
+        {
+          "rating": 5,
+          "text": "I wanted to get back into Pilates but was afraid to go to a class since it has been a while."
+        },
+        {
+          "rating": 5,
+          "text": "I set up my room like a yoga studio."
+        }
+      ],
+      "anti_patterns": [
+        "A redesign that removes orientation and adds friction: \"They undid the UX that made it great\" (1); a Russian-language 3-star also wants the old interface (1).",
+        "Level calibration: \"Advanced beginner is difficult\" (1).",
+        "Holds too short for an older user: \"hold for a couple seconds longer\" (1, inside a 5-star).",
+        "Missing reformer-at-home option (1, inside a 5-star).",
+        "Only 3 low-star reviews in the sample, so the negative evidence is thin."
+      ]
+    },
+    "6480417616": {
+      "core": "Turns the dreaded chore of logging food into a ten-second photo, so the user feels aware, accountable and in control of their body, at the price of streak pressure and diet-culture framing.",
+      "trigger": "Weight-loss or \"dream body\" goals, wanting to see what is really being eaten (\"how much unnecessary food i was eating\"), earlier dieting that felt restrictive (\"Tracking calories used to feel restrictive\"); teen users appear (\"Hey Im OLNY 16\"; \"I really want to lose weight\").",
+      "retention": "Cue: every meal -> Action: snap a photo, scan a barcode or log in seconds -> Reward: instant calories and macros, colored rings, a streak counter, weight trending down -> Feeling: accountable and in control (\"Keeps you accountable\"; \"It has kept me accountable and the weight coming off\"). The streak (395 days in one review) is both the main lock-in and the main rupture: a lost streak triggers a \"$10\" restore offer.",
+      "emotional_tone": {
+        "class": "mixed",
+        "secondary": "accountability/control (pressure-adjacent) plus relief from effort; streak loss triggers anger; no explicit shame language in the sample",
+        "summary": "Positive reviews describe relief from the effort of tracking (\"used to feel restrictive, but this makes it incredibly easy\") and a sense of being held accountable; the negative emotion appears at streak loss (\"it just kills my desire to use it from here on\") and in onboarding anger.",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Tracking calories used to feel restrictive, but this makes it incredibly easy to scan foods, adjust portions, and stay within my goals without giving up the foods I enjoy."
+          },
+          {
+            "rating": 5,
+            "text": "Keeps you accountable."
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I’m finally sticking to my diet!"
+          },
+          {
+            "rating": 5,
+            "text": "For the first time in a long time, I’m losing weight in a way that actually feels sustainable."
+          },
+          {
+            "rating": 5,
+            "text": "Great helping me in my lifestyle change and keeping track of all my calories good or bad , learning how to be the best for my life"
+          }
+        ],
+        "note": "Identity is finally consistent and in control; there is also a moralized food vocabulary (\"calories good or bad\")."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "No cute or aesthetic talk. The UI is judged on function: \"Rings are constantly flipping colors\", and a 2-star says the app feels \"vibe coded\"."
+      },
+      "social": "Low. One peer recommendation (\"Taylor said it’s really good\") and a couples context (\"my boyfriends app\"); no in-app social.",
+      "money": {
+        "pays_for": "Subscription that unlocks scanning (hard paywall after a 3-day trial according to reviewers; the description says \"FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION\"). One user has paid for premium for almost two years (\"I have had the premium subscription for almost two years\").",
+        "price_points": [
+          "$10 asked to restore a lost 395-day streak (4-star)"
+        ],
+        "paywall_complaints_in_sample": 7,
+        "notes": "A 5-star calls it \"free!\", an expectation mismatch with the hard paywall. The streak restore fee is the most explicit price point and is called \"So unnecessary and unwise.\""
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Only weak hints: \"my boyfriends app\", a self-described 16-year-old who wants to lose weight (gender not stated), \"dream body\" positioning in the description, and Gen Z register (\"vibe coded\"). No explicit female self-reference, so a female skew is not evidenced."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "Keeps you accountable."
+        },
+        {
+          "rating": 5,
+          "text": "For the first time in a long time, I’m losing weight in a way that actually feels sustainable."
+        },
+        {
+          "rating": 4,
+          "text": "lost my 395-day streak. The app immediately asked for $10 to restore it."
+        },
+        {
+          "rating": 1,
+          "text": "Just five minutes in, worn down by the surveys, I made a few quick selections without reading and was presented with a membership that only offered the option to sign up and cancel."
+        },
+        {
+          "rating": 5,
+          "text": "I really want to lose weight but it’s hard for me"
+        }
+      ],
+      "anti_patterns": [
+        "Charging to restore a streak (\"why charge for streak?\") and streaks dropped by technical faults (2 reviews).",
+        "Paywall revealed only after onboarding surveys and personal data: 3 reviews, e.g. \"Only after collecting all your personal info and making you create the account does the app reveal there is no free version at all\".",
+        "Cancellation near-impossible: 2 reviews, e.g. \"Canceling practically impossible\".",
+        "Scan and calculation inaccuracy: 4 reviews, e.g. \"It doesn’t know the difference between chicken or tuna\".",
+        "Buggy, \"vibe coded\" feel and a broken AI support bot (1).",
+        "Night-shift meal grouping and weak search (2)."
+      ]
+    },
+    "1038369065": {
+      "core": "Makes the body predictable and understandable (cycle, fertility, pregnancy), so the user feels informed and in control, like a knowledgeable friend explaining what is happening.",
+      "trigger": "Predicting periods and ovulation, trying to conceive or PCOS (\"Helped me get pregnant with PCOS\"), first pregnancy or first-time mom, a body-education gap (\"Public school did me wrong\"), teen first-time users (the age field says \"13+\"), and partners following a cycle.",
+      "retention": "Cue: period and ovulation windows, pregnancy weeks, daily check -> Action: log symptoms, read personalized content -> Reward: accurate predictions, reassurance, week-by-week baby development -> Feeling: informed and in control. Lock-in comes from years of logged data and life-stage continuity (\"Free and paid, trying and not trying to have a baby, switching to pregnancy, watching my baby grow\").",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "secondary": "anxiety when prediction windows are fuzzy",
+        "summary": "Warm, friend-like language (\"My girl\", \"encouragement\") and reassurance; stress appears when predictions widen (\"confusing and stressful\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Great for education, tracking, and encouragement!"
+          },
+          {
+            "rating": 4,
+            "text": "this gets confusing and stressful"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I knew nothing about my body, how it worked or anything until this app."
+          },
+          {
+            "rating": 5,
+            "text": "this is something for every woman"
+          },
+          {
+            "rating": 5,
+            "text": "Best tracker for women."
+          },
+          {
+            "rating": 5,
+            "text": "told my doctor that I wouldn’t be ovulating until around day 23 because of how long my cycles were"
+          }
+        ],
+        "note": "Body literacy and self-advocacy (trusting her own cycle data over a first medical reaction); woman is an explicit identity frame."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "No design comments; reviewers add heart emojis, but visual design is not a stated reason to use or pay. The value is accuracy and information."
+      },
+      "social": "Medium. Partner use is real and under-served: \"track my wife’s cycle\", a Spanish-language review (my translation) celebrating being able to see what is happening with a partner, and an Arabic-language 1-star (my translation) saying the partner-sharing option is very difficult. Community posts exist but sit behind the paywall (\"you can look at other people’s post\"). Word of mouth: \"you should use it\".",
+      "money": {
+        "pays_for": "Subscription for pregnancy/TTC modes, learning content and community. Satisfied users say \"you will get something out of it\" (a 5-year user covering free and paid phases) and \"Worth it!\"; no price point is stated.",
+        "price_points": [],
+        "paywall_complaints_in_sample": 7,
+        "notes": "4 reviews describe the sunk-cost ambush: a very long questionnaire (e.g. \"100 questions\") and then a paywall before any data is visible; one says \"Everything is behind a subscription that you have to pay for\"."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "Explicitly about women's bodies: \"Best tracker for women\", \"something for every woman\", PCOS, pregnancy and \"first time mom\", \"My girl\"; also Gen Z/teen traces (\"it says 13+\", \"Public school did me wrong\"). Partners (a husband tracking a wife) are a minority."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "I knew nothing about my body, how it worked or anything until this app."
+        },
+        {
+          "rating": 5,
+          "text": "this app was always accurate at when I would be starting my period."
+        },
+        {
+          "rating": 5,
+          "text": "this is something for every woman"
+        },
+        {
+          "rating": 1,
+          "text": "You have to answer, without exaggeration, 100 questions. It took me five entire minutes to try to set up a period app just for it to then say I HAVE to have a subscription!"
+        },
+        {
+          "rating": 1,
+          "text": "YOUR TELLING ME I HAVE TO PAY THEM SO I CAN SEEMY HEALTH THATS O DUMB LIKE"
+        }
+      ],
+      "anti_patterns": [
+        "Paywall on own data after a 100-question onboarding: 4 reviews (e.g. \"Went through the longest questionnaire I’ve ever been through only to find out at the end you have to pay for it every month\").",
+        "Pop-ups to subscribe before the user can see their own data: \"you get hit with a whole bunch of pop ups to subscribe before you can even see your stuff\" (1).",
+        "Subscription notifications and ads: \"Can you ease off the ads subscription notifications\" (1).",
+        "Paywalled learning and community content (1).",
+        "Generic content: \"The articles are super basic and not actually customized to the user\" (1).",
+        "A two-week prediction window creates stress (1, 4-star).",
+        "Bugs and unhelpful support (2): wrong date shown, birth control reset failing.",
+        "Narrow logging vocabulary (2): no Plan B option, symptoms missing.",
+        "No basal body temperature sync (1); partner sharing hard and no Arabic (1); age field cannot hold the user's birth year (1)."
+      ]
+    },
+    "570060128": {
+      "core": "Turns self-improvement into a light daily game whose streak, owl mascot and tiny wins make showing up feel satisfying and skipping feel playfully guilt-inducing.",
+      "trigger": "Wanting to learn a language fast and cheaply (travel, school frustration: \"teaches better than my years of Spanish in school\"), liking learning without social pressure (\"I hate when I have to learn face to face\"), chess as a new draw; many reviewers look like kids, teens or non-native English speakers.",
+      "retention": "Cue: push reminder and the owl (\"it reminds you when to do it so you don’t lose your streak\") -> Action: a bite-sized lesson -> Reward: streak counter (\"the streak thingy is so satisfying\"), progress, gems and coins -> Feeling: pride mixed with mild guilt (\"Spanish or vanish. let me out im sorry i forgot my lesson\"). Loss aversion is explicit: \"my streak will go back to one\".",
+      "emotional_tone": {
+        "class": "hype/competition",
+        "secondary": "playful guilt (streak loss aversion, owl guilt-trip); scary for some children",
+        "summary": "Fun, game-like and satisfying; streak-loss anxiety is part of the fun for fans (\"I don’t wanna lose my streak\") and a source of fear for a child (\"gave me nightmares\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "the streak thingy is so satisfying"
+          },
+          {
+            "rating": 5,
+            "text": "let me out im sorry i forgot my lesson"
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "I’m on a roll."
+          },
+          {
+            "rating": 5,
+            "text": "I know so much Japanese in just 16 day"
+          }
+        ],
+        "note": "Identity statements are thin (an achievement of knowing a language); the self-image is playful rather than aspirational."
+      },
+      "aesthetics": {
+        "importance": "medium",
+        "evidence": "The mascot and characters are central: \"Thank you duo!!!!!!\", an owl that people apologize to and fear, avatar suits (a 3-star calls the suit situation \"a scam\"), a request for \"liquid glass\" design, and a fire emoji for the streak."
+      },
+      "social": "Medium. Family sharing (\"I sent the family link to my husband and our sons\"), a friends feature users miss when it breaks (\"can’t add friends\"), nostalgia for free discussion forums (\"they used to have free discussion forums\"), and recommendation language (\"hope you also download Duolingo\").",
+      "money": {
+        "pays_for": "Super/Max/Family plans mainly to remove ads and energy limits. Satisfied payers: \"I still highly recommend the paid pro\", \"SUPER Duolingo is super!\", a long-time yearly family-plan holder; an ex-payer paid \"because I wanted this app to stay in business\".",
+        "price_points": [
+          "In-app currency: down 3000 coins on a chess event with duplicate pieces (4-star)"
+        ],
+        "paywall_complaints_in_sample": 9,
+        "notes": "Young users complain that ads and energy punish those who \"can’t afford that money\" and that \"only rich people buy the doulingo trials\"; adult ex-payers refuse to pay for \"AI slop\". The sample shows both pay-to-remove-friction and refusal to pay for streak freezes."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "No gender markers; many reviewers look like children, teens or non-native English users; one reviewer mentions \"my husband and our sons\" (likely a mother) but nothing systematic."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "the streak thingy is so satisfying"
+        },
+        {
+          "rating": 4,
+          "text": "I don’t wanna lose my streak I have it for 14 days."
+        },
+        {
+          "rating": 5,
+          "text": "let me out im sorry i forgot my lesson"
+        },
+        {
+          "rating": 1,
+          "text": "Now they charge you real money to buy streak freezes."
+        },
+        {
+          "rating": 1,
+          "text": "The ai is overly noticeable."
+        }
+      ],
+      "anti_patterns": [
+        "Energy limits and ads that push Super: 5 reviews, e.g. \"They push ads twice as hard as they used to\".",
+        "Monetized streak freezes (1) and duplicate-heavy avatar suits and event pieces perceived as rigged (2), e.g. \"you purposely give duplicates\".",
+        "AI-generated lessons and an AI-first direction: 3 reviews, e.g. \"the baby knocked out the father\".",
+        "Content mismatch for travelers: \"it teaches me incorrect stuff\" (1).",
+        "Lost social features: friends and forums (2).",
+        "A scary mascot for a child (1)."
+      ]
+    },
+    "1405323394": {
+      "core": "A daily prayer ritual with trusted voices that lets the user feel closer to God and become, in their words, a \"better disciple\": spiritual identity, discipline and peace in one habit.",
+      "trigger": "Spiritual distance (\"I was having distance with god\"), wanting to return to the Church (\"return to the One Holy and Apostolic Church after 20 years\"), no access to church (\"I can’t go to church but I can still pray here\"), stress and sleep; Catholic identity and a wish for a Catholic-specific app.",
+      "retention": "Cue: morning, night prayer, commute (replacing the car radio), daily readings -> Action: press play on a guided session by a chosen narrator -> Reward: peace, closeness to God, learning -> Feeling: peaceful, disciplined, connected (\"it truly keeps you on your toes every morning\"). Habit statements: \"I also enjoy night prayer every night\", \"I no longer listen to the radio in the car\".",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "secondary": "devotional discipline framed positively (framework, accountability) without shame",
+        "summary": "Peace, calm, reverence and a sleep aid; discipline is framed as a framework rather than guilt; the heat appears only in values disputes (AI, charging for prayer).",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "Very peaceful, very calming."
+          },
+          {
+            "rating": 5,
+            "text": "My mind feels clear and at peace."
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "become a better disciple"
+          },
+          {
+            "rating": 5,
+            "text": "be a better person"
+          },
+          {
+            "rating": 5,
+            "text": "Hallow helps you become more disciplined in your faith."
+          },
+          {
+            "rating": 5,
+            "text": "This app has helped me return to the One Holy and Apostolic Church after 20 years."
+          },
+          {
+            "rating": 5,
+            "text": "This app completely changed me."
+          }
+        ],
+        "note": "The strongest identity language in the packet (10 of 30 positive reviews)."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "Visual design is not mentioned. The aesthetic is voice: choosing a narrator (\"pick Jonathon Roumie as my narrator\"), requests for celebrity collections (\"Actors & Musicians collection\"), and one backlash against specific celebrity narrators."
+      },
+      "social": "Medium. Prayer is shared with family (\"with your kids or yourself\", \"pray for my family and friends\"), shared with others (\"options to share different prayers with people\"), and tied to church community, whose moderation produced an \"Anti woman\" backlash.",
+      "money": {
+        "pays_for": "Subscription for the content library and narrators. One satisfied payer: \"Look past the cost through the app, it truly keeps you on your toes every morning to become a better disciple.\"",
+        "price_points": [
+          "$69.99 charged after cancelling before the trial end (1-star)",
+          "$190 charged for a subscription the user says they did not purchase (1-star)"
+        ],
+        "paywall_complaints_in_sample": 8,
+        "notes": "Values-based resistance to paying for prayer (\"why is it charging people for access to prayer?\", \"pay for more access to Gods word\") is unique to this app; a promised hardship exemption (nurse, veteran, senior: \"I could get free plan\") was withdrawn once an AI agent got involved."
+      },
+      "female_signal": {
+        "level": "low",
+        "evidence": "Mostly gender-neutral devotional language. Weak signals: one survivor writing \"Anti woman\" after removal from a church page (\"As a sexual assault survivor\"), a woman-gendered shrug emoji, \"just in target\", a 17-year-old (\"17yr old\"), and parents praying with kids."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "Look past the cost through the app, it truly keeps you on your toes every morning to become a better disciple."
+        },
+        {
+          "rating": 5,
+          "text": "Hallow helps you become more disciplined in your faith. It provides guidance and a framework to change your life."
+        },
+        {
+          "rating": 5,
+          "text": "This app has helped me return to the One Holy and Apostolic Church after 20 years."
+        },
+        {
+          "rating": 5,
+          "text": "I love being able to pick Jonathon Roumie as my narrator."
+        },
+        {
+          "rating": 1,
+          "text": "Prayer is by humans for God. The two should not mix"
+        }
+      ],
+      "anti_patterns": [
+        "AI in prayer: \"abhorrent and an abomination\" (1); a promised hardship exemption reversed once an AI agent got involved (1).",
+        "Charging for prayer or God's word as a moral objection: 3 reviews.",
+        "Surprise charges, charges after cancelling, refund trouble: 4 reviews.",
+        "Too much personal information requested: \"asks for far too much personally identifiable information\" (1).",
+        "Community moderation experienced as hostile to women and survivors (1).",
+        "Celebrity narrators seen as morally unfit (1).",
+        "A 17-year-old not allowed to join as more than a minor (1).",
+        "Inflexible favorites organization (1, inside a 4-star)."
+      ]
+    },
+    "657189652": {
+      "core": "A calm, science-based cycle tracker that gives the user predictable knowledge about their body without noise or judgment, becoming what one reviewer calls \"An Old Friend\" that they plan their life around.",
+      "trigger": "Needing to know when the period arrives, tracking symptoms and birth control, trying to conceive with devices (TempDrop, LH tests), perimenopause, long-time users who started \"since I was in High School\"; one found it by asking ChatGPT for a free tracker.",
+      "retention": "Cue: cycle events and a home-screen countdown widget (\"shows a countdown to your next period\") -> Action: log a few taps (symptoms, mood, flow) -> Reward: accurate prediction, pattern charts, planning reminders such as hermit days -> Feeling: reliable and in control (\"using clue for more than 10 years\"). Multi-year retention (8-10 years); the leaks are upsell pop-ups and features moving behind the paywall.",
+      "emotional_tone": {
+        "class": "gentle/safe/cozy",
+        "secondary": "quiet and unobtrusive; rupture comes from betrayal by upsell",
+        "summary": "Reliability and calm: no \"annoying alerts or extraneous info I didn’t ask for\"; the emotional break is betrayal by upsell (\"This app I once loved is now trying to trick me like some kind of virus pop-up\").",
+        "quotes": [
+          {
+            "rating": 5,
+            "text": "An Old Friend. I've been using this app for several years and it's been very reliable."
+          },
+          {
+            "rating": 2,
+            "text": "This app I once loved is now trying to trick me like some kind of virus pop-up."
+          }
+        ]
+      },
+      "identity": {
+        "statements": [
+          {
+            "rating": 5,
+            "text": "the best app on the market for people with a uterus"
+          },
+          {
+            "rating": 5,
+            "text": "Now that i'm in perimenopause i've found a new use."
+          },
+          {
+            "rating": 5,
+            "text": "Feels like the team cares about women’s health"
+          },
+          {
+            "rating": 4,
+            "text": "girl with MASSIVE memory issues"
+          }
+        ],
+        "note": "Identity is women's-health literacy and trust in a woman-led, science-first brand. It is also contested: one user praises the removal of the \"men can get periods\" framing, and a male partner complains there is no role for him."
+      },
+      "aesthetics": {
+        "importance": "low",
+        "evidence": "A clean, simple interface is valued as a calm and trust signal (\"The interface is clean and well-designed\", \"easiest and best interface\"), but no cute or aesthetic delight is mentioned."
+      },
+      "social": "Low. Sharing information appears once (\"checking or sharing important information about my woman health\"); a male partner finds no partner role (\"Clue has no way to recognize that I am male\"); recommendations (\"I recommend it to everyone\").",
+      "money": {
+        "pays_for": "Premium for science-backed content and extra tracking. A premium user says \"I have the premium version and I recommend it to everyone\"; a free user is \"considering paying for the full version\" because content has grown and it is \"HSA/FSA eligible!\"; many happily stay free (\"I use it for free and haven’t had any issues\").",
+        "price_points": [],
+        "paywall_complaints_in_sample": 11,
+        "notes": "Complaints are mostly about upsell frequency (pop-ups with hidden close buttons) and features moving behind the paywall, not about the price itself (\"features that were free and I was actively using are now subscription only\"). A differentiator praised by one reviewer: personal info \"doesn’t get hidden behind a paywall unexpectedly\"."
+      },
+      "female_signal": {
+        "level": "high",
+        "evidence": "A women's-health product used by people who menstruate: \"woman health\", \"people with a uterus\", \"women’s health\", perimenopause, birth control; Gen Z traces: \"since I was in High School\", discovery via ChatGPT; partner perspectives are a minority (\"my girlfriend\")."
+      },
+      "quotes": [
+        {
+          "rating": 5,
+          "text": "An Old Friend. I've been using this app for several years and it's been very reliable."
+        },
+        {
+          "rating": 5,
+          "text": "it doesn’t have annoying alerts or extraneous info I didn’t ask for."
+        },
+        {
+          "rating": 5,
+          "text": "They hired real researchers who care about women’s health instead of relying on AI generated information."
+        },
+        {
+          "rating": 4,
+          "text": "it’s literally the only iOS period tracker I’ve found that has a home screen widget that shows a countdown to your next period so I guess I’m here forever."
+        },
+        {
+          "rating": 2,
+          "text": "This app I once loved is now trying to trick me like some kind of virus pop-up."
+        }
+      ],
+      "anti_patterns": [
+        "Relentless upsell pop-ups and promo notifications: 9 reviews, e.g. \"relentless popups in free version\", \"Unmutable in-app promotion notifications\".",
+        "Camouflaged close buttons: \"hidden x-outs/close buttons\" (1).",
+        "Free features moved behind the subscription, or a trial prompt before setup is finished: 4 reviews.",
+        "A UI input redesign: \"so much less user friendly\" (1).",
+        "Missing basics: cannot delete a previous period, no partner role, reminders do not adapt to irregular cycles (3 reviews).",
+        "Politicized stance, in both directions: one user approves the removal of inclusive-language framing, another calls the pregnancy guidance \"So biased\" (2).",
+        "Offline sign-in bug (1)."
+      ]
+    }
+  },
+  "synthesis": {
+    "mechanisms": [
+      {
+        "rank": 1,
+        "name": "Effortless but in control: friction removal plus user-set dials",
+        "why_it_works": "Users who doubt their own consistency (earlier failed attempts, little time, self-consciousness about studios and gyms) commit when the first step is tiny and the app absorbs the decisions, while the dials (duration, music, goals, narrator) stay in their hands, so the feeling is capability rather than being managed.",
+        "apps": [
+          "1576857102",
+          "1450365119",
+          "493145008",
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "1038369065",
+          "570060128",
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 59,
+        "best_quote": {
+          "app_id": "6443820380",
+          "rating": 5,
+          "text": "I love that I can decide how much I want to workout without too much drama or endless hours of finding the perfect routine in yt."
+        },
+        "rank_score": 49.2,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Onboarding gauntlets before any value, redesigns that remove orientation, crashes, clutter and rigid session flows trigger some of the sharpest reviews (\"They undid the UX that made it great\").",
+        "violation_review_count": 18,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            2,
+            3,
+            9,
+            14,
+            18
+          ],
+          "1450365119": [
+            6
+          ],
+          "493145008": [
+            3
+          ],
+          "1049234587": [
+            4,
+            6,
+            10,
+            13,
+            16,
+            17,
+            23,
+            26
+          ],
+          "6443820380": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            7,
+            8,
+            10,
+            11,
+            14,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29
+          ],
+          "6480417616": [
+            0,
+            1,
+            2,
+            3,
+            8,
+            10,
+            13,
+            18,
+            19,
+            21,
+            22,
+            24,
+            26,
+            27
+          ],
+          "1038369065": [
+            18,
+            22
+          ],
+          "570060128": [
+            5,
+            13,
+            25
+          ],
+          "1405323394": [
+            1
+          ],
+          "657189652": [
+            3,
+            6,
+            10,
+            24
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "name": "Earned reliability: accuracy plus years of tenure becomes old-friend trust",
+        "why_it_works": "For apps that touch body, mind or faith, repeated proof that predictions or guidance are right converts into reliance and then loyalty measured in years, which is why users tolerate ads and price creep until that trust is broken.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "1038369065",
+          "657189652"
+        ],
+        "approx_review_count": 57,
+        "best_quote": {
+          "app_id": "657189652",
+          "rating": 5,
+          "text": "An Old Friend. I've been using this app for several years and it's been very reliable."
+        },
+        "rank_score": 42.8,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "When accuracy or the personal feel drops (AI-written horoscopes, wrong food scans, a calendar showing the wrong day), long-time users leave with used-to-be-better language (\"Not good anymore\").",
+        "violation_review_count": 12,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            3,
+            15,
+            22
+          ],
+          "1264782561": [
+            0,
+            4,
+            6,
+            7,
+            10
+          ],
+          "493145008": [
+            0
+          ],
+          "571800810": [
+            14,
+            16,
+            20,
+            21,
+            26,
+            38
+          ],
+          "1049234587": [
+            0,
+            3,
+            4,
+            5,
+            8,
+            11,
+            18,
+            24
+          ],
+          "6443820380": [
+            5,
+            9,
+            16,
+            24,
+            28
+          ],
+          "6480417616": [
+            15,
+            19
+          ],
+          "1038369065": [
+            2,
+            3,
+            4,
+            12,
+            17,
+            18,
+            21,
+            25,
+            26,
+            28
+          ],
+          "657189652": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            13,
+            14,
+            17,
+            18,
+            19,
+            22,
+            23,
+            25,
+            29
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "name": "Emotional safety and regulation: a gentle, non-judging register",
+        "why_it_works": "Users arrive anxious, sleepless, burnt out or self-critical, so a product that visibly removes pressure (rest days count, calm voices, no shaming) feels like a safe place, and the same users punish any product that adds stress or judgment.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "1450365119",
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "570060128",
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 45,
+        "best_quote": {
+          "app_id": "1576857102",
+          "rating": 4,
+          "text": "While Apple’s rings feel like high pressure and lead to feelings of failure, Gentler Streaks feels encouraging and keeps me exercising."
+        },
+        "rank_score": 41.2,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Shaming or doom-laden copy, or a calm app that adds stress through clutter, upsell banners or billing, produces ironic backlash (\"App made to reduce stress but the cost stresses me\").",
+        "violation_review_count": 14,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            6,
+            12,
+            15,
+            16,
+            18,
+            21,
+            25,
+            26
+          ],
+          "1264782561": [
+            0,
+            4
+          ],
+          "1450365119": [
+            0,
+            5,
+            10
+          ],
+          "493145008": [
+            5
+          ],
+          "571800810": [
+            0,
+            2,
+            7,
+            8,
+            9,
+            11,
+            13,
+            14,
+            17,
+            19,
+            22,
+            23,
+            24,
+            25,
+            26,
+            28
+          ],
+          "1049234587": [
+            4,
+            10
+          ],
+          "6443820380": [
+            2,
+            3,
+            7,
+            11,
+            16,
+            18,
+            26
+          ],
+          "6480417616": [
+            21
+          ],
+          "570060128": [
+            17
+          ],
+          "1405323394": [
+            2,
+            9,
+            25
+          ],
+          "657189652": [
+            24
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "name": "Identity and transformation narrative (life changing)",
+        "why_it_works": "Users credit the app with changing who they are (consistent, calmer, disciplined, closer to God), which turns a chore into a self-concept and supplies the story that justifies staying and paying.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "1450365119",
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "1405323394"
+        ],
+        "approx_review_count": 36,
+        "best_quote": {
+          "app_id": "1049234587",
+          "rating": 5,
+          "text": "After many failed attempts at consistency in my previous workout journey I actually completed it. I’ve been working out 3-5 times a week ever since - coming up on two years now."
+        },
+        "rank_score": 27.0,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "No direct backlash evidence; identity-based apps are exposed to values disputes instead (see what_fails).",
+        "violation_review_count": 0,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            6,
+            7,
+            12
+          ],
+          "1264782561": [
+            3
+          ],
+          "1450365119": [
+            4,
+            5
+          ],
+          "493145008": [
+            1
+          ],
+          "571800810": [
+            1,
+            2,
+            7,
+            18,
+            21,
+            26,
+            29,
+            38
+          ],
+          "1049234587": [
+            1,
+            2,
+            5,
+            18
+          ],
+          "6443820380": [
+            16,
+            18,
+            25,
+            29
+          ],
+          "6480417616": [
+            13,
+            21,
+            28
+          ],
+          "1405323394": [
+            0,
+            1,
+            4,
+            10,
+            12,
+            13,
+            19,
+            21,
+            22,
+            28
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "name": "Time-anchored daily or nightly ritual",
+        "why_it_works": "Attaching the habit to a moment that already exists (waking, bedtime, meals, commute) supplies a reliable cue and an immediate reward (sleep, calm, a finished workout), so the app becomes part of the day instead of one more thing to remember.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "493145008",
+          "571800810",
+          "6443820380",
+          "6480417616",
+          "1038369065",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 30,
+        "best_quote": {
+          "app_id": "571800810",
+          "rating": 5,
+          "text": "Start the day with a Daily and end with a sleep story."
+        },
+        "rank_score": 22.5,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Updates that move or break the anchor action (recents list, input screens, friends) are punished because they interrupt an automatic routine (\"Stop messing up the app\").",
+        "violation_review_count": 7,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            6,
+            17,
+            25
+          ],
+          "1264782561": [
+            0,
+            7,
+            8
+          ],
+          "493145008": [
+            1,
+            6
+          ],
+          "571800810": [
+            2,
+            6,
+            8,
+            15,
+            19,
+            22
+          ],
+          "6443820380": [
+            16,
+            21
+          ],
+          "6480417616": [
+            10,
+            15,
+            16
+          ],
+          "1038369065": [
+            10
+          ],
+          "570060128": [
+            1
+          ],
+          "1405323394": [
+            2,
+            4,
+            6,
+            7,
+            8,
+            15,
+            18,
+            21,
+            22
+          ]
+        }
+      },
+      {
+        "rank": 6,
+        "name": "Attachment to a voice, face or character",
+        "why_it_works": "A named narrator, trainer, mascot or support team turns the habit into a relationship, so showing up feels like keeping a commitment to someone and leaving feels like letting them down.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "1450365119",
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "1038369065",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 24,
+        "best_quote": {
+          "app_id": "493145008",
+          "rating": 5,
+          "text": "I hope Andy is doing ok! My favorite headspace person please take care of yourself."
+        },
+        "rank_score": 20.0,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Characters or voices that frighten, disappoint or feel commercialized break the attachment: a child scared of the owl (\"gave me nightmares\"), narrators judged unfit, a product accused of having \"sold out to Sword\".",
+        "violation_review_count": 6,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            9
+          ],
+          "1264782561": [
+            7
+          ],
+          "1450365119": [
+            0
+          ],
+          "493145008": [
+            1
+          ],
+          "571800810": [
+            0,
+            4,
+            10,
+            12,
+            17,
+            19,
+            23
+          ],
+          "1049234587": [
+            11,
+            15,
+            24
+          ],
+          "6443820380": [
+            5,
+            10,
+            24
+          ],
+          "1038369065": [
+            1
+          ],
+          "570060128": [
+            7,
+            27,
+            37
+          ],
+          "1405323394": [
+            1,
+            20,
+            27
+          ]
+        }
+      },
+      {
+        "rank": 7,
+        "name": "Being known: self-legibility of body, mind and day",
+        "why_it_works": "Turning vague, anxious uncertainty about the body, mind or day into patterns the user can read produces relief and a sense of being seen, and gives a reason to come back to see what the pattern says next.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "1450365119",
+          "571800810",
+          "6480417616",
+          "1038369065",
+          "657189652"
+        ],
+        "approx_review_count": 34,
+        "best_quote": {
+          "app_id": "1038369065",
+          "rating": 5,
+          "text": "I knew nothing about my body, how it worked or anything until this app."
+        },
+        "rank_score": 19.8,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Generic or repeated content breaks the feeling of being seen (\"not actually customized to the user\").",
+        "violation_review_count": 4,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            1,
+            4,
+            9,
+            12,
+            19,
+            20,
+            21,
+            25
+          ],
+          "1264782561": [
+            0,
+            3,
+            6,
+            7,
+            10,
+            11
+          ],
+          "1450365119": [
+            1,
+            5,
+            9
+          ],
+          "571800810": [
+            29,
+            38
+          ],
+          "6480417616": [
+            0,
+            1,
+            13,
+            28
+          ],
+          "1038369065": [
+            4,
+            10,
+            13,
+            14,
+            29
+          ],
+          "657189652": [
+            7,
+            8,
+            10,
+            24,
+            25,
+            26
+          ]
+        }
+      },
+      {
+        "rank": 8,
+        "name": "Made-for-me belonging: life stage, women-first, faith, neurotype",
+        "why_it_works": "Explicit fit with the user's group or life moment (postpartum, trying to conceive, perimenopause, Catholic, ADHD/OCD) signals that the app understands their context and that others like them are here, which lowers the cost of trust and extends tenure.",
+        "apps": [
+          "1576857102",
+          "1450365119",
+          "571800810",
+          "1049234587",
+          "1038369065",
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 29,
+        "best_quote": {
+          "app_id": "1049234587",
+          "rating": 5,
+          "text": "Sweat takes out the guess work and whatever stage of life I’m at, there is a sweat workout for that."
+        },
+        "rank_score": 16.9,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Exclusion or values clashes (a minor treated as a minor, no partner role, no Arabic, moderation seen as hostile to a sexual assault survivor) turn belonging into backlash.",
+        "violation_review_count": 11,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            6
+          ],
+          "1450365119": [
+            2
+          ],
+          "571800810": [
+            14,
+            21
+          ],
+          "1049234587": [
+            2,
+            3,
+            10,
+            11,
+            17,
+            22,
+            26
+          ],
+          "1038369065": [
+            4,
+            6,
+            10,
+            11,
+            13,
+            14,
+            23,
+            28,
+            29
+          ],
+          "1405323394": [
+            10,
+            17,
+            22,
+            26,
+            28
+          ],
+          "657189652": [
+            3,
+            4,
+            19,
+            25
+          ]
+        }
+      },
+      {
+        "rank": 9,
+        "name": "Visible consistency and loss aversion (streaks, weeks, years)",
+        "why_it_works": "Counters (streaks, weeks, years) turn consistency into a score the user is proud of and afraid to lose, which works for tiny daily loops and backfires when losing it is caused by bugs or monetized.",
+        "apps": [
+          "1576857102",
+          "493145008",
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 23,
+        "best_quote": {
+          "app_id": "1049234587",
+          "rating": 5,
+          "text": "I am 24 wks consistent w SWEAT app. That’s a huge accomplishment for me."
+        },
+        "rank_score": 13.4,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "Streak loss from bugs, or a fee to restore a streak, kills motivation (\"it just kills my desire to use it from here on\").",
+        "violation_review_count": 3,
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            6
+          ],
+          "493145008": [
+            0
+          ],
+          "1049234587": [
+            1,
+            3,
+            5,
+            8,
+            19,
+            21,
+            28
+          ],
+          "6443820380": [
+            8
+          ],
+          "6480417616": [
+            1,
+            6,
+            15,
+            21,
+            25
+          ],
+          "570060128": [
+            8,
+            12,
+            20,
+            21,
+            27,
+            35
+          ],
+          "1405323394": [
+            7,
+            28
+          ]
+        }
+      },
+      {
+        "rank": 10,
+        "name": "External accountability: a witness that makes skipping costly",
+        "why_it_works": "Users who struggle to self-regulate outsource follow-through to a trainer, reminder, challenge or tracker, and it is welcomed as support rather than control when the tone stays warm.",
+        "apps": [
+          "1049234587",
+          "6443820380",
+          "6480417616",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 14,
+        "best_quote": {
+          "app_id": "6443820380",
+          "rating": 5,
+          "text": "I love this app bc it eliminates the ability to excuse yourself!"
+        },
+        "rank_score": 5.8,
+        "rank_basis": "approx_review_count x (number_of_apps / 12)",
+        "violated_when": "No violation evidence in the sample; every accountability review is warm in tone and none uses shame language.",
+        "violation_review_count": 0,
+        "evidence_review_idx_by_app": {
+          "1049234587": [
+            1,
+            5,
+            9,
+            15,
+            28
+          ],
+          "6443820380": [
+            10
+          ],
+          "6480417616": [
+            0,
+            8,
+            15
+          ],
+          "570060128": [
+            20,
+            27
+          ],
+          "1405323394": [
+            4,
+            28,
+            29
+          ]
+        }
+      }
+    ],
+    "common_root": "The deepest common root is borrowed self-trust under emotional safety: users arrive at a vulnerable moment (postpartum, insomnia, grief, trying to conceive, drifting from faith), often through a trusted referrer (a doctor, an employer benefit, even ChatGPT), doubting their own consistency, body-knowledge or emotional steadiness, and the apps that win act as a non-judging external scaffold that remembers, predicts, decides and witnesses for them until they can trust themselves to show up. Everything that retains works by lowering the odds of failure and shame (a tiny anchored ritual, an effortless first step, a prediction that proves right, a soothing voice), and the reward users actually report is not the feature but a feeling of being capable, known and calm, which over months turns into identity language (\"Life changing\", \"become a better disciple\", \"24 wks consistent\"). That is also why they pay and why they revolt: they pay to keep the scaffold once it is part of their routine or self-image (\"Best fitness purchase one can make\"), and they punish any app that spends the trust it was built on through surprise charges, paywalled basics, pop-ups, shaming or negative copy, or AI that makes a once-personal voice generic. Effortlessness is the most frequent praise (about 59 reviews) but it is the entry condition rather than the root, and cute or aesthetic design appears in only about 25 of 431 reviews (roughly 6%), so both are wrappers around the real drivers: safety, reliability and identity, which explain why the habit lasts years. Confidence is moderate: the packet carries no age or gender tags and over-samples low-star reviews (133 of 431 sampled reviews, about 31%, although every app averages 4.5 or higher), so the link to Gen Z women is clearest where the product is explicitly women-first (Sweat, Flo, Clue) and only inferred elsewhere.",
+    "what_fails": [
+      {
+        "rank": 1,
+        "pattern": "Hidden, ambiguous or hard-to-cancel charges (trial traps, charges after cancelling, refund refusals, unresponsive billing support)",
+        "why_it_backfires": "These apps sell trust in a vulnerable space (body, mind, faith), so a surprise charge reads as betrayal rather than a pricing issue and the language escalates to scam, fraud and stealing.",
+        "evidence": "32 reviews in 7 apps (Breeze 11, Calm 5, Hallow 4, Co-Star 3, Headspace 3, Sweat 3, Cal AI 3). Breeze is the extreme case: 11 of its 12 low-star reviews are about charges or cancellation after a $1 test.",
+        "apps": [
+          "1264782561",
+          "1450365119",
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6480417616",
+          "1405323394"
+        ],
+        "approx_review_count": 32,
+        "best_quote": {
+          "app_id": "1405323394",
+          "rating": 1,
+          "text": "I canceled this before the trial date was up and they still charged me the 69.99."
+        },
+        "evidence_review_idx_by_app": {
+          "1264782561": [
+            8,
+            13,
+            18
+          ],
+          "1450365119": [
+            11,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "493145008": [
+            9,
+            12,
+            19
+          ],
+          "571800810": [
+            34,
+            36,
+            37,
+            39,
+            40
+          ],
+          "1049234587": [
+            35,
+            36,
+            39
+          ],
+          "6480417616": [
+            36,
+            39,
+            41
+          ],
+          "1405323394": [
+            31,
+            35,
+            36,
+            39
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "pattern": "Paywall ambush and free-to-paid rug pulls (long onboarding then a wall; own data locked; formerly free features paywalled)",
+        "why_it_backfires": "Users have already invested minutes and personal data when the wall appears, and locking their own health data or features they used for free reads as extraction rather than value.",
+        "evidence": "25 reviews in 8 apps (Flo 6, Headspace 4, Clue 4, Cal AI 3, Hallow 3, Gentler Streak 2, Duolingo 2, Co-Star 1). Several Flo and Clue users came looking for a free tracker; Clue is praised by one user precisely because personal info is not hidden behind a paywall unexpectedly.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "493145008",
+          "6480417616",
+          "1038369065",
+          "570060128",
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 25,
+        "best_quote": {
+          "app_id": "1038369065",
+          "rating": 2,
+          "text": "Went through the longest questionnaire I’ve ever been through only to find out at the end you have to pay for it every month."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            28,
+            35
+          ],
+          "1264782561": [
+            23
+          ],
+          "493145008": [
+            4,
+            5,
+            14,
+            18
+          ],
+          "6480417616": [
+            33,
+            35,
+            37
+          ],
+          "1038369065": [
+            30,
+            31,
+            32,
+            34,
+            38,
+            39
+          ],
+          "570060128": [
+            35,
+            41
+          ],
+          "1405323394": [
+            30,
+            32,
+            37
+          ],
+          "657189652": [
+            11,
+            13,
+            36,
+            41
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "pattern": "Upsell nagging: pop-ups, hidden close buttons, promo notifications, ads and energy limits",
+        "why_it_backfires": "Interruptions land at vulnerable moments (logging a period, starting to meditate) and contradict the calm and ease the product promises; even paying users resent them.",
+        "evidence": "18 reviews in 5 apps (Clue 9, Duolingo 5, Flo 2, Gentler Streak 1, Calm 1). Clue alone accounts for half of this pattern; one paying Calm user and several Duolingo users report the same.",
+        "apps": [
+          "1576857102",
+          "571800810",
+          "1038369065",
+          "570060128",
+          "657189652"
+        ],
+        "approx_review_count": 18,
+        "best_quote": {
+          "app_id": "657189652",
+          "rating": 2,
+          "text": "This app I once loved is now trying to trick me like some kind of virus pop-up."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            34
+          ],
+          "571800810": [
+            35
+          ],
+          "1038369065": [
+            36,
+            38
+          ],
+          "570060128": [
+            22,
+            29,
+            31,
+            33,
+            41
+          ],
+          "657189652": [
+            16,
+            28,
+            31,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "pattern": "AI replacing the human, personal voice (AI-written content, AI companions and bots, AI-first direction)",
+        "why_it_backfires": "The value of these apps is the feeling that someone real wrote or guides this for me; AI reads as generic and, in health, faith and mental-health contexts, as unethical.",
+        "evidence": "15 reviews in 6 apps (Co-Star 3, Headspace 3, Duolingo 3, Gentler Streak 2, Cal AI 2, Hallow 2). Most object to AI as a substitute for a human or personal voice (Co-Star, Hallow, Headspace, Gentler Streak, Duolingo); a few criticise AI quality (Cal AI scans and support bot, Duolingo lessons). Counter-evidence of the same value: one Clue reviewer praises that real researchers were hired \"instead of relying on AI generated information\".",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "493145008",
+          "6480417616",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 15,
+        "best_quote": {
+          "app_id": "1264782561",
+          "rating": 1,
+          "text": "Part of the allure of CoStar was that it was personal."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            29,
+            31
+          ],
+          "1264782561": [
+            15,
+            16,
+            21
+          ],
+          "493145008": [
+            11,
+            15,
+            17
+          ],
+          "6480417616": [
+            29,
+            38
+          ],
+          "570060128": [
+            30,
+            32,
+            35
+          ],
+          "1405323394": [
+            30,
+            33
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "pattern": "Emotional register that contradicts the promise: fear, shame or doom copy, and calm or mindful apps that add stress",
+        "why_it_backfires": "Users bring anxiety or self-doubt to these apps, so being made to feel worse is experienced as harm rather than as poor UX.",
+        "evidence": "14 reviews in 5 apps (Co-Star 7, Headspace 4, Breeze 1, Calm 1, Flo 1). Seven reviews are about Co-Star tone alone; the rest are calm or mindful products that stress the user through clutter, upsell or billing.",
+        "apps": [
+          "1264782561",
+          "1450365119",
+          "493145008",
+          "571800810",
+          "1038369065"
+        ],
+        "approx_review_count": 14,
+        "best_quote": {
+          "app_id": "1264782561",
+          "rating": 2,
+          "text": "weirdly committed to making you feel worse about yourself"
+        },
+        "evidence_review_idx_by_app": {
+          "1264782561": [
+            1,
+            6,
+            14,
+            17,
+            19,
+            20,
+            22
+          ],
+          "1450365119": [
+            22
+          ],
+          "493145008": [
+            8,
+            10,
+            16,
+            19
+          ],
+          "571800810": [
+            35
+          ],
+          "1038369065": [
+            2
+          ]
+        }
+      },
+      {
+        "rank": 6,
+        "pattern": "Updates, redesigns and bugs that break an established ritual",
+        "why_it_backfires": "Ritual use is automatic; moving a button, changing the recents list or removing transitions interrupts the cue-action loop, and long-time users respond with used-to-be-better language (\"Not what it once was\", \"Much better before\").",
+        "evidence": "14 reviews in 8 apps (Sweat 3, Gentler Streak 2, Calm 2, Down Dog Pilates 2, Clue 2, Co-Star 1, Flo 1, Duolingo 1). Mostly long-tenure users.",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "1038369065",
+          "570060128",
+          "657189652"
+        ],
+        "approx_review_count": 14,
+        "best_quote": {
+          "app_id": "6443820380",
+          "rating": 2,
+          "text": "They undid the UX that made it great."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            27,
+            30
+          ],
+          "1264782561": [
+            5
+          ],
+          "571800810": [
+            31,
+            33
+          ],
+          "1049234587": [
+            30,
+            32,
+            33
+          ],
+          "6443820380": [
+            30,
+            31
+          ],
+          "1038369065": [
+            35
+          ],
+          "570060128": [
+            24
+          ],
+          "657189652": [
+            30,
+            34
+          ]
+        }
+      },
+      {
+        "rank": 7,
+        "pattern": "Inaccurate output (predictions, food scans, assessments, lessons)",
+        "why_it_backfires": "Accuracy is the currency of trust in these apps; a visible miss (wrong food, wrong date, a label that contradicts a diagnosis) converts years of credit into doubt.",
+        "evidence": "11 reviews in 6 apps (Cal AI 4, Co-Star 3, Breeze 1, Flo 1, Duolingo 1, Clue 1). Cal AI scan and calorie-calculation errors account for 4 of these reviews.",
+        "apps": [
+          "1264782561",
+          "1450365119",
+          "6480417616",
+          "1038369065",
+          "570060128",
+          "657189652"
+        ],
+        "approx_review_count": 11,
+        "best_quote": {
+          "app_id": "6480417616",
+          "rating": 1,
+          "text": "It doesn’t know the difference between chicken or tuna"
+        },
+        "evidence_review_idx_by_app": {
+          "1264782561": [
+            15,
+            16,
+            17
+          ],
+          "1450365119": [
+            14
+          ],
+          "6480417616": [
+            5,
+            20,
+            29,
+            32
+          ],
+          "1038369065": [
+            35
+          ],
+          "570060128": [
+            30
+          ],
+          "657189652": [
+            26
+          ]
+        }
+      },
+      {
+        "rank": 8,
+        "pattern": "Streak mechanics that punish or are monetized (restore fees, paid freezes, gacha-like duplicates)",
+        "why_it_backfires": "Loss aversion is what makes streaks sticky, so charging to restore a streak or losing it to a bug converts a motivator into a grievance.",
+        "evidence": "6 reviews in 2 apps (Duolingo 4, Cal AI 2). Limited to Cal AI and Duolingo, but the reaction is sharp and specific.",
+        "apps": [
+          "6480417616",
+          "570060128"
+        ],
+        "approx_review_count": 6,
+        "best_quote": {
+          "app_id": "6480417616",
+          "rating": 4,
+          "text": "lost my 395-day streak. The app immediately asked for $10 to restore it. And it just kills my desire to use it from here on."
+        },
+        "evidence_review_idx_by_app": {
+          "6480417616": [
+            6,
+            25
+          ],
+          "570060128": [
+            8,
+            11,
+            35,
+            36
+          ]
+        }
+      },
+      {
+        "rank": 9,
+        "pattern": "Values and identity flashpoints (religion, abortion, gender, charging for prayer)",
+        "why_it_backfires": "Apps that sell identity or belonging inherit that identity's conflicts; a single moderation or content decision can read as hostility and reverse trust.",
+        "evidence": "5 reviews in 2 apps (Hallow 3, Clue 2). Plus one Clue reviewer who praises the opposite choice (dropping inclusive-language framing), so the polarization runs both ways.",
+        "apps": [
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 5,
+        "best_quote": {
+          "app_id": "1405323394",
+          "rating": 1,
+          "text": "They kicked me off my churches page for asking for prayers for sexual assault survivors."
+        },
+        "evidence_review_idx_by_app": {
+          "1405323394": [
+            32,
+            34,
+            38
+          ],
+          "657189652": [
+            32,
+            33
+          ]
+        }
+      },
+      {
+        "rank": 10,
+        "pattern": "Cute or childish presentation on serious health data (weak evidence)",
+        "why_it_backfires": "Cute works as a safety signal for some users (Breeze and Gentler Streak fans) but reads as patronizing to adults who want data.",
+        "evidence": "2 reviews in 1 app (Gentler Streak 2). Only 2 reviews in 1 app, so treat as a caution rather than a finding.",
+        "apps": [
+          "1576857102"
+        ],
+        "approx_review_count": 2,
+        "best_quote": {
+          "app_id": "1576857102",
+          "rating": 3,
+          "text": "Presentation is babyish."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            37,
+            38
+          ]
+        }
+      }
+    ],
+    "paid_for": {
+      "pays_for": [
+        {
+          "what": "A bundled, customizable practice library that feels like one smart purchase (one purchase unlocks Pilates plus all Down Dog apps)",
+          "evidence": "6 of 30 positive Down Dog reviews say it is worth the money; this is the cleanest willingness-to-pay language in the packet and the sample contains no paywall complaint for the app.",
+          "apps": [
+            "6443820380"
+          ],
+          "approx_review_count": 6,
+          "best_quote": {
+            "app_id": "6443820380",
+            "rating": 5,
+            "text": "Best fitness purchase one can make."
+          },
+          "evidence_review_idx_by_app": {
+            "6443820380": [
+              9,
+              10,
+              15,
+              18,
+              23,
+              28
+            ]
+          }
+        },
+        {
+          "what": "A nightly sleep and calm ritual delivered by trusted voices (Calm subscription)",
+          "evidence": "3 explicit satisfied payers in Calm, including a multi-year subscriber; Calm's complaints are about the family plan, refunds and support, not about the core content.",
+          "apps": [
+            "571800810"
+          ],
+          "approx_review_count": 3,
+          "best_quote": {
+            "app_id": "571800810",
+            "rating": 5,
+            "text": "You definitely should pay for it. Totally worth it!"
+          },
+          "evidence_review_idx_by_app": {
+            "571800810": [
+              16,
+              17,
+              27
+            ]
+          }
+        },
+        {
+          "what": "Coach-led progression from a woman-first brand with a community, paid over years (Sweat)",
+          "evidence": "1 explicit \"So worth the money!\"; tenure of 4, 5, 6 and 10 years in 4 more reviews, plus one \"for years\", implies renewals; complaints concentrate on trial billing, not on value.",
+          "apps": [
+            "1049234587"
+          ],
+          "approx_review_count": 1,
+          "best_quote": {
+            "app_id": "1049234587",
+            "rating": 5,
+            "text": "So worth the money!"
+          },
+          "evidence_review_idx_by_app": {
+            "1049234587": [
+              6
+            ]
+          }
+        },
+        {
+          "what": "Science-credible women's-health depth (Clue premium, Flo paid) after long free use",
+          "evidence": "Clue: a premium user recommends it to everyone and a free user is considering paying because added science-backed content makes the price worth it (HSA/FSA eligible); Flo: a 5-year user describes both free and paid phases; both apps also show a large free-user majority who refuse paywalled basics.",
+          "apps": [
+            "1038369065",
+            "657189652"
+          ],
+          "approx_review_count": 3,
+          "best_quote": {
+            "app_id": "657189652",
+            "rating": 5,
+            "text": "Now, I’m considering paying for the full version. A lot of stuff has been added to make the price worth it (at discount and HSA/FSA eligible!)."
+          },
+          "evidence_review_idx_by_app": {
+            "1038369065": [
+              28
+            ],
+            "657189652": [
+              4,
+              25
+            ]
+          }
+        },
+        {
+          "what": "Effort-removing automation (photo food logging) behind a hard paywall",
+          "evidence": "1 explicit long-term payer; 7 billing/paywall complaints show the hard paywall is contested and that willingness is conditional on trust.",
+          "apps": [
+            "6480417616"
+          ],
+          "approx_review_count": 1,
+          "best_quote": {
+            "app_id": "6480417616",
+            "rating": 5,
+            "text": "I have had the premium subscription for almost two years."
+          },
+          "evidence_review_idx_by_app": {
+            "6480417616": [
+              15
+            ]
+          }
+        },
+        {
+          "what": "A daily faith discipline (Hallow subscription)",
+          "evidence": "1 explicit payer who asks others to \"Look past the cost\"; 8 payment complaints, including a moral objection to paying for prayer.",
+          "apps": [
+            "1405323394"
+          ],
+          "approx_review_count": 1,
+          "best_quote": {
+            "app_id": "1405323394",
+            "rating": 5,
+            "text": "Look past the cost through the app, it truly keeps you on your toes every morning to become a better disciple."
+          },
+          "evidence_review_idx_by_app": {
+            "1405323394": [
+              4
+            ]
+          }
+        },
+        {
+          "what": "Personalized answers (Co-Star Void pay-per-question bundles)",
+          "evidence": "1 user pays per question for insight into themselves; the other Void reviews are overcharge complaints.",
+          "apps": [
+            "1264782561"
+          ],
+          "approx_review_count": 1,
+          "best_quote": {
+            "app_id": "1264782561",
+            "rating": 4,
+            "text": "It’s an awesome insight into oneself and prospects to come."
+          },
+          "evidence_review_idx_by_app": {
+            "1264782561": [
+              8
+            ]
+          }
+        },
+        {
+          "what": "Removing ads and energy limits, and family sharing (Duolingo Super, Max and Family plans)",
+          "evidence": "5 reviews from payers or ex-payers: recommending the paid tier, a long-time yearly family-plan holder, and an ex-payer who paid to keep the company in business; Super and Max are also called expensive by the same audience.",
+          "apps": [
+            "570060128"
+          ],
+          "approx_review_count": 5,
+          "best_quote": {
+            "app_id": "570060128",
+            "rating": 1,
+            "text": "I used to pay for premium in the old days because I wanted this app to stay in business"
+          },
+          "evidence_review_idx_by_app": {
+            "570060128": [
+              14,
+              19,
+              22,
+              32,
+              35
+            ]
+          }
+        },
+        {
+          "what": "Premium for gentle daily coaching (Gentler Streak)",
+          "evidence": "3 reviews: renewal and upgrade intent, a reluctant renewal, and a user already paying for several health-app premium tiers.",
+          "apps": [
+            "1576857102"
+          ],
+          "approx_review_count": 3,
+          "best_quote": {
+            "app_id": "1576857102",
+            "rating": 5,
+            "text": "I will renew and maybe even upgrade to Premium."
+          },
+          "evidence_review_idx_by_app": {
+            "1576857102": [
+              0,
+              10,
+              15
+            ]
+          }
+        }
+      ],
+      "refuses_to_pay_for": [
+        {
+          "what": "Any charge that feels hidden or unexpected (trial that bills immediately, $1 test that becomes a subscription, billing after cancelling)",
+          "evidence": "32 reviews in 7 apps (Breeze 11, Calm 5, Hallow 4, Co-Star 3, Headspace 3, Sweat 3, Cal AI 3). This is the dominant refusal in the packet; users call it fraud or stealing and warn friends.",
+          "apps": [
+            "1264782561",
+            "1450365119",
+            "493145008",
+            "571800810",
+            "1049234587",
+            "6480417616",
+            "1405323394"
+          ],
+          "approx_review_count": 32,
+          "best_quote": {
+            "app_id": "1450365119",
+            "rating": 1,
+            "text": "I only agreed to $1 for test results, and then they also charged me for a subscription."
+          },
+          "evidence_review_idx_by_app": {
+            "1264782561": [
+              8,
+              13,
+              18
+            ],
+            "1450365119": [
+              11,
+              12,
+              13,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ],
+            "493145008": [
+              9,
+              12,
+              19
+            ],
+            "571800810": [
+              34,
+              36,
+              37,
+              39,
+              40
+            ],
+            "1049234587": [
+              35,
+              36,
+              39
+            ],
+            "6480417616": [
+              36,
+              39,
+              41
+            ],
+            "1405323394": [
+              31,
+              35,
+              36,
+              39
+            ]
+          }
+        },
+        {
+          "what": "Paying to see their own basic data, or for features that used to be free (cycle logs, health data, daily meditation, formerly free chart tools)",
+          "evidence": "25 reviews in 8 apps (Flo 6, Headspace 4, Clue 4, Cal AI 3, Hallow 3, Gentler Streak 2, Duolingo 2, Co-Star 1). Strongest in period trackers, where logging is the core promise.",
+          "apps": [
+            "1576857102",
+            "1264782561",
+            "493145008",
+            "6480417616",
+            "1038369065",
+            "570060128",
+            "1405323394",
+            "657189652"
+          ],
+          "approx_review_count": 25,
+          "best_quote": {
+            "app_id": "657189652",
+            "rating": 4,
+            "text": "features that were free and I was actively using are now subscription only"
+          },
+          "evidence_review_idx_by_app": {
+            "1576857102": [
+              28,
+              35
+            ],
+            "1264782561": [
+              23
+            ],
+            "493145008": [
+              4,
+              5,
+              14,
+              18
+            ],
+            "6480417616": [
+              33,
+              35,
+              37
+            ],
+            "1038369065": [
+              30,
+              31,
+              32,
+              34,
+              38,
+              39
+            ],
+            "570060128": [
+              35,
+              41
+            ],
+            "1405323394": [
+              30,
+              32,
+              37
+            ],
+            "657189652": [
+              11,
+              13,
+              36,
+              41
+            ]
+          }
+        },
+        {
+          "what": "Paying after a long onboarding that collected personal data (the paywall shown last)",
+          "evidence": "7 reviews in 4 apps (Cal AI 3, Flo 2, Gentler Streak 1, Clue 1). Subset of the paywall pattern that specifically cites survey or onboarding length.",
+          "apps": [
+            "1576857102",
+            "6480417616",
+            "1038369065",
+            "657189652"
+          ],
+          "approx_review_count": 7,
+          "best_quote": {
+            "app_id": "1038369065",
+            "rating": 1,
+            "text": "You have to answer, without exaggeration, 100 questions. It took me five entire minutes to try to set up a period app just for it to then say I HAVE to have a subscription!"
+          },
+          "evidence_review_idx_by_app": {
+            "1576857102": [
+              28
+            ],
+            "6480417616": [
+              33,
+              35,
+              37
+            ],
+            "1038369065": [
+              31,
+              34
+            ],
+            "657189652": [
+              11
+            ]
+          }
+        },
+        {
+          "what": "Paying to protect a streak, to lift energy or ad limits, or for gacha-like duplicates",
+          "evidence": "7 reviews in 2 apps (Duolingo 6, Cal AI 1). Duolingo's youngest users object on affordability grounds; adults object on fairness.",
+          "apps": [
+            "6480417616",
+            "570060128"
+          ],
+          "approx_review_count": 7,
+          "best_quote": {
+            "app_id": "6480417616",
+            "rating": 4,
+            "text": "why charge for streak?"
+          },
+          "evidence_review_idx_by_app": {
+            "6480417616": [
+              25
+            ],
+            "570060128": [
+              11,
+              22,
+              29,
+              31,
+              35,
+              36
+            ]
+          }
+        },
+        {
+          "what": "Paying for a premium tier that is AI-generated",
+          "evidence": "4 reviews in 3 apps (Co-Star 2, Headspace 1, Duolingo 1). Co-Star, Duolingo and Headspace all draw the objection.",
+          "apps": [
+            "1264782561",
+            "493145008",
+            "570060128"
+          ],
+          "approx_review_count": 4,
+          "best_quote": {
+            "app_id": "570060128",
+            "rating": 1,
+            "text": "people didn’t want to pay for a premium-tier account that only gets you more AI slop"
+          },
+          "evidence_review_idx_by_app": {
+            "1264782561": [
+              15,
+              16
+            ],
+            "493145008": [
+              11
+            ],
+            "570060128": [
+              35
+            ]
+          }
+        },
+        {
+          "what": "Paying twice (an upsell banner after paying, or a family plan that does not work)",
+          "evidence": "3 reviews in 1 app (Calm 3). All in Calm; the objection is to feeling charged again, not to the base price.",
+          "apps": [
+            "571800810"
+          ],
+          "approx_review_count": 3,
+          "best_quote": {
+            "app_id": "571800810",
+            "rating": 3,
+            "text": "I paid, stop asking me to pay more for a family that doesn’t exist?"
+          },
+          "evidence_review_idx_by_app": {
+            "571800810": [
+              34,
+              35,
+              39
+            ]
+          }
+        },
+        {
+          "what": "Paying for prayer or God's word (moral objection)",
+          "evidence": "3 reviews in 1 app (Hallow 3). Unique to Hallow; includes a withdrawn hardship exemption.",
+          "apps": [
+            "1405323394"
+          ],
+          "approx_review_count": 3,
+          "best_quote": {
+            "app_id": "1405323394",
+            "rating": 3,
+            "text": "i dont know why people should have to pay for more access to Gods word"
+          },
+          "evidence_review_idx_by_app": {
+            "1405323394": [
+              30,
+              32,
+              37
+            ]
+          }
+        },
+        {
+          "what": "Upgrades that add no visible value",
+          "evidence": "2 reviews in 2 apps (Duolingo 1, Clue 1). Both warn others off the top tier while keeping the app.",
+          "apps": [
+            "570060128",
+            "657189652"
+          ],
+          "approx_review_count": 2,
+          "best_quote": {
+            "app_id": "657189652",
+            "rating": 4,
+            "text": "I wouldn’t recommend paying for the upgraded subscription."
+          },
+          "evidence_review_idx_by_app": {
+            "570060128": [
+              6
+            ],
+            "657189652": [
+              14
+            ]
+          }
+        }
+      ],
+      "price_points_seen": [
+        {
+          "app_id": "571800810",
+          "amount": "$80",
+          "context": "Calm annual subscription, mentioned in a complaint about an upsell banner",
+          "review_idx": [
+            35
+          ],
+          "ratings": [
+            3
+          ]
+        },
+        {
+          "app_id": "571800810",
+          "amount": "about $85",
+          "context": "Calm premium said not to have been delivered",
+          "review_idx": [
+            37
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "571800810",
+          "amount": "$100",
+          "context": "Calm family plan said not to work",
+          "review_idx": [
+            39
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "1405323394",
+          "amount": "$69.99",
+          "context": "Hallow charged after cancelling before the trial end",
+          "review_idx": [
+            39
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "1405323394",
+          "amount": "$190",
+          "context": "Hallow charge the reviewer says was never purchased",
+          "review_idx": [
+            31
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "1264782561",
+          "amount": "about $50",
+          "context": "Co-Star year ordered instead of a month",
+          "review_idx": [
+            18
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "1450365119",
+          "amount": "$0.99 to $1",
+          "context": "Breeze test fee for results",
+          "review_idx": [
+            12,
+            13,
+            20
+          ],
+          "ratings": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "app_id": "1450365119",
+          "amount": "$14.99 / $17.34 / $29.99 / $40",
+          "context": "Breeze follow-on charges reported after the test fee (several reviewers; some say charged twice or twice a month)",
+          "review_idx": [
+            11,
+            13,
+            18,
+            21
+          ],
+          "ratings": [
+            2,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "app_id": "1049234587",
+          "amount": "$30",
+          "context": "Sweat charge for an unused trial, refund refused",
+          "review_idx": [
+            36
+          ],
+          "ratings": [
+            1
+          ]
+        },
+        {
+          "app_id": "6480417616",
+          "amount": "$10",
+          "context": "Cal AI fee asked to restore a lost 395-day streak",
+          "review_idx": [
+            25
+          ],
+          "ratings": [
+            4
+          ]
+        }
+      ],
+      "summary": "Willingness to pay is real but narrow and trust-gated: users pay for a ritual or trusted guide they already use (sleep audio, a customizable practice bundle, coach-led programs, science-credible women's-health depth, a faith discipline) and for the removal of friction, with the strongest worth-it language where billing is transparent and the product keeps working (Down Dog: 6 explicit worth-it reviews and 0 payment complaints). They refuse to pay for surprise, for their own basic data, for protection from losses they did not choose (streaks, energy, duplicates), for AI-generated premium, and, in faith, for access itself.",
+      "caveat": "Satisfied-payer evidence is thin because most positive reviews do not mention price; counts are explicit mentions only. Low-star reviews are over-sampled, so refusal counts show the type of objection, not its prevalence."
+    },
+    "gaps": [
+      {
+        "rank": 1,
+        "gap": "Fine-grained control inside a session, queue or playlist (reorder, skip and return, queue the next sleep story, resume a course, longer or shorter holds, custom flashcards)",
+        "evidence": "12 reviews in 6 apps (Sweat 4, Headspace 3, Calm 2, Down Dog Pilates 1, Duolingo 1, Hallow 1).",
+        "currently_served_by": "Partly by Down Dog (duration, focus, music, voice), but no app combines that with continuity and in-session flexibility.",
+        "apps": [
+          "493145008",
+          "571800810",
+          "1049234587",
+          "6443820380",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 12,
+        "best_quote": {
+          "app_id": "493145008",
+          "rating": 5,
+          "text": "I would love a feature to be able to queue up episodes to play after one another so I don’t have to get up and start another one every time one ends."
+        },
+        "evidence_review_idx_by_app": {
+          "493145008": [
+            0,
+            6,
+            13
+          ],
+          "571800810": [
+            16,
+            31
+          ],
+          "1049234587": [
+            20,
+            29,
+            34,
+            38
+          ],
+          "6443820380": [
+            25
+          ],
+          "570060128": [
+            4
+          ],
+          "1405323394": [
+            20
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "gap": "Inclusion by language, accessibility, age and level (bilingual switching, audio description, Arabic, Filipino and Lao, teen access, level calibration, longer holds)",
+        "evidence": "9 reviews in 5 apps (Calm 2, Down Dog Pilates 2, Flo 2, Duolingo 2, Hallow 1).",
+        "currently_served_by": "Not served across Calm, Flo, Duolingo, Hallow and Down Dog.",
+        "apps": [
+          "571800810",
+          "6443820380",
+          "1038369065",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 9,
+        "best_quote": {
+          "app_id": "571800810",
+          "rating": 1,
+          "text": "I should not have to reset my app every time I want to switch languages."
+        },
+        "evidence_review_idx_by_app": {
+          "571800810": [
+            30,
+            41
+          ],
+          "6443820380": [
+            25,
+            32
+          ],
+          "1038369065": [
+            15,
+            41
+          ],
+          "570060128": [
+            10,
+            26
+          ],
+          "1405323394": [
+            41
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "gap": "Data and device interoperability (basal body temperature, TempDrop, iCloud and watch independence, Shortcuts, energy data, activity calories) and consistent guidance across several trackers",
+        "evidence": "8 reviews in 4 apps (Gentler Streak 4, Cal AI 2, Flo 1, Clue 1).",
+        "currently_served_by": "Not served; Gentler Streak and Apple Health overlap but users still run several apps with conflicting advice.",
+        "apps": [
+          "1576857102",
+          "6480417616",
+          "1038369065",
+          "657189652"
+        ],
+        "approx_review_count": 8,
+        "best_quote": {
+          "app_id": "657189652",
+          "rating": 5,
+          "text": "I wish I could sync my Tempdrop to Clue so I could scrap the Tempdrop app all together."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            0,
+            5,
+            16,
+            38
+          ],
+          "6480417616": [
+            20,
+            31
+          ],
+          "1038369065": [
+            27
+          ],
+          "657189652": [
+            6
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "gap": "Honest low-cost entry and hardship pricing (a real free tier, no surprise billing, pay-what-you-want that is actually honored)",
+        "evidence": "8 reviews in 5 apps (Hallow 3, Duolingo 2, Breeze 1, Headspace 1, Flo 1).",
+        "currently_served_by": "Not served; Breeze's pay-what-you-want framing was liked by one user and then contradicted by billing complaints, and Hallow's promised hardship exemption was withdrawn.",
+        "apps": [
+          "1450365119",
+          "493145008",
+          "1038369065",
+          "570060128",
+          "1405323394"
+        ],
+        "approx_review_count": 8,
+        "best_quote": {
+          "app_id": "493145008",
+          "rating": 1,
+          "text": "At least leave 4 ones you don’t have to pay for."
+        },
+        "evidence_review_idx_by_app": {
+          "1450365119": [
+            9
+          ],
+          "493145008": [
+            18
+          ],
+          "1038369065": [
+            32
+          ],
+          "570060128": [
+            22,
+            29
+          ],
+          "1405323394": [
+            30,
+            32,
+            37
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "gap": "Personalized rather than generic content and a richer logging vocabulary (symptoms, contraception, appetite, delete or edit past entries)",
+        "evidence": "8 reviews in 4 apps (Flo 3, Duolingo 2, Clue 2, Co-Star 1).",
+        "currently_served_by": "Partly by Clue (detailed tracking), but both period trackers still draw requests for missing options and generic articles.",
+        "apps": [
+          "1264782561",
+          "1038369065",
+          "570060128",
+          "657189652"
+        ],
+        "approx_review_count": 8,
+        "best_quote": {
+          "app_id": "1038369065",
+          "rating": 2,
+          "text": "The articles are super basic and not actually customized to the user."
+        },
+        "evidence_review_idx_by_app": {
+          "1264782561": [
+            16
+          ],
+          "1038369065": [
+            33,
+            37,
+            40
+          ],
+          "570060128": [
+            14,
+            34
+          ],
+          "657189652": [
+            2,
+            37
+          ]
+        }
+      },
+      {
+        "rank": 6,
+        "gap": "A guaranteed human-authored or AI-opt-out mode for personal, health and faith content",
+        "evidence": "7 reviews in 6 apps (Gentler Streak 2, Co-Star 1, Headspace 1, Duolingo 1, Hallow 1, Clue 1).",
+        "currently_served_by": "Only Gentler Streak says its AI is optional (per a reviewer); Clue is praised for hiring real researchers instead of AI-generated content (1 positive review, included in the count).",
+        "apps": [
+          "1576857102",
+          "1264782561",
+          "493145008",
+          "570060128",
+          "1405323394",
+          "657189652"
+        ],
+        "approx_review_count": 7,
+        "best_quote": {
+          "app_id": "1264782561",
+          "rating": 2,
+          "text": "until there’s at least an option to turn off the generative ai"
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            29,
+            31
+          ],
+          "1264782561": [
+            21
+          ],
+          "493145008": [
+            17
+          ],
+          "570060128": [
+            32
+          ],
+          "1405323394": [
+            33
+          ],
+          "657189652": [
+            4
+          ]
+        }
+      },
+      {
+        "rank": 7,
+        "gap": "Relationship roles and controls: a partner or supporter role that is not the tracker, and mute/block controls for friends in a feed",
+        "evidence": "6 reviews in 3 apps (Flo 3, Co-Star 2, Clue 1).",
+        "currently_served_by": "Not served. No review asks for leaderboards, leagues or competition, and only about a dozen reviews mention friends, community or in-app sharing at all; friend features are requested only where they already exist (Duolingo friends broke after an update, Co-Star users want to mute friends), so the social demand in this sample is about control and roles, not more social features.",
+        "apps": [
+          "1264782561",
+          "1038369065",
+          "657189652"
+        ],
+        "approx_review_count": 6,
+        "best_quote": {
+          "app_id": "657189652",
+          "rating": 1,
+          "text": "Clue has no way to recognize that I am male, do not have periods, and do not want a subscription."
+        },
+        "evidence_review_idx_by_app": {
+          "1264782561": [
+            2,
+            12
+          ],
+          "1038369065": [
+            0,
+            36,
+            41
+          ],
+          "657189652": [
+            32
+          ]
+        }
+      },
+      {
+        "rank": 8,
+        "gap": "A low-overwhelm, state-based way back into content for returning users (what do I need right now) and skip-the-intro modes",
+        "evidence": "6 reviews in 3 apps (Calm 3, Headspace 2, Hallow 1).",
+        "currently_served_by": "Not served in meditation and prayer libraries; Headspace and Calm users describe getting lost or having to sit through introductions.",
+        "apps": [
+          "493145008",
+          "571800810",
+          "1405323394"
+        ],
+        "approx_review_count": 6,
+        "best_quote": {
+          "app_id": "493145008",
+          "rating": 1,
+          "text": "it feels like doom scrolling for 15 minutes before I find a meditation that will actually help me"
+        },
+        "evidence_review_idx_by_app": {
+          "493145008": [
+            8,
+            16
+          ],
+          "571800810": [
+            20,
+            32,
+            33
+          ],
+          "1405323394": [
+            20
+          ]
+        }
+      },
+      {
+        "rank": 9,
+        "gap": "Age-appropriate guardrails: minors appear in a weight-loss tracker (a self-described 16-year-old), a 13+ period app whose age field cannot hold the user's birth year, and a faith app that treats a 17-year-old as a minor (risk flag more than a feature gap)",
+        "evidence": "4 reviews in 4 apps (Headspace 1, Cal AI 1, Flo 1, Hallow 1).",
+        "currently_served_by": "Not visible in the reviews of any app in the packet.",
+        "apps": [
+          "493145008",
+          "6480417616",
+          "1038369065",
+          "1405323394"
+        ],
+        "approx_review_count": 4,
+        "best_quote": {
+          "app_id": "6480417616",
+          "rating": 5,
+          "text": "I really want to lose weight but it’s hard for me"
+        },
+        "evidence_review_idx_by_app": {
+          "493145008": [
+            2
+          ],
+          "6480417616": [
+            17
+          ],
+          "1038369065": [
+            15
+          ],
+          "1405323394": [
+            41
+          ]
+        }
+      },
+      {
+        "rank": 10,
+        "gap": "Cycle-aware adaptation outside pure cycle trackers and for irregular cycles (hypothesis; evidence is thin)",
+        "evidence": "3 reviews in 3 apps (Gentler Streak 1, Flo 1, Clue 1).",
+        "currently_served_by": "Only hinted at: Clue's planning reminders do not adapt to fluctuating periods, Flo widens its estimate to two weeks, and Gentler Streak puts menstruation data behind a paywall. No fitness, meditation or nutrition app in the packet is reported as cycle-aware, but absence of mention is not proof.",
+        "apps": [
+          "1576857102",
+          "1038369065",
+          "657189652"
+        ],
+        "approx_review_count": 3,
+        "best_quote": {
+          "app_id": "657189652",
+          "rating": 4,
+          "text": "helping me cope with PMS in work and social situations"
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            35
+          ],
+          "1038369065": [
+            2
+          ],
+          "657189652": [
+            26
+          ]
+        }
+      },
+      {
+        "rank": 11,
+        "gap": "Hybrid and strength-first programming (strength plus cardio, strength recognized as a good workout, reformer at home)",
+        "evidence": "3 reviews in 3 apps (Gentler Streak 1, Sweat 1, Down Dog Pilates 1).",
+        "currently_served_by": "Sweat and Down Dog cover adjacent modalities; Gentler Streak does not credit strength work.",
+        "apps": [
+          "1576857102",
+          "1049234587",
+          "6443820380"
+        ],
+        "approx_review_count": 3,
+        "best_quote": {
+          "app_id": "1049234587",
+          "rating": 5,
+          "text": "I do wish there was a program that combined strength training and cardio."
+        },
+        "evidence_review_idx_by_app": {
+          "1576857102": [
+            36
+          ],
+          "1049234587": [
+            7
+          ],
+          "6443820380": [
+            9
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2786 @@
+{
+ "apps": {
+  "1528595748": {
+   "name": "Finch: Self-Care Pet",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 5,
+     "2": 4,
+     "3": 3,
+     "4": 2,
+     "5": 28
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 762610,
+    "avg": 4.95
+   },
+   "core": "Turns self-care into caring for a small creature, so the user can look after themselves indirectly, in tiny steps, without the guilt and heaviness that normally block self-care.",
+   "trigger": "Low mood, anxiety and no drive to do anything (“before i discovered this app i was severely depressed had severe anxiety & honestly didnt wanna do anything”), trouble keeping a routine or doing chores; discovery through a friend on Instagram (“I saw a friend of mine use this app on IG”) or through family.",
+   "retention": "Cue: the pet's daily needs and reminders. Action: micro self-care goals (5-minute workout, mood check-in, gratitude). Reward: energy that sends the pet on adventures, gems, outfits, treehouse decor, monthly-pass items. Feeling: cute warmth and a forgiving tone (“Be honest, but not harsh on yourself.”). Streak depth (two-year daily users, “I had over 600 days of adventures”) makes leaving costly, so data loss reads as betrayal.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Playful, forgiving, lighthearted. Pressure language appears only when bugs block rewards and the app starts to feel like punishment.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 2,
+      "text": "Be honest, but not harsh on yourself."
+     },
+     {
+      "rating": 5,
+      "idx": 25,
+      "text": "in a fun and lighthearted way"
+     }
+    ]
+   },
+   "identity": "Responsibility and self-care identity more than aspiration: “it helps me learn how to be more responsible in taking care of things”; a mother describes recovery (“as a mom this life has really changed & saved my life”); adult nostalgia (“reminds me of the handheld tech pet I had as a kid”). No that-girl-style aspiration language.",
+   "aesthetics": {
+    "level": "high",
+    "mentions_in_sample": 14,
+    "notes": "Cute/adorable/lovely is the dominant praise word (pet, outfits, treehouse, rainbows). Users want a “good cute micropet” and get angry when RNG hands out blobs. Art provenance matters (AI-art backlash)."
+   },
+   "social": "Informal but real: discovered via a friend on Instagram; one user “converted my family and friends” and they “hold each other accountable” in a light way; mom and grandma introduced it to a young user. The official Discord is moderated for minors, which an adult reviewer rejects.",
+   "money": {
+    "pays_for": "Finch Plus subscription and monthly-pass cosmetics. Users defer paying until attachment is proven (“I try not to pay for games unless I've played them for a year or longer”); one blind reviewer praises that Plus plans adapt to a person's finances.",
+    "price_points": [
+     "Plus advertised at '5 bucks' on sale but '40 bucks' charged (one 1-star review)"
+    ],
+    "paywall_complaints_in_sample": 1,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 1,
+     "free_wall_or_cap": 0,
+     "paid_then_removed": 0,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 1
+    },
+    "notes": "Only 1 billing complaint in the sample and none about the core loop being paywalled; one reviewer values the absence of ads."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low-moderate",
+    "evidence": "Explicit adult-woman-coded cues: “as a mom” and seeking a husband's approval for a purchase (“Trying to convince my husband”). Register: 'so cute', 'adorable', 'birb', self-care framing in about a third of reviews. Counter-evidence: male users complain about 'boy things' and weak male skins, and teens/kids and a grandmother-referral appear, so the audience is mixed."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "when you click off your tiny little goals that you set you really do get things done"
+    },
+    {
+     "rating": 5,
+     "idx": 25,
+     "text": "we all hold each other accountable on our self care goals in a fun and lighthearted way"
+    },
+    {
+     "rating": 5,
+     "idx": 15,
+     "text": "before i discovered this app i was severely depressed had severe anxiety & honestly didnt wanna do anything"
+    },
+    {
+     "rating": 5,
+     "idx": 8,
+     "text": "reminds me of the handheld tech pet I had as a kid"
+    },
+    {
+     "rating": 2,
+     "idx": 41,
+     "text": "This negative reinforcement is making me want to quit on day 15"
+    }
+   ],
+   "anti_patterns": "Losing the streak to save corruption (one user dropped from over 600 to 200 days of adventures and lost 20,000 gems, “the third time”); generative-AI art in marketing/assets (3 reviews, one ends with “Edit October 2026: deleted. AI art (art theft)”); rewards that cannot be claimed (felt as punishment); rigid task order (“not possible because im not a robot”); RNG frustration with cute collectibles; kid-oriented or female-coded spaces and skins that exclude adults and men; a $5-vs-$40 billing surprise."
+  },
+  "1596403446": {
+   "name": "Me+ Lifestyle Routine",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 4,
+     "2": 1,
+     "3": 7,
+     "4": 4,
+     "5": 26
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 248364,
+    "avg": 4.8
+   },
+   "core": "A cute, free-to-start routine checklist that turns chores and daily structure into small doable wins for people who struggle to get going or stay organised.",
+   "trigger": "Hating chores and disorganisation (“gets me on my feet and to do stuff I HATE”), ADHD (“It helped me embrace ADHD”), hard mornings, wanting a routine. Many reviews are short, young-sounding or in Spanish.",
+   "retention": "Cue: routine reminders and notifications. Action: tick off routine tasks (cleaning, morning routine, putting clothes away). Reward: a sense of order and motivation. Feeling: relief (“Cus it relaxes me”). The loop is cut by the free tier (about 6 tasks), which hits exactly the users who are most engaged.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Light, upbeat relief. Pressure comes only from upsell prompts and notification volume.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 8,
+      "text": "Cus it relaxes me"
+     },
+     {
+      "rating": 1,
+      "idx": 34,
+      "text": "harasses you with notifications"
+     }
+    ]
+   },
+   "identity": "“becoming a better person and getting into a better routine”; “It helped me embrace ADHD” (acceptance rather than fixing); “helped me become better at doing things”.",
+   "aesthetics": {
+    "level": "low",
+    "mentions_in_sample": 1,
+    "notes": "One explicit cute mention (“it’s just so cute”); the draw is function and a free entry point. A competitor reviewer recognises Structured by its 'pink checkmark icon'."
+   },
+   "social": "None in the sample: no review mentions friends, sharing or a community.",
+   "money": {
+    "pays_for": "Me+ VIP / unlimited subscription to lift the free-tier cap and an AI task-list import (token-limited); one reviewer re-subscribed for a full year for the AI import.",
+    "price_points": [
+     "'try for $0.00' trial without a stated price",
+     "$40 charged at the end of the trial even after cancelling (1-star review)"
+    ],
+    "paywall_complaints_in_sample": 13,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 3,
+     "free_wall_or_cap": 12,
+     "paid_then_removed": 0,
+     "price_fatigue": 1,
+     "of_which_in_1_3_star_reviews": 10
+    },
+    "notes": "Highest paywall/billing complaint density in the packet. Of its 12 sampled 1-3 star reviews, 10 are about paying."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "One review with 💅 emoji (“I reallyyyy like this app💅💅”) and 'so cute'; otherwise short, young, multilingual reviews with no gender cues."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "It gets me on my feet and to do stuff I HATE"
+    },
+    {
+     "rating": 5,
+     "idx": 29,
+     "text": "I really recommend this because it helped with my ADHD"
+    },
+    {
+     "rating": 5,
+     "idx": 9,
+     "text": "becoming a better person and getting into a better routine for the day"
+    },
+    {
+     "rating": 2,
+     "idx": 33,
+     "text": "I'm only allowed 6 task on free plan"
+    },
+    {
+     "rating": 1,
+     "idx": 39,
+     "text": "I was charged $40 at the end of the “free” trial despite having already canceled"
+    }
+   ],
+   "anti_patterns": "A free tier capped at about 6 tasks on the core job (“That's Bearly a note pad.”); a trial that hides the price (“It also says try for $0.00”); charges after cancelling; notification harassment and an alarm that cannot be turned off; an AI feature gated by tokens even after a yearly re-subscription."
+  },
+  "1203637303": {
+   "name": "Fabulous: Daily Habit Tracker",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 9,
+     "2": 3,
+     "3": 0,
+     "4": 10,
+     "5": 20
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 89233,
+    "avg": 4.42
+   },
+   "core": "A coach-like, calm morning/evening routine that makes getting your life together feel doable for people who have repeatedly failed at basic habits.",
+   "trigger": "Decades of failing at basic habits (“For twenty years I have been struggling with basic habits like drinking water and walking”), ADHD/autism/neurodivergence, and life upheaval (caregiving for a dying parent, loss, divorce, illness).",
+   "retention": "Cue: start-of-day routine and reminders. Action: small guided habits (water, walking, meditation) with an adjustable challenge level. Reward: a one-minute pep talk, serene visuals and a sense of progress on a 'journey'. Feeling: calm and centred. Retention is fragile because billing and cancellation experiences dominate the negatives.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Serene and peaceful with coach-style encouragement; users explicitly dislike anything that breaks the serene mood (an AI bot 'a little tacky').",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 7,
+      "text": "Very peaceful and serene!"
+     },
+     {
+      "rating": 4,
+      "idx": 26,
+      "text": "I am more calm and centered"
+     }
+    ]
+   },
+   "identity": "“keeps reminding you that you started a journey to be the best you”; “something to get your life together”; “Transformative” and “a godsend” for “my Neurodivergent Brain”; “I’m doing things “naturally” that I haven’t been able to do. Ever!”",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 3,
+    "notes": "“BEAUTIFUL artwork!”, “the serene look of the app”, “a great design vibe”; the new AI bot is called tacky."
+   },
+   "social": "Low. The description promotes live challenges and a community, but no sampled review praises them.",
+   "money": {
+    "pays_for": "Membership (trial that converts to roughly $40) and cross-sold sub-apps; one reviewer says “Worth every penny”. Several want a lifetime option.",
+    "price_points": [
+     "'$20 a month' vs '$40 for two months' (confusing)",
+     "$1.00 intro plan",
+     "'$40 bill' after a trial",
+     "about $100 per month across 10 sub-apps (one complaint)"
+    ],
+    "paywall_complaints_in_sample": 11,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 9,
+     "free_wall_or_cap": 1,
+     "paid_then_removed": 0,
+     "price_fatigue": 3,
+     "of_which_in_1_3_star_reviews": 9
+    },
+    "notes": "9 of its 12 sampled 1-3 star reviews are billing/cancellation traps (words like scam, “Subscription trap”)."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "No explicit gender cues; reviewers read older and neurodivergent (caregiving, divorce, “Neurodivergent Brain”)."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 4,
+     "text": "I’m not sure what magic they are using but I’m doing things “naturally” that I haven’t been able to do. Ever!"
+    },
+    {
+     "rating": 5,
+     "idx": 16,
+     "text": "For my Neurodivergent Brain, this app is a godsend."
+    },
+    {
+     "rating": 5,
+     "idx": 7,
+     "text": "Very peaceful and serene!"
+    },
+    {
+     "rating": 5,
+     "idx": 28,
+     "text": "If you’ve been looking for something to get your life together"
+    },
+    {
+     "rating": 1,
+     "idx": 37,
+     "text": "It’s impossible to cancel. You can’t cancel in the app."
+    }
+   ],
+   "anti_patterns": "Trial-to-annual billing opacity and hard cancellation (9 'scam'-type reviews, e.g. “make you feel vulnerable and then betray you”); cross-selling other apps (“I don’t really care for all of the apps it prompts”); an AI bot that breaks the serene look; a fixed 2 am day rollover with no way to go back a day; an interface that ADHD users find confusing."
+  },
+  "1499198946": {
+   "name": "Structured: Daily Planner Todo",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 7,
+     "2": 0,
+     "3": 5,
+     "4": 3,
+     "5": 27
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 167412,
+    "avg": 4.79
+   },
+   "core": "Turns an invisible, chaotic day into a visible ordered timeline, so overwhelmed or ADHD users can see what comes next and watch accomplishments pile up.",
+   "trigger": "Chaos and overlap (“my events and tasks were all over the place and constantly overlapped”), ADHD (4 self-identified), students; “No planner or calendar has worked for me”.",
+   "retention": "Cue: morning plan, Inbox capture, Home Screen presence. Action: drag tasks onto the timeline and tick them. Reward: seeing the day fill in (“satisfying and motivating”). Feeling: relief and order. Multi-year users (“since early 2021”) and lapsed users who return.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Calm order and quiet satisfaction rather than hype; the only harsh language is in paywall reviews.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 1,
+      "text": "there’s something very satisfying and motivating about being able to see the accomplishments through the day"
+     },
+     {
+      "rating": 5,
+      "idx": 2,
+      "text": "Turns chaos into order"
+     }
+    ]
+   },
+   "identity": "“Helped me get my life together”, “put myself together”, “it’s saved my life”; evangelist identity: “I’ve become the friend that annoys you until you get this app!”; loyal-user identity (“Loyal User”, “A Home Screen Mainstay”).",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 3,
+    "notes": "“Beautiful app too!”; a Russian review praises being 'beautifully designed'; customisation of colour, icon and name matters."
+   },
+   "social": "Word of mouth only: “The Annoying Friend” and reviewers recommending it to others.",
+   "money": {
+    "pays_for": "Pro: a one-time lifetime purchase is loved and called “incredibly refreshing”; an annual subscription is resented; one loyal subscriber of 9 months stayed until a core feature moved behind an extra fee.",
+    "price_points": [
+     "extra $30 paywall for repeating tasks on top of a subscription",
+     "two-day trial that charged the full year",
+     "one-time purchase option"
+    ],
+    "paywall_complaints_in_sample": 10,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 2,
+     "free_wall_or_cap": 7,
+     "paid_then_removed": 2,
+     "price_fatigue": 2,
+     "of_which_in_1_3_star_reviews": 7
+    },
+    "notes": "7 of its 12 sampled 1-3 star reviews are wall/billing complaints; 4 reviews are specifically about repeating tasks being locked."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "No explicit gender cues; includes a child user and ADHD self-identified adults."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 1,
+     "text": "there’s something very satisfying and motivating about being able to see the accomplishments through the day"
+    },
+    {
+     "rating": 5,
+     "idx": 24,
+     "text": "Idk what about this app works with my proclivity to absent-mindedness and struggle with menial planning, but it does and it’s saved my life."
+    },
+    {
+     "rating": 5,
+     "idx": 21,
+     "text": "Helped me get my life together. Beautiful app too!"
+    },
+    {
+     "rating": 5,
+     "idx": 29,
+     "text": "I’ve become the friend that annoys you until you get this app!"
+    },
+    {
+     "rating": 4,
+     "idx": 10,
+     "text": "repeating tasks has been locked behind an additional $30 paywall without any reasonable explanation"
+    }
+   ],
+   "anti_patterns": "Paywalling repeating tasks, the core of a routine tool (4 reviews, e.g. “you shouldn’t make repeats need pro that’s stupid”); “Everything is on pro”; removing value users already paid for (lifetime access lost; a “Restore” button in 8 pixel font); a fake-short trial; background network activity (privacy); too much setup for people who do not already know what they are doing."
+  },
+  "1668932264": {
+   "name": "Voidpet Garden: Mental Health",
+   "sample": {
+    "reviews": 36,
+    "stars": {
+     "1": 5,
+     "2": 1,
+     "3": 0,
+     "4": 7,
+     "5": 23
+    },
+    "reviews_1_to_3_star": 6,
+    "ratings_us": 5718,
+    "avg": 4.86
+   },
+   "core": "Gives feelings a cute, befriendable body (each emotion becomes a pet), so users can look at anxiety, anger or sadness from a safe distance and grow something from it.",
+   "trigger": "Anxiety, depression (one reviewer mentions suicidal thoughts), postpartum days, school stress, wanting a mood boost; several arrive via the studio's earlier game (“I came across dungeons first”; “the silly little voids had any other games”), and one says no other mental-health app had caught their attention.",
+   "retention": "Cue: needing to process an emotion or a daily check-in (“check on it nearly every day”). Action: log/journal an emotion, grow plants and pets. Reward: new void pets, levels, battles. Feeling: calm, cozy, a mood boost.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Calming and soothing; simplicity is valued because it makes relaxing easier.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 7,
+      "text": "This game is so calming!!!!!"
+     },
+     {
+      "rating": 5,
+      "idx": 23,
+      "text": "it isn’t overly complicated, which i appreciate as it makes it easier to relax with"
+     }
+    ]
+   },
+   "identity": "Weak and displaced: feelings become creatures rather than traits of the self. One user maps their day onto the roster (“there is not yet a Voidpet species for the feeling of fear. And I am feeling that emotion strongly today”). Gen Z internet idiom is built into the game: a move called “girl boss” and defences lowered by “gaslighting and gatekeeping”.",
+   "aesthetics": {
+    "level": "high",
+    "mentions_in_sample": 7,
+    "notes": "“cute void pets”, “great aesthetic”, “the music is nice”; 'silly little guys' is the affectionate register."
+   },
+   "social": "None (a reviewer notes their sister has the same bug).",
+   "money": {
+    "pays_for": "Wants to buy extras: one tried to buy the 'starter pack', another says “I can’t afford to upgrade”. The one real complaint is a paywall revealed only after emotional disclosure.",
+    "price_points": [],
+    "paywall_complaints_in_sample": 1,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 1,
+     "free_wall_or_cap": 0,
+     "paid_then_removed": 0,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 1
+    },
+    "notes": "1 billing complaint in 36 reviews; the objection is about timing (“betrayal”), not price."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "moderate",
+    "evidence": "Explicit: pregnancy and postpartum use (“during late pregnancy”, “during postpartum phase”, “the roughest hormonal/emotional days/nights”). Register: 'girl boss', 'gaslighting and gatekeeping', 'silly little guys', cute/aesthetic framing. Counter-evidence: RPG combat fans and a parent warning about 6-year-olds."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 10,
+     "text": "it’s fantastic and calming (while having great aesthetic) during some of the roughest hormonal/emotional days/nights"
+    },
+    {
+     "rating": 5,
+     "idx": 21,
+     "text": "you know what Pokémon doesn’t have? The ability to use a move called girl boss"
+    },
+    {
+     "rating": 5,
+     "idx": 23,
+     "text": "all my silly little guys"
+    },
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "having somebody to talk that doesn’t really give that much thought to it"
+    },
+    {
+     "rating": 1,
+     "idx": 31,
+     "text": "It felt like a betrayal to be solicited for cash the MOMENT I’d finished reflecting on my mental health."
+    }
+   ],
+   "anti_patterns": "A paywall shown only after the user has spilled their anxieties; generative AI chat in a mental-health setting (2-star, “morally I don’t really stand with the prevalence of AI features”); sign-in, purchase and crash bugs (4), two of them ejecting users right after onboarding; emotion content too intense for small children; doubt that it does much for mental health beyond naming characters after emotions."
+  },
+  "1562706384": {
+   "name": "How We Feel",
+   "sample": {
+    "reviews": 37,
+    "stars": {
+     "1": 1,
+     "2": 4,
+     "3": 2,
+     "4": 4,
+     "5": 26
+    },
+    "reviews_1_to_3_star": 7,
+    "ratings_us": 29980,
+    "avg": 4.87
+   },
+   "core": "Gives people the right word and a safe way to look at their feelings, so unpleasant emotions become understandable data instead of a verdict on themselves.",
+   "trigger": "Hard moments and therapy follow-through (“A therapist recommended this app to me years ago”), wanting to name and understand feelings, curiosity about patterns; couples sharing check-ins.",
+   "retention": "Cue: a hard moment or a daily check-in. Action: pick a precise emotion word, body sensation and context in seconds; optional journaling and 'go deeper'. Reward: pattern views by place, people and activity over months, coping tools. Feeling: grounded and understood. Long-run users (670 days), and it is free.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Clinical-warm and non-judgemental; sensitive to anything that labels feelings as bad (the pleasant/unpleasant binary bothered one user).",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 15,
+      "text": "it takes something as uncomfortable as tracking emotions and makes it so pleasurable"
+     },
+     {
+      "rating": 5,
+      "idx": 7,
+      "text": "Accessible during high emotions to help you ground yourself."
+     }
+    ]
+   },
+   "identity": "Self-revision through vocabulary: “identifying the specifics and subtleties has revealed I am really more hopeful, positive and balanced than I realized”; reflective-person identity (“as someone who does daily and monthly reflections”); a request for a “How We Feel Wrapped”, i.e. a shareable identity artifact.",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 3,
+    "notes": "“Beautifully designed”; “the color scheme is a little loud”; redesigns judged 'corporate' and bloated."
+   },
+   "social": "Professional and relational referral: a therapist recommended it and it is used in therapy sessions; recommended to friends; one couple shares check-ins (“share my check ins with my husband”).",
+   "money": {
+    "pays_for": "Nothing required: free, no ads, donation-funded (per description). Four reviews praise it being free; one asks for “a more expansive paid version” with more emotions, i.e. willingness to pay for depth.",
+    "price_points": [],
+    "paywall_complaints_in_sample": 0,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 0,
+     "free_wall_or_cap": 0,
+     "paid_then_removed": 0,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 0
+    },
+    "notes": "No paywall or billing complaints."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "Only one explicit cue (“my husband”); emotion-literacy and therapy language is not gender-specific."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "A therapist recommended this app to me years ago, and over time I’ve gotten in the habit of using it at least a couple times a week."
+    },
+    {
+     "rating": 5,
+     "idx": 15,
+     "text": "it takes something as uncomfortable as tracking emotions and makes it so pleasurable"
+    },
+    {
+     "rating": 5,
+     "idx": 16,
+     "text": "identifying the specifics and subtleties has revealed I am really more hopeful, positive and balanced than I realized"
+    },
+    {
+     "rating": 5,
+     "idx": 27,
+     "text": "Being completely free with no ads is exactly what people need."
+    },
+    {
+     "rating": 2,
+     "idx": 31,
+     "text": "ai has NO place in mental health"
+    }
+   ],
+   "anti_patterns": "Redesigns that bury long-term patterns (calendar view removed, endless scrolling, 'corporate' look; 4 reviews); AI features pushed in a mental-health tool (2 reviews; “the only redeeming part is that you have the option to turn it off”); a forced binary that taught one reviewer to see feelings as “‘bad’”; a fixed emotion list with no way to add your own; a broken tools section."
+  },
+  "994882113": {
+   "name": "Habitica: Gamified Taskmanager",
+   "sample": {
+    "reviews": 40,
+    "stars": {
+     "1": 2,
+     "2": 2,
+     "3": 6,
+     "4": 5,
+     "5": 25
+    },
+    "reviews_1_to_3_star": 10,
+    "ratings_us": 3499,
+    "avg": 4.3
+   },
+   "core": "Makes the user the hero of an RPG so everyday tasks earn levels, loot and party support, turning obligation into wanting to progress (a reviewer: “I wanted to progress”).",
+   "trigger": "ADHD and procrastination (“We are no longer trying to be pros at crastinating”), a bad habit such as nail biting, school and exams; mostly people who already identify as gamers.",
+   "retention": "Cue: the daily task list and party. Action: check off habits, dailies and to-dos. Reward: gold, XP, pets, hatching potions, gear, quests with friends. Penalty: HP loss and level loss. Feeling: fun and accountability for gamers; shame-crash for users on bad days (“crashed out from the penalties”). Very long tenure (since 2015, 'third year', 'for years').",
+   "emotional_tone": {
+    "primary": "hype/competition",
+    "detail": "RPG stakes and party quests; carries a pressure/guilt edge through penalties that some users cannot tolerate.",
+    "quotes": [
+     {
+      "rating": 4,
+      "idx": 19,
+      "text": "Joining a party and doing quests with friends has made it even more exciting."
+     },
+     {
+      "rating": 4,
+      "idx": 13,
+      "text": "I crashed out from the penalties when having a tough time"
+     }
+    ]
+   },
+   "identity": "Avatar-as-self: “see myself (my avatar) earning coins and improving as a person”; gamer identity (“I’m a gamer”, “Being a gamer at heart”); shame-avoidance (“not be a bum sitting on my couch all day long”); “transformed my life”.",
+   "aesthetics": {
+    "level": "low",
+    "mentions_in_sample": 2,
+    "notes": "Looks are not the draw; collection and customisation are (pets, hatching potions, app icon, task sounds). One reviewer says it “isn't the most attractive design”."
+   },
+   "social": "High: party quests and guilds (missed when removed), spouse and family use, recruiting (“if you want to connect / join my party”); but one reviewer heard party members were “rude and unkind”.",
+   "money": {
+    "pays_for": "Gems, pets, seasonal armour and subscription perks; one reviewer bought pets. Complaints are about gems being almost unobtainable without money and collection being locked to subscribers.",
+    "price_points": [],
+    "paywall_complaints_in_sample": 4,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 0,
+     "free_wall_or_cap": 3,
+     "paid_then_removed": 0,
+     "price_fatigue": 1,
+     "of_which_in_1_3_star_reviews": 1
+    },
+    "notes": "4 paywall complaints in 40 reviews (“Pay to win”)."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "moderate",
+    "evidence": "Male/gamer cues dominate: “I’m a gamer”, “Being a gamer at heart”, “My wife and I”, 'bum sitting on my couch'. No female-coded cues."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 25,
+     "text": "This app is silly but my brain loves to level up and get better equipment."
+    },
+    {
+     "rating": 5,
+     "idx": 5,
+     "text": "I have ADHD and find it hard to do tasks, but this app has been a game changer"
+    },
+    {
+     "rating": 4,
+     "idx": 19,
+     "text": "Joining a party and doing quests with friends has made it even more exciting."
+    },
+    {
+     "rating": 4,
+     "idx": 13,
+     "text": "I crashed out from the penalties when having a tough time and ended up uninstalling it for almost 3 years but i’m back because it’s the only task manager that’s actually worked on me."
+    },
+    {
+     "rating": 3,
+     "idx": 32,
+     "text": "if you want to collect all the pets and such, you have no choice but to subscribe"
+    }
+   ],
+   "anti_patterns": "De-levelling and HP penalties that punish everyone for some users' bad days (“You punish EVERYONE because certain people can’t complete the dailies everyday”); pay-to-collect economy; rude party members; broken discovery and cross-platform reminders; a one-star for being asked to rate (“leave me and my son alone”)."
+  },
+  "1534196157": {
+   "name": "Shmoody: Mood & Habit Tracker",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 11,
+     "2": 1,
+     "3": 0,
+     "4": 3,
+     "5": 27
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 16624,
+    "avg": 4.85
+   },
+   "core": "A warm cat companion that makes people who are depressed, overwhelmed or who 'hate talking' feel heard and gives them one small next step.",
+   "trigger": "Depression and 'rock bottom' (5 reviews citing distress), overwhelm (“I can get overwhelmed with everything that needs done”), ADHD (3), mental-health access through a university plan, wanting something affordable.",
+   "retention": "Cue: low mood or a stuck moment. Action: chat with the AI cat, tiny activities, mood check-ins, Hz and ambient audio, optional gamification. Reward: feeling heard (“friend in your pocket”), celebration animations, community. Feeling: warm and supported; one user says they would be “devastated” if the app disappeared.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Warm and encouraging “without being cheesy”; the only friction is gamification that feels forced.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 2,
+      "text": "it’s gentle, encouraging, and meets you where you’re at"
+     },
+     {
+      "rating": 5,
+      "idx": 21,
+      "text": "it really feels like you have a friend in your pocket. It really does make you feel heard and supported"
+     }
+    ]
+   },
+   "identity": "A self-narrative of not sticking, now sticking: “This is the only personal development app I’ve ever stuck with”; neurodivergent identity (“I’m neurodivergent”, “This app has changed my life for the better!”); “be intentional”.",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 4,
+    "notes": "“so cute”, a cat mascot, “cute celebration animation”; one critic found the unskippable dancing-cat tutorial “dumb”. The mascot works as a relationship, not as decoration."
+   },
+   "social": "Community praised (“real people in the community”, “connecting with people going through similar troubles”); the reviewer's therapist asked to be sent the app after hearing about it; three reviews in total.",
+   "money": {
+    "pays_for": "An annual subscription of about $40 described as “Well worth paying”; “the full unlimited version that I was able to obtain for a fairly low price”; one reviewer paid for the year after a one-day trial. Affordability is a selling point (“first of its kind that's actually affordable”).",
+    "price_points": [
+     "$40/year",
+     "$42.39 charged (complaint)",
+     "$69.99 charged (complaint)",
+     "low-cost trial; some access through a university plan"
+    ],
+    "paywall_complaints_in_sample": 8,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 7,
+     "free_wall_or_cap": 1,
+     "paid_then_removed": 0,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 8
+    },
+    "notes": "8 of its 12 sampled 1-3 star reviews are billing or lock complaints (7 about unwanted charges, cancelling or refunds; 1 features time-locked for 12 hours)."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low-moderate",
+    "evidence": "Weak cues: “my girlfriend”, “crochet” as a daily suggestion, hearts/sparkles emoji, “so cute”, “Warm and fuzzy”, depression-and-self-care framing. No explicit self-identification as female."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 14,
+     "text": "I’m severely depressed and hate talking. I feel so open with Shmoody I can say anything"
+    },
+    {
+     "rating": 5,
+     "idx": 21,
+     "text": "it really feels like you have a friend in your pocket. It really does make you feel heard and supported"
+    },
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "it’s gentle, encouraging, and meets you where you’re at"
+    },
+    {
+     "rating": 5,
+     "idx": 5,
+     "text": "Well worth paying $40/ yearly subscription in my opinion."
+    },
+    {
+     "rating": 1,
+     "idx": 36,
+     "text": "it just felt like an endless horribly-gamified tutorial"
+    }
+   ],
+   "anti_patterns": "Billing and cancel traps (8 of 12 negatives); features time-locked for 12 hours on the core job; an unskippable gamified onboarding; arbitrary points (“shouldn’t there be a purpose to the points?”); AI chat in mental health (2); privacy worries (“The cat does not know anything about privacy rules”); repetitive suggestions (crochet every day)."
+  },
+  "1194023242": {
+   "name": "Daylio Journal - Mood Tracker",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 8,
+     "2": 2,
+     "3": 2,
+     "4": 5,
+     "5": 25
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 61992,
+    "avg": 4.77
+   },
+   "core": "A no-typing micro-diary that turns days into a private, long-running record of how the user actually is, so users can understand themselves and keep the proof.",
+   "trigger": "Wanting a low-effort, private way to track mood, medication and symptoms; bipolar II monitoring; venting; failing to stick with other journals (“I’ve tried physical journalling, journalling in my notes app, and several other apps, but none of them really stuck with me”).",
+   "retention": "Cue: a nightly habit. Action: tap mood and activities (optional photo, voice memo, note). Reward: a streak that can be back-filled, mood charts, 'On This Day', exports. Feeling: grounded, self-knowing, a keepsake. The archive compounds (almost 500 and almost 1,000 days; “10 years strong”).",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Quiet, private, forgiving; the forgiving streak is celebrated and unwanted memories are resented.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 8,
+      "text": "i love how you can fix your streak with literally no time limit"
+     },
+     {
+      "rating": 5,
+      "idx": 12,
+      "text": "a nice relaxing layout"
+     }
+    ]
+   },
+   "identity": "Self-as-data: a “life changing app if you use it correctly” for learning “how to live happier, healthier, wiser”; a writer-ly main-character frame (“like I’m the main character in an Andy Weir sci-fi novel”); the person who finally found a journal that stuck.",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 4,
+    "notes": "“Amazing design”, “nice ui ux”, relaxing layout; a redesigned PDF export judged “unattractive” triggered a 1-star."
+   },
+   "social": "None; privacy is the theme (one user wants the PIN lock for free so that “only u can get in”).",
+   "money": {
+    "pays_for": "A one-time purchase for full access and backup (“really worth it”) or the annual plan (“well worth it”). Complaints concern annual-only billing with a trial that converts to a full year and Apple refusing refunds.",
+    "price_points": [],
+    "paywall_complaints_in_sample": 8,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 3,
+     "free_wall_or_cap": 4,
+     "paid_then_removed": 0,
+     "price_fatigue": 1,
+     "of_which_in_1_3_star_reviews": 6
+    },
+    "notes": "8 complaint-type reviews (3 trial/cancel traps, 4 paywalled basics such as PIN lock, more emotions, even creating an account, 1 “Waste of time and money” about sync)."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "No explicit gender cues; medication/symptom and mood tracking is used across conditions (bipolar II, depression)."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 8,
+     "text": "was devastated that i would lose my 2 year streak, but was able to come back months later and fill it in to save the streak"
+    },
+    {
+     "rating": 5,
+     "idx": 6,
+     "text": "I could export the full CSV file, upload it to Gemini/ GPT, and ask it 101 questions about my habits, rhythms, and patterns"
+    },
+    {
+     "rating": 5,
+     "idx": 4,
+     "text": "The one-time pay for full access and backup is really worth it."
+    },
+    {
+     "rating": 1,
+     "idx": 39,
+     "text": "I closed my app out once and everything is GONE."
+    },
+    {
+     "rating": 1,
+     "idx": 34,
+     "text": "the suggested icon was a noose, which felt inappropriate"
+    }
+   ],
+   "anti_patterns": "Losing months of entries or no sync (3 reviews); an annual-only subscription whose trial converts to a full year; paywalled basics (PIN lock, more emotions, account creation); repeated review prompts (one user is prompted twice a day after rating low); a suggested icon of a noose for depression; forced 'moment in history' tiles that push days “a person may not want to revisit”."
+  },
+  "963034692": {
+   "name": "Streaks",
+   "sample": {
+    "reviews": 36,
+    "stars": {
+     "1": 3,
+     "2": 4,
+     "3": 5,
+     "4": 6,
+     "5": 18
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 27350,
+    "avg": 4.81
+   },
+   "core": "A one-tap chain of daily dots that gives quiet, visible proof of consistency, so users can hold themselves accountable without anyone else watching.",
+   "trigger": "Building habits and quitting bad ones; an ADHD student (“aerospace engineering student with adhd”); a long-COVID funk (“I have been in a funk for well over a year”); an aspiring writer; an overflowing task system.",
+   "retention": "Cue: widget, Apple Watch dots, reminders. Action: tap the habit (timer or Health-linked). Reward: icons turning glossy and a big streak number (“thats the dopamine”). Feeling: satisfaction; 8-10-year daily users.",
+   "emotional_tone": {
+    "primary": "mixed",
+    "detail": "Users ask for a gentle reminder yet are motivated by self-imposed chain pressure; harsh typography (ALL CAPS) is read as angry.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 22,
+      "text": "I don’t need to gamify my habits, I just need a gentle reminder."
+     },
+     {
+      "rating": 5,
+      "idx": 19,
+      "text": "in such a gentle but constant path"
+     }
+    ]
+   },
+   "identity": "“Life transforming!” (title) and “genuinely improved my life”; accountability to a self that cannot be trusted alone (“Accountability to only myself is often not enough for me”).",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 8,
+    "notes": "Praise for “visual simplicity” and glossy icons; complaints that the UI is “not that nice to look at” and that ALL CAPS tasks look “kinda ANGRY”. Aesthetics are secondary to speed and widgets."
+   },
+   "social": "Weak: sharing goals with friends was “weirdly complicated” (1-star); the description offers sharing for accountability.",
+   "money": {
+    "pays_for": "A one-time purchase, loved: “worth every cent”, “Insanely Generous”, “doesn’t need a subscription every month”; accepted even without a trial (“you have to pay to see if you like the app. $5 or $6, so what”).",
+    "price_points": [
+     "$5-6",
+     "$10 (“100% worth the $10”)"
+    ],
+    "paywall_complaints_in_sample": 3,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 1,
+     "free_wall_or_cap": 0,
+     "paid_then_removed": 0,
+     "price_fatigue": 2,
+     "of_which_in_1_3_star_reviews": 3
+    },
+    "notes": "No paywall complaints. 3 value-for-money or refund complaints, all about usability or integration, not about locked features."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "No gender cues; the one self-description is an engineering student with ADHD."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 11,
+     "text": "Accountability to only myself is often not enough for me, but as soon as I see those days start to add up on here, it gamifies my habits enough to get me to stay on track!"
+    },
+    {
+     "rating": 5,
+     "idx": 22,
+     "text": "I don’t need to gamify my habits, I just need a gentle reminder."
+    },
+    {
+     "rating": 4,
+     "idx": 8,
+     "text": "Make it big, thats the dopamine, the motivator."
+    },
+    {
+     "rating": 5,
+     "idx": 12,
+     "text": "this is the one app that doesn’t need a subscription every month. No idea why that was ever normalized."
+    },
+    {
+     "rating": 4,
+     "idx": 10,
+     "text": "Wish Tasks weren’t auto ALL CAPS. Not easy on the eyes & kinda ANGRY."
+    }
+   ],
+   "anti_patterns": "Missing or broken Apple Watch complications and widgets for people who live there (7 reviews), a rigid day boundary and no easy retroactive edits (“I would love a way to change the end time of your day”), no 'no more than' or quarterly frequencies, tasks in ALL CAPS read as angry, inconsistent UX, a sense that it is not updated."
+  },
+  "1497465230": {
+   "name": "Opal: Screen Time Control",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 6,
+     "2": 4,
+     "3": 2,
+     "4": 8,
+     "5": 22
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 89618,
+    "avg": 4.72
+   },
+   "core": "Externalises willpower: lets users pre-commit to blocking the apps they cannot stop opening, turning shame about doomscrolling into relief and a felt sense of control.",
+   "trigger": "Doomscrolling and social-media compulsion that damages school or focus (“I went from an all A’s extremely high achieving student to a student that struggled in all of his classes due to doomscrolling”), ADD/ADHD, and compulsions such as lust.",
+   "retention": "Cue: the urge to scroll or a scheduled block. Action: set blocks and limits; a breathing pause before unlocking. Reward: screen time falls, gems and progress. Feeling: control, pride, relief. Over-a-year users say it is “so embedded into my routine”. It breaks when blocks stop holding.",
+   "emotional_tone": {
+    "primary": "pressure/guilt/shame",
+    "detail": "The origin is guilt about compulsive scrolling and the app acts as a firm external enforcer, but the felt outcome is relief, control and pride rather than shame.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 19,
+      "text": "I take the control of my life"
+     },
+     {
+      "rating": 5,
+      "idx": 21,
+      "text": "I have ADD and needed something to hold me accountable"
+     }
+    ]
+   },
+   "identity": "Reclaiming agency: “I am done with social media and I’m so much happier”; “I take the control of my life”; recovering high achiever; faith-based use (“stay focused on God”).",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 4,
+    "notes": "“beautiful with its glorious UI” vs “The aesthetics of the design are extremely cheesy to me”; not a primary reason to stay, but a redesign is what triggers the angriest reviews."
+   },
+   "social": "Low; the description mentions leaderboards but no review does.",
+   "money": {
+    "pays_for": "Premium for more blocked apps and features; the free tier is valued (“Even the free version is actually good”, “all for free”), which is why paywalls feel like a bait-and-switch.",
+    "price_points": [],
+    "paywall_complaints_in_sample": 4,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 0,
+     "free_wall_or_cap": 2,
+     "paid_then_removed": 0,
+     "price_fatigue": 2,
+     "of_which_in_1_3_star_reviews": 3
+    },
+    "notes": "4 complaints: “everything is hidden behind a paywall”, subscription required before use, “outrageous” and “over priced”."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "Male-coded cues: “struggled in all of his classes”, lust-control use. No female-coded cues."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 26,
+     "text": "I went from an all A’s extremely high achieving student to a student that struggled in all of his classes due to doomscrolling."
+    },
+    {
+     "rating": 5,
+     "idx": 21,
+     "text": "I have ADD and needed something to hold me accountable"
+    },
+    {
+     "rating": 5,
+     "idx": 19,
+     "text": "I take the control of my life"
+    },
+    {
+     "rating": 5,
+     "idx": 15,
+     "text": "So in essence it sends you a notification like “ok cool it’s unblocked go ahead and waste time again.”"
+    },
+    {
+     "rating": 5,
+     "idx": 25,
+     "text": "Even the free version is actually good."
+    }
+   ],
+   "anti_patterns": "A major redesign plus bugs: blocks that do not hold, reappear or reset (12 bug reviews, 7 about the update); the new version seen as “AI slop” or “Vibe coded” (3); an unblock notification that triggers relapse; subscription required before use; hard caps (49 apps, 5 apps); substitution addiction (word games replaced sudoku); unreachable support."
+  },
+  "866450515": {
+   "name": "Forest: Focus for Productivity",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 5,
+     "2": 7,
+     "3": 0,
+     "4": 9,
+     "5": 21
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 49533,
+    "avg": 4.8
+   },
+   "core": "Turns phone-free focus into growing a tiny forest, so staying off the phone feels like nurturing something rather than resisting a temptation.",
+   "trigger": "Phone distraction while studying or working, ADHD (“I only got recently diagnosed with adhd”), and the search for a focus timer (“I have been searching for a focus timer for weeks”).",
+   "retention": "Cue: starting a study or work session. Action: start the timer and leave the phone alone (a tree grows; “Leave early and it withers.”, per the description). Reward: coins for new trees and plants, a growing forest, daily challenges and events, hours-focused stats. Feeling: cosy satisfaction and emotional investment. Very long tenure (9+ years).",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Cosy and minimalist with a mild loss-aversion hook (the tree withers if you leave); users reject anything that makes it feel like work.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 13,
+      "text": "Plantibg trees are so cozy and cute and I love how minimalist this app is"
+     },
+     {
+      "rating": 5,
+      "idx": 11,
+      "text": "I am emotionally invested in my forest!"
+     }
+    ]
+   },
+   "identity": "Weak: a plant-and-farm-game person (“As someone who loves to grow plants in real life and loved playing FarmVille”), a collector of limited-edition trees (“limited edition tree releases from a long time ago, like TinyTan”), and a student with ADHD.",
+   "aesthetics": {
+    "level": "high",
+    "mentions_in_sample": 11,
+    "notes": "Cosy/cute trees, a clean UI; users dislike new “dumb cartoon type” trees (sundaes, cakes) and miss the “classic tree”."
+   },
+   "social": "Plant-with-friends is loved and missed after the update; a prosocial layer of real trees planted (per description).",
+   "money": {
+    "pays_for": "Historically a one-time purchase (“I bought this app for $2 in 2019”), then a subscription (Plus); coins and purchases of trees and land styles; one Turkish reviewer wants cheaper plants.",
+    "price_points": [
+     "$2 (2019)"
+    ],
+    "paywall_complaints_in_sample": 2,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 0,
+     "free_wall_or_cap": 0,
+     "paid_then_removed": 2,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 1
+    },
+    "notes": "2 reviews about features lost after paying; one more objects to being marketed Plus."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low",
+    "evidence": "Weak cues only: “cozy and cute”, a FarmVille/plant-lover reference, a limited-edition collectible called “TinyTan” (fandom-style naming), heart emoji. Student audience; no explicit gender statement."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 11,
+     "text": "As someone who loves to grow plants in real life and loved playing FarmVille, I am emotionally invested in my forest!"
+    },
+    {
+     "rating": 5,
+     "idx": 13,
+     "text": "Plantibg trees are so cozy and cute and I love how minimalist this app is"
+    },
+    {
+     "rating": 5,
+     "idx": 15,
+     "text": "it makes being productive feel like a video game - i love collecting different types of trees and plants and building my forest."
+    },
+    {
+     "rating": 2,
+     "idx": 33,
+     "text": "Because of this friction, I am using the app less and focusing less."
+    },
+    {
+     "rating": 1,
+     "idx": 35,
+     "text": "I paid for this app when it used to be not free, then they updated it with a subscription and I no longer have access to features that i already PAID for."
+    }
+   ],
+   "anti_patterns": "A redesign that adds taps and animations between sessions (15 update complaints, e.g. “I have to click 4 times and wait until I can plant another tree”; “A productivity app should respect our time and attention”); loss of the one-press start; new trees that do not fit the cosy style; paid-then-removed features; purchased trees and coins briefly vanishing."
+  },
+  "1312926037": {
+   "name": "stoic. journal & mental health",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 8,
+     "2": 1,
+     "3": 3,
+     "4": 3,
+     "5": 27
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 35941,
+    "avg": 4.82
+   },
+   "core": "A morning-and-evening journaling ritual that feels like a calm, level-headed presence checking in on you, so you prepare and reflect without drama.",
+   "trigger": "Anxiety and anger phases, years of pain, loneliness, a separation after 31 years (“Journaling in the stoic. App has been so helpful as I move forward though a separation from my partner of 31 year”), and failing to stick with other journals; one user began at 14.",
+   "retention": "Cue: AM and PM prompts and mood check-ins. Action: answer a fresh daily question, plan and reflect. Reward: perspective, an organised day, history, breathing tools. Feeling: calm and self-respect. Multi-year users (“a daily need for me, and has been for years”).",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Calm, reflective, affectionate towards the app; one reviewer apologises to it for tapping the don't-review option.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 23,
+      "text": "so awakening, so refreshing and cultivating self respect and acknowledgment in your daily life"
+     },
+     {
+      "rating": 5,
+      "idx": 24,
+      "text": "YOU ARE LOVED, u is good, u is kind, u is important"
+     }
+    ]
+   },
+   "identity": "Ideal-self statements: “being aesthetic and organized, just like how I want”; “cultivating self respect”; Stoic-practitioner identity (“A Great Resource for a Stoic Student”); a Gen Z long-run user (“I have been using this app since I was 14. I am now 22.”).",
+   "aesthetics": {
+    "level": "low",
+    "mentions_in_sample": 2,
+    "notes": "“The UI is beautiful, simple”; 'aesthetic and organized' refers to the user's day, not the app's skin."
+   },
+   "social": "None among users; the developer relationship is personal (“the developer so patiently emailed with me”).",
+   "money": {
+    "pays_for": "Subscription for sync and features: “Worth every penny!” (2.5 years of use), “suggesting paying for the full version”. The free tier is “optimal” to some and “annoying by design” to others.",
+    "price_points": [
+     "$40 for a year",
+     "a '$100 tier'",
+     "$99 after a 3-day trial (complaint)"
+    ],
+    "paywall_complaints_in_sample": 8,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 6,
+     "free_wall_or_cap": 3,
+     "paid_then_removed": 1,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 8
+    },
+    "notes": "8 billing/wall complaints in 42 reviews (trial-to-annual charges, refused refunds, features removed behind a paywall); 4 reviews also cite constant upgrade prompts."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low",
+    "evidence": "One explicit-leaning cue: a reviewer who writes “no woman alone would have completed this type of glue” and praises “a cut & dry/ level headed man leading my work week with me”; hearts and flowers emoji; 'self respect' and 'aesthetic' framing. Stoic philosophy content itself is generally male-coded, so the signal is mixed."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 12,
+     "text": "It’s literally the one thing that makes me start my day with being aesthetic and organized, just like how I want."
+    },
+    {
+     "rating": 5,
+     "idx": 24,
+     "text": "YOU ARE LOVED, u is good, u is kind, u is important"
+    },
+    {
+     "rating": 5,
+     "idx": 7,
+     "text": "Stoic has a fan in me ever since the developer so patiently emailed with me back in my anxious angry phase."
+    },
+    {
+     "rating": 5,
+     "idx": 11,
+     "text": "Before stoic, I tried using other journaling apps (Grid Diary & Day One, to name a couple), but always found it hard to stick with the habit."
+    },
+    {
+     "rating": 1,
+     "idx": 31,
+     "text": "Charging $99 after a 3-day trial is predatory and I want my refund."
+    }
+   ],
+   "anti_patterns": "Trial-to-annual charges ($40/$99) with refused refunds and an account that cannot be deleted; constant upgrade prompts (“Free version is annoying by design”); features removed and 'AI slop' added (“Removed Functionality, added AI slop”); entries that do not save on Mac; no support; sprawling features that overwhelm."
+  },
+  "6451135127": {
+   "name": "Rosebud: AI Journal & Diary",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 8,
+     "2": 3,
+     "3": 1,
+     "4": 2,
+     "5": 28
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 3328,
+    "avg": 4.88
+   },
+   "core": "An AI journal that mirrors your words back with patterns and gentle questions, so people who cannot find a human listener feel heard and, as one reviewer puts it, “meet yourself”.",
+   "trigger": "Trauma, grief (“I have lost my father this year”), cancer, therapy that 'never worked' or is hard to find, the blank-page problem; two reviewers were pointed to it by therapists.",
+   "retention": "Cue: the urge to process something in the moment (voice or text) and a morning/night ritual. Action: journal and 'Dig Deeper'. Reward: AI reflections, patterns, a weekly summary, 'meet yourself' insight. Feeling: heard, clarity, compassion. The loop breaks with weekly usage caps and AI memory failures.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "A compassionate mirror: empathy plus insight, ideally without feeling like an AI therapist pretending to know you.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 8,
+      "text": "Thoughtful prompts, deep insights, and gentle encouragement."
+     },
+     {
+      "rating": 5,
+      "idx": 22,
+      "text": "always have a perfect combo of compassion and wisdom"
+     }
+    ]
+   },
+   "identity": "The clearest aspirational-identity quote in the packet: “I have always wanted to be someone who journals.  Who works through issues and comes out on the other side.” Also “learn to love the person you actually are and not the one you’ve become from trauma” and “guided my self love journey”.",
+   "aesthetics": {
+    "level": "low",
+    "mentions_in_sample": 0,
+    "notes": "Reviews praise depth, tone and memory, not looks; one critic says “it just looks pretty”."
+   },
+   "social": "Therapist referral is the adoption channel (2 reviews: “My therapist recommended this”, “A friends therapist recommended this”); otherwise solitary; one user wants “real people”.",
+   "money": {
+    "pays_for": "The largest stated spend in the packet is for depth: “upgraded from the free trial, then to Thrive 2x, and ultimately paid $59.99/month for Thrive 5x”; they then hit weekly AI caps after a day or two. Another user on SSDI says it is not in their budget and could not claim a disability discount because they subscribed through the app store.",
+    "price_points": [
+     "Thrive 2x",
+     "$59.99/month for Thrive 5x"
+    ],
+    "paywall_complaints_in_sample": 10,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 1,
+     "free_wall_or_cap": 9,
+     "paid_then_removed": 1,
+     "price_fatigue": 2,
+     "of_which_in_1_3_star_reviews": 10
+    },
+    "notes": "10 of 42 reviews are paywall or cap complaints, including limits that “did not exist when I purchased the app”."
+   },
+   "female_signal": {
+    "level": "low",
+    "confidence": "low",
+    "evidence": "No explicit gender cues. A “self love journey”, therapy referrals and grief language are therapy-culture register rather than a gender marker."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 8,
+     "text": "I have always wanted to be someone who journals.  Who works through issues and comes out on the other side."
+    },
+    {
+     "rating": 5,
+     "idx": 24,
+     "text": "It’s very difficult to find a therapist you connect to or a therapist who prompts you to explore your thoughts and feelings."
+    },
+    {
+     "rating": 5,
+     "idx": 22,
+     "text": "always have a perfect combo of compassion and wisdom"
+    },
+    {
+     "rating": 2,
+     "idx": 34,
+     "text": "I reached my entire weekly AI usage limit after roughly a day or two of use."
+    },
+    {
+     "rating": 1,
+     "idx": 30,
+     "text": "Give me real people any day."
+    }
+   ],
+   "anti_patterns": "Usage caps on paid plans (weekly AI limits hit in 1-2 days); limits introduced after purchase; an AI that forgets personal details (“like I’m talking to a person with dementia”); generic opening questions; no voice-to-text and no free trial; updates that interrupt mid-entry (“you guys don’t know what heavy thing I was in the middle of processing”); a suspicion that it is a thin wrapper over other LLMs."
+  },
+  "1241229134": {
+   "name": "Reflectly - Journal & AI Diary",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 8,
+     "2": 1,
+     "3": 3,
+     "4": 6,
+     "5": 24
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 81688,
+    "avg": 4.57
+   },
+   "core": "A friendly journal-and-quotes companion that lets users vent and feel better in a few minutes a day, framed by positive psychology.",
+   "trigger": "Stress and anxiety, break-ups, wanting a place to vent about things “my friends dont care about”, a therapist recommendation (1), replacing a paper journal.",
+   "retention": "Cue: daily reminders with a playful nudge (“do your reflectly or he will get you”). Action: mood check-in, prompt, vent or voice note. Reward: quotes, mood stats, a daily challenge. Feeling: better mood (“always feel better when I do”). Users report 3-8 years of use.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Uplifting and encouraging, with a light Duolingo-style nudge.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 19,
+      "text": "cute, calm encouraging, no ads"
+     },
+     {
+      "rating": 5,
+      "idx": 18,
+      "text": "There are times I don’t want to take the time to reflect on my day but always feel better when I do!"
+     }
+    ]
+   },
+   "identity": "Confidence and self-awareness: “I’m more confident”; “become more self-aware”; self-love through gratitude (“Experience deep moments of self love through positive reflection over journaling”); a ritual identity (“I use it as a grimoire and a journal”).",
+   "aesthetics": {
+    "level": "medium",
+    "mentions_in_sample": 5,
+    "notes": "“Cute. Very personable little app”, a customisable layout, “Looks nice”; secondary to ease and quotes."
+   },
+   "social": "Therapist recommendation; users recommend it to “people I know”; it is explicitly the place for what friends do not care about.",
+   "money": {
+    "pays_for": "A free tier that is praised (“best journaling app for free”); a one-time $20-30 purchase for premium; a 10-app 'Growth Bundle' subscription whose price jumped to $340+ a year for one long-term subscriber.",
+    "price_points": [
+     "$20 (bought)",
+     "$30 (premium)",
+     "$340+/year bundle (complaint)"
+    ],
+    "paywall_complaints_in_sample": 8,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 1,
+     "free_wall_or_cap": 2,
+     "paid_then_removed": 1,
+     "price_fatigue": 5,
+     "of_which_in_1_3_star_reviews": 4
+    },
+    "notes": "8 complaint-type reviews (3 of them mild, e.g. 'a bit expensive'); 2 more concern premium features or sign-in failing after payment."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low",
+    "evidence": "Weak register-based cues: 'Cute', affirmations and self-love language, quotes for break-ups, a witchy “grimoire” framing, a Duolingo-bird joke. No explicit gender statement."
+   },
+   "quotes": [
+    {
+     "rating": 4,
+     "idx": 3,
+     "text": "has really helped me recognize my mental health patterns and become more self-aware"
+    },
+    {
+     "rating": 5,
+     "idx": 6,
+     "text": "i like writing stuff down that my friends dont care about so its good for that"
+    },
+    {
+     "rating": 5,
+     "idx": 26,
+     "text": "now instead of “do your Duolingo or he will get you” it’s “do your reflectly or he will get you”"
+    },
+    {
+     "rating": 5,
+     "idx": 18,
+     "text": "There are times I don’t want to take the time to reflect on my day but always feel better when I do!"
+    },
+    {
+     "rating": 1,
+     "idx": 37,
+     "text": "I'm being gouged to the tune of $340+ every year"
+    }
+   ],
+   "anti_patterns": "Premium features that do not unlock or an account that cannot sign in after paying (3); two years of entries lost at logout; a bundle price jump; insensitive content in a wellbeing app (an anti-vaccine quote; “The AI is horrible with LGBTQ related entries”); five notifications at 4:40 AM; no support response."
+  },
+  "1318382054": {
+   "name": "Aloe Bud",
+   "sample": {
+    "reviews": 42,
+    "stars": {
+     "1": 6,
+     "2": 3,
+     "3": 3,
+     "4": 7,
+     "5": 23
+    },
+    "reviews_1_to_3_star": 12,
+    "ratings_us": 6887,
+    "avg": 4.78
+   },
+   "core": "Gentle, cute reminders that make basic self-care (water, medication, reflection, reaching out) feel like being cared for rather than nagged.",
+   "trigger": "Forgetfulness and low motivation (“lately I have been forgetful and unmotivated”), stress and anxiety roadblocks, bipolar disorder (“I’m bipolar so it’s hard for me to do normal every day things”), medication adherence, and a wish to replace stressful phone alarms.",
+   "retention": "Cue: sweet, gentle push reminders with a cute sound. Action: a one-tap check-in for a tiny self-care activity (hydrate, take medication, meditate). Reward: a cute chime and a log of tiny victories. Feeling: cared for, low stress. The log becomes a personal history that users grieve when it breaks.",
+   "emotional_tone": {
+    "primary": "gentle/safe/cozy",
+    "detail": "Explicitly anti-guilt in the developer's own copy (“rather than guilt or shame”), and users confirm it: low stress, low notification fatigue.",
+    "quotes": [
+     {
+      "rating": 5,
+      "idx": 2,
+      "text": "the reminders are so sweet and gentle"
+     },
+     {
+      "rating": 5,
+      "idx": 15,
+      "text": "cute lil push notifications instead of obnoxious timers"
+     }
+    ]
+   },
+   "identity": "Gentle self-regard: “I learned to know I love me on a daily basis!!”; “I’ve decided to work on myself and just be alone”; the app as self (“it just feels like part of me”); an ex-sticky-note person (“I’m the kinda person who used to stick sticky notes everywhere”).",
+   "aesthetics": {
+    "level": "high",
+    "mentions_in_sample": 22,
+    "notes": "Cute/aesthetic appears in about half of the reviews (22 of 42): “aesthetically pleasing”, old-school KidPix graphics, “so picky with aesthetics on my phone”. Aesthetics reduce avoidance: “It’s appealing to the eye so I actually look at the app rather than avoiding it.”"
+   },
+   "social": "Minimal: one reviewer's friend uses it for medication; the description promotes a Discord and Twitch community.",
+   "money": {
+    "pays_for": "One-time unlocks of custom reminders and icon packs (“The one-time price to unlock the custom reminders is amazing”); a $4.99 premium; the free tier is workable. The move to a subscription erased earlier lifetime purchases for long-time users.",
+    "price_points": [
+     "$4.99 premium",
+     "one-time Reminders Bundle"
+    ],
+    "paywall_complaints_in_sample": 4,
+    "paywall_complaint_breakdown": {
+     "billing_trap": 0,
+     "free_wall_or_cap": 1,
+     "paid_then_removed": 4,
+     "price_fatigue": 0,
+     "of_which_in_1_3_star_reviews": 4
+    },
+    "notes": "All 4 money complaints are about earlier purchases being ignored after the move to subscription (4 of its 12 sampled 1-3 star reviews)."
+   },
+   "female_signal": {
+    "level": "medium",
+    "confidence": "low",
+    "evidence": "Register only, but the strongest in the packet: “Cutest app on Earth”, aesthetically pleasing, “manifestation goals”, skin-care use, a self-care journey with heart emoji. No explicit statement of gender."
+   },
+   "quotes": [
+    {
+     "rating": 5,
+     "idx": 9,
+     "text": "It’s appealing to the eye so I actually look at the app rather than avoiding it."
+    },
+    {
+     "rating": 5,
+     "idx": 15,
+     "text": "having these cute lil push notifications instead of obnoxious timers really help. Especially since the alarms on my phone stress me out."
+    },
+    {
+     "rating": 5,
+     "idx": 26,
+     "text": "I feel like the cuteness helps me remember to use it!"
+    },
+    {
+     "rating": 5,
+     "idx": 2,
+     "text": "the reminders are so sweet and gentle"
+    },
+    {
+     "rating": 1,
+     "idx": 30,
+     "text": "all my paid lifetime premium features were taken away when they moved to subscription"
+    }
+   ],
+   "anti_patterns": "Moving from lifetime purchases to a subscription and ignoring earlier purchases (4 of 12 negative reviews); history and logs disappearing with no backup (3); notifications users cannot turn off; missing widgets and Apple Watch support (5 requests); a changed sound effect; prewritten notifications only on the free tier."
+  }
+ },
+ "synthesis": {
+  "mechanisms": [
+   {
+    "rank": 1,
+    "name": "Outsourced executive function and accountability",
+    "why_it_works": "For users whose problem is starting, remembering and sequencing (21 reviews self-identify ADHD, autism or bipolar; many more say “forgetful”, “unorganized” or “overwhelmed”), the app is a prosthetic that remembers, nudges and makes follow-through visible, which reframes a character flaw as a tooling problem.",
+    "apps": [
+     "1318382054",
+     "994882113",
+     "1497465230",
+     "1596403446",
+     "1203637303",
+     "1528595748",
+     "866450515",
+     "1499198946",
+     "963034692",
+     "1241229134",
+     "1312926037",
+     "1534196157",
+     "6451135127"
+    ],
+    "approx_reviews": 136,
+    "by_app": {
+     "AloeBud": 21,
+     "Habitica": 20,
+     "Opal": 19,
+     "Me+": 14,
+     "Fabulous": 11,
+     "Finch": 10,
+     "Forest": 10,
+     "Structured": 9,
+     "Streaks": 8,
+     "Reflectly": 5,
+     "Stoic": 4,
+     "Shmoody": 3,
+     "Rosebud": 2
+    },
+    "best_quote": {
+     "app_id": "963034692",
+     "app": "Streaks",
+     "rating": 5,
+     "idx": 11,
+     "text": "Accountability to only myself is often not enough for me"
+    },
+    "note": "Strongest in Aloe Bud (reminders), Habitica and Opal (stakes and blocking), Me+ and Fabulous (routines). Even here users say self-accountability alone is not enough."
+   },
+   {
+    "rank": 2,
+    "name": "Zero-friction, forgiving micro-actions",
+    "why_it_works": "When a person is overwhelmed or low on energy, every extra tap, decision or required order is a reason to quit, so tiny one-tap actions keep the habit alive on bad days and turn each completion into a small win.",
+    "apps": [
+     "866450515",
+     "963034692",
+     "1499198946",
+     "1203637303",
+     "1318382054",
+     "1194023242",
+     "1241229134",
+     "1497465230",
+     "1562706384",
+     "1534196157",
+     "1312926037",
+     "1528595748",
+     "1596403446",
+     "1668932264",
+     "994882113"
+    ],
+    "approx_reviews": 106,
+    "by_app": {
+     "Forest": 16,
+     "Streaks": 14,
+     "Structured": 13,
+     "AloeBud": 9,
+     "Fabulous": 9,
+     "Daylio": 7,
+     "HowWeFeel": 6,
+     "Opal": 6,
+     "Reflectly": 6,
+     "Shmoody": 5,
+     "Finch": 4,
+     "Stoic": 4,
+     "Habitica": 2,
+     "Me+": 2,
+     "Voidpet": 2,
+     "Rosebud": 1
+    },
+    "best_quote": {
+     "app_id": "866450515",
+     "app": "Forest",
+     "rating": 2,
+     "idx": 33,
+     "text": "Because of this friction, I am using the app less and focusing less."
+    },
+    "note": "The causal evidence is in the backlash: after Forest's redesign added taps and animations, 15 of its 42 reviews are update complaints (one says it now uses the app less); Opal and How We Feel redesigns drew the same complaint. Positive cases: Finch's “tiny little goals”, Daylio's no-typing diary, Streaks' one-tap dots."
+   },
+   {
+    "rank": 3,
+    "name": "Cute / aesthetic surface as emotional safety",
+    "why_it_works": "A cute, pretty, personal interface turns feared things (self-care, feelings, chores) into something pleasant, so users approach instead of avoid, and it signals taste (“I’m so picky with aesthetics on my phone”).",
+    "apps": [
+     "1318382054",
+     "1528595748",
+     "866450515",
+     "963034692",
+     "1668932264",
+     "1241229134",
+     "1194023242",
+     "1497465230",
+     "1534196157",
+     "1203637303",
+     "1499198946",
+     "1562706384",
+     "1312926037",
+     "994882113"
+    ],
+    "approx_reviews": 93,
+    "by_app": {
+     "AloeBud": 22,
+     "Finch": 14,
+     "Forest": 11,
+     "Streaks": 8,
+     "Voidpet": 7,
+     "Reflectly": 5,
+     "Daylio": 4,
+     "Opal": 4,
+     "Shmoody": 4,
+     "Fabulous": 3,
+     "HowWeFeel": 3,
+     "Structured": 3,
+     "Habitica": 2,
+     "Stoic": 2,
+     "Me+": 1
+    },
+    "best_quote": {
+     "app_id": "1318382054",
+     "app": "AloeBud",
+     "rating": 5,
+     "idx": 9,
+     "text": "It’s appealing to the eye so I actually look at the app rather than avoiding it."
+    },
+    "note": "A core reason to use in Aloe Bud (22 of 42 reviews), Finch (14), Forest (11) and Voidpet (7); secondary for utilities (Streaks, Opal, Daylio). Cute is not decoration: users ask for better cute items (Finch micropets) and reject off-style ones (Forest's cartoon sundae trees)."
+   },
+   {
+    "rank": 4,
+    "name": "Visible, accumulating proof of progress (streaks, logs, levels, years)",
+    "why_it_works": "Days, trees, levels and years piling up counter a self-story of never following through, and the growing archive becomes both self-evidence and a switching cost, which is why losing it provokes the angriest reviews in the packet.",
+    "apps": [
+     "1194023242",
+     "994882113",
+     "866450515",
+     "1241229134",
+     "963034692",
+     "1312926037",
+     "1499198946",
+     "1318382054",
+     "1528595748",
+     "1562706384",
+     "1497465230",
+     "1203637303",
+     "1534196157",
+     "1668932264",
+     "6451135127"
+    ],
+    "approx_reviews": 86,
+    "by_app": {
+     "Daylio": 13,
+     "Habitica": 12,
+     "Forest": 11,
+     "Reflectly": 7,
+     "Streaks": 7,
+     "Stoic": 6,
+     "Structured": 6,
+     "AloeBud": 5,
+     "Finch": 4,
+     "HowWeFeel": 4,
+     "Opal": 3,
+     "Fabulous": 2,
+     "Rosebud": 2,
+     "Shmoody": 2,
+     "Voidpet": 2
+    },
+    "best_quote": {
+     "app_id": "1194023242",
+     "app": "Daylio",
+     "rating": 5,
+     "idx": 8,
+     "text": "was devastated that i would lose my 2 year streak, but was able to come back months later and fill it in to save the streak"
+    },
+    "note": "11 reviews are about losing the record (Finch, Daylio, Aloe Bud, Reflectly, Forest, Stoic, Voidpet). Forgiving streaks (Daylio's unlimited back-fill) are loved; punitive ones are not (see the gentle-tone mechanism)."
+   },
+   {
+    "rank": 5,
+    "name": "Care-by-proxy and play (nurturing a creature, garden or avatar)",
+    "why_it_works": "Caring for a cute proxy lets users practise self-care without the guilt or self-focus that blocks it, and a game frame lowers the stakes of self-improvement; users even apologise for it (“silly but it works”).",
+    "apps": [
+     "994882113",
+     "1668932264",
+     "1528595748",
+     "866450515",
+     "1534196157",
+     "1596403446"
+    ],
+    "approx_reviews": 84,
+    "by_app": {
+     "Habitica": 24,
+     "Voidpet": 20,
+     "Finch": 17,
+     "Forest": 13,
+     "Shmoody": 6,
+     "Me+": 2,
+     "Daylio": 1,
+     "Reflectly": 1
+    },
+    "best_quote": {
+     "app_id": "1528595748",
+     "app": "Finch",
+     "rating": 5,
+     "idx": 8,
+     "text": "This self care app helps you take care of yourself while caring for your little pet"
+    },
+    "note": "Concentrated in six apps (Habitica, Voidpet, Finch, Forest, Shmoody, Me+) but intense: users name, dress and decorate. The “silly” disclaimer appears in Finch, Habitica and Voidpet. Gamers (Habitica) and cozy users (Finch, Voidpet) use the same device with opposite tones."
+   },
+   {
+    "rank": 6,
+    "name": "Gentle, non-shaming tone",
+    "why_it_works": "Users arrive with an inner critic and a history of failed attempts, so apps that meet users where they are feel safe, while penalties, guilt copy or harsh typography are experienced as shame and trigger quitting.",
+    "apps": [
+     "1668932264",
+     "1241229134",
+     "1312926037",
+     "1318382054",
+     "1534196157",
+     "1203637303",
+     "1528595748",
+     "1194023242",
+     "963034692",
+     "994882113",
+     "1562706384",
+     "1596403446",
+     "6451135127"
+    ],
+    "approx_reviews": 63,
+    "by_app": {
+     "Voidpet": 11,
+     "Reflectly": 8,
+     "AloeBud": 6,
+     "Shmoody": 6,
+     "Stoic": 6,
+     "Fabulous": 5,
+     "Finch": 4,
+     "Daylio": 3,
+     "Habitica": 3,
+     "Streaks": 3,
+     "HowWeFeel": 2,
+     "Me+": 2,
+     "Rosebud": 2,
+     "Forest": 1,
+     "Opal": 1
+    },
+    "best_quote": {
+     "app_id": "1534196157",
+     "app": "Shmoody",
+     "rating": 5,
+     "idx": 2,
+     "text": "it’s gentle, encouraging, and meets you where you’re at"
+    },
+    "note": "13 of the 16 apps present as gentle/cozy. The two pressure/competition apps (Habitica, Opal) are the ones with male/gamer cues, while every app with a female-coded register (Finch, Voidpet, Shmoody, Aloe Bud, Stoic, Forest, Reflectly) is gentle. Harshness backfires: Habitica penalties and de-levelling, Finch's “negative reinforcement”, Streaks' ALL CAPS read as “ANGRY”."
+   },
+   {
+    "rank": 7,
+    "name": "Self-knowledge: the app as a mirror (patterns and emotion vocabulary)",
+    "why_it_works": "Naming a feeling and seeing patterns turns vague distress into understandable data and often shows the user is better than they feared, which gives relief and a sense of control.",
+    "apps": [
+     "6451135127",
+     "1562706384",
+     "1194023242",
+     "1312926037",
+     "1241229134",
+     "1668932264",
+     "1534196157"
+    ],
+    "approx_reviews": 59,
+    "by_app": {
+     "Rosebud": 17,
+     "HowWeFeel": 16,
+     "Daylio": 10,
+     "Stoic": 6,
+     "Reflectly": 5,
+     "Voidpet": 3,
+     "Shmoody": 2
+    },
+    "best_quote": {
+     "app_id": "1562706384",
+     "app": "HowWeFeel",
+     "rating": 5,
+     "idx": 16,
+     "text": "identifying the specifics and subtleties has revealed I am really more hopeful, positive and balanced than I realized"
+    },
+    "note": "How We Feel (16 of 37 reviews), Rosebud (17 of 42) and Daylio (10 of 42) are the archetypes; Daylio and Rosebud users also export to, or compare with, ChatGPT/Gemini. Rigid binary labels (pleasant/unpleasant) backfire."
+   },
+   {
+    "rank": 8,
+    "name": "Fair exchange and a human maker",
+    "why_it_works": "People who arrive vulnerable and have been burned by trial traps reward free cores, one-time unlocks and developers who answer them with unusually strong loyalty, word of mouth and willingness to pay.",
+    "apps": [
+     "1534196157",
+     "963034692",
+     "1318382054",
+     "1499198946",
+     "1562706384",
+     "1194023242",
+     "1241229134",
+     "1312926037",
+     "1497465230",
+     "866450515",
+     "1528595748",
+     "994882113"
+    ],
+    "approx_reviews": 55,
+    "by_app": {
+     "Shmoody": 8,
+     "Streaks": 6,
+     "AloeBud": 5,
+     "HowWeFeel": 5,
+     "Structured": 5,
+     "Daylio": 4,
+     "Forest": 4,
+     "Opal": 4,
+     "Reflectly": 4,
+     "Stoic": 4,
+     "Finch": 2,
+     "Habitica": 2,
+     "Fabulous": 1,
+     "Me+": 1
+    },
+    "best_quote": {
+     "app_id": "963034692",
+     "app": "Streaks",
+     "rating": 5,
+     "idx": 12,
+     "text": "this is the one app that doesn’t need a subscription every month. No idea why that was ever normalized."
+    },
+    "note": "Positive evidence is spread over 14 apps (Streaks “Insanely Generous”, Structured “Benevolence”, Forest “They listened!!”, Stoic's developer emails, How We Feel free and ad-free); the mirror image is the billing and grandfathering backlash (see what_fails)."
+   },
+   {
+    "rank": 9,
+    "name": "Identity upgrade: becoming someone who has their life together",
+    "why_it_works": "Users are buying a new self-concept (“someone who journals”, “get my life together”, “saved my life”), so the app becomes an identity vehicle and an app failure feels like a failure of the self.",
+    "apps": [
+     "1497465230",
+     "1203637303",
+     "1499198946",
+     "6451135127",
+     "1241229134",
+     "1312926037",
+     "1534196157",
+     "1596403446",
+     "994882113",
+     "1194023242",
+     "1318382054",
+     "1528595748",
+     "963034692"
+    ],
+    "approx_reviews": 54,
+    "by_app": {
+     "Opal": 7,
+     "Fabulous": 5,
+     "Rosebud": 5,
+     "Structured": 5,
+     "Habitica": 4,
+     "Me+": 4,
+     "Reflectly": 4,
+     "Shmoody": 4,
+     "Stoic": 4,
+     "AloeBud": 3,
+     "Daylio": 3,
+     "Finch": 3,
+     "Streaks": 2,
+     "HowWeFeel": 1
+    },
+    "best_quote": {
+     "app_id": "6451135127",
+     "app": "Rosebud",
+     "rating": 5,
+     "idx": 8,
+     "text": "I have always wanted to be someone who journals.  Who works through issues and comes out on the other side."
+    },
+    "note": "About 24 reviews use changed-my-life, saved-my-life, “godsend”, “lifesaver” or “game changer” language (23 of them 5-star), mostly from people describing depression, ADHD, grief or illness: these are not casual productivity purchases."
+   },
+   {
+    "rank": 10,
+    "name": "Being heard without social cost (a non-judgmental confidant)",
+    "why_it_works": "For people who find talking costly or unsafe (“hate talking”), an always-available listener (cat, AI, journal, pet) gives the feeling of being heard with no risk of burdening or being judged.",
+    "apps": [
+     "6451135127",
+     "1241229134",
+     "1534196157",
+     "1312926037",
+     "1562706384",
+     "1668932264"
+    ],
+    "approx_reviews": 39,
+    "by_app": {
+     "Rosebud": 12,
+     "Reflectly": 7,
+     "Shmoody": 7,
+     "Stoic": 6,
+     "HowWeFeel": 4,
+     "Voidpet": 2,
+     "Daylio": 1
+    },
+    "best_quote": {
+     "app_id": "1534196157",
+     "app": "Shmoody",
+     "rating": 5,
+     "idx": 21,
+     "text": "it really feels like you have a friend in your pocket. It really does make you feel heard and supported"
+    },
+    "note": "Concentrated in Rosebud, Shmoody, Reflectly, Stoic and How We Feel. The same users reject it when it feels fake or forgetful (“Give me real people any day”; “it forgets and confuses basic details”)."
+   }
+  ],
+  "common_root": "The winners do not sell productivity or mood; they sell relief from self-judgment while change becomes possible. Users arrive in a state (overwhelmed, depressed, anxious, ADHD, doomscrolling, grieving; 34 reviews cite distress or a hard life event and 21 self-identify with ADHD, autism or bipolar disorder) carrying what the reviews suggest is a harsh inner critic, and each app interposes a kind external structure (a pet to nurture, a cat or AI that listens, a one-tap checklist, a log that never scolds) so that acting and being witnessed cost no shame. What users keep is proof: streaks, forests and archives that rewrite the self-story from never following through to being someone who takes care of themselves (users say “get my life together”, “someone who journals”, “saved my life”). That is why the same users turn on an app violently when the structure betrays them (penalties that shame, billing traps aimed at the vulnerable, erased records, added friction): each re-creates the shame or helplessness the app was hired to remove. Caveat: the packet has almost no explicit gender or age data (about ten of 653 reviews carry a gender cue), so the link to Gen Z women is inferred from register (cute, self-care and therapy language, “silly but it works”) and from the pattern that the gentlest, cutest apps show the most female-coded cues while Habitica and Opal skew male/gamer; it is not demonstrated.",
+  "what_fails": [
+   {
+    "pattern": "Walls and caps on the core job: a 6-task limit, repeating tasks locked, 5 blocked apps, 12-hour feature locks, weekly AI caps",
+    "why_it_backfires": "The cap bites exactly when the routine has formed, so the habit itself feels held hostage; users distinguish this sharply from paying for extras.",
+    "n_reviews": 45,
+    "n_in_1_3_star": 33,
+    "by_app": {
+     "Me+": 12,
+     "Rosebud": 9,
+     "Structured": 7,
+     "Daylio": 4,
+     "Habitica": 3,
+     "Stoic": 3,
+     "Opal": 2,
+     "Reflectly": 2,
+     "AloeBud": 1,
+     "Fabulous": 1,
+     "Shmoody": 1
+    },
+    "example": {
+     "app_id": "1596403446",
+     "app": "Me+",
+     "rating": 2,
+     "idx": 33,
+     "text": "That's Bearly a note pad."
+    }
+   },
+   {
+    "pattern": "Instability in emotionally load-bearing apps: crashes, blocks that do not hold, sign-in failures (plus unreachable support)",
+    "why_it_backfires": "When the app is part of how someone copes, a bug is felt as abandonment (a Finch reviewer titles the review “Trauma from app”); Opal alone has 12 bug reviews after a redesign; 5 more reviews say support cannot be reached.",
+    "n_reviews": 39,
+    "n_in_1_3_star": 30,
+    "by_app": {
+     "Opal": 12,
+     "Finch": 4,
+     "Reflectly": 4,
+     "Voidpet": 4,
+     "AloeBud": 3,
+     "Habitica": 3,
+     "Forest": 2,
+     "Shmoody": 2,
+     "Streaks": 2,
+     "HowWeFeel": 1,
+     "Rosebud": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "1528595748",
+     "app": "Finch",
+     "rating": 2,
+     "idx": 41,
+     "text": "App is freezing or closing for 3 days when I try to claim my rewards."
+    }
+   },
+   {
+    "pattern": "Billing traps aimed at vulnerable users: silent trial-to-annual conversion, charges after cancelling, no in-app cancellation, refused refunds",
+    "why_it_backfires": "The user has just opened up in a fragile state, so an unexpected charge reads as betrayal and exploitation; reviewers reach for words such as scam, fraud and predatory and delete the app.",
+    "n_reviews": 35,
+    "n_in_1_3_star": 34,
+    "by_app": {
+     "Fabulous": 9,
+     "Shmoody": 7,
+     "Stoic": 6,
+     "Daylio": 3,
+     "Me+": 3,
+     "Structured": 2,
+     "Finch": 1,
+     "Reflectly": 1,
+     "Rosebud": 1,
+     "Streaks": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1203637303",
+     "app": "Fabulous",
+     "rating": 1,
+     "idx": 36,
+     "text": "people who are already struggling like this to make you feel vulnerable and then betray you immediately after"
+    }
+   },
+   {
+    "pattern": "Redesigns that add friction or remove a loved simple flow",
+    "why_it_backfires": "Habit apps are used in fragile moments, so extra taps, animations and buried views are felt as disrespect for attention, and the old simple version becomes a nostalgia object that competitors can recruit (an Opal reviewer points others to a rival app).",
+    "n_reviews": 30,
+    "n_in_1_3_star": 23,
+    "by_app": {
+     "Forest": 15,
+     "Opal": 7,
+     "HowWeFeel": 4,
+     "Daylio": 2,
+     "Rosebud": 1,
+     "Shmoody": 1
+    },
+    "example": {
+     "app_id": "866450515",
+     "app": "Forest",
+     "rating": 1,
+     "idx": 31,
+     "text": "A productivity app should respect our time and attention."
+    }
+   },
+   {
+    "pattern": "AI where trust is the product: AI art, AI pushed into mental health, “AI slop”, biased output",
+    "why_it_backfires": "Polarising: 12 reviews praise AI when it is the core listening or insight engine (Rosebud, Shmoody), while 15 reject it when it is bolted on, replaces human craft or touches vulnerable topics; visible quality drops get read as AI cost-cutting (“AI slop”, “Vibe coded”).",
+    "n_reviews": 15,
+    "n_in_1_3_star": 13,
+    "by_app": {
+     "Finch": 3,
+     "Opal": 3,
+     "HowWeFeel": 2,
+     "Shmoody": 2,
+     "Stoic": 2,
+     "Fabulous": 1,
+     "Reflectly": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1562706384",
+     "app": "HowWeFeel",
+     "rating": 2,
+     "idx": 31,
+     "text": "ai has NO place in mental health"
+    }
+   },
+   {
+    "pattern": "Nagging: upsell prompts, review begging, notifications the user cannot control",
+    "why_it_backfires": "Prompts that serve the vendor break the safe frame; asking for a review twice a day after a low rating reads as punishment.",
+    "n_reviews": 15,
+    "n_in_1_3_star": 11,
+    "by_app": {
+     "Stoic": 4,
+     "Daylio": 2,
+     "Fabulous": 2,
+     "Me+": 2,
+     "AloeBud": 1,
+     "Forest": 1,
+     "Habitica": 1,
+     "Reflectly": 1,
+     "Rosebud": 1
+    },
+    "example": {
+     "app_id": "1194023242",
+     "app": "Daylio",
+     "rating": 1,
+     "idx": 33,
+     "text": "After submitting a low score review the app began requesting a review 2 times a day."
+    }
+   },
+   {
+    "pattern": "Paid-then-removed: lifetime or one-time purchases ignored when an app moves to subscription, or limits added after purchase",
+    "why_it_backfires": "It breaks the implicit contract of ownership and punishes the most loyal users, who write the angriest reviews.",
+    "n_reviews": 11,
+    "n_in_1_3_star": 9,
+    "by_app": {
+     "AloeBud": 4,
+     "Forest": 2,
+     "Structured": 2,
+     "Reflectly": 1,
+     "Rosebud": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "866450515",
+     "app": "Forest",
+     "rating": 1,
+     "idx": 35,
+     "text": "I paid for this app when it used to be not free, then they updated it with a subscription and I no longer have access to features that i already PAID for."
+    }
+   },
+   {
+    "pattern": "Losing the record: corrupted saves, vanished entries, logged out, no backup",
+    "why_it_backfires": "The record is the user's self-evidence and sunk effort, so erasure feels like erasing the effort and the self rather than a bug.",
+    "n_reviews": 11,
+    "n_in_1_3_star": 9,
+    "by_app": {
+     "AloeBud": 3,
+     "Daylio": 3,
+     "Finch": 1,
+     "Forest": 1,
+     "Reflectly": 1,
+     "Stoic": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1241229134",
+     "app": "Reflectly",
+     "rating": 2,
+     "idx": 38,
+     "text": "Journaled almost daily for two years and it logged me out and wont let me sign back in so i js lost everything"
+    }
+   },
+   {
+    "pattern": "Tone-deaf content or exploiting vulnerability: a noose icon for depression, an anti-vaccine quote, biased AI, a paywall after disclosure",
+    "why_it_backfires": "Wellbeing apps are held to a higher standard of care; one careless default is taken as proof that the app does not understand the user.",
+    "n_reviews": 7,
+    "n_in_1_3_star": 7,
+    "by_app": {
+     "Reflectly": 2,
+     "Daylio": 1,
+     "Fabulous": 1,
+     "Opal": 1,
+     "Rosebud": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1194023242",
+     "app": "Daylio",
+     "rating": 1,
+     "idx": 34,
+     "text": "the suggested icon was a noose, which felt inappropriate"
+    }
+   },
+   {
+    "pattern": "Exclusion and space mismatch: kid-centred spaces, adult spaces missing, male skins, values objections",
+    "why_it_backfires": "Cute apps drift toward children's spaces or one gender's art, and adults or men feel the product is not for them.",
+    "n_reviews": 6,
+    "n_in_1_3_star": 4,
+    "by_app": {
+     "Finch": 5,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1528595748",
+     "app": "Finch",
+     "rating": 1,
+     "idx": 35,
+     "text": "because children exist I have to pretend I’m also under 18"
+    }
+   },
+   {
+    "pattern": "Gamification that feels unearned, unskippable or beside the point",
+    "why_it_backfires": "Users want cute and rewarding, not patronising: arbitrary points and forced animations read as cheesy and as disrespect for the user's intelligence.",
+    "n_reviews": 4,
+    "n_in_1_3_star": 2,
+    "by_app": {
+     "Shmoody": 2,
+     "Opal": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1534196157",
+     "app": "Shmoody",
+     "rating": 1,
+     "idx": 36,
+     "text": "it just felt like an endless horribly-gamified tutorial"
+    }
+   },
+   {
+    "pattern": "Punitive mechanics: penalties, de-levelling, “negative reinforcement”",
+    "why_it_backfires": "They re-create the shame the user came to escape and hit hardest on bad days, which is when the user most needs the app; small count (3 reviews), high intensity (one reviewer uninstalled for almost three years).",
+    "n_reviews": 3,
+    "n_in_1_3_star": 2,
+    "by_app": {
+     "Habitica": 2,
+     "Finch": 1
+    },
+    "example": {
+     "app_id": "994882113",
+     "app": "Habitica",
+     "rating": 3,
+     "idx": 34,
+     "text": "You punish EVERYONE because certain people can’t complete the dailies everyday."
+    }
+   }
+  ],
+  "paid_for": {
+   "summary": "This audience demonstrably pays after attachment is proven, for small one-time unlocks of a tool already used daily, for an annual plan once the app feels personal, and for cosmetic or depth upgrades; it refuses to pay before seeing value, to unlock the core job, to be trapped, or to lose what it already bought. Money complaints do not always mean rejection: 19 of the 95 sit in 4-5 star reviews, so users can resent a wall and still love the app.",
+   "pays_for": [
+    {
+     "what": "A one-time unlock of a tool already used daily",
+     "price_points": [
+      "$2 (Forest, 2019)",
+      "$5-6 and $10 (Streaks)",
+      "$20 and $30 (Reflectly)",
+      "$4.99 premium and a one-time Reminders Bundle (Aloe Bud)",
+      "one-time full access plus backup (Daylio)"
+     ],
+     "n_reviews": 11,
+     "by_app": {
+      "Streaks": 5,
+      "Structured": 2,
+      "AloeBud": 1,
+      "Daylio": 1,
+      "Forest": 1,
+      "Reflectly": 1
+     },
+     "example": {
+      "app_id": "963034692",
+      "app": "Streaks",
+      "rating": 5,
+      "idx": 13,
+      "text": "Worth the one time fee easily!"
+     }
+    },
+    {
+     "what": "An annual or monthly plan once the app feels personal, usually after a trial",
+     "price_points": [
+      "$40/year (Shmoody)",
+      "$40/year, with a $100 tier above it (Stoic)",
+      "Thrive 5x at $59.99/month (Rosebud)"
+     ],
+     "n_reviews": 11,
+     "by_app": {
+      "Shmoody": 3,
+      "Stoic": 2,
+      "Daylio": 1,
+      "Fabulous": 1,
+      "Finch": 1,
+      "Me+": 1,
+      "Rosebud": 1,
+      "Structured": 1
+     },
+     "example": {
+      "app_id": "1534196157",
+      "app": "Shmoody",
+      "rating": 5,
+      "idx": 23,
+      "text": "I did the free trial and sighing a day I knew I wanted to continue and paid for the year."
+     }
+    },
+    {
+     "what": "Cosmetic, collection and identity items (pets, trees, skins, gems, icon packs), including wishes the user cannot yet afford",
+     "price_points": [
+      "monthly pass (Finch)",
+      "starter pack (Voidpet)",
+      "seasonal armour called overpriced (Habitica)"
+     ],
+     "n_reviews": 7,
+     "by_app": {
+      "Finch": 2,
+      "Forest": 2,
+      "AloeBud": 1,
+      "Habitica": 1,
+      "Voidpet": 1
+     },
+     "example": {
+      "app_id": "1668932264",
+      "app": "Voidpet",
+      "rating": 1,
+      "idx": 32,
+      "text": "I want starter pack."
+     }
+    },
+    {
+     "what": "Depth and personalisation: richer AI insight, more emotions, custom reminders",
+     "price_points": [
+      "Rosebud Thrive tiers",
+      "a request for “a more expansive paid version” (How We Feel)"
+     ],
+     "n_reviews": 4,
+     "by_app": {
+      "HowWeFeel": 1,
+      "Me+": 1,
+      "Rosebud": 1,
+      "Shmoody": 1
+     },
+     "example": {
+      "app_id": "6451135127",
+      "app": "Rosebud",
+      "rating": 2,
+      "idx": 34,
+      "text": "I really like Rosebud and actually think the AI journaling experience is excellent"
+     }
+    }
+   ],
+   "refuses_to_pay_for": [
+    {
+     "what": "Paying before seeing value: no trial, an account gate, or a price revealed after the user has opened up",
+     "n_reviews": 9,
+     "by_app": {
+      "Me+": 4,
+      "Daylio": 2,
+      "Opal": 1,
+      "Rosebud": 1,
+      "Voidpet": 1
+     },
+     "example": {
+      "app_id": "1194023242",
+      "app": "Daylio",
+      "rating": 1,
+      "idx": 36,
+      "text": "won’t even let me create an account without signing up for premium"
+     }
+    },
+    {
+     "what": "The core job behind a wall or cap (6 tasks, repeating tasks, 5 blocked apps, 12-hour locks, weekly AI limits)",
+     "n_reviews": 45,
+     "by_app": {
+      "Me+": 12,
+      "Rosebud": 9,
+      "Structured": 7,
+      "Daylio": 4,
+      "Habitica": 3,
+      "Stoic": 3,
+      "Opal": 2,
+      "Reflectly": 2,
+      "AloeBud": 1,
+      "Fabulous": 1,
+      "Shmoody": 1
+     },
+     "example": {
+      "app_id": "1499198946",
+      "app": "Structured",
+      "rating": 1,
+      "idx": 36,
+      "text": "you shouldn’t make repeats need pro that’s stupid"
+     }
+    },
+    {
+     "what": "Billing traps: trial-to-annual surprises, charges after cancelling, no in-app cancellation",
+     "n_reviews": 35,
+     "by_app": {
+      "Fabulous": 9,
+      "Shmoody": 7,
+      "Stoic": 6,
+      "Daylio": 3,
+      "Me+": 3,
+      "Structured": 2,
+      "Finch": 1,
+      "Reflectly": 1,
+      "Rosebud": 1,
+      "Streaks": 1,
+      "Voidpet": 1
+     },
+     "example": {
+      "app_id": "1312926037",
+      "app": "Stoic",
+      "rating": 1,
+      "idx": 31,
+      "text": "Charging $99 after a 3-day trial is predatory and I want my refund."
+     }
+    },
+    {
+     "what": "Losing what they already bought when an app changes model",
+     "n_reviews": 11,
+     "by_app": {
+      "AloeBud": 4,
+      "Forest": 2,
+      "Structured": 2,
+      "Reflectly": 1,
+      "Rosebud": 1,
+      "Stoic": 1
+     },
+     "example": {
+      "app_id": "1318382054",
+      "app": "AloeBud",
+      "rating": 1,
+      "idx": 30,
+      "text": "all my paid lifetime premium features were taken away when they moved to subscription"
+     }
+    },
+    {
+     "what": "A subscription for something that feels like a simple utility, or a bundle that jumps in price",
+     "n_reviews": 19,
+     "by_app": {
+      "Reflectly": 5,
+      "Fabulous": 3,
+      "Opal": 2,
+      "Rosebud": 2,
+      "Streaks": 2,
+      "Structured": 2,
+      "Daylio": 1,
+      "Habitica": 1,
+      "Me+": 1
+     },
+     "example": {
+      "app_id": "1499198946",
+      "app": "Structured",
+      "rating": 1,
+      "idx": 32,
+      "text": "Greedy company getting monthly subscription for an electron calendar."
+     }
+    },
+    {
+     "what": "Paying for AI that caps or forgets: weekly usage limits on paid tiers",
+     "n_reviews": 6,
+     "by_app": {
+      "Rosebud": 5,
+      "Me+": 1
+     },
+     "example": {
+      "app_id": "6451135127",
+      "app": "Rosebud",
+      "rating": 1,
+      "idx": 33,
+      "text": "So you’re paying monthly for something that won’t work after 2 days!!"
+     }
+    },
+    {
+     "what": "Pay-to-collect economies for cute items",
+     "n_reviews": 3,
+     "by_app": {
+      "Habitica": 3
+     },
+     "example": {
+      "app_id": "994882113",
+      "app": "Habitica",
+      "rating": 5,
+      "idx": 18,
+      "text": "There are almost no ways to get gems outside of spending money"
+     }
+    }
+   ],
+   "would_pay_but_has_not": {
+    "note": "Users who say they would pay or upgrade but have not: cost (Voidpet, Forest), a school access code (Shmoody), an in-app purchase error (Voidpet), waiting for proof of value (Finch, Fabulous), or asking for a richer paid tier (How We Feel, Stoic).",
+    "n_reviews": 8,
+    "by_app": {
+     "Voidpet": 2,
+     "Fabulous": 1,
+     "Finch": 1,
+     "Forest": 1,
+     "HowWeFeel": 1,
+     "Shmoody": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "1668932264",
+     "app": "Voidpet",
+     "rating": 5,
+     "idx": 0,
+     "text": "I can’t afford to upgrade but otherwise it’s perfect"
+    }
+   },
+   "price_points_seen": [
+    "Finch #32: Plus shown as “5 bucks” on sale, charged “40 bucks”",
+    "Me+ #24: “try for $0.00” with no price shown; #39: $40 charged after cancelling",
+    "Fabulous #39: “$20 a month” vs “$40 for two months”; #38: $1.00 plan then about $100 a month across 10 apps; #34: “$40 bill”",
+    "Structured #10: extra $30 paywall for repeating tasks; #22: one-time purchase option",
+    "Shmoody #5: $40/year; #33: $42.39 and #41: $69.99 charged (complaints)",
+    "Streaks #6: $10; #20: $5-6; no trial",
+    "Stoic #30: $40 for a year and a “$100 tier”; #31: $99 after a 3-day trial",
+    "Rosebud #34: Thrive 2x then $59.99/month for Thrive 5x",
+    "Reflectly #28: $20; #35: $30; #37: $340+/year for a 10-app bundle",
+    "Aloe Bud #15: $4.99 premium",
+    "Forest #6: $2 in 2019"
+   ],
+   "pattern": "Payment follows attachment. Users pay once the app has become a daily ritual (Shmoody: “knew I wanted to continue and paid for the year”; Finch: “I try not to pay for games unless I've played them for a year or longer”). Fair means small and one-time, or a plan priced below the pain of losing the ritual, with a visible price and an easy exit. Unfair means a locked core job, a hidden price, a cancellation maze, or a changed deal.",
+   "paywall_complaints_in_sample": {
+    "total": 95,
+    "share_of_all_reviews": 0.145,
+    "in_1_3_star_reviews": 76,
+    "share_of_1_3_star_reviews": 0.425,
+    "by_star_rating": {
+     "1": 50,
+     "2": 13,
+     "3": 13,
+     "4": 11,
+     "5": 8
+    },
+    "by_app": {
+     "Me+": 13,
+     "Fabulous": 11,
+     "Rosebud": 10,
+     "Structured": 10,
+     "Daylio": 8,
+     "Reflectly": 8,
+     "Shmoody": 8,
+     "Stoic": 8,
+     "AloeBud": 4,
+     "Habitica": 4,
+     "Opal": 4,
+     "Streaks": 3,
+     "Forest": 2,
+     "Finch": 1,
+     "Voidpet": 1
+    }
+   }
+  },
+  "gaps": [
+   {
+    "gap": "A portable, restorable and private record: backup, export, restore purchases, a free PIN lock, account deletion",
+    "evidence": "Data-loss and sync failures recur across seven apps, and privacy worries appear in five more reviews. Daylio's CSV/PDF export is praised but even there entries vanish for some users.",
+    "n_reviews": 17,
+    "apps": [
+     "1194023242",
+     "1318382054",
+     "1312926037",
+     "1241229134",
+     "1499198946",
+     "1528595748",
+     "1534196157",
+     "1562706384",
+     "1668932264",
+     "866450515",
+     "963034692"
+    ],
+    "by_app": {
+     "Daylio": 4,
+     "AloeBud": 3,
+     "Stoic": 2,
+     "Finch": 1,
+     "Forest": 1,
+     "HowWeFeel": 1,
+     "Reflectly": 1,
+     "Shmoody": 1,
+     "Streaks": 1,
+     "Structured": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1318382054",
+     "app": "AloeBud",
+     "rating": 2,
+     "idx": 37,
+     "text": "there's no way to attach the data to any email or have a backup"
+    }
+   },
+   {
+    "gap": "Ambient cue surfaces: widgets, Apple Watch complications and a big streak number",
+    "evidence": "Aloe Bud users ask for widgets in four separate reviews; Streaks users complain when complications or widgets break or are too small; Habitica and How We Feel users ask for widget or watch logging. Users want the loop to start from the home screen or the wrist, not from opening the app.",
+    "n_reviews": 16,
+    "apps": [
+     "963034692",
+     "1318382054",
+     "994882113",
+     "1312926037",
+     "1562706384"
+    ],
+    "by_app": {
+     "Streaks": 7,
+     "AloeBud": 5,
+     "Habitica": 2,
+     "HowWeFeel": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "1318382054",
+     "app": "AloeBud",
+     "rating": 3,
+     "idx": 38,
+     "text": "it kills me, absolutely KILLS me that there is no widget for this app"
+    }
+   },
+   {
+    "gap": "Payment fit: lifetime, means-tested or sliding options instead of a single annual price",
+    "evidence": "Users who say they would pay are blocked by budget, access codes or app-store rules; one SSDI user could not receive a disability discount because they subscribed in the app; others ask for a lifetime option or a monthly plan. Finch's adaptive plans are praised.",
+    "n_reviews": 13,
+    "apps": [
+     "1203637303",
+     "1528595748",
+     "1534196157",
+     "1668932264",
+     "1194023242",
+     "1312926037",
+     "1562706384",
+     "6451135127",
+     "866450515"
+    ],
+    "by_app": {
+     "Fabulous": 2,
+     "Finch": 2,
+     "Shmoody": 2,
+     "Voidpet": 2,
+     "Daylio": 1,
+     "Forest": 1,
+     "HowWeFeel": 1,
+     "Rosebud": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "6451135127",
+     "app": "Rosebud",
+     "rating": 3,
+     "idx": 36,
+     "text": "as a person who live off of SSDI the cost of app honestly isn’t in my budget"
+    }
+   },
+   {
+    "gap": "One coherent system instead of app stacking, with general LLMs as the benchmark",
+    "evidence": "Users stitch apps together (Daylio plus a bipolar app, Me+ then Structured, Opal then Freedom, a 10-app bundle) and compare journaling apps with ChatGPT, Claude and Gemini in six reviews; Structured is asked to be “the one app to rule them all”.",
+    "n_reviews": 13,
+    "apps": [
+     "1194023242",
+     "6451135127",
+     "1241229134",
+     "1312926037",
+     "1497465230",
+     "1499198946",
+     "1534196157",
+     "1562706384",
+     "1596403446"
+    ],
+    "by_app": {
+     "Daylio": 3,
+     "Rosebud": 3,
+     "HowWeFeel": 1,
+     "Me+": 1,
+     "Opal": 1,
+     "Reflectly": 1,
+     "Shmoody": 1,
+     "Stoic": 1,
+     "Structured": 1
+    },
+    "example": {
+     "app_id": "6451135127",
+     "app": "Rosebud",
+     "rating": 1,
+     "idx": 38,
+     "text": "now even Google Gemini, Claude and Chat GPT do a better job with their answers"
+    }
+   },
+   {
+    "gap": "Continuity, ownership and voice for AI companions: memory, categorising entries, voice input, no usage ceilings",
+    "evidence": "Rosebud users love the insight but hit memory failures, no voice-to-text and weekly caps (5 reviews); Stoic users ask for audio input; one Daylio user hand-builds the missing feature by exporting a CSV to ChatGPT/Gemini.",
+    "n_reviews": 11,
+    "apps": [
+     "6451135127",
+     "1194023242",
+     "1312926037"
+    ],
+    "by_app": {
+     "Rosebud": 9,
+     "Daylio": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "6451135127",
+     "app": "Rosebud",
+     "rating": 4,
+     "idx": 29,
+     "text": "I need a way to categorize journal entries so that I can go back and read for myself what I have said in the past"
+    }
+   },
+   {
+    "gap": "A life-shaped, forgiving time model: day rollover, retroactive edits, time zones, flexible order and frequency",
+    "evidence": "Requests recur in Streaks, Fabulous, Habitica and Finch. The demand is confirmed by contrast: Daylio's unlimited streak back-fill is celebrated by a user who was hospitalised for a month.",
+    "n_reviews": 10,
+    "apps": [
+     "963034692",
+     "1528595748",
+     "994882113",
+     "1203637303"
+    ],
+    "by_app": {
+     "Streaks": 5,
+     "Finch": 2,
+     "Habitica": 2,
+     "Fabulous": 1
+    },
+    "example": {
+     "app_id": "1528595748",
+     "app": "Finch",
+     "rating": 2,
+     "idx": 38,
+     "text": "if I dont do them strictly in the same exact order daily (which is not possible because im not a robot)"
+    }
+   },
+   {
+    "gap": "Personalised micro-rewards and content control: completion sounds, quote categories, dismissing repeated suggestions, custom activities",
+    "evidence": "The completion cue is part of the reward: an Aloe Bud user mourns a lost chime (“the sound was so cute and was one of my favorite things about completing tasks”), Habitica and Forest users ask for custom or ticking sounds, Reflectly users want more than one quote category and a way to dislike quotes, and a Shmoody user cannot stop a daily crochet suggestion.",
+    "n_reviews": 9,
+    "apps": [
+     "1241229134",
+     "1318382054",
+     "1534196157",
+     "866450515",
+     "994882113"
+    ],
+    "by_app": {
+     "AloeBud": 3,
+     "Reflectly": 3,
+     "Forest": 1,
+     "Habitica": 1,
+     "Shmoody": 1
+    },
+    "example": {
+     "app_id": "1318382054",
+     "app": "AloeBud",
+     "rating": 4,
+     "idx": 14,
+     "text": "the sound was so cute and was one of my favorite things about completing tasks"
+    }
+   },
+   {
+    "gap": "A safe, adult, moderated peer layer next to the AI or pet",
+    "evidence": "Community praise exists (Shmoody, 2 reviews), but the community-related mentions in Finch, Habitica and Voidpet are complaints: an adult cannot speak freely in Finch's Discord, a Habitica party was reported as rude, Voidpet content is flagged for small children; one Rosebud user says “Give me real people any day”.",
+    "n_reviews": 8,
+    "apps": [
+     "1528595748",
+     "1534196157",
+     "1668932264",
+     "6451135127",
+     "994882113"
+    ],
+    "by_app": {
+     "Finch": 2,
+     "Shmoody": 2,
+     "Voidpet": 2,
+     "Habitica": 1,
+     "Rosebud": 1
+    },
+    "example": {
+     "app_id": "1528595748",
+     "app": "Finch",
+     "rating": 1,
+     "idx": 35,
+     "text": "because children exist I have to pretend I’m also under 18"
+    }
+   },
+   {
+    "gap": "Health-adjacent routines (medication, symptoms, hydration, skin care, postpartum days) handled by generic cute apps through workarounds",
+    "evidence": "Aloe Bud and Daylio are used for medication reminders and symptom and bipolar tracking, and Aloe Bud users want widgets and an Apple Watch app for exactly this; none of the 16 apps is positioned as a medication or symptom tool, so users bend generic apps to the job.",
+    "n_reviews": 8,
+    "apps": [
+     "1318382054",
+     "1194023242",
+     "1668932264"
+    ],
+    "by_app": {
+     "AloeBud": 4,
+     "Daylio": 3,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1318382054",
+     "app": "AloeBud",
+     "rating": 5,
+     "idx": 19,
+     "text": "It has helped me take my medications consistently, which I’ve always been terrible at!"
+    }
+   },
+   {
+    "gap": "Genuinely ADHD-friendly and accessible interaction: fewer steps, screen-reader labels, dark mode",
+    "evidence": "Apps built for or loved by ADHD users still get hard-to-follow reviews when they add steps or density (Structured: “ADHD/ ASD NOT FRIENDLY”; Forest: “extremely adhd unfriendly”; Fabulous: difficulty navigating “With my ADHD”); a blind Finch user reports unlabeled VoiceOver elements and another Finch user asks for dark mode.",
+    "n_reviews": 8,
+    "apps": [
+     "1203637303",
+     "1499198946",
+     "1528595748",
+     "1312926037",
+     "866450515"
+    ],
+    "by_app": {
+     "Fabulous": 2,
+     "Finch": 2,
+     "Structured": 2,
+     "Forest": 1,
+     "Stoic": 1
+    },
+    "example": {
+     "app_id": "1499198946",
+     "app": "Structured",
+     "rating": 1,
+     "idx": 35,
+     "text": "especially hard to follow if you have ADHD and other neurodivergent issues"
+    }
+   },
+   {
+    "gap": "Bad-day and relapse-aware design: non-punitive recovery and no unlock moments that invite relapse",
+    "evidence": "Habitica's penalties pushed one user away for years; Finch's rigid order and blocked rewards feel like punishment; Opal's unlock notification invites relapse and its word-game distraction swapped one addiction for another; one Opal user asks for an escalating breathing delay.",
+    "n_reviews": 7,
+    "apps": [
+     "1497465230",
+     "1528595748",
+     "994882113"
+    ],
+    "by_app": {
+     "Opal": 3,
+     "Finch": 2,
+     "Habitica": 2
+    },
+    "example": {
+     "app_id": "1497465230",
+     "app": "Opal",
+     "rating": 5,
+     "idx": 15,
+     "text": "So in essence it sends you a notification like “ok cool it’s unblocked go ahead and waste time again.”"
+    }
+   },
+   {
+    "gap": "A customisable, non-binary emotion vocabulary",
+    "evidence": "How We Feel and Daylio users cannot add emotions or find the one they need, a fixed pleasant/unpleasant split taught one user to see feelings as bad, and a Voidpet user notes there is no creature for fear on the day they need it.",
+    "n_reviews": 5,
+    "apps": [
+     "1562706384",
+     "1194023242",
+     "1668932264"
+    ],
+    "by_app": {
+     "HowWeFeel": 3,
+     "Daylio": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1562706384",
+     "app": "HowWeFeel",
+     "rating": 2,
+     "idx": 32,
+     "text": "It was also hard to find the emotion I was looking for, and I couldn’t add one."
+    }
+   },
+   {
+    "gap": "Crisis-aware guardrails inside cozy and gamified apps",
+    "evidence": "34 reviews cite distress or a hard life event and one mentions suicidal thoughts while using a game, one app suggested a noose icon for depression, and none of the 653 reviews mentions crisis resources or escalation (absence of a mention is not proof that the feature is missing).",
+    "n_reviews": 2,
+    "apps": [
+     "1194023242",
+     "1668932264"
+    ],
+    "by_app": {
+     "Daylio": 1,
+     "Voidpet": 1
+    },
+    "example": {
+     "app_id": "1668932264",
+     "app": "Voidpet",
+     "rating": 5,
+     "idx": 9,
+     "text": "It’s a little difficult with depression and suicidal thoughts but this app has still helped me."
+    }
+   }
+  ],
+  "method_note": "Hand-coded from a full read of all 653 reviews in the packet (16 apps, 36-42 reviews each, plus the 900-character descriptions). Counts are tagged reviews, not mentions; one review can support several mechanisms, so counts overlap. Mechanisms are ranked by number of supporting reviews, ties broken by number of apps. The sample is stratified by design (about 30 positive and up to 12 negative reviews per app; 179 of 653 reviews, 27%, are 1-3 stars), so shares are within-sample, not prevalence. Review 'idx' values are 0-based positions in each app's reviews array in the packet. Quotes are verbatim (curly quotes kept); reviews are truncated at about 420 characters in the packet. Some 4-5 star reviews contain complaints and one 1-star review is positive (Stoic #33), so star rating is a weak proxy for sentiment."
+ }
+}

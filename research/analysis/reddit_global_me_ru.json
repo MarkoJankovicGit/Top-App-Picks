@@ -1,0 +1,1701 @@
+{
+ "run": {
+  "region": "Middle East + Turkey + South Asia (rest) + Iran/Israel; Russia/CIS/Eastern Europe/Balkans (plus English builder communities queried with 'from <country>' phrasing)",
+  "searches_done": 32,
+  "stopped_by_captcha": false,
+  "notes": "32 Google searches = 28 plan slots (with 3 changes) + 4 follow-ups. CHANGES: #13 (Hebrew) returned 0 results and was retried in English (counted as a search); plan #19 (pikabu, 0 results), #20 (habr) and #21 (vc.ru) were merged into ONE combined query; plan #15 (Arabic audio on r/arabs + r/Egypt) was broadened to all of Reddit because both subs had returned nothing. FOLLOW-UPS: #29 Obook name, #30-#31 the Muslim women's cycle-tracker thread (-> AYDA), #32 names of the apps announced in the Muslim maker subs. No CAPTCHA, /sorry/ page or unusual-traffic warning at any point. PACE: from search #3 on a timestamp guard enforced >=22 s between navigations (it had to add 0-13 s of waiting each time); the #1->#2 gap was not instrumented (about 35 s by timestamps). Google served the Serbian locale, so ages are relative ('3 months ago', counted from 2026-10-12) and comment counts are Google's buckets (10+, 20+, 50+...). Reddit threads were never opened: facts come from Google snippets plus the App Store Search/Lookup API (storefronts us, tr, pl, ru, rs, gb; AYDA ratings summed over 26 storefronts). Android/web-only apps cannot be verified that way and are marked as such. KEY OBSERVATIONS: (1) Best lens fit = AYDA (K1, women-only): faith-aware cycle tracker by a Muslim woman founder, launched community-first in r/muslimgirlswithtaste and explicitly positioned against Flo; 1,455 App Store ratings (~4.8 avg) over 25 storefronts in ~17 months (US 277, GB 232, CA 180, MY 139, ID 117, FR 101, AU 64), v3.11.2 updated 2026-10-07. The same niche has tiny entrants (MyHayd 19 ratings; Nisaa 17 ratings and Taahirah seen only in Google web results, no Reddit link) -> proven pull but fragmented supply; relevant for US Gen Z Muslim women. (2) The Muslim maker subs (r/MuslimDevelopers, r/MuslimVentures, r/muslimdevs) are a dense scan source: in about 4 weeks DeenDoor, Sakinah, Deen Over Dunya, Niyyah Quran Companion, Quran Streak (coming soon), an AI muhasabah diary and an Islamic habit companion were announced. Pattern = 'daily practice companion' (habit + journal + Qur'an audio + gentle 'no ads, no guilt' tone, private study circles); almost all have 0-10 ratings, i.e. too young to judge. (3) K3: nothing personalised found; closest = Obook (Turkey, solo: PDF/EPUB -> AI audio, 3 ratings), a free eyes-free tourist audio-walk app (Serbia), an ad-free Qur'an audio app (UAE), Serbian audiobooks app Digitalna Dosada (Android, ~2021). Incidental App Store sighting without community evidence (not listed as finds): Speech Central by LABSII DOO Beograd (Serbian company, TTS reader, 1,558 US ratings, 4.59) and, for the Muslim daily-practice niche, Yawm: Daily Quran Habit by dawm LLC (384 US ratings, 4.94, released 2026-02-02). (4) K2: no reel-style short-video learning from user material in any of these regions; closest = tools that take the user's own text/context: Obook, Hebrew Text Simplifier / VocAdapt, the Arabic 'read Islamic books without a dictionary' app, camera-based Arabic object naming. The rest are language-course apps (Tfaddalu, Natulang 420 US ratings, dioma, Persian tool with 137 upvotes/57 comments, Bangla flashcards, Polish/Serbian apps). (5) The Russian-language builder scene lives on vc.ru, not Reddit: 2026 launch stories cluster around 'habits + AI coach' (Bloom: social tracker, testers 'started arguing' with the coach; Kaplya: dropped habits and pivoted to an AI goal planner; PowerHabits; Ryvok; a savings-from-quitting tracker). None has a confident App Store match (Android/RuStore first?). (6) English phrasing 'I built ... solo dev from <country>' inside r/SideProject / r/iosapps / r/indiehackers produced most of the useful finds; local-language queries mostly returned culture/politics threads or Reddit machine translations (?tl=ar/fa/ru/uk/pl/tr) of English posts. REGIONS WITH LITTLE OR NO REDDIT PRESENCE (for this scan): Russia (Reddit tiny: r/russia = English politics, r/russian = learners of Russian, r/AskARussian = foreigners; pikabu.ru returned 0 results; use vc.ru/Habr/Telegram instead); Ukraine (r/ukraine politics, r/Ukrainian learners; a Ukrainian dev appears only in English on r/iosapps); Kazakhstan and Uzbekistan (marketing/job threads only, zero maker posts); Georgia (r/Georgia is the US state, the country sub was not tested); Armenia (idea threads only, Podcastle is a funded startup); Iran (Persian queries return Reddit auto-translations, only diaspora makers); Israel (r/Israel returned nothing, r/hebrew is a learners' sub); Egypt, Saudi Arabia, Lebanon, Jordan, Morocco, Tunisia (Arabic-language queries return culture/politics; makers appear only in English on r/UAE, r/learnarabic, r/SideProject); Turkey (r/Turkey general, r/KGBTR explicit/toxic; makers show up in r/SideProject and r/turkishlearning in English); Bosnia and Slovenia (no results); Croatia (one 5-year-old idea thread); Romania/Hungary/Czechia/Bulgaria (a few game/dev posts, one Bulgarian learning game). SOMEWHAT ACTIVE: Pakistan/Sri Lanka/Bangladesh/Nepal (many 'I built' posts but language-learning/utility apps, no K1-K3 app with a verifiable store listing), Poland (r/Polska has real maker threads), Serbia (r/serbia has maker threads). SCAN-SOURCE THREADS: r/Polska 'to co tam fajnego z AI zbudowaliscie' (AI showcase, 50+ comments), r/czech 'Co programujete?' (130+ comments, recurring style), r/pakistan 'Pakistani programmers, tell me some projects that...' (150+ comments), r/MuslimDevelopers 'Looking to connect with more Muslim developers' (10+). No monthly self-promotion megathread was visible in these regions. DATA CAVEATS: AYDA identification is strong (Reddit user u/aydaforme = store seller site aydaforme.com). Obook match = app name + 'Emin/Amin' + description (strong). HabitsFlow match = seller name only (inferred). Sakeenah Journal <-> the 'Muslim Moms' thread is inferred from timing/cross-posts. 'Qalb: Islamic Journal' is only a release-date guess for the AI muhasabah app and is NOT asserted. Several unrelated apps are named Sakinah on the App Store; none was matched. The u/faizanrajput cluster (Arabic apps) is inferred from posting pattern and has no app name. DROPPED as off-lens or too thin: ILM (Islamic Android app in testing), Lafa (offline dictation), Czyściciel (audio filler remover), Byde and Kelime Avı (Turkish word games), Kelimetik (English vocab app, tester call, not in store), AskBulgaria game, Almaniac calendar app, Podcastle, Kotomka (task manager), Quran Streak (coming soon, thin). HOUSEKEEPING: all tabs of the session's tab group were closed; one empty 'New tab' (id 319064885) was orphaned when the first tab group auto-removed after I closed its only other tab, and it could not be closed with the tools (it is a blank new-tab page)."
+ },
+ "queries": [
+  {
+   "q": "site:reddit.com/r/arabs (\"I built\" OR \"I made\" OR \"my app\") app (habit OR learning OR audio OR podcast)",
+   "useful_results": 1,
+   "note": "r/arabs is mostly politics/culture; one reply in a parenting thread announces a kids' Arabic vocabulary app (fusha + 6 dialects), name not in snippet"
+  },
+  {
+   "q": "site:reddit.com/r/arabs تطبيق (عادات OR \"تطوير الذات\" OR \"كتب صوتية\" OR بودكاست OR تعلم) (صنعت OR طورت)",
+   "useful_results": 0,
+   "note": "Arabic query on r/arabs returns only culture/politics/language threads; no app-maker posts. Mentions r/learn_arabic in a snippet"
+  },
+  {
+   "q": "site:reddit.com/r/Egypt تطبيق (مذاكرة OR عادات OR بودكاست OR \"تطوير الذات\") (عملت OR صنعت)",
+   "useful_results": 0,
+   "note": "Only podcast-recommendation threads, a 'Study with me' thread and a 'Reddit for AI agents' mention; no app finds"
+  },
+  {
+   "q": "site:reddit.com/r/saudiarabia (تطبيق OR app) (عادات OR \"تطوير الذات\" OR \"كتب صوتية\") سعودي",
+   "useful_results": 0,
+   "note": "Saudi makers do post (e.g. a party-games website, 7 comments) but nothing related to K1/K2/K3"
+  },
+  {
+   "q": "site:reddit.com/r/dubai OR site:reddit.com/r/UAE app (\"I built\" OR \"local startup\") (habit OR learning OR audio OR wellness)",
+   "useful_results": 6,
+   "note": "Productive: r/UAE has several 'I built' threads (Arabic learning, ad-free Quran audio, ILM Islamic app); r/SideProject and r/islamichistory cross-posts visible in snippets"
+  },
+  {
+   "q": "site:reddit.com/r/Turkey OR site:reddit.com/r/KGBTR uygulama yaptım (alışkanlık OR \"sesli kitap\" OR ezber OR \"kişisel gelişim\")",
+   "useful_results": 0,
+   "note": "Only generic r/Turkey discussion threads; KGBTR returned nothing app-related"
+  },
+  {
+   "q": "site:reddit.com/r/Turkey \"kendi geliştirdiğim\" uygulama (öğrenme OR podcast OR rutin)",
+   "useful_results": 1,
+   "note": "Quoted phrase returned no results; unquoted gave 2 unrelated threads, one sidebar mention of 'Kelimetik' (English vocab app, tester call)"
+  },
+  {
+   "q": "site:reddit.com/r/turkishlearning OR site:reddit.com/r/Turkey Turkish app solo developer (habit OR study OR audio)",
+   "useful_results": 2,
+   "note": "r/turkishlearning: solo devs announce Turkish word games (Byde, Kelime Avi); games only, loosely K2"
+  },
+  {
+   "q": "site:reddit.com/r/KGBTR uygulama önerisi (kadınlar OR \"kişisel gelişim\" OR rutin OR günlük)",
+   "useful_results": 0,
+   "note": "r/KGBTR is an anonymous, male-skewed, explicit/toxic community; nothing usable (not a good source)"
+  },
+  {
+   "q": "site:reddit.com/r/pakistan app (\"I built\" OR \"I made\") (habit OR learning OR audio OR Urdu)",
+   "useful_results": 5,
+   "note": "r/pakistan has many maker posts: Urdu Qaida app for kids, Urdu novels reading app, Urdu AI assistant (Uplift hackathon), maker cross-post of an Arabic reading-correction app"
+  },
+  {
+   "q": "site:reddit.com/r/bangladesh OR site:reddit.com/r/srilanka OR site:reddit.com/r/Nepal app (\"I built\" OR \"I made\") (habit OR learning OR audio)",
+   "useful_results": 5,
+   "note": "Language-learning makers dominate: Sinhala web app for a toddler, Bengali-English learning app (free, no ads), English-Bangla flashcard app, learning platform for Sri Lankan students, Transcribee (long-audio transcription)"
+  },
+  {
+   "q": "site:reddit.com/r/iran OR site:reddit.com/r/NewIran اپلیکیشن (ساختم OR \"ساخته شده\") (عادت OR یادگیری OR \"کتاب صوتی\")",
+   "useful_results": 2,
+   "note": "Persian query returns mostly Reddit machine-translated (?tl=fa) English threads. Two maker signals: Almaniac calendar app (r/NewIran) and a free Persian-learning tool (137 upvotes, 57 comments) quoted in a sidebar"
+  },
+  {
+   "q": "site:reddit.com/r/Israel OR site:reddit.com/r/hebrew אפליקציה (בניתי OR פיתחתי) (הרגלים OR למידה OR \"ספרים מוקראים\")",
+   "useful_results": 0,
+   "note": "Google returned no results for the Hebrew query (too restrictive); retried in English"
+  },
+  {
+   "q": "site:reddit.com/r/Israel OR site:reddit.com/r/hebrew app (\"I built\" OR \"I made\") (habit OR learning OR audio OR Hebrew)",
+   "useful_results": 5,
+   "note": "RETRY of #13 in English. r/hebrew is full of Hebrew-learning app makers (dioma, conjugation practice app, biblical-Hebrew quiz app, Text Simplifier, VocAdapt browser extension); r/Israel returned nothing"
+  },
+  {
+   "q": "site:reddit.com/r/lebanon OR site:reddit.com/r/Jordan OR site:reddit.com/r/Morocco OR site:reddit.com/r/Tunisia app local developer (habit OR learning OR audio OR Arabic)",
+   "useful_results": 0,
+   "note": "Only developer-career threads, 'what app should we build' ideation (r/lebanon) and a TunisAI Tunisian-Arabic LLM project; users in r/Morocco ask for Darija learning apps. No finds"
+  },
+  {
+   "q": "site:reddit.com Arabic (audiobooks OR podcast OR \"text to speech\" OR audio) app (\"I built\" OR \"I made\" OR \"we built\") (Egypt OR Arab OR Saudi OR Gulf)",
+   "useful_results": 7,
+   "note": "ADAPTED (broadened from r/arabs+r/Egypt to all Reddit, which returned nothing). r/learnarabic and r/learn_arabic are rich in indie makers: one prolific maker (u/faizanrajput) with several Arabic apps, Tfaddalu (Palestinian Arabic), kids' dialect app, Quran-recitation corrector"
+  },
+  {
+   "q": "site:reddit.com Muslim women app (routine OR \"self care\" OR habit OR journal) (\"I built\" OR \"I made\" OR recommend)",
+   "useful_results": 9,
+   "note": "Very productive: a cluster of Muslim maker subs (muslimdevs, MuslimVentures, MuslimDevelopers) and r/muslimgirlswithtaste with women-oriented apps: journaling app for Muslim moms, cycle tracker for Muslim women, AI muhasabah diary, Islamic habit companion"
+  },
+  {
+   "q": "site:reddit.com/r/russia OR site:reddit.com/r/russian приложение (\"я сделал\" OR \"я разработал\" OR \"мое приложение\") (привычки OR обучение OR аудио)",
+   "useful_results": 2,
+   "note": "Results are Reddit auto-translations (?tl=ru) of English threads from r/russian (learners of Russian), not native Russian maker posts. Makers of Russian-learning tools only (speaking-practice app, sentence-breakdown tool, language game)"
+  },
+  {
+   "q": "site:reddit.com/r/AskARussian приложение (привычек OR саморазвития OR аудиокниг OR подкастов)",
+   "useful_results": 0,
+   "note": "Foreigners asking about Russia, podcast and YouTuber recommendation threads; no maker posts. Russians themselves are barely on Reddit"
+  },
+  {
+   "q": "site:pikabu.ru (\"сделал приложение\" OR \"мое приложение\") (привычки OR обучение OR аудио OR саморазвитие)",
+   "useful_results": 0,
+   "note": "Zero matches (Google also notes removals for legal requests); folded into the next combined query instead of retrying separately"
+  },
+  {
+   "q": "(site:habr.com OR site:vc.ru OR site:pikabu.ru) (сделал OR запустил OR запустили) приложение (привычки OR микрообучение OR аудио OR саморазвитие) (инди OR соло OR вдвоем OR один)",
+   "useful_results": 9,
+   "note": "MERGED plan #19 (retry), #20 (habr) and #21 (vc.ru) into one query. vc.ru is the productive Russian-language source: many indie/solo habit-app launch stories from 2026 (Bloom social habit tracker with AI coach, Kaplya AI goal planner, PowerHabits, Ryvok, savings-from-quitting tracker, Kotomka)"
+  },
+  {
+   "q": "site:reddit.com/r/ukraine OR site:reddit.com/r/Ukrainian додаток (\"я створив\" OR \"мій додаток\") (звички OR навчання OR аудіо)",
+   "useful_results": 0,
+   "note": "Only machine-translated threads (Spotify playlist, learning Ukrainian, mnemonic keyboard); no app makers"
+  },
+  {
+   "q": "site:reddit.com/r/Polska OR site:reddit.com/r/poland aplikacja (stworzyłem OR zrobiłem OR stworzyłam) (nawyki OR nauka OR audio OR \"rozwój osobisty\")",
+   "useful_results": 4,
+   "note": "r/Polska has maker content: KROK (free ADHD step-by-step routine app, 90+ comments), 'what did you build with AI' showcase thread (Czyściciel audio filler remover), Natulang (language app, r/poland); plus demand threads for audiobook apps"
+  },
+  {
+   "q": "site:reddit.com/r/Romania OR site:reddit.com/r/hungary OR site:reddit.com/r/czech OR site:reddit.com/r/bulgaria app (\"I built\" OR \"made by\") (habit OR learning OR audio)",
+   "useful_results": 2,
+   "note": "Few lens-relevant items: a Bulgarian-learning game seeking beta testers (r/bulgaria), a behavioral-science chore/habit app for families quoted in an r/czech sidebar; Romanian posts are game-dev launches"
+  },
+  {
+   "q": "site:reddit.com/r/Kazakhstan OR site:reddit.com/r/Uzbekistan OR site:reddit.com/r/armenia OR site:reddit.com/r/Georgia app local startup (learning OR audio OR habit)",
+   "useful_results": 0,
+   "note": "r/armenia is the only active startup-minded community (Podcastle AI is a funded Armenian audio startup; idea threads for friend-finding and Armenian-learning apps). r/Georgia is the US state, not the country; Uzbekistan and Kazakhstan returned only marketing/job threads"
+  },
+  {
+   "q": "site:reddit.com/r/serbia OR site:reddit.com/r/croatia OR site:reddit.com/r/bosnia OR site:reddit.com/r/Slovenia aplikacija (napravio OR razvio OR napravila) (navike OR učenje OR audio)",
+   "useful_results": 3,
+   "note": "r/serbia has maker posts in Serbian: free tourist audio-guide app (32 sights, eyes-free walking audio, 20+ comments), Lafa offline dictation app (macOS, 40+ comments, off-lens), Digitalna Dosada Serbian audiobooks app (~5 years ago, Android). r/croatia: only a 5-year-old 'universal learning platform' idea. r/bosnia and r/Slovenia returned nothing"
+  },
+  {
+   "q": "site:reddit.com (\"from Russia\" OR \"from Ukraine\" OR \"from Poland\" OR \"from Romania\" OR \"from Serbia\") app \"I built\" (habit OR learning OR audio) (SideProject OR indiehackers)",
+   "useful_results": 7,
+   "note": "Best query of the Europe block: HabitsFlow (Ukraine) in r/iosapps + r/ProductivityApps, Serbian street-names app (r/SideProject), free indie Polish-learning app (r/learnpolish), Serbian app made for a wife (r/Serbian, 40+), Polish study app by a high-schooler (r/indiehackers), Polish on-device voice-notes app and a Romanian solo-dev story (off-lens)"
+  },
+  {
+   "q": "site:reddit.com/r/SideProject (\"from Turkey\" OR \"from Egypt\" OR \"from Saudi\" OR \"from Pakistan\" OR \"from Iran\" OR \"from Lebanon\") app \"I built\" (habit OR learning OR audio)",
+   "useful_results": 5,
+   "note": "Productive for Turkey: Obook (solo dev, PDF-to-audiobook), AI dream-interpretation app, LinguaLeap vocabulary game, plus Ali Alchaddad's habit app (teen maker). No Saudi/Iran/Lebanon/Pakistan K1-K3 hits; sidebars mention a free Islamic prayer app (r/MuslimCorner) and an Egyptian solo founder (AI-agent API, off-lens)"
+  },
+  {
+   "q": "\"PDF-to-audiobook\" Emin \"solo developer from Turkey\" app (iOS OR Android OR \"App Store\" OR \"Play Store\")",
+   "useful_results": 1,
+   "note": "FOLLOW-UP 1 (resolve name): snippet names the app 'Obook' ('takes any PDF or ebook and turns it into ...'); App Store match found (iOS id 6746949882, seller MHD AMIN ALLAHHAM)"
+  },
+  {
+   "q": "\"cycle tracker app to support Muslim women\" Nisaa app",
+   "useful_results": 0,
+   "note": "FOLLOW-UP 2: exact phrase returned no results; Google fell back to web results that map the niche (Nisaa, Taahirah, Ayda via Instagram, Nisua) but none tied to the Reddit thread. Used as a lead only"
+  },
+  {
+   "q": "site:reddit.com (Nisaa OR Taahirah OR Ayda) Muslim women (period OR cycle) tracker app (\"I built\" OR \"I made\" OR launched)",
+   "useful_results": 2,
+   "note": "FOLLOW-UP 3: resolved the r/muslimgirlswithtaste cycle-tracker thread as AYDA (u/aydaforme: 'I made a cycle tracker app for Muslim women called ayda'; second post 'I built AYDA for Muslim women who appreciate premium quality and beautiful design'); also surfaced a 'Period in Ramadan' thread recommending MyHayd"
+  },
+  {
+   "q": "(site:reddit.com/r/muslimdevs OR site:reddit.com/r/MuslimVentures OR site:reddit.com/r/MuslimDevelopers OR site:reddit.com/r/muslimgirlswithtaste) (journaling OR \"habit companion\" OR muhasabah OR \"daily Islamic practice\") (\"App Store\" OR \"Google Play\" OR TestFlight OR vercel.app)",
+   "useful_results": 7,
+   "note": "FOLLOW-UP 4 (dig into a rich community + resolve names): DeenDoor, Sakeenah journal (live vercel.app link in the update post), Sakinah (prayer times + Qur'an + journaling + voice companion), Deen Over Dunya (free iOS planner), Niyyah Quran Companion (private study circles), Quran Streak: Daily Wird ('coming soon'), plus a 'connect with more Muslim developers' thread"
+  }
+ ],
+ "subreddits": [
+  {
+   "name": "arabs",
+   "region": "Pan-Arab / diaspora",
+   "language": "en+ar",
+   "role": "users",
+   "why": "Large general Arab community, mostly politics/culture; occasional maker replies (kids' Arabic vocabulary app with dialect switch seen in a parenting thread)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/arabs/comments/1ummowj/parents_raising_kids_outside_the_arab_world_how/"
+  },
+  {
+   "name": "Egypt",
+   "region": "Egypt",
+   "language": "ar (Egyptian)+en",
+   "role": "users",
+   "why": "Egyptian users discuss podcasts and 'Study with me' sessions; no maker threads surfaced",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Egypt/comments/ro4m2r/what_arabic_podcasts_do_you_listen_to/"
+  },
+  {
+   "name": "saudiarabia",
+   "region": "Saudi Arabia",
+   "language": "ar+en",
+   "role": "both",
+   "why": "Makers occasionally post projects (party-games site, 7 comments); users ask for podcast/self-development recs",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/saudiarabia/comments/1r6hh3o/"
+  },
+  {
+   "name": "UAE",
+   "region": "UAE",
+   "language": "en",
+   "role": "both",
+   "why": "Most productive Gulf community in this run: several 'I built' threads (Arabic learning app, ad-free Quran audio app, ILM Islamic app tester call)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/UAE/comments/1u5vsfx/i_built_an_arabic_learning_app_because_i_wanted/"
+  },
+  {
+   "name": "dubai",
+   "region": "UAE",
+   "language": "en",
+   "role": "users",
+   "why": "Expat-heavy; app recommendations for Arabic/Quran learning; maker cross-posts quoted in snippets",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/dubai/comments/1ayo6wh/nonarabs_who_speak_arabic_how_did_you_do_it/"
+  },
+  {
+   "name": "Turkey",
+   "region": "Turkey",
+   "language": "tr+en",
+   "role": "users",
+   "why": "Large general Turkish community; an English-vocabulary app maker (Kelimetik) asks for test users in a sidebar mention; weak maker signal",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Turkey/comments/1wwov56/"
+  },
+  {
+   "name": "turkishlearning",
+   "region": "Turkey / global learners of Turkish",
+   "language": "en+tr",
+   "role": "both",
+   "why": "Solo devs announce Turkish word games / learning tools (Byde, Kelime Avi); learners ask for vocabulary-memorisation app recs",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/turkishlearning/comments/1nhk5de/byde_word_puzzle_turkish_mobil_game/"
+  },
+  {
+   "name": "learn_arabic",
+   "region": "Global (learners of Arabic)",
+   "language": "en",
+   "role": "both",
+   "why": "Older sister sub of r/learnarabic: Tfaddalu (Palestinian Arabic app, 30+ comments), 'New app for spoken Arabic' (40+)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/learn_arabic/comments/1urouum/i_just_launched_tfaddalu_an_app_tha_teaches/"
+  },
+  {
+   "name": "SideProject",
+   "region": "Global (solo makers from Turkey, Serbia, Poland, Egypt...)",
+   "language": "en",
+   "role": "builders",
+   "why": "Most productive source in this run: the phrasing 'I built ... solo dev from <country>' surfaces real solo makers (Obook PDF-to-audiobook from Turkey, street-names app from Serbia, AI dream app and LinguaLeap from Turkey, Ali Alchaddad's habit app)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/SideProject/comments/1wqr05u/solo_dev_here_i_spent_8_months_building_a/"
+  },
+  {
+   "name": "islamichistory",
+   "region": "Global",
+   "language": "en",
+   "role": "users",
+   "why": "'I built a free Quran app with tafsir, history, and no ads' (83 upvotes) was posted here",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "KGBTR",
+   "region": "Turkey",
+   "language": "tr",
+   "role": "users",
+   "why": "NOT RECOMMENDED: anonymous, male-skewed, explicit/toxic; nothing app-related surfaced for K1/K2/K3",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/KGBTR/comments/y7a7qq/"
+  },
+  {
+   "name": "pakistan",
+   "region": "Pakistan",
+   "language": "en (+Urdu)",
+   "role": "both",
+   "why": "Makers announce apps here: Urdu Qaida (kids), Urdu novels reading app, Urdu AI assistant from the Uplift hackathon, Arabic reading-correction app (7 comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/pakistan/comments/1u5wkzs/i_built_an_arabic_learning_app_because_i_wanted/"
+  },
+  {
+   "name": "srilanka",
+   "region": "Sri Lanka",
+   "language": "en (+Sinhala)",
+   "role": "both",
+   "why": "Makers: 'I built a simple web app to help my toddler learn Sinhala' (9 comments), 'building a learning platform for Sri Lankan students' (20+), Transcribee (long-audio transcription)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/srilanka/comments/1rqe0ox/i_built_a_simple_web_app_to_help_my_toddler_learn/"
+  },
+  {
+   "name": "bangladesh",
+   "region": "Bangladesh",
+   "language": "en+bn",
+   "role": "both",
+   "why": "Makers post Bengali-English learning apps and an English-to-Bangla flashcard app; users ask for English-learning apps",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/bangladesh/comments/1s759db/couldnt_find_a_good_english_to_bangla_flashcard/"
+  },
+  {
+   "name": "Nepal",
+   "region": "Nepal",
+   "language": "en",
+   "role": "both",
+   "why": "Hobby makers share small apps/games; podcast recommendation threads; few lens-relevant finds",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Nepal/comments/92m47e/hey_everyone_what_are_some_of_the_podcasts_you/"
+  },
+  {
+   "name": "afghanistan",
+   "region": "Afghanistan / Dari",
+   "language": "en",
+   "role": "builders",
+   "why": "Seen in snippet: 'I built a website to help people like me learn Dari (looking for feedback)' (8 months ago)",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "NewIran",
+   "region": "Iran (diaspora)",
+   "language": "en (+fa)",
+   "role": "both",
+   "why": "Diaspora maker posts, e.g. Almaniac calendar-converter app with Persian calendar (10+ comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/NewIran/comments/1w7pjja/i_added_the_persian_calendar_to_an_app_i_made/"
+  },
+  {
+   "name": "iran",
+   "region": "Iran",
+   "language": "en (Reddit machine-translated to fa)",
+   "role": "users",
+   "why": "Threads quote 'I made a free Persian-learning tool because Duolingo doesn't support Persian' (137 upvotes, 57 comments); Persian-language Google snippets are Reddit auto-translations of English posts",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/iran/comments/13abkra/iranian_surname_project/"
+  },
+  {
+   "name": "hebrew",
+   "region": "Israel / global learners of Hebrew",
+   "language": "en",
+   "role": "both",
+   "why": "Very maker-active: dioma (web app for intermediate learners), Hebrew conjugation practice app, biblical-Hebrew quiz app, Text Simplifier, VocAdapt browser extension",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/hebrew/comments/1u900ph/best_hebrew_app/"
+  },
+  {
+   "name": "Israel",
+   "region": "Israel",
+   "language": "en",
+   "role": "users",
+   "why": "Nothing app-maker related surfaced in two attempts (Hebrew and English queries); weak source",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "Tunisia",
+   "region": "Tunisia",
+   "language": "en+ar+fr",
+   "role": "builders",
+   "why": "Developer community; TunisAI (first Tunisian Arabic LLM project, 40+ comments); no K1/K2/K3 apps",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Tunisia/comments/1ow0iu0/update_tunisai_the_first_tunisian_arabic_ai_model/"
+  },
+  {
+   "name": "lebanon",
+   "region": "Lebanon",
+   "language": "en+ar",
+   "role": "both",
+   "why": "'Thinking of building an app for our community' (50+ comments) shows maker/idea discussion but no lens-relevant app",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/lebanon/comments/1qfm6d7/thinking_of_building_an_app_for_our_community/"
+  },
+  {
+   "name": "jordan",
+   "region": "Jordan",
+   "language": "en+ar",
+   "role": "both",
+   "why": "Maker posted 'I built an Arabic app for kids. Any word, 7 dialects, switch...' here (3 comments, 2 months ago)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/jordan/comments/1v68tnh/i_built_an_arabic_app_for_kids_any_word_7/"
+  },
+  {
+   "name": "Morocco",
+   "region": "Morocco",
+   "language": "en+fr+ar",
+   "role": "users",
+   "why": "Users ask for the best apps to learn Darija; developer-career threads",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Morocco/comments/yiumia/what_are_the_best_apps_to_learn_darija/"
+  },
+  {
+   "name": "learnarabic",
+   "region": "Global (learners of Arabic)",
+   "language": "en",
+   "role": "both",
+   "why": "Best source in this run for Arabic-learning makers: multiple 'I built' threads from solo devs, Quran recitation correctors, kids' apps",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/learnarabic/comments/1wu80fs/i_built_an_arabic_learning_app_that_tells_you/"
+  },
+  {
+   "name": "muslimdevs",
+   "region": "Global Muslim developers",
+   "language": "en",
+   "role": "builders",
+   "why": "Muslim app makers share launches (journaling app for Muslims built in 6 weeks, 4 comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/muslimdevs/comments/1sm1f1t/i_built_a_journaling_app_for_muslims_in_6_weeks/"
+  },
+  {
+   "name": "MuslimVentures",
+   "region": "Global Muslim founders",
+   "language": "en",
+   "role": "builders",
+   "why": "Updates on Muslim app launches: journaling app update, 'app for daily Islamic practice' (5 comments, 3 weeks ago), MuzMates",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/MuslimVentures/comments/1wk14yh/i_built_an_app_for_daily_islamic_practice_would/"
+  },
+  {
+   "name": "MuslimDevelopers",
+   "region": "Global Muslim developers",
+   "language": "en",
+   "role": "builders",
+   "why": "Densest launch feed for daily-practice/habit/journal apps: DeenDoor, Sakinah, Deen Over Dunya, Niyyah, Islamic Habit Companion, AI muhasabah diary, Quran Streak (coming soon); several new posts per week",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wjodt9/i_built_an_app_for_daily_islamic_practice_quran/"
+  },
+  {
+   "name": "muslimgirlswithtaste",
+   "region": "Global Muslim women (strong US/UK/CA diaspora signal)",
+   "language": "en",
+   "role": "both",
+   "why": "Women-only Muslim community where founders launch women-oriented apps: AYDA cycle tracker (20+ comments, plus a second AYDA post), journaling app for Muslim moms, MyHayd recommended in a 'Period in Ramadan' thread. Best women-oriented source found in this run",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1oovh04/i_built_a_cycle_tracker_app_to_support_muslim/"
+  },
+  {
+   "name": "Femalefounders",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Women founders sub; journaling app for Muslims cross-posted here (3 comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Femalefounders/comments/1sm14hp/i_built_a_journaling_app_for_muslims_in_6_weeks/"
+  },
+  {
+   "name": "appmarketing",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "AI muhasabah (self-reflection) diary app announced here (1 comment, 4 weeks ago)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/appmarketing/comments/1wew4xq/i_spent_months_building_an_ai_muhasabah/"
+  },
+  {
+   "name": "russian",
+   "region": "Russia / global learners of Russian",
+   "language": "en (Reddit auto-translates to ru)",
+   "role": "both",
+   "why": "Learners of Russian; makers post Russian-learning tools (speaking practice app, grammar breakdown tool, language game); not a source of Russian-market consumer apps",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/russian/comments/1fb6lqy/i_created_a_free_app_to_practice_speaking_russian/"
+  },
+  {
+   "name": "AskARussian",
+   "region": "Russia",
+   "language": "en+ru",
+   "role": "users",
+   "why": "Foreigners asking Russians about life, podcasts, YouTubers; useful only for Russian-podcast taste, no makers",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/AskARussian/comments/u70uur/"
+  },
+  {
+   "name": "vc.ru",
+   "region": "Russia / CIS (non-Reddit)",
+   "language": "ru",
+   "role": "both",
+   "why": "Best Russian-language source found: dozens of 2026 indie/solo app launch stories (habit trackers, AI coaches, goal planners). Appears in Google with dates and snippets",
+   "size_hint": null,
+   "evidence_url": "https://vc.ru/life/3020835-ii-koch-ing-v-prilozhenii-bloom"
+  },
+  {
+   "name": "habr.com",
+   "region": "Russia / CIS (non-Reddit)",
+   "language": "ru",
+   "role": "builders",
+   "why": "Developer articles; mostly AI-agent coding stories, few consumer-app launches",
+   "size_hint": null,
+   "evidence_url": "https://habr.com/ru/articles/1082766/"
+  },
+  {
+   "name": "pikabu.ru",
+   "region": "Russia / CIS (non-Reddit)",
+   "language": "ru",
+   "role": "users",
+   "why": "No results for app-maker queries (Google also reports legal removals); weak source",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "ukraine / Ukrainian",
+   "region": "Ukraine",
+   "language": "en (Reddit auto-translates to uk)",
+   "role": "users",
+   "why": "Language-learning and politics threads only; no app makers surfaced",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Ukrainian/comments/wo3vmt/what_are_the_best_ways_to_learn_the_ukrainian/"
+  },
+  {
+   "name": "Polska",
+   "region": "Poland",
+   "language": "pl",
+   "role": "both",
+   "why": "Active maker content in Polish: KROK ADHD routine app (90+ comments), 'what did you build with AI' showcase thread (50+ comments), demand threads for audiobook apps (Audioteka, BookBeat) and 'app that changed your life'",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Polska/comments/1wpqdn4/moja_c%C3%B3rka_potrzebuje_instrukcji_do_najprostszych/"
+  },
+  {
+   "name": "poland",
+   "region": "Poland",
+   "language": "en (+pl)",
+   "role": "both",
+   "why": "English-language Poland sub; Natulang English-learning app announced for Polish speakers",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/poland/comments/181g1k8/natulang_an_app_to_learn_english_for_polish/"
+  },
+  {
+   "name": "czech",
+   "region": "Czechia",
+   "language": "cs+en",
+   "role": "both",
+   "why": "Occasional 'I built' posts (RSS reader, family chore/habit app quoted in a sidebar); podcast-recommendation and 'what are you programming' threads",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/czech/comments/1l7d0dq/co_programujete/"
+  },
+  {
+   "name": "hungary",
+   "region": "Hungary",
+   "language": "en+hu",
+   "role": "users",
+   "why": "Only expat app-recommendation threads surfaced",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/hungary/comments/ejvzzv/what_are_the_most_useful_hungarian_apps_that/"
+  },
+  {
+   "name": "Romania",
+   "region": "Romania",
+   "language": "ro+en",
+   "role": "both",
+   "why": "Maker posts exist but were game-dev launches (Steam), not lens-relevant",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Romania/comments/1jnjitw/"
+  },
+  {
+   "name": "bulgaria",
+   "region": "Bulgaria",
+   "language": "en+bg",
+   "role": "both",
+   "why": "'I built a game to learn Bulgarian' beta-tester call (8 comments, 2 months ago)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/bulgaria/comments/1vmih33/i_built_a_game_to_learn_bulgarian_and_im_looking/"
+  },
+  {
+   "name": "armenia",
+   "region": "Armenia",
+   "language": "en+hy",
+   "role": "both",
+   "why": "Most startup-minded CIS/Caucasus sub found: Podcastle (funded audio startup), idea threads for friend-finding and Armenian-learning apps (42 upvotes, 39 comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/armenia/comments/1w4k47l/building_a_platonic_friendfinding_app_for_people/"
+  },
+  {
+   "name": "Kazakhstan",
+   "region": "Kazakhstan",
+   "language": "en+ru",
+   "role": "users",
+   "why": "Only digital-marketing and job threads surfaced",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Kazakhstan/comments/1qqod7h/digital_marketing_in_kazakhstan_which_platforms/"
+  },
+  {
+   "name": "serbia",
+   "region": "Serbia",
+   "language": "sr (Latin) + en",
+   "role": "both",
+   "why": "Local maker posts in Serbian: free eyes-free tourist audio-guide app (20+ comments), Lafa offline dictation app (40+), Digitalna Dosada audiobooks (~5 years ago); also a thread on online radio vs. streaming algorithms (80+ comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/serbia/comments/1uy8sqe/napravio_sam_besplatnu_aplikaciju_kao_turisti%C4%8Dki/"
+  },
+  {
+   "name": "Serbian",
+   "region": "Serbia / learners of Serbian",
+   "language": "en",
+   "role": "both",
+   "why": "'Made a Serbian app for my wife, ended up building ...' (40+ comments, 2 months ago) - language-app makers post here",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Serbian/comments/1vbilgg/made_a_serbian_app_for_my_wife_ended_up_building/"
+  },
+  {
+   "name": "croatia",
+   "region": "Croatia",
+   "language": "hr",
+   "role": "users",
+   "why": "Only a 5-year-old idea thread for a 'universal learning platform' surfaced; no current makers",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/croatia/comments/ov408o/univerzalna_platforma_za_u%C4%8Denje/"
+  },
+  {
+   "name": "iosapps",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "App launch threads with 20+ comments (HabitsFlow habit tracker from Ukraine, posted twice)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/iosapps/comments/1x0m7xw/built_a_habit_tracker_for_people_who_are_tired_of/"
+  },
+  {
+   "name": "ProductivityApps",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Habit-tracker launches (HabitsFlow thread, 10+ comments, 4 days ago)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/ProductivityApps/comments/1x0mc5y/i_built_a_habit_tracker_for_people_who_are_tired/"
+  },
+  {
+   "name": "indiehackers",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Young makers post first apps (Polish high-school student's study app, 2 comments); weak traction signals",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/indiehackers/comments/1lo95fu/built_my_first_app_to_solve_my_own_study_problems/"
+  },
+  {
+   "name": "learnpolish",
+   "region": "Poland / learners of Polish",
+   "language": "en",
+   "role": "both",
+   "why": "'I built a free, indie app to learn Polish - now supporting 10 ...' (20+ comments, 3 weeks ago; bilingual Daily Bulletin of real news snippets)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/learnpolish/comments/1wkgdm5/i_built_a_free_indie_app_to_learn_polish_now/"
+  },
+  {
+   "name": "Android",
+   "region": "Global",
+   "language": "en",
+   "role": "builders",
+   "why": "Solo-dev launch stories (a solo developer from Romania, first Play Store app, 10+ comments)",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/Android/comments/1svxaid/i_build_my_first_app_as_a_solo_dev_and_this_is/"
+  },
+  {
+   "name": "MuslimCorner",
+   "region": "Global Muslim community",
+   "language": "en",
+   "role": "both",
+   "why": "Seen only as a sidebar mention ('I built a free Islamic prayer app'); not opened",
+   "size_hint": null,
+   "evidence_url": null
+  },
+  {
+   "name": "Urdu",
+   "region": "Pakistan / Urdu learners",
+   "language": "en",
+   "role": "both",
+   "why": "Seen as a sidebar mention in an r/pakistan thread ('Made an App for Building Urdu Skills + Vocab'); not opened",
+   "size_hint": null,
+   "evidence_url": "https://www.reddit.com/r/pakistan/comments/1o5cryg/urdu_ai_assistant_with_eyes/"
+  }
+ ],
+ "finds": [
+  {
+   "app": "AYDA - Period Tracker",
+   "store_id": 6745415462,
+   "store_url": "https://apps.apple.com/us/app/id6745415462",
+   "country": "US-registered company; audience = Muslim women worldwide (store UI: English, Arabic, French, Indonesian)",
+   "developer": "Ayda Health Inc. (Reddit: u/aydaforme; site aydaforme.com)",
+   "dev_type": "small startup, founder-led (store text: 'founded by a Muslim woman')",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Free, ad-free cycle tracker and 'health and spiritual companion' for Muslim women: tracks the cycle (hayd) and links physical, emotional and spiritual wellbeing (ibadah) in one app.",
+   "sets_apart": "Faith-aware cycle tracking pitched as the 'first Muslim-made period tracker for Muslim women', with premium/beautiful design as the hook; launched community-first in a women-only Muslim subreddit and positioned against Flo (post title: 'it's officially time to delete apps like Fl0'); cycle phases are tied to worship rhythm instead of generic health data.",
+   "traction": "App Store: 1,455 ratings (avg ~4.8) summed over 25 storefronts with data (26 checked): US 277, GB 232, CA 180, MY 139, ID 117, FR 101, AU 64, AE 39, DE 39, NL 34, ZA 31 ...; released 2025-05-09, v3.11.2 updated 2026-10-07 (actively maintained). Reddit: launch thread 20+ comments (11 months ago) plus a second community post (10 months ago).",
+   "monetization": "Free download, ad-free (store); paid tier not captured",
+   "women_oriented": true,
+   "evidence": [
+    {
+     "title": "I built a cycle tracker app to support Muslim women",
+     "subreddit": "r/muslimgirlswithtaste",
+     "age": "11 months ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1oovh04/i_built_a_cycle_tracker_app_to_support_muslim/"
+    },
+    {
+     "title": "Listen up girls — it's officially time to delete apps like Fl0 ... (snippet: 'I built AYDA for Muslim women who appreciate premium quality and beautiful design')",
+     "subreddit": "r/muslimgirlswithtaste",
+     "age": "10 months ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1pftvga/listen_up_girls_its_officially_time_to_delete/"
+    },
+    {
+     "title": "AYDA (u/aydaforme) profile (snippet: 'I made a cycle tracker app for Muslim women called ayda')",
+     "subreddit": "Reddit user page",
+     "age": "n/a",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/user/aydaforme/"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "app": "Bloom (social habit tracker with AI coach)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Russia / Russian-language market (article on vc.ru)",
+   "developer": "Ivan (surname not shown)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Social habit tracker with a built-in AI coach; the maker wrote up how testers 'started arguing' with the coach.",
+   "sets_apart": "Social/accountability habit tracking plus an AI coach whose tone is a visible product decision (the coach was too blunt with users).",
+   "traction": "vc.ru launch-story article 9 Jul 2026 (no user numbers in the snippet). No confident App Store match (only unrelated apps called 'Bloom') -> likely Android/RuStore first.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "У нас ИИ-коуч грубит пользователям. Это наше ... (vc.ru, 'Я делаю Bloom - социальный трекер ...')",
+     "subreddit": "vc.ru (non-Reddit)",
+     "age": "9 Jul 2026",
+     "comments": "n/a",
+     "url": "https://vc.ru/life/3020835-ii-koch-ing-v-prilozhenii-bloom"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Капля (Kaplya, 'Drop') - AI goal planner, formerly habit tracker",
+   "store_id": null,
+   "store_url": null,
+   "country": "Russia / Russian-language market (article on vc.ru)",
+   "developer": "unknown ('we': small team)",
+   "dev_type": "small team",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Started as a habit tracker with an AI mentor; now being developed as an AI goal planner - habits removed, conversation with the AI and a focus mode kept.",
+   "sets_apart": "Public pivot from habit tracking to goal planning with an AI mentor (a signal that a plain habit tracker was not enough).",
+   "traction": "vc.ru article ~3 days ago (Oct 2026); no numbers in the snippet. Not found in the App Store (ru).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Убрали привычки из трекера и сделали ИИ-планировщик целей (Капля)",
+     "subreddit": "vc.ru (non-Reddit)",
+     "age": "3 days ago (Oct 2026)",
+     "comments": "n/a",
+     "url": "https://vc.ru/tribuna/3186011-ii-planirshchik-tseley-kaplya"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "HabitsFlow: Habit tracker (inferred match)",
+   "store_id": 6744604703,
+   "store_url": "https://apps.apple.com/us/app/id6744604703",
+   "country": "Ukraine (solo maker); posts in English",
+   "developer": "Pavlo Antoniuk (App Store seller; Reddit post: 'My name Pavlo Antoniuk, I'm developer from Ukraine')",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Minimal habit tracker pitched at 'people who are tired of bloated habit apps'.",
+   "sets_apart": "Anti-bloat positioning; localised into 8+ languages (EN, FR, DE, KO, PL, PT, RU, ZH); same maker also ships WaterTotter, a water tracker (17 ratings, 4.88).",
+   "traction": "Reddit: r/iosapps threads 20+ comments (2 months ago) and 20+ (4 days ago), r/ProductivityApps 10+ (4 days ago). App Store 'Habit tracker: HabitsFlow': 1 rating (US); released 2025-07-31, v1.09 updated 2026-10-08. Tiny traction.",
+   "monetization": "Free download; model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a habit tracker for people who are tired of bloated habit apps.",
+     "subreddit": "r/ProductivityApps",
+     "age": "4 days ago",
+     "comments": "10+",
+     "url": "https://www.reddit.com/r/ProductivityApps/comments/1x0mc5y/i_built_a_habit_tracker_for_people_who_are_tired/"
+    },
+    {
+     "title": "Built a habit tracker for people who are tired of bloated ...",
+     "subreddit": "r/iosapps",
+     "age": "2 months ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/iosapps/comments/1v7yyot/built_a_habit_tracker_for_people_who_are_tired_of/"
+    },
+    {
+     "title": "Built a habit tracker for people who are tired of bloated ...",
+     "subreddit": "r/iosapps",
+     "age": "4 days ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/iosapps/comments/1x0m7xw/built_a_habit_tracker_for_people_who_are_tired_of/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Sakeenah Journal (web app) - 'journaling app for Muslim Moms' (inferred same app)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Global Muslim community (maker country not shown); web app on vercel.app",
+   "developer": "unknown (posted in a women-only sub as 'Women in STEM!' and cross-posted to r/Femalefounders, which suggests a woman founder; unverified)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Journaling app for Muslims, built in 6 weeks; pitched in the women-only sub as a journaling app for Muslim moms. An update post links the live web app (sakeenah-journal.vercel.app).",
+   "sets_apart": "Faith-aware journaling for Muslim women/moms; very fast build (6 weeks) shown publicly to makers and women founders.",
+   "traction": "Four cross-posts: r/muslimgirlswithtaste 4 comments, r/muslimdevs 4, r/Femalefounders 3, update in r/MuslimDevelopers/r/MuslimVentures 2 each (4-6 months ago). No user numbers. Web only (not in App Store search).",
+   "monetization": "unknown",
+   "women_oriented": true,
+   "evidence": [
+    {
+     "title": "Women in STEM! (I made a journaling app for Muslim Moms!)",
+     "subreddit": "r/muslimgirlswithtaste",
+     "age": "6 months ago",
+     "comments": "4",
+     "url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1sfvqht/women_in_stem_i_made_a_journaling_app_for_muslim/"
+    },
+    {
+     "title": "I built a journaling app for Muslims in 6 weeks",
+     "subreddit": "r/muslimdevs",
+     "age": "6 months ago",
+     "comments": "4",
+     "url": "https://www.reddit.com/r/muslimdevs/comments/1sm1f1t/i_built_a_journaling_app_for_muslims_in_6_weeks/"
+    },
+    {
+     "title": "I built a journaling app for Muslims in 6 weeks",
+     "subreddit": "r/Femalefounders",
+     "age": "6 months ago",
+     "comments": "3",
+     "url": "https://www.reddit.com/r/Femalefounders/comments/1sm14hp/i_built_a_journaling_app_for_muslims_in_6_weeks/"
+    },
+    {
+     "title": "Update: I built a journaling app for Muslims in 6 weeks — ... (snippet: 'App is here: sakeenah-journal.vercel.app')",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "4 months ago",
+     "comments": "2",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1tuokv0/update_i_built_a_journaling_app_for_muslims_in_6/"
+    },
+    {
+     "title": "Update: I built a journaling app for Muslims in 6 weeks — ...",
+     "subreddit": "r/MuslimVentures",
+     "age": "4 months ago",
+     "comments": "2",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1tuogtx/update_i_built_a_journaling_app_for_muslims_in_6/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "DeenDoor",
+   "store_id": 6798593982,
+   "store_url": "https://apps.apple.com/us/app/id6798593982",
+   "country": "Muslim users worldwide (maker country not shown)",
+   "developer": "Daler Khodzhimatov (App Store seller; site deendoor.ai)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Daily companion app for practising Muslims (Quran, prayer times and more - snippet truncated).",
+   "sets_apart": "'Daily companion' framing: one calm app for the daily practice rhythm rather than separate prayer/Quran tools.",
+   "traction": "Reddit: r/MuslimDevelopers 8 comments + r/MuslimVentures 5 comments (3 weeks ago). App Store: 0 ratings; released 2026-09-12, v1.0.6 updated 2026-10-07. Brand new.",
+   "monetization": "Free download; model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built an app for daily Islamic practice (Quran, prayer times ...",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "3 weeks ago",
+     "comments": "8",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wjodt9/i_built_an_app_for_daily_islamic_practice_quran/"
+    },
+    {
+     "title": "I built an app for daily Islamic practice would love your ...",
+     "subreddit": "r/MuslimVentures",
+     "age": "3 weeks ago",
+     "comments": "5",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1wk14yh/i_built_an_app_for_daily_islamic_practice_would/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Sakinah (prayer times, Qur'an, journaling and a voice companion) - store listing not matched",
+   "store_id": null,
+   "store_url": null,
+   "country": "Muslim diaspora / global (App Store GB link in the post)",
+   "developer": "unknown (many unrelated apps are called 'Sakinah' on the App Store, so the seller could not be matched)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1",
+    "K3"
+   ],
+   "what_it_is": "One calm app combining prayer times, Qur'an recitation, journaling and a voice companion; '15+ themes, no ads, no guilt'; premium unlocks more reciters and journal sections.",
+   "sets_apart": "'No ads, no guilt' tone (anti-streak-shame) plus a voice companion and Qur'an audio in the same habit/journal app.",
+   "traction": "Reddit: r/MuslimVentures 10+ comments (3 weeks ago) and cross-posts in r/MuslimDevelopers (3 and 2 weeks ago). No store numbers (listing not identified).",
+   "monetization": "Freemium: premium extras (more reciters, journal sections) as stated",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Sakinah: prayer times, Qur'an, journaling and a voice companion in one calm app",
+     "subreddit": "r/MuslimVentures",
+     "age": "3 weeks ago",
+     "comments": "10+",
+     "url": "https://www.reddit.com/r/MuslimVentures/comments/1wljvb8/sakinah_prayer_times_quran_journaling_and_a_voice/"
+    },
+    {
+     "title": "Sakinah: prayer times, Qur'an, journaling and a voice companion in one calm app",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "3 weeks ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wmauca/sakinah_prayer_times_quran_journaling_and_a_voice/"
+    },
+    {
+     "title": "Sakinah: prayer times, Qur'an, journaling and a voice companion in one calm app",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "2 weeks ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1won71a/sakinah_prayer_times_quran_journaling_and_a_voice/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Deen Over Dunya (free iOS planner)",
+   "store_id": 6758906721,
+   "store_url": "https://apps.apple.com/us/app/id6758906721",
+   "country": "Muslim diaspora (company site deenoverdunya.ca - Canada suffix); English + Arabic",
+   "developer": "DEEN OVER DUNYA TECHNOLOGIES INC",
+   "dev_type": "small company",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Free iOS planner 'that makes room for ...' (title truncated; the brand is faith-first planning). Requires iOS 17+, English and Arabic, all current features free, no subscription (as stated).",
+   "sets_apart": "Planner built around faith priorities instead of productivity-first scheduling.",
+   "traction": "Reddit: r/MuslimDevelopers post 1 week ago. App Store: 1 rating (5.0); released 2026-03-14, v1.1 updated 2026-07-24.",
+   "monetization": "Free, no subscription (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Deen Over Dunya: a free iOS planner that makes room for ...",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "1 week ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wtw4c7/deen_over_dunya_a_free_ios_planner_that_makes/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Niyyah Quran Companion",
+   "store_id": 6799808008,
+   "store_url": "https://apps.apple.com/us/app/id6799808008",
+   "country": "Muslim diaspora / global",
+   "developer": "hibo mohamed (App Store seller)",
+   "dev_type": "solo",
+   "lenses": [
+    "K1",
+    "K2"
+   ],
+   "what_it_is": "Qur'an study companion combining journaling, vocabulary, progress tracking and private study circles.",
+   "sets_apart": "Private study circles (accountability with friends) plus vocabulary/progress mechanics in a Qur'an study app.",
+   "traction": "Reddit: r/MuslimDevelopers 5 comments (1 week ago). App Store: 0 ratings; released 2026-09-21 (v1.0). Brand new.",
+   "monetization": "Free download; model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I couldn't find a Qur'an app that combined all of these ...",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "1 week ago",
+     "comments": "5",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wwnxoj/i_couldnt_find_a_quran_app_that_combined_all_of/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) AI muhasabah (self-reflection) diary app",
+   "store_id": null,
+   "store_url": null,
+   "country": "Muslim diaspora / global",
+   "developer": "unknown",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "AI-assisted Islamic self-reflection (muhasabah) diary: 'spent months building'.",
+   "sets_apart": "AI-guided nightly self-accountability journal grounded in Islamic practice. UNVERIFIED guess by release date only: 'Qalb: Islamic Journal' (Ilmara Group LLC, iOS id 6742218328, released 2026-09-09, 7 ratings, 5.0).",
+   "traction": "Reddit: r/appmarketing 1 comment (4 weeks ago) + r/MuslimDevelopers cross-post.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I spent months building an AI muhasabah (self-reflection) diary app",
+     "subreddit": "r/appmarketing",
+     "age": "4 weeks ago",
+     "comments": "1",
+     "url": "https://www.reddit.com/r/appmarketing/comments/1wew4xq/i_spent_months_building_an_ai_muhasabah/"
+    },
+    {
+     "title": "I spent months building an AI muhasabah (self-reflection) diary app",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "~4 weeks ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1wcf42j/i_spent_months_building_an_ai_muhasabah/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) Islamic Habit Companion app",
+   "store_id": null,
+   "store_url": null,
+   "country": "Muslim diaspora / global",
+   "developer": "unknown",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit app for Muslims described as a companion that keeps users consistent, 'not just a tracker'.",
+   "sets_apart": "Companion framing (nudges for consistency) instead of a plain checklist tracker.",
+   "traction": "r/MuslimDevelopers 4 comments (5 months ago); beta/feedback stage.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Built an Islamic Habit Companion App – Looking for ...",
+     "subreddit": "r/MuslimDevelopers",
+     "age": "5 months ago",
+     "comments": "4",
+     "url": "https://www.reddit.com/r/MuslimDevelopers/comments/1tb1jse/built_an_islamic_habit_companion_app_looking_for/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "MyHayd App (user mention)",
+   "store_id": 6739942459,
+   "store_url": "https://apps.apple.com/us/app/id6739942459",
+   "country": "Muslim women diaspora (US store)",
+   "developer": "MyHayd App Services Inc.",
+   "dev_type": "small company",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Period tracker for Muslim women (hayd tracking), recommended by a user in a 'Period in Ramadan' thread.",
+   "sets_apart": "Same faith-aware cycle-tracking niche as AYDA; mentioned by users, not by the maker.",
+   "traction": "Reddit: mentioned in r/muslimgirlswithtaste 'Period in Ramadan' (10+ comments, 7 months ago). App Store: 19 ratings (4.37); released 2025-04-18, v4.3.0 updated 2026-10-03.",
+   "monetization": "Free download; model not captured",
+   "women_oriented": true,
+   "evidence": [
+    {
+     "title": "Period in Ramadan (snippet: 'there's an app called Myhayd App, its a period tracker')",
+     "subreddit": "r/muslimgirlswithtaste",
+     "age": "7 months ago",
+     "comments": "10+",
+     "url": "https://www.reddit.com/r/muslimgirlswithtaste/comments/1rix2y7/period_in_ramadan/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "KROK (ADHD step-by-step routine app)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Poland (r/Polska)",
+   "developer": "unknown (the mention sits in a help-request thread; unclear whether the maker or a commenter posted it)",
+   "dev_type": "solo (implied)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Free app that gives step-by-step instructions for everyday tasks, designed mainly for ADHD/AuDHD users; promised to stay free, with no login and no ads.",
+   "sets_apart": "Step-by-step routine guidance for neurodivergent users; free forever, no login, no ads.",
+   "traction": "Thread 'My daughter needs instructions for the simplest tasks' has 90+ comments (2 weeks ago); a 0:38 video appears next to the Google result. Not found in the App Store (pl/us) -> probably web/PWA.",
+   "monetization": "Free (stated: 'always free, no login, no ads')",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Moja córka potrzebuje instrukcji do najprostszych czynności. ...",
+     "subreddit": "r/Polska",
+     "age": "2 weeks ago",
+     "comments": "90+",
+     "url": "https://www.reddit.com/r/Polska/comments/1wpqdn4/moja_c%C3%B3rka_potrzebuje_instrukcji_do_najprostszych/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "PowerHabits (vc.ru)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Russia / Russian-language market",
+   "developer": "unknown",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit tracker combined with a workout diary and to-do list, with gamification and analytics.",
+   "sets_apart": "Built because the maker could not find a habit tracker for an active lifestyle; all-in-one habit + training log.",
+   "traction": "vc.ru article 4 Aug 2026; no numbers in the snippet. App Store has a 'Power Habits Tracker' (Jan Bosshard, released 2026-09-11) but the seller does not match a Russian-language maker, so it is NOT accepted as the same app.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Как я не нашел подходящий трекер привычек и ... (PowerHabits)",
+     "subreddit": "vc.ru (non-Reddit)",
+     "age": "4 Aug 2026",
+     "comments": "n/a",
+     "url": "https://vc.ru/tribuna/3062021-kak-razrabotat-treker-privychok-dlya-aktivnoj-zhizni"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Рывок (Ryvok) - gamified app with levels and achievements",
+   "store_id": null,
+   "store_url": null,
+   "country": "Russia / Russian-language market",
+   "developer": "unknown",
+   "dev_type": "solo/small (implied by 'my app')",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "App with levels, achievements and monetization, reviewed by a designer (39 remarks). Lens fit unconfirmed: levels + achievements suggest a gamified self-improvement app.",
+   "sets_apart": "Public design teardown (level display, achievements, monetization, design errors).",
+   "traction": "vc.ru article 10 Sep 2026; no numbers.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Заказал разбор своего приложения и получил 39 замечаний (Рывок)",
+     "subreddit": "vc.ru (non-Reddit)",
+     "age": "10 Sep 2026",
+     "comments": "n/a",
+     "url": "https://vc.ru/design/3132393-razbor-prilozheniya-ryvok"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) savings-from-quitting habit tracker (one of two apps shipped in a month by a one-person studio)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Russia / Russian-language market",
+   "developer": "unknown ('studio of one person')",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Tracker that counts money saved when you quit a habit (cigarettes, take-away coffee): tap once, enter the price, the app does the maths.",
+   "sets_apart": "One-tap 'I resisted' logging turned into money saved; built in a month with AI and zero budget.",
+   "traction": "vc.ru article 2 Oct 2026; no numbers.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "как я за месяц выпустил два приложения и детектив на ... (студия из одного человека)",
+     "subreddit": "vc.ru (non-Reddit)",
+     "age": "2 Oct 2026",
+     "comments": "n/a",
+     "url": "https://vc.ru/id1995923/3172366-studiya-iz-odnogo-cheloveka-i-ii-zapusk-prilozheniy-s-nulevym-byudzhetom"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) habit app built 'for my CV at 17' by Ali Alchaddad",
+   "store_id": null,
+   "store_url": null,
+   "country": "unknown (maker country not shown)",
+   "developer": "Ali Alchaddad",
+   "dev_type": "solo (17-year-old maker at launch)",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "Habit app built by a teenager as a portfolio piece; the post is a success/lessons story.",
+   "sets_apart": "Teen-maker story; details not in the snippet.",
+   "traction": "r/SideProject thread (age and comment count not shown in the snippet).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I'm Ali Alchaddad. Built a habit app for my CV at 17, and ...",
+     "subreddit": "r/SideProject",
+     "age": "unknown",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1ulfwef/im_ali_alchaddad_built_a_habit_app_for_my_cv_at/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) AI dream-interpretation / self-discovery app",
+   "store_id": null,
+   "store_url": null,
+   "country": "Turkey (indie developer)",
+   "developer": "unknown ('indie developer from Turkey')",
+   "dev_type": "solo",
+   "lenses": [
+    "K1"
+   ],
+   "what_it_is": "AI app for dream interpretation and self-discovery; maker asks 'Would you use it?'.",
+   "sets_apart": "Self-discovery angle (dreams) rather than habit tracking.",
+   "traction": "r/SideProject 2 comments (1 day ago); validation stage.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built an AI app for dream interpretation and self-discovery. Would you use it?",
+     "subreddit": "r/SideProject",
+     "age": "1 day ago",
+     "comments": "2",
+     "url": "https://www.reddit.com/r/SideProject/comments/1x36m15/i_built_an_ai_app_for_dream_interpretation_and/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Obook - Text to Speech",
+   "store_id": 6746949882,
+   "store_url": "https://apps.apple.com/us/app/id6746949882",
+   "country": "Turkey (solo maker); English UI",
+   "developer": "MHD AMIN ALLAHHAM (App Store seller; Reddit: 'Emin, a solo developer from Turkey' - match inferred from app name + description)",
+   "dev_type": "solo",
+   "lenses": [
+    "K3",
+    "K2"
+   ],
+   "what_it_is": "AI reading assistant: turns PDFs, EPUBs, documents and articles into natural-sounding audio, with follow-along text and several languages.",
+   "sets_apart": "The user supplies their own PDF/ebook (K2-style input) and gets audio to listen to anywhere (K3); built solo over 8 months (React Native app + Node backend, per snippet).",
+   "traction": "Reddit: launch thread 10+ comments (2 weeks ago). App Store: 3 ratings (TR, 5.0), 0 in US; released 2026-03-11, v1.0.62 updated 2026-10-11 (ships often). Very early.",
+   "monetization": "Free download; in-app model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Solo dev here: I spent 8 months building a PDF-to-audiobook ...",
+     "subreddit": "r/SideProject",
+     "age": "2 weeks ago",
+     "comments": "10+",
+     "url": "https://www.reddit.com/r/SideProject/comments/1wqr05u/solo_dev_here_i_spent_8_months_building_a/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "(name not shown) free tourist audio-guide app for walking (Serbia)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Serbia (r/serbia, Serbian)",
+   "developer": "unknown ('napravio sam' = 'I made')",
+   "dev_type": "solo",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Free tourist-guide app for a Serbian destination: 32 locations with photo galleries and historical descriptions, plus an audio guide 'to listen while you walk, without looking at the screen'.",
+   "sets_apart": "Audio-first walking guide (eyes-free), free; direct analogue of the 'guided walks' mechanic in K3, though not personalised.",
+   "traction": "r/serbia 20+ comments (2 months ago); no store numbers (name not in snippet).",
+   "monetization": "free (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Napravio sam besplatnu aplikaciju kao turistički vodič kroz ...",
+     "subreddit": "r/serbia",
+     "age": "2 months ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/serbia/comments/1uy8sqe/napravio_sam_besplatnu_aplikaciju_kao_turisti%C4%8Dki/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) 'who were the streets named after' app (Serbia)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Serbia (solo dev, English post)",
+   "developer": "unknown ('solo dev from Serbia')",
+   "dev_type": "solo",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "App that tells you who the people behind street names were, built after driving past streets named after strangers every day. Audio output NOT confirmed in the snippet.",
+   "sets_apart": "Learn-on-the-go micro-facts triggered by where you are; fits K3 only if narrated.",
+   "traction": "r/SideProject 20+ comments (2 days ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I drove past streets named after strangers every day, so I built an app that tells me who they were",
+     "subreddit": "r/SideProject",
+     "age": "2 days ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/SideProject/comments/1x2q5ue/i_drove_past_streets_named_after_strangers_every/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) ad-free Quran audio app (1,000+ reciters)",
+   "store_id": null,
+   "store_url": null,
+   "country": "UAE (r/UAE)",
+   "developer": "unknown",
+   "dev_type": "solo",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Quran listening app: 1,000+ reciters, downloadable surahs, no ads.",
+   "sets_apart": "Ad-free and a very large reciter catalogue with offline downloads.",
+   "traction": "r/UAE post 1 day ago (comment count not shown).",
+   "monetization": "free / no ads (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I wanted to listen to the Qur'an without ads. So I built an app.",
+     "subreddit": "r/UAE",
+     "age": "1 day ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/UAE/comments/1x37s2q/i_wanted_to_listen_to_the_quran_without_ads_so_i/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Digitalna Dosada (Serbian audiobooks app)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Serbia (Serbian language)",
+   "developer": "unknown (maker looking for collaborators)",
+   "dev_type": "small team (implied)",
+   "lenses": [
+    "K3"
+   ],
+   "what_it_is": "Audiobooks in Serbian; at the time only on Android, iOS planned.",
+   "sets_apart": "Local-language audiobooks built by volunteers/collaborators.",
+   "traction": "r/serbia 20+ comments (~5 years ago); status today unknown; not in the App Store (rs/us).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Audio knjige na srpskom - u potrazi za saradnicima/ ...",
+     "subreddit": "r/serbia",
+     "age": "~5 years ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/serbia/comments/kb8mxp/audio_knjige_na_srpskom_u_potrazi_za/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) Arabic learning apps by u/faizanrajput - camera object naming + read-aloud corrector (+ possibly kids and short-lesson apps)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Maker country not shown (posts in r/learnarabic, r/pakistan, r/UAE, r/jordan, r/arabs); audience = Arabic learners worldwide",
+   "developer": "u/faizanrajput (Reddit handle); app names not shown",
+   "dev_type": "solo (serial indie maker; identity of all threads inferred from posting pattern)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Arabic learning apps: (1) point the phone camera at anything and it tells you what it is called in Arabic; (2) an app that listens to you read classical Arabic and corrects you; (3) a learning app 'because I wanted to read Islamic books without a dictionary'; (4) one that 'teaches through short ...' (title truncated).",
+   "sets_apart": "Uses the learner's own context as material (camera, own Islamic books) and speech feedback on classical-Arabic reading.",
+   "traction": "r/learnarabic threads 3-6 comments (1 week to 9 months ago); r/UAE 4 and r/pakistan 7 comments (4 months ago); video posts by u/faizanrajput 3 days and 2 weeks ago.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built an Arabic learning app that tells you what anything around you is called in Arabic",
+     "subreddit": "r/learnarabic",
+     "age": "1 week ago",
+     "comments": "3",
+     "url": "https://www.reddit.com/r/learnarabic/comments/1wu80fs/i_built_an_arabic_learning_app_that_tells_you/"
+    },
+    {
+     "title": "I built an app that listens to you read classical Arabic and ...",
+     "subreddit": "r/learnarabic",
+     "age": "5 months ago",
+     "comments": "4",
+     "url": "https://www.reddit.com/r/learnarabic/comments/1sxk721/i_built_an_app_that_listens_to_you_read_classical/"
+    },
+    {
+     "title": "I built an Arabic learning app that teaches through short ...",
+     "subreddit": "r/learnarabic",
+     "age": "9 months ago",
+     "comments": "6",
+     "url": "https://www.reddit.com/r/learnarabic/comments/1py4ki7/i_built_an_arabic_learning_app_that_teaches/"
+    },
+    {
+     "title": "I built an Arabic learning app because I wanted to read Islamic books without a dictionary",
+     "subreddit": "r/pakistan",
+     "age": "4 months ago",
+     "comments": "7",
+     "url": "https://www.reddit.com/r/pakistan/comments/1u5wkzs/i_built_an_arabic_learning_app_because_i_wanted/"
+    },
+    {
+     "title": "I built an Arabic learning app because I wanted to read Islamic books without a dictionary",
+     "subreddit": "r/UAE",
+     "age": "4 months ago",
+     "comments": "4",
+     "url": "https://www.reddit.com/r/UAE/comments/1u5vsfx/i_built_an_arabic_learning_app_because_i_wanted/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) kids' Arabic vocabulary app with fusha + 6-7 dialect switch",
+   "store_id": null,
+   "store_url": null,
+   "country": "Arab diaspora / Jordan (posted in r/arabs and r/jordan)",
+   "developer": "unknown",
+   "dev_type": "solo (implied by 'I built')",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Kids' Arabic vocabulary app: any word can be switched between fusha (MSA) and six/seven dialects, with audio pronunciation.",
+   "sets_apart": "Per-word dialect toggle for heritage-language kids; a related snippet says 'My kids were losing their Arabic, so I built them an app'.",
+   "traction": "r/arabs 6 comments (3 months ago); r/jordan 3 comments (2 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Parents raising kids outside the Arab world — how do you ...",
+     "subreddit": "r/arabs",
+     "age": "3 months ago",
+     "comments": "6",
+     "url": "https://www.reddit.com/r/arabs/comments/1ummowj/parents_raising_kids_outside_the_arab_world_how/"
+    },
+    {
+     "title": "I built an Arabic app for kids. Any word, 7 dialects, switch ...",
+     "subreddit": "r/jordan",
+     "age": "2 months ago",
+     "comments": "3",
+     "url": "https://www.reddit.com/r/jordan/comments/1v68tnh/i_built_an_arabic_app_for_kids_any_word_7/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "Tfaddalu: Palestinian Arabic",
+   "store_id": 6784313314,
+   "store_url": "https://apps.apple.com/us/app/id6784313314",
+   "country": "Finland-registered company; audience = learners of Palestinian/Levantine Arabic (r/learn_arabic)",
+   "developer": "Bobo Labs Oy (site tfaddalu.com)",
+   "dev_type": "small company (likely solo/tiny team; new Finnish Oy)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "iOS app teaching Palestinian Arabic: words, sentences and audio, all in the Palestinian dialect.",
+   "sets_apart": "Dialect-first (Palestinian) instead of Modern Standard Arabic; audio for every item.",
+   "traction": "r/learn_arabic launch thread 30+ comments (3 months ago). App Store: 6 ratings (US, 5.0) + 1 (GB); released 2026-07-09, v1.0.20 updated 2026-10-12 (very active).",
+   "monetization": "Free download; model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I just launched Tfaddalu, an app tha teaches Palestinian ...",
+     "subreddit": "r/learn_arabic",
+     "age": "3 months ago",
+     "comments": "30+",
+     "url": "https://www.reddit.com/r/learn_arabic/comments/1urouum/i_just_launched_tfaddalu_an_app_tha_teaches/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "Natulang - Language Learning",
+   "store_id": 1672038621,
+   "store_url": "https://apps.apple.com/us/app/id1672038621",
+   "country": "Estonia-registered company; announced to Polish speakers (r/poland)",
+   "developer": "Natulang OU",
+   "dev_type": "small company",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Language-learning app that promises to take you from zero to watching films with subtitles in the target language; English course for Polish speakers announced on r/poland.",
+   "sets_apart": "Goal-led course design (be able to watch films with subtitles); launched with one course.",
+   "traction": "App Store: 420 ratings (US, 4.81) + 47 (PL); released 2023-03-25, v1.5.230 updated 2026-10-06. Reddit thread date/comment count not shown (thread id suggests ~late 2023).",
+   "monetization": "Free download (store); subscription model not captured",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Natulang: an app to learn English for Polish ...",
+     "subreddit": "r/poland",
+     "age": "unknown (~2023)",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/poland/comments/181g1k8/natulang_an_app_to_learn_english_for_polish/"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "app": "dioma (Hebrew learning web app)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Hebrew learners worldwide (r/hebrew)",
+   "developer": "unknown ('I built dioma over the last year')",
+   "dev_type": "solo/small (implied)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Web-based Hebrew learning app for intermediate learners.",
+   "sets_apart": "Targets the intermediate gap that Duolingo-style apps skip; web only.",
+   "traction": "r/hebrew 'Best Hebrew App' thread 20+ comments (3 months ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Best Hebrew App : r/hebrew",
+     "subreddit": "r/hebrew",
+     "age": "3 months ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/hebrew/comments/1u900ph/best_hebrew_app/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) Hebrew Text Simplifier (+ VocAdapt browser extension mention)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Hebrew learners worldwide (r/hebrew)",
+   "developer": "unknown",
+   "dev_type": "solo (implied by 'I made')",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Tool that simplifies Hebrew text for beginners; a related snippet mentions 'VocAdapt', a browser extension that adapts text to the learner.",
+   "sets_apart": "Works on the learner's own text (user-supplied material), the K2 input mechanic.",
+   "traction": "r/hebrew 20+ comments (1 year ago).",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I made this Text Simplifier to help beginners read Hebrew",
+     "subreddit": "r/hebrew",
+     "age": "1 year ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/hebrew/comments/1i5tebh/i_made_this_text_simplifier_to_help_beginners/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) free Persian-learning tool ('Duolingo doesn't support Persian')",
+   "store_id": null,
+   "store_url": null,
+   "country": "Persian learners / Iran diaspora (post location not captured)",
+   "developer": "unknown",
+   "dev_type": "solo (implied)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Free Persian-learning tool built because Duolingo does not support Persian; maker asked the community for feedback.",
+   "sets_apart": "Fills a gap language (no Duolingo course); highest engagement seen in this run for a learning tool.",
+   "traction": "Quoted in a sidebar as 137 upvotes / 57 comments. The actual post URL was not captured; the evidence link is the r/iran thread whose sidebar showed it.",
+   "monetization": "free (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Iranian surname project (sidebar shows: 'I made a free Persian-learning tool because Duolingo doesn't support Persian: looking for feedback from the community!' 137 upvotes, 57 comments)",
+     "subreddit": "r/iran",
+     "age": "~3 years ago (thread)",
+     "comments": "30+ (thread)",
+     "url": "https://www.reddit.com/r/iran/comments/13abkra/iranian_surname_project/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) English-to-Bangla flashcard app",
+   "store_id": null,
+   "store_url": null,
+   "country": "Bangladesh (r/bangladesh)",
+   "developer": "unknown",
+   "dev_type": "solo (implied by 'I built one myself')",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Flashcard app for learning English words with Bangla meanings.",
+   "sets_apart": "Flashcards for a language pair the maker found underserved.",
+   "traction": "Thread count/age not shown in the snippet.",
+   "monetization": "unknown",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "couldn't find a good English to Bangla flashcard app, so I built one myself!",
+     "subreddit": "r/bangladesh",
+     "age": "unknown",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/bangladesh/comments/1s759db/couldnt_find_a_good_english_to_bangla_flashcard/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) free Bengali-English learning app",
+   "store_id": null,
+   "store_url": null,
+   "country": "Bangladesh / Bengali learners (r/bangladesh)",
+   "developer": "unknown",
+   "dev_type": "solo (implied)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Free, ad-free Bengali-English language learning app made 'to help myself study'; maker considering a store release.",
+   "sets_apart": "Free, no ads; built from the maker's own study needs.",
+   "traction": "Post in r/bangladesh (Bengali title); counts not shown. Not yet on the App Store.",
+   "monetization": "free, no ads (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "আমি একটি বিনামূল্যের বাংলা-ইংরেজি ভাষা শেখার অ্যাপ তৈরি করেছি।",
+     "subreddit": "r/bangladesh",
+     "age": "unknown",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/bangladesh/comments/1rai1oo/%E0%A6%86%E0%A6%AE_%E0%A6%8F%E0%A6%95%E0%A6%9F_%E0%A6%AC%E0%A6%A8%E0%A6%AE%E0%A6%B2%E0%A6%AF%E0%A6%B0_%E0%A6%AC%E0%A6%B2%E0%A6%87%E0%A6%B0%E0%A6%9C_%E0%A6%AD%E0%A6%B7_%E0%A6%B6%E0%A6%96%E0%A6%B0_%E0%A6%85%E0%A6%AF%E0%A6%AA_%E0%A6%A4%E0%A6%B0_%E0%A6%95%E0%A6%B0%E0%A6%9B/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) free indie app to learn Polish (Daily Bulletin, 10 languages)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Poland / learners of Polish (r/learnpolish)",
+   "developer": "unknown ('indie')",
+   "dev_type": "solo (implied)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "Free indie Polish-learning app now supporting 10 [interface languages]; includes a bilingual 'Daily Bulletin' of real news snippets from Poland with side-by-side translation.",
+   "sets_apart": "Micro-reading from real daily news with side-by-side translation.",
+   "traction": "r/learnpolish 20+ comments (3 weeks ago).",
+   "monetization": "free (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a free, indie app to learn Polish — now supporting 10 ...",
+     "subreddit": "r/learnpolish",
+     "age": "3 weeks ago",
+     "comments": "20+",
+     "url": "https://www.reddit.com/r/learnpolish/comments/1wkgdm5/i_built_a_free_indie_app_to_learn_polish_now/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "(name not shown) Serbian-learning app made for the maker's wife",
+   "store_id": null,
+   "store_url": null,
+   "country": "Serbia / learners of Serbian (r/Serbian)",
+   "developer": "unknown",
+   "dev_type": "solo (implied)",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "App that started as a Serbian-learning tool for the maker's wife and grew into something bigger (title truncated); free to use.",
+   "sets_apart": "Built for one real learner first (wife), then opened up.",
+   "traction": "r/Serbian 40+ comments (2 months ago).",
+   "monetization": "free (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "Made a Serbian app for my wife, ended up building ...",
+     "subreddit": "r/Serbian",
+     "age": "2 months ago",
+     "comments": "40+",
+     "url": "https://www.reddit.com/r/Serbian/comments/1vbilgg/made_a_serbian_app_for_my_wife_ended_up_building/"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "app": "LinguaLeap (rapid-fire vocabulary game, Android)",
+   "store_id": null,
+   "store_url": null,
+   "country": "Turkey (indie developer)",
+   "developer": "unknown ('indie developer from Turkey')",
+   "dev_type": "solo",
+   "lenses": [
+    "K2"
+   ],
+   "what_it_is": "100% free Android vocabulary game designed to force fast recall instead of slow study.",
+   "sets_apart": "Rapid-fire vocabulary drills as a game; free.",
+   "traction": "r/SideProject post ~4 months ago; Android-only (no App Store listing found).",
+   "monetization": "free (as stated)",
+   "women_oriented": "unknown",
+   "evidence": [
+    {
+     "title": "I built a rapid-fire vocabulary game because standard ...",
+     "subreddit": "r/SideProject",
+     "age": "4 months ago",
+     "comments": "n/a",
+     "url": "https://www.reddit.com/r/SideProject/comments/1u4o2mq/i_built_a_rapidfire_vocabulary_game_because/"
+    }
+   ],
+   "confidence": "low"
+  }
+ ]
+}

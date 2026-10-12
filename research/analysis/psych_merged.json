@@ -1,0 +1,204 @@
+[
+ {
+  "theme": "Cute and aesthetic surface (reward and safety)",
+  "reviews": 250,
+  "app_mentions": 37,
+  "packets": [
+   "a",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "It’s appealing to the eye so I actually look at the app rather than avoiding it.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Outsourced executive function and accountability",
+  "reviews": 233,
+  "app_mentions": 43,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "Accountability to only myself is often not enough for me",
+    "rating": 5
+   },
+   {
+    "text": "I love this app bc it eliminates the ability to excuse yourself!",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "A kind 'other' (witness, confidant, voice, character, care-by-proxy)",
+  "reviews": 227,
+  "app_mentions": 46,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "it really feels like you have a friend in your pocket. It really does make you feel heard and supported",
+    "rating": 5
+   },
+   {
+    "text": "This self care app helps you take care of yourself while caring for your little pet",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Safety and gentleness (non-shaming, forgiving tone)",
+  "reviews": 167,
+  "app_mentions": 42,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "it’s gentle, encouraging, and meets you where you’re at",
+    "rating": 5
+   },
+   {
+    "text": "While Apple’s rings feel like high pressure and lead to feelings of failure, Gentler Streaks feels encouraging and keeps me exercising.",
+    "rating": 4
+   }
+  ]
+ },
+ {
+  "theme": "Effortless entry, user stays in control",
+  "reviews": 165,
+  "app_mentions": 25,
+  "packets": [
+   "a",
+   "b"
+  ],
+  "quotes": [
+   {
+    "text": "Because of this friction, I am using the app less and focusing less.",
+    "rating": 2
+   },
+   {
+    "text": "I love that I can decide how much I want to workout without too much drama or endless hours of finding the perfect routine in yt.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Visible accumulating proof (streaks, collections, years)",
+  "reviews": 157,
+  "app_mentions": 38,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "was devastated that i would lose my 2 year streak, but was able to come back months later and fill it in to save the streak",
+    "rating": 5
+   },
+   {
+    "text": "I am 24 wks consistent w SWEAT app. That’s a huge accomplishment for me.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Identity upgrade ('that girl', 'life changing')",
+  "reviews": 148,
+  "app_mentions": 39,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "I have always wanted to be someone who journals.  Who works through issues and comes out on the other side.",
+    "rating": 5
+   },
+   {
+    "text": "After many failed attempts at consistency in my previous workout journey I actually completed it. I’ve been working out 3-5 times a week ever since - coming up on two years now.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Being known (self-knowledge, personalization, ownership)",
+  "reviews": 146,
+  "app_mentions": 30,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "identifying the specifics and subtleties has revealed I am really more hopeful, positive and balanced than I realized",
+    "rating": 5
+   },
+   {
+    "text": "I knew nothing about my body, how it worked or anything until this app.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Trust and fair exchange (reliability, human maker)",
+  "reviews": 143,
+  "app_mentions": 33,
+  "packets": [
+   "a",
+   "b",
+   "small"
+  ],
+  "quotes": [
+   {
+    "text": "this is the one app that doesn’t need a subscription every month. No idea why that was ever normalized.",
+    "rating": 5
+   },
+   {
+    "text": "An Old Friend. I've been using this app for several years and it's been very reliable.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Time-anchored daily ritual",
+  "reviews": 30,
+  "app_mentions": 9,
+  "packets": [
+   "b"
+  ],
+  "quotes": [
+   {
+    "text": "Start the day with a Daily and end with a sleep story.",
+    "rating": 5
+   }
+  ]
+ },
+ {
+  "theme": "Made-for-me belonging (life stage, women-first, neurotype)",
+  "reviews": 29,
+  "app_mentions": 7,
+  "packets": [
+   "b"
+  ],
+  "quotes": [
+   {
+    "text": "Sweat takes out the guess work and whatever stage of life I’m at, there is a sweat workout for that.",
+    "rating": 5
+   }
+  ]
+ }
+]
