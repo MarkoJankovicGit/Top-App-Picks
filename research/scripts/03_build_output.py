@@ -205,7 +205,9 @@ def main():
                           "criteria": CRITERIA, "weights": weights, "method": method,
                           "generated": datetime.now().strftime("%Y-%m-%d %H:%M")}, ensure_ascii=False)
     payload = payload.replace("</", "<\\/")
-    (OUTPUT / "dashboard.html").write_text(template.replace("__DATA__", payload), encoding="utf-8")
+    page = template.replace("__DATA__", payload)
+    (OUTPUT / "dashboard.html").write_text(page, encoding="utf-8")
+    (OUTPUT / "index.html").write_text(page, encoding="utf-8")  # Vercel i staticki hosting otvaraju index.html
     print(f"Top pikova: {len(rows)} (A {funnel['A']}, B {funnel['B']}) -> output/dashboard.html")
 
 
