@@ -97,6 +97,18 @@ tr.row:hover td{background:var(--hover)}
 .stack div{display:flex;align-items:center;justify-content:center;color:#fff;font-size:11.5px;font-weight:700}
 .legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted)}
 .legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.scoreh{margin:22px 0 10px;font-size:13px;font-weight:600;color:var(--muted)}
+.formula{display:inline-block;background:var(--blue-bg);color:var(--blue);border-radius:10px;padding:8px 12px;font-weight:600;font-size:13px;margin-bottom:12px}
+.ccards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}
+.cc{background:var(--bg);border-radius:12px;padding:12px;border-top:4px solid}
+.cc .top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px}
+.cc .top b{font-size:13.5px}.cc .top span{font-size:18px;font-weight:700}
+.cc p{margin:0 0 8px;font-size:12.5px;color:var(--text)}
+.scale{display:grid;grid-template-columns:22px 1fr;gap:3px 6px;font-size:11.5px;color:var(--muted)}
+.scale b{color:var(--text)}
+.src{margin-top:8px;font-size:11px;color:var(--faint)}
+.example{margin-top:14px;background:var(--bg);border-radius:12px;padding:12px}
+.example .stack{height:26px;margin:8px 0 6px}
 .pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
 .pill{background:var(--bg);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--muted)}
 .pill b{color:var(--text);font-weight:600}
@@ -221,6 +233,21 @@ $("methodBody").innerHTML=`<div class="mgrid">
 <div class="legend">${D.criteria.map(([k,l],i)=>`<span><i style="background:${colors[i]}"></i>${l}</span>`).join("")}</div></div>
 </div>
 <div class="pills"><span class="pill"><b>Target:</b> small dev · real users · little paid marketing · build ≤ ${T.build_months} months</span><span class="pill"><b>Data:</b> App Store US · Meta Ad Library · Reddit</span><span class="pill"><b>Note:</b> iOS downloads aren't public, ratings are relative signals</span></div>`;
+const CDEF={
+ demand:["How fast real users are coming in.",[["5","top ratings/day among candidates, reviews rising"],["3","middle of the pack"],["1","slowest growth"]],"App Store US ratings & reviews (automatic)"],
+ marketabilityVirality:["How easy it is to show and spread in a short video.",[["5","one-line pitch, visual in 3 sec, creator format, shareable result, social loop"],["3","2 of the 4"],["1","hard to show"]],"App analysis"],
+ marketingGap:["Traction with little paid marketing = room for our channels.",[["5","no ads found"],["4","few or unconfirmed ads"],["2","moderate ads or paid creators"]],"Meta Ad Library, Reddit, tracking label · heavy ads are removed"],
+ buildEase:["Time for 3 devs + AI to ship the full iOS + Android app.",[["5","≤ 4 weeks"],["3","7–8 weeks"],["1","over 2 months"]],"Build estimate"],
+ voiceOfCustomer:["How clear it is what users want fixed.",[["5","many repeated complaints and requests"],["3","some"],["1","no clear signal"]],"App Store reviews, Reddit"],
+ monetization:["Proof that users pay.",[["5","subscription users accept"],["3","freemium or unclear"],["1","no revenue or users reject paywall"]],"App Store, reviews"],
+ principleFit:["Strength of the psychological hook and fit with a Gen Z consistency story.",[["5","strong hook, perfect fit"],["3","solid"],["1","weak or off-brand"]],"App analysis"]};
+const top1=D.rows.slice().sort((a,b)=>b.total-a.total)[0];
+$("methodBody").insertAdjacentHTML("beforeend",`<div class="scoreh">How the score works</div>
+<div class="formula">Score = Σ weight × (rating ÷ 5) &nbsp;·&nbsp; each criterion rated 1–5 &nbsp;·&nbsp; max 100</div>
+<div class="ccards">${D.criteria.map(([k,l],i)=>{const d=CDEF[k]||["",[],""];return `<div class="cc" style="border-color:${colors[i]}"><div class="top"><b>${l}</b><span style="color:${colors[i]}">${D.weights[k]}%</span></div><p>${d[0]}</p><div class="scale">${d[1].map(([n,t])=>`<b>${n}</b><span>${t}</span>`).join("")}</div><div class="src">${d[2]}</div></div>`}).join("")}</div>
+<div class="example"><b>Example: ${esc(top1.name)}</b> <span class="small">score ${top1.total}</span>
+<div class="stack">${D.criteria.map(([k],i)=>{const v=top1.scores?.[k]||0,pts=D.weights[k]*v/5;return `<div style="width:${pts}%;background:${colors[i]}" title="${k}">${Math.round(pts)}</div>`}).join("")}<div style="width:${100-top1.total}%;background:var(--line)"></div></div>
+<div class="legend">${D.criteria.map(([k,l],i)=>`<span><i style="background:${colors[i]}"></i>${l}: ${top1.scores?.[k]??"–"}/5</span>`).join("")}</div></div>`);
 render();
 </script>
 </body>
