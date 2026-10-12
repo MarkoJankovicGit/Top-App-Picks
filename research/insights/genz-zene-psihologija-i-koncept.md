@@ -1,7 +1,5 @@
 # Gen Z žene (SAD): psihološki koren uspešnih self-improvement aplikacija i predlog koncepta
 
-> Napomena 13.10.2026: koncept iz ovog dokumenta (bašta, 75 dana) je zamenjen. Aktuelni koncept je u `era-koncept.md`. Ovde i dalje važe psihološka analiza (poglavlja 2–4) i izvori.
-
 Draft, 12.10.2026. Osnova: 1.937 US recenzija iz 55 aplikacija (28 velikih pobednika, 27 manjih aplikacija sa ženskom publikom), signal pola iz recenzija za 1.019 aplikacija i web research sa 98 izvora (`research/analysis/genz_women_research.md`). Sirove analize: `research/analysis/psych_winners_a.json`, `psych_winners_b.json`, `psych_small.json`.
 
 ## 1. Zaključak u tri rečenice
