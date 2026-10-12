@@ -83,15 +83,23 @@ tr.row:hover td{background:var(--hover)}
 .method summary::-webkit-details-marker{display:none}
 .method summary::before{content:"›";color:var(--blue);font-weight:700;transition:transform .15s;display:inline-block}
 .method[open] summary::before{transform:rotate(90deg)}
-.mgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px 28px;margin-top:14px}
-.mgrid h4{margin:0 0 6px;font-size:14px}
-.mgrid p,.mgrid li{color:var(--text);font-size:13.5px}
-.mgrid ul,.mgrid ol{margin:0;padding-left:18px}
-.steps{counter-reset:s;list-style:none;padding:0;margin:0}
-.steps li{position:relative;padding:0 0 12px 34px}
-.steps li::before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;background:var(--blue-bg);color:var(--blue);font-weight:700;font-size:12px;display:flex;align-items:center;justify-content:center}
-.drop{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding:4px 0;font-size:13px}
-.drop b{white-space:nowrap}
+.mgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px 32px;margin-top:16px}
+.mgrid h4{margin:0 0 10px;font-size:13px;font-weight:600;color:var(--muted)}
+.fun{display:grid;grid-template-columns:150px 1fr 64px;gap:8px 10px;align-items:center;font-size:13px}
+.fun .lbl{font-weight:600}.fun .lbl small{display:block;font-weight:400;color:var(--faint);font-size:11.5px}
+.fbar{height:22px;background:var(--blue);border-radius:6px;min-width:6px}
+.fun .n{text-align:right;font-weight:700}
+.fun .last{background:var(--green)}
+.why{display:grid;grid-template-columns:130px 1fr 52px;gap:6px 10px;align-items:center;font-size:12.5px}
+.wbar{height:10px;background:#ff9f0a;border-radius:99px;min-width:3px}
+.why .n{text-align:right;color:var(--muted)}
+.stack{display:flex;height:30px;border-radius:8px;overflow:hidden;margin-bottom:8px}
+.stack div{display:flex;align-items:center;justify-content:center;color:#fff;font-size:11.5px;font-weight:700}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--muted)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.pill{background:var(--bg);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--muted)}
+.pill b{color:var(--text);font-weight:600}
 </style>
 </head>
 <body>
@@ -99,10 +107,10 @@ tr.row:hover td{background:var(--hover)}
 <h1>Top App Picks</h1>
 <p class="sub" id="sub"></p>
 <div class="funnel" id="funnel"></div>
-<details class="section method" id="method"><summary><b>How this list was built</b> <span class="small">Criteria, filters and scoring behind this snapshot</span></summary><div id="methodBody"></div></details>
+<details class="section method" id="method" open><summary><b>How this list was built</b></summary><div id="methodBody"></div></details>
 <div class="section"><h3>Categories</h3><div class="chips" id="cats"></div></div>
 <div class="section"><h3>Psychological principles (count · average score)</h3><div class="chips" id="princ"></div></div>
-<p class="note">Snapshot of the US App Store, self-improvement niche. The list is refreshed daily, and trends become more reliable as history accumulates. iOS has no public download counts, so US ratings and reviews are used as relative signals. Marketing: 0 = no ads found, 1 = low or unconfirmed, 2 = moderate. Click a row or "Details" for the full profile.</p>
+<p class="note">Click any row for the full profile. Marketing: 0 = no ads found · 1 = low or unconfirmed · 2 = moderate.</p>
 <div class="controls">
 <input id="q" placeholder="Search: name, category, what sets it apart" size="38">
 <select id="fc"><option value="">Category: all</option></select>
@@ -201,24 +209,18 @@ const f=D.funnel;
 $("sub").textContent=`Self-improvement niche · US App Store · snapshot ${D.date} · generated ${D.generated}`;
 $("funnel").innerHTML=[["Found in search",f.pool],["Passed automatic filters",f.auto],["Passed all checks",f.passed],["Top picks",f.top],["List A",f.A],["List B",f.B]].map(([l,v])=>`<div class="f"><b>${fmt(v)}</b><span>${l}</span></div>`).join("");
 const M=D.method,T=M.thresholds,S=M.stage1;
-const drops=[["Fewer than "+T.min_ratings+" US ratings (no critical mass)",S.few_ratings],["Not updated in "+T.max_days_since_update+"+ days (abandoned)",S.stale],["Outside the niche (games, finance, shopping…) or excluded word in name",S.genre],["Fewer than "+T.min_ratings_per_day+" rating per day since launch (not growing)",S.slow],["Only on a top chart, no match with our niche keywords",S.chart_only],["Big brand ("+fmt(T.big_brand)+"+ ratings)",S.big_brand],["Average rating below "+T.min_avg,S.low_rating],["Developer with "+T.max_dev_apps+"+ apps (app factory)",S.factory]].filter(d=>d[1]).sort((a,b)=>b[1]-a[1]);
+const lw=n=>Math.max(2,Math.log10(n)/Math.log10(f.pool)*100);
+const steps=[["Found","App Store search + charts",f.pool],["Filtered","ratings, activity, niche",S.kept],["Active","recent reviews, small dev",f.auto],["Analyzed","fits niche, buildable",M.kept_analysis],["Low marketing","no heavy paid ads",f.passed],["Top picks","highest scores",f.top]];
+const why=[["< "+T.min_ratings+" US ratings",S.few_ratings],["Not updated "+T.max_days_since_update+"d",S.stale],["Off-niche",S.genre],["< "+T.min_ratings_per_day+" rating/day",S.slow],["Chart only",S.chart_only],["Big brand",S.big_brand],["Rating < "+T.min_avg,S.low_rating],["App factory",S.factory]].filter(d=>d[1]).sort((a,b)=>b[1]-a[1]);
+const wmax=why[0][1];
+const colors=["#0071e3","#5e5ce6","#ff9f0a","#34c759","#ff375f","#64d2ff","#8e8e93"];
 $("methodBody").innerHTML=`<div class="mgrid">
-<div><h4>What we are looking for</h4><p>Apps built by small developers that already have real users with little or no paid marketing, in the self-improvement niche (habits, steps and running, sleep and waking up, focus and screen time, quitting bad habits, competition, learning with streaks). They must be buildable as a complete iOS + Android app in about ${T.build_months} months by ${T.team} developers with AI assistance, and easy to market through short-form video and creators. Finance, dating, kids, gambling and AI photo/video generators are out of scope.</p>
-<h4 style="margin-top:14px">Funnel</h4>
-<ol class="steps">
-<li><b>Discovery: ${fmt(f.pool)} apps.</b> Apple App Store search (US) for ${M.keywords} niche keywords, plus US top free and top grossing charts in 6 categories.</li>
-<li><b>Automatic filters: ${fmt(S.kept)} left.</b> Niche, critical mass, quality, active updates, growth and developer size, all from Apple's public data (breakdown on the right).</li>
-<li><b>Reviews and developer check: ${fmt(f.auto)} left.</b> Recent US reviews over ${T.window_days} days (at least ${T.min_reviews_window} and not declining) and the developer's full app portfolio.</li>
-<li><b>App-by-app analysis: ${fmt(M.kept_analysis)} left.</b> Each app's description and review sample was analyzed. ${fmt(M.excluded_analysis)} were excluded: core value is not a personal habit, big brand or app factory, or not buildable in ${T.build_months} months (hardware, large content library).</li>
-<li><b>Marketing check: ${fmt(f.passed)} left.</b> Active US ads in Meta Ad Library, paid creator (UGC) recruiting on Reddit and the App Store tracking label. Apps with heavy paid marketing (20+ ads or long-running campaigns) were removed.</li>
-<li><b>Scoring: top ${f.top}.</b> Remaining apps are scored 0–100 and the highest ${f.top} are shown. List A passes every criterion; list B is borderline on one.</li>
-</ol></div>
-<div><h4>Why the other ${fmt(f.pool-S.kept)} apps dropped out at step 2</h4>${drops.map(([l,v])=>`<div class="drop"><span>${l}</span><b>${fmt(v)}</b></div>`).join("")}
-<h4 style="margin-top:16px">Score (0–100)</h4>${D.criteria.map(([k,l])=>`<div class="drop"><span>${l}</span><b>${D.weights[k]}%</b></div>`).join("")}
-<p class="small" style="margin-top:8px">Demand comes from US ratings per day and review trend. The other criteria are rated 1–5 from the description, reviews, Reddit and ad data. Marketing level: 0 = no ads found, 1 = low or unconfirmed, 2 = moderate.</p></div>
-<div><h4>Sources</h4><ul><li>Apple App Store, US: search, top charts, app details, ratings, reviews, privacy labels</li><li>Meta Ad Library (US active ads)</li><li>Reddit via Google search</li><li>Developer websites and public profiles</li></ul>
-<h4 style="margin-top:14px">Limitations</h4><ul><li>iOS has no public download or revenue numbers, so US ratings and reviews are relative signals, not user counts.</li><li>Ad reach and spend are not public for US-only ads; marketing level is an estimate. Some apps advertise through persona pages or creators that are hard to trace.</li><li>Reddit coverage is partial (search rate limits) and is extended with each refresh.</li><li>A minimum of ${T.min_ratings} ratings excludes very new apps that are just starting to grow.</li></ul></div>
-</div>`;
+<div><h4>Funnel</h4><div class="fun">${steps.map(([l,c,n],i)=>`<div class="lbl">${l}<small>${c}</small></div><div><div class="fbar${i===steps.length-1?" last":""}" style="width:${lw(n)}%"></div></div><div class="n">${fmt(n)}</div>`).join("")}</div></div>
+<div><h4>Why apps dropped out</h4><div class="why">${why.map(([l,n])=>`<span>${l}</span><div><div class="wbar" style="width:${n/wmax*100}%"></div></div><span class="n">${fmt(n)}</span>`).join("")}</div></div>
+<div><h4>Score (0–100)</h4><div class="stack">${D.criteria.map(([k],i)=>`<div style="width:${D.weights[k]}%;background:${colors[i]}">${D.weights[k]}</div>`).join("")}</div>
+<div class="legend">${D.criteria.map(([k,l],i)=>`<span><i style="background:${colors[i]}"></i>${l}</span>`).join("")}</div></div>
+</div>
+<div class="pills"><span class="pill"><b>Target:</b> small dev · real users · little paid marketing · build ≤ ${T.build_months} months</span><span class="pill"><b>Data:</b> App Store US · Meta Ad Library · Reddit</span><span class="pill"><b>Note:</b> iOS downloads aren't public, ratings are relative signals</span></div>`;
 render();
 </script>
 </body>
