@@ -1,0 +1,681 @@
+{
+ "r:me让健康更直观": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Mood and health log with charts, plus a tag for who you were with when you felt good or drained.",
+  "audience": "Gen Z women who already journal moods and want to see patterns.",
+  "revenue_why": "Mostly a dashboard people could do in Notes or a free tracker, so weak reason to pay (inference).",
+  "retention_how": "Daily mood log, but no streak or social loop is described.",
+  "tiktok_hook": "Screen recording of a 'who lifts me / who drains me' weekly chart reveal.",
+  "risk": "Generic dashboard with sensitive health data and no clear hook."
+ },
+ "r:心光ai生活记录伴侣xinguang": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "AI journal friend you text or voice-dump to, which turns the day into an evening reflection and weekly recap.",
+  "audience": "Gen Z women who want a warm place to vent and reflect.",
+  "revenue_why": "12,705 CN ratings at 4.83 suggests real pull; the personal, ongoing recap is something a blank ChatGPT chat does not do by default (inference).",
+  "retention_how": "Evening reflection and weekly recap give a daily ritual and an accumulating life log.",
+  "tiktok_hook": "'I talked to my phone all day and it wrote my week' recap reaction.",
+  "risk": "Crowded US AI journaling space and mental-health safety duties."
+ },
+ "r:dayceデイスライフログ音声ジャーナル": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "60-second bedtime voice debrief where AI writes the diary entry and one gratitude highlight.",
+  "audience": "Gen Z women who want to journal but hate typing.",
+  "revenue_why": "Convenience (talk, no typing) and a growing diary people do not want to lose, but evidence is thin (inference).",
+  "retention_how": "Fixed bedtime ritual plus an accumulating diary.",
+  "tiktok_hook": "Whispering to the phone in bed and getting a cute diary page back.",
+  "risk": "Thin traction and contested AI diary space; voice privacy."
+ },
+ "r:kokorune": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 1
+  },
+  "product": "One-line-a-day diary with gentle prompts.",
+  "audience": "Gen Z women who want a soft, aesthetic diary.",
+  "revenue_why": "Nothing is known about the mechanic; diary apps are free and plentiful (inference).",
+  "retention_how": "Daily one-liner habit.",
+  "tiktok_hook": "Aesthetic diary page flip-through.",
+  "risk": "No known differentiator and no store listing."
+ },
+ "r:tubehabit動画と一緒に習慣化・記録・ルーティン": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Habit app where you paste a YouTube video link and build a daily routine around it.",
+  "audience": "Gen Z women doing video workouts, yoga or study-with-me sessions.",
+  "revenue_why": "Reads as a feature of bigger habit apps, so little reason to pay (inference).",
+  "retention_how": "Daily tick-off and streak around a favorite video.",
+  "tiktok_hook": "'Turn any YouTube video into your daily routine' screen demo.",
+  "risk": "Feature not a product; 3 ratings."
+ },
+ "r:routiny루티니습관루틴관리식물키우기": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "Habit app where completing daily routines grows your own plant that wilts softly if you skip.",
+  "audience": "Gen Z women who like cozy self-care and Finch-style apps.",
+  "revenue_why": "Cosmetic plants and themes sell in this category (Finch evidence, inference), but this app has 1 rating.",
+  "retention_how": "The plant needs daily care, which is the check-in loop.",
+  "tiktok_hook": "Time-lapse of a tiny plant growing into a garden over 30 days.",
+  "risk": "Finch-style incumbents and zero traction for this one."
+ },
+ "r:히어릿hearit개발자를위한it팟캐스트": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 1,
+   "retention": 2,
+   "revenue": 1
+  },
+  "product": "Short IT and CS podcasts for developers.",
+  "audience": "Not our audience: Korean developers.",
+  "revenue_why": "Free podcasts exist everywhere and nothing paid is shown.",
+  "retention_how": "Listening habit only.",
+  "tiktok_hook": "Hard to film; no visual hook.",
+  "risk": "Content-bound to a developer niche, 3 ratings."
+ },
+ "r:areyoudead死了么demumu": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 5,
+   "retention": 4,
+   "revenue": 2
+  },
+  "product": "Daily 'I'm okay' tap that alerts an emergency contact if you miss it.",
+  "audience": "Gen Z women living alone, commuting late or dating.",
+  "revenue_why": "Safety is convenience-critical, but the base mechanic is trivial and clones are free (inference).",
+  "retention_how": "Daily check-in is the whole app.",
+  "tiktok_hook": "'The app that texts my mom if I do not check in' with the provocative name.",
+  "risk": "Missed-alert liability and reliability, plus clones already in US store."
+ },
+ "r:catzyselfcarejourney": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 5,
+   "revenue": 4
+  },
+  "product": "Self-care app where you look after a cat as your daily check-in.",
+  "audience": "Gen Z women who like cute companion apps (Finch fans).",
+  "revenue_why": "1,075 US ratings at 4.88 from a small studio; pet cosmetics and extras are a proven paid model (inference).",
+  "retention_how": "Pet needs care every day, so check-in is the loop.",
+  "tiktok_hook": "Cat reacting to my self-care tasks with a cute cat reveal.",
+  "risk": "Hard to beat Finch; IAP model not verified."
+ },
+ "r:publickz": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 3,
+   "retention": 1,
+   "revenue": 2
+  },
+  "product": "Web tool that turns long videos into vertical clips.",
+  "audience": "Creators and students with long recordings.",
+  "revenue_why": "Clip tools charge, but the market is full of free and paid rivals (inference).",
+  "retention_how": "One-off tool, no return reason.",
+  "tiktok_hook": "Before/after of a long lecture turned into reels.",
+  "risk": "Heavy video processing cost, copyright and a crowded category."
+ },
+ "r:aydaperiodtrackerayda": {
+  "exclude": true,
+  "exclude_reason": "Religious niche app (Muslim women) and cycle health data.",
+  "scores": {
+   "build": 3,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 3
+  },
+  "product": "Period tracker for Muslim women framed around faith.",
+  "audience": "Muslim women, not our core Gen Z target.",
+  "revenue_why": "277 US ratings at 4.84 shows some pull, but the paid value is faith-specific.",
+  "retention_how": "Daily cycle logging.",
+  "tiktok_hook": "Hard to film beyond the niche.",
+  "risk": "Religious and health-data sensitivity; not our audience."
+ },
+ "r:wellnessjournalappforwomenofcolormuslimahsweunearthedcom": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Guided wellness journal built for women of color and muslimahs.",
+  "audience": "Under-served groups of Gen Z women who want journals in their own voice.",
+  "revenue_why": "Journals are free elsewhere; identity voice is the only edge.",
+  "retention_how": "Daily prompts and affirmations.",
+  "tiktok_hook": "Founder-story video about building a journal for 'women like me'.",
+  "risk": "Pre-launch, no traction, authenticity depends on founder."
+ },
+ "r:nemonicaiaudiocourses": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 2
+  },
+  "product": "Type a goal or drop a PDF and get a personalised audio course with spaced-repetition practice.",
+  "audience": "Gen Z women students and career builders who like walking and learning.",
+  "revenue_why": "Free tools like NotebookLM and ChatGPT voice can do much of this (inference).",
+  "retention_how": "Daily lessons plus spaced-repetition prompts.",
+  "tiktok_hook": "'I turned my notes PDF into a podcast for my walk' demo.",
+  "risk": "Costly AI audio, hallucination risk, 15 ratings."
+ },
+ "r:gipfl": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 2
+  },
+  "product": "Private shared habit grid for 2-5 close friends or a partner.",
+  "audience": "Gen Z women with a close friend group who want accountability.",
+  "revenue_why": "Accountability with friends has value, but people can do this in a group chat or a spreadsheet (inference).",
+  "retention_how": "Shared weekly grid, nudges and Sunday recap.",
+  "tiktok_hook": "'My besties and I check each other's habits every day' screen share.",
+  "risk": "Cold start per group and no store listing."
+ },
+ "r:momentumappmomentumtrackcom": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 3,
+   "retention": 3,
+   "revenue": 1
+  },
+  "product": "Web habit tracker one person builds for another and sends as a link.",
+  "audience": "Gen Z couples and friends.",
+  "revenue_why": "No store or user evidence, and habit trackers are free.",
+  "retention_how": "Daily habit ticks.",
+  "tiktok_hook": "'I built an app for my girlfriend' story format.",
+  "risk": "Web-only with no mechanic or monetisation."
+ },
+ "r:beautyagentlocal": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "Skin diary that logs AM/PM routines, tracks skin photos and warns when products clash.",
+  "audience": "Gen Z women into skincare routines.",
+  "revenue_why": "Skincare is a high-spend interest and progress photos plus clash alerts are personal value (inference), but scanners already exist.",
+  "retention_how": "Daily routine log and photo timeline.",
+  "tiktok_hook": "Skin progress photo timeline with 'my retinol clashes with my acid' reveal.",
+  "risk": "Ingredient database upkeep and cosmetic-claim wording."
+ },
+ "r:ケアミーcareme生理・pmsの共有アプリ": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 4
+  },
+  "product": "Cycle and PMS app where you share your phase with a partner or best friends.",
+  "audience": "US Gen Z women, shared with partner or besties.",
+  "revenue_why": "15,137 JP ratings suggests real demand; sharing is social and emotional, not something a free tracker does (inference).",
+  "retention_how": "Daily symptom logging and nudges from your circle.",
+  "tiktok_hook": "'My boyfriend gets a text telling him how to be nice today' reaction.",
+  "risk": "Cycle data privacy in the US and big trackers offering sharing."
+ },
+ "r:ルミノluminoプレ更年期からの生理・体調管理アプリ": {
+  "exclude": true,
+  "exclude_reason": "Wrong age segment (35+ pre-menopause), health-focused and LINE-based.",
+  "scores": {
+   "build": 3,
+   "marketing": 1,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Period and health management from pre-menopause delivered in LINE.",
+  "audience": "Women 35+ in Japan, not US Gen Z.",
+  "revenue_why": "200 ratings at 4.04, but US channel and audience do not fit.",
+  "retention_how": "Chat check-ins.",
+  "tiktok_hook": "Not a fit for TikTok Gen Z.",
+  "risk": "Wrong audience and channel; medical-adjacent."
+ },
+ "r:habittrackertodolist": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 1,
+   "retention": 2,
+   "revenue": 1
+  },
+  "product": "Free all-in-one tasks, notes, habits and workout tracker.",
+  "audience": "Anyone; no specific audience.",
+  "revenue_why": "Free, no ads, and commodity, so no revenue.",
+  "retention_how": "Daily habits only.",
+  "tiktok_hook": "Hard to film beyond the launch story.",
+  "risk": "Commodity and probably Android-only."
+ },
+ "r:folksablephotoaccountability": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 5,
+   "revenue": 2
+  },
+  "product": "Friend accountability circles with contracts and daily photo proof.",
+  "audience": "Gen Z women with a small friend group.",
+  "revenue_why": "Accountability is social value, but 17 ratings and a free group chat alternative.",
+  "retention_how": "Daily photo proof and streaks with friends.",
+  "tiktok_hook": "Gym or study proof photos with friends reacting.",
+  "risk": "Cold start; demand unproven."
+ },
+ "r:fratecatexttospeechreader": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 1,
+   "retention": 2,
+   "revenue": 2
+  },
+  "product": "Text-to-speech reader for PDFs, articles and eBooks.",
+  "audience": "Students and busy readers.",
+  "revenue_why": "TTS readers are commoditised and rating is 3.84 (inference).",
+  "retention_how": "Listening is occasional, not daily.",
+  "tiktok_hook": "Hard to film beyond a demo.",
+  "risk": "Commodity with mediocre ratings."
+ },
+ "r:yptstudygroupyeolpumta": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 5,
+   "revenue": 3
+  },
+  "product": "Study timer with live study groups, todo and ranking.",
+  "audience": "Gen Z women students who want study-with-friends.",
+  "revenue_why": "1,735 US and 3,164 India ratings, claimed 5 million users; premium extras likely (inference), but timers are also free.",
+  "retention_how": "Study streaks, groups and rankings, daily by nature.",
+  "tiktok_hook": "'Study with me' live timer clip.",
+  "risk": "Rankings can feel stressful; crowded timer space."
+ },
+ "r:focustownpomodorotimer": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 4,
+   "retention": 5,
+   "revenue": 3
+  },
+  "product": "Cozy low-poly world where you study next to real people in a shared cafe.",
+  "audience": "Gen Z women who like study-with-me and body doubling.",
+  "revenue_why": "7,680 US ratings at 4.77 shows paying-grade engagement; cosmetics and rooms sell (inference).",
+  "retention_how": "Shared rooms with real people and daily sessions.",
+  "tiktok_hook": "Cozy cafe full of avatars studying together.",
+  "risk": "Live multiplayer and moderation cost; idea already taken."
+ },
+ "r:joidailyplannerorganizer": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 3
+  },
+  "product": "One-timeline day planner combining calendar, tasks and habits.",
+  "audience": "Design-minded Gen Z women who want a pretty planner.",
+  "revenue_why": "Subscription exists (about $5), but planners are crowded.",
+  "retention_how": "Daily plan view.",
+  "tiktok_hook": "'Plan my day with me' aesthetic screen recording.",
+  "risk": "Crowded planner space; UX is not a moat."
+ },
+ "r:habitagehabitgoaltrackerhabitsasjourneys": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 3,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Habit app where each habit is a journey and missed days pause the trip.",
+  "audience": "Gen Z women who like storybook habit apps.",
+  "revenue_why": "Presentation twist on a crowded category, no evidence of payment.",
+  "retention_how": "Journey progress and companion.",
+  "tiktok_hook": "Habit journey map unfolding.",
+  "risk": "No traction; crowded."
+ },
+ "r:lifereset66dayhabitpossiblytherise66dayhabitapp": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 4
+  },
+  "product": "66-day guided programme with daily quests, XP and streaks.",
+  "audience": "Gen Z women starting from a low point who want a reset.",
+  "revenue_why": "12,607 US ratings and a 1.5M start claim show paying-grade pull; structured programme is more than a free tracker (inference).",
+  "retention_how": "Daily quests and a fixed 66-day arc.",
+  "tiktok_hook": "'Day 1 of my 66-day reset' diary series.",
+  "risk": "Crowded game-like habit space."
+ },
+ "r:skillablypdfsandnotesintoquizzes": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 2,
+   "revenue": 1
+  },
+  "product": "Turns PDFs and notes into quizzes.",
+  "audience": "Gen Z women students.",
+  "revenue_why": "Free AI tools do this.",
+  "retention_how": "Exam-time use only.",
+  "tiktok_hook": "Photo of notes to quiz demo.",
+  "risk": "Crowded and no differentiator."
+ },
+ "r:streetlore": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 3,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "AI audio walk app that narrates the places you pass.",
+  "audience": "Gen Z women who walk or commute.",
+  "revenue_why": "Novelty value but free audio guides exist; cost per minute is high.",
+  "retention_how": "Walking ritual.",
+  "tiktok_hook": "Phone narrating a building's story as I walk.",
+  "risk": "Accuracy, AI cost and walking-alone safety."
+ },
+ "r:histourystorelistingnotresolved": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 2,
+   "retention": 2,
+   "revenue": 2
+  },
+  "product": "Audio that tells the story behind each street name on your route.",
+  "audience": "Walkers and drivers.",
+  "revenue_why": "Niche trivia, free alternatives.",
+  "retention_how": "Commute habit.",
+  "tiktok_hook": "Hard to show; audio only.",
+  "risk": "City-by-city content and no traction."
+ },
+ "r:herhabitscyclehabittracker": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "Cycle-aware habit tracker that resizes routines to your phase.",
+  "audience": "US Gen Z women who want habits that fit their cycle.",
+  "revenue_why": "Personal and ongoing, but weak evidence and only 15 ratings.",
+  "retention_how": "Daily habits adjusted by phase.",
+  "tiktok_hook": "'My habits change with my cycle' explainer.",
+  "risk": "Weak science and crowded cycle space."
+ },
+ "r:lunarcyclephaseadhdplannerstorelistingnotresolved": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "10-second energy and cycle check-in that reshapes the day's to-do list for women with ADHD.",
+  "audience": "Gen Z women with ADHD or low-energy days.",
+  "revenue_why": "ADHD niche is paid-heavy (inference), but no traction.",
+  "retention_how": "10-second daily check-in.",
+  "tiktok_hook": "ADHD tips tied to cycle phase.",
+  "risk": "Medical-claim risk; no traction."
+ },
+ "r:owlyaistudyflashcards": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "AI flashcards and quiz duels from your own notes.",
+  "audience": "Gen Z women students.",
+  "revenue_why": "Lifetime deal hints at price-sensitive users; crowded.",
+  "retention_how": "Friend duels and streaks.",
+  "tiktok_hook": "Quiz duel with a friend from lecture notes.",
+  "risk": "Crowded category."
+ },
+ "r:bestystorelistingnotresolved": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 2,
+   "revenue": 2
+  },
+  "product": "Women-first life-balance to-do list.",
+  "audience": "Gen Z women who feel overwhelmed.",
+  "revenue_why": "Planners are crowded; v1 is only a to-do list.",
+  "retention_how": "Daily task picks.",
+  "tiktok_hook": "Life areas dashboard reveal.",
+  "risk": "No mechanic; listing unresolved."
+ },
+ "r:mentonotesthatquizyouback": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Notes that quiz you back with spaced repetition.",
+  "audience": "Gen Z women students.",
+  "revenue_why": "Crowded notes/flashcards market.",
+  "retention_how": "Short daily quiz sessions.",
+  "tiktok_hook": "Highlight to quiz card demo.",
+  "risk": "No traction; crowded."
+ },
+ "r:koalaairecordslecturesintonotesflashcardsquizzes": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Lecture recorder that creates notes, flashcards and quizzes.",
+  "audience": "Gen Z women students.",
+  "revenue_why": "Free AI tools can summarise; students pay mostly at exams.",
+  "retention_how": "Class-day usage.",
+  "tiktok_hook": "'Recorded my lecture, got a quiz before leaving' demo.",
+  "risk": "Recording consent and crowded."
+ },
+ "r:befreedgetsmarterdaily": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 4
+  },
+  "product": "Goal-first personalised audio learning from books, research and your PDFs.",
+  "audience": "Gen Z women who want self-improvement audio.",
+  "revenue_why": "4,044 US ratings at 4.69 and likely subscription (inference); personal ongoing plan beats free tools.",
+  "retention_how": "Daily personalised episode.",
+  "tiktok_hook": "'Pick who you want to become' app demo.",
+  "risk": "Heavy AI audio build and book content rights."
+ },
+ "r:huxefromthenotebooklmaudiooverviewcreatorsstorelistingnotfound": {
+  "exclude": false,
+  "scores": {
+   "build": 2,
+   "marketing": 2,
+   "retention": 4,
+   "revenue": 2
+  },
+  "product": "Daily personal audio briefing from your interests and sources.",
+  "audience": "Commuters; Gen Z women with a routine.",
+  "revenue_why": "Free alternatives (NotebookLM) exist.",
+  "retention_how": "Morning briefing ritual.",
+  "tiktok_hook": "Hard to film beyond a demo.",
+  "risk": "Strong competitor and high generation cost."
+ },
+ "r:strollstepstoscreentime": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 4,
+   "revenue": 3
+  },
+  "product": "Step counter that blocks apps until you walk to earn screen time.",
+  "audience": "Gen Z women who doomscroll.",
+  "revenue_why": "Screen-time blockers are paid products (inference); micro-trend validated.",
+  "retention_how": "Daily walk-to-unlock loop.",
+  "tiktok_hook": "'I walked 2,000 steps to unlock TikTok' challenge.",
+  "risk": "Clones and Screen Time entitlement."
+ },
+ "r:floatingbuddiesanimatedcompanionsonandroid": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 4,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Android app with animated companions on top of your screen.",
+  "audience": "Gen Z users who like cute widgets.",
+  "revenue_why": "Novelty; little to pay for.",
+  "retention_how": "Companions react to your day (our twist).",
+  "tiktok_hook": "Cute companion overlay clip.",
+  "risk": "Android-only; transferable part small."
+ },
+ "r:vaylamentalwellnesssupportprobablematchambiguous": {
+  "exclude": false,
+  "scores": {
+   "build": 4,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 1
+  },
+  "product": "60-second mood check-in giving one kind action.",
+  "audience": "Gen Z women feeling stressed.",
+  "revenue_why": "Crowded and free wellness apps.",
+  "retention_how": "Daily check-in.",
+  "tiktok_hook": "Hard to show.",
+  "risk": "Nothing known; health-claim drift."
+ },
+ "r:bloomsocialhabittrackerwithaicoach": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 3,
+   "retention": 4,
+   "revenue": 2
+  },
+  "product": "Social habit tracker with an AI coach whose tone you set.",
+  "audience": "Gen Z women who want friendly accountability.",
+  "revenue_why": "AI coach plus friends could justify a subscription, but no evidence.",
+  "retention_how": "Friend circle and coach check-ins.",
+  "tiktok_hook": "'My AI coach roasted my habits' reaction.",
+  "risk": "LLM cost and crowded category."
+ },
+ "r:капляkaplyadropaigoalplannerformerlyhabittracker": {
+  "exclude": false,
+  "scores": {
+   "build": 3,
+   "marketing": 2,
+   "retention": 2,
+   "revenue": 2
+  },
+  "product": "AI mentor conversation planner that proposes weekly steps.",
+  "audience": "Gen Z women with goals.",
+  "revenue_why": "Generic; ChatGPT does it free.",
+  "retention_how": "Weekly chat only.",
+  "tiktok_hook": "Hard to film.",
+  "risk": "Generic and no traction."
+ },
+ "r:habitsflowhabittrackerinferredmatch": {
+  "exclude": false,
+  "scores": {
+   "build": 5,
+   "marketing": 1,
+   "retention": 2,
+   "revenue": 1
+  },
+  "product": "Minimal habit tracker for people tired of bloat.",
+  "audience": "Anyone.",
+  "revenue_why": "Commodity.",
+  "retention_how": "Basic streak.",
+  "tiktok_hook": "No visible hook.",
+  "risk": "Tiny traction, crowded."
+ },
+ "r:deenoverdunyafreeiosplanner": {
+  "exclude": true,
+  "exclude_reason": "Religious content (faith-first planner).",
+  "scores": {
+   "build": 4,
+   "marketing": 1,
+   "retention": 2,
+   "revenue": 1
+  },
+  "product": "Faith-first free planner.",
+  "audience": "Muslim users.",
+  "revenue_why": "Free with no subscription.",
+  "retention_how": "Daily planning.",
+  "tiktok_hook": "Not a fit.",
+  "risk": "Religious niche."
+ },
+ "r:myhaydappusermention": {
+  "exclude": true,
+  "exclude_reason": "Religious niche app (Muslim women) and cycle health data.",
+  "scores": {
+   "build": 3,
+   "marketing": 2,
+   "retention": 3,
+   "revenue": 2
+  },
+  "product": "Period tracker for Muslim women.",
+  "audience": "Muslim women.",
+  "revenue_why": "19 ratings, free; niche.",
+  "retention_how": "Daily logging.",
+  "tiktok_hook": "Niche; hard to film.",
+  "risk": "Religious and health data sensitivity."
+ }
+}

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Top 50 Picks</title>
+<style>
+:root{--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#6e6e73;--faint:#86868b;--line:#e5e5ea;--blue:#0071e3;--blue-bg:#e8f1fc;--green:#1a7f37;--green-bg:#e6f4ea;--amber:#9a6200;--amber-bg:#fdf3dc;--pink:#c2255c;--pink-bg:#fde8ef;--red:#c9342b;--red-bg:#fdecea;--radius:14px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px;margin:0 auto;padding:28px 16px 72px}
+nav.top{display:flex;gap:8px;margin:0 0 14px;font-size:13px;flex-wrap:wrap}nav.top a{color:#0071e3;text-decoration:none;background:#e8f1fc;padding:5px 12px;border-radius:999px;font-weight:600}nav.top a.on{background:#0071e3;color:#fff}
+h1{font-size:28px;font-weight:700;letter-spacing:-.02em;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 14px}
+.crit{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin-bottom:14px}
+.cr{background:var(--card);border-radius:var(--radius);padding:12px 14px;font-size:13px;color:var(--muted)}.cr b{display:block;color:var(--text);font-size:14px}
+.cr.rev{border:2px solid var(--blue)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+input,select{font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);max-width:100%}
+.count{color:var(--muted);font-size:13px;margin-left:auto}
+.list{display:grid;gap:10px}
+.item{background:var(--card);border-radius:var(--radius);padding:16px;display:grid;grid-template-columns:44px 1fr;gap:12px}
+.rk{font-size:20px;font-weight:700;color:var(--faint);text-align:center}
+.head{display:flex;gap:12px;align-items:flex-start;flex-wrap:wrap}
+.icon{width:52px;height:52px;border-radius:12px;background:var(--bg);border:1px solid var(--line);object-fit:cover;flex:none}
+.head h3{margin:0;font-size:16px}
+.head .meta{color:var(--muted);font-size:12px}
+.score{margin-left:auto;text-align:right}.score b{font-size:22px;color:var(--blue)}.score span{display:block;color:var(--faint);font-size:11px}
+.pills{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+.pill{padding:3px 10px;border-radius:999px;font-size:12px;font-weight:600;background:var(--bg);color:var(--muted)}
+.pill.rev{background:var(--blue-bg);color:var(--blue)}
+.pill.hi{background:var(--green-bg);color:var(--green)}.pill.lo{background:var(--red-bg);color:var(--red)}
+.brief{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:8px 18px;font-size:13px}
+.brief div b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--faint);margin-bottom:1px}
+.extra{margin-top:8px;font-size:12.5px;color:var(--muted)}.extra b{color:var(--text)}
+a.lk{color:var(--blue);text-decoration:none;font-weight:600;font-size:12px}
+.note{color:var(--muted);font-size:12.5px;margin-top:16px}
+</style>
+</head>
+<body>
+<div class="wrap">
+__NAV__
+<h1>Top 50 Picks</h1>
+<p class="sub" id="sub"></p>
+<div class="crit">
+<div class="cr"><b>1 · Simple to build</b>Full iOS + Android app, 3 developers with AI, about 2 months.</div>
+<div class="cr"><b>2 · Easy to market</b>A filmable TikTok hook for Gen Z. Distribution is our edge.</div>
+<div class="cr"><b>3 · Retentive</b>Streak, ritual, character, friends or a collection.</div>
+<div class="cr rev"><b>4 · Generates revenue (counts double)</b>Why would people pay, if they could do it free?</div>
+</div>
+<div class="controls">
+<input id="q" placeholder="Search" size="26">
+<select id="fl"><option value="">Concept: all</option><option value="K1">K1 Women's self-improvement</option><option value="K2">K2 Micro-learning</option><option value="K3">K3 Audio on the go</option></select>
+<select id="fc"><option value="">Country: all</option></select>
+<span class="count" id="count"></span>
+</div>
+<div class="list" id="list"></div>
+<p class="note">Score = (build + marketing + retention + 2 × revenue) ÷ 30. Scores are hand-assessed from each app's profile (1–5) and are a first filter, not a verdict. Apps with more than 3,000 US ratings (already popular), big companies and non-fits were removed.</p>
+</div>
+<script>
+const D=__DATA__;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n==null?"–":Number(n).toLocaleString("en-US");
+const LN={K1:"K1",K2:"K2",K3:"K3"};
+function pill(l,v,cls=""){return `<span class="pill ${cls||(v>=4?"hi":v<=2?"lo":"")}">${l} ${v}</span>`}
+function render(){
+ const q=$("q").value.toLowerCase(),fl=$("fl").value,fc=$("fc").value;
+ const v=D.items.filter(r=>(!fl||(r.lenses||[]).includes(fl))&&(!fc||r.country===fc)&&(!q||[r.name,r.product,r.audience,r.country].join(" ").toLowerCase().includes(q)));
+ $("list").innerHTML=v.map(r=>`<div class="item"><div class="rk">${r.rank}</div><div>
+ <div class="head">${r.icon?`<img class="icon" src="${esc(r.icon)}" alt="" loading="lazy">`:'<div class="icon"></div>'}<div><h3>${esc(r.name)}</h3><div class="meta">${esc(r.country)} · ${(r.lenses||[]).join(", ")} · ${fmt(r.ratings_local)} local ratings · ${r.in_us===false?"not in US store":fmt(r.ratings_us)+" US ratings"}${r.url?` · <a class="lk" href="${esc(r.url)}" target="_blank" rel="noopener">store</a>`:""}</div></div><div class="score"><b>${r.total}</b><span>score / 100</span></div></div>
+ <div class="pills">${pill("Build",r.scores.build)}${pill("Marketing",r.scores.marketing)}${pill("Retention",r.scores.retention)}${pill("Revenue",r.scores.revenue,r.scores.revenue>=4?"rev":(r.scores.revenue<=2?"lo":""))}</div>
+ <div class="brief"><div><b>What is the product</b>${esc(r.product)}</div><div><b>Who is our audience</b>${esc(r.audience)}</div><div><b>Why it generates revenue</b>${esc(r.revenue_why)}</div><div><b>Retention mechanism</b>${esc(r.retention_how)}</div></div>
+ <div class="extra"><b>TikTok hook:</b> ${esc(r.tiktok_hook)} &nbsp;·&nbsp; <b>Risk:</b> ${esc(r.risk)}</div></div></div>`).join("")||'<div class="note">No picks match.</div>';
+ $("count").textContent=v.length+" picks";
+}
+$("fc").innerHTML+=[...new Set(D.items.map(r=>r.country))].sort().map(c=>`<option>${esc(c)}</option>`).join("");
+["q","fl","fc"].forEach(id=>$(id).addEventListener("input",render));
+$("sub").textContent=`Small, little-known apps from abroad and Reddit that fit a fast Gen Z / TikTok launch · ${D.pool} scored · snapshot ${D.date}`;
+render();
+</script>
+</body>
+</html>

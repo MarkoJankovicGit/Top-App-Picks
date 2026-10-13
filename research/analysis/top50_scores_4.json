@@ -1,0 +1,101 @@
+{
+  "r:krokadhdstepbysteproutineapp": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 4, "marketing": 3, "retention": 3, "revenue": 2},
+    "product": "A routine helper that turns chores and daily routines (morning, laundry, leaving the house) into tiny tickable steps, with AI that breaks any task into steps.",
+    "audience": "US Gen Z women who are ADHD or ADHD-leaning and feel overwhelmed by everyday tasks (inference).",
+    "revenue_why": "Original is free forever with no ads, so no proof of payment. We would sell AI task breakdown and custom routines as a subscription, but free ChatGPT can already break tasks into steps (inference).",
+    "retention_how": "Daily routines (morning and evening) are repeated, so she opens it at the same times each day; gentle reminders, no streak shaming.",
+    "tiktok_hook": "\"POV: ADHD brain, messy room\" - she taps one task and the app turns it into 6 tiny steps, room clean by the end.",
+    "risk": "Crowded ADHD-tools space (Finch, Tiimo, Goblin Tools) and free AI makes charging hard."
+  },
+  "r:powerhabitsvcru": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 4, "marketing": 2, "retention": 4, "revenue": 2},
+    "product": "One daily check-in for habits, workouts, water, sleep and mood, with levels and a simple to-do list.",
+    "audience": "Active US Gen Z women who want one app for fitness and daily habits (inference).",
+    "revenue_why": "Subscription for analytics and cycle-aware targets, but plain habit trackers are a commodity with many free options; original shows no monetisation data.",
+    "retention_how": "Daily check-in ritual plus levels and a workout log that builds up over time.",
+    "tiktok_hook": "\"My 5-minute daily check-in that fixed my routine\" - screen recording of ticking habits and leveling up.",
+    "risk": "Generic crowded category with no twist; hard to stand out or justify paying."
+  },
+  "r:рывокryvokgamifiedappwithlevelsandachievements": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 3, "marketing": 2, "retention": 3, "revenue": 1},
+    "product": "A self-improvement app where small daily acts earn points and badges toward levels; the source is only a design review, so the real product is unclear (inference).",
+    "audience": "US Gen Z women who like gamified self-improvement (inference).",
+    "revenue_why": "No evidence of paying users or even what the app does; levels and badges alone are something free habit apps already give.",
+    "retention_how": "Daily points, levels and badges give a reason to return; rest days do not cost progress (idea seed).",
+    "tiktok_hook": "\"I leveled up my life for 30 days\" - screen recording of a level-up animation and badge unlock.",
+    "risk": "Nothing verified: no product description, no traction, no store listing."
+  },
+  "r:obooktexttospeech": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 3, "marketing": 2, "retention": 2, "revenue": 3},
+    "product": "An app that turns your own PDFs, ebooks and articles into natural-sounding audio with follow-along text.",
+    "audience": "US Gen Z women students who want to listen to lecture notes and readings while walking or commuting (inference).",
+    "revenue_why": "Good voices cost money to run, so a paid plan for minutes or premium voices is natural and Speechify-type apps have paying users (inference); free basic text-to-speech exists on phones.",
+    "retention_how": "Weak: she returns when she has new material; a daily walk-and-learn habit and recap questions could add a ritual.",
+    "tiktok_hook": "\"I turned my 80-page lecture PDF into a podcast\" - drop the file in, press play while walking.",
+    "risk": "Crowded category (Speechify, Voice Dream) with huge incumbents and ongoing voice costs."
+  },
+  "r:digitalnadosadaserbianaudiobooksapp": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 3, "marketing": 1, "retention": 2, "revenue": 1},
+    "product": "An audiobook app in Serbian; the idea is a shelf of short self-improvement chapters read by women narrators.",
+    "audience": "US Gen Z women who listen to audio on their commute (inference).",
+    "revenue_why": "No monetisation info and the thread is about 5 years old; audiobooks are free on YouTube, Spotify and libraries, and rights make a paid library costly.",
+    "retention_how": "Following favorite narrators and new chapters could bring people back, but there is no built-in daily mechanism.",
+    "tiktok_hook": "\"Audiobooks narrated by girls like you\" - short narrator clips; hard to make visual.",
+    "risk": "Content and rights heavy, language-bound, and status of the app is unknown."
+  },
+  "r:tfaddalupalestinianarabic": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 3, "marketing": 3, "retention": 3, "revenue": 3},
+    "product": "A language app with short audio-first lessons in a family dialect (words, sentences, audio by native speakers); the idea is to apply it to heritage languages like Arabic, Spanish or Tagalog.",
+    "audience": "US Gen Z women from immigrant families who want to speak like their grandmother (inference).",
+    "revenue_why": "Heritage language learning is emotional and underserved by Duolingo, which teaches standard versions (inference); only 6 US ratings, so paying proof is thin.",
+    "retention_how": "5-minute daily lessons and a growing word collection; family-goal framing helps habit.",
+    "tiktok_hook": "\"I'm learning my grandma's language to surprise her\" - filmed reaction when she speaks it to her.",
+    "risk": "Each dialect needs native-speaker content, audiences are small, and the Palestine framing is politically sensitive in the US (inference)."
+  },
+  "r:natulanglanguagelearning": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 2, "marketing": 3, "retention": 4, "revenue": 4},
+    "product": "A language course built around a finish line, such as watching a K-drama or anime without subtitles, with 10-minute daily lessons and a visible progress bar.",
+    "audience": "US Gen Z women who love K-dramas, anime and K-pop and want to understand them without subtitles (inference).",
+    "revenue_why": "420 US ratings at 4.81 show real users and language learners commonly pay for subscriptions (inference); subscription terms are not in the packet, and free Duolingo is the main alternative.",
+    "retention_how": "Daily lessons, streaks and a progress bar toward the unlock goal.",
+    "tiktok_hook": "\"Day 60 of learning Korean to watch my drama without subtitles\" - progress check clip.",
+    "risk": "Each course is a full content build per language and big incumbents (Duolingo) dominate."
+  },
+  "r:diomahebrewlearningwebapp": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 3, "marketing": 2, "retention": 3, "revenue": 2},
+    "product": "A language app for the intermediate plateau: she adds songs, shows or articles she likes and gets level-matched mini lessons and review cards (inference).",
+    "audience": "US Gen Z women stuck at intermediate level in a language they study (inference).",
+    "revenue_why": "Intermediate learners may pay for a personal plan, but ChatGPT can already turn any text into lessons and flashcards for free; original is web-only with unknown pricing.",
+    "retention_how": "Daily review cards with spaced repetition and her own favorite content.",
+    "tiktok_hook": "\"Learn Spanish from your favorite Netflix show\" - paste a scene, get a mini lesson.",
+    "risk": "Free AI tools cover the same job, and the original shows almost no traction."
+  },
+  "r:lingualeaprapidfirevocabularygameandroid": {
+    "exclude": false,
+    "exclude_reason": "",
+    "scores": {"build": 4, "marketing": 3, "retention": 3, "revenue": 1},
+    "product": "A 60-second vocabulary sprint game that quizzes words against a countdown and re-queues misses.",
+    "audience": "US Gen Z women who want a quick vocab or study game in spare minutes (inference).",
+    "revenue_why": "Original is 100% free and Android-only, so no proof; flashcard apps like Quizlet and Anki cover this for free.",
+    "retention_how": "Short daily sprints and score beating create a habit, but nothing strong is built in.",
+    "tiktok_hook": "\"Can you beat my 60-second vocab score?\" - challenge clip with a countdown.",
+    "risk": "Commodity mechanic with free alternatives and no monetisation signal."
+  }
+}
