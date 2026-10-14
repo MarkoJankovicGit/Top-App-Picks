@@ -1,0 +1,357 @@
+{
+  "app": "Calz - Calorie Counter AI",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-03T02:52:43-07:00",
+      "rating": 5,
+      "title": "❤️",
+      "text": "Best",
+      "version": "1.59.0"
+    },
+    {
+      "date": "2026-08-25T19:10:10-07:00",
+      "rating": 1,
+      "title": "sigh",
+      "text": "user experience",
+      "version": "1.58.0"
+    },
+    {
+      "date": "2026-07-23T12:32:46-07:00",
+      "rating": 5,
+      "title": "Love the app",
+      "text": "Great",
+      "version": "1.54.0"
+    },
+    {
+      "date": "2026-07-17T17:51:53-07:00",
+      "rating": 1,
+      "title": "Дуже погано",
+      "text": "Вагу вказує неправильно! Викинуті гроші на вітер",
+      "version": "1.53.1"
+    },
+    {
+      "date": "2026-07-06T11:23:22-07:00",
+      "rating": 5,
+      "title": "Hola",
+      "text": "Buena app",
+      "version": "1.51.0"
+    },
+    {
+      "date": "2026-07-01T03:55:41-07:00",
+      "rating": 1,
+      "title": "سيء",
+      "text": "حطو انو بفلوس قبل ما الواحد يضيع وقتو بلاختيارات  يعني ليه الاستغباء",
+      "version": "1.50.0"
+    },
+    {
+      "date": "2026-05-30T16:33:21-07:00",
+      "rating": 1,
+      "title": "Doesn’t work!!",
+      "text": "The app stopped working. It doesn’t recognize anything — not by photo, not by text, nothing. It’s impossible to add food and calculate calories.",
+      "version": "1.46.1"
+    },
+    {
+      "date": "2026-05-26T06:26:24-07:00",
+      "rating": 3,
+      "title": "Плохо",
+      "text": "Неправильно считает кбжу, плохо сканирует штрихкоды. подписка стоила почти 15 долларов, в итоге такое разочарование. Нет кнопки для добавления в избранное!!!! Зато этот \nраздел есть",
+      "version": "1.44.0"
+    },
+    {
+      "date": "2026-05-21T20:05:20-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "good",
+      "version": "1.43.0"
+    },
+    {
+      "date": "2026-05-19T09:24:50-07:00",
+      "rating": 1,
+      "title": "Just do it on your own.",
+      "text": "You can take a picture of the calories on a food label and it still will get it wrong",
+      "version": "1.43.0"
+    },
+    {
+      "date": "2026-05-14T05:29:50-07:00",
+      "rating": 5,
+      "title": "My recommendation",
+      "text": "Very healthy and caring",
+      "version": "1.42.0"
+    },
+    {
+      "date": "2026-05-09T17:54:41-07:00",
+      "rating": 2,
+      "title": "Sorry but",
+      "text": "I understand it’s to track ur calls that’s why it’s called call but whith if I forget I can’t go back and lift my food it gives recipes I don’t whant that I want to know how to loss and track weight also it way too expensive for the little it does",
+      "version": "1.42.0"
+    },
+    {
+      "date": "2026-05-02T16:18:00-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "The amazing application ❣️",
+      "version": "1.40.0"
+    },
+    {
+      "date": "2026-04-15T17:37:59-07:00",
+      "rating": 5,
+      "title": "Aprendiendo",
+      "text": "Me parece muy interesante esta app y me permite establecer una meta alcanzable",
+      "version": "1.38.0"
+    },
+    {
+      "date": "2026-04-02T09:17:35-07:00",
+      "rating": 3,
+      "title": "Okay but keep freezing up",
+      "text": "I love the app but it keeps freezing up and I have to delete it and reinstall it for it to work. But w lose all my data that I recorded. I hope they fix this issue since the app does cost money it should be running properly.",
+      "version": "1.36.0"
+    },
+    {
+      "date": "2026-03-22T13:41:59-07:00",
+      "rating": 5,
+      "title": "Спасибо, что вернули цыпленка",
+      "text": "🤝🥹",
+      "version": "1.35.0"
+    },
+    {
+      "date": "2026-03-19T15:49:46-07:00",
+      "rating": 4,
+      "title": "There was a problem",
+      "text": "The display of indicators has changed, the diagram in the form of an animal has disappeared. How to return it?",
+      "version": "1.34.0"
+    },
+    {
+      "date": "2026-03-05T19:12:17-07:00",
+      "rating": 5,
+      "title": "gym",
+      "text": "I found out about this app from a friend and I know it’s worth it",
+      "version": "1.31.0"
+    },
+    {
+      "date": "2026-02-28T07:52:19-07:00",
+      "rating": 1,
+      "title": "Подписка",
+      "text": "Отменил подписку,но деньги списали",
+      "version": "1.31.0"
+    },
+    {
+      "date": "2026-02-17T04:22:31-07:00",
+      "rating": 1,
+      "title": "Look for something more stable!",
+      "text": "I paid for the subscription. And guess what, around 1 to 2 times per month, this app is broken. It might freeze right after you make a photo of your food, it might tell you that scanning was not successful, and you start attentively to type all the food with weights you ate, but guess what? Right! Scanning is not successful! Useless thing that makes you stressed instead of helping you stay healthy!",
+      "version": "1.30.0"
+    },
+    {
+      "date": "2026-02-13T11:34:49-07:00",
+      "rating": 5,
+      "title": "ну топ же!",
+      "text": "очень стильное и полезное приложение, прям восторг!",
+      "version": "1.30.0"
+    },
+    {
+      "date": "2026-02-03T12:33:16-07:00",
+      "rating": 1,
+      "title": "Не работает",
+      "text": "Сегодня перестало сканировать \nНевозможно добавить еду в ручную",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-01-29T18:33:19-07:00",
+      "rating": 5,
+      "title": "Ben so cool",
+      "text": "It so goof it lose lot of weight",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-01-29T12:14:34-07:00",
+      "rating": 1,
+      "title": "Can’t read the right info",
+      "text": "It doesn’t track the right info it’s a frustrating Cal AI is better",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-01-28T13:16:25-07:00",
+      "rating": 5,
+      "title": "Free?",
+      "text": "I am amazed that this is free. I love the app.",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-01-26T18:00:39-07:00",
+      "rating": 5,
+      "title": "Empezo el reto",
+      "text": "Espero poder perder los 30 kilos",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-01-22T16:44:37-07:00",
+      "rating": 1,
+      "title": "DO NOT SUBSCRIBE!",
+      "text": "I started a free trial and used it for a day and the calorie tracker seemed to work just fine so I jumped onto the “promotional” opportunity to subscribe for a year for $14.99. Then very conveniently the bar code scanner has yet to work on any barcode since. I’ve messaged support and they didn’t have any helpful resolutions besides waste more time sending them screenshots of an app that doesn’t work? Please save your money and use any other app besides Calz.",
+      "version": "1.27.0"
+    },
+    {
+      "date": "2026-01-20T01:10:54-07:00",
+      "rating": 1,
+      "title": "Watch the ounces",
+      "text": "Woks good except if you change the name of an item like white bread to whole wheat bread the amount changes drastically. Example would be if you take a picture it tells you the the white bread is 3oz, then if you correct it to wheat bread it moves the amount to 30oz. Very frustrating.",
+      "version": "1.27.0"
+    },
+    {
+      "date": "2026-01-17T16:31:58-07:00",
+      "rating": 5,
+      "title": "а",
+      "text": "🫶",
+      "version": "1.26.1"
+    },
+    {
+      "date": "2026-01-11T08:40:49-07:00",
+      "rating": 5,
+      "title": "Best one",
+      "text": "You don’t have to pay",
+      "version": "1.26.1"
+    },
+    {
+      "date": "2025-12-02T07:04:28-07:00",
+      "rating": 3,
+      "title": "It feels like I’m training the AI for free.",
+      "text": "The app looks nice and is user-friendly, so I decided to try it to save time, but it’s doing the opposite. It can’t detect food correctly, especially when there are more than three ingredients on the plate. It keeps making mistakes even after I correct them it really feels like I’m constantly retraining the AI, and it still gets things wrong.",
+      "version": "1.22.1"
+    },
+    {
+      "date": "2025-11-01T12:35:17-07:00",
+      "rating": 5,
+      "title": "Лайк",
+      "text": "Много вопросов-лайк",
+      "version": "1.19.2"
+    },
+    {
+      "date": "2025-10-21T17:24:06-07:00",
+      "rating": 1,
+      "title": "iPad app subscription doesn’t give iPhone access",
+      "text": "I both the subscription for $39.99 on my iPad and when I want to use this app on my iPhone the app asked me to pay again. I sent an email and they said that the subscription purchased on my iPad won’t carry over to my iPhone so I have to pay again if I want to use my iPhone…. Unacceptable this is theft!",
+      "version": "1.19.0"
+    },
+    {
+      "date": "2025-09-29T00:31:53-07:00",
+      "rating": 1,
+      "title": "My Nutrition Data",
+      "text": "It’s surprising that an app focused on calorie and nutrition tracking doesn’t share that data with the Apple Health App. Most people expect to use that information across multiple apps to get a full picture of their health. Adding this integration would make the app far more valuable and practical.",
+      "version": "1.18.2"
+    },
+    {
+      "date": "2025-09-10T07:33:42-07:00",
+      "rating": 5,
+      "title": "Me encanta",
+      "text": "Excelente app para armar tu rutina diaria de comida",
+      "version": "1.16.1"
+    },
+    {
+      "date": "2025-09-03T12:22:03-07:00",
+      "rating": 2,
+      "title": "Not accurate",
+      "text": "Not accurate at all have to modify a lot in my own",
+      "version": "1.14.9"
+    },
+    {
+      "date": "2025-07-29T10:42:57-07:00",
+      "rating": 1,
+      "title": "Do not buy",
+      "text": "Does not work!",
+      "version": "1.14.3"
+    },
+    {
+      "date": "2025-07-28T16:48:53-07:00",
+      "rating": 1,
+      "title": "Barcode scanning is bad, entire app is bad",
+      "text": "Trash copy of others\n\nBarcode scanning is not accurate.\nOften comes up with random items.\n\nCan’t search for foods.\nCan’t change unit of measure on the fly\nBig stupid cartoon in the middle of the screen\nNo macro tracking\n\nJust a gimmicky app",
+      "version": "1.14.3"
+    },
+    {
+      "date": "2025-07-25T11:11:21-07:00",
+      "rating": 2,
+      "title": "Comentario:",
+      "text": "La app no vincula la actividad física del día ni el gasto de calorías",
+      "version": "1.14.1"
+    },
+    {
+      "date": "2025-07-23T20:06:14-07:00",
+      "rating": 1,
+      "title": "Not accurate",
+      "text": "Not accurate at all and the editing doesn’t save. Very inconvenient and not at all what I was expecting",
+      "version": "1.14.1"
+    },
+    {
+      "date": "2025-07-22T18:28:59-07:00",
+      "rating": 5,
+      "title": "reseña",
+      "text": "bastante buena y eficaz, talvez un poco cara la variante paga pero todo lo otro que incluye ayuda bastante",
+      "version": "1.14.1"
+    },
+    {
+      "date": "2025-07-20T13:57:37-07:00",
+      "rating": 5,
+      "title": "Hard to set up",
+      "text": "Is hard to set up í loading th app but i can’t set it up because the picture for my profile",
+      "version": "1.14.1"
+    },
+    {
+      "date": "2025-07-15T09:38:28-07:00",
+      "rating": 2,
+      "title": "Nice idea but lots of bugs",
+      "text": "Buttons often stop working.. right now I can’t manually add calories because the Continue button doesn’t work.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2025-07-12T21:23:30-07:00",
+      "rating": 1,
+      "title": "Didn’t work for me",
+      "text": "It never guess my food correct. Grilled nuggets at Chick Fil A were fried pork once and then finally grilled chicken but way more calories than they are advertised as on Chick Fil A’s menu. Dinner was so confused with a simple small tenderloin steak and cauliflower.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2025-07-04T10:01:17-07:00",
+      "rating": 2,
+      "title": "Directions",
+      "text": "Can’t find how to use the app anywhere. Can’t find a manual. Can’t find videos.uggh",
+      "version": "1.12.0"
+    },
+    {
+      "date": "2025-06-04T20:23:37-07:00",
+      "rating": 5,
+      "title": "counts calories",
+      "text": "read the title",
+      "version": "1.11.0"
+    },
+    {
+      "date": "2025-06-03T11:51:44-07:00",
+      "rating": 3,
+      "title": "😄",
+      "text": "First day of using it, check back in a few days.",
+      "version": "1.10.0"
+    },
+    {
+      "date": "2025-05-16T10:08:08-07:00",
+      "rating": 4,
+      "title": "Money",
+      "text": "It costs money bro",
+      "version": "1.7.6"
+    },
+    {
+      "date": "2025-05-07T02:57:22-07:00",
+      "rating": 2,
+      "title": "Missing something…",
+      "text": "Do I not have an updated version? I live a very busy life, like most, and have only been using the “purchased” app a few days now, but how do you log something you missed after the fact? I’ve googled (Cal AI) and it’s like I’ve got a generic app because the instructions are not the way the app reads.",
+      "version": "1.7.5"
+    },
+    {
+      "date": "2025-05-01T05:51:30-07:00",
+      "rating": 2,
+      "title": "Buggy",
+      "text": "I like the app and doing the 3 day trial but when I close the app and go back in it gets stuck and you can’t click on anything.  Then I have to close the app and open it to move around the menu.  Trying it out for one more day before I get charged.",
+      "version": "1.7.5"
+    }
+  ]
+}

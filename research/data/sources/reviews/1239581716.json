@@ -1,0 +1,357 @@
+{
+  "app": "TezLab - For Tesla/Rivian",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-08-11T12:31:56-07:00",
+      "rating": 5,
+      "title": "Lucid Support?",
+      "text": "Any chance you will add support for Lucid vehicles? Thanks in advance.",
+      "version": "2026.32"
+    },
+    {
+      "date": "2026-06-04T00:34:43-07:00",
+      "rating": 1,
+      "title": "Your website doesn’t work!",
+      "text": "Your website doesn’t work! And now app have glitches",
+      "version": "2026.21"
+    },
+    {
+      "date": "2026-05-03T09:27:19-07:00",
+      "rating": 1,
+      "title": "Disappointed",
+      "text": "I have waited over a week for this app to show me something other than what I already see with the Tesla app. The only consistent feature on this app is that it continues to disconnect from the car multiple times a day.",
+      "version": "2026.17"
+    },
+    {
+      "date": "2026-03-24T05:04:13-07:00",
+      "rating": 1,
+      "title": "Phone Won’t Recognize Texan Pro",
+      "text": "I installed TezLab and paid for 1 year subscription for TezLab Pro. Even though the purchase shows in my subscription list, the app does not recognize this purchase. Every time I click on an option in the app, it tells me I need to subscribe to Pro. I sent an email to support but have not received a response. Very disappointed. I’m hoping someone from TezLab reads this and contacts me.",
+      "version": "2026.7"
+    },
+    {
+      "date": "2026-03-18T19:21:36-07:00",
+      "rating": 5,
+      "title": "Incredible data",
+      "text": "I can make .csv files and use them in python to make fun graphs of my car usage. This app is amazing. So much more from driving maps to weekly reports. It’s superior to the Tesla main app and I worked at Tesla.\n\nEdit saved me 500$!\n\nWas connected to a neighbors plug in duplex and they claimed way more usage and TezLab won when my data was presented to the landlord !\n\nAnd I have years of data I can toss into an LLM and visualize for great sentimental value datasets",
+      "version": "2026.7"
+    },
+    {
+      "date": "2026-03-15T18:45:09-07:00",
+      "rating": 3,
+      "title": "Not as useful anymore.",
+      "text": "well, as I said, not as useful anymore, and definitely not worth the price the app does more than half of what this app used to do",
+      "version": "2026.7"
+    },
+    {
+      "date": "2026-02-08T17:17:52-07:00",
+      "rating": 5,
+      "title": "Great statistical analysis",
+      "text": "I really enjoy going through the data. It is very useful. I also like seeing the trips and especially the Range map which is really useful. You can set it for real world or rated.",
+      "version": "2026.1"
+    },
+    {
+      "date": "2025-11-15T16:27:34-07:00",
+      "rating": 5,
+      "title": "My thoughts",
+      "text": "It’s easy to manage live the look of it great job",
+      "version": "2025.45.2"
+    },
+    {
+      "date": "2025-10-30T19:46:21-07:00",
+      "rating": 1,
+      "title": "Squeezed out",
+      "text": "I have had this app since 2018 when I got my model three. It was fully functional when I first downloaded it and since I do not pay for any subscriptions, every single feature that is even mildly useful has been removed since then. There’s no reason to keep this app as an un paying subscriber.",
+      "version": "2025.43.2"
+    },
+    {
+      "date": "2025-10-04T09:47:46-07:00",
+      "rating": 5,
+      "title": "FSD tracking",
+      "text": "Still waiting for it to appear",
+      "version": "2025.40"
+    },
+    {
+      "date": "2025-08-20T11:44:04-07:00",
+      "rating": 5,
+      "title": "Using TezLab for years",
+      "text": "My original purpose for using this app was to export charging data and reimbursed for my electricity usage. Over time, I’ve seen it steadily improve with new features, and it remains my go-to app for tracking drive usage, battery life, charging data, and more.\n\nWith the recent addition of FSD tracking, I’m excited monitoring my FSD drives. I also just began using the new FSD Leaderboard feature, live in the car which is a fantastic addition.\n\nThis app keeps getting better, and I highly recommend it to anyone who wants reliable insights into their Tesla!",
+      "version": "2025.27.1"
+    },
+    {
+      "date": "2025-08-16T05:16:31-07:00",
+      "rating": 5,
+      "title": "FSD tracker",
+      "text": "An awesome new feature that Ben at Tezlab has accomplished.  It keeps track of how much you are using FSD on your Tesla.  Just had this feature added on my Cybertruck. Awesome app and utilize daily.",
+      "version": "2025.27.1"
+    },
+    {
+      "date": "2025-08-10T09:49:39-07:00",
+      "rating": 5,
+      "title": "The knowledge about your EV",
+      "text": "Initially I just wanted to track my charging metrics, but this app does so much more! I really like how it allows you to group trips together to form your overall trip view.  My only complaint is on me for not starting to use this app from day one!  Too bad there is no way to get historical data of some kind (pre app install), but having already spoken to the very responsive and knowledgeable developers, this just isn’t possible.",
+      "version": "2025.27.1"
+    },
+    {
+      "date": "2025-07-28T14:48:46-07:00",
+      "rating": 1,
+      "title": "Greedy company with a terrible attitude",
+      "text": "You can check reddit how “politely” they answer to their customers. Watch app doesn’t work, main app has low value unless you need to report mileage",
+      "version": "2025.27.1"
+    },
+    {
+      "date": "2025-07-21T13:26:17-07:00",
+      "rating": 5,
+      "title": "Best EV app",
+      "text": "The best EV app companion. Highly recommended.",
+      "version": "2025.27.1"
+    },
+    {
+      "date": "2025-04-25T07:09:55-07:00",
+      "rating": 1,
+      "title": "Zero reason to use in 2025",
+      "text": "The Tesla and Rivian apps are 10x better than the slop this company “engineers”.",
+      "version": "2025.18.10"
+    },
+    {
+      "date": "2025-02-13T12:59:52-07:00",
+      "rating": 1,
+      "title": "Holy lost features Batman!",
+      "text": "I really enjoy having the data available for every trip in our EVs. A lot of the data was behind an initial paywall which I obliged. Given that we were able to see the data I wanted/needed it was worth it. \n\nThere are a lot of data points I would like to see, but so far what I’m getting is worth it. But now, it isn’t. There has been an adjustment to the subscription model and the data I signed up to receive isn’t available for my vehicles. \n\nFirst the subscription cost got jacked up. Then they add an additional subscription per vehicle. My costs to support this app have increased more than 3x. So much for “cheaper than a couple cups of coffee a month.”\n\nBecause of the truly exorbitant price increases, this app is no longer worth it. Not enough data, not enough usefulness to justify these costs.",
+      "version": "2025.7"
+    },
+    {
+      "date": "2025-02-04T16:36:32-07:00",
+      "rating": 2,
+      "title": "Bait and switch?",
+      "text": "I am an early adopter of this app.  Purchased a “founders” license that granted me premium features (for life) and has been working great.  Until recently when they now want more money to support more than one vehicle.  \n\nI get it that operating costs go up but don’t “founding” members should be grandfathered into no limits in terms of the amount of vehicle connections.",
+      "version": "2025.6.1"
+    },
+    {
+      "date": "2025-01-31T18:24:20-07:00",
+      "rating": 1,
+      "title": "Price rise is a no go",
+      "text": "I liked this app. Although it’s hardly vital to everyday EV use, the data is interesting. But now that they’ve almost doubled the monthly cost AND charge still more for two EVs (thus tripling the cost!), it’s just not worth it. So long, TezLab subscription!",
+      "version": "2025.5.2"
+    },
+    {
+      "date": "2025-01-20T13:05:37-07:00",
+      "rating": 5,
+      "title": "Add live activitiy with live drive data",
+      "text": "The app is great. In my opinion, it would be a checkmate for every other similar app if live a live activity is added in iPhone Lock Screen to see while driving. Since the phone is placed on the charger just below the screen, it would act as a second screen with extra info (eg Drive efficiency) without having to unlock the phone and open the app.",
+      "version": "2025.3.2"
+    },
+    {
+      "date": "2025-01-10T22:15:58-07:00",
+      "rating": 4,
+      "title": "Features previously offered free became subscription based and thus my perception diminished",
+      "text": "Meh",
+      "version": "2025.2.1"
+    },
+    {
+      "date": "2024-12-07T11:30:37-07:00",
+      "rating": 5,
+      "title": "Super handy for a Rivian!",
+      "text": "I have a Rivian and even though Rivian support is in Beta, it feels super fleshed out and is really helpful!!",
+      "version": "2024.47.1"
+    },
+    {
+      "date": "2024-12-01T08:45:44-07:00",
+      "rating": 5,
+      "title": "Great info",
+      "text": "I just got my first Tesla. I got it Used as it is a 2018. There are so many things to learn and this is a great tool that give you so much info. Really appreciate how easy they make it.",
+      "version": "2024.47.1"
+    },
+    {
+      "date": "2024-11-19T06:01:41-07:00",
+      "rating": 5,
+      "title": "Great App, nearly perfect",
+      "text": "Functionality gets upgraded regularly. High-quality.  Well designed.  Would like to see ads superseded for pro version.",
+      "version": "2024.46.3"
+    },
+    {
+      "date": "2024-11-18T10:38:21-07:00",
+      "rating": 5,
+      "title": "Nice App for Tesla Users",
+      "text": "Even in free version provides a lot of useful information.",
+      "version": "2024.46.3"
+    },
+    {
+      "date": "2024-11-16T04:36:54-07:00",
+      "rating": 5,
+      "title": "Incredible",
+      "text": "If you enjoy your Tesla or Rivian, this is a must have companion. Great for learning how to save money and how far you can drive between charges. Helpful community. !!",
+      "version": "2024.46.3"
+    },
+    {
+      "date": "2024-11-13T00:27:18-07:00",
+      "rating": 3,
+      "title": "No support options",
+      "text": "I’ve enjoyed many of the features of this app including road trips, but there’s some glitchy vehicle connection issue where I keep getting my account disconnected and in the most recent example it would have been nice to ask support why the app was doing this because I lost an entire roadtrips worth of data because the car wasn’t connecting to the app.",
+      "version": "2024.45.1"
+    },
+    {
+      "date": "2024-11-02T06:56:59-07:00",
+      "rating": 5,
+      "title": "Great app!!",
+      "text": "We used Tezlab extensively during our expedition across the Americas drive using Teslas: Electric Americas! Our favorite featured was the range ring maps!",
+      "version": "2024.42.1"
+    },
+    {
+      "date": "2024-10-29T04:39:12-07:00",
+      "rating": 5,
+      "title": "More Data",
+      "text": "The more you know about your car, the better. No one provides more organized data than TezLab. Worth every cent.",
+      "version": "2024.42.1"
+    },
+    {
+      "date": "2024-10-27T03:58:51-07:00",
+      "rating": 4,
+      "title": "Great details",
+      "text": "Tezlab is loaded with great details and has a good ui.",
+      "version": "2024.42.1"
+    },
+    {
+      "date": "2024-10-24T12:44:14-07:00",
+      "rating": 5,
+      "title": "Great app! Love it, but …",
+      "text": "Why does it log me out every update?\nPlease fix that. Will gladly update the review.",
+      "version": "2024.42.1"
+    },
+    {
+      "date": "2024-10-17T14:11:03-07:00",
+      "rating": 5,
+      "title": "Best app for Teslas",
+      "text": "I have been using this app for several years now for both of our cars and have been very satisfied with its performance and especially the improvements. I have used a few other apps like stats but I liked this the best.",
+      "version": "2024.42"
+    },
+    {
+      "date": "2024-10-15T18:33:48-07:00",
+      "rating": 5,
+      "title": "The best Tesla app available",
+      "text": "Very impressed! Been using for a few years and it’s great!",
+      "version": "2024.42"
+    },
+    {
+      "date": "2024-10-15T08:58:45-07:00",
+      "rating": 5,
+      "title": "Easy, convenient, and insightful",
+      "text": "So many features in this app. Easy to use. Always being updated. Lots of data especially with paid features. Worth every penny.",
+      "version": "2024.42"
+    },
+    {
+      "date": "2024-10-13T03:19:56-07:00",
+      "rating": 5,
+      "title": "Got a Tesla?? You need this app",
+      "text": "Fantastic app. Takes your Tesla to a whole new level.",
+      "version": "2024.42"
+    },
+    {
+      "date": "2024-10-12T06:53:19-07:00",
+      "rating": 5,
+      "title": "Great app for metrics and control of car",
+      "text": "This app is really clean, well designed, and not buggy. Allows you to control your car and collect metrics on driving and charging to keep and export if you wanted to.",
+      "version": "2024.42"
+    },
+    {
+      "date": "2024-10-07T04:50:25-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "Amazing app like the community section of it",
+      "version": "2024.41"
+    },
+    {
+      "date": "2024-10-01T10:46:04-07:00",
+      "rating": 5,
+      "title": "TezLab is amazing!",
+      "text": "Thanks folks.",
+      "version": "2024.36.2"
+    },
+    {
+      "date": "2024-09-30T07:52:09-07:00",
+      "rating": 1,
+      "title": "Chinese Tesla account cannot login",
+      "text": "Can fix this problem？when login the Tesla account the page show errors.\n\nwe don't recognize this Client ID. Please use the Client ID found in your app details.",
+      "version": "2024.36.2"
+    },
+    {
+      "date": "2024-09-25T07:24:01-07:00",
+      "rating": 5,
+      "title": "Good free app",
+      "text": "Used to be able to see multiple cars. Now that’s a pay feature",
+      "version": "2024.36.2"
+    },
+    {
+      "date": "2024-09-23T18:10:53-07:00",
+      "rating": 5,
+      "title": "Live information",
+      "text": "This app has lots of useful information especially for new Tesla owners. It helps with range anxiety and helps me plan my road trip starts and too much more accurate.",
+      "version": "2024.36.2"
+    },
+    {
+      "date": "2024-09-03T05:41:22-07:00",
+      "rating": 3,
+      "title": "MEH",
+      "text": "Too clunky. Charge cost are incorrect. I cannot find anything I’m looking for. You can’t differentiate off and on peak time charging costs. extremely difficult to navigate. Everything looks good, but I use Tessie instead.",
+      "version": "2024.31"
+    },
+    {
+      "date": "2024-08-31T17:15:17-07:00",
+      "rating": 5,
+      "title": "One of the best Tesla Apps.",
+      "text": "TezLab is by far one the top 3rd party apps for monitoring your Tesla. The innovation keeps coming with big updates every 6 months. I highly recommend becoming a Founding Member and supporting this great app.",
+      "version": "2024.31"
+    },
+    {
+      "date": "2024-08-17T12:24:26-07:00",
+      "rating": 5,
+      "title": "great",
+      "text": "love app for travel details.",
+      "version": "2024.31"
+    },
+    {
+      "date": "2024-08-16T14:09:50-07:00",
+      "rating": 5,
+      "title": "Excellent app",
+      "text": "I particularly appreciate the efficiency reports, and being able to download all of my charging data from one location in the app, regardless of the source of charging.",
+      "version": "2024.31"
+    },
+    {
+      "date": "2024-07-19T09:22:41-07:00",
+      "rating": 5,
+      "title": "Great App for your Tesla!",
+      "text": "I've been on the app for about 1 year and it's been great. The large Tesla community helps provide tips and comments to your charging destinations. The app also monitors and controls your Tesla with so much more details vs the OEM Tesla App. I use both and it compliments each other very well!",
+      "version": "2024.29.4"
+    },
+    {
+      "date": "2024-07-13T11:14:30-07:00",
+      "rating": 1,
+      "title": "Remote controls don’t work",
+      "text": "Just paid the $40 and when I tap on my (new) Apple Watch app to start the A/C it just spins for a second and then still says “Turn on”. Repeated several times and same result. Once I got in the car and had the A/C running it then says “Climate On” so I know it’s connected. Tapping on “Turn off” does the same spin and do nothing action as Turn on. Just doesn’t work. Waste of money",
+      "version": "2024.28.4"
+    },
+    {
+      "date": "2024-07-09T04:44:15-07:00",
+      "rating": 5,
+      "title": "Works as advertised",
+      "text": "It works",
+      "version": "2024.22.1"
+    },
+    {
+      "date": "2024-07-05T12:06:44-07:00",
+      "rating": 5,
+      "title": "Great app for tracking everything on your Tesla",
+      "text": "This is great app for tracking everything on your Tesla and every revision gets better!",
+      "version": "2024.22.1"
+    },
+    {
+      "date": "2024-07-03T05:46:11-07:00",
+      "rating": 5,
+      "title": "Unbelievable app",
+      "text": "This app does everything I needed it to do. It’s very detailed and allows the extra features the main Tesla app doesn’t have. My go to app for Tesla",
+      "version": "2024.22.1"
+    }
+  ]
+}

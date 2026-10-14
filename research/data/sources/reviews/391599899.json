@@ -1,0 +1,357 @@
+{
+  "app": "Wahoo",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T06:35:42-07:00",
+      "rating": 5,
+      "title": "Wahoo > Garmin",
+      "text": "I don’t have a Elemnt yet but after the constant issues I’m having with Garmin and the positive reviews all my friends give me, Wahoo is clearly the superior product.",
+      "version": "7.2.0"
+    },
+    {
+      "date": "2026-09-30T08:45:10-07:00",
+      "rating": 1,
+      "title": "Woah brochacho",
+      "text": "As a Colorado endurance brochacho, I downloaded the Wahoo app expecting clean ride data, not a full-on data privacy nightmare. The app seems way too interested in collecting and connecting everything short of my favorite burrito spot, and the privacy controls don’t exactly inspire confidence.\n\nTrying to delete my account was like signing up for Comcast customer service: endless menus, mysterious hoops, and the creeping suspicion that my request had been shipped off to a magical farm where deleted accounts go to live forever. I kept waiting for someone to tell me, “You can’t cancel—your account is part of the system now.”\n\nThe fitness features are solid, but I’d rather track my intervals than negotiate with a corporate bureaucracy from a certain Colorado mountain town. Wahoo, please make privacy clearer and account deletion a straightforward button—not an epic quest through increasingly absurd support channels.",
+      "version": "7.1.0"
+    },
+    {
+      "date": "2026-09-26T20:45:46-07:00",
+      "rating": 4,
+      "title": "Close in Being Perfect for V3 GPS units",
+      "text": "Update: App did now add quick access to load routes and workouts on GPS units but still doesn’t allow sharing live link easily which are most frequently used actions by users. 90% there! \n\nFeedback on using V3 GPS units with the app.  Too many steps to do the basics when the ELEMNT app had it all there in single screen. Want to load a route, it’s 2 separate steps. Need to share your location? It’s buried in Account Settings, extra 2 steps.  The fix is easy. Add routes, planned workouts, share live link under the Device.",
+      "version": "7.1.0"
+    },
+    {
+      "date": "2026-09-23T13:10:14-07:00",
+      "rating": 5,
+      "title": "Love it!!!",
+      "text": "Use it to capture my heart rate during workouts.  It sends the results to my Fitness app and Health app.  I was using my Apple Watch before, but that was inconsistent.  I need to know my heart rate down to the second.",
+      "version": "7.1.0"
+    },
+    {
+      "date": "2026-09-19T07:48:54-07:00",
+      "rating": 5,
+      "title": "SUBSCRIBED",
+      "text": "Awesome feedback! Thank you Wahoo 👊",
+      "version": "7.0.2"
+    },
+    {
+      "date": "2026-09-16T20:16:59-07:00",
+      "rating": 2,
+      "title": "Another untested (buggy) update",
+      "text": "Par for the course. Someday Wahoo will actually ship an app without a hilariously broken front page bug, but I wouldn’t bet on that happening in this decade. \n\nThis time health data sharing (which was already only working ~30% of the time) is now fully nonfunctional, happily reporting success at sharing nothing.\n\nEdit: to the support response staff: I’m not interested in being your beta tester.",
+      "version": "7.0.2"
+    },
+    {
+      "date": "2026-09-07T07:14:41-07:00",
+      "rating": 1,
+      "title": "Garbage",
+      "text": "Will not sync with wahoo bolt unless you quit the app, turn Bluetooth, then restart the app. The app is also complete garbage for logging activities; it will stop logging, tell you it is logging, and then delete a huge chunk of the activity. I assume all of these problems go away when you pay for their subscription service but wahoo does not care about supporting hardware.",
+      "version": "7.0.0"
+    },
+    {
+      "date": "2026-09-03T16:44:35-07:00",
+      "rating": 5,
+      "title": "forces you to give personal information",
+      "text": "must create account to use. I downloaded Zones for training after deleting this trash from my phone",
+      "version": "7.0.0"
+    },
+    {
+      "date": "2026-08-31T06:40:35-07:00",
+      "rating": 5,
+      "title": "I love Wahoo",
+      "text": "It works amazing",
+      "version": "7.0.0"
+    },
+    {
+      "date": "2026-08-24T11:39:30-07:00",
+      "rating": 1,
+      "title": "Go with a Different App",
+      "text": "I’d stay as far away from Wahoo Fitness and their devices.  I downloaded the App to pair with the Core KICKR, but regret both downloading it and purchasing the KICKR. \n\nTheir own literature indicates that the Bluetooth transceiver is too weak to be effective, so the app doesn’t accurately control the device. In fact, the app will not get the device to function outside of passive mode making it worthless.",
+      "version": "6.90.0"
+    },
+    {
+      "date": "2026-08-23T07:54:52-07:00",
+      "rating": 1,
+      "title": "Poor resistance upkeep",
+      "text": "It is very difficult to update the app and maintain a consistent use of the resistance features. Most times when updates are needed, resistance is completely loss.",
+      "version": "6.90.0"
+    },
+    {
+      "date": "2026-08-18T16:37:51-07:00",
+      "rating": 5,
+      "title": "New user",
+      "text": "Trying to learn how this works - the info is helpful",
+      "version": "6.90.0"
+    },
+    {
+      "date": "2026-08-13T21:54:01-07:00",
+      "rating": 5,
+      "title": "Super rad🤘🏽",
+      "text": "Works as it should, that’s a rare thing in this day and age 🤘🏽 🚴",
+      "version": "6.90.0"
+    },
+    {
+      "date": "2026-08-10T15:31:50-07:00",
+      "rating": 5,
+      "title": "Go-to comprehensive Application for sports",
+      "text": "I’ve been using the Wahoo app for several years now and use other things like Cateye cyclometer as a backup but Wahoo is my primary. I’ve pretty much switched everything over to Wahoo (hardware and software) and just bought an element bolt three and a radar (which I haven’t tried yet). I swear by Wahoo and highly recommend their products to any athlete of any age.",
+      "version": "6.89.0"
+    },
+    {
+      "date": "2026-08-01T11:09:22-07:00",
+      "rating": 3,
+      "title": "Won’t sync with Google health",
+      "text": "I’ve been using Wahoo for years. I love the app. I love the products. It’s only a three star for now because it does not sync with my main health tracker, which is Google Health a.k.a. Fitbit. It still seems like it’s trying to work with the old Fitbit system, but since Fitbit became Google Health, the Wahoo trading app doesn’t want to sync my data after workouts on the treadmill or indoor bike. This needs to be addressed immediately and once is fixed, I will update my review to five stars.",
+      "version": "6.89.0"
+    },
+    {
+      "date": "2026-08-01T08:26:35-07:00",
+      "rating": 3,
+      "title": "It’s ok",
+      "text": "The paise alerts and auto-pause workouts options don’t work, and sometimes my garmin devices won’t connect. It’s an ok app, but not good enough to recommend",
+      "version": "6.89.0"
+    },
+    {
+      "date": "2026-07-27T22:02:15-07:00",
+      "rating": 1,
+      "title": "App",
+      "text": "For so many times already I’ve had the heart rate monitor on perfectly working, but he never lets me start the actual workout and record process so annoying",
+      "version": "6.88.0"
+    },
+    {
+      "date": "2026-07-26T12:03:32-07:00",
+      "rating": 2,
+      "title": "Where did the Cadence metric go?",
+      "text": "After 2 or 3 years of using this app for road cycling, Cadence is no longer a metric that displays. My Wahoo Cadence Meter is connected. How do I get it to display again? I see the average cadence in my final results.",
+      "version": "6.88.0"
+    },
+    {
+      "date": "2026-07-23T10:07:59-07:00",
+      "rating": 5,
+      "title": "Assault Fitness Bluetooth",
+      "text": "This app solved a first world problem of collecting my assault bike workouts and analyzing all of the data from the console. Keep up the great work and thank you for making a capable free version!",
+      "version": "6.88.0"
+    },
+    {
+      "date": "2026-07-22T11:23:27-07:00",
+      "rating": 5,
+      "title": "Wahoo",
+      "text": "Awesome app.",
+      "version": "6.88.0"
+    },
+    {
+      "date": "2026-07-17T16:22:10-07:00",
+      "rating": 4,
+      "title": "Very Good, Missing A Few Details",
+      "text": "Very smart interface, displays everything I need on my Kickr Run treadmill. Unfortunately I can’t autolap by kilometer, however. Seems like that should be an easy fix, or better yet, allow autolap at fractional distances.",
+      "version": "6.88.0"
+    },
+    {
+      "date": "2026-07-07T19:38:12-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Growing up (I’m 56) I thought a stopwatch was amazing. This app is incredible.",
+      "version": "6.87.1"
+    },
+    {
+      "date": "2026-07-07T15:34:33-07:00",
+      "rating": 1,
+      "title": "Missing Key Features",
+      "text": "Does not auto-calculate FTP or heart rate zones like Garmin or Apple. Required to input your FTP or THR.  \n\nDoes not import data (ie. Weight) from Apple Health, the Elemnt App did.\n\nVery poorly optimized, my phone noticeably warms up just opening it. Auto-sharing to Apple Health is inconsistent and manually doing it frequently creates duplicates.\n\nNo virtual Elemnt screen when organizing fields, instead it’s just a list. Huge miss.",
+      "version": "6.87.1"
+    },
+    {
+      "date": "2026-07-04T19:49:23-07:00",
+      "rating": 3,
+      "title": "When It Works",
+      "text": "When it works it is great;  how ever, I am on my second bike and third set of handle bars.  The controls keep going bad.  I have had the kicker bike for a year and a half.  To wahoo’s credit they replaced the bike or the bars under warranty",
+      "version": "6.87.1"
+    },
+    {
+      "date": "2026-06-16T15:59:21-07:00",
+      "rating": 4,
+      "title": "Too many screens",
+      "text": "Many people don’t monitor heart rate. Make a screen with speed/ave speed, power/ave power, time and distance. That is all majority people need.",
+      "version": "6.86.1"
+    },
+    {
+      "date": "2026-06-14T13:42:44-07:00",
+      "rating": 5,
+      "title": "Army Veteran",
+      "text": "Excellent workout/ training system.",
+      "version": "6.85.0"
+    },
+    {
+      "date": "2026-06-01T21:44:50-07:00",
+      "rating": 3,
+      "title": "Missed my whole indoor training ride.",
+      "text": "One hour climb ride and at the end when I tap save it records 40 seconds. Missed my whole ride. This is the second time.",
+      "version": "6.84.1"
+    },
+    {
+      "date": "2026-05-26T09:28:13-07:00",
+      "rating": 5,
+      "title": "Very pleased with this app",
+      "text": "“",
+      "version": "6.84.1"
+    },
+    {
+      "date": "2026-05-23T13:18:59-07:00",
+      "rating": 5,
+      "title": "Five Stars",
+      "text": "Great app!!",
+      "version": "6.84.1"
+    },
+    {
+      "date": "2026-05-20T18:25:17-07:00",
+      "rating": 1,
+      "title": "Issues using trainer",
+      "text": "Can’t use the trainer doesn’t let me start my work out",
+      "version": "6.84.1"
+    },
+    {
+      "date": "2026-05-15T15:27:11-07:00",
+      "rating": 1,
+      "title": "Out of date",
+      "text": "App has not been updated to work with apple OS26. It cannot connect to the Tracker device. It no longer connects with phone GPS, ie, does not tell you how far you have cycled.",
+      "version": "6.83.0"
+    },
+    {
+      "date": "2026-05-14T17:34:16-07:00",
+      "rating": 1,
+      "title": "Lagging and Suboptimal",
+      "text": "Who knew it takes longer to get the wahoo running than actually just riding outside. Sitting with a black screen on my bike not riding for 30 min….. not exactly what you pay hundreds of dollars for is it.",
+      "version": "6.83.0"
+    },
+    {
+      "date": "2026-05-08T16:29:34-07:00",
+      "rating": 1,
+      "title": "Bugged.",
+      "text": "“Check for firmware update” button doesn’t work. Thanks for making expensive equipment obsolete on such a minute detail.",
+      "version": "6.83.0"
+    },
+    {
+      "date": "2026-05-06T22:07:52-07:00",
+      "rating": 1,
+      "title": "Frustratingly Inconsistent App",
+      "text": "I originally started using the Wahoo app to record my indoor cycling rides and upload my power and cadence data to Strava using my Favero Assioma power pedals paired to the app. \n\nOn my first few rides, I actually found the app insightful and promising enough that I decided to try the paid version.\n\nUnfortunately, I quickly realized the app was far too unreliable to justify paying for it. Even with recorded rides, it was basically a 50/50 chance whether the workout would successfully upload within the app itself. \n\nBecause of the constant glitches, I canceled the subscription and went back to the free version.\n\nThe free version is so frustrating on the basic end. Many rides simply fail to upload to Strava. Even when attempting manual uploads, they often fail repeatedly despite multiple retries, restarting my phone, signing out and back in, and other troubleshooting steps. At a certain point, the app becomes exhausting to deal with.\n\nWhat makes this especially frustrating is that when you finish a hard ride expecting the app to do the one thing it is supposed to do, which is reliably record and sync your workout data, and instead you end up with nothing to show for it.\n\nI know this issue is specifically related to Wahoo because my Apple Watch heart rate data uploads to Strava without issue, and I tested another cycling app that recorded and synced my rides successfully using the same equipment.\n\nI ultimately deleted the Wahoo app and switched to an app called “Cadence” instead. \n\nI had even considered investing in Wahoo smart bikes or bike trainers at one point, but after this experience, I simply cannot trust the reliability of their software ecosystem when even the basic ride recording and syncing experience is this inconsistent.\n\nVery disappointing experience overall.",
+      "version": "6.83.0"
+    },
+    {
+      "date": "2026-05-06T09:08:51-07:00",
+      "rating": 1,
+      "title": "“Content Restrictions” blocks use",
+      "text": "I didn’t get much from the app anyway, since I use TrainerRoad, but I wanted to look at the app recently to see if I could benefit from it, but it is blocked from opening due to “content restrictions.” Please fix this age requirement or whatever recently changed.",
+      "version": "6.83.0"
+    },
+    {
+      "date": "2026-05-04T17:33:30-07:00",
+      "rating": 5,
+      "title": "Fun and keeps me motivated",
+      "text": "I really like this how it works with the sensors on my bike, and I also love how it automatically puts things onto Strava for me",
+      "version": "6.82.0"
+    },
+    {
+      "date": "2026-05-01T19:43:03-07:00",
+      "rating": 1,
+      "title": "LOST MY WORKOUT!!",
+      "text": "Lost my workout and then proceeded to ask me for a review right after. Recorded a 1.5hr threshold workout on the kicker to my iPad hit new PRs then the app acted as if the workout never happened after I pressed the save button",
+      "version": "6.82.0"
+    },
+    {
+      "date": "2026-04-27T09:43:46-07:00",
+      "rating": 1,
+      "title": "Send wrong distance to Apple Health",
+      "text": "This app is disappointing. It doesn't work flawlessly, and there's always something odd. Now I realize that the distance shared on my Apple Health is incorrect, it always reports less mileage (way less) than the actual data.",
+      "version": "6.82.0"
+    },
+    {
+      "date": "2026-04-20T06:10:00-07:00",
+      "rating": 1,
+      "title": "Deleting your account is as convoluted as possible",
+      "text": "My bike has a busted Bluetooth chip so I wanted to delete my account since I won’t be using it anymore.\n\nThe process for account deletion is: fill out a form, click and email, fill out a form, click and email, fill out a form, copy an access code, and then it doesn’t tell you that you’ve successfully completed the process, just shows the request.\n\nVery bad stewardship",
+      "version": "6.81.0"
+    },
+    {
+      "date": "2026-04-09T07:31:29-07:00",
+      "rating": 4,
+      "title": "Update: Wahoo fixed issue. Can’t add distance after update???",
+      "text": "Update 4/9/26. Developer updated app and issue fixed.Can no longer add distance to rides so kind of pointless",
+      "version": "6.81.0"
+    },
+    {
+      "date": "2026-03-31T10:27:44-07:00",
+      "rating": 5,
+      "title": "Great Workout App",
+      "text": "Great for accurate heart rate reading and workout tracking. Just remember to pair the device to the Wahoo settings using the app and NOT your phone setting Bluetooth or it will not work! Directions should be a little clearer!",
+      "version": "6.80.0"
+    },
+    {
+      "date": "2026-03-27T08:58:55-07:00",
+      "rating": 1,
+      "title": "Never works properly.",
+      "text": "All my devices connect on Bluetooth, but the app doesn’t see them and it won’t open the controls for the kicker. Wouldn’t buy another wahoo product.",
+      "version": "6.80.0"
+    },
+    {
+      "date": "2026-03-26T04:28:54-07:00",
+      "rating": 1,
+      "title": "Incapable of remembering bridge devices",
+      "text": "Every single time I have to reconnect my heart rate monitor to my Kickr Core.",
+      "version": "6.80.0"
+    },
+    {
+      "date": "2026-03-18T18:15:39-07:00",
+      "rating": 1,
+      "title": "Requires registration now",
+      "text": "There used to be a free guest option, w/o registration. \nWell, they made it worse and removed that. No thanks.",
+      "version": "6.80.0"
+    },
+    {
+      "date": "2026-03-17T05:37:50-07:00",
+      "rating": 2,
+      "title": "Controls falis",
+      "text": "The controller constantly fails during use of the app, disrupting interval workouts.",
+      "version": "6.78.0"
+    },
+    {
+      "date": "2026-03-14T12:32:49-07:00",
+      "rating": 5,
+      "title": "Better than strav*!",
+      "text": "On a phone it present most of what I need and very clearly.   No annoying outages!",
+      "version": "6.78.0"
+    },
+    {
+      "date": "2026-03-11T15:52:16-07:00",
+      "rating": 5,
+      "title": "Big Cal",
+      "text": "Works great. Just use it for cadence, use Apple Watch for fitness tracker.  Have to start Wahoo first then Apple Watch",
+      "version": "6.78.0"
+    },
+    {
+      "date": "2026-03-11T09:06:49-07:00",
+      "rating": 3,
+      "title": "Low Trust",
+      "text": "The same hike never registers the same. For example a 4.23 hilly hike shows 75 calories burned one day and 328 calories the next. No confidence in hr as well.",
+      "version": "6.78.0"
+    },
+    {
+      "date": "2026-03-10T17:38:25-07:00",
+      "rating": 5,
+      "title": "Easy setup. Accurate stats",
+      "text": "Awesome",
+      "version": "6.78.0"
+    },
+    {
+      "date": "2026-03-10T00:48:30-07:00",
+      "rating": 3,
+      "title": "Sad degradation of functionality with the inclusion of many  features",
+      "text": "Compared to the previous app to control element devices this one is severely crippled, consistent failures to send routes or way points for auto route creation. Constant lack of communication with the phone and erroneous syncing issues. There’s still no way to turn off the computer and resume it without the auto cancel ride feature being activated (Bolt). These apps and computers have just been a slow slide of developers not listening to the users and going ahead with whatever they see as interesting or profitable. Example: The new app pushes a bunch of AI features and auto coaching things in your face without having the basic core functionality of the previous app.\n\nSad. But there’s no better options from garmin or hammerhead so I feel stuck here.",
+      "version": "6.78.0"
+    }
+  ]
+}

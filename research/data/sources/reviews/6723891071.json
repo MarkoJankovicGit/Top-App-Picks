@@ -1,0 +1,21 @@
+{
+  "app": "SleepTracker: Record & Improve",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-01-10T06:46:42-07:00",
+      "rating": 1,
+      "title": "Free trial is a waste of time.",
+      "text": "I used it for a night, but everything is locked the next day, so really you’re just recording yourself in your sleep for nothing during the trial. In order to do anything, or see how it works, or to even hear if the recording quality is decent, you have to pay. Considering some of the reviews on here say that the recording quality is not decent, I would reconsider changing that feature in the free trial, but you have lost me.",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2025-11-20T05:31:32-07:00",
+      "rating": 1,
+      "title": "Did nothing",
+      "text": "All the recordings had the background sound of the music or sounds the app provided. Didn’t record anything but that. If this is fixed the app would be worth it.",
+      "version": "1.21.2"
+    }
+  ]
+}

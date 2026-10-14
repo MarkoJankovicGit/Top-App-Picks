@@ -1,0 +1,357 @@
+{
+  "app": "LibreLinkUp",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-06T21:08:46-07:00",
+      "rating": 1,
+      "title": "Girlfriend might die because of this app.",
+      "text": "Didnt know my girlfriends sugar was above 400 because of a terms and conditions update that blocked us from getting notifications. With no one able to get to her and no clue what to do because now it says no recent data available she could be dying or go into coma. Thanks libre!",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-10-05T15:26:54-07:00",
+      "rating": 3,
+      "title": "Unable to access data",
+      "text": "I’ve used this app for over a year and it has been. Life changer for being able to monitor my mom’s sugar from a distance. However I got a new phone last month and now it’s not letting me access her numbers. Not sure what is going on. I’ve deleted the app on my side and hers and deleted my actual account and readded and sent a new invite but nothing has worked",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-09-28T15:43:22-07:00",
+      "rating": 3,
+      "title": "Like the app..",
+      "text": "I like the app but it really needs an Apple Watch companion app so I can view on my watch, or in a complication on the watch face. Would definitely help to monitor how their blood sugar is doing before things get too low.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-09-28T12:42:42-07:00",
+      "rating": 1,
+      "title": "Connection is not good",
+      "text": "My 8 year old was recently diagnosed and my Linkup app is always down it’s so hard for me to monitor her I have to reinstall the app over and over again to keep connecting",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-09-18T08:40:47-07:00",
+      "rating": 4,
+      "title": "Good but needs support for Garmin watch.",
+      "text": "Link up works well except it doesn’t pass alarms to a Garmin watch. I can’t hear an alarm at night without my hearing aids, however a vibrating watch will wake me up. Can this be fixed?\nUPDATE: There isn’t a way to send in a bug report. \nI have my low alarm set for 60, I am woken up by an alert saying that my level is at 56. Later I look at the trace and it only reads 61. The trace always reads higher than what was reported in the Alarm. If the level was actually 61 the alarm should not have gone off.  \nPlease contact me.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-09-03T10:03:32-07:00",
+      "rating": 3,
+      "title": "Can’t view readings",
+      "text": "Lately it will suddenly stop showing the readings for days and the app is already updated. If this something you reply on then it should work properly.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-24T20:54:00-07:00",
+      "rating": 4,
+      "title": "Love it but would love an Apple Watch option",
+      "text": "Like I said in the title, this app is phenomenal, but I would love to have the ability to get alerts on my Apple Watch.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-23T04:49:13-07:00",
+      "rating": 2,
+      "title": "App not working since latest update",
+      "text": "App worked great up until the update last week. Since then I haven’t gotten any readings from my husband’s sensor. Very disappointing. I’ll call customer service but it is still irritating.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-22T14:42:32-07:00",
+      "rating": 1,
+      "title": "No low notifications",
+      "text": "Husbands app updated last night and now I get no notifications for low blood sugar. His sugar got to 60 before I knew it. Only because his phone went  off and I finally heard it.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-21T09:08:09-07:00",
+      "rating": 1,
+      "title": "Lost of connection",
+      "text": "Since the update every 5 minutes or so it keeps losing connection to their libre, before the update app was great but not now. I’m give app a one star once fixed I’ll update review",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-18T16:10:42-07:00",
+      "rating": 3,
+      "title": "Missing data",
+      "text": "It’s great that my wife is able to share her Glucose chart, allowing me to remotely monitor her glucose levels. However, I don’t understand why I don’t see the same chart she does; hers displays her recorded insulin, carbs, exercise, etc, whereas my view does not, so I can’t tell when I see a spike whether or not she has treated it. Conversely, if I see a sudden drop, can’t tell if she inadvertently administered too much insulin.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-17T06:40:50-07:00",
+      "rating": 2,
+      "title": "It’s only good for current numbers.",
+      "text": "I’m very disappointed with the severe lack of data in the link up app. I’m a caregiver for my mother and I barely have any data to work with. My mother’s phone is the reader for her CGM’s, but I cannot view 1/10th the data her direct app does. When alerts do occur I have to speak to my mother directly to find out why we are getting alerts.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-11T21:28:57-07:00",
+      "rating": 3,
+      "title": "Language localization issue",
+      "text": "Hello,\n\nI would like to report a language localization issue in the LibreLinkUp app.\n\nI am currently in the United States and use a U.S. Apple ID. My iPhone’s preferred language order is:\n\n1. Simplified Chinese\n2. English (United States)\n\nIn LibreLinkUp, the language is also set to Simplified Chinese, but the app interface is displayed in Traditional Chinese instead.\n\nThis appears to be a localization/language-selection bug in the LibreLinkUp app. The app recognizes the language as Simplified Chinese in the settings, but the actual user interface is rendered in Traditional Chinese.\n\nCould you please investigate this issue and let me know if there is a workaround or when a fix might be available?\n\nThank you.",
+      "version": "5.1.1"
+    },
+    {
+      "date": "2026-08-06T08:33:10-07:00",
+      "rating": 1,
+      "title": "Not working",
+      "text": "This app is NOT working",
+      "version": "5.1.0"
+    },
+    {
+      "date": "2026-07-23T22:35:41-07:00",
+      "rating": 5,
+      "title": "Great but can be improved",
+      "text": "It would be helpful if you can also integrate or connect the data from the app to Apple health.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-23T16:38:36-07:00",
+      "rating": 3,
+      "title": "Very Limited",
+      "text": "It only shows you data for the past 12 hours. You can’t see back days or weeks. Therefore, as a spouse or care giver, you can’t monitor trends and such to help with caregiving. The Linkup app should show the long term graphs and such like the Libre wearer has access to.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-23T10:57:53-07:00",
+      "rating": 2,
+      "title": "Needs improvements!!!",
+      "text": "This app seems like an awesome idea but they need to seriously work on the connection issues!! My husband and I just became caretakers for my mother in law who has diabetes. We wanted to be able to get notifications in the night in case she goes high or low and so far all we have done is fight to maintain a connection. We even called the support line and still we are getting disconnected. This app is too\nImportant to cut corners and not do everything possible to make sure it works.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-21T19:20:39-07:00",
+      "rating": 2,
+      "title": "Disappointed",
+      "text": "I depend on this app for my teenage son. He’s a Type 1 and doesn’t wake for his alarms. I use this to alert me so I can make sure he’s okay and this app fails. It will go okay for a while where I’m getting alerts then it’ll stop for days or at this point weeks! It’s very scary to think I could miss something trying to depend on this to alert me and it’s not even working!",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-15T13:24:07-07:00",
+      "rating": 2,
+      "title": "😒👎🏻",
+      "text": "I use the LibreLink to follow my wife’s numbers but recently all I get is a page that says “not for treatment…” or something of that sort. In the past I got reliable numbers but this problem has persisted since my wife’s new sensors arrived a couple of weeks ago. I offloaded the app and downloaded it again thinking there might have been a new update for the app. Exact same problem. I get notifications but when I check the numbers all I get is a signal loss page. I’m going to go with “brand X” next time we see her endocrinologist we’ll get a script for the other brand  sensor.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-15T08:30:01-07:00",
+      "rating": 1,
+      "title": "Doesn’t connect  properly to libre link up",
+      "text": "We have recently started using freestyle libre 3 plus and as parent not getting the notifications of her highs and lows on time are crucial. There’s always a 2-3 hour gap in between data uploads and notifications don’t arrive on time either. There’s no option to change to a sound loud enough that i can hear.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-15T01:20:49-07:00",
+      "rating": 1,
+      "title": "Not getting any notifications",
+      "text": "We got switched from a different sensor due to insurance, this app has been nothing but a disappointment, the developers really need to get the app running properly because it doesn’t sync at all with the sensor readings",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-07T21:34:49-07:00",
+      "rating": 3,
+      "title": "Options Limited",
+      "text": "I admit, I’m just coming from the Dexcom Follow app, so I’m coming into this with a pretty heavy bias. \nBut the pros are that this app looks nice, it updates often, and the Libre itself has been accurate. \nOn the cons list, I can’t adjust any of my alarms for highs and lows, nor can I set the parameters for those highs and lows. I wish it gave me any control besides “on” or “off.” Highs and lows are relative to the person, and I’d rather an alarm not go off for the person dipping to 69 for one minute. Maybe I’ll get used to it, but it’s a small feature that could change a lot.\nOverall, the app is good quality, but for those of us who spend a lot of time and energy caring for someone with T1D, I think a few modern tweaks could make this app much more competitive with other brands.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-07-07T02:34:22-07:00",
+      "rating": 1,
+      "title": "Voiceover Accessibility is completely gone, and the app is unusable",
+      "text": "I am totally blind,  This app used to be completely usable, with the new update I cannot use any more. Period I cannot track my wife’s glucose because as soon as I open the app, it freezes and my phone is disabled. I have tried multiple ways with different solutions, but nothing works. Very frustrated and disappointed.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-06-25T15:41:32-07:00",
+      "rating": 1,
+      "title": "Terrible since the update",
+      "text": "Since they updated the app it always disconnects and takes forever to reconnect.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-06-19T17:21:20-07:00",
+      "rating": 1,
+      "title": "Frustrated",
+      "text": "In the previous version, I could check my blood sugar reading at any time by moving my finger on the graph; now this feature is gone. useless",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-06-18T19:13:15-07:00",
+      "rating": 1,
+      "title": "Horrible NEW App",
+      "text": "I monitor my mom's sugar readings with her. This has got to be one of the WORST upgrades you all have done!! She hates her NEW App and we both hate this one. I hope this gets to the developers and they can fix and/or replace this App with the original or something a whole lot better!",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-06-12T02:46:10-07:00",
+      "rating": 1,
+      "title": "Won’t stay connected",
+      "text": "After this app and the Libre app updated this app is constantly saying there is no connection even if the Libre isn’t offline. Makes remote monitoring pretty useless.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-06-08T07:40:50-07:00",
+      "rating": 3,
+      "title": "Miss old version",
+      "text": "I agree with other reviewers…the changes to history make it harder to view data. You have to old finger on the graph to see the reading at a particular time but the time shows under your finger so you can’t see it. I often use this to check when last reading was if sensor loses connection to app. Preferred changes would be to show time at top of graph and allow user to click point on graph and show that reading until user clicks somewhere else, i.e. you wouldn’t have to keep finger on graph. \nWould also love if it could reduce alarms when glucose is rising because patient has taken corrective action after a low alarm, rather than always sounding alarm when glucose is below set threshold. It would be great if it could distinguish between rising and falling trends when below alarm threshold.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-05-29T15:08:31-07:00",
+      "rating": 3,
+      "title": "Needed upgrades",
+      "text": "This app needs a widget, the ability to send notifications to lock screen, and better contrast/ font sizes throughout the app.  PLEASE hire a better app developer!",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-05-24T13:28:35-07:00",
+      "rating": 1,
+      "title": "Keeps knocking me off",
+      "text": "I am linked to my fiancé and it keeps knocking me off multiple times a day! It’s so frustrating! Can anyone help?! It keeps messing up on my fiance also!!!",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-05-23T19:16:22-07:00",
+      "rating": 1,
+      "title": "Danger-No longer able to share data.",
+      "text": "So disappointed. The app had an update. Patient updated  (Samsung) and he works fine. Two caregivers (one apple and one Samsung) updated and no data. Still see that patient is there, but provides zero data. Can’t monitor patient. This needs correction immediately.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-05-23T06:08:32-07:00",
+      "rating": 2,
+      "title": "Not happy with update. Previous version was much better.",
+      "text": "Alarms are now going off randomly when levels are normal. Being able to slide cursor to timeline is not there anymore which is a valuable tool. Screen is not as big and contrast colors are not as easy to see on graph.",
+      "version": "5.0.1"
+    },
+    {
+      "date": "2026-05-22T07:34:22-07:00",
+      "rating": 1,
+      "title": "Not thinking",
+      "text": "Let’s see your device was recalled twice in a six month. Period.   I don’t think that changing the entire format and color for the app was needed.  You’re dealing with diabetics why the hell would you make something smaller and more inconvenient to scroll.  Nobody wants to wake up in the middle of the night to check their blood sugar and find out that it’s a totally different color for the. Different profile now it’s cumbersome what a disappointment.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-20T19:26:55-07:00",
+      "rating": 1,
+      "title": "Notifications are not working",
+      "text": "This update eliminated the alert notifications. I made sure everything is turned on re notifications. Phone sound is on. This is dangerous for my mom as I will not be alerted when her glucose goes low during the night for me to intervene for her.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-20T17:20:35-07:00",
+      "rating": 1,
+      "title": "Still losing connection after update",
+      "text": "I was really hoping that this new update brought more consistent service. The number of times I open this app just to see “no recent data” from my son is insane. So far I’ve even been unable to force the connection by dropping and re-adding myself from his phone. Wish this wasn’t a daily struggle.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-19T11:59:22-07:00",
+      "rating": 1,
+      "title": "Last Update Removed Feature to view historical data",
+      "text": "Last Update Removed Feature to view historical data like 30, 60 and 90 day pattern like to start using another product",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-19T07:15:32-07:00",
+      "rating": 1,
+      "title": "Useless software",
+      "text": "This shows your readings about 30% of the time. Very annoying to say the least. All of the things they tell you to check are fine and restarting does nothing. Why don’t you fix your software.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-18T09:34:05-07:00",
+      "rating": 2,
+      "title": "Update stinks",
+      "text": "I don’t like the update I like the old version where I could check previous readings easier. Put it back!",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-17T17:16:51-07:00",
+      "rating": 1,
+      "title": "Actualización",
+      "text": "Malísimas actualización ya no permite ver todo el rango del día, creo que en vez de limitar visibilidad deberían dar más rango de monitoreo",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-17T10:00:47-07:00",
+      "rating": 2,
+      "title": "Loss of features with new update",
+      "text": "The home screen is no longer an overview of all your connections, which was very helpful as I monitor and assist three people. In addition the notifications no longer allow you to set a time delay notification. I used this to allow my person to treat independently but then be notified if the low persisted, to be able to check in on them in case of difficulty.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-16T17:39:45-07:00",
+      "rating": 1,
+      "title": "app is almost unusable after last update",
+      "text": "clicking any menu or nav to alarms takes 50 presses now since last update. how is the app this slow its almost unusable when it takes 5 minutes to change an aaltm",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-16T15:54:42-07:00",
+      "rating": 1,
+      "title": "No longer alarms can be set in notifications tab at bottom",
+      "text": "After new update, the setting for low and high readings has disappeared. It only has one notification setting which is whenever the sensor is scanned!",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-16T12:34:03-07:00",
+      "rating": 3,
+      "title": "Surprised and unhappy!",
+      "text": "I was very surprised to get the new report format. The logo change was a shock. Almost didn't click on it. The message I receive in my email still had the old logo. It is coming from the UK. The thing I miss the most is the ability to slide across the readings chart and stop \n not just pause. When I remove my finger it clears. I am doing some time change math. The fact that the time disappears is a pain. The old adage applies: \"if not broke, don't fix it\".",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-16T11:07:19-07:00",
+      "rating": 1,
+      "title": "App update failed!",
+      "text": "The app was updated overnight  & I can no longer see numbers for my T1D! I have reinstalled app, logged in & still get error message to try again later! I phoned in yesterday and was told to give a few hours! It’s been 36 hours!!",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-15T15:12:58-07:00",
+      "rating": 2,
+      "title": "Not happy",
+      "text": "So there was an update to the app that just posted this past Tuesday and since then I cannot read my father’s glucose numbers. As of 10 mins ago I started getting alerts that his sugar is high but when I open the app I continuously receive an error telling me to try again later. I have logged out and back in as well as reinstalled the app and I disconnected my device from my dad’s app and re did the invite and NOTHING has worked to solve the problem. HELP!!!",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-15T09:26:34-07:00",
+      "rating": 1,
+      "title": "Worst upgrade ever!",
+      "text": "Yesterday I had an update to an app that I used multiple times a day to manage my spouse’s medication. \nIt has been impossible. I had to look at his phone to tell him what dosage of insulin to take because this app never worked. Re-install sent it into a continuous spin. \nI deleted it today!",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-10T06:53:12-07:00",
+      "rating": 5,
+      "title": "Please make Lock Screen Widget!",
+      "text": "The app works as titled & as expected. Thank you for developing this!  Could you please also make an iPhone lock screen widget so I can see quickly how my child's numbers are doing?",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-05-09T03:10:47-07:00",
+      "rating": 3,
+      "title": "This update..",
+      "text": "As it was updated, 'Background App Refresh' disappeared! When will you apply again?",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-04-27T13:53:40-07:00",
+      "rating": 1,
+      "title": "Recent update has killed everything",
+      "text": "Work absolutely perfect until this most recent update. Absolutely nothing works no connections work no data whatsoever. Completely useless now.",
+      "version": "5.0.0"
+    },
+    {
+      "date": "2026-04-25T16:30:27-07:00",
+      "rating": 1,
+      "title": "Error communicating with server",
+      "text": "I downloaded this app in order to be able to help my girlfriend monitor her dog’s glucose levels. The little guy recently was diagnosed with diabetes and we have to give him insulin twice a day. This app apparently is the only way to scan the libre when the primary phone isn’t available. Because you can’t scan the libre with a second device using the primary libre app. Anyway this app is terrible I am unable to log in due to “error communicating with server” I have been trying for hours. Every solution I have found doesn’t work. Toggling the WiFi, toggling airplane mode on and off, restarting the phone, force closing the app, deleting and reinstalling the app. The app is kind of useless if it doesn’t work properly.",
+      "version": "5.0.0"
+    }
+  ]
+}

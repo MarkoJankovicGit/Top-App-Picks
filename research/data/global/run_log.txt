@@ -1,0 +1,125 @@
+[23:01:56] [cn] China: 2 upita
+[23:02:05] [cn] gotovo: 304 aplikacija
+[23:02:05] SVE GOTOVO
+[23:02:09] [in] India: 60 upita
+[23:02:42] [in] 8/60 upita, 1235 aplikacija
+[23:03:09] [in] 16/60 upita, 2323 aplikacija
+[23:03:36] [in] 24/60 upita, 2787 aplikacija
+[23:04:06] [in] 32/60 upita, 3534 aplikacija
+[23:04:33] [in] 40/60 upita, 4027 aplikacija
+[23:05:01] [in] 48/60 upita, 4764 aplikacija
+[23:05:29] [in] 56/60 upita, 5724 aplikacija
+[23:05:42] [in] gotovo: 5725 aplikacija
+[23:05:42] [cn] China: 29 upita
+[23:06:10] [cn] 8/29 upita, 1363 aplikacija
+[23:06:14] Osnovni filter: 515 kandidata, 17 lidera (preko 150000 ocena)
+[23:06:16] US provera: 70 od 70 dostupno u SAD
+[23:06:16] Kvote: 14 kandidata za proveru developera
+[23:06:40] [cn] 16/29 upita, 2494 aplikacija
+[23:06:59] Gotovo: 11 kandidata, 1 paketa
+[23:07:06] [cn] 24/29 upita, 3275 aplikacija
+[23:07:18] Osnovni filter: 515 kandidata, 17 lidera (preko 150000 ocena)
+[23:07:25] [cn] gotovo: 3711 aplikacija
+[23:07:25] [ru] Russia: 26 upita
+[23:07:26] US provera: 296 od 300 dostupno u SAD
+[23:07:27] Neizvezeno (US ocene manje od lokalnih): 33 od 300
+[23:07:27] Kvote: 22 kandidata za proveru developera
+[23:07:50] [ru] 8/26 upita, 650 aplikacija
+[23:08:21] [ru] 16/26 upita, 1340 aplikacija
+[23:08:35] Gotovo: 19 kandidata, 1 paketa
+[23:08:47] [ru] 24/26 upita, 2108 aplikacija
+[23:08:52] [ru] gotovo: 2110 aplikacija
+[23:08:52] [kr] South Korea: 25 upita
+[23:09:22] [kr] 8/25 upita, 1169 aplikacija
+[23:09:54] [kr] 16/25 upita, 2274 aplikacija
+[23:10:22] [kr] 24/25 upita, 3244 aplikacija
+[23:10:23] [kr] gotovo: 3272 aplikacija
+[23:10:23] [jp] Japan: 24 upita
+[23:10:50] [jp] 8/24 upita, 1195 aplikacija
+[23:11:19] [jp] 16/24 upita, 2203 aplikacija
+[23:11:51] [jp] 24/24 upita, 3259 aplikacija
+[23:11:51] [jp] gotovo: 3259 aplikacija
+[23:11:51] [tr] Turkey: 22 upita
+[23:12:18] [tr] 8/22 upita, 933 aplikacija
+[23:12:50] [tr] 16/22 upita, 1844 aplikacija
+[23:13:08] [tr] gotovo: 2287 aplikacija
+[23:13:08] [sa] Saudi Arabia: 24 upita
+[23:13:41] [sa] 8/24 upita, 1245 aplikacija
+[23:14:09] [sa] 16/24 upita, 2039 aplikacija
+[23:14:44] [sa] 24/24 upita, 3020 aplikacija
+[23:14:44] [sa] gotovo: 3020 aplikacija
+[23:14:44] [eg] Egypt: 24 upita
+[23:15:14] [eg] 8/24 upita, 1226 aplikacija
+[23:15:44] [eg] 16/24 upita, 2021 aplikacija
+[23:16:19] [eg] 24/24 upita, 2991 aplikacija
+[23:16:19] [eg] gotovo: 2991 aplikacija
+[23:16:19] [ae] United Arab Emirates: 45 upita
+[23:16:51] [ae] 8/45 upita, 1196 aplikacija
+[23:17:21] [ae] 16/45 upita, 2174 aplikacija
+[23:17:49] [ae] 24/45 upita, 2806 aplikacija
+[23:18:22] [ae] 32/45 upita, 3934 aplikacija
+[23:18:50] [ae] 40/45 upita, 4594 aplikacija
+[23:19:08] [ae] gotovo: 5149 aplikacija
+[23:19:08] [br] Brazil: 24 upita
+[23:19:40] [br] 8/24 upita, 1140 aplikacija
+[23:20:08] [br] 16/24 upita, 2308 aplikacija
+[23:20:38] [br] 24/24 upita, 3112 aplikacija
+[23:20:38] [br] gotovo: 3112 aplikacija
+[23:20:38] [mx] Mexico: 19 upita
+[23:21:14] [mx] 8/19 upita, 1325 aplikacija
+[23:21:43] [mx] 16/19 upita, 2377 aplikacija
+[23:21:53] [mx] gotovo: 2699 aplikacija
+[23:21:53] [id] Indonesia: 19 upita
+[23:22:25] [id] 8/19 upita, 1203 aplikacija
+[23:22:59] [id] 16/19 upita, 2442 aplikacija
+[23:23:06] [id] gotovo: 2478 aplikacija
+[23:23:06] [vn] Vietnam: 18 upita
+[23:23:38] [vn] 8/18 upita, 1199 aplikacija
+[23:24:10] [vn] 16/18 upita, 2368 aplikacija
+[23:24:17] [vn] gotovo: 2591 aplikacija
+[23:24:17] [th] Thailand: 10 upita
+[23:24:50] [th] 8/10 upita, 1195 aplikacija
+[23:24:54] [th] gotovo: 1540 aplikacija
+[23:24:54] [pl] Poland: 15 upita
+[23:25:24] [pl] 8/15 upita, 1003 aplikacija
+[23:25:51] [pl] gotovo: 1843 aplikacija
+[23:25:51] [ua] Ukraine: 13 upita
+[23:26:24] [ua] 8/13 upita, 1136 aplikacija
+[23:26:43] [ua] gotovo: 1921 aplikacija
+[23:26:43] [il] Israel: 10 upita
+[23:27:11] [il] 8/10 upita, 898 aplikacija
+[23:27:18] [il] gotovo: 1088 aplikacija
+[23:27:18] [ph] Philippines: 24 upita
+[23:27:52] [ph] 8/24 upita, 1207 aplikacija
+[23:28:17] [ph] 16/24 upita, 1891 aplikacija
+[23:28:45] [ph] 24/24 upita, 2632 aplikacija
+[23:28:45] [ph] gotovo: 2632 aplikacija
+[23:28:45] [ng] Nigeria: 24 upita
+[23:29:19] [ng] 8/24 upita, 1190 aplikacija
+[23:29:44] [ng] 16/24 upita, 1869 aplikacija
+[23:30:12] [ng] 24/24 upita, 2621 aplikacija
+[23:30:12] [ng] gotovo: 2621 aplikacija
+[23:30:12] [za] South Africa: 24 upita
+[23:30:44] [za] 8/24 upita, 1157 aplikacija
+[23:31:13] [za] 16/24 upita, 2277 aplikacija
+[23:31:43] [za] 24/24 upita, 3398 aplikacija
+[23:31:43] [za] gotovo: 3398 aplikacija
+[23:31:43] [pk] Pakistan: 24 upita
+[23:32:15] [pk] 8/24 upita, 1190 aplikacija
+[23:32:39] [pk] 16/24 upita, 1848 aplikacija
+[23:33:08] [pk] 24/24 upita, 2562 aplikacija
+[23:33:08] [pk] gotovo: 2562 aplikacija
+[23:33:08] SVE GOTOVO
+[23:33:12] Osnovni filter: 8647 kandidata, 308 lidera (preko 150000 ocena)
+[23:36:15] US provera: 2671 od 5726 dostupno u SAD
+[23:36:15] Neizvezeno (US ocene manje od lokalnih): 1646 od 5726
+[23:36:15] Kvote: 359 kandidata za proveru developera
+[23:38:23] developer 40/359
+[23:40:31] developer 80/359
+[23:42:39] developer 120/359
+[23:44:47] developer 160/359
+[23:46:55] developer 200/359
+[23:49:03] developer 240/359
+[23:51:11] developer 280/359
+[23:53:19] developer 320/359
+[23:55:24] Gotovo: 319 kandidata, 16 paketa

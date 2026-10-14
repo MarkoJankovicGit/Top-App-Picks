@@ -1,0 +1,357 @@
+{
+  "app": "SunnyFit - For Home Fitness",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T09:00:49-07:00",
+      "rating": 5,
+      "title": "very good",
+      "text": "Thank you",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-07T10:26:28-07:00",
+      "rating": 5,
+      "title": "Dope",
+      "text": "Helping me recover from a semi paralysis. Lots of options for workouts and interesting ways of motivating you to do them.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-07T03:34:17-07:00",
+      "rating": 5,
+      "title": "Great Bike",
+      "text": "I was looking for a sturdy indoor bike.  I found it.  I love the app that comes with it.   The classes are well described and great for keeping accountable.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-06T19:44:05-07:00",
+      "rating": 2,
+      "title": "App crash! Lost all my progress!",
+      "text": "Lost all progress for the last year due to the app crash! Disheartening",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-05T17:57:57-07:00",
+      "rating": 4,
+      "title": "Network error",
+      "text": "For a week now I try to choose a program and it says network error and won’t load or proceed.  It isn’t a network error on my side.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-05T16:43:55-07:00",
+      "rating": 4,
+      "title": "Network error?",
+      "text": "It first started with no challenge for October and then keep network error when opening the app. Now re-installed can’t help as well, I can’t even login to the app. Hope it gets fixed ASAP",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-04T18:56:42-07:00",
+      "rating": 1,
+      "title": "“Network error” message",
+      "text": "I couldn't get a “network error” message when I logged in or tried to connect to my elliptical.\n\nI couldn't set up the elliptical or connect it. I deleted the app and restarted it, but I got the “network error” message again.\n\nI then updated my phone and, once again, reset it, deleted the app, restarted my phone, and reinstalled it, but I still got the same “network error” message.\n\nI then restarted my router and did the same delete-and-restart steps, but I got the same message. I normally log in with Apple account, so I tried to log in with my Google and Facebook accounts showed the same message. I’ve noticed that other users are commenting about this. I want to know why it still isn't fixed.\n\nIt last worked on October 2rd.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-04T16:51:15-07:00",
+      "rating": 1,
+      "title": "Offline Mode Needed",
+      "text": "There needs to be an offline mode for when there’s a network issue. I should be able to connect to my treadmill via Bluetooth and have the data sync to Apple Health without having to be connected to internet.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-04T15:13:58-07:00",
+      "rating": 1,
+      "title": "app no longer working",
+      "text": "The app shows ‘network error’ on every option—cannot perform a connected workout.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-10-04T15:09:39-07:00",
+      "rating": 1,
+      "title": "Network error",
+      "text": "Network errors constantly",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-29T14:22:28-07:00",
+      "rating": 1,
+      "title": "World Tour feature missing",
+      "text": "As soon as I updated to 26.7 (now I am 26.7.1) the world tour has been missing. Some of my favorite section included them and they fail to load too. Used the contact us section been like a week no respond has said 2 business days to get back to me. Love the equipment and the app but I will give it 5 stars if they fix this.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-25T17:05:33-07:00",
+      "rating": 1,
+      "title": "Persistent network issues",
+      "text": "This app has been having network issues for weeks now. More recently, it also started having problems consistently syncing workout data to Apple health.  I contacted Support and they acknowledge that they are aware of both issues and told me to check back in a few weeks.\nSyncing my activity data to Apple health is one of the primary reasons I use this app. I use it to track my elliptical workouts, including time, effort in calories, and rely on that information being transferred to Apple health along with the rest of my activity data. When that feature doesn’t work reliably, the app is basically worthless to me.\nI understand that technical problems happen, but having known network and Apple health syncing problems persist for weeks and being told to simply check back in a few more weeks is extremely frustrating. I really like my equipment, but the app needs to reliably perform its basic functions.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-23T09:10:41-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Love the instructional videos and the app layout",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-20T16:25:30-07:00",
+      "rating": 1,
+      "title": "World Tour Not Working",
+      "text": "World Tour feature does not work. Every time I navigate to it, I receive a server exception.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-19T12:26:57-07:00",
+      "rating": 1,
+      "title": "Doesn’t show you how to use equipment",
+      "text": "The app is confusing and doesn’t teach you how to get started using the rowing machine or how to make sure you’re using proper form.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-14T08:31:32-07:00",
+      "rating": 5,
+      "title": "Loving my bike",
+      "text": "Good works",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-11T14:45:29-07:00",
+      "rating": 2,
+      "title": "Frustrating",
+      "text": "Can’t stream video, music way too loud, doesn’t adjust with the airplay bar. Session will crash mid workout",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-07T09:30:55-07:00",
+      "rating": 3,
+      "title": "Limiting",
+      "text": "If you can’t sync up with equipment you should give a manual option to log workouts with said equipment. For instance, my treadmill doesn’t sync up, so instead of offering the option to manually log a treadmill workout I just can’t use any courses for treadmills. How dumb is that??",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-06T06:05:11-07:00",
+      "rating": 5,
+      "title": "EXCELLENT",
+      "text": "Does exactly what I need at 84 years old.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-04T12:39:26-07:00",
+      "rating": 5,
+      "title": "The best home fitness app around",
+      "text": "I cannot say enough positive things about the SunnyFit app. It is FULL of workouts, from absolute beginner to advanced and everything in between. You can search by equipment type, no equipment, length of workout, preferred trainer. The trainers are so pleasant and explain the moves and exercises and they do the workouts with you. If I could rate it higher than 5 stars I would.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-09-02T14:25:21-07:00",
+      "rating": 4,
+      "title": "Almost There But Can’t Stop",
+      "text": "I appreciate that the app exists, is free, and functions well. I help tracking progress on my fitness journey but the app pushes social features instead. I understand that social is easier to do and sells more equipment but I’d much rather get a VO2 Max calculation in the app. Even estimating effort for a workout when connected to Apple Watch would be welcome. Despite being connected to the equipment, the app is a mix of trade-offs compared to using basic Apple Fitness features. Press and hold to stop a workout never seems to work on first try. App reported workout durations display as hours and minutes in Fitness app despite never exceeding an hour. Fitness app displays minutes and seconds when not using app, which fits the data better. Overall, the app helps but has some friction points and missed opportunities if tracking progress is more important than social features.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-30T20:00:35-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Variety, training, support, products, AMAZING!!!",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-29T15:43:31-07:00",
+      "rating": 5,
+      "title": "Love Row-N-Ride!",
+      "text": "Love Row-N-Ride!",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-25T15:08:49-07:00",
+      "rating": 5,
+      "title": "Fun with LOTS of variety",
+      "text": "I bought a basic sunny rower & love that I can take a rowing class or row a scenic course (even with water sounds), but also have done some mat work classes & will also (eventually) try the biking classes & courses. Even has an AI trainer - for a free ap!? Really recommend it : )",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-25T06:17:12-07:00",
+      "rating": 5,
+      "title": "Great for everyone",
+      "text": "I’m glad I started using this Sunny Fit app it’s definitely a game changer.",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-22T10:28:16-07:00",
+      "rating": 5,
+      "title": "Great Fitness App",
+      "text": "There are tons of workouts, challenges, and other features with excellent trainers and a great community. It easily syncs with your phone Health and Fitness apps. Easy to track your progress and share updates. Highly recommended!",
+      "version": "2.19.2"
+    },
+    {
+      "date": "2026-08-19T13:22:07-07:00",
+      "rating": 5,
+      "title": "Addicted!",
+      "text": "I have the SunnyFit Mini Bike and Mini Stepper. So far they are both comfortable and completely addictive. All outdoor and stationary bikes hurt my back. But this mini bike is awesome. I never feel any pain because I can sit on my sofa. I get my 30 minutes in, easily, without even realizing the time has gone by. That’s a huge deal for me. The mini stepper is newer. So I have to give it more time. Both pieces of equipment seem quite well built. I do actually love the free SunnyFit app for my iPhone and Apple Watch. Both devices automatically connect. The courses and workouts are fun and easy to do. I’ve never liked home gym equipment this much. I have an under desk treadmill by another brand. But I can use it with the SunnyFit videos on their YouTube channel as well. I have a fairly small bungalow style home. So these workout devices are a perfect fit. 🥰",
+      "version": "2.19.1"
+    },
+    {
+      "date": "2026-08-18T16:14:02-07:00",
+      "rating": 5,
+      "title": "Audio",
+      "text": "UPDATE: I did not realize that some of the world tours deliberately don’t have sound so one can listen to their own music. Maybe for the next update some sort of little symbol can be added visually to each description to show whether or not it has a natural environmental sound or no sound at all. It would save time briefly starting each trail, trying to find those trails with the natural sound or no sound. Just a thought.\n\nI recently started using this app when I got my recumbent exercise bike. The only problem I have with it is when it comes to the world tours, a lot of them don’t have sound. I wish all of the world tours had sound. Maybe the next update you can fix that.",
+      "version": "2.19.1"
+    },
+    {
+      "date": "2026-08-12T20:47:48-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "Super nice app with a lot of courses, and filly integrated into Sunny treadmill",
+      "version": "2.19.1"
+    },
+    {
+      "date": "2026-08-06T08:37:43-07:00",
+      "rating": 5,
+      "title": "Great equipment",
+      "text": "Love this exercise bike. If you’re looking for a bike without a forced subscription, this is what you’re looking for.",
+      "version": "2.19.0"
+    },
+    {
+      "date": "2026-08-05T17:56:05-07:00",
+      "rating": 5,
+      "title": "2.19 update issue",
+      "text": "I’ve used this app for well over a year without any issues, it’s been a solid app. With the latest update rollout when I launch a work out, the workout opens and then closes out the whole app. Doesn’t matter what workout it is, opens and then closes out the whole app. Makes this unusable until this is patched.\n**patch has fixed the issues so I’ll fix my rating of this app. It’s a great app to use for workouts.",
+      "version": "2.19.1"
+    },
+    {
+      "date": "2026-08-03T17:47:46-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "So fat I like it. Simple",
+      "version": "2.19.0"
+    },
+    {
+      "date": "2026-08-02T16:20:11-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Definitely would buy again! Love the treadmill, the workout , the design just everything!",
+      "version": "2.19.0"
+    },
+    {
+      "date": "2026-08-01T06:56:48-07:00",
+      "rating": 2,
+      "title": "Cannot get past pop up",
+      "text": "Accessed app on my iPad, signed in and app started like normal.   When I clicked the Workout option at bottom, I get a pop up saying that App Update Available V2.17.0 and to install.   I have V2.19.0 installed.  I deleted the app from iPad and reinstalled from App Store.  Still getting same pop up and no way to bypass.  Gave it two stars since I can still access on iPhone.",
+      "version": "2.16.1"
+    },
+    {
+      "date": "2026-07-30T16:48:57-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I love this free app",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-07-29T14:23:21-07:00",
+      "rating": 3,
+      "title": "Great app but…",
+      "text": "I really like this app and was surprised by how useful it is, but I have a treadmill specifically for walking at my desk and find it so frustrating that I can’t record an indoor walk using my treadmill! There’s only the option for an indoor run. Please please add this as a feature and then it would easily be 5 stars but right now every time I walk on it, it ruins my average run metrics (I run and walk and like to keep track of pace for running). Please add this feature so I can do an open indoor walk using my treadmill!!",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-07-15T03:52:50-07:00",
+      "rating": 5,
+      "title": "Fun workout app",
+      "text": "Loving this! A lot of workout options. App easy to navigate. It’s free. Gets me moving and it’s fun.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-07-13T13:51:22-07:00",
+      "rating": 1,
+      "title": "App wouldn’t let me set a nickname",
+      "text": "Gave up and deleted the app",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-07-12T18:17:01-07:00",
+      "rating": 1,
+      "title": "No sound on World Tour workouts",
+      "text": "No sound on World Tour workouts whether on Apple TV or iPhone 17 Pro Max.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-07-02T07:50:03-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice exercising!",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-28T13:51:26-07:00",
+      "rating": 5,
+      "title": "Puts together well, works well",
+      "text": "Second day using it; no complaints. My wife and I put it together in an afternoon; the instructions were good and it was made to put together easily.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-24T18:08:28-07:00",
+      "rating": 5,
+      "title": "Great options",
+      "text": "I enjoy picking out of so many workouts. There’s always something I improve on.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-21T19:35:24-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Great app experience makes the cycling workouts run smoothly.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-20T17:55:34-07:00",
+      "rating": 5,
+      "title": "Great home equipment",
+      "text": "Love the quality and storage capabilities",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-13T08:53:45-07:00",
+      "rating": 5,
+      "title": "Awesome Elliptical & App",
+      "text": "One of the best equipment I’ve ever used.  The App is easy and Bluetooth connection to the equipment is seamless.   This was a great buy for 600 and some change.  Prior Military Service, I’m impressed!",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-13T07:12:36-07:00",
+      "rating": 5,
+      "title": "Excellent Ride n Sit Beginner Exercise! Thank U Brittany Geearll",
+      "text": "Great instructor!",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-12T22:20:29-07:00",
+      "rating": 5,
+      "title": "Best App Experience!",
+      "text": "Not only are their bikes affordable and durable, but there appears to be makes the whole experience. Definitely recommend.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-11T23:55:50-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "So far the app is great value, and I love how I don’t think I have to pay for anything extra since I already paid for the treadpad. I love the interface and the graphics. It is seriously pretty dope the images and visuals are all pretty cool and I love that I can control the tread pad from my phone as well. This is well worth it.",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-11T17:35:17-07:00",
+      "rating": 5,
+      "title": "Trabajo",
+      "text": "Nice work out",
+      "version": "2.18.0"
+    },
+    {
+      "date": "2026-06-04T21:39:06-07:00",
+      "rating": 5,
+      "title": "Basic row video",
+      "text": "Good review of basic technique",
+      "version": "2.18.0"
+    }
+  ]
+}

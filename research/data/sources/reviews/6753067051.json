@@ -1,0 +1,357 @@
+{
+  "app": "Learn Python・Coding－AI Compile",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-05T09:43:11-07:00",
+      "rating": 3,
+      "title": "I payed and let me tell you it’s great But..",
+      "text": "Learning here is great I think there’s a lot of bugs and can’t report them. The style is amazing but sometimes you have a question to something you haven’t learned yet. For now coddy is better but I would love for them to fix this it has so much potential and wanted to continue learning here. The price might be crazy compared to other systems but it’s good I would recommend it if you want to refresh on you knowledge but not to learn and that’s what I tried to do here.",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-09-26T10:52:01-07:00",
+      "rating": 1,
+      "title": "App good fake free trial",
+      "text": "then 4 charges to my card when I cancelled my subscription at day 5  of 7. Then refuses to return 41.98 of 4 weekly charges when only had app 5 days",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-09-12T15:26:47-07:00",
+      "rating": 1,
+      "title": "Barely functional",
+      "text": "For an app that’s meant to teach coding, it sure does have terribly buggy code. Most of the time I load it up it tries to force me to sign up for a plan, even though I’ve already paid for the full year. I have to actually turn my phone off and on to get the app to work, and this has happened 3 times in the 2 days I’ve had it. For learning python it has you enter and run a function but then it just tells you if it was right or wrong, doesn’t actually show the output. And when scoring, it can’t differentiate the count right and count wrong - so if there are two questions and I get 1 correct and 1 incorrect, it shows 2 and 2. If there are 3 questions and I get 2 right and 1 wrong, it shows 3 and 3. \n\nAbsolutely terrible. Feels like vibe coded slop.",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-09-05T12:38:23-07:00",
+      "rating": 5,
+      "title": "N",
+      "text": "Definitely worth the purchase",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-08-30T20:44:18-07:00",
+      "rating": 3,
+      "title": "Unsolvable exercise",
+      "text": "On lesson 28 if username == admin and password == 1234\n\nThere is not a blank space to put the second (==) before the 1234 or the password",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-08-29T11:48:54-07:00",
+      "rating": 1,
+      "title": "Looked promising",
+      "text": "Does not acknowledge completion of module. I have to repeat lesson multiple times before it registers I have successfully completed the lesson. Not worth the $$$",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-07-31T18:35:02-07:00",
+      "rating": 1,
+      "title": "Bad experience",
+      "text": "I keep getting i18n text instead of actual text",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-07-24T06:30:27-07:00",
+      "rating": 1,
+      "title": "Unable to subscribe",
+      "text": "I tried to subscribe, and the system deducted the balance from my account. However, my account is still showing the free version instead of upgrading to the paid service. I tried logging out and back in, but it did not help. Please look into this billing error and fix my account status as soon as possible. Thank you.",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-07-23T19:46:17-07:00",
+      "rating": 1,
+      "title": "Disappointed",
+      "text": "Wanted to pickup learning python again and ran into a paywall less than 10 minutes in, despite signing up for the free trial. \n\nI couldn't even gauge whether I wanted to pay for this or not. Do not waste your money. Plenty of other apps or online resources you can buy.",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-07-18T15:49:45-07:00",
+      "rating": 1,
+      "title": "Subscription only",
+      "text": "You should have an option to watch ads for tokens I’m not paying your subscription",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2026-06-05T04:33:23-07:00",
+      "rating": 1,
+      "title": "Video",
+      "text": "I have paid to a month until July 1st and I have not been able to access the app with my monthly subscription for about a week.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-06-03T01:02:43-07:00",
+      "rating": 2,
+      "title": "Not Really Free",
+      "text": "I know you guys wanna make money and all, but there is no way to get credits besides paying, it’s like a worse version of a free trial and I haven’t even passed 4 lessons, just now logging on after like 2-3 weeks and nothing. The least you could do is give some credits Bi-Weekly so some people can get a more feel for wanting to buy after more lessons instead of a few of the most basic lines in Python coding, like “print (“”)” or “print ('')”. If you do add Bi-Weekly credits it would be way better, and there are other alternatives like Mimo which I think is almost the same, but back to the main point, there should be Bi-Weekly credits for people with a free plan since the X button when the subscription prompt pops up is basically just saying “You don’t have to pay but you can’t do any lessons besides viewing them”, so it becomes useless. Please add a guaranteed way for people who want a more feel for programming credits for free, you don’t have to give them like a lot, just enough for a few lessons a week or a week and a half.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-31T10:11:35-07:00",
+      "rating": 1,
+      "title": "Paywalled.",
+      "text": "You can do about one unit, which is just the print function, before being forced to pay to continue. Also, it teaches you about the “definition” and “origin” of Python instead of actual coding for about 25% of the lessons. Seemed useful and easy to grasp for the one concept it did let me learn, but other than that they just copied duolingo, pumped it full of ads and AI slop, replaced your brainpower with AI (which makes no sense if you’re trying to learn) and paywalled it. Absolute garbage, would not recommend.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-29T08:01:16-07:00",
+      "rating": 4,
+      "title": "You cant create an account",
+      "text": "When u say login and press click here it doesn’t do anything",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-27T16:52:34-07:00",
+      "rating": 2,
+      "title": "Basically just a demo",
+      "text": "You can progress a tiny ways through the learning path, but almost immediately hit a paywall to continue.\nYou can learn the print function and that’s about as far as you get and even then it’s by closing multiple subscription popups. Only reason that it gets more than one star is that the UI is okay and the learning path was alright to follow. But this really is more of a paid app with a very very lite demo.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-25T21:13:44-07:00",
+      "rating": 1,
+      "title": "Three day trail< thirty minutes trial period",
+      "text": "You would use energy to run your code to see if you are right during the lesson. You only get 3-5 tries to get it right and without any knowledge or prior experience going into it, it’s going to take me a while to get it right, but after learning that you can’t try after that 3-5 tries you no longer have any energy left for any other lesson which is ridiculous. \n\nI stagnated, see the problem, want to fix the problem, but no you have no more lives and they will never refresh for you until you pay for premium which is frankly BS.  Just a worse version of Duolingo but for coding",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-25T14:32:39-07:00",
+      "rating": 3,
+      "title": "Needs more work",
+      "text": "This is a great app and can do some really great work with teaching python but I get on the app within seconds I’m getting a subscription notice with 3 day free trial and I have barely seen anything that would entice me to keep moving up in the app like I can do print functions but I need to pay money for the rest. As far as I know I don’t see apps that work like Duolingo for Python learning. It’s a genius concept but way too many attempts at making me get a subscription. It makes me think this app is as low quality as any other app that you use for a day and then forget about.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-24T18:09:14-07:00",
+      "rating": 1,
+      "title": "Do not use",
+      "text": "When you first get the app it gets to force you to get premium and after some time you have to wait to keep going.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-22T03:03:37-07:00",
+      "rating": 2,
+      "title": "I paid for the app",
+      "text": "I paid for the app in the Apple App Store and it’s not showing I have a premium membership in fact it’s not showing me I have anything. It just says pro. Can you fix this",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-21T18:18:57-07:00",
+      "rating": 1,
+      "title": "Pay to run code",
+      "text": "Why do you gonna pay just to continue running codes? This is so stupid.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-18T08:24:56-07:00",
+      "rating": 1,
+      "title": "Deleted it",
+      "text": "I paid for a one year subscription on April 7, 2026. I used it for 2-3 weeks, then took a couple of weeks break from it. Today, May 18th, 2026 I opened the app to continue studying, but wasn’t allowed to continue unless I paid for a subscription, so I just deleted it. It’s a nice enough app, but I am not a fool to pay again when they owe me over 10 months of study time.",
+      "version": "2.1.2"
+    },
+    {
+      "date": "2026-05-15T22:01:18-07:00",
+      "rating": 2,
+      "title": "Alright",
+      "text": "The app has some bugs, my text lessons are not showing as completed even after passing with a 100% score.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-15T13:55:37-07:00",
+      "rating": 1,
+      "title": "App is a subscription scam",
+      "text": "The app won’t let me past unit 2 even though I am signed up for the annual $69.99 premium subscription… it’s a shame because the lessons seemed pretty good.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-14T17:09:10-07:00",
+      "rating": 1,
+      "title": "Accessibility work",
+      "text": "Learning how the program interacts with the voiceover component is important and perhaps looking into how it behaves there because it doesn’t quite yet",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-14T06:26:58-07:00",
+      "rating": 1,
+      "title": "Useless After Python Unit 2",
+      "text": "Can’t login because I don’t have an account. Can’t create an account because the button doesn’t work. Can’t progress past Unit 2. But, I can pay $9.99 a week! That works fine! I paid $29.99 for the Yearly Premium Offer (Annual) and it doesn’t work.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-13T23:03:04-07:00",
+      "rating": 1,
+      "title": "Why.",
+      "text": "I have to do premium just to do most of the lessons.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-13T19:52:48-07:00",
+      "rating": 5,
+      "title": "Code",
+      "text": "Idk it asked me to make a review and I did.  Also it’s pretty good",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-13T04:14:05-07:00",
+      "rating": 5,
+      "title": "Not reachable X button",
+      "text": "When I finish doing the set up and it takes me to the subscription thing I see no X until I click on yearly subscriptions and then when the e x appears it is off screen so I can’t tap it. (Although it might be because I’m on a phone with a small screen)",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-13T00:21:17-07:00",
+      "rating": 1,
+      "title": "I cant even read the first lessons.",
+      "text": "The first lessons on the screen are partially cropped. I cant read them entirely and have to guess. Like have the font conform to the screen. You expect me to believe you can teach me code when your app immediately doesnt work as intended?\n\nGood thing I can immediately cancel the subscription it demands you sign up for upon opening the app.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-12T12:51:53-07:00",
+      "rating": 3,
+      "title": "Are there more free credits?",
+      "text": "I’ve done about 5 basic 2-3 question lessons and it won’t let me proceed anymore unless I pay. But I notice it says 0 AI credits left. Will I get more credits free or is that it? I’m gonna be honest, it’s not worth paying when all this info is on YouTube for free..",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-12T12:09:13-07:00",
+      "rating": 1,
+      "title": "Terrible app",
+      "text": "Terrible app makes you have to pay I hate this app even some random kid would do better if I could I would do negative 5000 stars I thought it was good due to the add but I HATE this app 1 star",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-11T16:29:23-07:00",
+      "rating": 1,
+      "title": "Poorly made and Rushed",
+      "text": "This app is horrible for learning python. The very first thing you see when you open the app and complete the questions is a ad for premium. You are then answering the first questions of multiple choice of what is true/false in python etc. but they teach you a word without the definition, which is pointless. After you complete that you are then pressured to buy premium like every other time you complete a lesson. This is just poorly made doulingo that pushes using ai instead of your brain with its “premium features”. There are also minimal sound effects and glitchy questions that half the time don’t work. I hope you find this helpful to whom ever considers downloading this app.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-11T09:27:38-07:00",
+      "rating": 5,
+      "title": "I pay and now I can’t do anything",
+      "text": "I pay and it keeps asking for pay, but I already pay the membership",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-11T04:30:47-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Fun and easy to learn python with this app!!!",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-10T07:43:44-07:00",
+      "rating": 1,
+      "title": "Just don’t get it get something else",
+      "text": "Trash like all the other games makes you pay for a subscription to actually learn more than a few lessons",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-09T10:04:53-07:00",
+      "rating": 1,
+      "title": "Subscription Issues",
+      "text": "Paid for a yearly premium membership, then I can’t even log in to use anything. It says I’m on Freemium which is free, so what did I pay for? And yes I tried to log into my account with my email I used with the purchase or was my purchase for the “freemium”.",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-07T05:59:01-07:00",
+      "rating": 1,
+      "title": "Paid cant find account",
+      "text": "Paid the yearly fee they offered a lower price after declining trying to actually use it. Won’t let me log in no forgot password no customer service link on app, won’t let me try and create an account",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-06T07:47:44-07:00",
+      "rating": 1,
+      "title": "Terrible",
+      "text": "After every question it ask for a 3 days trail. Most stupid thing ever and is so buggy",
+      "version": "2.1.1"
+    },
+    {
+      "date": "2026-05-02T11:53:47-07:00",
+      "rating": 5,
+      "title": "Easy!",
+      "text": "Very easy and friendly to learn!",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-05-01T20:52:32-07:00",
+      "rating": 1,
+      "title": "Not a free trial",
+      "text": "Don’t believe it’s a free trial. It said free but as soon as I double clicked my Apple Pay they took $24 from my card",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-04-21T18:18:25-07:00",
+      "rating": 1,
+      "title": "Refund",
+      "text": "I want a refund",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-04-19T08:58:41-07:00",
+      "rating": 1,
+      "title": "A lot of the questions provide incorrect results",
+      "text": "Tried it on the free trial and the quizzes are clearly AI-generated with no overview, as they ask questions where all answers are correct. Even if I submitted empty code boxes, it would say I was correct. Horrible app and I really needed this to work.",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-04-09T11:29:32-07:00",
+      "rating": 1,
+      "title": "It’s a scam!",
+      "text": "This app is misleading customers to make purchases be aware! They offer 3 days free but when you click to make a $0.00 payment they charge you $9 dollars! Where I came from, this is called fraud and scam!",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-04-07T20:08:12-07:00",
+      "rating": 2,
+      "title": "It’s an app that teaches coding…",
+      "text": "However, the formatting is terrible. There are entire parts of questions cut off, so answering correctly becomes tediously hard.",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-03-29T13:50:26-07:00",
+      "rating": 1,
+      "title": "Garbage",
+      "text": "They make it impossible to cancel subscription",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-03-26T07:17:17-07:00",
+      "rating": 5,
+      "title": "Great Learn Portal",
+      "text": "We enjoy learning at my house, and your app has amplified fun 10 fold",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-03-25T05:38:34-07:00",
+      "rating": 2,
+      "title": "Poorly Written Curriculum",
+      "text": "The app ui is pretty welcoming and engaging, but thats where the puck stops for me. The beginner course curriculum is not written for someone coming in with zero experience. Much of the introductory concepts have no clear explanation. For example, one of the chapters introduces integers and decimals. It mentions that there is the existence of “floats” and the very next page has me identifying what an integer is and a float. You havent even taught me what a float is yet. I would rather not have to trial and error on the introductory concepts to learn what they mean. Otherwise there isnt much point in paying for a course. The price isnt ridiculous considering you are paying $70 annual for a developed course, but I would expect a little more thought than assumption when introducing new concepts to beginners, especially when all of the marketing is targeting that user group.",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-03-03T14:19:41-07:00",
+      "rating": 1,
+      "title": "Annoying",
+      "text": "Like the questions don’t fit the screen, questions don’t make sense, and much more not tried it for a day or two and am deleting it.  Absolute rubbish.",
+      "version": "2.0.0"
+    },
+    {
+      "date": "2026-02-15T17:10:59-07:00",
+      "rating": 3,
+      "title": "Not bad but has errors",
+      "text": "App is not bad aside from scammy subscription. However has many errors",
+      "version": "1.6.0"
+    },
+    {
+      "date": "2026-02-14T10:48:19-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Love it",
+      "version": "1.6.0"
+    }
+  ]
+}

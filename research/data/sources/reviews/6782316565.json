@@ -1,0 +1,707 @@
+{
+  "app": "Pushup RPG: Fitness Quest",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-04T05:53:13-07:00",
+      "rating": 5,
+      "title": "Very motivational",
+      "text": "Excellent game",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-10-03T10:54:59-07:00",
+      "rating": 5,
+      "title": "Helps",
+      "text": "Fun",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-10-02T19:55:13-07:00",
+      "rating": 5,
+      "title": "Me gustó",
+      "text": "Es buena y te motiva a hacer ejercicio",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-09-30T15:53:17-07:00",
+      "rating": 5,
+      "title": "BEST APP",
+      "text": "OMG IT IS SO GOOD",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-09-30T15:20:39-07:00",
+      "rating": 4,
+      "title": "Great app",
+      "text": "I do wish for the option to rotate the camera tho cuz I kinda got a small room, either that or a zoom out feature because it is really zoomed in. I love it tho.",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-09-30T04:30:12-07:00",
+      "rating": 4,
+      "title": "Great game",
+      "text": "This game is very fun .",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-09-29T21:35:56-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Buena aplicación",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2026-09-28T18:59:14-07:00",
+      "rating": 5,
+      "title": "5STARS TOGET UR ATTENTION WIPED MY SAVE",
+      "text": "I was loving this app I even brought a memebership but they just wiped my whole account for no reason and took away my membership scammers make this right or a lawsuits coming",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-27T16:57:42-07:00",
+      "rating": 5,
+      "title": "Una obra maestra",
+      "text": "Le doy 10 de 10 es muy bueno práctico y te ayuda para mejorar todos los días",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-27T16:36:12-07:00",
+      "rating": 5,
+      "title": "A",
+      "text": "Está chido pa aser ejercicios",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-27T09:08:55-07:00",
+      "rating": 5,
+      "title": "Está bueno",
+      "text": "Bueno",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-26T18:57:20-07:00",
+      "rating": 5,
+      "title": "Great app just needs a tiny bit of polishing",
+      "text": "I Love the app just sometimes when i’m getting prepped it will count the movement as a rep",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-26T16:07:53-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "You don’t even need to pay anything like any other fitness apps",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-26T15:27:01-07:00",
+      "rating": 4,
+      "title": "motivational",
+      "text": "way more motivation to do the pushups",
+      "version": "2.5.8"
+    },
+    {
+      "date": "2026-09-24T15:06:24-07:00",
+      "rating": 1,
+      "title": "Worst calibration ever",
+      "text": "Can’t even see me on the camera and me kneeling counted the push ups",
+      "version": "2.5.7"
+    },
+    {
+      "date": "2026-09-20T21:27:03-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Amazing",
+      "version": "2.5.6"
+    },
+    {
+      "date": "2026-09-20T08:23:16-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "So fun and can do squats with it.",
+      "version": "2.5.6"
+    },
+    {
+      "date": "2026-09-19T20:47:17-07:00",
+      "rating": 5,
+      "title": "W Game, BUT",
+      "text": "My dopamine was crashing and my cortisol was spiking until I found this game on TikTok. I tried it out and it was very fun would recommend. But to the developers, please make it easier to get gold and do at higher levels because it’s very hard to progress the descent once you get past lvl 90.",
+      "version": "2.5.6"
+    },
+    {
+      "date": "2026-09-16T20:20:54-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "2.5.5"
+    },
+    {
+      "date": "2026-09-09T14:52:16-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Love it",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2026-09-08T18:15:58-07:00",
+      "rating": 5,
+      "title": "I love it",
+      "text": "I was look for so long and I finally found the one it is free and super fun",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2026-09-07T13:10:02-07:00",
+      "rating": 4,
+      "title": "Personal music",
+      "text": "Can we listen to our own music while we play?",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2026-09-07T00:37:33-07:00",
+      "rating": 2,
+      "title": "Fun game, but the mechanics need work.",
+      "text": "At Lv. 90, you need 31+ push-ups in 22 seconds, but the camera can’t keep up with fast reps and often misses legitimate push-ups.\n\nAlso, the DMG and time stats on items feel almost meaningless. I’ve upgraded them significantly, but I don’t notice any real difference when performing the challenges.\n\nThe concept is great, but the motion detection and item stats need a serious improvement.",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2026-09-06T10:33:36-07:00",
+      "rating": 5,
+      "title": "awesome workout",
+      "text": "this is an amazing way to workout it really works ur triceps",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2026-09-05T15:56:15-07:00",
+      "rating": 5,
+      "title": "Thank you",
+      "text": "Got me great feeling",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2026-09-05T13:12:02-07:00",
+      "rating": 5,
+      "title": "Stronger",
+      "text": "This app made me stronger and focus on diffrent things i recomend this app",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2026-09-05T08:25:12-07:00",
+      "rating": 5,
+      "title": ".",
+      "text": "кайф бесплатно",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2026-09-04T08:04:50-07:00",
+      "rating": 5,
+      "title": "Fun, but challenging",
+      "text": "This app is really cool and it helps you learn to discipline yourself while also gaining muscle, first day and I love it!",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-09-04T04:00:18-07:00",
+      "rating": 5,
+      "title": "So good",
+      "text": "So good amazing",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-09-04T01:11:41-07:00",
+      "rating": 5,
+      "title": "Thanks",
+      "text": "Very good guys, thank you for free",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-09-03T15:48:09-07:00",
+      "rating": 4,
+      "title": "Great!!!",
+      "text": "Amazing app!",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-09-03T09:38:53-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "I use it almost everyday.  Love tracking my friends' progress too. Keeps it fun",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-08-31T20:15:52-07:00",
+      "rating": 5,
+      "title": "Very good",
+      "text": "It pushes me to do more",
+      "version": "2.5.0"
+    },
+    {
+      "date": "2026-08-31T18:15:50-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Only thing I would nitpick is lack of things besides stereotypical armor and there’s not much to use gold on besides upgrades or a common or uncommon equipment",
+      "version": "2.5.0"
+    },
+    {
+      "date": "2026-08-27T23:38:12-07:00",
+      "rating": 4,
+      "title": "Very Bery",
+      "text": "GOOD",
+      "version": "2.4.3"
+    },
+    {
+      "date": "2026-08-25T12:12:24-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "2.4.2"
+    },
+    {
+      "date": "2026-08-24T21:13:09-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "This game is highly engaging straight from the jump! Not to mention I’m getting reps in 💪🏾",
+      "version": "2.4.2"
+    },
+    {
+      "date": "2026-08-24T00:26:00-07:00",
+      "rating": 5,
+      "title": "Cool app but 👇",
+      "text": "Please Russian language",
+      "version": "2.4.2"
+    },
+    {
+      "date": "2026-08-23T14:09:26-07:00",
+      "rating": 5,
+      "title": "Sick motivator.",
+      "text": "This is fantastic for my motivation to at least get in something consistently.\n\nWould love to see a third mode for pull ups!\nMaybe start it at a dead hang somehow?\n\nI want to add a hope that the developers will continue to grow the RPG and progression elements! Its a good feedback loop of unlocking more makes me want to keep playing ie: doing more reps! I don’t want it to get old!",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-22T20:06:01-07:00",
+      "rating": 5,
+      "title": "Latest update ruined rep counting",
+      "text": "The most recent update has made the rep counter for all exercises very unreliable - tried different environments and lighting, distance from the phone, angles. None of it worked! Old counter (before the most recent update) was much better. Hopefully they can fix it again.",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-22T18:28:16-07:00",
+      "rating": 4,
+      "title": "Idk",
+      "text": "Pretty fun",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-22T18:08:29-07:00",
+      "rating": 4,
+      "title": "This game is so good",
+      "text": "It helped me WANA do more push ups",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-20T21:43:12-07:00",
+      "rating": 1,
+      "title": "It was good till now",
+      "text": "The camera used to be normal now it forces itself sideways and can’t even get into a good position since I’m on mobile the camera always stays on sideways now when I flip my phone it just gets into a worser camera angle it’s not even useable anymore",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-20T18:57:41-07:00",
+      "rating": 1,
+      "title": "Camera",
+      "text": "The camera won’t work",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-20T17:57:22-07:00",
+      "rating": 4,
+      "title": "Tracking",
+      "text": "Tracking could be better I’m doing reps and it’s not counting them but otherwise great",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-20T14:57:08-07:00",
+      "rating": 5,
+      "title": "Your game tuff",
+      "text": "It’s good",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-20T08:01:52-07:00",
+      "rating": 1,
+      "title": "Mala",
+      "text": "No te detecta bien los sensores cuando haces el push up muy mala app",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-08-18T11:14:22-07:00",
+      "rating": 5,
+      "title": "How good",
+      "text": "This app is really good u can use it for free or pay to get some advantage the way it measures the push ups is accurate and great and when u are really into the fights u dont even see how many push ups ur really doing",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-16T20:44:44-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "I’m to broke for the subscription",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-16T13:06:00-07:00",
+      "rating": 5,
+      "title": "WORKOUT!!!",
+      "text": "Such a fun game makes you do pushups against live people and also offline bosses also you can do squats so much fun 5 stars",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-15T17:09:57-07:00",
+      "rating": 5,
+      "title": "Pushup RPG Fitness quest",
+      "text": "It’s amazing and it helps you have a great form on your push-ups",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-15T14:12:48-07:00",
+      "rating": 5,
+      "title": "This is motivating me",
+      "text": "Its fun and it makes me stronger i think",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-15T12:44:49-07:00",
+      "rating": 5,
+      "title": "Hard game",
+      "text": "Very physical trust",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-08-14T05:44:20-07:00",
+      "rating": 5,
+      "title": "Love it because it’s free",
+      "text": "Talking to the game owner pls keep it free",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-13T18:44:01-07:00",
+      "rating": 5,
+      "title": "Fitness Gaming",
+      "text": "Very good game to play if you want to get in shape and play video games, should give some stretch’s, occasional issues counting reps when you are doing super fast reps",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-13T14:41:15-07:00",
+      "rating": 5,
+      "title": "Idk",
+      "text": "Very good and also IT IS FREE!!!!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-13T12:22:07-07:00",
+      "rating": 5,
+      "title": "Low-key the best fitness game I’ve played",
+      "text": "It’s free and fun so ye",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-13T10:35:02-07:00",
+      "rating": 5,
+      "title": "5 STARS",
+      "text": "Great app worth the money forsure it reads the body like never seen before!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-12T19:06:05-07:00",
+      "rating": 2,
+      "title": "Abysmal rep detection.",
+      "text": "App layout and concept is good. Rep detection is terrible. Either the ai that coded the app or the model that the developer used does not have good form. You are luck to have a rep counted with your elbows ALL the way out.  Please do not train your push-ups with elbows flared out unless you are very experienced with pushups. You will hurt yourself.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-11T18:50:42-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great way to workout and have fun",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-11T17:20:03-07:00",
+      "rating": 5,
+      "title": "Greatest game ever.",
+      "text": "I can’t stop doing push ups",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-11T06:58:56-07:00",
+      "rating": 5,
+      "title": "Best push-up game ever made",
+      "text": "This game is fun, free, and healthy for you ez 5 star rating",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-10T19:18:03-07:00",
+      "rating": 5,
+      "title": "Entertaining",
+      "text": "Great way to entertain yourself while also getting a workout in!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-10T17:10:34-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Its perfect the only problem when I swing it counts as a rep",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-10T01:40:59-07:00",
+      "rating": 5,
+      "title": "Goated",
+      "text": "Perfect gives me something to do and I don’t know how to explain it. It’s just perfect down to every last minute detail perfect",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-09T23:21:37-07:00",
+      "rating": 5,
+      "title": "this game is amazing",
+      "text": "this game is amazing it’s helping me exercise more and it gives me motivation because every time i beat a foe i think “ i can do one more”",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-09T18:51:28-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "But there is money you have to pay",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-09T17:55:08-07:00",
+      "rating": 5,
+      "title": "Fun idea executed pretty well",
+      "text": "I’m giving this 5 stars because this app has driven me to do more pushups than I have before, that in itself is huge. There are something’s that can be improved, guilds are hard to get into if you don’t have a paid account, and the pushups sometimes won’t register if my elbow goes out of frame. Besides those small things the game is pretty good and doesn’t feel like a hard grind but rather a nice opportunity to get my heart rate up every day",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-09T17:17:31-07:00",
+      "rating": 5,
+      "title": "I love this game",
+      "text": "I just like it",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-08T20:47:40-07:00",
+      "rating": 5,
+      "title": "This is really cool and fun",
+      "text": "It is very good for working out and for also playing the game",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-08T20:11:42-07:00",
+      "rating": 5,
+      "title": "So good",
+      "text": "So good for free too the best app ever",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-08T15:27:41-07:00",
+      "rating": 5,
+      "title": "Fun and challenging",
+      "text": "Fun way to get in shape",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-08T08:49:35-07:00",
+      "rating": 5,
+      "title": "Fun ngl",
+      "text": "I do push ups daily in office and sometimes it gets boring this was a challenge and forces me to push",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-08T08:25:38-07:00",
+      "rating": 5,
+      "title": "Great Game!",
+      "text": "I would recommend this game to anyone even if you don’t workout it puts a lot of fun into pushups.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T20:08:50-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Love this app because there is no membership needed and is made very well and works great love it",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T19:24:02-07:00",
+      "rating": 5,
+      "title": "This game is really fun",
+      "text": "You don’t really have to even pay for it either",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T15:26:59-07:00",
+      "rating": 5,
+      "title": "👍🏻",
+      "text": "Great game ... I T S   A D D I C T I N G",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T14:29:14-07:00",
+      "rating": 5,
+      "title": "Dexter",
+      "text": "Very nice app for the guys who want to be fit",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T13:29:22-07:00",
+      "rating": 4,
+      "title": "Rep tracking",
+      "text": "The only thing that's wrong is that the reps don't register correctly",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T13:03:38-07:00",
+      "rating": 5,
+      "title": "Really fun",
+      "text": "Recommend",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T09:40:03-07:00",
+      "rating": 5,
+      "title": "I love ts !!!!",
+      "text": "Real workout made fun ngl",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-07T00:35:00-07:00",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "Awesome app",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T22:29:09-07:00",
+      "rating": 5,
+      "title": "A",
+      "text": "Perfect app pushups",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T17:21:18-07:00",
+      "rating": 1,
+      "title": "12345",
+      "text": "Overall the purpose of the app is exceptional but every time I attempt do do pushups it doesn’t count them so I end up doing more pushups without it tracking and I’ve used the “tips” at the bottom of the screen and it never works",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T15:55:33-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "This is the first game I rated because it was actually fun and helps you work out",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T14:12:32-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome game that’s motivated myself and friends, can we please get a deny and approve all button for guild requests I wake up to over 100 requests and have to go one by one.. trying to keep my guild only my friends in real life",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T12:35:13-07:00",
+      "rating": 4,
+      "title": "Ray",
+      "text": "Keeps me motivated",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T08:52:20-07:00",
+      "rating": 5,
+      "title": "Cool",
+      "text": "Very cool",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-06T06:46:26-07:00",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Free",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T23:40:02-07:00",
+      "rating": 5,
+      "title": "Best app",
+      "text": "Pushes me to my limits with fun mini games as I go",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T18:25:04-07:00",
+      "rating": 5,
+      "title": "Is the best",
+      "text": "The best app to do exercise",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T18:04:59-07:00",
+      "rating": 5,
+      "title": "Best Ever!!",
+      "text": "Honestly this app helped me workout and have fun its so good!!!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T17:54:20-07:00",
+      "rating": 5,
+      "title": "Not fake",
+      "text": "Like actually real",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T15:16:36-07:00",
+      "rating": 5,
+      "title": "Guild invitation settings",
+      "text": "The game is really good for being free, and I dont have a single complaint besides the fact that I cant stop people from requesting to join my guild. I come back to see like 100 people requesting to join, and I can’t find a setting to stop it. Other than that, really well built app, even though the camera may be a bit faulty at times.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T08:21:30-07:00",
+      "rating": 5,
+      "title": "10/10",
+      "text": "Makes doing Push- Ups way more entertaining",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T06:35:29-07:00",
+      "rating": 5,
+      "title": "Novel",
+      "text": "As a life long game, this is a good combo. Up to u to be consistent",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-05T06:18:30-07:00",
+      "rating": 5,
+      "title": "W",
+      "text": "The is so fun and free",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-04T13:20:41-07:00",
+      "rating": 5,
+      "title": "More fun than scrolling",
+      "text": "Great way to work out while having fun for FREE",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-04T04:52:09-07:00",
+      "rating": 5,
+      "title": "Game so ficking good",
+      "text": "Love le game🤣",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-08-03T20:28:28-07:00",
+      "rating": 5,
+      "title": "ITS FREE",
+      "text": "Free",
+      "version": "2.3.1"
+    }
+  ]
+}

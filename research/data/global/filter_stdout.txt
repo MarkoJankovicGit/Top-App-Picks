@@ -1,0 +1,13 @@
+[23:33:12] Osnovni filter: 8647 kandidata, 308 lidera (preko 150000 ocena)
+[23:36:15] US provera: 2671 od 5726 dostupno u SAD
+[23:36:15] Neizvezeno (US ocene manje od lokalnih): 1646 od 5726
+[23:36:15] Kvote: 359 kandidata za proveru developera
+[23:38:23] developer 40/359
+[23:40:31] developer 80/359
+[23:42:39] developer 120/359
+[23:44:47] developer 160/359
+[23:46:55] developer 200/359
+[23:49:03] developer 240/359
+[23:51:11] developer 280/359
+[23:53:19] developer 320/359
+[23:55:24] Gotovo: 319 kandidata, 16 paketa

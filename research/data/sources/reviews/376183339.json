@@ -1,0 +1,357 @@
+{
+  "app": "TED Talks: Watch and Learn",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T15:34:37-07:00",
+      "rating": 4,
+      "title": "Newest update working again",
+      "text": "With the previous version Every time I started the app on my iPad it crashed immediately. Now it’s working again.",
+      "version": "8010"
+    },
+    {
+      "date": "2026-09-26T15:21:54-07:00",
+      "rating": 1,
+      "title": "Doesn’t work with iOS 27",
+      "text": "Doesn’t work with iOS 27",
+      "version": "8008"
+    },
+    {
+      "date": "2026-09-26T12:24:58-07:00",
+      "rating": 5,
+      "title": "Updated app 9/24",
+      "text": "After updating, I opened the app and it immediately shut down. \n\nI received an email requesting actions I had done. Responded and an updated app was released. All is well.",
+      "version": "8008"
+    },
+    {
+      "date": "2026-09-24T04:21:32-07:00",
+      "rating": 4,
+      "title": "New bug",
+      "text": "It’s crashed when I updated the latest version.",
+      "version": "8007"
+    },
+    {
+      "date": "2026-06-11T18:28:52-07:00",
+      "rating": 5,
+      "title": "👍",
+      "text": "❤️",
+      "version": "8000"
+    },
+    {
+      "date": "2026-05-22T16:06:15-07:00",
+      "rating": 5,
+      "title": "Cool",
+      "text": "Medication wow",
+      "version": "7593"
+    },
+    {
+      "date": "2026-04-19T18:58:49-07:00",
+      "rating": 3,
+      "title": "Transcript Issue",
+      "text": "Great app, but the “Read transcript” button doesn’t seem to work in this app. It works normally on the website version. I hope this bug can be fixed soon.",
+      "version": "7591"
+    },
+    {
+      "date": "2026-04-03T10:40:38-07:00",
+      "rating": 4,
+      "title": "tv",
+      "text": "2026/04/03: I appreciate your thorough response, and understand the issues of having a small development team. As you said, hopefully, things will get better in the future, and the TV app will return to its former glory.\n\nI’m not a fan of using AirPlay – especially in my own home – just to use a streaming service; I only use AirPlay if I’m at someone else’s home/office to share content. But, thank you for the suggestion.",
+      "version": "7590"
+    },
+    {
+      "date": "2026-02-20T11:21:33-07:00",
+      "rating": 1,
+      "title": "UX",
+      "text": "How am I supposed to enable/disable subtitles or change the playback speed? How is that genius behind the idea of menu buttons that disappear in half-a-second?",
+      "version": "7588"
+    },
+    {
+      "date": "2026-01-06T18:02:28-07:00",
+      "rating": 2,
+      "title": "Podcast commercials",
+      "text": "The app itself is actually great\nMy issue is when i want to listen to a podcast the first 4-5 minutes is nothing but  commercials. I can watch a video no problem no extra long commercials.",
+      "version": "7585"
+    },
+    {
+      "date": "2025-12-26T17:42:38-07:00",
+      "rating": 3,
+      "title": "Fix algorithm",
+      "text": "Great app, but it would be great if the shorts would be updated.  Every single time I open it, I see the same videos in the same order. I would really appreciate it if they would fix this.",
+      "version": "7585"
+    },
+    {
+      "date": "2025-12-12T03:32:13-07:00",
+      "rating": 2,
+      "title": "Apple TV Update",
+      "text": "The Apple TV version of this app is in desperate need of some attention and basically useless and has been for a while.",
+      "version": "7585"
+    },
+    {
+      "date": "2025-11-22T22:40:29-07:00",
+      "rating": 5,
+      "title": "Great app. Speed change for shorts",
+      "text": "Could you add an option for change the speed of the shorts? The videos have them but the shorts doesn’t and I would like to have that ability please",
+      "version": "7583"
+    },
+    {
+      "date": "2025-11-18T04:05:10-07:00",
+      "rating": 1,
+      "title": "App doesn’t work, videos don’t play in app",
+      "text": "App never plays videos, anytime I attempt videos it crashes and sends me back to the thumbnail. iPhone 14 Pro Max. Latest iOS.",
+      "version": "7582"
+    },
+    {
+      "date": "2025-11-17T16:50:10-07:00",
+      "rating": 2,
+      "title": "Flawed",
+      "text": "Animated Ted ed videos don’t change and appears only as recommended, and it doesn’t let me rewatch videos.",
+      "version": "7582"
+    },
+    {
+      "date": "2025-11-13T16:26:21-07:00",
+      "rating": 4,
+      "title": "Make a fast forward function for shorts",
+      "text": "Form of double tap and / or press and hold; will make shorts more digestible and short form",
+      "version": "7582"
+    },
+    {
+      "date": "2025-11-12T16:18:00-07:00",
+      "rating": 3,
+      "title": "More timely talks",
+      "text": "Our lives and our world are changing so quickly!! Yet when I look for talks about identity, lgbtq, world events for example, I am shown articles anywhere from 2-11 years old.",
+      "version": "7582"
+    },
+    {
+      "date": "2025-10-12T22:19:25-07:00",
+      "rating": 1,
+      "title": "Full of propaganda",
+      "text": "Full of propaganda. The app pushes an agenda; you’ll notice the top recommended talks are always pushing a certain narrative. Deleted the app after opening it twice. All the good TED talks can be found on YouTube.",
+      "version": "7579"
+    },
+    {
+      "date": "2025-10-01T08:47:45-07:00",
+      "rating": 5,
+      "title": "Informative",
+      "text": "As an educator, I used these talks in my classrooms to discuss new technology, ethics, and social issues.  Now, I just listen for enjoyment.",
+      "version": "7578"
+    },
+    {
+      "date": "2025-08-26T15:03:17-07:00",
+      "rating": 2,
+      "title": "Great content, bad app",
+      "text": "I love TED talks and there’s plenty of good content here. It’s just too bad the app malfunctions every single time. I try to use it. It freezes it crashes. I’ve had to uninstall and reinstall it many times… lots of bugs figured out guys.",
+      "version": "7.5.75"
+    },
+    {
+      "date": "2025-08-20T19:32:14-07:00",
+      "rating": 5,
+      "title": "Good free alternative to doomscrolling",
+      "text": "⭐️⭐️⭐️⭐️⭐️",
+      "version": "7.5.75"
+    },
+    {
+      "date": "2025-08-10T13:39:53-07:00",
+      "rating": 1,
+      "title": "Apple TV version is BROKEN",
+      "text": "Don't bother using the app on an Apple TV. Entering anything into the Search field causes the entire app to crash. TED doesn't care. Apple doesn't care.\n\nDear TED:  BOOOOOOO!\nYou should be ashamed.\n\nDear Apple:\nApple should also be ashamed for letting this piece of garbage pass basic QA. This also proves Apple lies when they claim their App Store is worthwhile. Booooo!",
+      "version": "7.5.75"
+    },
+    {
+      "date": "2025-08-07T17:37:45-07:00",
+      "rating": 1,
+      "title": "Apple TV app broken",
+      "text": "Using the search function on AppleTV version of this app crashes 100% of the time.",
+      "version": "7.5.75"
+    },
+    {
+      "date": "2025-07-31T08:27:08-07:00",
+      "rating": 1,
+      "title": "Among other issues",
+      "text": "Note that they will send you emails that you cannot unsubscribe from. Your only alternative is to spam filter everything and delete your account.",
+      "version": "7.5.74"
+    },
+    {
+      "date": "2025-06-20T18:04:17-07:00",
+      "rating": 1,
+      "title": "so many glitches",
+      "text": "i want to watch the videos but only some of them play properly.",
+      "version": "7562"
+    },
+    {
+      "date": "2025-06-08T05:14:15-07:00",
+      "rating": 1,
+      "title": "Am deleting it",
+      "text": "Econ Professor Gigi Foster delivered a TEDx talk titled The Manipulators’ Playbook at the University of New South Wales (UNSW) in October 2024. They banned it. TED is now just like CNN, IMO.",
+      "version": "7562"
+    },
+    {
+      "date": "2025-05-05T12:36:30-07:00",
+      "rating": 5,
+      "title": "show the full name please",
+      "text": "i just updated your app and am really bummed out to see that the names of the talks have been reduced to a bunch of dot dot dots… still love your app & ted talks in general, but i hope with the next update this problem gets fixed so you can read the whole name of the talk before you click on it to listen. thanks for everything.",
+      "version": "7559"
+    },
+    {
+      "date": "2025-04-26T18:32:17-07:00",
+      "rating": 2,
+      "title": "Much room for improvement",
+      "text": "Pros\n- Good videos that you can save easily \n\nCons\n- Scrolling feature sometimes buffers\n- User experience is not intuitive yet. Could not find out how to download videos to watch offline",
+      "version": "7558"
+    },
+    {
+      "date": "2025-04-25T04:14:33-07:00",
+      "rating": 3,
+      "title": "Ted Shorts - Presenter name missing",
+      "text": "Please consider adding the Name and credentials of the presenter. Information source matters a lot. If a writer/storyteller talks about their “study of a pandemic” it is much less meaningful than an epidemiologist and professor at Harvard.  \n\nAdditionally please consider adding a link to the full length TedTalk related to the Short.",
+      "version": "7558"
+    },
+    {
+      "date": "2025-04-01T18:28:07-07:00",
+      "rating": 2,
+      "title": "Contents is old",
+      "text": "The videos are old , seem ended in 2023",
+      "version": "7555"
+    },
+    {
+      "date": "2025-03-09T10:43:47-07:00",
+      "rating": 2,
+      "title": "Shocked by Lack of Features",
+      "text": "Where are the Top 10 Lists? How can we filter by most viewed, highest regarded, or even alphabetically? \nWhen filtering, I’d love to see all the micro-topic options listed underneath the macro option. For instance, list the different disease focuses or health options under Health. Let us click on Health as a whole or let us filter Health down further into smaller groups.\nAnd most importantly - why can we not “Add to Queue”? You want us to stay in the app correct? Let us build a list of ones we want to listen to without “saving”. Saving is a different feature. \nI know there’s good stuff in here but it’s hard for me to stay organized and spend 10 minutes looking for a 10-minute video.",
+      "version": "7554"
+    },
+    {
+      "date": "2025-02-28T04:57:19-07:00",
+      "rating": 1,
+      "title": "Not impressed",
+      "text": "Many of the classes teach very little. The app itself has many technical flaws. Luckily I got this half price for the new year, will not renew",
+      "version": "7554"
+    },
+    {
+      "date": "2025-01-05T07:42:44-07:00",
+      "rating": 2,
+      "title": "Was good",
+      "text": "Stopped updating, only showing shows from 2023",
+      "version": "7552"
+    },
+    {
+      "date": "2024-12-29T04:20:18-07:00",
+      "rating": 3,
+      "title": "Who”s missing from Ted… and who’s missing out?",
+      "text": "I downloaded the app because I’ve been entertained and informed by Ted Talk speakers on topics of general interest. I’m a Christian and so decided to conduct a search for speakers on Biblical topics. To my disappointment there were no talks listed by many brilliant contemporary theologians such as RC Sproul, John MacArthur, David Jeremiah, Ravi Zacharias and Oxford mathematician John Lennox. Rick Warren did come up regarding the purpose driven life, but that was it.\nOn the most important questions regarding life after death and answers to  the Origin, Purpose, Morality and Destiny of humanity, there are no theologians to impart insight. Inconceivable!\nExpressions I used in my search were as follows:  Bible, Christianity, Theology,  Creation, Life after death and Oxford mathematicians. \nIf I’ve overlooked a topic that might bring up an authority speaking on the importance of theology, and how it answers the most important question that faces every human being… please let me know. \nThe app works fine as far as I explored it, and I will rate “Ted” with 3 stars for entertainment and secular information, but absent such an important topic I would not rate higher..",
+      "version": "7552"
+    },
+    {
+      "date": "2024-12-12T10:18:46-07:00",
+      "rating": 5,
+      "title": "Thank you for fixing CC!",
+      "text": "Thank you for fixing the subtitles for the video playback! As someone who relies on them, I always appreciate when people care about making it a better, more inclusive experience for us. THANK YOU!!!",
+      "version": "7552"
+    },
+    {
+      "date": "2024-11-05T14:47:37-07:00",
+      "rating": 3,
+      "title": "Apple TV app crashes",
+      "text": "This is a review for the Apple TV app version of TED. Every time o try to do a search and type something, the app crashes and throws me out to the Home Screen.",
+      "version": "7547"
+    },
+    {
+      "date": "2024-09-29T00:08:11-07:00",
+      "rating": 5,
+      "title": "Kafo",
+      "text": "Bxudi ahsan app pa",
+      "version": "7546"
+    },
+    {
+      "date": "2024-09-03T09:03:18-07:00",
+      "rating": 2,
+      "title": "Doesn't work well with VPN",
+      "text": "App may be security risk if you wish to enjoy the content through this app.",
+      "version": "7545"
+    },
+    {
+      "date": "2024-08-14T06:01:39-07:00",
+      "rating": 1,
+      "title": "Sign on",
+      "text": "Screen format would not allow me to view bottom of page.",
+      "version": "7542"
+    },
+    {
+      "date": "2024-07-29T08:22:01-07:00",
+      "rating": 1,
+      "title": "Black screen",
+      "text": "Every time you swipe down on the control Center on you phone or you go into full screen mode too quickly the video will instantly black screen and only the audio is there and the video is gone. You then have to exit the video and re load it witch takes forever because the app is super laggy this annoys me to the extent that I can’t be bothered to use the app. There are also Ted animations which I find really engaging but there is only a small section of them and they refresh every so often and if you don’t know the exact name of the animation that it is impossible to find it as there is no way to search for animations. Good content but just generally frustrating and annoying. Wouldn’t recommend.",
+      "version": "7542"
+    },
+    {
+      "date": "2024-07-27T20:07:57-07:00",
+      "rating": 3,
+      "title": "Bug",
+      "text": "The app keeps logging me out of my account whenever I close the app, and I need to sign back into my account every time, which is very inconvenient and annoying for me. Otherwise, it’s a great hub for accessing contents that are all Ted related, but I just wish that I can enjoy them even more.",
+      "version": "7542"
+    },
+    {
+      "date": "2024-07-18T08:29:17-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "I was able to use this app for a span of two days, and on the third day the app wouldn’t play any video, and by the fourth day the app won’t even open anymore. This is unfortunate. I love listening to TED talk and rather spend hours and listening to an expert speak rather than, scroll on a social media.",
+      "version": "7542"
+    },
+    {
+      "date": "2024-07-14T07:06:53-07:00",
+      "rating": 4,
+      "title": "Can’t comment",
+      "text": "There should be a way to leave and read comments",
+      "version": "7542"
+    },
+    {
+      "date": "2024-07-14T05:35:32-07:00",
+      "rating": 3,
+      "title": "No Apple TV version search function",
+      "text": "Last version of this for Apple TV 2.3.3 from 11/20/19? Any use of search function results in an instant app crash. Pretty much unusable unless you just watch what’s suggested…",
+      "version": "7542"
+    },
+    {
+      "date": "2024-06-02T00:00:04-07:00",
+      "rating": 4,
+      "title": "Please",
+      "text": "Please add all the animations",
+      "version": "7533"
+    },
+    {
+      "date": "2024-06-01T01:12:21-07:00",
+      "rating": 3,
+      "title": "Search doesn’t work",
+      "text": "Can’t use the search function on the Apple TV app, it just closes the app when you try either voice or typing. No way contact them via their web site",
+      "version": "7533"
+    },
+    {
+      "date": "2024-05-16T18:36:28-07:00",
+      "rating": 1,
+      "title": "DON’T DO IT!",
+      "text": "This app makes you sign up outside of the app. It will bill you outside of the app. You will pay, forget about it, then a year later they will bill you again for $259.20. Which will come  as a surprise and you will immediately try to contact them for a refund. After all, it’s been a year since you even used the app. You will not find any kind of support for help, other than email. They don’t have a number to call. \n\nThey will finally  respond to your email saying they can’t find your email, despite your account saying your are signed up on their website. You will immediately send the receipt of them taking your money and they will take a few days to finally respond and tell you they previously sent you an email (which you didn’t receive and how could you if they don’t have your email connected with your account?) and can only refund you HALF of the amount they took.\n\nTotal scam. Find it somewhere else. Don’t trust.",
+      "version": "7533"
+    },
+    {
+      "date": "2024-04-18T04:40:12-07:00",
+      "rating": 3,
+      "title": "PLAY WHILE IN BACKGROUND",
+      "text": "Please please please allow the app to play its audio in the background. \n\nPeople may tell you that the media of choice is visual. That video killed the radio star. But how hard is it to convey a complex idea with only the visual aspect? To demonstrate how crucial language and the audio aspect is, let’s consider that only through the use of subtitles, a novel phenomenon, is conveyance of knowledge without audio even close to possible. But aren’t subtitles just a manipulated form of audio?\n\nI guarantee I am not the only person that wants to be free to carry on with our lives while LISTENING to Ideas that Change Everything on your app. \n\nThank you.",
+      "version": "7533"
+    },
+    {
+      "date": "2024-04-12T13:47:49-07:00",
+      "rating": 2,
+      "title": "10 years later, player’s still glitchy",
+      "text": "I used to have the TED app on my iPhone 10 years ago; it was glitchy, so it’s surprising to see that 10 years later, there has been little improvement with the player.\nWhatever video player you all use needs to be overhauled.\nSimply pulling down the control center to increase the brightness of my phone causes the video to go black—every time, but the audio still plays somehow. The website’s video also tends to go black randomly and is laggy beyond belief, no matter what device or browser I use. \nI don’t imagine I’m only one who, out of frustration with the player, stopped visiting your app and website and chose to rely on YT to watch TED videos. The think about that is one tends to forget TED videos even exist after a while. Oh well…",
+      "version": "7533"
+    },
+    {
+      "date": "2024-04-11T06:21:51-07:00",
+      "rating": 4,
+      "title": "Love the app! One suggestion.",
+      "text": "I had been watching TED talks on my safari web browser and it was always glitching. The app works great and I love that it saves your progress if you don’t finish a video. I also like being able to save videos to watch later. \n\nMy only complaint is that I can’t find a list of already watched videos. I’ve watched a bunch and when I think about one I’d like to share with someone I can’t find it. The app would be perfect with this added.",
+      "version": "7533"
+    }
+  ]
+}

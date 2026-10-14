@@ -1,0 +1,1407 @@
+{
+  "app": "Calo: AI Food Calorie Counter",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T09:14:17-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Nice!!!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-10T08:23:25-07:00",
+      "rating": 5,
+      "title": "DaPhotographer",
+      "text": "I am enjoying the app",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-10T06:51:50-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "I love how easy this is and how encouraging.  I get reminders and praise when I lose weight.  Even if it’s just AI talking, it still makes me feel warm and fuzzy.☺️",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-10T05:02:19-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "This app makes it really easy to count your calories and get a breakdown of what ingredients, etc. you are putting into your body.  It does all of the hard work for you.  I like that it gives you the option to make  corrections using an AI-style prompt to increase accuracy if necessary.  Although, it’s been about 90% accurate.  It also integrates with the apple health app so it knows how many calories you have burned.  Very happy with it!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T15:41:24-07:00",
+      "rating": 5,
+      "title": "Must have!",
+      "text": "Great app",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T15:11:19-07:00",
+      "rating": 5,
+      "title": "Keeps me on track",
+      "text": "Helps me tract proteins.  Helpline a lot healthier \nSo easy to use",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T13:37:31-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "Best app ever my favorite",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T12:59:27-07:00",
+      "rating": 5,
+      "title": "Great app !!",
+      "text": "I love this app for tracking my daily intake of food. It’s easy to use.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T12:56:22-07:00",
+      "rating": 5,
+      "title": "Calo",
+      "text": "This is the best app for tracking calories & it’s not even close",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T12:22:15-07:00",
+      "rating": 3,
+      "title": "Need more parameters",
+      "text": "There is something in the way that you just split things between three categories which I believe is protein, fat, and carbs. It isn’t really that accurate in meeting my goals.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-09T06:39:21-07:00",
+      "rating": 5,
+      "title": "Great way to keep track of what I’m eating.",
+      "text": "I love how easy it is to go out for dinner and take a picture of what I’m eating and decide how much I can eat of that meal. Sometimes all and sometimes 1/2. It teaches me to make wise choices and portion control. I love it!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-08T20:15:04-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Love this App! It tracks everything I need in to!!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-08T11:33:49-07:00",
+      "rating": 5,
+      "title": "Wow!",
+      "text": "I have used every single method of tracking calories and every single way has been time consuming, tedious and hard to sustain…until now! I love being able to quickly say what I’ve eaten and Calo does all the work. It also quickly and accurately scans labels. Being a doubter, I had to compare my manual calculations with Calo’s. They were pretty close to identical. I see great success in my journey thanks to this app. It is very affordable and worth every penny.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-08T11:31:44-07:00",
+      "rating": 5,
+      "title": "Excellent way to track",
+      "text": "I use this app with every meal and it’s pretty accurate!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-08T09:28:19-07:00",
+      "rating": 2,
+      "title": "Great Helper",
+      "text": "This Ap has changed the way I take care of my calories",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-08T06:36:19-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "This app allows me to track my food intake differently from other apps.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T15:13:57-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "Love it, easy to use",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T15:04:49-07:00",
+      "rating": 4,
+      "title": "Help",
+      "text": "Great app. Wish there were instructions and hints included in a searchable text file. \nAlso, it would be nice if you didn’t have to constantly enter data over and over. I eat the same breakfast most mornings.\nThe ability to choose similar items or meals from a pull down list would be nice.\nThanks\nBob S.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T14:52:05-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Keeps me accountable",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T14:20:18-07:00",
+      "rating": 5,
+      "title": "Consistency",
+      "text": "I’ve used several trackers, Calo is the first one that I’ve been consistent with due to the analysis and information the app provides. Menopause is a challenging phase, hormone balance, is key to maintaining a healthy, active, and fun lifestyle. Consistency is the only way through, I found that with this app. Thank you Calo!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T14:11:45-07:00",
+      "rating": 5,
+      "title": "New user",
+      "text": "First month using Calo. Really liking it so far.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T11:58:27-07:00",
+      "rating": 5,
+      "title": "I’ve already lost 6 lbs!!",
+      "text": "I really love this app bc it takes the guesswork out of counting calories. I know AI is not going to be 100% accurate but it does a great job and it’s apparently close enough bc I have lost weight and I feel incredible! I have more energy, I’m sleeping better, and it keeps me motivated. I have told everyone I know about this app. Would 100% recommend if you’re wanting to lose weight and eat healthier!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-07T00:57:22-07:00",
+      "rating": 5,
+      "title": "Day 76 review",
+      "text": "This is a great way to track what goes in your mouth. This app helps me manage protein, carbs & I just start tracking blood sugar.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T21:08:21-07:00",
+      "rating": 1,
+      "title": "Doesn’t work well",
+      "text": "So far everything I’ve taken a picture of has been wrong from ingredients to calories. The app told me a St Germain Spritzer was almost 500 calories. (It’s 115). It also couldn’t tell shrimp from chicken. It doesn’t work well at restaurants so you’re still stuck guessing the calories and nutrition facts. \n\nUpdate: It’s been over a month and it’s about as much work trying to get the scans to be correct vs just adding it yourself. Still not very impressed. \n\n60 day update: don’t pay for this app. I took 3 separate pictures of the same cookie and got 3 different calorie counts. SMH\n\nUpdate 255 days in. Still works poorly. It doesn’t learn from previous entries. Terrible app.\n\nUpdate 331 days in. Still don’t like the app, still doesn’t give accurate info, is glitchy with its daily tracking so the app definitely has bugs to work out. 34 more days and I’ll be rid of the subscription.\n\nUpdate: after almost a year, you’d think there would be some updates and improvements, but there have been none.\n\nUpdate: 370 days. Meh",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T18:17:20-07:00",
+      "rating": 5,
+      "title": "Keeps me on track",
+      "text": "Great App!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T18:04:16-07:00",
+      "rating": 5,
+      "title": "Great app, however,….",
+      "text": "This app would be 5 stars if you’d add a basic Glp1 tracker. Day/date, dose, # of weeks, etc.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T17:40:59-07:00",
+      "rating": 5,
+      "title": "Apps excelente",
+      "text": "Una excelente app que me ayuda a llevar mi cambio físico",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T17:03:58-07:00",
+      "rating": 5,
+      "title": "I’ve lost 9 lbs in the first 28 days of consistent tracking.",
+      "text": "I really like this app and feel I’m not over paying for a service like WW. $20 a year. It’s really convenient and worth every penny.\n\nUpdate;  I started in March and it is now October,  I have lost 29 lbs to date. As I reach each small goal I make another one. I’m 2 lbs until 128 goal. Deficit calories works for me. I track my food every day.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T12:25:06-07:00",
+      "rating": 5,
+      "title": "Missy",
+      "text": "Great app. Very easy to use and it’s great to use eating out especially. No guessing games with this app.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T09:48:00-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "Awesome!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-06T08:21:29-07:00",
+      "rating": 5,
+      "title": "User Friendly",
+      "text": "I love this counter! Very easy to use . Scan bar codes and saves foods to log on future meals.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T23:40:52-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "This app is amazing. Makes counting calories easier and allows me to stay in a calorie deficit and I’ve definitely been loosing weight. Love it!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T13:29:15-07:00",
+      "rating": 1,
+      "title": "Falsely charged",
+      "text": "I had cancelled this subscription during the free trial and I was still charged for the yearly subscription and now I’m having a hard time getting my refund be aware with this app",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T12:21:53-07:00",
+      "rating": 5,
+      "title": "Awesome App!",
+      "text": "This app has truly been amazing, but you must be mentally strong and follow your daily calorie intake, workout every day and going home eating 10,000 calories won’t help! Good Luck",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T12:05:49-07:00",
+      "rating": 5,
+      "title": "Calo",
+      "text": "Love this app..  easy to access the daily calorie intake as well as calories  burnt.. easy to take a picture of the food and app identify and gives you a calorie count…",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T11:50:33-07:00",
+      "rating": 5,
+      "title": "Excellent tracker!",
+      "text": "This app tracks everything needed to stay on track for weight loss!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T11:10:09-07:00",
+      "rating": 5,
+      "title": "Happy  here",
+      "text": "Calo has made my life so easy to manage what I eat . I am more aware of my portions",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T08:48:58-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "So very easy to use and makes tracking effortless",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T08:22:56-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "Love this! It has helped both my husband and I throughout our fitness journey!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T07:05:21-07:00",
+      "rating": 5,
+      "title": "My Progress",
+      "text": "I’m very satisfied with my results. It makes me accountable for my own health!  My husband and I are on the journey together!  Support is very important. Just do it!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T06:31:13-07:00",
+      "rating": 5,
+      "title": "Food calorie counter",
+      "text": "Makes it easy to keep up with my caloric intake and protein that I need to get each day",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T04:49:21-07:00",
+      "rating": 5,
+      "title": "Highly Recommend",
+      "text": "Down 16 lbs thanks to Calo!!!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-05T03:12:06-07:00",
+      "rating": 1,
+      "title": "Cancel",
+      "text": "Cancel",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T17:14:32-07:00",
+      "rating": 3,
+      "title": "Decent but half the time doesn’t work",
+      "text": "If I didn’t pay for a year I wouldn’t use this bc it’s so annoying when it saying no internet connection 50% of the time and won’t  work and I spend 10-15 minutes restarting and trying to upload my meal over and over with what should take 1 min. Beware, this is so annoying.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T16:42:39-07:00",
+      "rating": 5,
+      "title": "継続して",
+      "text": "“頑張る💪ぞー”っと！いつも何処でも思い出させてくれる　",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T14:25:25-07:00",
+      "rating": 5,
+      "title": "Jabra",
+      "text": "Waaw it change my daily life and weight. Thanks Calo",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T12:45:58-07:00",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "Recommend to all",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T11:40:04-07:00",
+      "rating": 5,
+      "title": "Wonderful",
+      "text": "Calo has everything!\n\nCalo is super easy to keep track of calories and steps. I will keep using this app. Thanks!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T08:48:08-07:00",
+      "rating": 5,
+      "title": "I Love CALO",
+      "text": "I have lost 16 lbs in a little over two months using the app. My plan is to loose 25 more pounds. I know I can do it with the help of Calo. Easy to use and very helpful in keeping me motivated and on track.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T08:22:37-07:00",
+      "rating": 5,
+      "title": "Best Food Calorie Counter App",
+      "text": "I love this app! I love the food can be scanned or the bar code can be scanned. Honestly this App has been the reason I have been able to stay on my calorie intake goal intake and basically I have been so focused.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T07:39:42-07:00",
+      "rating": 5,
+      "title": "Very helpful and mostly accurate although you need to watch amounts and adjust how much you ate.",
+      "text": "Works better than expected",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-04T04:36:59-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "Lost 50 lbs in 4 months",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-03T18:39:19-07:00",
+      "rating": 5,
+      "title": "DCal52",
+      "text": "Excellent system for accountability and encouragement. I like the hands-on experience of setting my own goals and how what I eat is being monitored and calculated for me. This allows  me  to make the necessary adjustments to continue to progress in losing weight. I love this app. Peace.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-03T15:38:24-07:00",
+      "rating": 5,
+      "title": "￼wonderful app",
+      "text": "Great Help!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-03T15:33:30-07:00",
+      "rating": 5,
+      "title": "Food in calorie counter,my best friend ❤️",
+      "text": "Love the app ❤️",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-03T11:09:14-07:00",
+      "rating": 5,
+      "title": "60 lbs down!!!",
+      "text": "I am grateful for this app, it helps me be more mindful and motivated when choosing my meals.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-03T05:57:25-07:00",
+      "rating": 4,
+      "title": "Need better memory",
+      "text": "Would be better if it remember items. I have to remove/replace “whole milk” with “almond milk” daily",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T15:17:30-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "I love this app but wish I could find some tutorials to learn more things I can do. Have figured out a lot of it but can’t find some things.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T13:13:42-07:00",
+      "rating": 5,
+      "title": "Love It!",
+      "text": "I love this app! It keeps me accountable. The scans are pretty accurate. Adjustments to food content is easy.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T11:24:24-07:00",
+      "rating": 5,
+      "title": "Eating healthy",
+      "text": "Last year 2025 the last time I was weighed at Dr. app I was shy of 200Lbs.  I’ve been moving around a lot and walking a mile when weather permits & bicycle riding.  Soon as I started Calo, April 18th. and eating some of Calo menus and my own, I keep track of my calories. I weighed on Thursday April 30th at 184, I weighed my self a week later on May 7th I weighed at 182.  This Is a great program!!! When I last weighed myself two months ago of August I weighed 170.   Now that I will probably have to have surgery, I wont be able to move around a lot, I’ll need 6 weeks to recover and then, I can go back to regular routines.    It’s been taking me a while because On this app.  When I did a little questioner one of the questions:  It asked how fast did I want to lose weight & the answers I chosen was I did not want to loose weight fast.   I chosen loose slow, and I was given 1,507 calories a day from Calo.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T09:55:13-07:00",
+      "rating": 5,
+      "title": "Awesome application!",
+      "text": "Helps me keep track of my future!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T09:24:49-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "I really like this app!  It’s helping me to lose weight.  Logging in my current weight, meals, calories, and other health parameters is easy.  For the relatively low subscription price, Calo is a bargain.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T07:50:31-07:00",
+      "rating": 5,
+      "title": "Success over weakness",
+      "text": "Very impressive with the app the guide the encouraging words to motivate and I just feel like I wasn’t unknown being on the app. I am happy that I was interviewed to it.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-02T06:38:39-07:00",
+      "rating": 5,
+      "title": "10/10",
+      "text": "This is the best tracking app! Try it!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T14:24:10-07:00",
+      "rating": 5,
+      "title": "Great app I am very excited!",
+      "text": "Happy with the results!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T12:36:08-07:00",
+      "rating": 5,
+      "title": "Fantastic App for Actively Managing Diet, Nutrition and Exercise",
+      "text": "Over a year and 50 lbs later, I still use this every day. Easily estimate and track calories against your nutritional and weight targets, never guess again.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T12:31:34-07:00",
+      "rating": 5,
+      "title": "Weight Loss",
+      "text": "Excellent resource to keep yourself on track in your weight loss journey. Down 26 pounds and have more to go. Helps to keep myself accountable.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T10:55:13-07:00",
+      "rating": 5,
+      "title": "Fitness",
+      "text": "Excellent",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T09:11:38-07:00",
+      "rating": 3,
+      "title": "Typical Daily User",
+      "text": "Program doesn’t seem to keep relative similar and consistent entries from prior entries readily collated for easier search.  \n\nProgram does NOT recognize in search data base typical routine national products data base or continues to offer locations restaurants and chain info not available in our area and not chosen for prior meals.\n\nFitness Pal has way  better database, but doesn’t have the cool easy scan feature which is great.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-10-01T03:46:55-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This is great!  It helped me loose 14 pounds at the age of 53. It keeps track of everything. Use it with fidelity it works….even on my cheat days!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-30T20:24:42-07:00",
+      "rating": 5,
+      "title": "Wonderful tool",
+      "text": "Very helpful to track your food intake",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-30T17:59:16-07:00",
+      "rating": 5,
+      "title": "Great App!",
+      "text": "So easy to track your food, protein, carbs, fats, water intake and your weight!  It even adjusts your BMI and calories as you lose the weight!  User friendly and I don’t even think I’ve taken advantage of everything it offers!  Well worth the $!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-30T13:32:59-07:00",
+      "rating": 5,
+      "title": "Great Ap",
+      "text": "Easy use. Can scan your means, enter manually or search a large data of food. Keeps you aware of your diet. Love this ap",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-30T06:26:13-07:00",
+      "rating": 5,
+      "title": "Game Changer",
+      "text": "I was able to lose 53 lbs because I dialed in my nutrition and Calo made it so easy! I am a RN, work night shifts and still able to get in best shape of my life through bodybuilding, nutrition tracking with help of Calo!\nJust made 200 days of consistent tracking💓💓💓💓",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-30T04:40:18-07:00",
+      "rating": 5,
+      "title": "🍾",
+      "text": "Love it! Never used calorie counting but this worked for me. Thank you",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-29T16:35:26-07:00",
+      "rating": 5,
+      "title": "Highly recommend!",
+      "text": "I love the Calo app! It’s easy to use, keeps me on track with my calories and nutrition, and has really helped me stay consistent with my fitness goals. ❤️💪",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-29T13:10:49-07:00",
+      "rating": 5,
+      "title": "Love this app❣️",
+      "text": "Learning everyday the value of food!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-29T10:11:27-07:00",
+      "rating": 5,
+      "title": "I LOVE easy to use apps",
+      "text": "I’ve tested several apps. Being in technology’s less clicks is best and makes  software apps more impressive to buy. We all enjoy free! Yet do like me and purchase",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-29T07:04:41-07:00",
+      "rating": 5,
+      "title": "Love my Calo",
+      "text": "It’s so easy",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-29T05:00:29-07:00",
+      "rating": 5,
+      "title": "Excellent App",
+      "text": "This is the best tracker app I’ve used! Love the voice option and how it syncs to my activity, plus the fasting timer.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-29T03:07:57-07:00",
+      "rating": 5,
+      "title": "Great features",
+      "text": "Actually using it. Scan label then inputting the weight using fix result to get exact nutrition has been very useful. Macro tracker is a must for trying to stay keto. Carbs everywhere. Down 15 pounds in a month.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-28T20:00:14-07:00",
+      "rating": 5,
+      "title": "Best food counter/diet plan and track ever!",
+      "text": "I am amazed at all the ways Calo lets you easily track and record your calories.  It also tracks my fasting.  All without adding cutsie mascots which annoy me.  I find it effective to enter quantities in weight-  oz. Or grams.  It saves my foods or my meals.  Multiple options for everything and super affordable! AI help is there when needed but only if you want.  Love this app!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-28T15:25:35-07:00",
+      "rating": 5,
+      "title": "Satisfied with the app",
+      "text": "It does what is intended to do, very impressed, maybe not 100% accurate in some instances but you can correct, add or remove ingredients, measurements…, it is close enough and fast, I’m loving it. Thank you!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-28T13:50:26-07:00",
+      "rating": 5,
+      "title": "Blood Pressure",
+      "text": "It would be awesome if Calo would track our BP like our weight weekly inputs",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-28T12:39:24-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "The voice feature makes this app really easy to use. So does the scanning feature. And you can add specific foods or food combos to your list, like eating the same breakfast every morning.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T20:08:21-07:00",
+      "rating": 5,
+      "title": "Easy To Use",
+      "text": "One of the easiest calorie management apps I have ever used. I will be interested to see if I can actually lose weight with it.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T19:44:47-07:00",
+      "rating": 5,
+      "title": "Stick to it",
+      "text": "It’s easy to use, the barcode reader is excellent, the scanner to scan your plate of food is very accurate, easy to copy and paste from previous days.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T19:43:25-07:00",
+      "rating": 5,
+      "title": "Power",
+      "text": "Great app",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T15:24:21-07:00",
+      "rating": 5,
+      "title": "Committed to this change",
+      "text": "First, I am not one to pay for an app. But, when I saw I could pay $20 for a one yr membership, I added the app to help track my progress and to keep me on track. I am a middle aged woman. I rarely step on a scale. But, in June 26’, I did. I was ashamed at my weight of 199 lbs. and equally ashamed of not taking better care of myself. That’s what filled me with the determination to make a real change. I began walking every day. I began with 1 mile and with using this app. Now, I walk most days 3-5 miles. I stay in my calorie deficit most days. In 14 weeks, I have lost 22 lbs. my goal is 50. This app is really good. It tracks my calories. I can scan my food and it knows how many calories it is. Or, I can use my voice to tell what I’ve eaten and it knows the calories. It also provides suggested daily meals that you can print. I must also say, I usually eat only once per day. That has worked for me. As this app also tracks fasting hours. It also keeps track of my water intake. And shows my progress in all areas available. I am pleased with this app and in all that it tracks for my weight loss goals. If you are ready to commit to a change for the better for your health and fitness, this app helps if you truly stay on track. All my best to you. You can do it!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T12:43:51-07:00",
+      "rating": 3,
+      "title": "Helps",
+      "text": "It helps me watch my calories at least.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T12:34:37-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Easy to use",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T10:32:29-07:00",
+      "rating": 5,
+      "title": "Great tool",
+      "text": "As long as I am logging everything I eat my weight is progressively going in the right direction!",
+      "version": "1.2.74"
+    },
+    {
+      "date": "2026-09-27T09:12:04-07:00",
+      "rating": 5,
+      "title": "Calo is the best",
+      "text": "I am absolutely in love with my Calo plan! Not only has it helped me to stay on track losing weight, but it has made it so easy to stay on plan. Sometimes I scan food and realize it just isn’t worth it. Try it you’ll love it!!!♥️I have lost 30 lbs and am feeling my confidence self again!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-27T07:15:47-07:00",
+      "rating": 5,
+      "title": "Great Diet App",
+      "text": "I find this app to help me keep track of all my food, exercise and nutrition. The scanning modes really help get the calorie content of the foods that I eat in restaurants. This app is awesome.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-26T15:39:59-07:00",
+      "rating": 5,
+      "title": "Greatest ever tried",
+      "text": "This has been a blessing to my weight loss journey. The food scanning was the game changer for me.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-26T15:09:07-07:00",
+      "rating": 5,
+      "title": "Mike loan broker",
+      "text": "Good",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-26T14:49:23-07:00",
+      "rating": 2,
+      "title": "Intermittent fasting",
+      "text": "Needs serious updating!!   From what I heard from what the Chinese president said people persistent to the AI with truths for it to work properly!  Little hard to do and half the world more than half the world is always spreading rumors and lies, especially on national TV and news. If I pay on the third, I don’t expect the app. It would be out an unused 10 days before that date is up. So why does it keep telling me to pay before the third of the month or lose my information.  I paid for a month I should get the FULL MONTH.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-26T13:49:18-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Best App Ever!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-26T06:45:44-07:00",
+      "rating": 5,
+      "title": "Keeps me tracking!",
+      "text": "Love this app, good recipes, easy to use, love it!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-25T19:16:53-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "Very, very helpful. I absolutely love this app. It has been a life changer for me. What a great tool to have.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-25T14:27:03-07:00",
+      "rating": 5,
+      "title": "Everyone should have this app!!!",
+      "text": "I love this app in the past I had no idea of what I ate in a day .\nNow I can make adjustments through the course of my day based on what I am eating and know exactly what I am putting into my body",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-25T14:02:43-07:00",
+      "rating": 5,
+      "title": "Calorie",
+      "text": "Cool app like it recommends",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-25T09:16:43-07:00",
+      "rating": 5,
+      "title": "Only app that has helped me lose weight!",
+      "text": "This app is so easy to use! If you have the package, scanning the barcode is so fast, if you don’t, the picture method does fine. Connecting to a smart watch like an Apple or a Garmin and it adds in the active calories you burn each day and then your daily calorie intake number raises. With some updates there are glitches and changes i don’t really like, but the response time is quite good and they always have fixed the issues I have. \n\nBut still- it’s great . You decide how fast you want to lose weight by following the suggested calorie intake or going lower. It also lets you track water intake and weight. It adjusts weekly or so on your goal for daily calories. I definitely recommend this app to anyone who has tried everything and failed. This app will help you lose weight if you follow it.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-25T07:26:02-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "I love the app works great",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-25T06:07:45-07:00",
+      "rating": 5,
+      "title": "Menopausal and desperate",
+      "text": "Very easy to use. I have lost weight already",
+      "version": "1.2.73"
+    },
+    {
+      "date": "2026-09-24T18:28:22-07:00",
+      "rating": 5,
+      "title": "The best!",
+      "text": "This is the only thing that worked for me! So easy to use. I lost 15 pounds and still going!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-24T13:19:57-07:00",
+      "rating": 5,
+      "title": "Great App!",
+      "text": "This app has been so helpful in my quest for weight loss.  I would recommend it to anyone who has tried everything else and thinks that nothing can work!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-24T12:23:10-07:00",
+      "rating": 5,
+      "title": "Help me to control",
+      "text": "Found perfect app for controll myself from over eating",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-24T12:05:46-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Very helpful and easy",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-24T06:20:44-07:00",
+      "rating": 5,
+      "title": "Losing",
+      "text": "Love this app",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-24T02:42:16-07:00",
+      "rating": 5,
+      "title": "Genial",
+      "text": "Es una aplicación jenial epodido bajar 30 libras en 90 días",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T19:34:05-07:00",
+      "rating": 5,
+      "title": "I like Calo",
+      "text": "Nice reminders. Good saving for foods. Great macro numbers so I don’t have to calculate. A few missing features but overall VERY useful.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T17:19:51-07:00",
+      "rating": 1,
+      "title": "Shame on you.",
+      "text": "Let us know about the cost before we hit 200 screens.",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-23T16:02:03-07:00",
+      "rating": 5,
+      "title": "Great app!!",
+      "text": "Since I started using Calo I have lost 5lbs in 1 month. It makes you more aware of what you’re wasting your calories on! I love that I can just scan my food items and it gives me a break down of everything. It’s super easy to use and would highly recommend!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T12:44:21-07:00",
+      "rating": 5,
+      "title": "Calo",
+      "text": "Love this app",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T12:09:18-07:00",
+      "rating": 4,
+      "title": "Would not be where I am at without you",
+      "text": "This app has allowed me to lose close to 70lbs and maintain that weight give or take 10 lbs to date 20 more to go has been difficult but with this app I’ll make it and will get my new hip and will be able \nto walk again without the aid of a walker Cain Or crutches… \nThank you",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T11:54:12-07:00",
+      "rating": 5,
+      "title": "Calio app",
+      "text": "Best calorie app ever!!  Easy to use.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T09:17:08-07:00",
+      "rating": 5,
+      "title": "Definitely keeps me accountable!! I’m already down 10 lbs!",
+      "text": "I’ve used other calorie counters and never stuck with them.  Calo: Ai has been my game changer!  I’m on day 48 and still super motivated.  I want to log everything I eat so I can stay on track.  I bought the year subscription and it was the best $20 on an app I’ve spent.  It’s extremely accurate and so easy to use.  It counts calories, carbs, protein, and fat.  I can literally describe what I ate (like, speak it) and it listens and calculates the calories.  You can also take a picture of your food and it calculates the macros! I can also add my own calories if they are inaccurate or if I don’t want to put in every single macro.  I can scan barcodes to get nutritional information and it directly inputs into my food log.  It links to my Apple Watch so when I work out, it adds the burned calories automatically.  \nIt also has a variety of Macro (diet) options like Low Carb, GLP-1 optimization, Low Fat… to customize for anyone’s lifestyle.  And if that’s not enough, it offers recipes according to your Macro choice.  And they are good recipes!  They offer a free trial and there’s no ads.  Seriously! Try this app.  It is really very good!",
+      "version": "1.2.78"
+    },
+    {
+      "date": "2026-09-23T09:09:05-07:00",
+      "rating": 5,
+      "title": "Food is enemy",
+      "text": "Great way to monitor what I eat and has great meal plans! Love it. If only I would use it like it’s meant to be used. I probably would do even better on my diet. Sometimes I get tired of logging. It’s like everything  revolves around food. And I feel like Food is my enemy.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T08:50:28-07:00",
+      "rating": 5,
+      "title": "Definitely renewing my annual membership",
+      "text": "Love this app and the results I’ve gotten from using it! I met my weight loss goal a few months ago but continue to use Calo to keep me eating healthier to maintain my current weight.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T08:30:15-07:00",
+      "rating": 5,
+      "title": "Calorie count",
+      "text": "I love this app.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T07:27:19-07:00",
+      "rating": 5,
+      "title": "Great app!!",
+      "text": "The scan function of this app is terrific, and the diary function keeps me on track!  I love this app!!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T05:06:19-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This is a great app and pretty accurate I’ve only had to fix the results a few times. Would recommend",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-23T04:38:08-07:00",
+      "rating": 5,
+      "title": "Calo & Me😆",
+      "text": "Calo has become my new best friend! My GoTo on a daily basis! ❤️ it❣️",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T22:46:23-07:00",
+      "rating": 4,
+      "title": "ARAdams",
+      "text": "Amazing app love this app it tracks your macros, track your water intake, recipes, the whole nine yards 🔟/🔟",
+      "version": "1.2.74"
+    },
+    {
+      "date": "2026-09-22T18:50:06-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Phenomenal",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T14:53:57-07:00",
+      "rating": 5,
+      "title": "Jo",
+      "text": "Love this app!  Keeps me on track to a healthier lifestyle!!!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T10:22:50-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Need more ounces than grams",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T09:21:21-07:00",
+      "rating": 5,
+      "title": "Very useful",
+      "text": "Easy to navigate",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T06:30:58-07:00",
+      "rating": 5,
+      "title": "So easy and fun!",
+      "text": "I’ve used other apps in the past but the simple, easy interface and photo ai to calculate calories is SO much better!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-22T04:29:36-07:00",
+      "rating": 5,
+      "title": "Love this app!",
+      "text": "I had been looking for a way to track my nutrient intake and was reluctant to pay, but I found this app and I’m very impressed. The scan feature is phenomenal. Worth every cent.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-21T17:31:11-07:00",
+      "rating": 5,
+      "title": "Wow…",
+      "text": "Wow…just, wow!!!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-21T16:42:14-07:00",
+      "rating": 5,
+      "title": "Great friendly App",
+      "text": "This Calo App has helped me track calories and stay in my calorie deficit. Easy to use and love the rewards and badges.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-21T11:42:38-07:00",
+      "rating": 5,
+      "title": "Calo helps!",
+      "text": "I love my Calo app it really keeps me in line with my eating and exercise. It always lets me know when I’m overdoing the calories and that is a big help!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-21T09:13:19-07:00",
+      "rating": 5,
+      "title": "Great App. Highly recommended",
+      "text": "I love this app because it’s very user-friendly. It gives you all the tools you need to help you in your weight loss journey. It helps you with meal plans and calorie counting. You’re supposed to weigh yourself once a week to see if you’re making progress and the app will adjust your calorie intake based on your weight gain or weight loss. I started using this app about a month ago and I’ve already lost 8 pounds and that’s WITHOUT exercising.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-21T09:01:14-07:00",
+      "rating": 5,
+      "title": "Calorie tracker",
+      "text": "Track calories, track protein, fats, carbs, water, activity. Great app",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-20T16:05:14-07:00",
+      "rating": 4,
+      "title": "A grandma",
+      "text": "It’s almost been a year since I started this app. I’ve lost almost 30 pounds in seven months. I hit a plateau and can’t seem to lose any more weight.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-20T11:05:18-07:00",
+      "rating": 5,
+      "title": "Love Calo",
+      "text": "Great app.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-20T09:11:27-07:00",
+      "rating": 5,
+      "title": "Ms Jhaja",
+      "text": "Great",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-20T04:51:34-07:00",
+      "rating": 5,
+      "title": "Thank you",
+      "text": "What a app loving this I’m down 11 pounds in 3 weeks ! Slow and steady wins the race my energy is 100% better thank you calo 🕺🏾",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T17:50:36-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "A great way to track my meals and calories.  It helps me be more accountable to a plan of eating intended to keep my weight steady!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T11:05:19-07:00",
+      "rating": 5,
+      "title": "Calo Journey ⭐️⭐️⭐️⭐️⭐️",
+      "text": "Calo has been an amazing tool assisting in my Journey. Awesome help to keep up with my calories/protein/fiber",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T09:17:20-07:00",
+      "rating": 5,
+      "title": "❤️ This App",
+      "text": "This app has helped me to cut down on my eating/portions and I just love 💕 it!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T06:19:55-07:00",
+      "rating": 5,
+      "title": "Love it 😍",
+      "text": "Best app ever",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T06:00:42-07:00",
+      "rating": 5,
+      "title": "David",
+      "text": "I simply love this app. In a little over two months I have lost 30 pounds",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-19T03:12:31-07:00",
+      "rating": 5,
+      "title": "Best Calorie Tracker",
+      "text": "Love it",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T21:00:33-07:00",
+      "rating": 5,
+      "title": "CHrIS RICHTHOFEN",
+      "text": "I wouldn’t know what to do without this AI calorie counter. It gets it as close as possible.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T17:17:36-07:00",
+      "rating": 5,
+      "title": "Amazing App",
+      "text": "Day 31 on my Health Journey, I LOVE this App! #LifeSaver🤩💖",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T15:07:24-07:00",
+      "rating": 5,
+      "title": "Anthony",
+      "text": "Excellent",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T09:33:57-07:00",
+      "rating": 5,
+      "title": "The best app I’ve ever used.",
+      "text": "Down 65 pounds in one year cannot recommend enough.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T09:30:30-07:00",
+      "rating": 4,
+      "title": "Love the app",
+      "text": "I think the Calo App has features that cover so many different ways to to track your calories , weight and just keep on track that it is easy to use and stay with it.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T06:54:42-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Fairly good, sometimes it scans and what it says can be incorrect calories or foods just make sure you are adjusting accordingly which is great because you can also edit. It is linked to my Apple Watch so my exercise gets uploaded and counted automatically. You can also voice chat what you eat but still make sure the quantity of calories are realistic",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T06:46:40-07:00",
+      "rating": 1,
+      "title": "It’s not accurate, it’s way too below ever being accurate",
+      "text": "It said I take 150 grams of protein, before any of the pictures of food. I let it look at LABELS that say the amount of protein. Only the labels that say for one serving. I came to 60. And it said 150 grams. That is a lot more than I had. So I do not find this app useful at all.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T06:05:45-07:00",
+      "rating": 5,
+      "title": "Keep in mind to pick healthy meals",
+      "text": "Very helpful to keep track of your daily meals",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T05:38:40-07:00",
+      "rating": 5,
+      "title": "Robin",
+      "text": "Calo is great my one negative is I don’t know how to find fast food on there easily. It’s a great app.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T04:25:27-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app works really well for tracking and calorie counting the AI is intuitive. The barcode scanner reads pretty well. The picture scanner of your food also interprets what you’re eating And responds appropriately. The only issue I have is the progress album is not functional at this time so hopefully they’ll release that while I have the Paid subscription for a year.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-18T03:03:41-07:00",
+      "rating": 5,
+      "title": "Litiana Trout",
+      "text": "Great",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-17T13:57:08-07:00",
+      "rating": 5,
+      "title": "Calorie tracker",
+      "text": "Really great app. Saves me lots of time and frustration trying to keep track of all my macros. Although some areas needing slightly adjusting but other than that it’s helped me lose weight and eat right.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-17T09:27:26-07:00",
+      "rating": 5,
+      "title": "Jander",
+      "text": "This is a tool to keep you on track with your daily intake and activity goals",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-17T03:47:26-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I love this tracker… it’s easy to use and makes me aware and accountable for my food choices",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T22:57:25-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I’ve lost almost 20 pounds the app makes it so much easier to keep track of related weight loss components.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T22:21:17-07:00",
+      "rating": 5,
+      "title": "Woohoo!!!",
+      "text": "Calo Makes it Easy… 🤗",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T20:34:51-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "I have only been on it about a week and I have lost 4 pounds. I’m getting it for three months for 19.99 just to make sure I like it in October and then buy for year , unless they took it all out today or tomorrow.im now down 22 pounds and not even a month yet",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T15:18:22-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good app",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T14:56:50-07:00",
+      "rating": 5,
+      "title": "Very motivating",
+      "text": "Love love this app. It has helped me a lot with reaching my goals and creating better habits with food 10 out of 10 recommend!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T12:40:05-07:00",
+      "rating": 5,
+      "title": "It works",
+      "text": "This simple app is helpful in helping you to lose weight by tracking calories and weight.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T09:10:22-07:00",
+      "rating": 5,
+      "title": "TJ",
+      "text": "great app! easy to use and love all the info & suggestions",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T08:41:48-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I love Calo I don’t fill like I’ll on a diet",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T08:07:08-07:00",
+      "rating": 5,
+      "title": "Denise",
+      "text": "Love this app keeps me on track",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T07:20:44-07:00",
+      "rating": 5,
+      "title": "Great Calorie Counting App",
+      "text": "Calo is simple to use and make updates as needed. It integrates weight mgt. into an excellent tracking tool.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T06:21:31-07:00",
+      "rating": 5,
+      "title": "Recommend!",
+      "text": "Easy to use, the Ai is pretty accurate when scanning for food contents.  Love it!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T05:49:43-07:00",
+      "rating": 5,
+      "title": "My review",
+      "text": "Very nice app only thing I would change is when I set what my intake number should be at the app never keeps them where I want them to be",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-16T02:11:35-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This is a great app to help keep track of your calories. I use it every day.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-15T22:09:44-07:00",
+      "rating": 5,
+      "title": "Finally Sucess",
+      "text": "I don’t know, maybe it’s because this app makes me aware of what I’m eating? But finally I’m having success and losing weight!!! it’s a great app!!!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-15T19:50:54-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "Very convenient, easy to count calories. I love it!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-15T19:38:22-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "You will be surprised how many calories some foods actually have. This app helps keep me on track and in my calorie deficit. I’ve lost over 15 pounds so far!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-15T08:47:08-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "I love this app! It holds me accountable and keeps me on track with my diet and calorie intake. I let’me know where I need to improve or what’s missing or where I need to increase things such as protein or carbs.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-15T06:11:35-07:00",
+      "rating": 5,
+      "title": "Fat Girl No More!",
+      "text": "This app is actually well worth the money! It helps my husband and I stay on track! If you stick with it… it works!!\nDown 45lbs !",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-14T17:07:59-07:00",
+      "rating": 5,
+      "title": "Life changer",
+      "text": "Fantastic app it’s a life changer so simple to use",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-14T08:41:48-07:00",
+      "rating": 5,
+      "title": "Nice free app",
+      "text": "I have been using this app for almost 2 months. It helps you keep yourself accountable easy to use. I would recommend and it’s free!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T18:04:40-07:00",
+      "rating": 4,
+      "title": "Hard to search",
+      "text": "Hard to search for restaurant food. Brings up different food than searched for.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T14:56:02-07:00",
+      "rating": 5,
+      "title": "This is a great app",
+      "text": "I’m actually losing weight",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T14:26:15-07:00",
+      "rating": 5,
+      "title": "It’s great!",
+      "text": "It’s easy to use and make tracking a breeze!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T08:13:42-07:00",
+      "rating": 5,
+      "title": "Meeting the goal!",
+      "text": "This app does all the heavy lifting I needed to concentrate on meeting my goals.\nCalories calculated easily with a snapshot! Scanner for bar codes and more! Love it really",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T07:46:44-07:00",
+      "rating": 5,
+      "title": "Calo",
+      "text": "Love how easy it is and adaptable to my changing needs!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-13T07:18:28-07:00",
+      "rating": 5,
+      "title": "Excellent!",
+      "text": "Easy to use!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T19:48:05-07:00",
+      "rating": 5,
+      "title": "My Weight Loss Partner",
+      "text": "Calo makes it so easy and fun to stay on track of my calorie intake and activities while pretty much eating anything I want although it also makes you want to eat healthy. I really think this will finally be the program that works for me!!!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T16:50:02-07:00",
+      "rating": 4,
+      "title": "CALO",
+      "text": "Good program",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T15:48:40-07:00",
+      "rating": 5,
+      "title": "Best app for weight loss",
+      "text": "This app works wonders for me   I’ve lost 20 lbs plus. Slowly but it really works.  Easy to use  many different. Options to record what you eat",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T13:30:53-07:00",
+      "rating": 5,
+      "title": "Best app to track your calories",
+      "text": "Love this app I am more than satisfied",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T12:31:14-07:00",
+      "rating": 1,
+      "title": "Hook and crook to get more money",
+      "text": "Used app during trial period. Liked it. Asked the AI app support assistant about cost. AI said $29.99. I paid and was charged $39.99 + tax. Went to chat to get something more human. Was told AI was wrong but would not credit me the difference.  They added two more months to a subscription they refused to cancel.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T10:10:59-07:00",
+      "rating": 5,
+      "title": "Great AI food scanner",
+      "text": "Always accurate enough with its ai and option to adjust if not right. Like that it syncs with my workouts",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T08:56:37-07:00",
+      "rating": 5,
+      "title": "Exceptional",
+      "text": "I am loving this app It helps me stay on track with all of my meals",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T06:14:50-07:00",
+      "rating": 5,
+      "title": "Exceptional",
+      "text": "Informative, accurate, easy to use. Love all the breakdowns. Helps me stay on track.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-12T04:17:29-07:00",
+      "rating": 5,
+      "title": "Great tool.",
+      "text": "Loving it’s ease of use",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-11T11:00:38-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "So easy to use. I love the way it scans the contents of my dish and knows even its foreign name.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-11T10:13:29-07:00",
+      "rating": 5,
+      "title": "Great Tool for Weight Loss",
+      "text": "I have the desire to lose weight but lack organization. This app has helped tremendously!",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-11T09:58:10-07:00",
+      "rating": 5,
+      "title": "Over Eatet",
+      "text": "Made so easy!  Great help and quick counting method!  Excellent!  Tating 10",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-11T06:40:19-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Excelente aplicación! Me ha ayudado a ser más consciente de lo que como y ya he perdido el 50% del total que me había fijado como meta.",
+      "version": "1.2.76"
+    },
+    {
+      "date": "2026-09-11T03:00:32-07:00",
+      "rating": 5,
+      "title": "My guide",
+      "text": "Keeps me on track",
+      "version": "1.2.76"
+    }
+  ]
+}

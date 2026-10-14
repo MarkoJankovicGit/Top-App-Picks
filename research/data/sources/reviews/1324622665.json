@@ -1,0 +1,357 @@
+{
+  "app": "EF Hello Speak: Learn English",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-28T08:00:15-07:00",
+      "rating": 5,
+      "title": "Fun app!",
+      "text": "The interface makes it enjoyable to try and learn a new language.",
+      "version": "9.1.6"
+    },
+    {
+      "date": "2026-09-17T04:04:44-07:00",
+      "rating": 5,
+      "title": "Convenient and Intelligent",
+      "text": "EF Hello is the best language learning app I have used. It is intuitive, intelligent, and very relevant. The activities are really tailored for immediate use in your daily life and have been very interactive and engaging. Definitely a better experience than other apps on the market!",
+      "version": "9.1.6"
+    },
+    {
+      "date": "2026-09-16T04:01:41-07:00",
+      "rating": 5,
+      "title": "Mi curso favorito",
+      "text": "Aprender un idioma aquí es más divertido y sencillo yo lo recuerdo, si quieres un aprendizaje verdadero es aquí.",
+      "version": "9.1.6"
+    },
+    {
+      "date": "2026-08-31T05:35:12-07:00",
+      "rating": 5,
+      "title": "录音有问题",
+      "text": "录音有问题，太垃圾了，刚开了会员就这样",
+      "version": "9.1.5"
+    },
+    {
+      "date": "2026-08-23T14:18:44-07:00",
+      "rating": 5,
+      "title": "⭐️⭐️⭐️⭐️⭐️",
+      "text": "I really love this app and I have got really smart and I have mastered my English or whatever but yeah I recommend this app 5 stars ⭐️",
+      "version": "9.1.4"
+    },
+    {
+      "date": "2026-08-04T08:39:08-07:00",
+      "rating": 5,
+      "title": "Grate app",
+      "text": "This app is amazing the second I started a conversation I felt like my English has changed this is the best learning app I have ever had you should download it",
+      "version": "9.1.4"
+    },
+    {
+      "date": "2026-07-08T08:25:14-07:00",
+      "rating": 5,
+      "title": "Love the app!",
+      "text": "I have tried a few language apps and this one is definitely my favorite, I can go at my own pace but also it really does help you with pronunciation and providing feedback. I appreciate that it teaches useful phrases and gets you speaking quickly!",
+      "version": "9.1.3"
+    },
+    {
+      "date": "2026-06-10T13:52:06-07:00",
+      "rating": 5,
+      "title": "Cost",
+      "text": "I’m kinda broke , so I can’t afford the cost of those next lessons…I wish it was free",
+      "version": "9.1.2"
+    },
+    {
+      "date": "2026-06-09T08:57:33-07:00",
+      "rating": 4,
+      "title": "4 stars",
+      "text": "Helps me a long the way but can’t practice to long",
+      "version": "9.1.2"
+    },
+    {
+      "date": "2026-06-06T18:05:10-07:00",
+      "rating": 1,
+      "title": "坚持学习英语",
+      "text": "我要说一口流利的美试英语",
+      "version": "9.1.2"
+    },
+    {
+      "date": "2026-05-26T03:56:23-07:00",
+      "rating": 5,
+      "title": "Best language learning app!",
+      "text": "After a year of using EF Hello, I’ve seen real improvement in my speaking confidence. The AI conversation practice and instant feedback make it much more interactive than typical language apps, and the short lessons are easy to stick with. I highly recommend it if your goal is to actually speak the language!",
+      "version": "9.0.4"
+    },
+    {
+      "date": "2026-04-30T09:22:49-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "I have used different apps for language learning, EF Hello has turned out to be by far the best one. I highly recommend it.",
+      "version": "9.0.4"
+    },
+    {
+      "date": "2026-04-22T10:45:09-07:00",
+      "rating": 5,
+      "title": "Great App!",
+      "text": "Truly helpful content and very easy to use!",
+      "version": "9.0.3"
+    },
+    {
+      "date": "2026-04-20T05:48:46-07:00",
+      "rating": 4,
+      "title": "test",
+      "text": "I think is better that\nthe app test you to setup the starting point instead of yourself",
+      "version": "9.0.3"
+    },
+    {
+      "date": "2026-03-01T23:32:11-07:00",
+      "rating": 5,
+      "title": "Love learning with EF Hello!",
+      "text": "I love how the exercises are every day scenarios to make learning a language fun and practical.",
+      "version": "9.0.1"
+    },
+    {
+      "date": "2026-02-15T04:37:20-07:00",
+      "rating": 1,
+      "title": "Mehrkhah",
+      "text": "Its support service is terrible, I have problem with this app and they don’t give me any suitable answers, and could not solve this app bugs",
+      "version": "9.0.1"
+    },
+    {
+      "date": "2026-01-27T03:54:40-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Really enjoy learning Spanish through this platform. Great content and useful tactics to learn quickly.",
+      "version": "9.0.0"
+    },
+    {
+      "date": "2026-01-19T11:48:35-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "Great AI features, cute design. Definitely superior to Duolingo in my opinión.",
+      "version": "9.0.0"
+    },
+    {
+      "date": "2025-12-29T06:41:21-07:00",
+      "rating": 5,
+      "title": "Great Language App",
+      "text": "EF Hello has been great for learning Spanish! I feel like I have learned more in a week than a year on Duolingo. The lessons are practical and I feel more confident speaking the language.",
+      "version": "9.0.0"
+    },
+    {
+      "date": "2025-12-15T07:18:50-07:00",
+      "rating": 5,
+      "title": "Exelente app",
+      "text": "Muy buena , tiene buenos cursos y te ayuda mucho a la pronunciación y a aprender nuevas palabras así como el aparatado en el que puedes conversar con su IA ya sea texto o hablar te ayuda a perder un poco el miedo a socializar",
+      "version": "8.6.0"
+    },
+    {
+      "date": "2025-11-17T07:17:43-07:00",
+      "rating": 5,
+      "title": "Great App!",
+      "text": "This is a fun app to learn a second language with!",
+      "version": "8.5.10"
+    },
+    {
+      "date": "2025-11-13T10:38:58-07:00",
+      "rating": 4,
+      "title": "Глючит",
+      "text": "Приложение на странице «выбор контента» не дает далее продвинуться",
+      "version": "8.5.9"
+    },
+    {
+      "date": "2025-11-13T05:05:07-07:00",
+      "rating": 4,
+      "title": "La app funciona con IA",
+      "text": "Es didáctica y interesante para hablar y practicar día a día",
+      "version": "8.5.9"
+    },
+    {
+      "date": "2025-11-09T18:41:12-07:00",
+      "rating": 5,
+      "title": "Visualization helps",
+      "text": "I thought the use of visual cues helps the learning process!",
+      "version": "8.5.9"
+    },
+    {
+      "date": "2025-10-23T07:03:47-07:00",
+      "rating": 5,
+      "title": "Best Language App",
+      "text": "I love this language app! It’s got great structure for daily use but also interesting modules for spot checking skills!!",
+      "version": "8.5.5"
+    },
+    {
+      "date": "2025-10-18T10:27:30-07:00",
+      "rating": 5,
+      "title": "🔥🔥",
+      "text": "🔥🔥🔥",
+      "version": "8.5.5"
+    },
+    {
+      "date": "2025-10-03T08:03:49-07:00",
+      "rating": 5,
+      "title": "Best language app",
+      "text": "I switched to efhello from Duolingo. The content is much more useful and I feel more prepared to have an actual conversation in Italian!",
+      "version": "8.5.4"
+    },
+    {
+      "date": "2025-09-18T19:39:29-07:00",
+      "rating": 5,
+      "title": "Fun, interactive and relevant!",
+      "text": "I love this app. You can choose themed vocab to learn and it's really interactive. Keeps me coming back for more!",
+      "version": "8.5.3"
+    },
+    {
+      "date": "2025-09-13T09:27:15-07:00",
+      "rating": 3,
+      "title": "What went wrong?",
+      "text": "I used to love this app. But with new updates it gets worse. It used to be very simple concept and I loved it. You start your first lesson and follow the path. Now it’s very confusing. You have your ‘Continue Learning’ next to ‘Your Daily Plan’. Right after you have Course library with bunch of the lessons. Then you have  ‘Your study path’ ‘Course collection’ and bunch of the lessons again. I forgot to mention ‘My course’ all the way at the top. Since you are using AI can it be just a ‘Day Plan’. You open an app once a day and you get your assignments for the day. After you done come back tomorrow. Now it’s very confusing. Do I go to my Day plan or Study path? Maybe have another menu with course library when you can pick a lesson if you want to. Maybe let AI make a plan for the day. Speaking section is horrible. I fail every time. Literally every time. How hard it is to say ‘My name is Anna’? I use BoldVoice to improve my accent. Oh boy that app is picky. But I practice and I able to complete assignment for the day. While I still can’t pass ‘My name is Anna’ at EF Hello. Another thing is a Roleplay. Concept is great but it’s not connected to your English level. You take a first lesson when they teach you how to say ‘Hi’ and at the end of the lesson they want you to say ‘Hi. My name is Alex. I live in LA. On my free time I love to travel and I love to read.’ And all you learn is ‘Hi. How are you?’ Talking about AI. It’s great to get a feedback on your Roleplay. But to get a letter from AI just when you selected a right answer? I spent more time reading AI responses after each question than learning. It used to be one of the best app on the market. Make it user friendly and simple to understand.",
+      "version": "8.5.3"
+    },
+    {
+      "date": "2025-09-06T20:45:00-07:00",
+      "rating": 1,
+      "title": "Scam!!",
+      "text": "Be aware that this app is a scam! No free trial actually available! I have been scammed 40 dollars for just wanting to see what functions it has. I was sure I checked 7 days free trial, but when I went to cancel the subscription 20 min later, I found out that I have signed up for the 3 months plan. Also within the app there was not a function to choose monthly plan, but in Apple subscription page, there are 10 ish plans with different prices to cover the same duration. A scam!",
+      "version": "8.5.1"
+    },
+    {
+      "date": "2025-07-27T21:19:02-07:00",
+      "rating": 5,
+      "title": "Actually learning!",
+      "text": "I’ve been an avid Duolingo user and have seen slow, inconsistent results. The more I use EF Hello, the more I’m learning and understanding language at a faster pace. Such a great app using approachable and meaningful ways to learn languages!",
+      "version": "8.4.8"
+    },
+    {
+      "date": "2025-06-23T15:57:20-07:00",
+      "rating": 1,
+      "title": "The worst thing ever",
+      "text": "It was terrible I couldn’t even get a bit of time off of being on the app",
+      "version": "8.4.6"
+    },
+    {
+      "date": "2025-06-20T07:25:30-07:00",
+      "rating": 5,
+      "title": "Love this app!",
+      "text": "I love this app so much for learning a new language! The structure of it makes it so easy to retain what it has taught you. It’s also updated so frequently so we can keep moving forward with the best ways to learn. Thank you EF!",
+      "version": "8.4.6"
+    },
+    {
+      "date": "2025-06-18T14:13:51-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "This is such a good app, i started today, learning Spanish, and I really like it! Thank you for making this great app! 😃",
+      "version": "8.4.6"
+    },
+    {
+      "date": "2025-06-09T09:47:01-07:00",
+      "rating": 5,
+      "title": "Like this app 👍",
+      "text": "I like this app, I know some English, but not Arabic, this is only the same thing, it can be so good about it.",
+      "version": "8.4.5"
+    },
+    {
+      "date": "2025-05-10T05:39:06-07:00",
+      "rating": 5,
+      "title": "CEO",
+      "text": "It’s very impatient to flow the guideline form experts!",
+      "version": "8.4.3"
+    },
+    {
+      "date": "2025-04-16T04:27:49-07:00",
+      "rating": 5,
+      "title": "Лучшее приложение",
+      "text": "Легкий интерфейс, и реально помогает, учить и практиковать английский язык",
+      "version": "8.4.1"
+    },
+    {
+      "date": "2025-04-12T00:26:37-07:00",
+      "rating": 2,
+      "title": "Iran",
+      "text": "I am from Iran, i want just learn english and I’m unable to purchase the app because we can’t have a credit card its not fair for us…!",
+      "version": "8.4.1"
+    },
+    {
+      "date": "2025-04-04T23:50:24-07:00",
+      "rating": 5,
+      "title": "N",
+      "text": "Really impressive 🤌🏻",
+      "version": "8.4.0"
+    },
+    {
+      "date": "2025-03-24T17:25:30-07:00",
+      "rating": 4,
+      "title": "Interesting app but",
+      "text": "This is an interesting app, and its method is pretty good, But if it asked for my native language and gave a translation feature, that would be better.\nSomewhere really I can't understand what it says but I don't know what to do",
+      "version": "8.4.0"
+    },
+    {
+      "date": "2025-03-07T22:47:18-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "I learned English very easy",
+      "version": "8.3.11"
+    },
+    {
+      "date": "2025-03-06T07:27:02-07:00",
+      "rating": 2,
+      "title": "退出后再也无法登陆",
+      "text": "换了手机,通过邮箱登陆,怎么也登不上，通过发送验证码登陆一直提示该邮箱绑定其它账号，怎么解决请问？",
+      "version": "8.3.11"
+    },
+    {
+      "date": "2025-01-10T15:59:02-07:00",
+      "rating": 1,
+      "title": "Operating office in russia",
+      "text": "Would love to buy and recommend to others, but found that company neglects international sanctions against russia, due to russian invasion of Ukraine.",
+      "version": "8.3.5"
+    },
+    {
+      "date": "2025-01-03T17:44:14-07:00",
+      "rating": 1,
+      "title": "You just want the money",
+      "text": "As for the students who haven’t worked yet, we wait 10 hours intervals for every class sections. It’s not efficient at all! And you just lock the function of notes and question history so they can’t review the previous class materials. Is it necessary? Shame on you!",
+      "version": "8.3.5"
+    },
+    {
+      "date": "2024-12-27T19:24:36-07:00",
+      "rating": 5,
+      "title": "One of the best language apps",
+      "text": "It’s totally worth trying to practice your English skills.",
+      "version": "8.3.5"
+    },
+    {
+      "date": "2024-12-14T22:22:11-07:00",
+      "rating": 5,
+      "title": "Omg",
+      "text": "This is the best app",
+      "version": "8.3.2"
+    },
+    {
+      "date": "2024-12-13T22:10:22-07:00",
+      "rating": 5,
+      "title": "Hola",
+      "text": "Me encanta la app",
+      "version": "8.3.2"
+    },
+    {
+      "date": "2024-12-12T07:56:12-07:00",
+      "rating": 5,
+      "title": "what a good app!",
+      "text": "i really like it. this app is much better than others i have used before. and i love topics here. they’re not so basic as in books or something else.",
+      "version": "8.3.2"
+    },
+    {
+      "date": "2024-12-11T12:37:49-07:00",
+      "rating": 5,
+      "title": "零基础学英语",
+      "text": "试着学了第一节课，感觉还不错。",
+      "version": "8.3.2"
+    },
+    {
+      "date": "2024-12-10T05:07:31-07:00",
+      "rating": 5,
+      "title": "Engaging and easy to use",
+      "text": "An engaging and easy to use app. I just started using it but I like the format better than Babble so far!",
+      "version": "8.3.2"
+    }
+  ]
+}

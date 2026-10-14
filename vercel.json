@@ -1,11 +1,5 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "research/output",
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/dashboard.html"
-    }
-  ],
-  "cleanUrls": true
+  "git": {
+    "deploymentEnabled": false
+  }
 }

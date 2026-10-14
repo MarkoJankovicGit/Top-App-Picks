@@ -1,0 +1,1057 @@
+{
+  "app": "SnapCalorie AI Calorie Counter",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T18:31:34-07:00",
+      "rating": 5,
+      "title": "Amazing!",
+      "text": "This app is amazing and has helped me lose weight!!!",
+      "version": "141.0.4"
+    },
+    {
+      "date": "2026-10-08T20:10:09-07:00",
+      "rating": 5,
+      "title": "Makes Tracking My Nutrition So Much Easier!",
+      "text": "I really enjoy using SnapCalorie! Any AI mistakes are easy to fix!",
+      "version": "141.0.4"
+    },
+    {
+      "date": "2026-10-08T14:19:25-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "Really good app",
+      "version": "141.0.4"
+    },
+    {
+      "date": "2026-10-08T14:10:22-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Like using the app, helps me a lot download my food before eating. Gives me all the information I need.",
+      "version": "141.0.4"
+    },
+    {
+      "date": "2026-10-08T11:48:48-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Even the free version is amazing!",
+      "version": "141.0.4"
+    },
+    {
+      "date": "2026-10-08T04:17:41-07:00",
+      "rating": 5,
+      "title": "Y",
+      "text": "Very easy too understand and it’s good",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-07T10:34:04-07:00",
+      "rating": 5,
+      "title": "Wonderful App!",
+      "text": "I have loved using this app! Easy to set goals / limits and track your status to those goals. I also love the AI ability to estimate macros off of photos! Love using this app!",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-06T15:36:57-07:00",
+      "rating": 5,
+      "title": "Helped with protein tracking and calorie intake",
+      "text": "This app helped me track my protein very easily and overall an amazing app. Would definitely recommend!",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-06T15:02:16-07:00",
+      "rating": 5,
+      "title": "Good reviewer, great free version",
+      "text": "The tech here rivals the big apps like MFP without requiring a subscription. The workflow is a little unintuitive, but once you get used to it, it works fairly well. I think it's photo software can miss but it's one of those things that will improve over time. I would like a way to give the algo feedback for when I know the cal vs its estimation.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-06T13:00:32-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "Amazing App! Helps me alot and does very well with the photos and made me lose 40 pounds and build muscle !",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-06T04:50:29-07:00",
+      "rating": 5,
+      "title": "Fantastic App",
+      "text": "Absolutely recommend for daily tracking. Helps accomplish goals, pair it with exports for external use to supercharge your goals.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-06T03:49:57-07:00",
+      "rating": 5,
+      "title": "Effective app",
+      "text": "I’ve been using the app for about 6 months. Together with whoop and smart scales - works perfectly for body composition goals.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-05T12:47:02-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "This app makes it so much easier to track not only what I’m eating but also the macronutrients, exercise and how that affects calories as well as supports, meal suggestions and how to improve and manage what you’re doing to optimize outcomes. There’s even an AI chat! Highly recommended",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-05T12:05:35-07:00",
+      "rating": 4,
+      "title": "So easy",
+      "text": "Very easy to use and seems pretty accurate.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-05T09:07:38-07:00",
+      "rating": 5,
+      "title": "Easy and works",
+      "text": "I’ve been using SnapCalorie daily to track macros for 6 months now and it’s been the perfect fit for me. Easy, quick, and accurate.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-05T05:13:46-07:00",
+      "rating": 5,
+      "title": "Easy to Use",
+      "text": "Looking for an app to help with weight.  I like snap calorie seems the easiest out of several I have tried.  I particularly like the way custom foods are constructed by just entering the ingredients.  I am just on the free version, but I think the premium version allows customization of dash board to include “added sugars” and “net carbs”.  This should complete and fitness app well.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-04T10:10:37-07:00",
+      "rating": 5,
+      "title": "Good, free, and Simple Macro and Calorie tracking app",
+      "text": "I've used the app for a month and appreciate its simplicity. It performs as expected, and the custom foods feature addressed my concerns. Even the free version tracks calories, macronutrients, and selected micronutrients effectively.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-03T09:34:43-07:00",
+      "rating": 4,
+      "title": "Too limited. Better than Cal AI, but not Bevel",
+      "text": "Snapcalorie looks prettier but for only a 2-5% lesser margin of error it seems to have far less features than Bevel. It doesn't have the nutrion label for my entire day, doesn't log caffeine or alcohol or the water content of those beverages, veggies, whole grains, etc... just macros and micros and that's all you get. It does sync immediately with apple health though which Cal AI does not. Frankly I think Snapcalorie should merge with Bevel.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-01T22:02:29-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "A nice app",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-10-01T11:00:04-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Pretty good app and easy to use. It’s good at estimating when I don’t know the exact amounts.",
+      "version": "141.0.3"
+    },
+    {
+      "date": "2026-09-30T18:32:16-07:00",
+      "rating": 5,
+      "title": "Free and easy to use calorie tracker",
+      "text": "Definitely one of the most direct and free picture calorie counters out there. In terms of accuracy, it’s about average from what I expected, usually the more complex the dish the less accurate it is, but you can save your recipes or dishes if you like meal planning so it’s more easier that way. \n\nBut compared to other apps like this, this is definitely one of the best free options out there.",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-30T15:06:00-07:00",
+      "rating": 3,
+      "title": "so easy, so great, one annoying quirk though",
+      "text": "it’s intuitive to use, simple, and the photo snapping feature is awesome.\n\nGuys — I’ve logged my tofu consumption like 20 times and each time i have to manually add it by going through my history or scanning the barcode. The search function for foods that I’ve eaten is really clunky, it doesn’t seem to retain the foods I eat/log on a regular basis. Please fix, otherwise it’s great.",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-30T09:45:44-07:00",
+      "rating": 2,
+      "title": "If You Are Precise in Measuring Your Ingredients, This Is Not the One",
+      "text": "I’m guessing if you just want to scan food and take it as is, or scan barcodes, this app is fine. But things like the voice input are not great usability. \n\nSometimes automating everything is not ACTUALLY more convenient. If I am logging by ingredient weight in a recipe, there is no way to go back and edit either. \n\nSo it turns into a giant pain to be able to log actual gram weights in a recipe. \n\nThis is especially painful by voice. Because there is no way to manually enter things after you have weighed them. \n\nThe timeout on the voice function is just too short, with no override. And then you cannot go back and edit. Very user-unfriendly.\n\nI didn’t have it long enough to know whether simple scans would work fairly well, so if that’s what you do primarily, it may work great for you. \n\nAnyone measuring out ingredients, though, not a good option.",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-30T09:13:32-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Very accurate",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-30T07:04:55-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "I've used a couple of ai tracker apps and this seems to be the most accurate. Ton of updates over the year and continues to improve with the research that it is able to pul. Highly recommend!",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-29T11:48:07-07:00",
+      "rating": 5,
+      "title": "Just about Perfect!",
+      "text": "I have been comparing SnapCalorie with a few other calorie trackers and this one appears to have one of the most accurate macro calculators! Another amazing feature you won’t find in other apps is the Photo Food Diary. I can look back at my week in photos and get a better sense of the quality of food I ate, vs just looking at summary of numbers.\nMy only wish is that the Dashboard that shows “calories remaining” would also show “calorie target” and “calories consumed”. Other than that nit-pick, it’s a great app!",
+      "version": "141.0.2"
+    },
+    {
+      "date": "2026-09-29T08:29:22-07:00",
+      "rating": 5,
+      "title": "Great program",
+      "text": "I like being able to take photographs. An AI tool is available. Multiple ways of inputting data. Easy to customize.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-27T18:29:35-07:00",
+      "rating": 4,
+      "title": "Works Well",
+      "text": "Very intuitive and convenient to use.  At times a little inaccurate when using the photo of the meal, but works well enough most of the time.  Barcode scan is great.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-27T16:14:15-07:00",
+      "rating": 5,
+      "title": "Love!",
+      "text": "This app has helped me with losing weight. I especially like how easy to navigate the UI is, and that the app helps track macro targets.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-26T15:42:30-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "The app is amazing, very user friendly and very accurate when tracking calories and streaks.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-25T10:48:38-07:00",
+      "rating": 5,
+      "title": "Very convenient and easy to use",
+      "text": "Very convenient app with AI food recognition. \n+ easy to use\n+ pretty accurate in determining the food \n+ possible corrections\n- can’t seem to understand sugar intake settings. Either always at 0 or maxed out.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-25T05:17:40-07:00",
+      "rating": 5,
+      "title": "Very Impressed So Far",
+      "text": "I have used many apps like this over the years and  over a month into using this one I have been happily surprised. It seems to be very user friendly. I love the fact that I can take a photo of my meal and it will calculate calories etc for me. It has been very accurate in properly identifying what I’m eating and the portions. This app hasn’t been overly complicated and has the features that I need and want. Highly recommended!",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-24T12:04:15-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "I enjoyed using it, accurate, quick and great for everyday usage. I would recommend to others looking for a calorie tracking app.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-24T11:44:01-07:00",
+      "rating": 5,
+      "title": "Great job",
+      "text": "SnapCalorie AI Calorie Counter is a game-changer! I love how easy it is to just snap a pic of my meal and get all the nutrition info I need in seconds. The app interface is super intuitive and the AI portion measurement is spot-on. It's like having a personal nutritionist right at my fingertips. Highly recommend for anyone looking to track their food effortlessly.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-24T09:43:00-07:00",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "Very helpful for weight loss",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-24T06:48:57-07:00",
+      "rating": 5,
+      "title": "Best modern tracker!",
+      "text": "Convenience, use of LIDAR and good algorithms are great! Would be great if app could work without internet connection though",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-23T12:58:14-07:00",
+      "rating": 5,
+      "title": "Gets the job done.",
+      "text": "I was using Claude before now I use this. Makes it easier.",
+      "version": "141.0.1"
+    },
+    {
+      "date": "2026-09-22T09:56:29-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Quick and easy to use",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-22T05:42:15-07:00",
+      "rating": 5,
+      "title": "Great App!",
+      "text": "I have been using it for few weeks now,  I like that it search online based on name. It seems to be accurate. It is definitely user friendly.",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-21T23:19:07-07:00",
+      "rating": 5,
+      "title": "Flight is good",
+      "text": "convenient, fast, intuitive, easy to search.",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-21T19:47:35-07:00",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "I really like how this app makes you conscience of what you eat and is super easy to use. You just gotta find the inner power in you and this app will help you.",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-21T18:27:06-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "This app has been awesome for tracking my calories easily and quickly. I love that you can just take a picture and it will give you the nutritional information. I felt like I was not successful using other apps where I had to calculate everything on my own like if something was not already in the database, but with this app that it’s not a concern at all. I have lost 10 pounds in the last three months and I’m very happy it is working!",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-21T14:24:04-07:00",
+      "rating": 5,
+      "title": "best calorie tracker out there",
+      "text": "my brother showed me this app and i canceled my my fitness pal subscription immediately it does everything fitness pal does and more all for free. And absolutely no bugs either",
+      "version": "141.0.0"
+    },
+    {
+      "date": "2026-09-17T14:05:10-07:00",
+      "rating": 5,
+      "title": "Snap Calorie",
+      "text": "Excellent",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-16T12:05:42-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "What an easy to use app. Great for tracking my meals.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-16T03:34:14-07:00",
+      "rating": 1,
+      "title": "Very inaccurate",
+      "text": "Almost no reporting or identification of sugars",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-14T23:55:28-07:00",
+      "rating": 5,
+      "title": "Excellent App to Track Macros",
+      "text": "I started using this app to track my macros and it is very user friendly and easy to use daily.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-14T20:48:38-07:00",
+      "rating": 5,
+      "title": "Snap Calorie",
+      "text": "I think this app is very good considering it is free to use. I have been looking for a macro tracker for a while and this was the only one that I could find that would let you use it for free.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-14T19:46:23-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "Love it so muchhhhh",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-14T12:01:51-07:00",
+      "rating": 5,
+      "title": "Would recommend",
+      "text": "Amazing",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-14T07:07:54-07:00",
+      "rating": 5,
+      "title": "Best food tracking tool",
+      "text": "This is life changer for me where weight management is concerned. Loving it!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-13T08:28:42-07:00",
+      "rating": 5,
+      "title": "Kinda perfect",
+      "text": "The app works exactly the way I want it to. I’m able to quickly track my food intake. I’ve been able to cut weight and improve the quality of what I eat.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-13T08:11:20-07:00",
+      "rating": 5,
+      "title": "New to app",
+      "text": "I am new to SnapCalorie but it seems to fit my needs for an easy to use, feature rich tracking app. As someone who struggles to track meals, SnapCalorie is making it easy to do.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-12T13:10:17-07:00",
+      "rating": 5,
+      "title": "Open, Snap, Eat!",
+      "text": "Love how easy SnapCalorie makes tracking! Just snap a photo of your meal and it does the work for you. Quick, convenient, and a huge time-saver!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-12T07:10:46-07:00",
+      "rating": 5,
+      "title": "Best calorie tracker hands down",
+      "text": "I have been using snapcalorie tracker for over a month now. I tried a few other others which claim to be AIA generators. But after committing to this one, there is no going back Super thanks for making such an awesome App.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-11T07:10:05-07:00",
+      "rating": 5,
+      "title": "Awesome!!!",
+      "text": "This app is helping me lose weight fast and safely! I love it!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-11T05:37:40-07:00",
+      "rating": 5,
+      "title": "The Best App",
+      "text": "This is the best nutrition app I have found. I have used most of them all and I find this one to be the most efficient. I want an app that I can quickly track my calories and go on with my life. This app is it! It has all the features I want without all the fluff. It’s the only nutrition tracking app I will use.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-10T07:10:02-07:00",
+      "rating": 5,
+      "title": "The best",
+      "text": "Best",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-10T05:32:49-07:00",
+      "rating": 5,
+      "title": "Love this apps features",
+      "text": "It is easy to use and does everything I need it to do. My favorite feature is the ability to add recipes. It makes logging meals a snap. I love that it rates ingredients and foods because it helps me learn to make healthier choices.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-10T01:52:50-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "I’ve been using this app for a few months now to help keep better track of my intake and macros and I was pleasantly suprised to learn that it tracks certain micronutrients as well such as potassium, fiber, and sodium. I also particularly like the food rating system. I would recommend.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-09T13:26:05-07:00",
+      "rating": 4,
+      "title": "Love it",
+      "text": "It’s simple to use so it keeps me on track. Love the picture option! No more scrolling for the food you want!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-08T17:09:27-07:00",
+      "rating": 5,
+      "title": "Lost 20 lbs",
+      "text": "I lost 20 pounds in three months with this app. Currently, I am on day 99 of my streak and still going strong. It was really important to me to find a calorie tracker that was easy to use and would let me log foods quickly without getting in the way of my day. This app is perfect for my goals. It only takes me a few seconds to take a picture of my meal, log it, and be done. This app has been a game changer for me. love it!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-07T14:47:17-07:00",
+      "rating": 5,
+      "title": "Most accurate snap app in research!",
+      "text": "Great app for tracking calories, making weight goals, and gauging your nutrition. It helped me lose 14 pounds and keep it off in the span of 2-3 weeks!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-07T08:59:49-07:00",
+      "rating": 5,
+      "title": "Best tracker",
+      "text": "This is the best calorie tracker app. I’ve tried the others. SnapCalorie is second to none! No, the image recognition isn’t always totally accurate (how can it be) but it’s close. And when I’m in a rush, it’s better that than nothing. But the ease of use and other features are great too!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-07T04:42:59-07:00",
+      "rating": 5,
+      "title": "Outstanding app",
+      "text": "This app is very user friendly and even better than expensive calorie counting apps that I’ve used in the past.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-05T20:47:45-07:00",
+      "rating": 5,
+      "title": "Super easy to use",
+      "text": "The app is easy to use and the AI is pretty accurate.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-05T12:49:20-07:00",
+      "rating": 5,
+      "title": "Helping me build a great habit.",
+      "text": "Super straightforward and easy-to-use (outside of the pop-up for premium every single time you open the app). Reliably finds all kinds of inputs— from barcodes, to poorly taken photos. Happy to have found this app.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-05T04:40:18-07:00",
+      "rating": 5,
+      "title": "Super helpful!",
+      "text": "This app has been great! I’ve been using it for 230 days straight. It’s been a key part of me going from 240lbs to 192lbs in 9 months. It’s super easy to upload your meals, and I love loading my meals in advance for work. You can have favorite meals for quick adds. It really helps you understand what you’re eating and the health benefits of it. It breaks down the macro and micro of everything you eat, giving you a good understanding. You can either use it to determine how much you eat in a day, but I always manually adjust it to what suites my goals best.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-04T20:52:03-07:00",
+      "rating": 5,
+      "title": "Best free calorie app I’ve used.",
+      "text": "I love how it allows you to take pictures of food and automatically analyze how much calorie is in the food.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-04T04:59:40-07:00",
+      "rating": 5,
+      "title": "Best App",
+      "text": "I had thought I was doing everything to stay healthy while eating right & working out, but since I’ve started using this App, it’s helped me keep track of everything I eat a lot better & I’ve lost 11 lbs!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-03T10:30:28-07:00",
+      "rating": 5,
+      "title": "Helped me drop 15+ pounds in one month!",
+      "text": "This app works great, it split up all of my meals so I could see what I was eating and where I was going wrong. I was able to loose 15 pounds of my weight with this app!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-03T06:50:35-07:00",
+      "rating": 5,
+      "title": "Awesome App",
+      "text": "The concept of the app is very relevant for today’s on the go person that wants to track various types of foods and their nutrition values.  From simple snap a picture of the meal on looking back on meals already captured this is really the must have app, oh yeah I forgot to mention it help with weight loss when used daily.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-02T10:05:07-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "This app is easy to use and helps me with my goals",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-01T17:12:26-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "Favorite app so far!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-01T16:10:24-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Really helps me stay on target with my goals.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-01T12:02:11-07:00",
+      "rating": 5,
+      "title": "First calorie counter I’ve stuck with",
+      "text": "After some early niggles, I’ve come to appreciate this app. It’s the first calorie counter I’ve bothered to use for more than a few days. I’m recommending it to friends now.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-09-01T01:29:47-07:00",
+      "rating": 5,
+      "title": "Great Free App",
+      "text": "This app is great to keep track of your diet.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T23:34:31-07:00",
+      "rating": 5,
+      "title": "Highly recommend",
+      "text": "Great app",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T17:19:22-07:00",
+      "rating": 5,
+      "title": "Thank you",
+      "text": "Very helpful",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T15:49:13-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "I have used SnapCalorie since 2024, it has been one of the things that have helped me lose weight. I love how I am able to log the calories as well as the protein, saturated fat, etc. It  also allows you to track your weight and it is one of the best feelings to watch that line move. It is truly a great app!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T12:41:22-07:00",
+      "rating": 5,
+      "title": "Shockingly simple",
+      "text": "I’m so impressed with how easy this is. I think adding a few notes really helps when you use the photo, but it’s so much easier than other calorie trackers",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T12:02:15-07:00",
+      "rating": 5,
+      "title": "Best out there",
+      "text": "I checked quite a few apps before settling on snapcalorie. While it still under estimates the meals, it’s by far the closest calculator you can find to easily lose weight. I have successfully lost 8 pounds in one month using this app!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T11:04:17-07:00",
+      "rating": 5,
+      "title": "The greatest calorie counter!",
+      "text": "Very powerful app with lots of features and good database of stored food. I’ve been using it for several months before writing this feedback!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T06:09:58-07:00",
+      "rating": 4,
+      "title": "Recommended on fb group",
+      "text": "I got this app because of a calorie deficit group on Facebook recommending it and it does exactly what I need it to do. It doesn’t have ALL of my foods to scan but no app will. Those niche small store brands are going to get you. It does well and I like I can toggle between seeing calories with or without my workouts so I can choose to be even more in deficit. It has been very helpful! This review was made in response to a prompt on the app.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-31T03:14:58-07:00",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "Very helpful but wish the streak to start over had a frozen chance",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-30T10:20:11-07:00",
+      "rating": 5,
+      "title": "Impressed",
+      "text": "Using a few weeks consistently since it has been so easy. Shocking amount to do free. Linked with my Health app easily.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-30T09:34:29-07:00",
+      "rating": 5,
+      "title": "So easy!",
+      "text": "I love SnapCalorie AI Calorie Counter! I no longer have to weigh or measure foods, I just take a picture of my meal before eating and I am told how many calories I am about to eat and am graded on the nutritional value. Then I know how many calories I have left for the day and which nutrients I need to include in my next meal to complete my balanced diet. I love that I can snap a barcode on packaging to get an exact analysis. Love it!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-29T18:16:49-07:00",
+      "rating": 5,
+      "title": "Great, easy tracker",
+      "text": "I started using Snap Cal to help me change my diet to reduce my cholesterol. I LOVE that I can click on individual macros to see what foods had the most salt or saturated fat or any other macro.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-28T15:33:43-07:00",
+      "rating": 5,
+      "title": "Easy as Cheese!",
+      "text": "The app is super helpful in helping me stay on track while I’m traveling for work, which is usually where all the hard work and discipline go out the window because other trackers are more cumbersome.  Even using this data directionally has been a benefit.  I do test it by putting measured ingredients onto a plate and it’s pretty close on its own but when adding in helpful details, it dials it in.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-28T13:14:37-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy to use",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-28T10:37:04-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Very simple and easy to track my calories",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-28T09:34:51-07:00",
+      "rating": 5,
+      "title": "Great context",
+      "text": "This app uses photos with text for context amazingly to quickly take down scale numbers, relative size, etc. really amazing app that is absolutely worth downloading",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-27T10:14:38-07:00",
+      "rating": 5,
+      "title": "Simple to use",
+      "text": "I love the simplicity of this app. I can either take a picture or describe my food and it documents it by breakfast, lunch and dinner.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-27T04:20:33-07:00",
+      "rating": 5,
+      "title": "Best app ever!",
+      "text": "I truly amazed by this app. Before I was always lazy to count calories, but now with advent of AI it is made easy. I tried about a dozen different AI calorie counting apps and this one wins by far. It has many great, free features and always accurate and easy  in recording calories. It makes me ethusiaatic about the process itself, it also intergrates with Apple Health where I can add calories lost. It is the best by far, hands down. I am glad AI recommended it to me as the best, it is very true.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-26T06:37:45-07:00",
+      "rating": 5,
+      "title": "Best app for recording and managing macros and calories",
+      "text": "The ability to snap a picture of a meal and get all the nutritional data from a meal makes this so easy to use. I also like the weekly snap shot I get where I can set up a goal based on the data for the following week.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-25T14:22:56-07:00",
+      "rating": 5,
+      "title": "Amazing and simple tracker",
+      "text": "I have been using for months and never had any problems. Wonderful app!!!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-25T14:11:53-07:00",
+      "rating": 5,
+      "title": "Best food tracking app!",
+      "text": "I’ve used this app consistently for a month. It is the easiest, most accurate app I’ve used (and I’ve tried many). It’s so simple to take a picture of my meals and upload. I like the micronutrient tracking and the meal ratings.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-24T21:49:28-07:00",
+      "rating": 4,
+      "title": "Age requirement",
+      "text": "This seems like a good app overall but why put “13+” in the app description, but you only let 18+ year olds use the app? Fat teens exist too yk.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-24T18:13:25-07:00",
+      "rating": 5,
+      "title": "Great for staying on track",
+      "text": "This app has been so helpful with helping me track my calories while calorie deficit and reach my goals. I love how simple the app is to use without the extra pop ups and ads",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-24T14:31:48-07:00",
+      "rating": 5,
+      "title": "Best photo tracking app",
+      "text": "I really enjoy that you can take photo of any food, barcode or label then annotate with some text if needed and the app will understand you!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-23T19:59:16-07:00",
+      "rating": 5,
+      "title": "Very good calorie tracker",
+      "text": "The photo option is great and easy to use!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-23T12:35:51-07:00",
+      "rating": 5,
+      "title": "Quick, Easy, Accurate",
+      "text": "SnapCalorie has been the easiest way for me to keep track of my intake and macros. Most importantly, it allows me to know what my intake is for the day at the Home Screen. I can gauge my progress for the day immediately after opening the app.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-23T05:23:41-07:00",
+      "rating": 5,
+      "title": "App is helping me a lot!",
+      "text": "Very useful in helping me monitor and maintaining my diet, I’ve lost over 25 pounds and this app has been a huge part of it",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-23T04:18:01-07:00",
+      "rating": 5,
+      "title": "Rating…",
+      "text": "Snap Calorie has helped me lose a lot of weight and it is a amazing app",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T20:41:56-07:00",
+      "rating": 5,
+      "title": "Really useful",
+      "text": "This app is really useful to make sure you hit you calories while also making sure you are  hitting your protein goals",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T11:13:04-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app has helped me gain an inkling of how much an eat everyday. My nutritionist has told me to keep using it to track my eating habits. I love how I can take pictures and it gives me the calorie count.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T10:27:41-07:00",
+      "rating": 5,
+      "title": "REVIEW",
+      "text": "This is the best app I have ever used by far i recommend downloading. This also has free picture uploading.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T10:05:46-07:00",
+      "rating": 5,
+      "title": "Thank you!",
+      "text": "Great app.It helped me tremendously.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T07:42:41-07:00",
+      "rating": 5,
+      "title": "Nice tracker app",
+      "text": "Logging food for tracking intake has always been a chore so I’ve always avoided them. I’m working with a nutritionist that needed me to log food for 2 weeks. I got the free trial of this app and it made logging and tracking so easy. Snap a pic or just describe your meal and the app records calories, macros, and key nutrition elements. \n\nAlso tracks weight and exercise for net calories.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T07:38:47-07:00",
+      "rating": 3,
+      "title": "Consistently slightly wrong",
+      "text": "This app works, and don’t get me wrong, it makes tracking a lot easier. However, it is extremely frustrating that it takes a picture and consistently moves the numbers. Just tried to log frozen salmon that has 24 grams of protein and 4 grams of fat, and it recorded from the picture I took, 23 grams of protein and 5 grams of fat. It does this every single time. It is not capable of being correct. It gets you close, but just hilariously frustratingly bad at scraping information from pictures.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-22T05:59:32-07:00",
+      "rating": 5,
+      "title": "Awesome!",
+      "text": "Super easy to use, convenient, and lovely night mode themed look. It’s been really nice for recording my calories. I can’t really comment on how accurate it is but I have been losing weight so it’s doing something!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-21T11:04:02-07:00",
+      "rating": 5,
+      "title": "Fast and Easy Meal Tracking",
+      "text": "SnapCalorie makes meal tracking much less arduous by not having to manually input meals. You just take a photo of your meal and it calculates the nutrition, and quite accurately too!",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-21T07:06:11-07:00",
+      "rating": 5,
+      "title": "Best health app!",
+      "text": "One of the best calorie tracking apps. I have been using for a while now and it has kept me in line with my goals, and makes it easy to track my macro and micronutrients. Incredibly easy to use - the photo feature is accurate, and the barcode scanner is an added bonus.",
+      "version": "140.3.1"
+    },
+    {
+      "date": "2026-08-20T13:13:28-07:00",
+      "rating": 5,
+      "title": "One month so far",
+      "text": "Hi, so I have been using SnapCalorie for one month (two thumbs up) and it has helped me better understand my daily food intake from proteins(need that for muscle) , fats and carbs plus enjoy the picture taking AI feature for food that I prepare at home. Would definitely recommend",
+      "version": "140.3.0"
+    },
+    {
+      "date": "2026-08-20T08:16:48-07:00",
+      "rating": 5,
+      "title": "Best Calorie Tracker",
+      "text": "Very accurate and user friendly",
+      "version": "140.3.0"
+    },
+    {
+      "date": "2026-08-20T06:07:56-07:00",
+      "rating": 5,
+      "title": "Great so far",
+      "text": "Been using the app about a month and love it so far. Easy to use and finds most foods I enter.",
+      "version": "140.3.0"
+    },
+    {
+      "date": "2026-08-18T15:44:30-07:00",
+      "rating": 5,
+      "title": "Best nutrition tracker out there.",
+      "text": "Fantastic app. Easy to use and very accurate.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-17T23:32:24-07:00",
+      "rating": 5,
+      "title": "Easy to use and easy to learn",
+      "text": "I came from Cal Ai but wanted more in depth information and SnapCalorie was right there waiting for me! It was really easy to set up and easier to learn.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-17T07:38:53-07:00",
+      "rating": 5,
+      "title": "Very accurate",
+      "text": "Great app, easy to use. Tried 5 similar apps and this is the most accurate one.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-17T03:34:38-07:00",
+      "rating": 5,
+      "title": "Great calorie tracking app",
+      "text": "I use this app everyday to track my calories, the AI picture taking is pretty accurate! Will recommend 10/10",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-16T10:33:04-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "It’s great and I love it and it helps out so much",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-16T02:57:14-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Been using it for a while its a great app!",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-16T00:42:46-07:00",
+      "rating": 5,
+      "title": "Good app for tracking your calories",
+      "text": "Honestly it's a pretty good app if you need precise calories tracking",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-14T18:30:15-07:00",
+      "rating": 4,
+      "title": "Shockingly the first Calorie Tracker I like",
+      "text": "I’ll definitely be using this for a long time! There are so many different ways to log things, and I love that it really comes down to your own preferences.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-13T18:40:57-07:00",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Best free calorie tracker out there definitely try it out",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-13T07:56:13-07:00",
+      "rating": 5,
+      "title": "Best app ever",
+      "text": "Best app ever",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-11T19:47:46-07:00",
+      "rating": 5,
+      "title": "So easy to track!",
+      "text": "I love how flexible and easy SnapCalorie is to use. It gives me a solid estimate of my calories, macros, and overall nutrition without making tracking feel like it consumes my day. It’s perfect for getting a good sense of what I’m eating without obsessing over every detail.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-11T15:40:05-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "easy use",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-11T10:28:07-07:00",
+      "rating": 5,
+      "title": "Quick, easy, and accurate",
+      "text": "I like how simple the app is and how if the AI image scan isn’t correct, you can change it! Also, what’s cool is that you can put in context for the picture you’re adding in.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-10T20:35:17-07:00",
+      "rating": 3,
+      "title": "Added sugar update doesn’t work",
+      "text": "The added sugar update is a good idea but it either says that items have 10x the amount of sugar they actually have or says that they have 0 sugar when they don’t actually have 0 sugar.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-10T11:38:41-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "First and only app that got me tracking, really good",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-10T08:39:40-07:00",
+      "rating": 4,
+      "title": "Some good some bad",
+      "text": "Good concept however I feel that most of the foods in the database have wrong macros and often find myself creating my own for everything",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-09T12:13:51-07:00",
+      "rating": 5,
+      "title": "Best macro app!",
+      "text": "Super easy to use and very user friendly",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-09T05:10:42-07:00",
+      "rating": 5,
+      "title": "My breakfast",
+      "text": "I love this app. I’ve been using it for a while. I’m not asking consistent but I’m trying to be better, but the app is very easy to use and I love it.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-08T19:16:20-07:00",
+      "rating": 5,
+      "title": "Simple, Accurate, and Easy to Use",
+      "text": "SnapCalorie is an excellent app for keeping a complete and accurate record of the food you eat throughout the day. It makes tracking meals and calories simple and convenient, while giving you a clear picture of your daily nutrition. It’s easy to use and has been very helpful for staying consistent with my nutrition goals. Highly recommended!",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-08T14:31:14-07:00",
+      "rating": 5,
+      "title": "Convenience is key",
+      "text": "I have been quite strict with my eating regimen lately, making tracking calories stressful. My previous method of calorie tracking involved using a scale to weigh everything I ate. That was a major inconvenience and made my dieting journey even more stressful. I really like SnapCalorie because of its ease of access. Rather than messing around with scales and portions, I just snap my meal and call it a day.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-08T12:41:23-07:00",
+      "rating": 5,
+      "title": "Pretty great",
+      "text": "I’ve been using it for about a month and it’s been a good experience. I chose it based on a few YouTube reviews and I’m happy about the decision. Being able to simply take a picture or use voice commands and describe my meals has been beneficial",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-08T04:59:06-07:00",
+      "rating": 5,
+      "title": "Great tracker for beginners/Experts",
+      "text": "This app has helped me realize how much junk food I eat and how to better monitor and manage what I put into my body. I’ve lost 50 pounds since August of last year, by keeping track of the food I eat so I don’t over due it on some macros. Obviously it’s not perfect but the info and ease it gives to enter meals and the photo ai helps so much",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-07T10:05:11-07:00",
+      "rating": 5,
+      "title": "Keeps me on track",
+      "text": "Good little app, even if free version.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-06T10:53:35-07:00",
+      "rating": 5,
+      "title": "Staying on track has never been so easy!",
+      "text": "I have been using SnapCalorie for the past 2 months. It has made everything so easy! No more guessing or over eating. I simply take the picture and does the rest for me… even shows me macros!! 🙂",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-06T10:47:32-07:00",
+      "rating": 4,
+      "title": "User friendly tool!",
+      "text": "I’ve tried all the apps for counting calories. It’s important to me that I know what I’m consuming. This app is by far the best! Its user friendly design is frictionless and makes it easy to keep up with it! Great tool for managing health and reaching goals!",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-06T06:01:21-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "Super easy to use and helpful.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-05T15:01:37-07:00",
+      "rating": 5,
+      "title": "Edit: label editing",
+      "text": "Great app. Been using for two years now and they fix actual app bugs and glitches regularly!! Very satisfied. Helped me put on 35 lbs (and some height)",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-04T21:10:32-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "Makes meal tracking nearly effortless.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-04T16:04:36-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Accurate, easy to use",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-04T12:22:00-07:00",
+      "rating": 4,
+      "title": "Very useful tool for diet",
+      "text": "Very useful tool for me to quickly track calorie intake.",
+      "version": "140.2.0"
+    },
+    {
+      "date": "2026-08-03T08:46:42-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Use this daily and it is very accurate",
+      "version": "140.1.4"
+    },
+    {
+      "date": "2026-08-03T06:16:21-07:00",
+      "rating": 5,
+      "title": "5 start",
+      "text": "It was really easy to track my calories and helped me lose weight",
+      "version": "140.1.4"
+    },
+    {
+      "date": "2026-08-02T22:29:28-07:00",
+      "rating": 5,
+      "title": "Pretty good",
+      "text": "Gets majority of stuff pretty accurately",
+      "version": "140.1.4"
+    },
+    {
+      "date": "2026-08-02T14:40:49-07:00",
+      "rating": 5,
+      "title": "The best!",
+      "text": "I’ve been using this app all summer and it has completely blown me away! All I do is take a picture of everything I eat and drink and it’s automatically logged with correct weights/portions and macros!!! I’ve also added a couple recipes so I can just quickly log my meal prep. And I’m sure there are still some cool tricks and perks I haven’t even discovered yet….wouldn’t trade this app for the world, truly. 10/10",
+      "version": "140.1.4"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "app": "Tempo: Home Workout & Fitness",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-05T05:27:43-07:00",
+      "rating": 5,
+      "title": "Travel convenience",
+      "text": "In Mexico City and love the convenience of keeping up with my yoga practice and removing all the kinks after a day of sight seeing.",
+      "version": "2026.38.1"
+    },
+    {
+      "date": "2026-09-22T15:08:15-07:00",
+      "rating": 4,
+      "title": "Enjoying Classes and Trainers, App needs work",
+      "text": "Have been enjoying my classes and programs so far - like sticking with the same trainers and I like the fact that they all have a variety of classes with different time lengths so I can fit in exercise whenever I can during my day. A little dissatisfied with some of the app features most especially the fact that I cannot rewind a class. I am a busy mom and sometimes my kids interrupt me during a class, so I miss an instruction. It’s frustrating not to be able to rewind, the only option is to exit the class and restart it. Would also like the option to permanently hide the leaderboard. I currently have it off during classes but at the end of my workouts it pops up again with my summary and I do sometimes find it discouraging that even though I gave it my all, I came in last 10th percentile. I have a problem with comparing myself to others and would really enjoy it much better to not have the leaderboard at all. App also sometimes has trouble connecting with the docking base, not sure if it’s because my phone is a little loose when it sits on top, it is not a strong connection in my opinion. Overall I enjoy the trainers I have used so far, and especially love the fact that I can choose a class for whatever time I have available.",
+      "version": "2026.38.0"
+    },
+    {
+      "date": "2026-09-21T14:07:50-07:00",
+      "rating": 5,
+      "title": "My favorite workout app",
+      "text": "I’m doing voice to text so sorry for any typos but I absolutely love Tempo. The equipment is phenomenal. It makes me excited to use it because the quality is just amazing. I even love the colors of my weight plates. I love the app and the programs in the training plans that are offered on it and I love Tempo‘s customer service my order was delayed by a few weeks and Tempo was very responsive and sent me a gift card for their apparel store and they were just absolutely amazing with how they handled the situation. I absolutely love repping this brand and would recommend it to anyone, especially if you’re just getting into lifting.",
+      "version": "2026.38.0"
+    },
+    {
+      "date": "2026-09-21T10:02:25-07:00",
+      "rating": 3,
+      "title": "Dock Disconnects Constantly",
+      "text": "The dock to put the workout on the tv is constantly disconnecting, it messes up the whole workout, shuts down the app, I can’t rewind to do what I missed. Very frustrating.",
+      "version": "2026.38.0"
+    },
+    {
+      "date": "2026-09-08T11:45:26-07:00",
+      "rating": 5,
+      "title": "Talking",
+      "text": "I love the workouts but maybe too much talking.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-29T09:01:54-07:00",
+      "rating": 5,
+      "title": "Working well",
+      "text": "I have been using this for about a month and I really love it. I am finally starting to see results. I love how the app and the weights work together.  I feel like I have already learned a lot from the trainers. The only thing I might suggest is improvements on the search function.  There are so my classes to choose from and even when I use the filters it takes me a while to find what I want.  Maybe some sort of an AI chat would help. Otherwise I am enjoying it and plan on continuing to use it.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-25T06:50:19-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Tempo keeps the bar low of getting back into the “gym” from the comfort of my home! No traveling to a crowded gym with the bros hogging the machines, I can pop in an amazing workout, hop in my own shower and then get back to life. Oh!",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-18T06:34:02-07:00",
+      "rating": 5,
+      "title": "Using tech to get healthy",
+      "text": "This app is genius. It works exactly as advertised, and I’m actually able to stick with a program for the first time in my life. I love all the options and being able to complete my workouts in the privacy of my bedroom. I also love the immediate feedback and workout tracking it provides through my Apple Watch and the app. The initial cost is daunting, but considering all that I’ve spent on memberships, training, and programs over the years, it’s easily going to pay for itself in 6 months.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-14T19:08:26-07:00",
+      "rating": 1,
+      "title": "Awful health integration",
+      "text": "Ive been using this app since January this year and it’s been an amazing tool to help me get more active. But every time i open the app it duplicates training entries in my apple health. Apple health can usually weed these out but not always, and Ive noticed the more ive used the app the weirder my historical data becomes. I use that data in other apps and its resulted in aweful training recommendations. Before i was annoyed that the Strava integration was so bare bones, giving no logs of what strength training im doing or at what loads, but now its the only way to actually get the data synced into my health app. The weights are nice and the instructors are great, but it’s really a frustrating experience. Tempo doesn’t even take into account exercises done outside of the a even though it reads them and you can view them in your tempo exercise history.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-12T03:56:59-07:00",
+      "rating": 3,
+      "title": "No garmin connectivity",
+      "text": "App is great. Love the classes, feel like I get good workouts but there is no connectivity to my garmin watch",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-05T06:31:17-07:00",
+      "rating": 1,
+      "title": "Recording",
+      "text": "Tracked my movements the first time but not the second",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-04T05:07:46-07:00",
+      "rating": 5,
+      "title": "No excuses",
+      "text": "The trainers feel like personal trainers indeed, as though it’s just you and them in a training session. Using Tempo has made me the most consistent I have ever been, in the almost 20 years since I’ve been working out.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-08-03T19:04:03-07:00",
+      "rating": 5,
+      "title": "Comfort at home",
+      "text": "Unfortunately, I’m not in the shape I use to be. Going to the gym makes me self conscious but being able to do this for myself, by myself, really makes me want to continue! Thank you Tempo",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-07-30T07:15:52-07:00",
+      "rating": 5,
+      "title": "Worth to buy",
+      "text": "Such a great tool for a first time mom.",
+      "version": "2026.30.0"
+    },
+    {
+      "date": "2026-07-27T04:14:11-07:00",
+      "rating": 3,
+      "title": "It’s ok",
+      "text": "The equipment is amazing. It’s convenient and can be discreetly stored. Most of the coaches are great and I really enjoy the exercises but they have become a little redundant. I do a lot of strength training and it’s pretty much always the same exercises. I gave this 3 stars because the tracking straight up sucks. The weight recommendations are always way off and the app that was installed on my watch and writing data into Apple health was completely throwing off my numbers. I had to uninstall it because it was skewing it so badly. I think they have a long way to go with the software because it just frustrates me more than anything. Their tracking also doesn’t always line up with what the coaches will say to do, which even further skews the “data”.",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-07-23T12:03:16-07:00",
+      "rating": 5,
+      "title": "Just getting started",
+      "text": "Just got my workout room up and finished my first workout. Love the feedback and excited for this journey.",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-07-15T15:59:12-07:00",
+      "rating": 5,
+      "title": "Better than I hoped for",
+      "text": "I initially got this program because of the compact set up that I could fit in my home and figured it might come with a few videos. I did not expect comprehensive workout plans for each level of fitness, including advanced lifters. Sometimes the set count on the videos is different than the set count you are supposed to be following, but it’s a minor detail. I’m genuinely satisfied with both the equipment and the workout programs. There was also a mixup while shipping my equipment and Customer Service was incredibly responsive and easy to work with. I’m happy I took a risk as it’s an expensive set up, but totally worth it.",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-07-07T14:16:56-07:00",
+      "rating": 5,
+      "title": "App a game changer",
+      "text": "They have continuously improved the technology and now with rep counting it allows you to do many of the workouts anywhere you go. On vacation this week didn’t mean a vacation from Tempo!!!",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-07-06T15:56:30-07:00",
+      "rating": 4,
+      "title": "Awesome alternative to traditional personal training",
+      "text": "The temple app along with his coaches, provide a nice non-judgmental atmosphere for those interested in weight resistance training, but aren’t interested in going to a physical gym",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-07-06T09:34:08-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "The coaches are spectacular!",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-06-30T06:53:27-07:00",
+      "rating": 5,
+      "title": "Great at home work out!",
+      "text": "Love how easy it is and the amount of different work outs available",
+      "version": "2026.26.0"
+    },
+    {
+      "date": "2026-06-11T12:41:19-07:00",
+      "rating": 5,
+      "title": "Workouts Everywhere!",
+      "text": "When I'm not using the Studio at home, I take Tempo with me and use it on my iPad. Stretching while traveling feels sooo good!",
+      "version": "2026.24.0"
+    },
+    {
+      "date": "2026-06-08T09:18:39-07:00",
+      "rating": 5,
+      "title": "I love my Tempo!",
+      "text": "There is no better way to workout, be accountable; and make gains! This app is life changing!  I’ve been using it for 4.5 years.",
+      "version": "2026.24.0"
+    },
+    {
+      "date": "2026-06-08T08:45:34-07:00",
+      "rating": 5,
+      "title": "The BEST!",
+      "text": "I love this program! So many workouts (so little time!) Great for for any age or fitness level",
+      "version": "2026.24.0"
+    },
+    {
+      "date": "2026-06-08T06:40:55-07:00",
+      "rating": 5,
+      "title": "Amazing app!",
+      "text": "Got a Tempo set and subscription for my birthday, zero regrets! Love the app I am so out of shape that it took me a month to talk myself to even start a class with the app. I was just using the weights by themselves. I was missing out! The classes are AMAZING so easy to follow and the coaches have a paced, here for you attitude. Love it! If you are not a gym person or don’t have the time to drive to one this is an amazing option. Just do it!",
+      "version": "2026.24.0"
+    },
+    {
+      "date": "2026-06-01T17:54:26-07:00",
+      "rating": 5,
+      "title": "Updates on updates!",
+      "text": "I’ve had it for years they’ve done such a great job with this app",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-26T17:11:19-07:00",
+      "rating": 5,
+      "title": "Best on the go workout",
+      "text": "I am a busy mother, I don’t have time to go to the gym and sit in traffic to get back to my normal routine. Tempo is the best gift I received to help me stay in shape and allow me to workout when I have time. It challenges and motivations me with prizes and competition. It has all types of workout plans for all type of athletic training. I love LOVE tempo!",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-25T06:56:40-07:00",
+      "rating": 5,
+      "title": "Tempo: Home Workout & Fitness",
+      "text": "I’ve been using the Tempo home workout system for a while now, and overall I’ve been really impressed with it. The biggest advantage is convenience it genuinely makes strength training at home feel structured and motivating. The guided workouts, real-time rep tracking, and form feedback help recreate the feeling of having a personal trainer without needing to go to the gym.",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-20T19:33:57-07:00",
+      "rating": 5,
+      "title": "Don’t Like the Gym but Love Tempo!",
+      "text": "I'm really not a gym type of person. I've tried many times. I know it's good for me to build functional strength for the aging process, but whatever I do, I can't fit the gym into my schedule. When I get there, I'm just not motivated, but with Tempo I have successfully worked out about two times a week for two months now, and I can honestly say I enjoy it. It's fun and it's motivating.\n\nThe workouts are short and compact and fit my schedule, and all I have to do is go into my bedroom space where I have it set up and go for it. The weights are really nice, good quality, and make it a fun experience to use. The personal trainers are all really good. They're fun, they're engaging, and the time flies by. They intersperse (maybe with AI?) little mini clips that seem to adjust based on what my body is doing. If I'm out of form, the personal trainer seems to adjust and say, \"Hey, stand up straighter or tilt your pelvis forward\" or whatever cues are needed to correct my form,\" so very impressed. I've also noticed a clear improvement in my lean muscle mass and my body definition.",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-15T16:54:55-07:00",
+      "rating": 5,
+      "title": "Remembering",
+      "text": "I’m was so excited to hear about Tempo from a fellow combat veteran!",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-12T20:13:47-07:00",
+      "rating": 5,
+      "title": "Convenient and helps you push your limits",
+      "text": "Lots of varied classes and good tips for pushing yourself.",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-11T16:22:14-07:00",
+      "rating": 5,
+      "title": "In Love!",
+      "text": "Love how simple and user friendly the app and machine are. Getting back to working out postpartum was intimidating but Tempo offers so many different classes, programs and fitness levels for whatever part of your journey you are in. I am completely obsessed with my tempo and the community.",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-05-04T14:31:50-07:00",
+      "rating": 5,
+      "title": "Awesome coaches",
+      "text": "I love the way the coaches interact with you encourage you and is fighting right along with",
+      "version": "2026.18.0"
+    },
+    {
+      "date": "2026-04-27T05:09:41-07:00",
+      "rating": 5,
+      "title": "Love this set up",
+      "text": "I love tempo home set up and the workouts it has made working out so much fun and i find myself being more consistent since it scans my body and helps find the workouts for me based on my goals",
+      "version": "2026.14.0"
+    },
+    {
+      "date": "2026-04-20T08:31:50-07:00",
+      "rating": 5,
+      "title": "The Best",
+      "text": "Tempo has given me more\nMotivation to work out and be healthy than anything else in my life. Must have!",
+      "version": "2026.14.0"
+    },
+    {
+      "date": "2026-04-08T18:07:59-07:00",
+      "rating": 1,
+      "title": "Frustrating controls",
+      "text": "On their ads they really play up the “form correction” function which turns out is non existent. Range of motion meter doesn’t work correctly in one of the work outs at least once a week. You can’t rewind in work out classes, and the pause function doesn’t work very well. They force you to pay for a year up front so now I’m stuck with an extremely frustrating work out app. \n\nUpdate: rep tracking works about half the workouts. Because of the failure in rep tracking, the weight recommendations are off as well. Great idea, love the weights but terrible app.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-04-05T17:35:38-07:00",
+      "rating": 1,
+      "title": "can’t cancel free trial without emailing them",
+      "text": "setting is hidden to delete, have to contact them once you start the free trial cant just do it through the app, should be illegal",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-24T17:27:19-07:00",
+      "rating": 5,
+      "title": "Phew!",
+      "text": "He is so sweet!!!! Feeling good in B’ham!!",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-24T11:18:03-07:00",
+      "rating": 1,
+      "title": "Read the fine print",
+      "text": "Most people know the 'bundle deal' usually locks you into a 2-year contract, but the real headache starts when that contract ends. Even after years of loyal support, this company will pull every trick in the book to squeeze one last $40 charge out of you. In my case, they refused a prorated cancellation because I was exactly one day outside of their window. They’d rather lose a long-term customer and deal with a formal dispute than show an ounce of flexibility. If you value customer service that actually values you, look elsewhere.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-19T04:49:20-07:00",
+      "rating": 5,
+      "title": "The Best!",
+      "text": "I have been using my Tempo studio for 4 years, and use the mobile app when I am not at home. It is amazing! I love being able to take my Tempo on the road with me.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-18T19:04:30-07:00",
+      "rating": 4,
+      "title": "Finally- Something that Works for Me!",
+      "text": "I can’t say enough good things about the Tempo system. The coaches are fantastic and their personalities are all different, so every workout is really fun because I get to choose what mood I’m in and pick a coach that matches my mood and what I want to accomplish during my workout. This is the first time that I have lifted weights that I feel like I am increasing how much I lift as I continue to have workout sessions, and therefore, increasing how much muscle I’m gaining. My one tidbit of a complaint would be that sometimes the app disconnects from my Apple Watch or from my television, and so that can sometimes put a damper in my workout if I’m in a flow, but it never lasts for very long. I especially love how the system reads the weights that I’m lifting, and also monitors my heart rate, and sets the pace of my workout, according to those things. Usually, when I’m working out, I’m not paying attention to my heart rate. So, I really appreciate that the system will automatically pause for me to chill out for a bit before continuing with the next set. As I said, I can’t say enough, good things about this system. And I can’t recommend it enough…to friends, to family, to you, dear reader.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-16T13:26:12-07:00",
+      "rating": 2,
+      "title": "The programs and equipments are solid the app UI is pretty bad",
+      "text": "1. UI is super confusing. There use to be “My plan” to map out when you want to do which work out from a program or class.  Now you have to save, and schedule each and it still doesn’t show up as calendar and super hard to find. All stats and progress bars are so confusing they become meaningless. Oof. Figure it out guys. \n2. Form feedback is straight up bait and switch. No form feedback from phone camera or sensors. I didn’t expect much there but frustrating to advertise it \n3. Weight suggestions seem to be just based on the reps. I like to do exercises slow ish so I can build good mind body connection and focus on muscle engagement. Doesn’t mean I can’t handle the weight, or would go that much faster with lower weight. Use you judgement a bit there. \nPositives:\n1. So far all coaches are very good at describing mind body connection, tons of classes that seem great, the equipment is solid. I still recommend , the negative feedback is mostly for the app.\n2. Barbell weight reading and counting reps is really great. I hate counting reps and this helps my adhd brain to focus on the exercise.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-09T20:51:07-07:00",
+      "rating": 1,
+      "title": "Will not screen mirror",
+      "text": "This is the ONLY app I have that will not work using AirPlay. The TV is too far up to connect using HDMI, but reviewers have stated they've been able to mirror screen using AirPlay. I have been through all the troubleshooting to no avail. This was an expensive product with an expensive monthly fee to not be able to use it properly. Very disappointed.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-09T14:29:54-07:00",
+      "rating": 5,
+      "title": "Actual enjoy working out!",
+      "text": "This is exactly what I’ve been looking for!! A personalized, specific work out plan that I can customize and is easy to use at home. Have been using for a few months now and loving it.",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-09T09:37:45-07:00",
+      "rating": 5,
+      "title": "More yoga",
+      "text": "We would like more programs with yoga and strength. The match with coach Jeremy and coach Jonathan are my favorite. Gracias ☺️",
+      "version": "2026.10.0"
+    },
+    {
+      "date": "2026-03-02T19:34:12-07:00",
+      "rating": 5,
+      "title": "Game Changer!",
+      "text": "Going on 2 months and no end in sight!  Haven’t worked out in 20+ years and I’m loving it for the first time in my life.  If you hate doing the same routines over and over and you need a change then this is it.  Tracks my reps and pushes me to do better.  Can’t love it enough!",
+      "version": "2026.6.0"
+    },
+    {
+      "date": "2026-02-25T15:43:17-07:00",
+      "rating": 5,
+      "title": "Great support",
+      "text": "Support team is quite proactive in helping resolve issues.",
+      "version": "2026.6.0"
+    },
+    {
+      "date": "2026-02-24T06:44:17-07:00",
+      "rating": 5,
+      "title": "Run and get a Tempo!",
+      "text": "I received my Tempo early January. It has been the best purchase I’ve made in a while! I love the monthly challenges. It pushes me to get them done. I travel for work and they have classes that do not require the weights and those are perfect when I’m abroad. \nI use to do CrossFit and missed the heavy free weights. I no longer do CrossFit due to two injuries and Tempo is amazing because you go at your own pace and you can modify if needed without any judgement. It could have just been me feeling that if I didn’t lift heavy in CF, I was getting judged or weird looks. 🤷🏻‍♀️\nI highly recommend Tempo to anyone that wants to get in shape, wants to maintain or would like to live a long healthy life. Of course what comes out of your kitchen matters as well.",
+      "version": "2026.6.0"
+    },
+    {
+      "date": "2026-02-23T01:38:20-07:00",
+      "rating": 5,
+      "title": "Solid programs",
+      "text": "Excellent programs. One friendly suggestion would be to permit rewinding / fast forwarding (perhaps in 10 second increments?), as I sometimes can’t change my weights in time during breaks and can find myself rushing to catch up if I don’t pause in time. 5 stars regardless. Shout out to my personal favorite, Melissa - extremely knowledgeable and couples very effective workouts with solid warmups and cooldowns.",
+      "version": "2026.6.0"
+    },
+    {
+      "date": "2026-02-16T09:23:27-07:00",
+      "rating": 5,
+      "title": "Impressed",
+      "text": "Really impressive!",
+      "version": "2026.6.0"
+    }
+  ]
+}

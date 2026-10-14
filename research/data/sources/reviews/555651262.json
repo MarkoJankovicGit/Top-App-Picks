@@ -1,0 +1,357 @@
+{
+  "app": "Golf Genius",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T14:17:44-07:00",
+      "rating": 1,
+      "title": "Terrible app",
+      "text": "No ability to see which team wins a home during the match.  Very frustrating to use accurately",
+      "version": "19.2"
+    },
+    {
+      "date": "2026-10-03T10:22:15-07:00",
+      "rating": 1,
+      "title": "App shuts down",
+      "text": "Title says it all",
+      "version": "19.2"
+    },
+    {
+      "date": "2026-10-03T09:19:16-07:00",
+      "rating": 5,
+      "title": "I suck",
+      "text": "At golf",
+      "version": "19.2"
+    },
+    {
+      "date": "2026-09-15T09:11:27-07:00",
+      "rating": 3,
+      "title": "Glitchy",
+      "text": "First off, clicking on support here gives me an error. Live scoring doesn’t always work. I can enter scores and they disappear.",
+      "version": "19.2"
+    },
+    {
+      "date": "2026-09-08T10:58:35-07:00",
+      "rating": 2,
+      "title": "New leaderboard stinks",
+      "text": "You can’t follow events it makes you sign in and then when you sign in it just never updates",
+      "version": "19.1"
+    },
+    {
+      "date": "2026-08-30T11:16:47-07:00",
+      "rating": 5,
+      "title": "FIRST TIMER",
+      "text": "Easy concise and it worked well 🏌️‍♂️🏆😎",
+      "version": "19.1"
+    },
+    {
+      "date": "2026-08-26T11:53:05-07:00",
+      "rating": 3,
+      "title": "Very Annoying at Times",
+      "text": "For the most part, the app seems to function well. However, when it comes to entering hole-by-hole scores, numbers clear and even holes get skipped. This has been an ongoing issue for at least the past year! It also seems like a simple fix! With that said, FIX IT! 🤨",
+      "version": "19.1"
+    },
+    {
+      "date": "2026-08-25T13:55:39-07:00",
+      "rating": 1,
+      "title": "Not impressed",
+      "text": "The app doesn’t update leaderboards even though you are in the correct event. Constantly have to unload and reload the app.",
+      "version": "19.1"
+    },
+    {
+      "date": "2026-08-21T14:01:10-07:00",
+      "rating": 1,
+      "title": "Not intuitive",
+      "text": "Not intuitive.  Golf course staff was unhelpful.  They told us we could enter our scores into the cart system and it would sync, but it didn’t and our tournament score got wiped out and not counted.",
+      "version": "19.0"
+    },
+    {
+      "date": "2026-08-12T17:45:02-07:00",
+      "rating": 1,
+      "title": "Normally Good",
+      "text": "This year it erases score and you need to reenter again. Never happened and been using for years. IDK",
+      "version": "19.0"
+    },
+    {
+      "date": "2026-07-13T06:51:49-07:00",
+      "rating": 4,
+      "title": "Needs GGID favorites or last used options",
+      "text": "I repeatedly use several GGIDs for a couple groups and have to remember them to switch between the leagues/groups/events. Having the app list the last 5 GGIDs used in a drop down or the ability to favorite GGIDs used would be so helpful for users that are very active in the app. \n\nSide note when entering group scores lately if you’re too quick the first players score will not input, it remains blank but skips to the next player as if it was entered and it’s caused confusion with the women I play with who aren’t very good with technology. Seems to be a neeer glitch.",
+      "version": "18.5"
+    },
+    {
+      "date": "2026-07-10T12:18:14-07:00",
+      "rating": 5,
+      "title": "Golf score",
+      "text": "Easy to use. Will use again!",
+      "version": "18.5"
+    },
+    {
+      "date": "2026-06-20T10:42:50-07:00",
+      "rating": 1,
+      "title": "ADHD",
+      "text": "This app is favored to Neuro typical pimple and not concussive to Neuro  diverse people",
+      "version": "18.4"
+    },
+    {
+      "date": "2026-06-19T14:44:27-07:00",
+      "rating": 4,
+      "title": "Awful graphic user interface",
+      "text": "The Gray on Gray for submit score is hard to use and cannot see it without readers terrible for somebody that doesn’t have good eyesight",
+      "version": "18.4"
+    },
+    {
+      "date": "2026-06-16T13:04:58-07:00",
+      "rating": 5,
+      "title": "Nice app",
+      "text": "This is easy to use and it’s a great bonus for keeping scores in tournaments",
+      "version": "18.4"
+    },
+    {
+      "date": "2026-06-13T14:43:26-07:00",
+      "rating": 1,
+      "title": "Poor design",
+      "text": "Glitchey at times. Match play scoring doesn’t display on input screens. Rudimentary design and functionality.",
+      "version": "18.4"
+    },
+    {
+      "date": "2026-06-13T07:32:58-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "Stop sending me this",
+      "version": "18.4"
+    },
+    {
+      "date": "2026-06-06T12:31:28-07:00",
+      "rating": 5,
+      "title": "MM",
+      "text": "Good",
+      "version": "18.3"
+    },
+    {
+      "date": "2026-06-06T09:39:04-07:00",
+      "rating": 5,
+      "title": "Bang",
+      "text": "Great course great pace of play",
+      "version": "18.3"
+    },
+    {
+      "date": "2026-05-23T09:12:43-07:00",
+      "rating": 5,
+      "title": "EAGLES R US",
+      "text": "Pretty simple game when ya think about it. You’re Welcome.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-05-19T07:53:16-07:00",
+      "rating": 1,
+      "title": "Can’t access my league",
+      "text": "This app does not let me log into my weekly league but the website will. This app sucks",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-05-17T04:09:59-07:00",
+      "rating": 2,
+      "title": "Poor Handling of Scrambles",
+      "text": "If a player drops out of a 4-person scramble team, the team handicap index goes DOWN in Golf Genius. In what universe does that make sense?  Why would a 3 person team give up more strokes to the full teams?\n\nGG blames the USGA by stating that they are following USGA guidelines.  That's incorrect.  GG implemented the USGA calculation for a 3 person scramble tournament  into their calculation for a missing person in a 4 person scramble.  Not the same thing boys and girls.\n\nI've had a series of chats/email with GG support.  After several times repeating their canned response to this obviously repeat question, one support staff told me he'd escalate the issue.  I heard nothing back.\n\nOur leagues have had to work around by giving mulligans to 3-person teams.  Still a sore spot in league play and a constant critique of  Golf Genius by members.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-05-09T11:40:06-07:00",
+      "rating": 5,
+      "title": "Makes weekend groups fun",
+      "text": "Write out for setting up individual tournaments among your friends on the weekends easy to use",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-05-04T13:04:22-07:00",
+      "rating": 1,
+      "title": "Worst app for managing tournaments",
+      "text": "Too many restarts resigning in, repeat need for passwords. Just a dismal failure.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-04-29T09:51:12-07:00",
+      "rating": 3,
+      "title": "Watch app",
+      "text": "This app needs a standalone watch app for kids that don’t have phones and can still enter the scores on their watch.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-04-26T08:53:07-07:00",
+      "rating": 3,
+      "title": "Bring a battery charger",
+      "text": "Overall the app works very well. The main problem is that it will completely drain the battery in your Apple Watch over a four hour round and put a significant dent in your phone battery as well.  \nThere are other options out there that work pretty much the same, don't kill your battery and cost a lot less.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-04-25T17:04:27-07:00",
+      "rating": 3,
+      "title": "Swipe",
+      "text": "Ever since the new update every time I swipe to the leaderboard and swipe back to the scoring I get the instructions about how to do it. This is very ignoring. Is there a way to turn this off or opt out of this screen.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-04-25T09:24:46-07:00",
+      "rating": 1,
+      "title": "ID?",
+      "text": "Having to have an ID makes the app cumbersome at best. And at worst, useless. There are more user friendly apps available for scoring.",
+      "version": "18.2"
+    },
+    {
+      "date": "2026-04-22T07:36:14-07:00",
+      "rating": 1,
+      "title": "App keeps crashing.",
+      "text": "After update just get the spinning wheel of death",
+      "version": "18.1"
+    },
+    {
+      "date": "2026-04-11T14:18:54-07:00",
+      "rating": 5,
+      "title": "Golf",
+      "text": "I’m gay and happy and I like golf",
+      "version": "18.0"
+    },
+    {
+      "date": "2026-04-09T11:20:22-07:00",
+      "rating": 5,
+      "title": "Excellent condition",
+      "text": "One of the best courses in Nashville!!!",
+      "version": "18.0"
+    },
+    {
+      "date": "2026-03-16T14:08:59-07:00",
+      "rating": 1,
+      "title": "I hate GG",
+      "text": "Its STUPID",
+      "version": "17.7"
+    },
+    {
+      "date": "2026-02-03T11:42:17-07:00",
+      "rating": 4,
+      "title": "Golf genius",
+      "text": "Golf Genius does all the work !",
+      "version": "17.6"
+    },
+    {
+      "date": "2025-12-18T14:29:40-07:00",
+      "rating": 2,
+      "title": "Not working",
+      "text": "This app is not signing on after yesterdays update",
+      "version": "17.4"
+    },
+    {
+      "date": "2025-12-18T11:24:12-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "New GG version doesn’t work with my iphone14, iOS 26.2 .   I have deleted and reloaded app several times and updated iOS.  I can load app but after entering id/password, app just shows spinning circle.  Help… this is my most used app,",
+      "version": "17.4"
+    },
+    {
+      "date": "2025-11-07T11:07:26-07:00",
+      "rating": 5,
+      "title": "Isabelino",
+      "text": "Exelente",
+      "version": "17.2"
+    },
+    {
+      "date": "2025-10-15T07:22:39-07:00",
+      "rating": 3,
+      "title": "Handicap calculator doesn’t work",
+      "text": "The course handicap calculator doesn’t work for a handicap index less than 10.0.  Keep getting an error message asking to enter an index value between +9.9 and 54.0.  Also, on the iPhone, can’t locate the + sign on the keyboard.",
+      "version": "17.1"
+    },
+    {
+      "date": "2025-10-11T10:09:29-07:00",
+      "rating": 2,
+      "title": "Get rid of \"Swipe between \"",
+      "text": "For the love of god would you get rid of the \"Swipe between the Scoring and Leaderboard screens\" prompt. It requires an extra tap to dismiss it *every single time* we switch views. Or at least provide a \"don't show this again\" checkbox.",
+      "version": "17.1"
+    },
+    {
+      "date": "2025-09-16T11:37:15-07:00",
+      "rating": 5,
+      "title": "CCC Charity cup",
+      "text": "Yes",
+      "version": "17.1"
+    },
+    {
+      "date": "2025-08-26T20:29:38-07:00",
+      "rating": 1,
+      "title": "Not user friendly",
+      "text": "Our league uses this app and website for our league and tournaments. It’s ok for the tournaments but the portal is confusing and always a challenge to get anywhere. I get the tournament ID on the app but why do you need it just to access the portal. If I have a login let me access all my league’s information. I never have access to the information I need without codes and more codes.  I wish they would simplify access and quit making it so difficult to use. I use apps for everything in my life and for some reason this is the only one that is a challenge to use. It’s just a golf app.",
+      "version": "16.5"
+    },
+    {
+      "date": "2025-08-25T09:46:33-07:00",
+      "rating": 5,
+      "title": "Great course",
+      "text": "Perfect",
+      "version": "16.5"
+    },
+    {
+      "date": "2025-08-18T13:45:26-07:00",
+      "rating": 2,
+      "title": "Functionality Good, Usability Bad",
+      "text": "This app could be so great, but it needs a lot of improvement for usability. Trying to use this to navigate things like league standings and such is so tedious. Trying to use this on a phone is also hard as they have no optimization for portrait so choice is a lot of side scrolling with no frozen columns (so don’t forget what row you are looking at) or have to use in landscape.\n\nIt is nice to have live scoring, but hopefully a lot of effort is going into making it easier to navigate and use.",
+      "version": "16.5"
+    },
+    {
+      "date": "2025-07-30T17:26:39-07:00",
+      "rating": 3,
+      "title": "Can’t Sign In",
+      "text": "I’m trying to download the app, but it won’t allow me to sign up. Well no foolin’ it’s because I haven’t signed up yet, I’m trying to sign up for your app.",
+      "version": "16.4"
+    },
+    {
+      "date": "2025-07-23T11:31:33-07:00",
+      "rating": 5,
+      "title": "The Concrete Man",
+      "text": "Best app on the market !!!",
+      "version": "16.4"
+    },
+    {
+      "date": "2025-07-19T07:27:29-07:00",
+      "rating": 3,
+      "title": "Mostly Great",
+      "text": "Our club started using Golf Genius and after a bit of resistance, most have embraced it.  I love it for scoring and mid tournament management. \nI do not love it for event registration.  The font for invites and announcements is tiny and golfers are mostly old. It makes me hate seeing a golf genius email. This seems like a simple fix.\nOne more thing.  At the end of a tournament, the choices are review scores and score summary. Please edit one of these options to say: scores are turned in and you are finished and you can go have a drink.  “Score summary” sounds like there are most steps to be done to turn in your card.  \nGolf Genius has helped our club and our staff and thanks.",
+      "version": "16.4"
+    },
+    {
+      "date": "2025-07-07T10:17:53-07:00",
+      "rating": 3,
+      "title": "Disable “Swipe to Scoring”",
+      "text": "Please let us disable the “Swipe Left to Scoring” feature. It is unnecessary with the scoring button one inch above my thumb. We are constantly going to Scoring while reviewing a long list of scores after a round. One degree mistake left takes us to Scoring several times. Unnecessary.",
+      "version": "16.4"
+    },
+    {
+      "date": "2025-06-20T12:34:56-07:00",
+      "rating": 5,
+      "title": "Cool system",
+      "text": "Fun to see leaderboard",
+      "version": "16.3"
+    },
+    {
+      "date": "2025-06-13T12:08:59-07:00",
+      "rating": 5,
+      "title": "Lsutman",
+      "text": "Good",
+      "version": "16.3"
+    },
+    {
+      "date": "2025-06-06T09:41:25-07:00",
+      "rating": 3,
+      "title": "Map",
+      "text": "A map of course would be great",
+      "version": "16.3"
+    },
+    {
+      "date": "2025-05-28T18:03:41-07:00",
+      "rating": 1,
+      "title": "Dark mode",
+      "text": "Dark mode",
+      "version": "16.2"
+    }
+  ]
+}

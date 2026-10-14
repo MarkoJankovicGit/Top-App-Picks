@@ -1,0 +1,2854 @@
+[
+  {
+    "id": 6476465403,
+    "name": "ROXFIT",
+    "seller": "ROXFIT Limited",
+    "genre": "Health & Fitness",
+    "release_date": "2024-02-09",
+    "ratings_us": 4287,
+    "avg_rating": 4.79,
+    "ratings_per_day": 4.39,
+    "reviews_30d": 0,
+    "reviews_prev_30d": 2,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/roxfit/id6476465403",
+    "matched_keywords": [],
+    "description": "The app for Hyrox and Hybrid Fitness Racing\n\nRoxFit is the ultimate training platform for hybrid athletes. Whether you're preparing for your first Hyrox race, chasing a podium finish, or training for CrossFit, marathons, and obstacle course racing, RoxFit gives you the tools to train smarter and perform better.\n\nHYPE - YOUR HYBRID PERFORMANCE ENGINE\n\nMeet HYPE, your AI training partner. Simply describe the workout you want, and HYPE creates it instantly. \"Give me a 30-minute Hyrox-focused conditioning workout\" or \"Build me a strength session for sled power\" - HYPE understands and delivers.\n\nCreate AI-powered workouts through natural conversation. Get intelligent exercise suggestions based on your goals. Receive smart modifications for your fitness level and available equipment.\n\nCONNECT WITH THE COMMUNITY\n\nTrain alongside thousands of hybrid athletes worldwide. Discover workouts from top Hyrox and CrossFit athletes. Follow friends and training partners to stay motivated. Share your race results and achievements.\n\nADVANCED TRAINING TOOLS\n\nWORKOUT BUILDER\nDesign custom workouts with our intuitive builder. Choose from thousands of exercises or create your own. Structure complex training sessions with multiple blocks, rounds, and intervals.\n\nTRAINING PLANNER\nPlan your week with ease. Schedule workouts, track completion, and maintain training consistency. Visualize your training load across running, strength, and conditioning.\n\nWORKOUT PLAYER\nYour personal training coach during ev",
+    "reviews": [
+      {
+        "date": "2026-08-15",
+        "rating": 3,
+        "text": "What’s going on with my workout data?. The newest update gives some interesting insights into how you’re training and it’s slightly easier to build your own workouts. BUT it records all of my workouts as runs for my Apple Health/workout no matter how much or little running is involved. This is really messing with my run data as well as showing way too low of a calorie burn for the work being put i"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 3,
+        "text": "S. Sadf"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 3,
+        "text": "App Update. App won’t update without letting me leave this review"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 2,
+        "text": "Sucks. Sucks"
+      },
+      {
+        "date": "2026-06-05",
+        "rating": 1,
+        "text": "K. K"
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 5,
+        "text": "Very cool!. I really enjoy the analytics!"
+      },
+      {
+        "date": "2026-07-26",
+        "rating": 5,
+        "text": "Great app for tracking athletes. This app is great! I can track my workouts, upcoming events and athletes!"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 4,
+        "text": "great. great"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 5,
+        "text": "Ok. Ok"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 5,
+        "text": "Workouts. Great app"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 5,
+        "text": "Lyssyxo. Great app"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 5,
+        "text": "Excellent companion. This is the app if you want to strategically improve your Hyrox time"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "Update. Update"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "Great app. Fun to compare previous races"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Mr. Peet"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "Good. Really good app"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Great. Great to keep up with athletes!"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Wohoo. Yea"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "yanu. great"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Roxfit. Excellent"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Mr.. Cool"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Great. Love it"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Ed. Ed"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Good. Nice"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Hyrox. Brutal"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "App. Good app"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Na. Na"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "NC. None"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Good app. Good"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Just want to update app. Just want to update app"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "H. H"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "p. Love it"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 4,
+        "text": "N. I"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Great. Great"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "A. B"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Boss. Go Bills"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Roxfit. N/A"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Great. Great"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 5,
+        "text": "Kp. Good"
+      },
+      {
+        "date": "2026-06-05",
+        "rating": 5,
+        "text": "N/A. N/A"
+      }
+    ]
+  },
+  {
+    "id": 6504584166,
+    "name": "ProphetX Prediction Market",
+    "seller": "ProphetX OpCo LLC",
+    "genre": "Sports",
+    "release_date": "2024-08-13",
+    "ratings_us": 3456,
+    "avg_rating": 4.76,
+    "ratings_per_day": 4.38,
+    "reviews_30d": 22,
+    "reviews_prev_30d": 10,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/prophetx-prediction-market/id6504584166",
+    "matched_keywords": [
+      "bet on yourself"
+    ],
+    "description": "AMERICA'S FIRST SPORTS-NATIVE PREDICTION MARKET\nBuilt like finance, designed for sports.\n\nProphetX is a prediction market built for traders who care about price and transparency.\n\nIf you're sick of other platforms gouging you with margin or limiting your action, there's an alternative.\n\nOur sports prediction market is available Nationwide and consistently offers better prices. Same Moment. Bigger Payout.\n\nTrade NFL, MLB, college football and every major sporting event. Trade live, explore player props, or build your own parlays, all in seconds.\n\nThere are thousands of markets, deep liquidity, and billions traded.\n\nNO HOUSE CUT, MORE VALUE\nTraditional platforms build large margins into their prices, so the odds are working against you before you even trade. ProphetX removes that layer. Markets are open, and traders compete on price instead of accepting whatever the house sets.\n\nThe result: better prices, tighter spreads, and more value on every trade.\n\nPARLAY MODE\nParlay Mode brings every parlay you'd want to build into one builder. Multi-sport, multi-game, full player prop coverage in fully liquid markets, and exchange pricing on every leg for payouts you won't get quoted anywhere else. Trust us, this feature is a game-changer.\n\nORDER BOOK\nSee every price the market is offering, and how much size sits behind it, before you trade.\n\nNO HOUSE TO OUTLAST\nOn other platforms, a trader who keeps winning is a problem for the house, so accounts get limited or closed. ProphetX has no h",
+    "reviews": [
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Terrible Sportsbook Experience – Would Not Recommend. My experience with this sportsbook has been absolutely terrible from the start. I deposited $50, and my account was instantly suspended. I had to contact support and join their Discord just to get the issue resolved, which took forever.\n\nThen, when I tried to withdraw my money, the process was ridiculously slow. Another user requested a withdra"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 3,
+        "text": "Great app !!. Great app , it has less matches available sometimes compared to competitors but it’s still great !! Edit : Im. Changing my review because you can’t cash out even when up you have to wait till match is over !! Terrible thing btw, this is betting not trading"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "No good. They take to long to payout. And now I have to send bank statements and id"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "App sucks. I won last Friday still ain’t got any money"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 1,
+        "text": "No bonus. I downloaded this app about two weeks ago and deposited $50 to qualify for the advertised bonus. I’ve already played through the money, but I still haven’t received the bonus.\n\nOn top of that, I’m unable to add my debit card to withdraw my funds. The only option seems to be submitting a withdrawal request, which is frustrating and inconvenient.\n\nIt’s been nearly two weeks, and I still ha"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 1,
+        "text": "Complete scam. Makes you to share all bank account info to enable withdrawal. Statements, transaction history and more for every account at the selected financial institution. Do not download."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "Constant “Session expired”. Every time I deposit I get a “session expired” token over and over. It happened once then I had to verify all my info to an agent. Now it happens as soon as I deposit again. Giving up on this app"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "Impossible to withdraw. Pretty cool how I can deposit from my bank but when it comes time to withdraw they don’t accept that bank….complete and and utter BS!  Now I have to have a check mailed to me like it’s 1950……never using this garbage again"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "Scam. The $75 bonus is a complete scam. I did exactly what the terms said I needed to do and they never gave me my bonus. I contacted support tons of times and never got any help back. Highly recommend never using this app but do what you please."
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "Unable to withdraw. Please I love your app interface I can’t been a Able to withdraw yall add a crypto withdrawal option for faster payout it would help thanks"
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 1,
+        "text": "Withdrawal hard/doesn’t let you cancel bet in you do one accident. So let me begin with the withdrawal so I don’t have a bank and I won so my girl connected her but don’t let you bc it needs a personal account so now my money stuck  honestly under dog other platforms are way better they let you with draw easier and all."
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "Sign Up Bonus Is Fake. Played $50 no sign up bonus, still waiting on my withdrawal to clear."
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 1,
+        "text": "NO WITHDRAWAL. my first ever time leaving a review on a app but this one i just had to. they don’t let you withdraw it’s been 3 days since i emailed them non stop n have yet to get a email back or any type of help. STAY AWAY FROM THIS APP."
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 1,
+        "text": "Nothing special and horrible system. This is supposedly a prediction market when there’s no live cashouts, withdrawls take days and sign up bonuses are fake"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 1,
+        "text": "SCAM. This app took my money and won’t let me withdraw. I contacted support. There has been zero help"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 2,
+        "text": "Takes too long for withdrawal. Took 4 days for the money to reach my account once I pressed withdraw which is way to long in this space"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "Lies About Sign up bonus. I created a new account I bet $50 and lost and I got no new player promotional bonus. There’s no way to reach out to support. I called and left a voice mail and email with no reply. Don’t trust this app with new offer promotions. You can’t even click to read the offer details it just says trade $50 get $75 in $25 increments. However I traded and got 0 free play. Support i"
+      },
+      {
+        "date": "2026-09-13",
+        "rating": 1,
+        "text": "Sneaky greedy company. Be careful of this company! They advertise their trade 50 to get 75 but won’t tell you that the trades must be made above a specific price!! What a greedy  company taking all your money. Would not recommend!!"
+      },
+      {
+        "date": "2026-09-13",
+        "rating": 1,
+        "text": "Warning. This exchange isn’t processing redemptions currently. This is supposed to be a legally regulated exchange but I can confirm it is a scam.\n\nThere is no customer service. I’ve sent over 10 emails and…….theyve responded one time.\n\nThe main issue though is they won’t pay me. I was told it would be 48 hours maximum and it’s now going on 5+ days.\n\nCombined with the fact that customer service ha"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Don’t download. This is a scam don’t get it. Won some money and have tried 3 different bank accounts to withdraw and just keeps getting declined. Terrible customer service still has done nothing about it. This is nothing but a scam save your money don’t download it."
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 4,
+        "text": "It’s cool #2 best bang for your buck next to NOVIG, you should add debit card withdrawals though. Everyone should be using mostly this and NOVIG, they give you more profit per dollar you trade/wager(bet) than most apps/even sportsbooks. Debit card to deposit but not to be able to withdraw with it is not fair in my opinion."
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Easy to use. With all the sites coming on no one is focused on sports like prophetx more value for your $"
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 4,
+        "text": "Takes forever to pay. Still haven’t received money for winning bet."
+      },
+      {
+        "date": "2026-07-07",
+        "rating": 5,
+        "text": "Legit. Played my $10 then the $20 was in there the next morning."
+      },
+      {
+        "date": "2026-07-05",
+        "rating": 5,
+        "text": "Great app. Good prices compared to the big guys"
+      },
+      {
+        "date": "2026-07-01",
+        "rating": 5,
+        "text": "Great Odds. Love this app easy to use. Just wish there were more options to deposit and withdraw."
+      },
+      {
+        "date": "2026-06-27",
+        "rating": 5,
+        "text": "Deposit. Difficulty depositing to place a bet on this app. Aerosync gets stuck on bank authentication step. Please fix"
+      },
+      {
+        "date": "2026-06-26",
+        "rating": 5,
+        "text": "Finally. I’m so happy that Prophet X got clearance for futures trading. Sportsbooks are criminal entities and the lines for sports trades are amazing!"
+      },
+      {
+        "date": "2026-06-22",
+        "rating": 5,
+        "text": "$20 bonus. I joined and played $10 because it was advertised that new players get a $20 play bonus. It took one business day to get it!"
+      }
+    ]
+  },
+  {
+    "id": 1116032929,
+    "name": "Gibson: Learn to Play Guitar",
+    "seller": "Zoundio Oy",
+    "genre": "Education",
+    "release_date": "2018-09-13",
+    "ratings_us": 12893,
+    "avg_rating": 4.76,
+    "ratings_per_day": 4.37,
+    "reviews_30d": 3,
+    "reviews_prev_30d": 7,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/gibson-learn-to-play-guitar/id1116032929",
+    "matched_keywords": [
+      "daily lessons"
+    ],
+    "description": "Simply the best guitar learning app from Gibson.\nPerfect if you're looking for a fun guitar practice app that keeps you motivated.\n\nLooking for the best way to learn guitar at home? Start with Gibson's step-by-step learning path. Whether you're picking up a guitar for the first time or leveling up your technique, the Gibson App helps you learn faster with interactive fun lessons, real songs, and real-time feedback. Join millions of guitar players learning with the Gibson App.\n\nBuild real skills across all styles — from your first chords to full songs, fingerpicking, and music theory. New songs added weekly.\n\nFEATURED IN TOP MUSIC MEDIA\n\n\"The Gibson App is changing the guitar teaching game.\" — Rolling Stone\n\n\"For those just starting their guitar journey, the Gibson app will be a godsend. The quality of tuition is second to none.\" — Guitar World\n\n\"The Best Guitar Learning App\" - Creative Outlet\n\nLEARN GUITAR FASTER WITH REAL-TIME FEEDBACK\n\nThe app listens to your guitar and gives you instant feedback on your playing, helping you improve timing and technique with every session. Guitar lessons, real songs, interactive tabs, tuner, metronome, and real-time feedback — all in one app.\n\n10,000+ LESSONS, EXERCISES & SONGS\n\nExplore a massive library of lessons and songs across multiple genres, including rock, blues, metal, pop, acoustic, and more.\n\nMASTER EVERY GUITAR SKILL\n\nGo beyond basic chords with a curriculum that covers proper finger placement, strumming patterns, lead guitar, f",
+    "reviews": [
+      {
+        "date": "2026-09-22",
+        "rating": 2,
+        "text": "I think this is a scam. Ive had this app for like fifteen minutes and i already have to get premium if i wanna progress at all and im only on level two"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Timing. There timing is bad still. I have to watch close to see that I’m getting better."
+      },
+      {
+        "date": "2026-09-09",
+        "rating": 3,
+        "text": "Beautiful app, not my learning style. The app is beautifully crafted. It could be fun. For me it’s a game and is not really teaching me how to play guitar. It’s teaching me to hit the dots. \nI’m sure this works for some. It’s just not my style of learning. I understand gamification and how it keeps you engaged. \nThe notation that the app teaches is not used anywhere outside the app. In that regard"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 1,
+        "text": "Trash! 🚮. Just wasted $20! They tell you that you can play songs but it costs an extra $5 to play anything you like. YOUTUBE tutorials are free. There’s literally no need for this app. SAVE YOUR MONEY!"
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 3,
+        "text": "Decent Instructional Tool, but Don't Trust the Audio Engine. Pros: The lesson layout, visual tracks, and bite-sized progressions are well-structured for building muscle memory and learning song patterns.\n\nCons: The built-in audio pitch detection is unreliable. Even in a silent room after a sound check, the app consistently flags correct notes as \"too high,\" \"too low,\" or off-tempo. Testing this co"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 3,
+        "text": "It’s okay but. It would definitely be a decent app if it wasn’t all behind a massive paywall you get about three lessons not even three like maybe one big lesson and that’s it. You can’t learn the actual important stuff it all behind a paywall all you learn how to do is as much as one or two frets and that’s it. Everything else is behind the payroll. How are you supposed to learn if everything‘s b"
+      },
+      {
+        "date": "2026-08-23",
+        "rating": 2,
+        "text": "Good but not instructive. It seems to be a good video game style of learning if you can already play guitar, but it isn’t great for beginners. There’s no consistency between stages, suddenly you jump to something you have no clue how to do and the app is just saying do this now, then this, then this. No explanation of how. Then it is so difficult to navigate, like finding your way around a maze. A"
+      },
+      {
+        "date": "2026-08-16",
+        "rating": 1,
+        "text": "Definitely NOT free!. You have to pay for like almost everything! How am I supposed to learn if I can’t take lessons!"
+      },
+      {
+        "date": "2026-07-28",
+        "rating": 2,
+        "text": "Where are the 10K Songs and Lessons?. The song list is a barren wasteland. I thought, “surely, with ten thousand songs and lessons I will be able to practice some reels and jigs.” The ad is misleading."
+      },
+      {
+        "date": "2026-07-23",
+        "rating": 1,
+        "text": "What am I missing?. I see all these reviews about how much people like the app, but I don’t get it. Couldn’t get past the tuning page without killing the app and skipping it. I am not even 30 mins, and fully blocked by the “7-day trial”. What is the point of a 7-day trial when I can get past a few mins/few lessons. Why are you forcing screen rotation? Not allowing it to rotate as I need is severel"
+      },
+      {
+        "date": "2026-07-15",
+        "rating": 1,
+        "text": "REALLY THINKING ABOUT THE SUB PLAN. I have been trying for weeks to play whatever so I want from basic and melody so I can get better but the app won’t let me even though I have finished the lessons to be where I am. I do not want to move forward until I’m comfortable but it will not let me tap the song to play like it did my first week."
+      },
+      {
+        "date": "2026-07-11",
+        "rating": 1,
+        "text": "Buggy. For some reason, the game still gives me points for hitting the note right without even playing a note. I’ve had to restart restart my phone close the app twice and it’s still the same."
+      },
+      {
+        "date": "2026-05-31",
+        "rating": 1,
+        "text": "Begs for reviews. If your app begs for reviews in the middle of doing what your app is supposed to do, then you get 1 star, regardless of how good the app is otherwise."
+      },
+      {
+        "date": "2026-05-30",
+        "rating": 1,
+        "text": "Stuck with headphones and phone mic. I’m not a fan of the game style learning. I was using another app like this a while back and realized that i was learning to watch a screen instead of listening to keep time. \nI’ll be bc stick with truefire and Justin. When I want to learn a song I’ll use songster."
+      },
+      {
+        "date": "2026-05-29",
+        "rating": 1,
+        "text": "Don’t Fall for Gibson’s Guitar Lessons App – Beautiful App, Crooked Billing Practices. I purchased a Gibson guitar subscription to learn how to play, initially signing up for what I believed was a single annual plan. After paying $129.99, I started the seven-day trial to evaluate the service. The very next day, I received an email from Gibson offering a “special” subscription for just $90.99. Grat"
+      },
+      {
+        "date": "2026-05-25",
+        "rating": 1,
+        "text": "All fluff. Want to get strung along by a bunch of flashy BS? This is the app for you. This is like a budget airline with the nickel and diming, but worse. Buyer beware."
+      },
+      {
+        "date": "2026-05-24",
+        "rating": 2,
+        "text": "It’s costly….. but….. Being transparent right up front. I give it two stars for the reason being the price for a year subscription, not having good/reliable phone/data service the app requires for a smooth experience and not having had much availability to use the app as I had hoped for. \n\nIn the last 10 months of having paid $139.09 for the year sub, I’ve probably spent less than 20hrs of use, ma"
+      },
+      {
+        "date": "2026-05-21",
+        "rating": 1,
+        "text": "Color blindness. I love this app and use it all the time, but I’d really love to see a colorblind accessibility setting added. Some of the colors can be difficult to tell apart, and having a colorblind mode would make the experience even better and more accessible for everyone."
+      },
+      {
+        "date": "2026-05-14",
+        "rating": 3,
+        "text": "Subscription. It’s such an amazing app but the fact that you have to buy everything now a days turns me down from practicing at all!!"
+      },
+      {
+        "date": "2026-05-12",
+        "rating": 2,
+        "text": "Decent. Good for beginners but needs more work for advanced. It jumps from super easy lessons to really hard ones with no rhyme or reason. The speeds are not very adjustable for practicing new licks. The slowest speed is faster than I’d like to learn a new complicated riff.\n\nThey have completely given up on lessons and thrown everything into guides which are often really boring to play through. Th"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Fun way to learn!. I’ve been using the app for about 3 weeks now. Bought the paid subscription after the 1 week trial because I liked it so much. It’s like playing guitar hero with a real guitar! I have so much fun with the structured lessons and my muscle memory is quickly improving. I also love the AI feedback telling me what skills I have improved and areas I still need to work on. This is help"
+      },
+      {
+        "date": "2026-08-22",
+        "rating": 5,
+        "text": "So much fun. I want to be a singer, but I feel like I need to learn an instrument. So me and my dad looked on the App Store and tried it out. It’s still my first day and I feel like I have learned so much."
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 4,
+        "text": "Using the app to relearn. Played guitar for 30 years then took an 8 year hiatus. I’m using the app to clear the cobwebs and maybe learn some stuff I didn’t know in the first 30 years. It’s really great for working on your timing, finger strength, muscle memory and coordination between your right and left hands. I’m working on lessons below my ability but I am enjoying slowly easing back in. Doing "
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 4,
+        "text": "Restart. I love this app its very easy but when i go back and try tohit resume spmetimes i hit the restart button and it restarts all my progress and ita very annoying, please make more space beyween the resume and restart button"
+      },
+      {
+        "date": "2026-08-07",
+        "rating": 5,
+        "text": "Get this app. I took a chance about a year and a half ago. After years of lessons and tutorials I was still missing something and started the Gibson app and can’t say enough about how good it is and how it’s helped me progress in my home on my time and sooo many things you can do that keeps you focused and having fun 🤘🏼 ."
+      },
+      {
+        "date": "2026-07-30",
+        "rating": 5,
+        "text": "Great App, Veterans Discount. After a free trial I was hooked! They have a generous veterans discount and the staff and support team is very helpful."
+      },
+      {
+        "date": "2026-07-22",
+        "rating": 5,
+        "text": "Update messed everything up. I tried every way with my Positive Grid Riff to get the digital amp version of Gibson to work and it did absolutely nothing. All I do now is practice with a dry, clean sound from Bias FX, because I won’t hop back and forth between apps to get the right sound every time I practice or play something different.  That’s annoying."
+      },
+      {
+        "date": "2026-07-09",
+        "rating": 5,
+        "text": "Fun app. Super fun to play along with my new les Paul."
+      },
+      {
+        "date": "2026-07-08",
+        "rating": 4,
+        "text": "Orientation. One really bad thing about this app is you can’t choose the way the orientation is aka in other words the usbc always has to be on left and id rather it be on right… really bothers me tbh"
+      },
+      {
+        "date": "2026-07-05",
+        "rating": 5,
+        "text": "Outstanding!. 5 star all the way - highly recommended"
+      },
+      {
+        "date": "2026-07-04",
+        "rating": 5,
+        "text": "Fundamentally Sound - my goal. I am very pleased with this application. It is afforded me the opportunity to learn all about playing the guitar at my own pace. The competition in the levels encourage you to stick with it and it’s amazing how much I’ve learned just in the two months I’ve been working with the app! I have bought two other online guitar programs which I haven’t touched yet, because I"
+      },
+      {
+        "date": "2026-07-04",
+        "rating": 5,
+        "text": "Great tool. Great app or all levels"
+      },
+      {
+        "date": "2026-06-23",
+        "rating": 5,
+        "text": "Excellent app and customer service. My wife and I recently retired and have both decided to learn to play guitar.  The Gibson app has been wonderful, both in its content and the way in which it presents the material and assesses one’s progress.  I had a question regarding the app and sent a note to customer support on a Saturday evening.  On Monday morning a response from the support team was wait"
+      },
+      {
+        "date": "2026-06-15",
+        "rating": 5,
+        "text": "God send. I’m learning faster with this app."
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 5,
+        "text": "Unbelibable experience!. Other platforms base themself on made up songs, and a bunch of confused techniques,  Gibson app is base on real music learning material. Stuff that make sense to your ears."
+      },
+      {
+        "date": "2026-06-02",
+        "rating": 5,
+        "text": "Pretty good. Paired with Scotty West’s AUG  and I’m feeling like I’m learning what I want to."
+      },
+      {
+        "date": "2026-06-02",
+        "rating": 5,
+        "text": "I wanted to play a guitar. It taught me how to play a guitar so 5 stars"
+      },
+      {
+        "date": "2026-05-29",
+        "rating": 5,
+        "text": "Absolutely what I needed. This app is amazing. It corrects you when you’re wrong it compliment you when you\nit’s a great teach teaching tool highly recommend recommended"
+      },
+      {
+        "date": "2026-05-26",
+        "rating": 5,
+        "text": "Finally the App For Me. Spent a little over a year using a different app and even though I was progressing through the lessons my playing was sloppy and often times I felt I was taking 2 steps forward and then 3 steps back. \nSo a little over a couple weeks ago I gave this a shot and it’s exactly what I’ve needed. I started at the beginner level and am working my way through the power chord section"
+      },
+      {
+        "date": "2026-05-25",
+        "rating": 5,
+        "text": "Great guitar learning app. This is the first app I purchased and used when I started my guitar journey. With no real music experience I have learned so much in the last year thanks to the GGA!"
+      }
+    ]
+  },
+  {
+    "id": 398210959,
+    "name": "Crunch Fitness",
+    "seller": "Crunch LLC Apps",
+    "genre": "Health & Fitness",
+    "release_date": "2010-11-06",
+    "ratings_us": 25398,
+    "avg_rating": 4.77,
+    "ratings_per_day": 4.36,
+    "reviews_30d": 105,
+    "reviews_prev_30d": 93,
+    "developer_app_count": 2,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/crunch-fitness/id398210959",
+    "matched_keywords": [],
+    "description": "The Crunch Fitness mobile app is a great way for Crunch members to enhance their fitness experience! With the app, you can:\n\n- Check into the gym with ease.\n- Track your gym check-ins and see your progress.\n- Review and manage your group class bookings.\n- Access and check your billing history.\n- Record your workouts and set personal fitness goals.\n- Connect your fitness wearable to track your activity seamlessly.\n\nDownload the Crunch Fitness app today and take control of your fitness journey!",
+    "reviews": [
+      {
+        "date": "2026-10-10",
+        "rating": 1,
+        "text": "Doesn’t work. Every time I try to book a class it says it’s full even though I book it immediately as reservations open. I called the gym to confirm if the class was full and they said there was still space available - even though my app said it was full. No one has been helpful 😡"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Seems like yall pushed a bad release. Can’t sign in anymore"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "They don’t want you using it.. The app can only be used on one device per account -not one device at a time, but one per account meaning if you have multiple phones you can’t access your membership barcode on both. If you want to pull up the app on an iPad, you can’t. \nIf you get a new phone after signing up, you can’t access the app on your new phone for 30 days. How do they expect you to scan in"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Payments don’t work. Crunch keeps failing to charge me, then they email me threatening late fees even though my credit card info is up to date and in the system. Buggy app is going to charge me late fees"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "Unable to get Classes. Multiple days holding my phone to try to book the class I want trying the moment it’s time & get an error then it’s full!\nThere is no waiting list if on the app for the class so you have to have time to watch the app!\nPlease add waiting list for classes on the app & more classes!"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "Slower to check in. Before the update it didn’t require internet to check in with the barcode."
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 1,
+        "text": "One Device Login = Locked Out Everywhere Else. The Crunch app is incredibly frustrating. If you log in from your computer or iPad, you apparently can’t log back in from your phone. Why?! I don’t always have access to my iPad or a computer, yet I’m expected to use those devices to sign up for classes.  And here’s the biggest problem: you only have about 60 seconds to grab a spot before a class fill"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 1,
+        "text": "UNUSABLE. This app is absolute trash. They need to fire their developers or learn better prompt for the AI they’ve used to build this garbage.\nSupport is also useless - constant errors when booking classes, can no longer choose a bike for spin without the screen just freezing. \nGARBAGE"
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 2,
+        "text": "Crunch capacity meter. Probably the worst feature on the app. I’m not entirely sure how their software works, but the accuracy is always off. Crunch will be half full and say light capacity. Crunch will be really full during peak hours and say moderate. Either they have no way of telling how many people leave in a given time or it’s intentional."
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 1,
+        "text": "Updated and doesn’t work. Updated app and now check in QR code doesn’t generate, literally the only reason I need the app"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "App does not record club check-ins. This app used to work well and show club check ins till Jul 2026, but after that it has stopped recording and showing club checkins. Overall very bad app. Bad user experience and non functional features."
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "Apple Wallet. I can’t add the barcode to my Apple wallet."
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Not good. 1 star not great very bad"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Pointless. Terrible app, has no value. You use it because it’s the only way they’ll check you in, but it’s buggy and has no features that would otherwise be useful."
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Classes on the app. I am a member and I have a hard time to book a class on the app just turns blank and say no upcoming classses it glitches a lot I have to set an alarm and it very frustrating"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 1,
+        "text": "Can’t add pass to wallet. Dumb application. They removed the wallet integration and forcing to open their slow application to check in. Even worse their gym has terrible cell reception… dumb developers"
+      },
+      {
+        "date": "2026-09-09",
+        "rating": 3,
+        "text": "Update glitch??. Great app, but the new update might have broken it? The “update my app” screen popped up while I was booking a class, so I updated it in the App Store, and now the app is just stuck on the “update my app” screen and there’s no way to close it. Help!!"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 3,
+        "text": "Crunch. Nutrition tracking needs a lot of work barcode scanner barely works and hard to enter manually homemade food. Love crunch fitness. The app has a lot of bugs. Would like to see some better tech support help options"
+      },
+      {
+        "date": "2026-09-03",
+        "rating": 1,
+        "text": "App Not Working. Been waiting for someone from Crunch to help me with the app for two weeks and still does not work. Trying to book a class and app says my membership is cancelled, which it is not."
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 2,
+        "text": "Sentido. Hola gracias por el servicio pero el cobro es un poco extraño, pues yo asumí un cupo de 25 y me cobrar 45 no entiendo quien autorizo ese monto, no es justo"
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "Great Zumba. Fun classes! Great staff"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "New to the app. So far, so good. Appears to be user friendly"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Easy to navigate. Easy to navigate"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 4,
+        "text": "Great App!. My only gripe with the app is that when I am booking classes, I can only see 2 weeks in advance, and I can’t tell if there is a set schedule for when classes are available or done. Personally, I only want to do the Pilates and Yoga classes, but I want to be able to see the times for the whole month for those specific classes so I can block out my days for them. And it’s hard to tell if"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Crunch Fitness. Super easy to use and setup and adding your workout results along with booking classes"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "The best -Inwood. The best service, cleanliness and staff, but above all the best equipment and spaces for training. 👏💪"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Multiple Equipment to train. It doesn’t matter how busy it get you will always find a favorite equipment for your training. A lot of space and group training exercises."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "tooopp. toppp"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Satisfied. I’ve been going to this gym over a year now ,I have no regrets. They have all the latest gym equipments,the instructors know exactly what they are doing. The classes are great and is beginner friendly the instructor push you to your limit they do an excellent job at crunch fitness."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Crunch. Easy to follow!!"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 4,
+        "text": "Pretty good for a gym app. I like that there’s challenges with prizes, and I can see exercises there since I’m doing personal training. I wish there was more freebies but it’s a good app. I use it beyond checking in"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "District GF Manager. My team is happy with NetGYM and the new updates"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Great fitness Center. Many class with various schedules to choose from"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Cool Ap. Great app. It gives you all the information needed"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Best gym in Owasso. Everyone was super helpful and patient by far best gym staff and gym in around lifelong member as long as things keep going the way they are"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Crunch Fitness App. Just started my gym journey and so far i enjoy this app. I think it’s pretty easy to navigate."
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Works like my brain does!. I’ve only used the app twice and I never seem to get stuck in the wrong place.  The app has so much more info than other apps in the group fitness booking area.  I’ll update my review as I explore more."
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Gainz & Goals. Joined when my man took me as a guest. I LOVE that sled thing and the free handed bar in the front you can switch shoulders to squat.\n\nIt’s crowded but I felt every one is in their own lanes so it’s not invasive and this is coming from someone who doesn’t always wanna be bothered lol👌🏿 10/10 recommend"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Motivationally Helpful!. It’s nice to be learning these tools set out rather logically! Still a ways to go, but enjoying this journey…✌️💕🪴"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Crunch. Love the convince of the online app easy to book or cancel classes make payments or update information"
+      }
+    ]
+  },
+  {
+    "id": 6800278507,
+    "name": "BLASTED - draft party game",
+    "seller": "Neil Allen",
+    "genre": "Games",
+    "release_date": "2026-08-17",
+    "ratings_us": 243,
+    "avg_rating": 4.44,
+    "ratings_per_day": 4.36,
+    "reviews_30d": 15,
+    "reviews_prev_30d": 14,
+    "developer_app_count": 4,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/blasted-draft-party-game/id6800278507",
+    "matched_keywords": [
+      "group challenge"
+    ],
+    "description": "BLASTED is the party game where everyone thinks they can build the better lineup.\n\nPick a category, take turns bidding for your favourites, build your Draft and then settle the argument: who picked best?\n\nFrom Fast Food and Footballers to Movies, Cars, Video Games and more, every round gives your group something new to debate.\n\nHOW TO PLAY\n\n• Choose a category\n• Add your players\n• Bid against your friends for each item\n• Build your perfect lineup\n• Compare Drafts and choose the winner\n\nMORE WAYS TO PLAY\n\nBLASTED also includes additional party game modes including Imposter, Most Likely, Same Brain and 2 Truths & a Lie.\n\nBLASTED PREMIUM\n\nFree players can enjoy the core Draft game with a selection of categories. BLASTED Premium unlocks all categories, custom Drafts and all premium party game modes.\n\nPerfect for family game nights, parties, sleepovers, road trips or whenever you need to settle who actually has the best taste.\n\nNo accounts required. Just grab your friends, pick a category and start drafting.\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "reviews": [
+      {
+        "date": "2026-09-27",
+        "rating": 3,
+        "text": "Decent game. The game would be way better if there was more free stuff there’s very little content unless you want to spend money."
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "Kfjfifnne. I payed for the premium on Accedant and I would like a refund"
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 1,
+        "text": "money. you have to pay for everything"
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 2,
+        "text": "Not that good. I like this game but I hate how there’s only 3 choices only for   Animals, food, and countries. Hate that I have to pay for it so I don’t play it often"
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 1,
+        "text": "Trash. Can only play 1 thing for really don't need that app to play, though it was going to be much better"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "Don’t download this. You have to pay for almost everything if you actually want to have fun there’s many other apps u can do this for free."
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "Pay to play. The game is so horrible you have to pay I do not recommend it"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Great. Aw"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 4,
+        "text": "Good. Gotta make the game mode breathe like come on. No one wants to pay just to enjoy your fun party game. The party game should be free"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 4,
+        "text": "Very good. Problem is ther not a lot of games to play for free"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Good. Good"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 4,
+        "text": "Fun. It’s fun, but you can only use three games with without paying money and the only thing that I really play play is the draft game because there’s no really other other two are not really fun"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "BLASTED draft party game. I like this game I play with my family members"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "game review. great game"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 4,
+        "text": "Good Game. Love the game. Great way to spend time waiting for food at a restaurant. Only problem is there should be more free modes and categories. Overall 4/5 game!"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 5,
+        "text": "Review. Really good party app"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "Very fun. This app is very fun and its a great app to use if you are hanging out with friends or family. Highly recommended."
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 5,
+        "text": "Actually pretty dope. Try"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 5,
+        "text": "So goood. I got this game today and I can’t stop playing ts. Ts is like da best game on the App Store"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 5,
+        "text": "Fun game. This is a fun draft game that people can use for YouTube videos and for fun with friends."
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 5,
+        "text": "super fun!. i love the game and it’s fun to play during dinner or just something to kill time"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "Good. I wish not some many thing were only for members but over all really fun with friends and maybe even more fun if you could play against ai"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 5,
+        "text": "Devs respond to feedback. Game was bugged on my iPhone 17 pro max so I left a review reflecting the state of the app. Received an email from the devs that it was fixed, glad to have good communication from the devs, game works properly on my device!"
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Super good for friends. Super good for playing with your friends"
+      },
+      {
+        "date": "2026-09-02",
+        "rating": 5,
+        "text": "Timari, please shout me out in a video. 10/10 I can play these games for hours"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 4,
+        "text": "Alr ig. They need to make it so you can delete your custom drafts"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 5,
+        "text": "Not really sure. Very fun me and my friend Parker are having a blast!"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 5,
+        "text": "Good. Gooood"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 5,
+        "text": "Rated. Very solid game"
+      }
+    ]
+  },
+  {
+    "id": 537452201,
+    "name": "BrainHQ",
+    "seller": "Posit Science",
+    "genre": "Health & Fitness",
+    "release_date": "2012-12-10",
+    "ratings_us": 21962,
+    "avg_rating": 4.6,
+    "ratings_per_day": 4.35,
+    "reviews_30d": 2,
+    "reviews_prev_30d": 4,
+    "developer_app_count": 1,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/brainhq/id537452201",
+    "matched_keywords": [
+      "brain training"
+    ],
+    "description": "Train your brain with BrainHQ from Posit Science—the most rigorous program available for better brain health, and the only one backed by more than 100 scientific papers showing benefits - including the breakthrough NIH-funded ACTIVE study. Now with new features that contribute to your brain fitness success!  \n\nBrainHQ represents the culmination of 30 years of research in neuroscience and brain health. Top scientists from around the world helped to develop and test the BrainHQ exercises. The result: a training system that comprehensively improves brain performance, from the most basic elements of perception through the most complex elements of memory, attention, and cognitive function.  \n\nNo other brain fitness program can match BrainHQ in scientific proof. More than 100 publications from independent, randomized controlled trials have shown that the exercises and assessments in BrainHQ drive real change. These changes include: \n• cognitive improvements, such as better memory and faster processing speed\n• real-world improvements, including safer driving and improved quality of life\n• physical brain changes, like healthier white matter and more coordinated neurons. \n \nAll of this means that BrainHQ works—in laboratory studies, and in the lives of everyday people:  \n\n•\"BrainHQ is a no-brainer must-have in my book…This training has expanded my visual, fine-tuned my audio and even my reflexes seem to be getting faster. BrainHQ is fun and gives me the challenges I need to keep my br",
+    "reviews": [
+      {
+        "date": "2026-09-29",
+        "rating": 2,
+        "text": "Not for Neuro Divergents. Everything is based on speed. Not your ability to reason through complex problems. If you’re ND, this just makes you feel stupid, even tho you score 98 on nation wide tests. Speed doesn’t help NDs, it only frustrates them."
+      },
+      {
+        "date": "2026-08-20",
+        "rating": 3,
+        "text": "Should be better. Nice app with solid content and harder levels as you improve. You have to pay more money to access your own data and how exactly you are improving. All the app gives you are silly stars and meaningless pictures when you pass a game or level.  Who know where they sell your results."
+      },
+      {
+        "date": "2026-08-20",
+        "rating": 1,
+        "text": "to short free mode. i’d never pay for something like this when i can only see so little of how it works. prove you aren’t snake oil if you want a dime lol."
+      },
+      {
+        "date": "2026-08-17",
+        "rating": 1,
+        "text": "No phone available, unable to talk with anyone. I am highly frustrated by the inadequate service provided by this app. You are forced to pay for a subscription immediately before you can even properly test or play other games to evaluate the product. Worse yet, when you run into issues, there is no clearly visible or accessible customer support system to communicate with. The user experience feels"
+      },
+      {
+        "date": "2026-08-12",
+        "rating": 1,
+        "text": "Steaks your money. Once you’ve signed up you can never cancel the subscription!"
+      },
+      {
+        "date": "2026-07-26",
+        "rating": 2,
+        "text": "multiple glitches. I have an iphone and one of the exercises (Divided Attention)does not recognize when I correctly tap the screen. I have brought this to their attention and they acknowledged the problem but have not fixed it. Another exercise (Hear,Hear) cuts off the sound that one is supposed to match- making it impossible to do so. Very frustrating. Maybe better off taking piano lessons than u"
+      },
+      {
+        "date": "2026-07-19",
+        "rating": 1,
+        "text": "Yuck. Developing peer reviewed work into games that can help blunt public health impacts of dementia is great. Charging exorbitant subscription rates for it is evil. The science is funded, the game development is not terribly expensive, and using the studies as branding for the sake of profiteering is disgusting. Ordinary everyday capitalist evil, but evil. Non-jerks have tried to replicate UFOV g"
+      },
+      {
+        "date": "2026-06-24",
+        "rating": 3,
+        "text": "Too fast. The feedback after completing exercises goes way too fast for me to read and you can’t go back to it anywhere. Please fix this!"
+      },
+      {
+        "date": "2026-05-27",
+        "rating": 2,
+        "text": "okay but... I’ve tried to like this but at a certain point in the daily training it starts going too way to fast- is it realistically made for humans? I have to literally position my fingers millimeters from screen in order to hit it fast enough? then it becomes just stress. it’s no on this one"
+      },
+      {
+        "date": "2026-05-20",
+        "rating": 1,
+        "text": "Over charged. I purchased a 1 year subscription for $99.99 in March 2026 and I’ve been over charged. Once in April 26’ for 94.99 and twice in May. I want a refund!!! Unfair"
+      },
+      {
+        "date": "2026-05-13",
+        "rating": 3,
+        "text": "Brilliant… but there is a huge accessibility problem.. The tests are great. The system works very well, encouraging you to keep trying until you figure it out.\n\nHowever.\n\nThere is no option for accessibility. Not even in the audio practice, which requires working ears.\n\nI wrote support and asked, and they told me directly that they have no plans to address this. The brains of those with disabiliti"
+      },
+      {
+        "date": "2026-05-12",
+        "rating": 2,
+        "text": "Erratic performance. The sounds only work about 60% of the time, and they’re sporadic. Sound Sweep, for example, plays two tones for each challenge, and sometimes only the first one is audible, sometimes only the second one, sometimes both, and sometimes neither one. It beck\nEa. Guessing game, which is not helpful.  There are other challenges that exhibit erratic performance as well.\n\nThere are al"
+      },
+      {
+        "date": "2026-05-10",
+        "rating": 3,
+        "text": "Poor sound quality affects training. i’ve been doing one free daily training round, and enjoyed the first few, but then I got to treating where I have to listen to a conversation and answer questions about what was said. The problem that the sound quality of the app is so bad, I cannot understand that people are saying. My hearing is excellent, it’s not that. And the names that are chosen, are unu"
+      },
+      {
+        "date": "2026-04-21",
+        "rating": 2,
+        "text": "can’t get past start. I wish that every game presented had a clear demo or tutorial. I have little experience with video games and find myself completely puzzled at times, lost in terms of how to proceed. I’ve quit many tasks without making it past the “start” button, which is incredibly demoralizing. Is there a point to not providing more explanation?"
+      },
+      {
+        "date": "2026-04-21",
+        "rating": 3,
+        "text": "No allowance for colorblindness. This app seems to be very good and helpful until you get to a spot where you’re depending on color and shades of color which it does a lot. I have sent messages and they  tell me to adjust my phone, so ,they make no allowances. My phones colorblind options don’t seem to be helpful. unfortunately there are many visual and optic challenges.on this app"
+      },
+      {
+        "date": "2026-04-17",
+        "rating": 2,
+        "text": "Too repetitive, not enough feedback. I wish it provided more feedback on whether I was getting any better at the games. What feedback it does give flashes up so quickly, I can’t read it. I’m also getting a bit bored as there’s  only a handful of different games."
+      },
+      {
+        "date": "2026-04-08",
+        "rating": 2,
+        "text": "Unpolished. OK, but it needs work. For example, the voice in the to-do list exercise is extremely unnatural and hard to understand. In that same exercise, the instructions are sometimes ambiguous; it’ll say something like “You need item A after item B and then item C.” That could mean either B, A, C, or B, C, A. Of the exercises I’ve tried so far, that one is the worst, but others could use some p"
+      },
+      {
+        "date": "2026-03-30",
+        "rating": 2,
+        "text": "Sound not always clear. When playing one of the tests, I was unable to understand some of the names mentioned in the dialog which made it difficult to track the conversation. But worst was a game where we listened to a list of items to identify but the recording was broken up which made it difficult to follow."
+      },
+      {
+        "date": "2026-03-17",
+        "rating": 3,
+        "text": "Gratuitous graphics give me headaches. The graphics go by so quickly and flash so much it hurts my head. I would love to find a list where it will tell me what I'm good at and what I'm struggling with."
+      },
+      {
+        "date": "2026-03-12",
+        "rating": 1,
+        "text": "Cannot manage through the app store. I tried to purchase the app based on their directions. However, they no longer allow app purchases through Apple. You have to purchase through their website so they don't have to pay Apple the $30.00 app fee. I don't want a web-bases app. Without it you get one free game per day. \n\nI instead purchased another app at half the price. I asked AI for specific apps "
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "Great App for your brain. I don’t play these games enough, but every time I do several different exercises a few days in a row, I can actually tell that my memory, focus, and brain speed feel sharper. One reviewer said it’s frustrating, and yes any game you play can be, but even if I don’t get them all right and get frustrated, if I just stick with them and repeat the exercises, I find I get bette"
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 4,
+        "text": "Fine Tuning. The games are worthwhile except for Fine Tuning where GA and DA sound exactly alike on my speakers and even when I wear earbuds.  Very rarely do I hear a clear DA. I usually earn only one star at a time making this exercise excruciating.  Do others actually hear a difference?"
+      },
+      {
+        "date": "2026-07-10",
+        "rating": 4,
+        "text": "Mediocre app but decent tool overall. The app is a good exercise. One must recognize a few exercises have terrible instructions but most are adequate. The app is buggy in that it fails to always register your responses correctly leading tostrikes against you. That will piss you off.  Using AI to explore the clinical trials one does not find a validation  regarding the exercises efficacy, but after"
+      },
+      {
+        "date": "2026-06-20",
+        "rating": 5,
+        "text": "I understand now. A few days ago I wrote whining about how there was no way to progress part a point in the memory test with sound cards. \nI understand now.\nThanks"
+      },
+      {
+        "date": "2026-05-28",
+        "rating": 5,
+        "text": "Visual Sweeps. The instructions for the visual sweeps exercise make absolutely no sense whatsoever.  It’s utterly impossible to do it."
+      },
+      {
+        "date": "2026-05-15",
+        "rating": 4,
+        "text": "Nice App. Works well on my iPhone 12 but I downloaded it on my mom’s Google Pixel (2025) and the navigation task bar (the info, pause and exit buttons) when playing games is completely gone, so she can’t exit or pause any games"
+      },
+      {
+        "date": "2026-05-12",
+        "rating": 4,
+        "text": "Great, but….. I’m only using the daily free version.  Challenging, but fun!  My only quibble is that the card memory game doesn’t give enough time to respond!  Even hovering  fingers over the thumbs up and down buttons doesn’t allow enough time to tap"
+      },
+      {
+        "date": "2026-03-19",
+        "rating": 4,
+        "text": "App is great. Exercises are great. Give it a try. However, there was a glitch and had to reset subscription. Did not like that it just happened. App is working fine now and recommend to all to give it a try."
+      },
+      {
+        "date": "2026-03-04",
+        "rating": 5,
+        "text": "Need to turn off blockers quickly. I use an application firewall that asks permission for incoming requests. If I don’t answer quickly enough, the app believes I’ve already used the free trial that day, so will not load. The option to always allow for this app will solve the problem. Either that or get really fast with hitting OK."
+      },
+      {
+        "date": "2026-02-21",
+        "rating": 4,
+        "text": "Eyes. I have a v hard time seeing some of the prompts. That’s okay, I guess I need better glasses. However. I absolutely cannot read the quick notices tbat flash by when I finish a game. 10? 100? I have NO idea what is written. If it’s important enough to include then it’s important to slow it down. !!!!"
+      },
+      {
+        "date": "2025-12-05",
+        "rating": 4,
+        "text": "One annoying thing. I appreciate that there’s a free version of this, but I find it really irritating that the stars at the end flash by so quickly that you can’t even read them!  Please slow it down a little."
+      }
+    ]
+  },
+  {
+    "id": 1001285466,
+    "name": "Weight Loss Bet by HealthyWage",
+    "seller": "HealthyWage LLC",
+    "genre": "Health & Fitness",
+    "release_date": "2015-07-17",
+    "ratings_us": 17865,
+    "avg_rating": 4.79,
+    "ratings_per_day": 4.35,
+    "reviews_30d": 1,
+    "reviews_prev_30d": 0,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/weight-loss-bet-by-healthywage/id1001285466",
+    "matched_keywords": [
+      "bet on yourself"
+    ],
+    "description": "Win up to $10,000 by making a \"bet\" on your own weight loss, or by participating in one of our many weight loss and fitness challenges. There’s a reason we paid out millions to our participants last year - our challenges are fun, effective, and people love to win money for losing weight!\n\nAccording to one of our participants, “HealthyWage has flipped on a switch that I just couldn’t seem to get clicked on by myself. Not sure, or what science is behind it, but this...is astounding!”\n\nTime and again, we've provided participants with the motivation to get healthier that they've been searching for. In fact, 45% of our participants report weight loss¹ when participating in a HealthyWage Challenge, with an average prize payout of $1,386². Oh, and we DO know the science behind it. We’re kind of nerdy like that!\n\nCheck out some of the features you’ll enjoy with the HealthyWage app:\n\n- Take and post-victory and before-and-after photos\n- Participate with a vibrant community for support and accountability\n- Keep track of your weight loss and your progress toward hitting your goal (and winning money!)\n- Track your step activity throughout the day\n- Create and submit your beginning and ending weigh-in verification videos\n- Access your winnings to cash out or begin another challenge\n- Keep an eye on your standing among other players\n- Build friendships, get inspired by others success, and practice your best cheerleading skills\n- Easily find and enter new challenges\n\nThere are 4 different t",
+    "reviews": [
+      {
+        "date": "2026-04-24",
+        "rating": 1,
+        "text": "Don’t do it.. It is not good and if you want to cancel you can’t no one responds and you get stuck paying for something you can’t be a part of like let’s say a n accident or injury. Disappointing."
+      },
+      {
+        "date": "2025-12-08",
+        "rating": 2,
+        "text": "Cool idea bad implementation. The app is so buggy. It keeps prompting me to login but im already logged in. Setting up garmin was painful as it kept spinning and getting stuck.\nI feel like there is so much spam in the app too. I input my weight/etc in one page then I hit it enter and it redirects me to another input page of the same info.\nI feel like I’m in a maze with this app. It has a really ba"
+      },
+      {
+        "date": "2025-11-17",
+        "rating": 1,
+        "text": "Scam. Tried to bet 1k/month that I could lose 20 lbs, at the end of the bet they wanted to pay me back my 6k plus $60.  You are giving them 100-1 odds, please don’t use this app.  There have to be better alternatives."
+      },
+      {
+        "date": "2025-11-09",
+        "rating": 1,
+        "text": "Good in theory. The app is good for motivating you to lose weight. However, they stopped sending me notifications after I signed up for the free bet campaign. I was getting weekly email notifications for the previous 3 months and haven’t received any since starting the campaign. I was expecting to get an end date notification due to the program lasting almost two months. I never did and now it is "
+      },
+      {
+        "date": "2025-08-11",
+        "rating": 1,
+        "text": "Garbage. Slow buggy app, features that don’t work and just spin when clicked on. Overall seems like a poorly coded scam app."
+      },
+      {
+        "date": "2025-06-12",
+        "rating": 1,
+        "text": "Not a User Friendly Interface. Only allowed to do 10 “active” games at a time, but it does not number them (1, 2, 3… 10). It also does not prevent you from signing up for more than 10.\n\nYou are expected to count the games yourself each time you sign up for a new challenge. If you miscount, then HealthyWage blames you and punishes you. \n\nThis functionality should be built into the app, and not reli"
+      },
+      {
+        "date": "2025-05-24",
+        "rating": 1,
+        "text": "Pass for me. I actually enjoy sweatcoin and thought if they were partnering together if must be a decent app. However sweatcoin isn’t in the business of taking or giving money. After reading the first, second and third review I’m removing this from my device, sadly, it is not what it said it was, as I read in the sweepstake rules that ‘no credit card was required’ im finding that hard to believe n"
+      },
+      {
+        "date": "2025-05-16",
+        "rating": 1,
+        "text": "What a joke. lol if I paid in $500 a month for 6 months to lose 30 lbs I would gain $3030 of which $3000 is MY MONEY. I would literally get $30 after potentially losing $3000!! And not only that, there’s a 7% processing fee at the end. The fact that this is rated high is insane.\n\nLol so I had a typo. Losing $7 of the $30 isn’t any better 🤣\n\nThis is truly insane. I don’t know how they can say that "
+      },
+      {
+        "date": "2025-04-18",
+        "rating": 1,
+        "text": "High Risk, Negative Reward. You will be able to put money into the site very easily, but good luck getting it back.  most payouts will be between $5 - $12. After receiving a “payout” you’ll have the option to pay a minimum fee of $7 to receive a check in 2-3 weeks. or if you fail to read the small print you can use paypal for a quicker payout and be charged a 3% fee which may or may not actually b"
+      },
+      {
+        "date": "2025-03-09",
+        "rating": 1,
+        "text": "One and done. Once you lose the weight they don’t allow you to continue to lose weight in another challenge. (Yes even from a lower weight than my previous weight goal not above) Yes they will take your bet a second time but will only offer 1% gain regardless as to how much you bet to lose and how much you wager.  It’s discouraging for progressive goals."
+      },
+      {
+        "date": "2025-01-15",
+        "rating": 1,
+        "text": "Scam 😵‍💫. “If you do not complete payment it will become bad debt.”\nThreatening emails with terrible grammar, I’d show a screenshot but it doesn’t allow. Total scam just cancel the card you use if you try it, you can’t cancel at all even under 30 days, so I just cancelled the whole card💀don’t use your bank either maybe Cashapp or something. I’m not saying u won’t win anything but it’s so many bad "
+      },
+      {
+        "date": "2025-01-14",
+        "rating": 1,
+        "text": "Would have signed up if it weren’t for the app. Not a user friendly app! I wasted too much time trying to navigate and so decided to investigate competitors rather than continue to spin my wheels here. Great idea, but they need to invest in app development to not lose customers. Very frustrating."
+      },
+      {
+        "date": "2024-12-31",
+        "rating": 1,
+        "text": "Excessive fees to get payout. The idea itself is solid and I wouldn’t call them a scam. Their fees to get a PayPal payout is egregious though. Ive used a similar app  and never had to pay extra money to get my money. To say this is PayPal not them is also not completely true because again a similar app pays out through PayPal with no fee. It seems like they’re passing their cost of business on to "
+      },
+      {
+        "date": "2024-11-23",
+        "rating": 1,
+        "text": "The app is of little help the service feels scammy. Like the title says my experience was negative overall and it’s quite the hassle to get your reward after loosing the weight and trying to get my cash out"
+      },
+      {
+        "date": "2024-09-25",
+        "rating": 1,
+        "text": "Successfully lost weight but payout method unclear and lots of fees. Successfully lost weight but payout method unclear and lots of fees"
+      },
+      {
+        "date": "2024-09-06",
+        "rating": 3,
+        "text": "Y’all should check your algorithm. Because telling a 105 lb girl to lose 40 lb as recommended by some organization ain't normal lol. I was forced to increase the weight loss to that amount by your recommendation or else i couldn’t continue to the next screen. Although the last screen thankfully said losing >10% of weight would put my BMI at risk. But you should have built in that check before the "
+      },
+      {
+        "date": "2024-08-15",
+        "rating": 1,
+        "text": "Scam. Don’t try it. This this is a scam. Let’s say I’ve played enough to have “won” 360 dollars that’s great but by that point I’ve already put in almost 300 bucks. I mean yay for 60 bucks but that advertisement about making X amount of money is a faults claim because they are not factoring in how much money the person put in when they show you those numbers. So it’s almost like they are counting "
+      },
+      {
+        "date": "2024-07-04",
+        "rating": 1,
+        "text": "Do not use this app. Absolutely awful company to use PayPal as a partner that took 12% of my income from winning the challenge. Do not use this terrible app that receives kickbacks from PayPal off your sweat."
+      },
+      {
+        "date": "2024-04-03",
+        "rating": 1,
+        "text": "Scam Money. The app functionality is fantastic and awesome motivator to lose weight and hit step goals. \n\nHowever, on multiple of the challenges that I have signed up for that were $100 and completed the challenge to find out that I get $100 back in return so make no profits from hitting the goal due to the fact that Healthy Wage takes a large portion of the entries and if to many people complete "
+      },
+      {
+        "date": "2024-01-20",
+        "rating": 1,
+        "text": "Doesn’t work. It is an app to take your money giving you zero motivation or means to lose weight. ou basically pay for bet for something that few if any may be able to achieve. Whoever came up with the idea, they realized they could take advantage of people who wanted to lose weight and couldn’t achieve that goal otherwise. If you couldn’t do it for free, you cannot do it for a money, especially i"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 4,
+        "text": "Good app but needs some improvement for iOS users. While this is a good app it needs some improvement for iOS users, like being able to see user profiles. Many of my Android friends have zero problems with this. It makes it difficult to help team members if you can’t see their stuff. Would be a 5 star app if that was fixed."
+      },
+      {
+        "date": "2026-08-08",
+        "rating": 5,
+        "text": "Giving 5 Stars to Grab Your Attention. Please, before you do HealthyWage make sure you truly know what it will take for you as an individual to lose weight. I mean you really, really, really must know. \n\nDo not start HW without first understanding what it will take because you will lose your money.\n\nI was motivated but due to very sad family events, I became too stressed to continue. Regardless of"
+      },
+      {
+        "date": "2026-08-06",
+        "rating": 5,
+        "text": "Scam. You have to pay money to lose weight on your own"
+      },
+      {
+        "date": "2025-12-16",
+        "rating": 5,
+        "text": "Great motivation. I initially used HealthyWage to motivate my weight loss,  it definitely worked for me. I still use the step challenges to help keep me exercising all year long . It’s not the thought of earning money but the cost of losing money that gets me out on a cold winter day. I never regret a good long walk."
+      },
+      {
+        "date": "2025-12-10",
+        "rating": 5,
+        "text": "Great experience!. I lost a total of 31 pounds, gained a lot of good habits and a new health perspective and received a great payout at the end."
+      },
+      {
+        "date": "2025-12-08",
+        "rating": 5,
+        "text": "Worth every penny. I bet on myself big time to lose 70 lbs. Then I got pregnant and my bet went on pause for a year. Then I decided this was it. I was going to make it. And guess what…I just got my check for $8349! This app helped me stick to my goals and pushed me to build great habits and stay consistent! And it literally paid off."
+      },
+      {
+        "date": "2025-08-29",
+        "rating": 4,
+        "text": "I love the concept but the app malfunctions. I just started using the app; the app is mostly easy to navigate except for when you are doing a verified weigh-in. This is because it gives you you an error message as if the video didn’t upload and it also sends an error notification to my phone that the video didn’t upload but in my email I did get a confirmation that the verified weigh-in was succes"
+      },
+      {
+        "date": "2025-04-23",
+        "rating": 5,
+        "text": "Weight loss motivated.. I lost about 40lbs in the last 4 months using this app. This is the only thing that has actually worked for me. This is major motivation!"
+      },
+      {
+        "date": "2024-12-28",
+        "rating": 5,
+        "text": "Awesome idea. Awesome idea. I am very motivated by money, so this might work. I picked an amount I can’t afford to lose. I like the 2 different challenge types, weight loss and steps. This app would have the full package if it also included wagers for sleep scores! Make me track my sleep scores on apps and make 5% improvements. My sleep is horrible, and that could help me track and improve it. “Th"
+      },
+      {
+        "date": "2024-11-18",
+        "rating": 5,
+        "text": "Best Ever. Healthy Wager app is the only program that has been successful for me. At 55 I am finally learning what it means to set achievable, healthy goals. Most importantly the app helps to keep moving the finish line as I get stronger… which in and of itself helps motivate me to do more, keep going, get better. I recommend it for everyone."
+      },
+      {
+        "date": "2024-11-01",
+        "rating": 5,
+        "text": "Great time getting in 10,000 a day. Great way to make sure you get your steps in. Enjoyed seeing how everyone was doing compared to me"
+      },
+      {
+        "date": "2024-09-13",
+        "rating": 5,
+        "text": "Retracting my previous review. I am retracting my previous review. I got kicked out of the app because I accidentally signed up with two different email addresses and it canceled my registration. I was frantic thinking that all of my hard work had go to complete waste. But I contacted health wage via email, they explained what happened told me what to do to get hooked back up and now I’m signed up"
+      },
+      {
+        "date": "2024-08-29",
+        "rating": 5,
+        "text": "Winner. Bet on my self and one a good chunk of change."
+      },
+      {
+        "date": "2024-06-08",
+        "rating": 5,
+        "text": "Awesome. Helped me stay motivated. Only thing that has ever worked"
+      },
+      {
+        "date": "2024-01-02",
+        "rating": 5,
+        "text": "So far so good!. I’m really so very excited because I feel like I’m finally going to lose weight with great motivation at the end. The app is easy to use, fun, keep you motivated."
+      },
+      {
+        "date": "2023-11-13",
+        "rating": 5,
+        "text": "App needs improvement. Seems to have disappeared from my notifications list, and I can’t get rid of the annoying pop up badge notification. When I went under my notifications list to try and turn the red badge off. That’s when I noticed HealthyWage is not even listed under my notifications anymore. Not sure how this happened. But if I can gets some advice on how to add the app back to my notificat"
+      },
+      {
+        "date": "2023-10-20",
+        "rating": 5,
+        "text": "Step it up!. This is my second Healthy Wage challenge- and I love it! The extra motivation definitely helps me to keep going & pushing myself"
+      },
+      {
+        "date": "2023-10-18",
+        "rating": 5,
+        "text": "Love this app. I’ve used it twice and won twice. You have to commit and putting your own money down is great motivation"
+      },
+      {
+        "date": "2023-10-18",
+        "rating": 5,
+        "text": "Accountability works!. I struggled to stick to a weight loss plan for years in the past,  but after putting money on the line, I was able to stick with it and lose the weight."
+      },
+      {
+        "date": "2023-09-28",
+        "rating": 4,
+        "text": "Needs a leaderboard!!. I want to see if I’m just close enough to rank up! It will keep me looking at the app every day and a leaderboard will help keep me focused. I would love to see how I stack up to others within the same challenges I’m in. If you don’t want to or think it’s fair at least make viewing the leaderboard optional. It may discourage others but it will definitely encourage people too"
+      }
+    ]
+  },
+  {
+    "id": 1293045450,
+    "name": "Multi-Play Video Poker ™",
+    "seller": "Ruby Seven Studios, Inc.",
+    "genre": "Games",
+    "release_date": "2017-12-22",
+    "ratings_us": 13936,
+    "avg_rating": 4.7,
+    "ratings_per_day": 4.33,
+    "reviews_30d": 0,
+    "reviews_prev_30d": 1,
+    "developer_app_count": 2,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/multi-play-video-poker/id1293045450",
+    "matched_keywords": [
+      "bet on yourself"
+    ],
+    "description": "Experience the Ultimate Casino Poker Collection with Multi-Play Video Poker™!\n\nGet ready to enjoy all your favorite casino video poker games anytime, anywhere! With an impressive array of games at your fingertips, including beloved classics and thrilling new additions, Multi-Play Video Poker™ is your go-to destination for endless poker excitement. Plus, we're thrilled to introduce our new Keno games for even more variety!\n\nPlay Classic Poker - Joker's Wild, Multi Rise Poker - Deuces Wild, Classic - Jacks or Better, Double Double Bonus, Super Aces Bonus , Deuces Wild, Bonus Deuces Wild, Triple Double Bonus , and many more. The more winning hands you craft, the more credits you'll pocket, with multipliers ranging from 2x to 8x.\n\nMulti-Play Video Poker™ offers all your favorite video poker games, including Classic Poker and Multi-Hand Video Poker. Go for the gold and play up to 25 hands simultaneously, aiming for those colossal jackpots. If you're up for a challenge, tackle Multi-Rise Trio, where you get three chances to win in every round. Showcase your poker prowess to your friends as you breeze through the game's challenging levels.\n\nExperience endless fun with Multi-Play Video Poker™, featuring:\n- Over 50+ video poker games, including classics like Super Aces Bonus and Double Double Bonus.\n- Multiple variations of our renowned Multi-Rise Poker™, such as Multi-Rise Jacks or Better, Poker Trio Double Double Bonus, Poker Trio Bonus Deuces Wild, and Joker Poker.\n- Multi-Hand vid",
+    "reviews": [
+      {
+        "date": "2026-04-12",
+        "rating": 2,
+        "text": "New Game - Old Tale. I’ve been playing multi-play video poker for I believe years, but I think I will have to move on.  Somehow, the algorithms in your new app have changed the game for me.  I can’t seem to get any big hands and run out of credits so I have to buy in order to stay in the game.  I used to have to only pay $19.99 and now you’ve changed it to $49.99, a price I’m not happy to pay.  I "
+      },
+      {
+        "date": "2026-03-09",
+        "rating": 1,
+        "text": "Don’t Bother. You’d have better luck in a casino. The bots are firmly in control thus making it nearly impossible to win. Ruby Seven wants you to buy in to their purchase coins scam, and I’m sure, even with that, one will still lose."
+      },
+      {
+        "date": "2026-01-30",
+        "rating": 3,
+        "text": "Not working. Not working and can’t update. Like game if works. Spent a lot of money on but can’t use now. So frustrated."
+      },
+      {
+        "date": "2025-11-09",
+        "rating": 1,
+        "text": "Money vacuum…. I play a lot of video poker at casinos… the app is a visually beautiful  representation of the machines at casinos, but that’s where the similarities end… I understand the developers desire to make money, but ridiculous is ridiculous… after 5+ years (including spending $20/month for chip buys) of playing very small bets on the app ( because it strongly appears the programming has be"
+      },
+      {
+        "date": "2025-10-20",
+        "rating": 2,
+        "text": "Game cheats.. I’m ok, with watching ads, but I’m constantly being cheated. Several times in a session. Occasionally, I understand. Although gaming in Las Vegas, wouldn’t let that fly. The game freezes a lot. I’ll have to delete this game soon."
+      },
+      {
+        "date": "2025-10-17",
+        "rating": 1,
+        "text": "Unhappy customer. I have bought a lot of tokens.\nFinally hit big but then you cut me off.\nLost most of it in a day.\nNo way you can tell me these are the same odds as a casino.\nIf I run out of tokens, I will delete this app and tell all my casino friends to never download this joke of a game."
+      },
+      {
+        "date": "2025-09-01",
+        "rating": 2,
+        "text": "Very little payout for the investment. I’ve played this poker game and it just takes your money. Interesting algos.  You get a sale price and purchase 20.00 of play of 6 million.  Never got one five of a kind and the highest hand was straight flush. Even after they gave me a 5 million point bonus after the original dwindled.  I played 50.00 to 200.00 per hand range. Terrible odds. It’s a great loo"
+      },
+      {
+        "date": "2025-05-19",
+        "rating": 1,
+        "text": "Rigged. This game is ridiculously rigged…. If you do happen to get a payout, you will immediately lose everything…..\nHorrible"
+      },
+      {
+        "date": "2025-01-22",
+        "rating": 1,
+        "text": "Horrible game!. The payouts in the game are horrendous. I spent $300 over the coarse of a month maybe and didn’t one 4 of a kind in my their multi strike game mode. \n\nDon’t play this game. There are way better poker game out there with better odds. \n\nTheir “loyalty” system is also a joke."
+      },
+      {
+        "date": "2025-01-18",
+        "rating": 1,
+        "text": "Always a loser. I can nevertheless play this game for more than a few minutes because I never have a big win.  It’s frustrating to never be able to play for more than a few minutes."
+      },
+      {
+        "date": "2024-11-24",
+        "rating": 1,
+        "text": "Gone downhill. I have played on this app for a while now. For the last few months, coming by winnings is nearly impossible. Dealt hands barely even contain a pair. On the hands where I do win, it’s never more than a straight. Playing this game has gotten really boring as of late… no one wants to jump in a video poker game and just lose, lose, lose. My guess is that they keep me losing so I will ev"
+      },
+      {
+        "date": "2024-06-28",
+        "rating": 3,
+        "text": "Survey. It’s a very fun game!"
+      },
+      {
+        "date": "2024-02-22",
+        "rating": 1,
+        "text": "Not enough big wins. More games"
+      },
+      {
+        "date": "2024-02-16",
+        "rating": 1,
+        "text": "Ridiculous. Win on one hand and lose 50 straight. I could see if it was real money you all are giving away but it’s just points lol make it fun so people can play without having to watch those stupid videos for 5,000 points"
+      },
+      {
+        "date": "2023-09-25",
+        "rating": 1,
+        "text": "Money Pit. This game is a money pit.  Big wins are rare but necessary to maintain enough credits to play.  A vast majority of plays are losers and when a rare big win does occur the game clamps down and slowly milks your winnings away.  I played the app often for over two years and tried to find a game that would at least let me come close to breaking even and none would.  Be careful with this gam"
+      },
+      {
+        "date": "2022-09-06",
+        "rating": 3,
+        "text": "Review. Payouts are still terrible. IF a big payout hits it goes away fast"
+      },
+      {
+        "date": "2022-03-08",
+        "rating": 1,
+        "text": "Can’t even get on it anymore. Since last update I can’t even get it to load anymore on my phone and I have the iPhone 11"
+      },
+      {
+        "date": "2022-03-01",
+        "rating": 1,
+        "text": "Not enough free credits. The free credits only come every 2 hours and they are not enough to play for any length of time. I love playing this game but will not but credits to play. Give us more to play with at one time!!"
+      },
+      {
+        "date": "2022-02-08",
+        "rating": 1,
+        "text": "Decent game dishonest company !. I bought credits 2x ran it up to around 30,000 credits. Today its at 21,000 and was prevented to play unless I buy credits \n\nI've had this happen 4x now, its pure greed!"
+      },
+      {
+        "date": "2021-11-27",
+        "rating": 1,
+        "text": "Broken. Game refuses to load."
+      },
+      {
+        "date": "2026-08-22",
+        "rating": 5,
+        "text": "R. Love this games"
+      },
+      {
+        "date": "2026-03-02",
+        "rating": 5,
+        "text": "Relax me. It calms my nerves"
+      },
+      {
+        "date": "2026-01-16",
+        "rating": 5,
+        "text": "Games. Excellent game choices!  I love it!"
+      },
+      {
+        "date": "2025-09-28",
+        "rating": 4,
+        "text": "Closed the challenges. Why did they close the challenges before I could even finish"
+      },
+      {
+        "date": "2025-09-24",
+        "rating": 5,
+        "text": "Dope. Fun good games Correa"
+      },
+      {
+        "date": "2025-09-08",
+        "rating": 5,
+        "text": "Not thrilled. I agree with money vacuum, you should let people who spend money have a little fun. More to say, when addressing money vacuum you say that you guys are like the mechanics of the casinos, no you guys make the casinos look good, it’s one thing to take the points from people who don’t spend any money, but you guys take away the points faster when we spend the money, this is ridiculous. "
+      },
+      {
+        "date": "2024-08-03",
+        "rating": 5,
+        "text": "Impossible to win. It’s great fun for a while. Gets increasingly impossible to win over time."
+      },
+      {
+        "date": "2024-06-16",
+        "rating": 5,
+        "text": "Game. Great"
+      },
+      {
+        "date": "2024-06-11",
+        "rating": 5,
+        "text": "Great. Awesome"
+      },
+      {
+        "date": "2024-03-13",
+        "rating": 5,
+        "text": "Poker challenge. Love to play every week😍Keep it coming"
+      },
+      {
+        "date": "2024-03-01",
+        "rating": 5,
+        "text": "Have fun. Love to play here, great games."
+      },
+      {
+        "date": "2023-12-28",
+        "rating": 5,
+        "text": "Scam!. I did not purchase anything on December 15, 2023, but was charged $99.00 and received nothing. No coins. Nothing. This December charge was denied a refund! What is going on???\n\nI do not have a support ticket. I just know I have been a loyal customer for a long time spending hundreds of dollars a month on coins. Fool that I am, I get charged on December 15/16 for $99.00, but charged for what"
+      },
+      {
+        "date": "2023-12-14",
+        "rating": 4,
+        "text": "Nice playing. Nice"
+      },
+      {
+        "date": "2023-11-12",
+        "rating": 5,
+        "text": "Game hanging for a week now. Have reported this 2 times now of course it’s always our fault. I know how to close apps and reboot but same old same old. Loads half way then spins. And I see from other reviews I’m not the only one\nFix this please"
+      },
+      {
+        "date": "2023-09-22",
+        "rating": 5,
+        "text": "🥹. XXX"
+      },
+      {
+        "date": "2023-08-11",
+        "rating": 5,
+        "text": "Love the Game. Poker is my favorite. Lots of variety of games Thanks"
+      },
+      {
+        "date": "2023-05-26",
+        "rating": 5,
+        "text": "!!. Love ot"
+      },
+      {
+        "date": "2023-05-26",
+        "rating": 5,
+        "text": "FUN FUN FUN!!. Enjoy playing!"
+      },
+      {
+        "date": "2023-03-29",
+        "rating": 5,
+        "text": "Great App. This poker game is awesome"
+      },
+      {
+        "date": "2023-03-16",
+        "rating": 5,
+        "text": "Trap. Getting there"
+      }
+    ]
+  },
+  {
+    "id": 6733236996,
+    "name": "CalZen AI Food Calorie Counter",
+    "seller": "42apps, TOO",
+    "genre": "Health & Fitness",
+    "release_date": "2024-10-23",
+    "ratings_us": 3097,
+    "avg_rating": 4.75,
+    "ratings_per_day": 4.31,
+    "reviews_30d": 1,
+    "reviews_prev_30d": 1,
+    "developer_app_count": 4,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/calzen-ai-food-calorie-counter/id6733236996",
+    "matched_keywords": [
+      "calorie counter photo",
+      "protein tracker"
+    ],
+    "description": "Achieve your dream body effortlessly! Snap your meals, track calories, and hit your goals—quickly and easily.\n\n1. Snap a photo of your meal.\n2. Get instant calorie and macro details*\n3. Reach your fitness goals faster.\n\nNo manual input, no complex steps — just fast, accurate results.\n\nPerfect for anyone wanting to lose weight, build muscle, or maintain a balanced lifestyle.\n\nQuestions? Reach us at hello@calzen.ai.\n\nDisclaimer: We are not a medical application and do not provide medical advice. Please consult a healthcare professional before starting any diet or nutrition plan.\n\nAI-powered analysis requires a subscription.\nTerms of Use https://calzen.ai/terms\nPrivacy Policy https://calzen.ai/privacy",
+    "reviews": [
+      {
+        "date": "2026-10-03",
+        "rating": 1,
+        "text": "бред полный. платное все,только время потратила о рассказах о себе"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Буэ. Кончелыжное приложение 3 часа записываешь данные и в конце говорят что нужна подписка"
+      },
+      {
+        "date": "2026-05-26",
+        "rating": 1,
+        "text": "Приложение платное. Приложение платное, но нигде не указано что оно платное. Дало добавить три блюда."
+      },
+      {
+        "date": "2026-05-10",
+        "rating": 1,
+        "text": "Только с подписки. На андроид все нормально на айфонах естественно приложение будет работать только по подписке"
+      },
+      {
+        "date": "2026-05-08",
+        "rating": 1,
+        "text": "не заходит. не заходит в приложение, вечная загрузка, платная подписка пользуюсь пол года, но сегодня не заходит в приложение, просто сильно подвело сегодня…"
+      },
+      {
+        "date": "2026-03-12",
+        "rating": 1,
+        "text": "They took my money. This app took my money and didn’t refund me or let me use the app. Don’t download this app it’s a scam. Use free apps to track your calories and PLEASE don’t use this app. I would LOVE to speak to someone about getting my money back because this is ridiculous."
+      },
+      {
+        "date": "2026-02-28",
+        "rating": 1,
+        "text": "Не работает. Просто не верно считает, от слова совсем. Не верно определяет вес и ингредиенты, не верно рассчитывает кбжу даже если скорректировать вес вручную. Просто бесполезная фигня. Проще заранее рассчитать и составить себе меню."
+      },
+      {
+        "date": "2026-02-04",
+        "rating": 1,
+        "text": "Идея хорошая, но сырая. Купил приложение , потому что повёлся на рекламу, ладно, не обеднею... Но с данным приложением я лучше распрощаюсь в конце подписки. Оно неудобное ! Почему ? Потому что сфотографировав 3-4 раза одно и тоже блюдо, причём выдавая приложение этикетку с подробным описанием всех калорий, белки, жиры углеводы , оно постоянно считает разные цифры... Нет, ну вы серьёзно ? Получаетс"
+      },
+      {
+        "date": "2025-11-21",
+        "rating": 1,
+        "text": "Красивая оболочка, но полный провал в функциональности. Приложение выглядит очень стильно, и именно из-за этого я решил попробовать его и оформить подписку. К сожалению, после нескольких недель использования стал очевиден один большой минус: приложение совершенно некорректно определяет еду.\n\nФотографируешь блюдо, оно распознаётся абы как и получает абсолютно случайные калории. Фотографируешь этике"
+      },
+      {
+        "date": "2025-07-14",
+        "rating": 1,
+        "text": "Passss. Sorry for all of these words but your app was great at first but it asked me for money and then I couldn’t use it and I don’t trust AI"
+      },
+      {
+        "date": "2025-07-12",
+        "rating": 1,
+        "text": "ПЛАТНОЕ!!. Все идеально, если бы не просьба оплаты на следующий день, мда 👏🏼👏🏼"
+      },
+      {
+        "date": "2025-06-13",
+        "rating": 1,
+        "text": "Difficult to customize gets most things wrong. I really didn’t like this app. It gets most things wrong and is difficult to customize goal."
+      },
+      {
+        "date": "2026-07-14",
+        "rating": 5,
+        "text": "Классно. Очень классное преложение"
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 5,
+        "text": "W. W"
+      },
+      {
+        "date": "2026-05-19",
+        "rating": 5,
+        "text": "Приложение хорошее. Очень быстро разобралась в приложении, пока что все нравится"
+      },
+      {
+        "date": "2026-05-18",
+        "rating": 5,
+        "text": "все норм. советую"
+      },
+      {
+        "date": "2026-05-02",
+        "rating": 5,
+        "text": "cool. wow, it’s really great"
+      },
+      {
+        "date": "2026-04-20",
+        "rating": 5,
+        "text": "This app is good. It helps you losing weight"
+      },
+      {
+        "date": "2026-03-18",
+        "rating": 5,
+        "text": "я верю. ☀️🙏"
+      },
+      {
+        "date": "2026-01-07",
+        "rating": 5,
+        "text": "Ваууу. Шикарная удобная программа, спасибо большое"
+      },
+      {
+        "date": "2025-12-22",
+        "rating": 5,
+        "text": "Матвей. Все четко"
+      },
+      {
+        "date": "2025-12-16",
+        "rating": 5,
+        "text": "Good. Very good\nFfffff"
+      },
+      {
+        "date": "2025-12-07",
+        "rating": 5,
+        "text": "супер. чудесное приложение"
+      },
+      {
+        "date": "2025-11-19",
+        "rating": 5,
+        "text": "Calories. Good"
+      },
+      {
+        "date": "2025-11-16",
+        "rating": 5,
+        "text": "Просто отлично. Приложение супер все работает хорошо работает"
+      },
+      {
+        "date": "2025-11-13",
+        "rating": 5,
+        "text": "Nice app. Good app for training"
+      },
+      {
+        "date": "2025-11-08",
+        "rating": 5,
+        "text": "о приложении. отличное приложение"
+      },
+      {
+        "date": "2025-10-25",
+        "rating": 5,
+        "text": "Топ. Приложение прекрасно\n месяц тренировок сбросил 12 кг соблюдая правильное питание"
+      },
+      {
+        "date": "2025-10-24",
+        "rating": 5,
+        "text": "вау. шикарное приложение"
+      },
+      {
+        "date": "2025-10-10",
+        "rating": 5,
+        "text": "Прекрасное приложение!. Всё прекрасно"
+      },
+      {
+        "date": "2025-10-02",
+        "rating": 5,
+        "text": "1. Крутой прило"
+      },
+      {
+        "date": "2025-09-18",
+        "rating": 5,
+        "text": "Мне нравится. Приложение супер!"
+      },
+      {
+        "date": "2025-09-15",
+        "rating": 5,
+        "text": "Никита. Идеальное приложение, где оно было раньше"
+      },
+      {
+        "date": "2025-09-13",
+        "rating": 5,
+        "text": "Детализация приложения. Все очень круто"
+      },
+      {
+        "date": "2025-09-10",
+        "rating": 5,
+        "text": "Топ. Отличное приложение"
+      },
+      {
+        "date": "2025-09-10",
+        "rating": 5,
+        "text": "ji. mjk"
+      },
+      {
+        "date": "2025-08-29",
+        "rating": 5,
+        "text": "Заебись. Ахуенное приложение"
+      },
+      {
+        "date": "2025-08-27",
+        "rating": 5,
+        "text": "Nice. Nice"
+      },
+      {
+        "date": "2025-08-14",
+        "rating": 5,
+        "text": "👍. 👍"
+      },
+      {
+        "date": "2025-08-08",
+        "rating": 5,
+        "text": "Лучшее приложение. Лучшее приложение"
+      }
+    ]
+  },
+  {
+    "id": 6786696468,
+    "name": "WalkVibe",
+    "seller": "Doug Diem",
+    "genre": "Health & Fitness",
+    "release_date": "2026-07-02",
+    "ratings_us": 439,
+    "avg_rating": 4.72,
+    "ratings_per_day": 4.31,
+    "reviews_30d": 8,
+    "reviews_prev_30d": 8,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/walkvibe/id6786696468",
+    "matched_keywords": [
+      "walking app"
+    ],
+    "description": "WalkVibe turns everyday walking into a small, personal gain.\n\nInstead of focusing only on numbers, WalkVibe helps you notice the rhythm behind each step: your movement, your daily momentum, and the simple progress you build by showing up. Whether you are taking a quick walk outside, moving between places, or adding more activity to your routine, WalkVibe gives every step a clearer sense of purpose.\n\nTrack your walking progress, follow your daily step flow, and build a habit that feels light, calm, and rewarding. WalkVibe connects walking with motivation, consistency, and a positive daily vibe.\n\nWhat you can do with WalkVibe:\n• Track your daily walking activity and step progress\n• See how small walks add up over time\n• Build a simple movement habit without pressure\n• Stay motivated through a clean and focused walking experience\n• Turn ordinary steps into a feeling of progress\n\nWalkVibe is not about extreme fitness or complicated workout plans. It is about making daily movement feel more meaningful.\n\nEvery walk counts. Every step adds up.\n\nGain from every step with WalkVibe.",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 3,
+        "text": "Not getting paid. I earned enough for the $35 payout and apparently you have to watch an ad to spin a “wheel” that gives you a chance to earn shards to withdraw but only 1 or 2 the rest is energy and then there’s a *thanks* square with a smile because they’re getting paid for all the ad watching and they aren’t paying you. It’s been a week or two and I’ve got enough energy for $85 and almost enoug"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "Scam. Rigged where you will never be able to withdraw your points."
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "Scam. Don’t waste your time trying to get all the “shards” you need to cash out. You will get to 49 out of the 50 needed and it will not give you the one last piece. Been trying for a month now."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 1,
+        "text": "This app is a scam. This app is a scam. You play, walk, and collect coins, but they never pay you."
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 1,
+        "text": "Loops && Hoops.. They make you achieve $35 for your first cash out and then you gotta collect 50 puzzle pieces. I’m good. I’m not about to jump through more loops and hoops… I already had to remember to convert my steps at the end of my day."
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 1,
+        "text": "Scam. Don’t download this game or this walking app it is not what it says. It is first off. They say they’ll give you 500 coins for being a new customer 500 coins equals to one dollar woo hoo wow wow that’s so awesome but when you click onto accept it, it won’t let you accept it just sit there will not let you accept it at all. You have to hit no thanks in order to go on. When you get into the app"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 1,
+        "text": "Scam Can’t get to 50 points to cashout stuck on 49. Waste of time"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 1,
+        "text": "Scam. All scam"
+      },
+      {
+        "date": "2026-09-03",
+        "rating": 1,
+        "text": "Rigged. I have had this app for a about a couple of months now and I have a few other apps for walking that actually pays and I don’t mind the walking because I do that on a daily basis but when it time to cash out you can’t I got all the way to 49 which is ridiculous that you have to go through all this just cash out it only have 3 puzzle pieces and then the rest is the coins and a Thank you it c"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "Wasted time. Totally useless been using this app for about a little over a month nothing no payouts"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 1,
+        "text": "This is a scam. You’ll never get paid.. This app isn’t about walking. It’s about endlessly watching ads. They’ll bait and switch to avoid paying you. First you have to watch hundreds of ads to receive enough coins to make a withdrawal. Then they claim you have to log in for a specific number of days to qualify. After you’ve jumped through that hoop, they make you play a rigged roulette game to col"
+      },
+      {
+        "date": "2026-08-25",
+        "rating": 1,
+        "text": "Don’t waste your time!. After watching hours and hours of videos they make it impossible to cash out!!! to cash out you have to get 50 fragments or puzzle pieces by watching videos and Spinning a wheel. I have gotten 49 out of the 50 and in the last five days they have given me none 🤬"
+      },
+      {
+        "date": "2026-08-24",
+        "rating": 1,
+        "text": "Scam. Takes forever to get to where you think you can cash out. Never can cash out. It won’t let you"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "Walking around. I love this app because it rewards me!"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 5,
+        "text": "My review. This gives me incentive to walk I wish it paid more and he didn’t have to wait to cash out. It’s the only thing I don’t like about these things."
+      },
+      {
+        "date": "2026-08-20",
+        "rating": 5,
+        "text": "T. Great app"
+      }
+    ]
+  },
+  {
+    "id": 477793710,
+    "name": "Virtual Scoreboard: Keep Score",
+    "seller": "Leonardo Bortolotti",
+    "genre": "Sports",
+    "release_date": "2011-11-17",
+    "ratings_us": 23424,
+    "avg_rating": 4.74,
+    "ratings_per_day": 4.3,
+    "reviews_30d": 3,
+    "reviews_prev_30d": 3,
+    "developer_app_count": 2,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/virtual-scoreboard-keep-score/id477793710",
+    "matched_keywords": [
+      "leaderboard"
+    ],
+    "description": "● Keep score like a pro\n\nVirtual Scoreboard turns your iPhone or iPad into a digital scoreboard for 40+ sports and games. Whether you’re playing with friends, coaching a team, refereeing a match, running a tournament, or keeping score at school, you can manage the game quickly and easily.\n\n● Scoreboards made for your sport\n\nUse dedicated scoreboards designed around the rules and flow of each sport. Track scores, game time, periods, quarters, sets, fouls, timeouts, possession, and other sport-specific information from one simple screen.\n\nSupported sports and games include:\n\nBasketball, 3x3 Basketball, Soccer, American Football, Futsal, Volleyball, Handball, Baseball, Tennis, Table Tennis, Beach Tennis, Padel, Pickleball, Badminton, Squash, Hockey, Rink Hockey, Water Polo, Rugby, Cricket, Lacrosse, Netball, Australian Football, Kabaddi, Footvolley, Curling, Bocce, Boxing, Judo, Karate, Wrestling, Goalball, Cornhole, Chess, Poker, Rubik’s Cube, Sport Stacking, Truco, and more.\n\n● More than just a scoreboard\n\nVirtual Scoreboard includes tools to help you manage games, teams, and competitions:\n\n* Simple Scoreboard for quick custom matches\n* Game timers and sport-specific clocks\n* Stats Sheet for tracking player and team statistics\n* Coaching Board for planning plays and strategies\n* Live Scores for sharing and following games\n* Apple Watch support\n* Custom team names, colors, sounds, and scoreboard settings\n* Offline support — keep scoring without an internet connection\n\n● Fast an",
+    "reviews": [
+      {
+        "date": "2026-10-03",
+        "rating": 2,
+        "text": "Ads block the app. Can’t get to the scoreboard bc of the ads!"
+      },
+      {
+        "date": "2026-07-06",
+        "rating": 1,
+        "text": "Ads ads ads ads ads. Good scoreboard, but way too many ads. All mobile game ads that you have to play to skip. I spent the last 3 minutes playing an ad until I could skip it, just to realize I clicked on the wrong sport and then had to exit and watch another 5 minutes of ads just to get into the right sport."
+      },
+      {
+        "date": "2026-06-24",
+        "rating": 1,
+        "text": "Amazing. I thought I couldn't buy subscription but I can and I love this"
+      },
+      {
+        "date": "2026-04-18",
+        "rating": 3,
+        "text": "Good App. I like this app but it would be better if on the basketball feature, the shot clock would reset upon pressing the score button and also on the basketball scoreboard it would be better if the was a bonus arrow"
+      },
+      {
+        "date": "2026-04-12",
+        "rating": 2,
+        "text": "Fix the watch app. Would be great if watch app didn’t freeze. Kind of annoying when I’m keeping score and playing and the scoreboard watch app freezes up. It’s even more annoying that I’ve paid for a year subscription for an app that freezes."
+      },
+      {
+        "date": "2026-04-06",
+        "rating": 3,
+        "text": "Download this app. ok heres my second review its awesome guys you guys should download this. but i have A cool idea how about you add like voice control where you say what happeneds the score updates this would be A huge update but i think it would be worth it tbh"
+      },
+      {
+        "date": "2026-04-05",
+        "rating": 3,
+        "text": "𝓢𝓬𝓸𝓻𝓮𝓫𝓸𝓪𝓻𝓭. 𝓖𝓸𝓸𝓭\n\n\n\n🎱➖✊➖➖✊➖🎱\n🌟        \\         /          🌟\n⭐          \\😁/            ⭐\n✨           🎽             ✨\n               /    \\\n            👟    👟"
+      },
+      {
+        "date": "2026-03-31",
+        "rating": 1,
+        "text": "Bad. It said “you can not use this app”"
+      },
+      {
+        "date": "2026-03-28",
+        "rating": 3,
+        "text": "Too much ads. Too many ads for this for a score board but it is still good"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 4,
+        "text": "Suggestions. You should allow the app to turn the buzzer off because football and soccer doesn’t have a buzzer like basketball or hockey also I need a way to add stoppage time on soccer\nEdit: sometimes I see stoppage time and sometimes I don’t. Am I doing something wrong or is it a bug if it’s a bug please fix it"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 5,
+        "text": "Nice scoreboard. Because Scoreboard it has different sports that you could choose an accurate"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 5,
+        "text": "Him. Good for everything"
+      },
+      {
+        "date": "2026-08-29",
+        "rating": 5,
+        "text": "So good. Easy to use use it every day"
+      },
+      {
+        "date": "2026-08-24",
+        "rating": 5,
+        "text": "Pretty good. Has good sports score just overall great only problem is adds but yes great!"
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 5,
+        "text": "Score board. 5 star"
+      },
+      {
+        "date": "2026-08-02",
+        "rating": 5,
+        "text": "Good app. 👍"
+      },
+      {
+        "date": "2026-07-15",
+        "rating": 4,
+        "text": "One thing…. Rapier be great if you could control the scoreboard from your Apple Watch and it will display on and iPad or iPhone"
+      },
+      {
+        "date": "2026-07-02",
+        "rating": 5,
+        "text": "5 ⭐️s!!. I like basketball."
+      },
+      {
+        "date": "2026-06-30",
+        "rating": 5,
+        "text": "Best scoreboard. I think it is good because you can keep track of scores from 2 different sports like if you were playing basketball and then you wanted to play football it would keep your basketball time left on the game and the scores"
+      },
+      {
+        "date": "2026-06-22",
+        "rating": 5,
+        "text": "Five star. This game is so fun I me and my friend play basketball on. He’s so fun."
+      },
+      {
+        "date": "2026-06-14",
+        "rating": 5,
+        "text": "Good. Such a good thing to have for fun games my I’m a kid and I love it"
+      },
+      {
+        "date": "2026-06-14",
+        "rating": 5,
+        "text": "Very very good. If you have brothers or sisters that love sports and you don’t have a Scoreboard it is perfect there’s no ads which is good so this app is perfect that’s why I rate it five stars⭐️⭐️⭐️⭐️⭐️"
+      },
+      {
+        "date": "2026-06-12",
+        "rating": 5,
+        "text": "Scoreboard. Hey it’s me Keondre I love this scoreboard use it all the time but there are just to things I think needs a little bit more for basketball when I press bonus fouls I want both teams to have bonuses because when I pick one team to have a bonus the other can’t and I want I just want both of them to have a bonus at the same time and for football can you do downs like first down second dow"
+      },
+      {
+        "date": "2026-06-12",
+        "rating": 5,
+        "text": "This is a very scoreboard. Show me and my brother play games like hockey and baseball and soccer all the time and so we asked our parents if we could take this board board game. They said yes and for about five hours straight we’ve been using it and it’s been such a success this is the best board game you can get you need to get this game. there’s one minor little detail that isn’t so good. They p"
+      },
+      {
+        "date": "2026-06-11",
+        "rating": 5,
+        "text": "Add this PLEASE. I love this app, simple fix, PLEASE ADD A RESTART BUTTON FOR STAT SHEET SO I DONT HAVE TO MANUALLY TAP EACH BOX TO RESTART THE SHEET PLEASE ADD THIS!!!"
+      },
+      {
+        "date": "2026-05-29",
+        "rating": 5,
+        "text": "Virtual Scoreboard. Only problem is the advertisements"
+      },
+      {
+        "date": "2026-05-29",
+        "rating": 4,
+        "text": "Great app. Great place if you need to keep down scores"
+      },
+      {
+        "date": "2026-05-27",
+        "rating": 5,
+        "text": "Simple and easy. The game structure is good and it is easy to understand. How ever I wish they would give you a option to end the game mid game like in a corner and once you reach the end of a game give you the option to keep going or stop"
+      },
+      {
+        "date": "2026-05-24",
+        "rating": 4,
+        "text": "Good but bland. I Love the app I use it for my sports at home my only issue is that the scoreboard can be bland and lifeless at times being able to have different designs and animations would take this app to another level more color options would be cool maybe logos outside of that it’s the best virtual scoreboard in the App Store!! I would recommend downloading it!"
+      },
+      {
+        "date": "2026-05-16",
+        "rating": 5,
+        "text": "Great. This is a great app! I use it to keep track of score in a lot of different ways and I like how sometimes I can connect my phone to my livingroom tv and broadcast the score of something. It is an amazing app and it’s super helpful, I found it a couple years ago and never thought before how there could be an app that gives you a scoreboard for your scrimmages in  basketball or football!"
+      },
+      {
+        "date": "2026-05-04",
+        "rating": 5,
+        "text": "Very Good. It’s a really good app. There’s many choices for sports to keep score of and the scoreboard is easy to use. It’s perfect to keep score for a fun game with friends, or a real game of any sport. Overall, awesome app!"
+      },
+      {
+        "date": "2026-04-25",
+        "rating": 4,
+        "text": "Good, but one thing I want fixed. I think it’s a great app for keeping score. I mostly use it to keep track of mini basketball in my room. The only thing I think should be worked on is the fact that after the shot clock ends in basketball it pauses the whole game. I wish the timer kept going and it made a new shot clock for you. Otherwise it’s a good app and I would recommend it."
+      },
+      {
+        "date": "2026-04-10",
+        "rating": 4,
+        "text": "Nice app but to many adds. I think this app is great but the one problem is the adds I know you can remove adds but I don’t to pay"
+      },
+      {
+        "date": "2026-04-06",
+        "rating": 5,
+        "text": "Scoreboard. I love that it helps you keep track of the course score and I love that. It’s not just for real basketball game. It can be for outside and use in AAU."
+      },
+      {
+        "date": "2026-04-06",
+        "rating": 5,
+        "text": "Awesome. BEST SCOREBOARD EVER"
+      },
+      {
+        "date": "2026-04-04",
+        "rating": 5,
+        "text": "This game is just not good. Like unless you were just a weirdo, you would like this game because why why would you ever like this game? I’m reading this one star"
+      },
+      {
+        "date": "2026-04-03",
+        "rating": 5,
+        "text": "Leagues. Make it so you can do leagues"
+      },
+      {
+        "date": "2026-03-29",
+        "rating": 5,
+        "text": "Amazingly done. So I use it every day for my games five stars"
+      },
+      {
+        "date": "2026-03-20",
+        "rating": 5,
+        "text": "The best score app in my opinion. I would say this add a down part in the football score board"
+      },
+      {
+        "date": "2026-03-20",
+        "rating": 5,
+        "text": "Cool. Cool"
+      }
+    ]
+  },
+  {
+    "id": 1017813651,
+    "name": "The Great Courses",
+    "seller": "TEACHING COMPANY, LLC",
+    "genre": "Education",
+    "release_date": "2015-10-12",
+    "ratings_us": 17174,
+    "avg_rating": 4.78,
+    "ratings_per_day": 4.28,
+    "reviews_30d": 1,
+    "reviews_prev_30d": 2,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/the-great-courses/id1017813651",
+    "matched_keywords": [
+      "learn something new"
+    ],
+    "description": "Unlock your potential with The Great Courses, the premier platform for online courses that offers a wealth of educational videos to help you explore, learn, and grow in a wide variety of subjects.\n\nThe Great Courses specializes in courses taught by the world’s greatest professors and experts covering diverse topics such as history, science, math, philosophy, religion, literature, health, travel, personal & professional development, and more. It’s the place to experience the pure joy of learning—anytime, anywhere.\n\nThe Great Courses ensures an engaging and enriching learning experience for all. Catering to learners of all skill levels and interests, our platform provides the flexibility to deep-dive into specific topics or explore a variety of subjects at your leisure.\n\nThe Great Courses grants seamless online and offline access to our extensive library of online courses, empowering you to learn and grow at your own pace. Existing users can sign in to access their purchases and subscription content, while new users can register and subscribe directly within the app to access thousands of educational videos online and offline for one low price.\n\nOptimized for iOS 15 and higher, The Great Courses offers a variety of subscription plans, along with a Free Trial to start your educational journey.\n\nPayment Details:\n-\tPayment will be charged to your Apple account at confirmation of purchase\n-\tSubscription automatically renews unless you cancel at least 24 hours before the end of the ",
+    "reviews": [
+      {
+        "date": "2026-09-30",
+        "rating": 1,
+        "text": "Horrible app. FORCED APP UPDATE DELETED MY DOWNLOADS AGAIN! FOURTH TIME!!!. If I could give this app zero stars I would. I am so sick of their forced updates deleting my downloads. I had 90 GB of downloads and the forced deleted all except for 3 GB! I think this is the fourth time their forced update has done this to me. I live in a rural area and do not have unlimited Internet! Every time this ha"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Can’t DeLETE membership. I am frankly disgusted. Just signed up and tried to delete once I see they want to charge you a high price but track you. It refuses to delete the account; instead says it will take three weeks and only after I get an email and follow instructions. What the hell is wrong with these companies as they get bigger!! Why scholars endorse this pillaging norm! I delete the app bu"
+      },
+      {
+        "date": "2026-07-19",
+        "rating": 1,
+        "text": "Cancel. You incomptents logged me out and now I can't log back in even after resetting my password."
+      },
+      {
+        "date": "2026-06-20",
+        "rating": 1,
+        "text": "New update sucks. Can’t get to my old purchases. Update is wonky. Will not use - lost a long time customer"
+      },
+      {
+        "date": "2026-06-12",
+        "rating": 1,
+        "text": "Unfortunate software. Hopefully, this is an isolated incident. However, my personal experience shows otherwise. The courses are world class however the software is remarkably bad. Plan on multiple password resets in order to view your coursework. Each login requires multiple password resets. What a shame."
+      },
+      {
+        "date": "2026-05-31",
+        "rating": 2,
+        "text": "Limited Content if you dont get Plus. I got the Classics membership because there was a promo, then added a bunch of lectures to my watch list. I started several. Then when I log back in nearly every course I had saved is now only in the plus bundle, practically double the price. I will be canceling the membership immediately. There is no way they could have done this intentionally, but it felt ve"
+      },
+      {
+        "date": "2026-05-09",
+        "rating": 3,
+        "text": "Suggestions for improvements. This is a great app, but I would use it more if it supported picture in picture. Consider adding that functionality!"
+      },
+      {
+        "date": "2026-03-18",
+        "rating": 3,
+        "text": "App Just Hangs. Tried to launch the app does not go to the login page."
+      },
+      {
+        "date": "2026-02-16",
+        "rating": 2,
+        "text": "Be prepared to be frustrated. The app is constantly unstable and unreliable.  Your downloads disappear, settings are lost, you're forced to upgrade or logged out unexpectedly, etc.  For somebody trying to listen while away from WiFi this will be a constant frustration.\n\nIn addition, the depth and challenge of the material seems dumbed down since the rebranding from The Teaching Company.\n\nStill see"
+      },
+      {
+        "date": "2026-02-11",
+        "rating": 2,
+        "text": "Great Courses, Inadequate App. My wife and I have long been fans of The Great Courses, even during the dark time when it temporarily abandoned its name; this review is for the app, not the content.  It is flakey in its basic functionality, even after the supposedly major 8.0 upgrade:  \n• It often forgets the last lecture I played, resuming instead at the beginning of the previous lecture.\n• It usu"
+      },
+      {
+        "date": "2026-02-11",
+        "rating": 1,
+        "text": "New forced app update won’t open!. My yearly subscription through apple isn’t being recognized by the app… plenty of other apps do this seemlessly, without kicking me out AND continue to recognize my subscription. Fix this ASAP!"
+      },
+      {
+        "date": "2026-02-02",
+        "rating": 2,
+        "text": "Great Courses, Inadequate App. My wife and I have long been fans of The Great Courses, even during the dark time when it temporarily abandoned its name; this review is for the app, not the content.  It is flakey in its basic functionality:  \n• It often forgets the last lecture I played, resuming instead at the beginning of the previous lecture.\n• It usually loses my place when switching from video"
+      },
+      {
+        "date": "2026-01-16",
+        "rating": 2,
+        "text": "You would think you are signing into Fort Knox. Every other day have to sign in"
+      },
+      {
+        "date": "2026-01-12",
+        "rating": 2,
+        "text": "Disappointing. I love the content. I have bought a TON of content over the years. More than I’ve actually watched or listened to.  \n\nThe new Plus app is awfully dedicated to pushing the subscription plan. I don’t want a subscription. And I have no search function to just search my purchased content. Why?\n\nWorse, this version of the app has a similar shortcoming to the old app. I download content t"
+      },
+      {
+        "date": "2026-01-11",
+        "rating": 2,
+        "text": "Content is great... When the app feels like working.. Who do I talk to about the glitches in this app? It often crashes. \nMy downloads just delete themselves. \nWhen I try to download content again, it won’t load at all or is extremely slow. \nI’m always having to restart the app or download it again. \nWhat a pain considering how expensive the subscription is!"
+      },
+      {
+        "date": "2026-01-10",
+        "rating": 3,
+        "text": "ChromeCase is broken. App is great aside from the issue…"
+      },
+      {
+        "date": "2025-12-22",
+        "rating": 1,
+        "text": "Great Courses lousy app. While I’ve enjoyed most of the courses I have watched the app is awful. The continue watching can’t be edited."
+      },
+      {
+        "date": "2025-12-16",
+        "rating": 1,
+        "text": "Great App!. App crashing after latest update. Content is GREAT!.\nCan’t allow app to crash I learn on the go!\nThanks\n\nUpdate\nAbove crash seems to have resolved. Thanks\nExcellent content\nPls make it run in the background, it stops playing say if I need to open message app while listening. I use video mode.\nAlso, pls make a bookmark function that takes you to the whole course not only to specific lec"
+      },
+      {
+        "date": "2025-12-03",
+        "rating": 1,
+        "text": "Losing a loyal customer. I have purchased 117 courses over the past 15 years but will not buy another and refuse to be held captive by the subscription model. This app is crapp and I say that as a career software developer. Downloading my purchased content fails far more often than it succeeds and the entire user experience is torture. You have failed in your prime function, which should be to fac"
+      },
+      {
+        "date": "2025-11-28",
+        "rating": 1,
+        "text": "Awful Garbage. The old Great Courses app was truly solid. I had used it across generations of iPads. Now, ever since it was retired and absorbed into the great course plus app, I’ve had THREE separate events in which I lost a few hundred GB’s of downloaded courses and thus had to redownload them.\n\nI watch these courses when traveling. I don’t want to rely upon streaming the content, especially whe"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 5,
+        "text": "The Best. The world would be a different place if this was the education more people received.\nSharing a link would be a great addition, especially if you could clip a short preview to share!"
+      },
+      {
+        "date": "2026-03-08",
+        "rating": 4,
+        "text": "Wonderful and frustrating. The content is WONDERFUL and has rececently gone through a major update and remastering (thank you!).  Now, PLEASE PLEASE PLEASE make it easy to share a link to courses AND episodes.  I have several friends who also have the subscription and it is hard to recommend and link up for watching and chatting on all the wonderful material.  This is an emportant part of this sub"
+      },
+      {
+        "date": "2026-02-28",
+        "rating": 4,
+        "text": "Incredible content but the app has issues. I’ve been using the app for about 6 years almost everyday, through all its various incarnations. I’ve noticed the loading times have gotten slower and slower and the app has always been buggy but seems to be having more issues in the past 6 months. Is there a better place to report this kind of app specific stuff ?"
+      },
+      {
+        "date": "2026-02-19",
+        "rating": 5,
+        "text": "version 8 just released. Feb 19: Version 8 recently released, and so far so good! All working as it should."
+      },
+      {
+        "date": "2026-02-11",
+        "rating": 5,
+        "text": "Fantastic way to keep learning. There are so many different courses, the professors are fantastic and new courses are consistently being added- such a great way to continue learning! Highly recommend!"
+      },
+      {
+        "date": "2026-02-10",
+        "rating": 5,
+        "text": "v18 Breaks App Store Purchase. I was forced to update the app to the newest version. When trying to sign in by clicking “Restore Purchase” it throws up a load indicator, the does nothing."
+      },
+      {
+        "date": "2025-12-12",
+        "rating": 5,
+        "text": "Best investment I’ve made in quite some time. I really can’t recommend this app enough. Forty years after my first liberal arts college education I’m giving myself a second one with this fantastic resource … and at a fraction of the cost. I’ve got notebooks of notes now on Russian Literature, Physics, the Ottoman Empire, Macroeconomics, and Infectious Diseases, to name just a few.  It’s so wonderf"
+      },
+      {
+        "date": "2025-11-23",
+        "rating": 5,
+        "text": "Better than podcasts. I’m so tired of podcasts by people with opinions and no knowledge. This is a rewarding tool to enrich your mind from truly educated people."
+      }
+    ]
+  },
+  {
+    "id": 6760949346,
+    "name": "AlarmFit: Stop Waking Up Late",
+    "seller": "MMCH Digital Solutions LLC",
+    "genre": "Health & Fitness",
+    "release_date": "2026-04-22",
+    "ratings_us": 735,
+    "avg_rating": 4.76,
+    "ratings_per_day": 4.25,
+    "reviews_30d": 2,
+    "reviews_prev_30d": 2,
+    "developer_app_count": 2,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/alarmfit-stop-waking-up-late/id6760949346",
+    "matched_keywords": [
+      "morning routine",
+      "wake up alarm",
+      "wake up early"
+    ],
+    "description": "Stop oversleeping with a healthy habit. The alarm that forces you out of bed.\n\nTHE PROBLEM\n\nYou set alarms with the best intentions. But every morning, the same thing happens: snooze, snooze, snooze. You wake up late, groggy, and already behind. You've tried loud alarms, math puzzles, even placing your phone across the room. Nothing sticks because none of them actually wake up your body.\n\nThe real issue isn't hearing the alarm. It's getting out of bed and staying up.\n\nTHE SOLUTION\n\nAlarmFit forces you to physically move before the alarm stops. No snooze button. No shortcuts. Just real repetitions, counted by your camera in real time.\n\nBy the time you finish, you're out of bed on time and actually awake. Your day has already started with a small win. Every single morning.\n\nHOW IT WORKS\n\nSet your alarm: Choose your wake-up time, sound, exercise and how many repetitions you need to complete\n\nWake up and move: When the alarm rings, it won't stop until you finish your exercise\n\nReal-time detection: Your camera tracks every rep automatically using body pose detection. No manual counting, no cheating\n\nBuild consistency: Track your streak, consistency score and morning patterns over time\n\nKEY FEATURES\n\n• Body Detection: Your camera counts every repetition in real time. Accurate, hands-free, no wearable needed\n\n• Unstoppable Alarm: The alarm keeps ringing until you complete your exercise. No snooze, no skip\n\n• Progressive Overload: Your exercise count increases gradually over time so ",
+    "reviews": [
+      {
+        "date": "2026-09-09",
+        "rating": 1,
+        "text": "Pay for this s?. You need to pay just to wake up\nGorgeous"
+      },
+      {
+        "date": "2026-08-16",
+        "rating": 3,
+        "text": "Payment. Why do I have to pay just to do this? I only wanted to do this for the free workout session but I don’t wanna pay."
+      },
+      {
+        "date": "2026-07-11",
+        "rating": 1,
+        "text": "No thanks. Paying for this is crazy"
+      },
+      {
+        "date": "2026-07-03",
+        "rating": 1,
+        "text": "I’m not paying for an alarm. I do not like how all these fitness apps make you pay for something this simple."
+      },
+      {
+        "date": "2026-06-28",
+        "rating": 1,
+        "text": "Not paying for an alarm. Uninstalled"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "It’s DECENT. If you set to 15 reps just know you gonna be doing closer to 30 each morning because the human detector is legitimately ahzz. Got to set your phone up about 10 different ways until it works. But I payed for a year so oh well 🤷‍♀️"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Best alarm. I love this alarm, it really makes you get out of bed!! It does need some bug fixes though, the alarm will go off even when it is switched off."
+      },
+      {
+        "date": "2026-07-20",
+        "rating": 5,
+        "text": "Great. I like"
+      },
+      {
+        "date": "2026-07-12",
+        "rating": 5,
+        "text": "Good app. I love how this app pushes you to do your workouts and  keep your health good.so overall good app"
+      },
+      {
+        "date": "2026-07-07",
+        "rating": 5,
+        "text": "The goat Natalie. It helps u wake up and stay fit"
+      },
+      {
+        "date": "2026-07-05",
+        "rating": 5,
+        "text": "Get this app. This app is going to not only help me wake up but make me more fit!"
+      },
+      {
+        "date": "2026-06-13",
+        "rating": 5,
+        "text": "It’s good. It helps me a lot thank you"
+      }
+    ]
+  },
+  {
+    "id": 1543340610,
+    "name": "RENPHO Health",
+    "seller": "Joicom corporation",
+    "genre": "Health & Fitness",
+    "release_date": "2020-12-20",
+    "ratings_us": 8990,
+    "avg_rating": 4.71,
+    "ratings_per_day": 4.24,
+    "reviews_30d": 32,
+    "reviews_prev_30d": 141,
+    "developer_app_count": 6,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/renpho-health/id1543340610",
+    "matched_keywords": [],
+    "description": "Good health comes first!\nRENPHO Health is the best helper in your journey to becoming fitter. The app can track multiple body composition metrics (BMI, Body Fat %, Body Water, Bone Mass, Basal Metabolism Body Age, Muscle Mass, etc). The cloud-based App’s intelligent data analysis and tracking abilities makes it your perfect digital personal helper. It can even convert your data stored over time into charts and reports that can easily be shared by e-mail and multiple social media channels. On top of all that, your entire family can use the App! RENPHO Health allows the user to create multiple personal profiles to keep your data separated.\nWhen you use our smart body scales measuring body composition , weight, percentage of body fat , fat weight, height, body mass index (BMI), height and resting calorie consumption data will be synchronized to HealthKit in.\n\nHow to connect to Apple Health:\n1. After install the Renpho Health App and log in successfully for the first time, a pop-up will prompt to ask whether to allow Renpho Health to access all your health data, please tap Allow in the upper right corner;\n2. Open Apple Health, enter your profile, tap Apps> Renpho Health, tap Turn All Categories On;\n3. After authorization, your Body Fat Percentage, Body Mass Index, and Lean Body Mass will be synchronized to Apple Health.\n\nPLEASE note:\n1.When you have purchased one of our medical products (such as a blood pressure monitor), please consult your doctor if you experience any discomfor",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Lost about a year and a half of data. The app suddenly decided I needed to make a new account."
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 3,
+        "text": "Change for the worse. Took a great app and updated it to a not so good one."
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Last Update. The last update is garbage can’t see the comparisons anymore"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "Update is terrible. The most recent update forces to sign up for an account and loses all your historical data. Nobody wants all that, read the room."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Goals system is flawed. My app got updated and deleted my goals. I went to reset them and it won’t let me choose the start date for any day other than today. So where it used to track 60lbs of weight loss so far based off my initial start date and previous goals, now it shows 0lbs lost and today as my start date. Apparently there’s no way to set one of your previous weigh ins from the scale as the"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "The new app won’t connect. I have to open my old app to connect to my scale. The new app will not connect which caused me to lose the data of many weigh ins."
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 1,
+        "text": "Update ruined AM / PM feature. In all previous versions of the app, we could differentiate between our a.m. and p.m. readings while looking at our trends and history. This was a very helpful feature as I found the water weight in my body fluctuates greatly in the evening, compared to first thing in the morning. Please bring this feature back!"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 1,
+        "text": "Horrible updates. This new update does not show the trend from a historical starting point anymore. What’s the point of this app if I can’t track my progress?"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 2,
+        "text": "Preferred the old app. The old app functioned so much better. The trend graphs are now glitchy and a pain to use. The app struggles to connect to my scale."
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Bluetooth busted on scale. Losing another star because they’ve made the sound even more annoying - instead of just playing on the scale it now plays on the app and interrupts my audiobook when I weigh in the morning. The stupid MorphoScan Nova scale still won’t connect properly and shows a “delayed” message. I wish I had never bought this buggy thing. \n\n##########\nHonestly considering returning th"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 2,
+        "text": "Can’t turn off app sounds. Maybe other people like it when their technology beeps at them and makes other sounds at them. But I HATE it and there is no way to turn off the sounds that the app makes. Or it’s so deeply buried. I cannot find it. I have checked everywhere Fix it please! This is a basic user preference."
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 1,
+        "text": "Calendar. Dont like the new update because i cant see my weight thru a calendar view. If its still there i cant find it. Plz add the calendar view so i can click on the days i want instead having to scroll thru a list"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "The update ruined it. I have had a RENPHO for YEARS and recently got a Hume scale as well to go with my band. I kept my true records with my RENPHO scale because the app was more user friendly and easier to see your weight history by comparing it to the previous week with a calendar view. The ease of use with the RENPHO app was way better than Hume. Now these changes with the new update have cause"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 3,
+        "text": "Bring back the old features. While I like this app, the old graphing function allowed you to select AM, PM, or average readings to display. The “upgrade” removed this feature. Please bring it back."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "Calendar Feature. My app updated last night, it’s horrible. I used to use the Calendar feature all the time to look at different days of the month now I have to scroll through and use another Calendar app to figure out what date I wanna see."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "Dashbsucks. This new app is horrible the users dashboard sucks, hard to find anything it lags and glitches whoever’s kid that got hired to create this thing should be given a box a crayons and sent back to school."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 2,
+        "text": "Hate the new update. It was so easy to see all the history before. Now ya need an indepth manual."
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "Update makes it worthless. They have deleted trends that let you select am/pm. I have always weighed twice a day and now they have mashed that all together so I have no idea of the history."
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "Typical Corpo. Like all corporations when they have something that worked - it wasn’t good enough. Forced to move to this new app from the old. Lost all of my family members data that was in my app because corpo. New app makes you pay for features that were free before (like setting a goal weight?????????). I hope it fails tremendously."
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 2,
+        "text": "Renpho Health- visually cluttered and pushing users toward a subscription. I loved the old app- it was simple, straightforward, and it was easy to track data over time. This new experience is overly-complicated and visually cluttered. The fact that Renpho is forcing users to switch over from the original app is really disappointing."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "I found my data!. After a hasty review of the app where I gave a low rating because of apparently missing data, I successfully located my latest measurements and am happy to continue my daily use. \nThe Development Team quickly contacted me and I must say, Job Well Done, this app is rated 5."
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 4,
+        "text": "Revised: problem after update. The update that just occurred a few days ago and I thought it completely wiped out all my data . The only trend showing was weight.   Anything else shows only 2025. One dot,  not a graphic line.  Reddit explained that it was trying to pull data from another source.  You need to change data sources. For it to work right (as it used to. )"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "Get back the AM/PM filter. I love the AM/PM filter in the trend view but it’s gone. Please make it back. \n\nIn addition, it’d be super helpful to have the average weight in the past 7 days."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great Company Needs AI. Great company, but the app needs AI with insights."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 4,
+        "text": "Works great. Had a previous issue with multiple accounts that made me think I lost all my data. User error. \n\nApp works great for tracking weight, food/calories and such. Good value for the money considering the app is free and the scales aren’t expensive. \n\nI do find the calculations to be strange with “Athlete mode” being so vastly different from standard. My body fat varies by 10% depending on "
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great Scale. I have been using this scale ever since I started my GLP. Love to watch my progress as it gives me an incentive to keep going."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Numbers may not be what I want. Numbers may not be what I want but sure seems accurate. Follow your trends. This scale is helping me on my weight loss journey."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "good. good"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great app!. Well made app"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Excellent Device. This scale has helped me to see the many aspects of what is happening in my journey to better health. There’s more going on than just the weight number and that is encouraging."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Amazing App and Scale. Love this app! Super easy to use and the scale is fantastic"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great way to track progress. Love the app and my scale.  So easy to use and can look at your stats on one page and drill down for my info.  Highly recommend."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great. Great"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great scale and app. I love my Renpho scale and app! It seems very accurate!"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great value. I love keeping track of my progress and the reminders too. I’m not 100% sure how accurate the scale is, but it’s accurate that enough for me."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "The best health app!. It allows me to track everything and see the results."
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "High Tech. Love this modern scale as it lets me know many metrics of my body health. Use it daily and great alternative to the body scan at gym I only use quarterly. Highly recommend"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 4,
+        "text": "Weighing in. So far I am enjoying the scale. It helps me stay on track a bit better by providing more information about where your weight is and what the weight is coming from. Ie: fat, muscle, bone, etc"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great. Keeps me on track!"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Love it. It’s nice to keep track of changes"
+      }
+    ]
+  },
+  {
+    "id": 689185915,
+    "name": "AlgoApp - Flashcards",
+    "seller": "AlgoApp Inc",
+    "genre": "Education",
+    "release_date": "2013-09-15",
+    "ratings_us": 20037,
+    "avg_rating": 4.67,
+    "ratings_per_day": 4.2,
+    "reviews_30d": 3,
+    "reviews_prev_30d": 3,
+    "developer_app_count": 1,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/algoapp-flashcards/id689185915",
+    "matched_keywords": [
+      "study with friends"
+    ],
+    "description": "Learn languages, or study for school and tests, with the most powerful and user-friendly flashcard app. Millions of language-learners and students have studied over 2 billion flashcards with AlgoApp. Ranked #1 Education app in multiple countries world-wide. Featured in the New York Times.\n\nDesigned by learning experts, including a published neuroscientist. Whether you're learning a language to live somewhere new or just for fun, need to get through med school, or just want to crush your tests, AlgoApp has already done it for over 5 million people.\n\nWhy AlgoApp?\n\nFOR LANGUAGE LEARNERS\n• Automatic translation. Make vocab flashcards faster by typing words in the language you know, then AlgoApp translates to the language you're learning (or vice versa). Supports 120 languages including Japanese, Chinese, Korean, English, German, French, and more...\n\n• Speaks flashcards to you, in dozens of languages (automatic text-to-speech). Supports 39 languages including Japanese, Chinese, Korean, English, German, French, and more...\n\n• Automatically generates furigana annotations for kanji, or pinyin annotations for hanzi.\n\nFOR STUDENTS\n• Converts PDFs directly into flashcards using AI. Upload lecture slides and have a full deck of flashcards ready in seconds.\n\n• Prompt AI to make flashcards for you based on text and pictures. Turns handwritten notes and diagrams into flash cards for you.\n\n• Format your cards with colored text, bulleted lists, underlines, and more (no CSS needed).\n\n• Works o",
+    "reviews": [
+      {
+        "date": "2026-09-13",
+        "rating": 1,
+        "text": "New completion UI is bad. It no longer shows the change in grade. Also it keeps telling me I'm only 40% to my target even though I haven't set one."
+      },
+      {
+        "date": "2026-09-02",
+        "rating": 1,
+        "text": "card orientation. why i cant change “card orientation” setting in new imported deck??!!????\nif u answer me, i will change my rating to 5 stars"
+      },
+      {
+        "date": "2026-08-27",
+        "rating": 2,
+        "text": "Doesn’t work as promised. Creating decks using their published documentation is a nightmare and don’t work. I tried every AI to generate language decks but app doesn’t import them. I manually check everything and decks follow their described format precisely, still app don’t see cards when importing"
+      },
+      {
+        "date": "2026-08-06",
+        "rating": 1,
+        "text": "Service keeps getting worse with each update.. The maximum daily reviews for non-paying customers is being lowered with every single update. Today I did my review as normal and was stopped after 80 cards even though the daily limit was 100 cards before. Before it was 100 cards, I never even hit a limit. If you want people to pay to use your service, make it a paid service from the start."
+      },
+      {
+        "date": "2026-08-06",
+        "rating": 1,
+        "text": "Not Happy with New Update. When I first started using your app a couple of years ago, I was very satisfied. But I noticed that every time you update it and make changes you create problems that were not there before. Currently I cannot edit my content if it extends more than a few lines because I cannot advance the screen upward to access it. Furthermore, it is no longer allowing me to copy and pa"
+      },
+      {
+        "date": "2026-06-30",
+        "rating": 1,
+        "text": "Reduced number of reviews on free version…. They recently changed from 100 daily to only 80 daily… such a shame, and the algorithm has gotten a lot worse too (keep getting recommend the same cards, never shows older cards so you easily forget them over time)"
+      },
+      {
+        "date": "2026-06-18",
+        "rating": 1,
+        "text": "App won't open on Mac. Don't know how else to report an issue. I click on the app and a white window flashes onto the screen for a second and disappears. Doesn't open at all"
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 2,
+        "text": "Slow and burdensome app. This app starts out free, but once you have added a fair amount of cards you get hit for a $30 in-app purchase. Additionally, as you do more reviews, the app gets slower and slower, as it loads through all the data. Theoretically, this makes sense but it is kind of pathetic as a flashcard specific app. Would not recommend."
+      },
+      {
+        "date": "2026-06-02",
+        "rating": 1,
+        "text": "Terrible customer support. I’m a premium user, my app has been crashing for well over two weeks now and their customer support service isn’t getting back to me. Still waiting"
+      },
+      {
+        "date": "2026-03-20",
+        "rating": 1,
+        "text": "Useless ….. Useless app with a lot of bugs"
+      },
+      {
+        "date": "2026-02-20",
+        "rating": 1,
+        "text": "DO NOT SUBSCRIBE! Cannot cancel subscription!!. They are lying about being able to cancel auto-renew in account settings! Told them to cancel per their instructions, never got a response and they charged my card anyway. The contact information given is fake and there is no help on their support page. Don’t get ripped off like I did!"
+      },
+      {
+        "date": "2026-02-20",
+        "rating": 3,
+        "text": "Fine but unusable for me. Dark mode is messed up. That alone is a deal breaker for me. But also the app doesn’t look that good. And it’s yet another application asking for subscription fees. No thanks"
+      },
+      {
+        "date": "2025-12-23",
+        "rating": 1,
+        "text": "Usage. I’ve been using this app for six months or more and I would like to summarise my experience and share my impressions. Unfortunately, there’s not much good to say about this app especially for USMLE ( STEPs) studying. I don’t recommend using subscription. Test this app first and you’ll understand. A lot of bugs, no useful updates (last month no updates at all),support doesn’t respond or do n"
+      },
+      {
+        "date": "2025-12-21",
+        "rating": 3,
+        "text": "Flash card generation from download does not work at all.. When are you going to sort out the ability to import a.CSV file?? I have tried all sorts of waves to import a file like that and have it automatically converted to a target language. It’s extremely frustrating."
+      },
+      {
+        "date": "2025-12-09",
+        "rating": 3,
+        "text": "Hoping It Improves. On my first few sessions I noticed they were pronouncing the Hiragana“ha” character incorrectly when it is used as a topic-marking particle.  It should be pronounced as “wa”.  I am a beginner learner with Japanese, and this is a basic understanding in Japanese sentence structure and composition, so I was a little surprised with the error and how often it is used incorrectly.  I"
+      },
+      {
+        "date": "2025-12-01",
+        "rating": 2,
+        "text": "Poorly structured & buggy. App crashed every time I went to Review. Difficult to find anything. Would not recommend"
+      },
+      {
+        "date": "2025-11-11",
+        "rating": 1,
+        "text": "Is this a scam?. I couldn’t get past the “send code” prompt. I sent my email multiple times and never received the code. I deleted the app. #Suspicious #Beware"
+      },
+      {
+        "date": "2025-10-19",
+        "rating": 1,
+        "text": "Changed Business. You were able to use it for free but now they’re charging users. Bad for business."
+      },
+      {
+        "date": "2025-10-14",
+        "rating": 1,
+        "text": "0 transparency. changed the name after profiting from the real Anki for so long. 0 explanations on that. then you are signed out & are REQUIRED to give your email so they could send you a verification code to sign in. Eww I don't wanna give away my email. then an App you already paid for in the past now wants to get greedy and start making it subscription based so I can't even review my flash card"
+      },
+      {
+        "date": "2025-10-08",
+        "rating": 1,
+        "text": "Forced Login. Ive been using normally until an login screen disolayed and cant be skip"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Very good app. Very good app"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 5,
+        "text": "Great App, Great Price for Unlimited. Love the app, and I think the unlimited version is totally worth it for the price. I also love the breakdown of the stats and how well you are doing on your flashcards."
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 5,
+        "text": "10/10. Meilleur application pour retenir ses cours et apprendre une langue"
+      },
+      {
+        "date": "2026-07-26",
+        "rating": 5,
+        "text": "Niceeeeeeee. the best"
+      },
+      {
+        "date": "2026-07-13",
+        "rating": 5,
+        "text": "The best. This app is the best flashcard app I’ve ever used and it’s free so I love it. Thank you algo💞💞"
+      },
+      {
+        "date": "2026-07-08",
+        "rating": 4,
+        "text": "Change in free cards. Bummed to see they recently change their free cards from 100 to 80. Other than that a nice app, it takes a bit to get things set up. I do like the option of being able to hear the cards spoken."
+      },
+      {
+        "date": "2026-06-23",
+        "rating": 5,
+        "text": "The best flash card app. I know it started off as a knockoff of Anki, but after years of updates, it has left that barebones app in the dust. This is the best flash card app on the App Store"
+      },
+      {
+        "date": "2026-06-17",
+        "rating": 5,
+        "text": "UI Update. Looks nice! So far so good"
+      },
+      {
+        "date": "2026-06-11",
+        "rating": 5,
+        "text": "Thank you. I’ve used AlgoApp since 2015. Got me through high school, bachelors, masters, job info I needed to know and countless certifications. Thank you making a massive difference in my life. Cheers"
+      },
+      {
+        "date": "2026-06-09",
+        "rating": 5,
+        "text": "Best.. I tried about 7 different apps on AppStore + original Anki and this is hands down the best: Flawless AI integration, ease of use, extra features, FSRS, etc. Amazing."
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 5,
+        "text": "Best. I tried so many flashcards apps (around 7   original Anki) and this is hands down the best: Flawless AI integration, FSRS, easy-to-use, built-in contents, extra functions, simple syncronization across the platforms, etc. I hope more people would try this because it is genuinely awesome."
+      },
+      {
+        "date": "2026-04-25",
+        "rating": 5,
+        "text": "Such a flexible and useful learning tool!. This app has so many options that make it so useful. The option to add a picture and audio is awesome!   The learning curve is not too bad. And the spaced repetition is amazing.  Yes, it takes some time to develop your own cards, but there are lots of decks already made.  I cannot recommend this app enough for study. It really helps the learning to stick."
+      },
+      {
+        "date": "2026-04-11",
+        "rating": 5,
+        "text": "Good but hard. It’s hard to work around at first, but later it just gets better, I LOVE THIS APP FOR STUDYING JAPANESE!"
+      },
+      {
+        "date": "2026-03-04",
+        "rating": 5,
+        "text": "Great Service. Needs no change."
+      },
+      {
+        "date": "2026-03-02",
+        "rating": 5,
+        "text": "A fun, anytime lifesaver. I’ve used this for multiple course studies and have had a lot of success. Easy to just open the app and do some flash cards"
+      },
+      {
+        "date": "2026-02-22",
+        "rating": 5,
+        "text": "Perfect. I never make reviews but this is everything you would expect in a flashcard app, and more. It's so simple and intuitive while also giving useful information, like being able to see how many cards you did for each day of the week. Or seeing how good you are at cards in the deck. It's perfect and my language learning would probably be significantly slower without it."
+      },
+      {
+        "date": "2026-02-20",
+        "rating": 5,
+        "text": "GREAT APP. I never write a review. This app is GREAT… works with ease and is so useful"
+      },
+      {
+        "date": "2026-02-14",
+        "rating": 5,
+        "text": "Amazing. It has been a great app during my current exam!!❤️ I love the app so much!"
+      },
+      {
+        "date": "2026-02-08",
+        "rating": 5,
+        "text": "My Review for AlgoApp. This app is so useful, it can help you study for almost any kind of test and has a good system to give you cards to review. I personally use it to study Spanish, but it could be used for almost anything."
+      },
+      {
+        "date": "2026-02-02",
+        "rating": 4,
+        "text": "Love the app hate the new update. I love this app for learning Spanish. However, I abhor the new update with the colored circles that now pop up to rate the difficulty…give me the old version back please 😭😭 \nIt’s making me reconsider the app and I’ve had it for years."
+      }
+    ]
+  }
+]

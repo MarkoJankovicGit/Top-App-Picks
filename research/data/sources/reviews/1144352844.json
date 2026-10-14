@@ -1,0 +1,707 @@
+{
+  "app": "Counter Tally Count",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T15:37:20-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Very versatile and organized app. I'm mainly using it as a gym workout tracker so I can keep track of which rep I'm on per exercise, but I could see it being great for things like counting inventory, keeping track of school assignments etc. Very organized and functional app. I use it every week.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-06T06:54:46-07:00",
+      "rating": 5,
+      "title": "Exactly what I needed",
+      "text": "Does exactly what I needed. A simple tally counter that’s quick.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-05T20:12:49-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Works as intended, simple, just kinda hard to reset the counters",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-04T14:16:55-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Used this counter for years, simple, easy, yeah there’s ads but they’re out of the way, doesn’t make me buy premium for something basic like changing colors and stuff. We love free apps that respect their users nowadays.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-04T12:40:56-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "Counting is great",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-02T02:17:43-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "This is most likely exactly what you want if you’re looking for something like this on the App Store!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-10-01T11:42:27-07:00",
+      "rating": 5,
+      "title": "Obsessed with this app",
+      "text": "I use this app for affirmations and dhikrs and this app dose wonders",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-30T11:12:07-07:00",
+      "rating": 5,
+      "title": "Good Counter App",
+      "text": "It’s free, it’s useful, and the ads aren’t too invasive at all. The UI is also very sleek. If you’re looking for a counter app, this one is amazing!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-29T11:06:12-07:00",
+      "rating": 5,
+      "title": "Great counter",
+      "text": "Love that this counter tracks the date and time for each score.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-29T10:48:06-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Use it every day",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-26T20:11:49-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Love using this, so easy and aesthetically pleasing.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-25T06:49:12-07:00",
+      "rating": 5,
+      "title": "So useful",
+      "text": "Allows me to track my productivity in the easiest way!!!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-25T04:18:45-07:00",
+      "rating": 5,
+      "title": "Tally pill counter",
+      "text": "After being on this app for awhile I am liking it more . I didn’t see anything for ‘directions’ so your learning by hit and miss. The one thing I wish, is that they show taking a half pill. I also would like it if the counter would stay on ‘today ‘ instead of going back to ‘all’ . Once you get use to it it’s pretty easy, and that’s what I like. They just updated it. So now its even better! I like the simplicity of this app. So far I haven’t found anything as easy as this that does what I want. I rate this a 4/5 stars .",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-23T22:31:52-07:00",
+      "rating": 1,
+      "title": "Counts gone!!!!",
+      "text": "Was in the middle of 3 knitting projects, and all my counts disappeared after an app update! And yes, I had iCloud backup enabled. No data from any other apps deleted itself",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-23T17:40:19-07:00",
+      "rating": 5,
+      "title": "Pretty straightforward!",
+      "text": "Works exactly how you’d think, it keeps count of stuff, is very intuitive, and it even has a color coding system",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-23T12:45:40-07:00",
+      "rating": 5,
+      "title": "Pop up",
+      "text": "Only doing this to stop the pop up",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-23T10:05:26-07:00",
+      "rating": 5,
+      "title": "سهيل بسيط ودقيق",
+      "text": "اوصي به",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-17T17:51:36-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Good counter easy ui navigation and quick use for tapping the counter",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-14T17:23:50-07:00",
+      "rating": 3,
+      "title": "Good besides the weird ads",
+      "text": "There’s always weird sexual ads at the bottom of the app. Makes it hard to want to use",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-14T08:56:25-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Excellent platform",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-13T10:46:59-07:00",
+      "rating": 5,
+      "title": "A very good app",
+      "text": "It suits my every need it’s free and it’s very easy to access and use",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-11T18:51:48-07:00",
+      "rating": 5,
+      "title": "Great tally counter",
+      "text": "I have used for several years, easy and simple!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-11T08:40:02-07:00",
+      "rating": 5,
+      "title": "Great counter",
+      "text": "Super straightforward and easy to use, fun color choices. Very useful app!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-11T07:28:58-07:00",
+      "rating": 3,
+      "title": "Simplicity",
+      "text": "Needing to keep a track count of something this is the perfect tool!! The ONLY thing keeping it from a FULL 5-star are ads that won’t go away",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-10T16:06:15-07:00",
+      "rating": 5,
+      "title": "Easy to navigate",
+      "text": "Very enjoyable and easy to navigate",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-09T23:25:32-07:00",
+      "rating": 5,
+      "title": "The Best",
+      "text": "The Best Tally app in the world",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-09T09:59:57-07:00",
+      "rating": 5,
+      "title": "Great for adhd",
+      "text": "This acts as a dopamine reward for me. I use it as a monthly daily tracker for my work tracking tasks. I add days all month and can see my average add up. It does the average math and I don’t have to. After a new month starts, I delete the previous months days, then start adding days for the new month. I could continue to add and see a longer tally average; but I like starting fresh, to push for a better average each month. It helps me push to stay on task. I see how many reports I finish; and after so many I take a break, instead of getting time blind like I used to. I love this app! I’ve recommended it to friends. It has helped me tremendously and I’m so happy with it.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-09T07:17:39-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Simple app to track reps ,",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-08T19:59:35-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Simple and easy to use.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-08T19:13:50-07:00",
+      "rating": 4,
+      "title": "Great",
+      "text": "For a free no subscription counter app it’s great. I like how simple it is but a few features that would be nice to have would be folders to categorize and organize counters and a goal setting option for individual counter or folders. I wouldn’t want to pay a subscription for those additional features but I would pay a higher one time payment for access to them. Just an idea. Otherwise great app compared to all the others like it",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-08T01:24:39-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "It does what it says",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-07T21:21:18-07:00",
+      "rating": 5,
+      "title": "Does exactly what it says",
+      "text": "It does have ads, but they’re just banner ads, and they are surprisingly unobtrusive. I use this to count my rows for knitting and crocheting and the app is very user friendly",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-07T06:37:35-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "This app works wonderfully!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-07T05:36:38-07:00",
+      "rating": 5,
+      "title": "Love this",
+      "text": "I really enjoy using this app especially for my saturation sessions. It's perfect  🤌🏿",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-06T15:10:24-07:00",
+      "rating": 5,
+      "title": "Very good!",
+      "text": "Genuinely a very useful app. Easy to use. You can have TONS of different counters when you need to count multiple different types of things. There’s no ads. Well, there’s an ad displayed at the bottom but you aren’t getting molested by ads being crammed down your throat. It’s very subtle.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-03T23:06:45-07:00",
+      "rating": 5,
+      "title": "Free and everything I need",
+      "text": "Objectively perfect app, and the fact it’s free is so good. I missed when developers would just do ad placements instead of a subscription. These people are doing it right.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-02T22:32:05-07:00",
+      "rating": 5,
+      "title": "Easy",
+      "text": "It does what it need to do w/o all the bells and whistles",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-09-01T11:46:32-07:00",
+      "rating": 4,
+      "title": "Pretty good!",
+      "text": "Easy, simple to use.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-30T10:14:28-07:00",
+      "rating": 5,
+      "title": "Works",
+      "text": "Literally does what it’s meant to do and I have no issues using it",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-29T20:29:25-07:00",
+      "rating": 4,
+      "title": "Grape",
+      "text": "It’s grape. Just wish there was an app for Apple Watch.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-29T19:24:08-07:00",
+      "rating": 5,
+      "title": "You can COUNT on it",
+      "text": "I’ve been using the tally counter to monitor my medication intake and it has been nothing short of phenomenal",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-29T16:33:42-07:00",
+      "rating": 5,
+      "title": "Keeping track of",
+      "text": "Very helpful",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-29T07:23:44-07:00",
+      "rating": 1,
+      "title": "Eee",
+      "text": "Dddd",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-29T04:21:24-07:00",
+      "rating": 5,
+      "title": "Great Tool",
+      "text": "Simple uncomplicated tool I use to track numerous activities I want to get done e each week.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-28T13:22:55-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "Great for when you’re bored and you just wanna click something",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-28T01:57:47-07:00",
+      "rating": 5,
+      "title": "Simple. Effective",
+      "text": "Greatly designed app with simple, intuitive layout. Don’t ruin it.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-27T21:28:10-07:00",
+      "rating": 5,
+      "title": "in love",
+      "text": "love this app, there's nothing to complain, and it's FREEE",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-24T14:15:22-07:00",
+      "rating": 5,
+      "title": "Just what it should be",
+      "text": "A simple app that does just what's needed of it and doesn't try to be something it's not. A rarity in this day",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-24T08:38:33-07:00",
+      "rating": 5,
+      "title": "Free and it works!",
+      "text": "A+",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-23T12:06:38-07:00",
+      "rating": 5,
+      "title": "Easy and comprehensive",
+      "text": "User-friendly, simple, and customizable. I like how you can change the colors for each counter. It helps me differentiate between counters. Also, I like the option to count by more than just ones. Only thing that bugs me off is that there is an ad banner below. Please. No ads.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-20T04:20:06-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I use this to count my yearly hot dogs , has never counted wrong",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-18T14:51:10-07:00",
+      "rating": 4,
+      "title": "Perfect except for one issue",
+      "text": "This app is perfect for what I need it to be, just a daily counter that you can customize and keep a reliable number on hand for whatever your task may be, however recently it has started to give a pop-up every single time you reopen the app asking for a review, and upon closing the pop-up it takes you off of the specific counter that you were on and back to your main list of counters, and at times has even cleared the counter I was actively on. The app is amazing at what it’s for, it’s not in your face about ads, it’s customizable, quick loading, functions well, the issues I listed before are the only issues and gripes I have with this app.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-18T12:23:51-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "good type app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-18T06:05:24-07:00",
+      "rating": 4,
+      "title": "Easy. Accurate. Perfect fit.",
+      "text": "Clean interface and nice simple use. My goto every month when I have to manually count thousands of hard copy forms.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-16T19:31:24-07:00",
+      "rating": 5,
+      "title": "Does exactly what you want and nothing else",
+      "text": "Great app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-16T06:59:44-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Simple to use. Easy to have multiple going at a time. Perfect for all my projects",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-14T13:07:09-07:00",
+      "rating": 5,
+      "title": "Works great for me",
+      "text": "I use it to count signs and bollards and what not for paving stuff and I use it at my desk regularly, I like it, I use it.\n\nNot everyone may need it or have a use for it but if they did this would be the app id recommend",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-13T10:21:24-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "The best app to keep up with the drinking and what the name of your favorite drinks, which you don’t like, and can color coded for trips like cruises and concerts. This is highly recommended for anyone who likes to tally the drink counter",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-12T19:37:53-07:00",
+      "rating": 5,
+      "title": "10/10",
+      "text": "works perfectly to tally  up what i need to count thank you for this app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-11T23:45:48-07:00",
+      "rating": 5,
+      "title": "Perfection",
+      "text": "So many ways to customize and make new trackers for whatever you want. Very useful",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-11T08:42:49-07:00",
+      "rating": 5,
+      "title": "El mejor!💛✨✨",
+      "text": "Absolutamente encantador.😌\n\nMe encantaría que se pudiera subir una foto en cada conteo. \nPara distinguir a los participantes o lo que sea que se esté contando!! Sería súper genial una actualización así!!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-10T06:54:34-07:00",
+      "rating": 5,
+      "title": "It’s a good organizer",
+      "text": "Used it for d2D. It was very effective and useful. You can also use it for daily tasks. Thank you!!!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-10T06:23:44-07:00",
+      "rating": 5,
+      "title": "Consistent and effective",
+      "text": "I’ve had plenty of time with this app and it’s great. Does everything I need with counting.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-09T17:12:30-07:00",
+      "rating": 5,
+      "title": "Counter tally count review",
+      "text": "As a young entrepreneur online “counter tally count” has helped me stay organized and consistent! Keeping up with how many sales I make, people I message, pushups I’ve done etc. if you’re an entrepreneur or in fitness and looking to stay organized I highly recommend this app!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-07T10:07:40-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "❤️‍🔥❤️‍🔥❤️‍🔥",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-07T09:46:52-07:00",
+      "rating": 5,
+      "title": "Good job",
+      "text": "Good app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-07T08:41:16-07:00",
+      "rating": 5,
+      "title": "God is good",
+      "text": "I love it!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-06T07:08:06-07:00",
+      "rating": 1,
+      "title": "😐",
+      "text": "Great app but it won’t stop asking me to leave a review every single time you do something on the app it asks for a review",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-05T07:14:44-07:00",
+      "rating": 4,
+      "title": "Very good app",
+      "text": "I use this APP everyday at work for Quality Assurance. Would absolutely recommend anybody to give it a shot. I will say the only bad thing is, they need to move the “Reset All Counters” and “Delete All Counters” away from each other as I’ve deleted my list a few times.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-04T15:53:54-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Easy to Use and Reliable",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-03T07:03:51-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Im a librarian and I use this to keep track of my program attendance. It’s so easy and helpful . I love it.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-02T18:36:27-07:00",
+      "rating": 5,
+      "title": "Easy and useful",
+      "text": "Really enjoy this app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-08-02T07:37:38-07:00",
+      "rating": 5,
+      "title": "Makes Life So Much Easier For Ppl W ADHD",
+      "text": "This counter app makes life to much easier and helps keep track of how many sets of Leg Presses when exercising at the gym.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-31T17:38:53-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "So good",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-29T15:52:15-07:00",
+      "rating": 5,
+      "title": ".",
+      "text": "Exactly what you think it is, works perfectly never had an issue.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-28T19:01:28-07:00",
+      "rating": 3,
+      "title": "Security",
+      "text": "N/a",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-28T10:29:59-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Thank you!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-27T16:31:42-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Easy to use and love that you can change the color and name of each counter. I only wish for a previous number counter, I accidentally swipe and press and mess up but I still love it!!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-27T04:35:44-07:00",
+      "rating": 5,
+      "title": "Holds me accountable",
+      "text": "I use this app to track my scriptures. I love it!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-26T14:49:54-07:00",
+      "rating": 5,
+      "title": "Good manifestation app",
+      "text": "If you struggle with persistence and robotic affirmations this is for you.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-26T10:00:39-07:00",
+      "rating": 5,
+      "title": "As advertised",
+      "text": "Great free counter with some nice features",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-25T22:26:07-07:00",
+      "rating": 5,
+      "title": "Etika",
+      "text": "good counter app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-25T13:02:25-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "Good app",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-25T10:50:11-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "As a door-to-door sales professional this app was super helpful for helping me track the number of people I talk to and such to keep me consistently working hard",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-24T21:05:16-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "I Like how you can change it to where the counter goes up or down and it gives you history on the counter",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-24T06:08:17-07:00",
+      "rating": 5,
+      "title": "Great tool!",
+      "text": "I recently sustained an injury, and need to take several deep breaths an hour. This application allows me to keep track of how many I have done. Very clean interface very easy to use. Kudos to the developer!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-23T15:45:38-07:00",
+      "rating": 4,
+      "title": "i like it",
+      "text": "its cute",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-23T09:44:54-07:00",
+      "rating": 5,
+      "title": "Fun but even more fun",
+      "text": "It is fun to put your name and you don't froget the number",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-23T00:42:00-07:00",
+      "rating": 5,
+      "title": "Great for COTW",
+      "text": "I used it on a grind and it worked wonderfully",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-17T18:04:44-07:00",
+      "rating": 5,
+      "title": "Best counter app",
+      "text": "I use this to count pokemon encounters for shiny pokemon and this is my favorite app.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-17T06:30:05-07:00",
+      "rating": 4,
+      "title": "Very nice and funtional app.",
+      "text": "I like the UI and how it looks. My only issue is that you can disable some buttons but not others. Could there be an update to disable the scroll wheel (+2,+3, etc). Sometimes when i try to click the calendar button i press the scroll wheel and it is kind of sneaky changing without me noticing.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-15T17:01:37-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Does the job, reliable and has a great UI (user interface). Love it!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-15T09:26:37-07:00",
+      "rating": 3,
+      "title": "Cool app",
+      "text": "Can use some extra developer luv. Like having it on lock screen so if doing laps it’s easier to click. Make it easier to adjust incase old fat finger accidentally click one to many time….",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-13T14:08:07-07:00",
+      "rating": 5,
+      "title": "Super helpful for crochet!",
+      "text": "I use this app to count my rows and stitches for crochet, and i’m able to label and color code all of the tallys! Super nice font style (in my opinion) and not an overwhelming amount of adds or any annoying popups when i reenter the app so love that!",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-12T09:01:29-07:00",
+      "rating": 5,
+      "title": "Perfect for what it is.",
+      "text": "Unobtrusive Ads, and very straight forward",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-11T12:46:09-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Also great ads on there lol jk. My boss thought it was something bad when I was logging call numbers at first",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-10T02:47:21-07:00",
+      "rating": 3,
+      "title": "Ffg",
+      "text": "Gg",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-09T09:49:34-07:00",
+      "rating": 5,
+      "title": "You need this!",
+      "text": "Basic, no frill, awesome Update: app has been lagging and unresponsive lately, unless I open and close it a few times. I just found out it requires IOS 18 or later, so time for an update for me. Just FYI for everyone else.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-08T16:09:35-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "Helped me so much.",
+      "version": "2026.5"
+    },
+    {
+      "date": "2026-07-08T03:34:56-07:00",
+      "rating": 5,
+      "title": "Does the job",
+      "text": "Does exactly what I need it to do and though there are ads, they’re minimally invasive and can be easily ignored. Definitely one of my favourite apps because it’s easy to use and effective at its job. If I could change anything, I’d have an option to count up or down by a customised number.",
+      "version": "2026.5"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "app": "ChallengeRunner",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T12:56:12-07:00",
+      "rating": 1,
+      "title": "Latest update made the app not work",
+      "text": "Updated to get the improved UI features, because the previous were terrible. Now the app just opens up to a screen with their logo and then force closes. It’s no longer syncing any of my data with the desktop version.",
+      "version": "4.0.0"
+    },
+    {
+      "date": "2026-09-26T07:27:09-07:00",
+      "rating": 1,
+      "title": "Doesn’t sync",
+      "text": "The app and Apple health doesn’t stand. When you enable a fitness tracker you can turn it on, but it doesn’t stay on. Also you can’t see participants even though you are in the app. All you can see are participants under the email button",
+      "version": "3.1.9"
+    },
+    {
+      "date": "2026-06-09T12:45:45-07:00",
+      "rating": 3,
+      "title": "Hard to add steps",
+      "text": "Very hard to navigate this app. Can’t figure out how to add steps to previous days",
+      "version": "3.1.8"
+    },
+    {
+      "date": "2025-08-02T18:21:37-07:00",
+      "rating": 1,
+      "title": "Apple Health Sync not Working",
+      "text": "I checked the Apple Health app, settings and the challenger app. All says that sync is enabled but my data is not updating on the challenger app. I have to manually enter my steps. The UI is not user friendly. I tried to contact you on your website but I got an error message after submitting the contact form.",
+      "version": "3.1.1"
+    },
+    {
+      "date": "2024-06-03T10:13:10-07:00",
+      "rating": 3,
+      "title": "FBB 2024 challenge",
+      "text": "Last year  everything worked fine this year the app is not syncing with apple fit tracker this the team has to enter the steps daily",
+      "version": "3.0.12"
+    },
+    {
+      "date": "2024-04-16T16:54:03-07:00",
+      "rating": 4,
+      "title": "Can't see all messages - if it says 9 I only see 2",
+      "text": "Can't see all messages - if it says 9 I only see 2",
+      "version": "3.0.12"
+    },
+    {
+      "date": "2024-03-13T15:05:59-07:00",
+      "rating": 1,
+      "title": "Doesn’t recognize my garmin tracker",
+      "text": "I’m trying to figure out why your app worked for two days and then it stopped with my Garmin wrist device",
+      "version": "3.0.12"
+    },
+    {
+      "date": "2023-09-25T16:38:25-07:00",
+      "rating": 5,
+      "title": "Road runner",
+      "text": "Great app for motivation",
+      "version": "3.0.9"
+    },
+    {
+      "date": "2023-08-02T11:43:05-07:00",
+      "rating": 2,
+      "title": "Doesn’t log my steps as app says it would",
+      "text": "App does not link my steps as it says it would",
+      "version": "3.0.8"
+    },
+    {
+      "date": "2023-06-26T13:38:22-07:00",
+      "rating": 2,
+      "title": "App crashing",
+      "text": "App keeps crashing when I scroll up on leaderboard tab.",
+      "version": "3.0.3"
+    },
+    {
+      "date": "2023-04-24T08:44:54-07:00",
+      "rating": 3,
+      "title": "Graphics",
+      "text": "The graphics and colors are stuck before the boomers time",
+      "version": "2.9.12"
+    },
+    {
+      "date": "2022-08-31T05:59:16-07:00",
+      "rating": 2,
+      "title": "Don’t let this app stop you",
+      "text": "I downloaded this app as part of a company competition. It seemed to be working at first, and I was assuming it automatically updated. But because of the rather poor graphics, I have never been entirely sure. And even though I have kept my phone charged and up-to-date and synced, the app has not been properly syncing. That is a bit of a disincentive, but if you’re in a competition just go out there and exercise and worry about all of this accounting stuff later   The ChallengeRunner website is also a mess, but that is not directly the apps fault.",
+      "version": "2.9.4"
+    },
+    {
+      "date": "2022-08-15T20:01:10-07:00",
+      "rating": 1,
+      "title": "Awful app and website",
+      "text": "The app is not user friendly.  Needs better user interface that allows for easier team totals and individual totals for viewing.  Apple health sync doesn’t work okay if the time.",
+      "version": "2.9.4"
+    },
+    {
+      "date": "2022-08-03T10:45:10-07:00",
+      "rating": 2,
+      "title": "Basically unusable",
+      "text": "My work is using this system to track a steps challenge. The app resolution looks like it’s set for an iPhone 6. It’s not scaled properly for phones made in the last 5 years. There’s no intuitive way to see your ranking on your team, and if you scroll up too far on the leaderboard the app completely\ncrashes.",
+      "version": "2.9.2"
+    },
+    {
+      "date": "2022-06-18T14:19:02-07:00",
+      "rating": 2,
+      "title": "Missing",
+      "text": "I Joined over a week ago and still don’t see my name in the group stepping forward.🧐",
+      "version": "2.9.2"
+    },
+    {
+      "date": "2022-06-13T23:19:38-07:00",
+      "rating": 4,
+      "title": "Decent, but Deficient",
+      "text": "My chief concern here is that one can’t enter the number of steps from previous days. In my experience, the app doesn’t always accurately capture the total number of steps that appear in other apps on my phone. I also have to take into account that I may not fully understand how to enter the data, or if I even have to. We live and learn!",
+      "version": "2.9.2"
+    },
+    {
+      "date": "2022-03-30T08:54:31-07:00",
+      "rating": 3,
+      "title": "Still needs major overhaul and design revamp",
+      "text": "App was updated from what was obviously built for iOS 6, but still appears to be an outdated interface. Hopefully the sync for step tracking will work better now too.",
+      "version": "2.8.8"
+    },
+    {
+      "date": "2022-01-12T06:00:56-07:00",
+      "rating": 1,
+      "title": "Worst Wellness App I’ve Ever Seen",
+      "text": "Almost completely unusable, this app hasn’t been updated in 10 years. You have to click on each challenge to see if you’ve already done it or just try to remember. Please update the app.",
+      "version": "2.7.2"
+    },
+    {
+      "date": "2021-07-25T00:16:35-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "Doesn’t work",
+      "version": "2.6.2"
+    },
+    {
+      "date": "2021-07-16T19:08:38-07:00",
+      "rating": 5,
+      "title": "Review will not let me make comments",
+      "text": "I c like to send messages to my team, but the app doesn’t allow me to select any of my teammates in the select field.  I can see them, but select doesn’t do anything.  Other than that, great fun!",
+      "version": "2.6.2"
+    },
+    {
+      "date": "2021-05-04T15:02:06-07:00",
+      "rating": 2,
+      "title": "Room for improvement",
+      "text": "Not to be taken negatively but the App could use a little “face lift” and, in the messaging page, it would be nice to have the messages sequence inverted. Just my 2 cents.",
+      "version": "2.5.4"
+    },
+    {
+      "date": "2021-05-02T16:45:40-07:00",
+      "rating": 4,
+      "title": "Features",
+      "text": "Would like to see stats/rank within our own team.",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2021-04-02T17:43:01-07:00",
+      "rating": 1,
+      "title": "Very Clunky",
+      "text": "Slow app. Very clunky & not user friendly.",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2021-02-17T06:54:44-07:00",
+      "rating": 2,
+      "title": "Not user friendly",
+      "text": "We use this at work to increase wellness activities and hold competitions. While I appreciate the concept I think the latest update complicated things, making it more cumbersome to navigate the app. Please make this more user-friendly. Often we have multi day or even month-long competitions and it doesn’t always sync properly. Also if I need to manually add steps or exercise minutes that were not tracked with my watch, it requires many taps and click throughs—Listing all dates on a screen and allowing you to edit they’re also would make more sense.Also if I manually change steps for a date in one challenge, it does not automatically update steps for the same date in any other concurrent challenge, so I have to go through all steps of manually updating in all pertinent challenges.",
+      "version": "2.4.5"
+    },
+    {
+      "date": "2021-02-08T03:47:51-07:00",
+      "rating": 1,
+      "title": "Looks and feels like a 9 year old made it",
+      "text": "Very awkward and not user friendly. Difficult to post pics and corresponding text for them at the same time. If you do get a picture loaded it’s low resolution and no one will really be able to see it or interact with it (comments, likes, etc). Overall a really weak effort at an app.",
+      "version": "2.4.5"
+    },
+    {
+      "date": "2020-09-21T20:03:41-07:00",
+      "rating": 3,
+      "title": "Compatibility",
+      "text": "I use Fit Track, and it would be awesome if my information didn’t have to be input manually due to lack of compatibility. Please let me know if/when that changes!",
+      "version": "2.3.8"
+    },
+    {
+      "date": "2020-09-20T18:30:02-07:00",
+      "rating": 5,
+      "title": "From Linda in Vt.!",
+      "text": "I’m so impressed at all the steps people are doing!! I have found that this is making me work harder- also trying to cram all I can in before the sun goes down earlier and I won’t be able to walk my dog after work...😩",
+      "version": "2.3.8"
+    },
+    {
+      "date": "2020-09-14T08:23:50-07:00",
+      "rating": 1,
+      "title": "Terrible app in looks and functionality",
+      "text": "Interface is horrible and functionality is even worse. This app asks for access to Apple Health information but does not sync data. Tried to uninstall and start over but failed. Went hiking in an area with no data and none of my data was in app and I was unable to add the data because it happened two days ago. Terrible. Why would someone be required to manually enter information they have already agreed to share.",
+      "version": "2.3.8"
+    },
+    {
+      "date": "2020-06-18T21:25:12-07:00",
+      "rating": 1,
+      "title": "Glitchy",
+      "text": "The app is awful. It freezes and glitches out every time you attempt to change screens",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2020-06-08T17:32:22-07:00",
+      "rating": 2,
+      "title": "Not a fan",
+      "text": "I just downloaded this app 4 days ago for a challenge through my work. I HATE it. Every time I go to add in my distance I have to remove and redone load the app. It’s a pain in the butt. I don’t know what the issue is, but it makes me not want to do these challenges again through this platform.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2020-06-02T17:10:31-07:00",
+      "rating": 1,
+      "title": "Worst fitness app ever",
+      "text": "If I could give it 0 stars, I would.  Crashes every time I log in to it, very glitchy.  I never know if its going to work when I log in.  I’ve had to delete and download it again 3 times now.  I’m attempting to participate in a hospital wide step challenge but it’s proving more difficult then the fitness itself.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2020-05-25T17:15:01-07:00",
+      "rating": 1,
+      "title": "Demo app",
+      "text": "This app has the aesthetics of a sample app that you use to get started in mobile development.  Also wired error and non error notifications are always popping up.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2020-05-25T07:46:11-07:00",
+      "rating": 1,
+      "title": "Can never enter my miles",
+      "text": "I have to delete and reinstall this app every single time I want to enter my miles.. 😑",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2020-05-15T05:01:57-07:00",
+      "rating": 1,
+      "title": "Does not work at all",
+      "text": "Literally nothing works.  No features work. You can’t log exercise or weight or see status or anything. This app does not do a single thing. And then it crashes.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2019-09-19T11:37:12-07:00",
+      "rating": 1,
+      "title": "Horrible to navigate",
+      "text": "Bare bones app with no explanations, unnecessary pop-ups, and bad navigation",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2019-09-10T04:40:19-07:00",
+      "rating": 1,
+      "title": "View stinks",
+      "text": "Really difficult to toggle between individual and team ranking. Can’t filter on just my teams results",
+      "version": "2.2.0"
+    },
+    {
+      "date": "2019-06-01T21:25:20-07:00",
+      "rating": 1,
+      "title": "Bad app.",
+      "text": "People can manually enter steps - so not acceptable for use in a competition.",
+      "version": "2.1.0"
+    },
+    {
+      "date": "2019-05-24T22:20:40-07:00",
+      "rating": 3,
+      "title": "Teams",
+      "text": "This app was much better before the “user only” update",
+      "version": "2.1.0"
+    },
+    {
+      "date": "2019-05-03T07:52:14-07:00",
+      "rating": 1,
+      "title": "New update messed up leaderboards",
+      "text": "New update does not allow me to see other people’s individual step counts, only my own. This is very frustrating. It only seems to impact iOS.",
+      "version": "2.0.4"
+    },
+    {
+      "date": "2019-03-06T17:33:13-07:00",
+      "rating": 3,
+      "title": "Steps total",
+      "text": "It states that the daily limit is 30,000 steps but yet it tracks more and adds them to your totals. Maybe there should be a number in parentheses that shows your total steps but also a number that shows your challenge steps that are counted by the rules that are stated",
+      "version": "2.0.2"
+    },
+    {
+      "date": "2019-01-31T09:25:31-07:00",
+      "rating": 3,
+      "title": "A participant",
+      "text": "This would be great if I could figure out how to connect a Fitbit to the app or to the health app.  It would be a whole lot better.",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2019-01-26T21:24:14-07:00",
+      "rating": 1,
+      "title": "Crashes",
+      "text": "Keeps crashing when you try to see the leader board.  But it’s so hard to find your own name anyway!!",
+      "version": "2.0"
+    },
+    {
+      "date": "2019-01-20T20:54:08-07:00",
+      "rating": 3,
+      "title": "Makings of a good app",
+      "text": "This app could be better. \n1. Syncs occur at random intervals. \n2. Fonts are too small to see.\n3. Steps disappear when you zoom in on the graph.\n4. You cannot manually sync.\n5. No option to view number or graph.\n6. Would be good to see what types of devices others are using.",
+      "version": "1.9.9"
+    },
+    {
+      "date": "2019-01-11T12:39:57-07:00",
+      "rating": 1,
+      "title": "Apple Health integration not working",
+      "text": "The purpose of this App is to sync data from Apple Health to my challenge website.\nIt says it syncs with Apple Health when I open it, yet it imports No values even if there are values on Apple Health.\n\nThe Help Bot is not yet able to explain vocabulary... Like Distance Travelled (most likely the field for synced miles) and Additional Miles. \nNor can it say much else than: ”Sorry, I was unable to process your message. Try again later.” When you get to the beef...\n\nNo contact for getting support - hence the review.",
+      "version": "1.9.9"
+    },
+    {
+      "date": "2018-10-07T17:44:45-07:00",
+      "rating": 2,
+      "title": "Johnny Holman",
+      "text": "Does not keep and accurate count of steps and it does not show actual steps taken",
+      "version": "1.9.8"
+    },
+    {
+      "date": "2018-10-07T17:02:41-07:00",
+      "rating": 2,
+      "title": "It’s functional but needs updated",
+      "text": "It get the job done for these walking challenges. However, the development of the app is drastically behind. Feels very old and not updated for new screen sizes. Hire a designer.",
+      "version": "1.9.8"
+    },
+    {
+      "date": "2018-09-04T19:28:26-07:00",
+      "rating": 3,
+      "title": "ChallengeRunner",
+      "text": "Awesome!  I look forward to this challenge every year.  Just Awesome!",
+      "version": "1.9.8"
+    },
+    {
+      "date": "2018-08-12T11:31:10-07:00",
+      "rating": 1,
+      "title": "Need a lot of work",
+      "text": "Barely usable. Only usable for adding your workout without having to log into the website. No apple health integration even though it supposedly does.",
+      "version": "1.9.7"
+    },
+    {
+      "date": "2018-08-02T07:25:49-07:00",
+      "rating": 1,
+      "title": "I might like this app...",
+      "text": "...but I guess I will never know because I cannot log into the app. I can log into the website on my computer, but the app doesn’t accept my login information.",
+      "version": "1.9.7"
+    },
+    {
+      "date": "2018-07-10T09:31:46-07:00",
+      "rating": 1,
+      "title": "It doesn’t seem to do anything",
+      "text": "This isn’t actually uploading any of my activity to my challenges and it doesn’t show what it did or didn’t do when it says “updating” so you don’t know until you go in to the website that nothing has transpired.",
+      "version": "1.9.7"
+    }
+  ]
+}

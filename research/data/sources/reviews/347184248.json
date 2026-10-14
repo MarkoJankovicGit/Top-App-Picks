@@ -1,0 +1,707 @@
+{
+  "app": "Calorie Counter by fatsecret",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T09:18:00-07:00",
+      "rating": 2,
+      "title": "Плохо работает",
+      "text": "Приложение обновили и оно стало ужасно тупить! То забивает конкретный продукт, то не может его найти. На это время уходит…раздражает жутко!!!!",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-09T05:45:03-07:00",
+      "rating": 3,
+      "title": "Уберите категории",
+      "text": "Самое бесячее, это то, что при добавлении нового продукта нужно обязательно вбивать категорию, зачем они нужны, какое-то бесполезное и раздражающее поле. В целом каким образом всемиизвестные продукты, которые десятки раз вбивались другими пользователями не находятся по названию?",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-08T14:27:28-07:00",
+      "rating": 5,
+      "title": "Amazing App",
+      "text": "Able to track everything I need without paying for any services. Also love the scan option for foods too.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-07T06:17:50-07:00",
+      "rating": 5,
+      "title": "Useful",
+      "text": "Good food list, even brands and restaurant entrees",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-07T06:12:16-07:00",
+      "rating": 1,
+      "title": "Откатите последнее обновление!!!",
+      "text": "Что вы сделали с приложением? С 50ого раза удается найти обычную еду типо курицы и тд, ничего не находит!",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-06T23:12:24-07:00",
+      "rating": 5,
+      "title": "Best Calorie Counter",
+      "text": "I’m in my 20’s and I work out 6 days a week. Tracking my meals is a big part of my life and I’ve used numerous apps to do this and by far this app is the best.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-06T02:17:28-07:00",
+      "rating": 3,
+      "title": "приложение нравилось до, после последнего обновления невозможно пользоваться",
+      "text": "раньше было очень удобное приложение, понятные функции, простой интерфейс, над которым не нужно стоять 5 мин чтобы разобраться где что находится. после обновления стало максимально неудобно, а именно модальное окно при добавлении нового продукта. стало непонятно и неудобно. верните как было",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-05T21:00:48-07:00",
+      "rating": 1,
+      "title": "Обновленная  версия ужасна",
+      "text": "Очень неудобно стало искать , многие   продукты не находятся",
+      "version": "11.9"
+    },
+    {
+      "date": "2026-10-05T18:59:09-07:00",
+      "rating": 3,
+      "title": "Not bad",
+      "text": "I have one problem only with this app , when I entered my last eating,and change date and than see again my eating it disappeared",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-05T10:07:03-07:00",
+      "rating": 5,
+      "title": "Opinion of a Free User",
+      "text": "The app is really great for tracking your food intake and has unrivaled functionality for a free app that doesn’t inundate you with pressure to upgrade.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-03T02:05:54-07:00",
+      "rating": 3,
+      "title": "Очень популярное приложение",
+      "text": "Удобно разбиты категории. Классно отображается бокс «заполнения»\nПроцентное соотношение удобно указано.\nДобавление новых, что удобно, без лишней информации.\n\nИз минусов, даже очень популярные продукты найти невозможно. \nНет возможности вносить подряд текстом и штрихкодом, приходится выходить и заходить заново в прием.\nСовершенно ужасным стала загрузка… на поиск чего угодно уходит много времени(",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-02T10:29:20-07:00",
+      "rating": 3,
+      "title": "Not enough",
+      "text": "Most meals and choices needed are not available in this app.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-02T10:09:25-07:00",
+      "rating": 4,
+      "title": "Free app- good",
+      "text": "Have not tried the premium but the free app is good for tracking food and it also shows you what macros you had for the day.  The coaching tips are also nice.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-10-02T08:33:49-07:00",
+      "rating": 5,
+      "title": "Efficient",
+      "text": "Love all of the features and how efficient calorie counter is! Easy to use when you want to log your calories quickly.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-02T02:55:05-07:00",
+      "rating": 1,
+      "title": "Обновление",
+      "text": "Всегда пользовалась только этим приложением, было самое удобное и понятное, большая база продуктов. Но после обновления интерфейса невозможно пользоваться, быстро теперь ничего не вобьешь, сижу ищу что где находится, всё разнесено в какие-то отдельные разделы, ничего не понятно. Мотивация сразу в минус. Испортили хорошее приложение.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-01T16:36:27-07:00",
+      "rating": 4,
+      "title": "Thumbs down 👎🏻 is now 👍🏻",
+      "text": "UPDATE!!  ***Thank you for bringing the old & better version back. I won’t have to look for another tracking app now. ***\n I've used the app for approx 4 years due to its simple logging features. Now I think it's pretty useless since I can't find recent loggings, most eaten etc.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-01T05:42:59-07:00",
+      "rating": 4,
+      "title": "Great calorie tracker",
+      "text": "Bar code reader works great, if you need to manually add something, there’s a large history of items already in the database to choose from.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-10-01T04:33:47-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "This app is really easy to use and has so many foods loaded to log. I really like the nutrition breakdown because I track my calories,saturated fats and fat along with sodium. \nI log every day and it keeps me in check from overeating. I highly recommend using this app.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-10-01T01:11:28-07:00",
+      "rating": 1,
+      "title": "新的记录方式简直反人类",
+      "text": "为什么会这么设计更新呢？你用过吗？ 如果第一次下载这个APP，用过一次我绝对不会保留它\n现在每次要打开之前我都一阵反感排斥",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-09-30T21:33:08-07:00",
+      "rating": 5,
+      "title": "Отличное приложение",
+      "text": "Пользуюсь приложением уже много лет, но сегодня хотелось бы сказать не об этом. Недавнее обновление глобально изменило способ поиска и добавления продуктов в дневник. Я был крайне недоволен и написал достаточно резкий отзыв. Но так как приложение одно из лучших в своем классе, стал переучивать себя. А сегодня вышло обновление и пришло уведомление, что мое мнение и мнение других людей, которым не зашло данное изменение, было услышано. И разработчик дал возможность вернуть меню к старому, привычному виду. Такой подход очень сильно влияет на опыт использования приложения и отношение. Так что, кроме самого дневника питания ты получаешь еще и сервис.",
+      "version": "11.8.4"
+    },
+    {
+      "date": "2026-09-30T13:58:53-07:00",
+      "rating": 5,
+      "title": "Wow))))",
+      "text": "I happy about it)))",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-30T11:05:42-07:00",
+      "rating": 5,
+      "title": "Great app and free!",
+      "text": "Helps a lot with your fitness goals and for free",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-30T02:25:25-07:00",
+      "rating": 1,
+      "title": "Обновление отвратительное вышло",
+      "text": "После обновления пользоваться невозможно!!! Ничего не ищет. И зачем так усложнили процесс?",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-30T00:10:40-07:00",
+      "rating": 2,
+      "title": "Испортилось",
+      "text": "Раньше было отличное приложение, сейчас какой-то кошмар! Продукты не ищется, поиск по штрихкоду не работает, чтобы что-то записать нужно устроить танцы с бубнами 😔",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T19:46:15-07:00",
+      "rating": 3,
+      "title": "Limited micros",
+      "text": "Can’t find a way to track iron or calcium or vitamin D. Which are really important. The only vitamins or minerals listed are sodium and potassium. :(",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T14:55:10-07:00",
+      "rating": 1,
+      "title": "НЕ РАБОТАЕТ",
+      "text": "После обновления интерфейса для \"удобства\" приложение перестало работать в принципе. Теперь невозможно что либо посчитать поскольку ничего не загружается\nС впн, без него, на мобильном интернете, вайфае, не грузится и всё.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T14:47:54-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Easy to use, helps keep you on track",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T12:33:06-07:00",
+      "rating": 1,
+      "title": "Не работает поиск",
+      "text": "После обновления, приложение не может найти не один продукт по шрихкоду, и как будто было мало, но и по поиску не находит ничего.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T05:26:04-07:00",
+      "rating": 1,
+      "title": "New update - 09/29/2026",
+      "text": "New update sucks. Why do I have click nine things just to get what food i ate? I use this app because it’s a simple no bs app. If it’s going to away from that I’m going elsewhere.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T01:47:22-07:00",
+      "rating": 1,
+      "title": "!!!",
+      "text": "После обновления продукты стало невозможным найти по поиску с ключевыми словами или по штрих коду",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-29T00:53:12-07:00",
+      "rating": 1,
+      "title": "Ужасный интерфейс",
+      "text": "Верните старый интерфейс. Я пользовался вашим приложением потому что годами пользовался одним и тем же интерфейсом. А сейчас я так же легко могу перейти на другое, потому что так же нужно с нуля разбираться. Короче, работает - не трогай. А работало все отлично",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-28T14:21:50-07:00",
+      "rating": 2,
+      "title": "Update is not good",
+      "text": "I have been using fat secret for probably more than 5 years now. In all that time the app has been great 10/10 no complaints. This latest update is terrible. I cannot easily access my most eaten food, and requires more clicks to log everything. Just take me back to history, most eaten, and add from recipes. I don’t know why it has to be more complicated.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-27T15:14:35-07:00",
+      "rating": 1,
+      "title": "Why oh why did you have to change it?",
+      "text": "This was a five star to me until the latest update. I hated the free myfitnesspal with all their constant updates and changes, so I switched and paid for fatsecret over a year ago and loved it. So smooth. So easy. I recently renewed my yearly. I've been adding my weight daily but not food these last four weeks until today. I was shocked at the update. It's SO hard. The search is at the bottom and not top. The answers on the next page sure the search again at the bottom. Everything looks different and difficult.  Why oh why did you have to update a perfect app. Unfortunately I paid already for an entire year.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-27T07:26:55-07:00",
+      "rating": 1,
+      "title": "The product search is not working. Constantly loading",
+      "text": "The product search is not working. Constantly loading",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-27T01:43:33-07:00",
+      "rating": 2,
+      "title": "Зависает",
+      "text": "После обновления ужасно стало работать, ниче не прогружает",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-27T00:56:03-07:00",
+      "rating": 1,
+      "title": "Приложение работает через раз !!!",
+      "text": "Зачем!!!!зачем???!!! Выкатывать дурацкие обновления если после пользоваться приложением просто невозможно!!!!! Просто часами пытаешься внести свою еду , а оно ничего не находит ! Просто жесть ! Уже лучше бы оставили как было!!!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-26T12:03:09-07:00",
+      "rating": 5,
+      "title": "Free and so helpful",
+      "text": "After listening to the book The Comfort Crisis I wanted to “experience hunger” and really try to find out what my caloric consumption was. This app was so helpful in doing that. Scanning bar codes and preloaded food made it as fast and easy as it could be to track my macros.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-26T04:07:56-07:00",
+      "rating": 1,
+      "title": "После обновления приложение работает ужасно!",
+      "text": "После обновления приложение работает ужасно! Не находит большую часть продуктов в поиске . Пользовалась очень много лет и с удовольствием. Сейчас чтобы добавить приемы пищи это целый квест",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-26T00:48:34-07:00",
+      "rating": 1,
+      "title": "Не находит продукты",
+      "text": "Пользуюсь приложением уже очень много лет, но последние полгода все очень плохо. Продукты ищет через раз, то не ищет вообще. Пробовала и с впн, и без, не меняется ничего. Если все останется без изменений придется искать другое приложение",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-25T13:02:58-07:00",
+      "rating": 1,
+      "title": "New Update is Terrible",
+      "text": "I’ve used this app for 10 years to log food. The recent update is legitimately terrible in design. It takes so many more taps to do the same thing which used to take 1-2. I have no idea what prompted the decisions made here, but I’m actually considering deleting the app and looking for something else.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-25T07:50:54-07:00",
+      "rating": 1,
+      "title": "лаги",
+      "text": "не вводит продукты, зависает",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-25T06:46:40-07:00",
+      "rating": 1,
+      "title": "Просто верните как было",
+      "text": "Не было никакого смысла переделывать интерфейс и добавлять все эти лишние функции и кнопки. Теперь пользоваться стало неудобно. Дело не только в том, что я привык к старому интерфейсу, но еще и в том, что теперь банально сложнее записывать еду в дневник и считать калории, а это основная функция приложения.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-25T01:14:56-07:00",
+      "rating": 2,
+      "title": "Зависает",
+      "text": "Все время зависает. Не добавить еду. Не может найти элементарные продукты.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-24T20:35:21-07:00",
+      "rating": 2,
+      "title": "Постоянно не работает",
+      "text": "После обновления постоянно ничего не работает. Невозможно им пользоваться,в моменте еду не добавить,потому что они ничего не находит,а потом уже не всегда получается. Верните старую версию,с ней все было в порядке!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-24T13:14:25-07:00",
+      "rating": 3,
+      "title": "liked it more before",
+      "text": "overall I really like this app however the latest update has not impressed me. To the dev: if your improvements result in more taps required to perform the same task it’s a downgrade.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-24T10:52:54-07:00",
+      "rating": 1,
+      "title": ".",
+      "text": "почему когда пишешь блюдо, нажимаешь на нужное, идет долгая загрузка и по итогу пишет что мы не нашли то что нужно было, из за этого я не могу посчитать бжу уже 3 дня",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-24T05:24:23-07:00",
+      "rating": 1,
+      "title": "Repair the app!",
+      "text": "Search engine died with the last update, please fix it🙏",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-24T00:07:38-07:00",
+      "rating": 1,
+      "title": "все сломали",
+      "text": "не работает поиск продуктов после недавнего обновления",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T21:40:44-07:00",
+      "rating": 2,
+      "title": "Почините поиск, пожалуйста.",
+      "text": "Пользуюсь уже очень давно этим приложением, никогда никаких проблем не было. После обновления стало очень неудобно пользоваться поиском. Приходится или вносить новые продукты или использовать что-то из «недавних», но не всегда есть возможность внести новые продукты, а в «недавних» такой пищи не было - получается, что счет неверен, учет невозможен. Почините поиск, пожалуйста. В остальном очень классное приложение. Ставлю 2 звезды только для того, чтобы проблему увидели.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T19:43:25-07:00",
+      "rating": 2,
+      "title": "New layout is pretty bad",
+      "text": "New layout makes food tracking more annoying and time consuming. Hate when that happens.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T11:14:06-07:00",
+      "rating": 2,
+      "title": "Еда пропала",
+      "text": "После обновления пропала почти вся еда, почините, пожалуйста",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T09:53:41-07:00",
+      "rating": 1,
+      "title": "Оценка за обновление",
+      "text": "Невозможно ничего отметить. Не находит по поиску и не показывает ранее использованное. Ничего не грузит. Приложение теперь бесполезное! Верните как было!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T07:41:38-07:00",
+      "rating": 1,
+      "title": "Обновление",
+      "text": "Последнее обновление просто ужасно! Ничего не работает. Так нравилось это приложение и теперь Вы всё испортили",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-23T03:17:43-07:00",
+      "rating": 1,
+      "title": "Не работает",
+      "text": "Ужасно глючит",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-22T21:00:24-07:00",
+      "rating": 2,
+      "title": "It was better before update",
+      "text": "Постоянные баги после обновления, не могу нормально загрузить еду. Приходится перезагружать приложение. Хотела купить премиум, а теперь думаю вообще искать другой сервис. Не могу добавить продукт без перезагрузки или вообще приходится ждать несколько часов",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-22T16:26:20-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "I really like using this food tracker.  However, a recent change made it more difficult for me. It’s probably my lack of technical knowledge. I at least stick with it!  I highly recommend it.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-22T10:39:57-07:00",
+      "rating": 1,
+      "title": "После обновления невозможно пользоваться",
+      "text": "Разработчики, очень прошу исправить поиск еды, который после обновления перестал работать: оооочень долго грузит, а многие базовые продукты вообще не находит в базе, хотя раньше все работало отлично.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T23:46:54-07:00",
+      "rating": 1,
+      "title": "Не работает",
+      "text": "Что вы там сделали, после обновления ничего не работает. Пользовалась столько лет и вот… переустановливала, вообще не щаходит.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T20:00:18-07:00",
+      "rating": 1,
+      "title": "Why fix what isn’t broken",
+      "text": "Your latest change is an overall disappointment! None of my recently saved items are available. You took something that was so good and ruined it!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T13:02:07-07:00",
+      "rating": 1,
+      "title": "Last update",
+      "text": "Last update broke everything. No saved food from previous days, super annoying",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T08:07:51-07:00",
+      "rating": 1,
+      "title": "Great app that now sucks",
+      "text": "I’ve been using this app for years to have me check calories and keep my weight and check. Apparently, they pushed through some sort of update, and now all my saved items are gone.  to make matters worse there’s nowhere to save things, unless you scan everything\n\nAbsolute garbage",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T07:33:36-07:00",
+      "rating": 1,
+      "title": "Испортили!верните, как было!!!",
+      "text": "Отвратительно испортили приложение! Добавили лишнее окно, для чего????Теперь нужно еще дольше ковыряться. Ладно те, кто давно считает калории более менее разберутся. А вот новичок плюнет и забьет на этот ваш подсчет. Зачем усложнять?? Чтобы просто было?  \nЛучше не сделали и не упростили, а наоборот!\nВерните, как было!!!!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T05:41:43-07:00",
+      "rating": 1,
+      "title": "После обновления еда не находится",
+      "text": "После обновления еда не находится. Вот уже 3 день не могу вбить еду которую я ела. Поисковик сам предлагает название и пооом ничего не находится. Даже на простых продуктах проверяда-тоже не находится",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T04:46:30-07:00",
+      "rating": 2,
+      "title": "Испортили приложение",
+      "text": "Поиск еды нормально не работает, еда не ищется. Постоянные сбои и ошибки в самом приложении. Что вы с ним сделали?? Было хорошее приложение",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T04:24:23-07:00",
+      "rating": 3,
+      "title": "Разочарование",
+      "text": "Раньше приложение работало нормально, но вот уже несколько месяцев нормально не ищет еду, сканер не работает, а после обновления мало того, что стало крайне неудобно искать продукты, так приложение еще и ничего не ищет, совсем ничего. Одно разочарование после многих лет хорошей службы",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-21T00:35:01-07:00",
+      "rating": 1,
+      "title": "Ужасно стало во второй половине 2026г",
+      "text": "Просто ужас, раньше было любимое приложение, потом перестал сканировать штрихкоды, постоянно виснет, не может найти продукты. А теперь ещё обновили интерфейс, стало в 100 раз неудобнее, в общем ищу новое приложение",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T11:54:01-07:00",
+      "rating": 1,
+      "title": "Удалили историю продуктов",
+      "text": "Восстановите историю моих употребленных продуктов!!!!!! Я так долго набивала свою базу, а вы взяли и выкатили обновление, которое все удалило!!!!!!!!!! Поиск стал работать криво. Испортили приложение!!!!!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T11:43:35-07:00",
+      "rating": 1,
+      "title": "Please bring back the old version",
+      "text": "The latest update made the app much less convenient to use. Adding foods I eat regularly used to take just one tap, but now it requires multiple extra steps. Food logging should be quick and easy, but now it feels unnecessarily complicated and frustrating. Please bring back the simpler way of adding foods!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T10:46:13-07:00",
+      "rating": 1,
+      "title": "Отвратительное",
+      "text": "Приложение упало ниже плинтуса. Поиск совсем не ищет продукты и каждый раз надо создавать новый продукт. Пользуюсь очень долго, но буду искать аналоги, а это удалять",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T09:53:20-07:00",
+      "rating": 4,
+      "title": "Simple and convenient",
+      "text": "Typically very easy to use and constantly improveing. A few hiccups with food entry but easily overcome with a few extra steps.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T09:51:33-07:00",
+      "rating": 1,
+      "title": "Apps changes suck",
+      "text": "App used to be great. Current changes are horrible now when anyone in a meal you have to select each item at one at time versus being able that whole list searching My popular restaurants brands is no longer convenient once selecting certain items from the list what Ashley populates your diary is something completely different. Go back to the old version I like the flexibility that the old one had a fatsecret one of the best Kelly tracking apps, but with the current changes no longer the case about to delete it and go to MyFitnessPal or track it. I had tried those other apps in the past, but always went back to fatsecret for its ease of use vast database and ability to input my own meals or at a product that was not on the list. The search engine in the past has been much easier to use as well now it’s very difficult to fix it.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-20T04:19:22-07:00",
+      "rating": 1,
+      "title": "что вообще происходит",
+      "text": "после обновления дизайна стало вообще не удобно пользоваться, так еще и приложение тупит абсолютно, не давая ни найти продукт, ни добавить новый…..запись за день сделать невозможно 😔",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T14:53:02-07:00",
+      "rating": 1,
+      "title": "new version of the app",
+      "text": "You really should have tested the update yourselves before rolling it out to users. Search has stopped working entirely—it literally won't find anything and just throws an error—and it takes too many taps to add dishes.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T13:16:52-07:00",
+      "rating": 2,
+      "title": "Bug when using voice",
+      "text": "The latest update has a bug. When you search for a food, using voice to input the information, it doesn’t work. It seems to go to the last food you added.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T09:52:16-07:00",
+      "rating": 1,
+      "title": "Верните старое обновление",
+      "text": "Ужасно",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T08:08:52-07:00",
+      "rating": 1,
+      "title": "Ужас",
+      "text": "Обновили, теперь не работает",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T08:00:37-07:00",
+      "rating": 2,
+      "title": "Плохое обновление",
+      "text": "После обновления просто ничего не работает. Никакую еду приложение не находит по запросу. Усложнили, намудрили.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T07:20:26-07:00",
+      "rating": 5,
+      "title": "Easy to Use!",
+      "text": "This app is easy to use and provides plenty of measurable metrics, even on the free version!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T06:07:34-07:00",
+      "rating": 3,
+      "title": "Не работают",
+      "text": "После обновления приложения, меню с поиском еды стало неудобным и он плохо ищет и долго грузит, а иногда вообще не находит продукт!!!",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-19T03:21:04-07:00",
+      "rating": 1,
+      "title": "Обновление",
+      "text": "Обновление кошмарное, теперь не записать свой рацион совсем, не находит еду совсем ..",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T23:21:43-07:00",
+      "rating": 1,
+      "title": "Больше 10 лет пользуюсь",
+      "text": "Периодически пользуюсь только этим счетчиком калорий. И вот с обновлением всё сломали: не работает поиск продуктов, долгая загрузка",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T22:40:28-07:00",
+      "rating": 1,
+      "title": "Horrible UI",
+      "text": "What were you thinking with the new UI?! I don’t think I could come up with something worse if I tried. Clearly no one who works there actually uses this app or they would’ve shot this down quick. Time to find a new food logging app.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T19:47:57-07:00",
+      "rating": 1,
+      "title": "Верните как было",
+      "text": "Стало очень неудобно",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T13:34:33-07:00",
+      "rating": 2,
+      "title": "Не работает добавление еды",
+      "text": "После последнего обновления не могу добавить еду вообще из поиска, только из истории",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T12:07:40-07:00",
+      "rating": 5,
+      "title": "Changed tracking and made it worse",
+      "text": "Used this for years and love it for its simplicity and ease of use",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T11:51:38-07:00",
+      "rating": 1,
+      "title": "Тупит после обновления",
+      "text": "Стал ОЧЕНЬ сильно тупить после последнего обновления. Вообще не находит новую еду, есть возможность добавить только ту, что раньше вбивала. Теперь всегда висит интерфейс «не нашли что искали?» умоляю сделайте что-нибудь или скажите как я могу это испраивть",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T09:42:05-07:00",
+      "rating": 4,
+      "title": "Why do you keep changing everything?",
+      "text": "I love this app so paid for an entire year, but they keep making major changes to how food is logged. I finally got used to the new format and they completely change it again. So frustrating! Why are you fixing what already worked?",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T09:10:34-07:00",
+      "rating": 4,
+      "title": "было лучше",
+      "text": "было все хорошо, но новое обновление ужасно неудобное, не все вбивается и ищется с первого раза, часто пишется, что продукт не найдет, потом этот же продукт находится",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T05:58:49-07:00",
+      "rating": 1,
+      "title": "Интерфейс",
+      "text": "Верните старый интерфейс",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T05:42:41-07:00",
+      "rating": 2,
+      "title": "Отвратительное обновление",
+      "text": "После обновления невозможно стало пользоваться приложением, продуктов в постоянном списке нет, либо вообще непонятный набор и через поисковик не находит нужную позицию. Стал работать только через ВПН.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T05:36:14-07:00",
+      "rating": 1,
+      "title": "Последнее обновление",
+      "text": "Последнее обновление просто треш и верх неудобства пользованием! \nСтолько лет приложение стабильно без изменений работало. Надо было оно вам лезть и обновлять интерфейс поиска? \n\nМного пользователей потеряете со своими обновлениями..",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T05:31:18-07:00",
+      "rating": 1,
+      "title": "Ужасное обновление, верните старую версию",
+      "text": "Пользоваться стало невозможно, верните старую версию",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T05:01:23-07:00",
+      "rating": 1,
+      "title": "Terrible updates",
+      "text": "Updates just keep getting worse and worse. Don't know why they keep trying to change things that were working just fine. Everything is more complicated and time consuming for no reason. It's not even adding anything in terms of aesthetics if that was their goal.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T04:57:04-07:00",
+      "rating": 1,
+      "title": "Работает хуже",
+      "text": "После обновления с 18.09 перестал вообще загружать список продуктов",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T04:54:19-07:00",
+      "rating": 1,
+      "title": "Не работает",
+      "text": "На Айфоне 17 про макс не работает ни штрихкод, ни поиск. Перезагружала и телефон и приложения, работает пару раз, и всё. Все нервы истрепало это д*рьмо.",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T04:54:00-07:00",
+      "rating": 1,
+      "title": "Обновление",
+      "text": "После обновления ищешь продукты в строке обед, не находит, те же продукты в строке ужин находит. Штрих код за 5 дней ни один не удалось считать, хотя раньше проблем вообще не было. Верните как было или доработайте приложение",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T03:46:15-07:00",
+      "rating": 1,
+      "title": "Невозможно пользоваться",
+      "text": "После обновления во первых стало ужасно не удобно, а во вторых оно просто перестало работать и искать что либо",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T02:34:24-07:00",
+      "rating": 1,
+      "title": "Shjqoeofnsjka",
+      "text": "После обновления , перестал работать",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-18T01:17:35-07:00",
+      "rating": 1,
+      "title": "Перестало работать",
+      "text": "Приложение работает ужасно, ничего не грузится. Поиск еды не растает после обновления, не считываются больше штрих коды. \nРанее пользовалась им каждый день, сейчас это делать просто невозможно",
+      "version": "11.8.3"
+    },
+    {
+      "date": "2026-09-17T22:57:05-07:00",
+      "rating": 1,
+      "title": "очень плохо",
+      "text": "новое обновление отвратительно, верните все назад",
+      "version": "11.8.3"
+    }
+  ]
+}

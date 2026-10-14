@@ -1,0 +1,357 @@
+{
+  "app": "Urban Company: Home Services",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T03:24:34-07:00",
+      "rating": 5,
+      "title": "House cleaning",
+      "text": "Great work all of them did their work nicely and all of them were cooperative as well overall it was great",
+      "version": "7.15"
+    },
+    {
+      "date": "2026-10-06T02:09:00-07:00",
+      "rating": 1,
+      "title": "No commitment for costumers",
+      "text": "Bad service please SAVE YOUR MONEY AND GO TO SOMEWHERE THAT HAS SOME RESPECT FOR YOU",
+      "version": "7.13"
+    },
+    {
+      "date": "2026-10-03T00:20:53-07:00",
+      "rating": 5,
+      "title": "Great service",
+      "text": "Convenient and very helpful service app",
+      "version": "7.13"
+    },
+    {
+      "date": "2026-09-30T22:56:49-07:00",
+      "rating": 5,
+      "title": "Services",
+      "text": "All good",
+      "version": "7.13"
+    },
+    {
+      "date": "2026-09-26T02:53:22-07:00",
+      "rating": 1,
+      "title": "Owner",
+      "text": "Horrible horrible did more destruction than work",
+      "version": "7.12"
+    },
+    {
+      "date": "2026-09-10T15:40:53-07:00",
+      "rating": 1,
+      "title": "Urban company is boycotting muslim women",
+      "text": "Muslim women are not allowed to work in urban company in areas of Mumbai. If urban company has problem with muslims they should also ban muslims as their clients. Shameless people.",
+      "version": "7.07"
+    },
+    {
+      "date": "2026-09-08T10:21:04-07:00",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Good service and reliable",
+      "version": "7.06"
+    },
+    {
+      "date": "2026-09-07T06:41:00-07:00",
+      "rating": 5,
+      "title": "Siniyeas cityzan k liye bast hey",
+      "text": "I like uc",
+      "version": "7.06"
+    },
+    {
+      "date": "2026-09-05T20:58:47-07:00",
+      "rating": 5,
+      "title": "S life saver",
+      "text": "Great service",
+      "version": "7.06"
+    },
+    {
+      "date": "2026-08-21T06:52:26-07:00",
+      "rating": 5,
+      "title": "Best",
+      "text": "Great",
+      "version": "7.03"
+    },
+    {
+      "date": "2026-08-17T06:53:39-07:00",
+      "rating": 1,
+      "title": "Bad scheduling and communication",
+      "text": "Urban Clap rescheduled multiple times with no clear communication , very unprofessional company",
+      "version": "7.03"
+    },
+    {
+      "date": "2026-08-14T07:08:54-07:00",
+      "rating": 1,
+      "title": "Recent salon spa pedicure booking",
+      "text": "As per details in app shoulder massage is part of pedicure but it was informed by the server that it is not excluded but not updated on website",
+      "version": "7.02"
+    },
+    {
+      "date": "2026-07-31T22:52:59-07:00",
+      "rating": 1,
+      "title": "Buggy App & Worst AI support",
+      "text": "Booked a Bathroom Cleaning service where the cleaner damaged my flush pipe. When attempting to request a revisit, the app UI glitched—the \"Confirm Booking\" button remained permanently greyed out across every available date and time slot.\n\n\nWhen I was finally connected to a human agent, the chat instantly disconnected and \"parked\" the ticket without resolving anything. After endlessly looping me through broken app screens and dropped chats, the automated bot closed my request claiming the service was now \"outside the warranty period.\"\n\nThe app UI is broken, support chat disconnects arbitrarily, and tickets are left to expire on purpose to avoid resolving damage caused during services. Fix your support workflow!",
+      "version": "7.00"
+    },
+    {
+      "date": "2026-07-24T21:35:39-07:00",
+      "rating": 5,
+      "title": "Mr. Prabir Barui",
+      "text": "Very energetic and cordial professional having high competency performed the job with utmost satisfaction for the job performed. We look forward to get various household services in future.",
+      "version": "6.99"
+    },
+    {
+      "date": "2026-07-20T03:28:17-07:00",
+      "rating": 1,
+      "title": "App glitch",
+      "text": "app should be updated",
+      "version": "6.99"
+    },
+    {
+      "date": "2026-07-18T03:04:19-07:00",
+      "rating": 5,
+      "title": "جميل",
+      "text": "البرنامج جميل ومتعاونين وكل اللي ايي من عندهم يكون بيرفكت",
+      "version": "6.99"
+    },
+    {
+      "date": "2026-07-17T03:45:21-07:00",
+      "rating": 5,
+      "title": "professional",
+      "text": "Good gb no",
+      "version": "6.99"
+    },
+    {
+      "date": "2026-07-01T03:22:33-07:00",
+      "rating": 2,
+      "title": "Employee happiness and satisfaction is questionable.",
+      "text": "Urban company employees are not happy with the salary/wages they are getting. They try to make some money from the UC clients. Only UC employee’s satisfaction can lead to UC customer’s satisfaction. Please take care of your employees.",
+      "version": "6.96"
+    },
+    {
+      "date": "2026-06-10T06:59:47-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "I’m absolutely in awe of your company. It’s so easy to get things done. Very pleased with your services. Thank you.",
+      "version": "6.90"
+    },
+    {
+      "date": "2026-06-03T22:03:22-07:00",
+      "rating": 1,
+      "title": "Don’t use for painting",
+      "text": "Had an awful experience, they don’t show any responsibility and you have to keep on following , monitoring on everything. Delayed the work by over 3 days. They don’t cover while painting resulting in paints over existing furniture, doors, windows, switches which is hard to get rid of. Also used lower quality and diluted paints while i was charged for aspira, had to follow up multiple times to get it corrected. They will penny pinch on everything and don’t even bring their own cleaning tools. Even after all this they just left used supplies inside house without cleaning.",
+      "version": "6.89"
+    },
+    {
+      "date": "2026-06-02T08:16:17-07:00",
+      "rating": 4,
+      "title": "Worst experience and lost the money time no customer is talking good",
+      "text": "Worst experience and lost the money time no customer is talking good",
+      "version": "6.89"
+    },
+    {
+      "date": "2026-05-28T15:11:16-07:00",
+      "rating": 3,
+      "title": "Why do the maids put your stuff in random places",
+      "text": "Every time i get a maid to do house work for some reason my stuff gets placed in areas like the drawers (which are in the storage room) but the maids still are good",
+      "version": "6.88"
+    },
+    {
+      "date": "2026-05-26T19:47:14-07:00",
+      "rating": 5,
+      "title": "Relieved",
+      "text": "Really relieved to find a company which is training and giving the right equipment to their service providers. UC setting international standards in India!  Please ensure one phone number the customer gets calls from. I have unknown number block so it’s not possible to accept calls from multiple numbers. \nI have been sent the wrong service provider 2 times for pedicure. They did not carry the products required for women.",
+      "version": "6.88"
+    },
+    {
+      "date": "2026-05-20T23:52:16-07:00",
+      "rating": 4,
+      "title": "Pest control for Cockroach",
+      "text": "I have taken the Cockroaches pest control service on 14.5.2026  but still cockroaches are coming n moving \nThis treatment is not working full proof / stop",
+      "version": "6.86"
+    },
+    {
+      "date": "2026-05-19T06:59:49-07:00",
+      "rating": 2,
+      "title": "Unfair charges",
+      "text": "The trainee fee for every service order is too much",
+      "version": "6.86"
+    },
+    {
+      "date": "2026-05-18T03:28:34-07:00",
+      "rating": 5,
+      "title": "Excellent app",
+      "text": "Excellent app for day today household works. It is one stop shop for plumber, house cleaner, electrician, carpenter and others like hanging a frame. It makes help available fairly quickly and workers are quite professional.",
+      "version": "6.86"
+    },
+    {
+      "date": "2026-05-18T00:51:47-07:00",
+      "rating": 5,
+      "title": "Great company",
+      "text": "I’ve used this service for over 4 years. If you live in India please download this app!",
+      "version": "6.86"
+    },
+    {
+      "date": "2026-05-15T06:48:44-07:00",
+      "rating": 5,
+      "title": "AC service",
+      "text": "Great and professional service with very experienced technicians  . I propose to use UC services in future as well as possible",
+      "version": "6.84"
+    },
+    {
+      "date": "2026-05-04T13:13:51-07:00",
+      "rating": 1,
+      "title": "Keep cancelling and changing schedule and cleaners!",
+      "text": "Not sure how you got rating 4.8! At least someone should call me since i complained many times",
+      "version": "6.82"
+    },
+    {
+      "date": "2026-04-30T20:27:37-07:00",
+      "rating": 5,
+      "title": "Services",
+      "text": "Always happy with the \nservices your firm provides. There can be some improvement in the refrigerator services.",
+      "version": "6.82"
+    },
+    {
+      "date": "2026-04-29T23:04:21-07:00",
+      "rating": 1,
+      "title": "Do not order their Native Water Purifier",
+      "text": "I ordered the Native Water purifier Mo. For two weeks, it wasn’t delivered and suddenly my order got cancelled. I kept getting calls for installation from technician (new person every day) and was eventually told the delay is from Blue Dart. Blue Dart kept postponing delivery of service. My concern with helpline remained parked for ever. Now they’re saying they have issued a refund but haven’t received it yet. No confirmation of order on email/ message. They keep calling continuously but to no avail. Never buying purifiers from them again. Appalling service.",
+      "version": "6.82"
+    },
+    {
+      "date": "2026-04-28T06:58:17-07:00",
+      "rating": 1,
+      "title": "Horrible!",
+      "text": "Service is horrible and created more problems. Help is very slow and don’t see urgency in fixing the issues. Stay out!",
+      "version": "6.82"
+    },
+    {
+      "date": "2026-04-18T22:18:45-07:00",
+      "rating": 5,
+      "title": "Unusable from USA",
+      "text": "Why do Indian companies make it so difficult for nri to book service from usa? Because we have patents or other family and would like to book service but there are so many hurdles. \nOnly indian mobiles allowed, only otp based login no option for email, password.  Cant add local number, if we call the service provider from our usa number it says call from registered mobile. Pls make it easy for nri customers.",
+      "version": "6.80"
+    },
+    {
+      "date": "2026-04-14T20:21:47-07:00",
+      "rating": 1,
+      "title": "Look elsewhere for a cleaning company!",
+      "text": "i’ve never had the same cleaner twice, which makes it difficult because I have to orientate a new cleaner for each visit. I’ve had only two cleanings and I’ve been rescheduled five times! \nBoth people have done a good job cleaning, but the company has a long way to go. Once my contract expires, I’ll be switching to another company. I advise you to do the same.",
+      "version": "6.80"
+    },
+    {
+      "date": "2026-04-02T22:21:05-07:00",
+      "rating": 1,
+      "title": "WORST EXPERIENCE EVER",
+      "text": "Please never book them again\nThey put available slots on noon app\nThen they call to cancel it\nAnd they just say refund within 10 days\nThey did this to and they don’t actually care about customer experience \n\nNOT RECOMMENDED AT ALL",
+      "version": "6.78"
+    },
+    {
+      "date": "2026-03-29T05:16:25-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Experienced and well trained",
+      "version": "6.77"
+    },
+    {
+      "date": "2026-03-09T11:09:48-07:00",
+      "rating": 5,
+      "title": "Rose part time cleaning",
+      "text": "I’m beyond satisfied with the service from Urban Company! Rose was amazing—very friendly, fast, and extremely efficient. She did a fantastic job and left my place spotless. I really appreciate her professionalism and attention to detail. Highly recommend Rose for anyone looking for excellent cleaning service!",
+      "version": "6.76"
+    },
+    {
+      "date": "2026-03-04T10:32:40-07:00",
+      "rating": 5,
+      "title": "Amazing service, pls add support for the US",
+      "text": "I used Urban Company to book a massage and pedicure. The providers were prompt and professional. I wish the app accepted US phone numbers and payments and had the option to add notes with the address.",
+      "version": "6.75"
+    },
+    {
+      "date": "2026-02-19T23:52:35-07:00",
+      "rating": 1,
+      "title": "App not working",
+      "text": "Chat in tha app is not working. Nonphone number to contact customer support. Water purifier is not working. Not way to complain. Someone called once and said technician will be assigned and chat will start working. Nothing happened so far",
+      "version": "6.75"
+    },
+    {
+      "date": "2026-02-18T21:10:10-07:00",
+      "rating": 4,
+      "title": "Hassle free",
+      "text": "This is hassle free service. Wish the app had more options or place to enter specific requests to our needs. Please have COD option available for payment.  With the 2 enhancement I would rate it 5 star.",
+      "version": "6.75"
+    },
+    {
+      "date": "2026-02-18T02:00:30-07:00",
+      "rating": 1,
+      "title": "I was charged for threading but did not get it.",
+      "text": "Servicd not completely delivered",
+      "version": "6.75"
+    },
+    {
+      "date": "2026-02-17T05:25:50-07:00",
+      "rating": 5,
+      "title": "Painting",
+      "text": "Good job",
+      "version": "6.75"
+    },
+    {
+      "date": "2026-02-14T20:56:08-07:00",
+      "rating": 5,
+      "title": "Best",
+      "text": "Very useful",
+      "version": "6.74"
+    },
+    {
+      "date": "2026-02-10T02:26:27-07:00",
+      "rating": 1,
+      "title": "Such a bad ui/ux",
+      "text": "Very very glitchy and just not a very well made app. Please fix the countless bugs on it",
+      "version": "6.74"
+    },
+    {
+      "date": "2026-02-06T23:17:53-07:00",
+      "rating": 3,
+      "title": "Good service but too much spam",
+      "text": "I like the cleaner I’ve been using from this company.\n\nBut the app’s use of notifications is abusive! Insipid advertisements every single day! And there is no granularity in the settings to turn it off. I want to leave notifications on so I get important real-time updates about services I have ordered. But then I get spam constantly! The programmers should be fired and redeployed to rake fallen leaves for a living.",
+      "version": "6.73"
+    },
+    {
+      "date": "2026-01-22T03:22:58-07:00",
+      "rating": 5,
+      "title": "Good masseuse available",
+      "text": "Very quick appointments , reliable service folk",
+      "version": "6.71"
+    },
+    {
+      "date": "2026-01-17T08:09:04-07:00",
+      "rating": 5,
+      "title": "Costumer satisfaction",
+      "text": "Thank you so much for being a very good and high quality company and services with a very standard price rate ! Keep going to be always this perfect 👌🏼",
+      "version": "6.71"
+    },
+    {
+      "date": "2026-01-14T22:05:57-07:00",
+      "rating": 5,
+      "title": "Timely and helpful service",
+      "text": "Very respectful professionals who do their job very well.",
+      "version": "6.71"
+    },
+    {
+      "date": "2026-01-11T01:17:02-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Why cash payment not available",
+      "version": "6.70"
+    },
+    {
+      "date": "2026-01-06T21:32:17-07:00",
+      "rating": 5,
+      "title": "Maintenance work",
+      "text": "Fast, precise and professionally executed",
+      "version": "6.70"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "app": "Free Food AI: Calorie Counter",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-25T19:33:30-07:00",
+      "rating": 1,
+      "title": "Not accurate",
+      "text": "Doesn’t get the correct food when you take a picture sadly. That’s why I got this app. It thought my toast was a fried egg. Also estimated the calories of each meal about 100 off.",
+      "version": "5.7"
+    },
+    {
+      "date": "2026-09-17T19:11:58-07:00",
+      "rating": 5,
+      "title": "100% Free!",
+      "text": "All the calorie macros information you need",
+      "version": "5.5"
+    },
+    {
+      "date": "2026-09-04T19:39:38-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "I love this app! Works great if you’re on a weight gain or loss journey and wanna track your calories!",
+      "version": "5.5"
+    },
+    {
+      "date": "2026-08-27T17:54:14-07:00",
+      "rating": 5,
+      "title": "Works like a charm",
+      "text": "Great app",
+      "version": "4.6"
+    },
+    {
+      "date": "2026-08-02T12:13:52-07:00",
+      "rating": 5,
+      "title": "Thank you it’s really FREE! ♥️♥️♥️♥️♥️",
+      "text": "I am so impressed and so grateful it’s truly free, it’s helping me get myself on track after a total hip replacement! I love it! Thank you!!!",
+      "version": "3.7"
+    },
+    {
+      "date": "2026-07-31T20:26:57-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "It’s awesome",
+      "version": "3.7"
+    }
+  ]
+}

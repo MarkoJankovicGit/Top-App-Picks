@@ -1,0 +1,357 @@
+{
+  "app": "Litely-Food Tracker & Wellness",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-04-21T17:47:55-07:00",
+      "rating": 1,
+      "title": "Doesn’t work since the update",
+      "text": "I’ve been using this app for over a year now and not had to pay for anything. I even tapped into it this morning with no problem. Now when I go to log my fast for the night, it doesn’t give me anything unless I purchase a subscription. Don’t waste your time on this. Absolutely ridiculous!",
+      "version": "3.0.1"
+    },
+    {
+      "date": "2026-02-07T08:05:41-07:00",
+      "rating": 1,
+      "title": "Not the best",
+      "text": "I can’t use the app. It is stuck trying to get me to pay, and if I don’t, I can’t use it.",
+      "version": "2.7.12"
+    },
+    {
+      "date": "2025-10-08T12:00:18-07:00",
+      "rating": 5,
+      "title": "This app is great!!!",
+      "text": "Makes logging in food and drinks and calories easier!!",
+      "version": "2.7.11"
+    },
+    {
+      "date": "2025-06-03T04:01:50-07:00",
+      "rating": 2,
+      "title": "Mid at Best",
+      "text": "I have been using this app for about 12 hours, and i liked the feature at first. But when I woke up this morning, it gave me a screen encouraging me to pay for a subscription. There is no “X” on this screen to exit out of this. I can’t use the app because it’s trying to force me to pay.",
+      "version": "2.7.9"
+    },
+    {
+      "date": "2025-04-23T07:04:15-07:00",
+      "rating": 4,
+      "title": "Not sure if pro is worth it",
+      "text": "I pay monthly to see recipes and tips for weight loss and exercise which is really nice. One downside is the food pal is a bit inaccurate. The app uses ai to input for meals and snacks and there’s no option to do that manually so the calorie, fat, carbs, and protein intake for some food items are wrong. For example I had a chomp stick, when I tried to log it I told the ai EXACTLY how many calories, carbs, fats, and grams of protein were in it, and it still wasn’t right. It’s not that big of a deal to me because I’m not that worried about calorie counting, it’s just a little annoying.",
+      "version": "2.7.9"
+    },
+    {
+      "date": "2025-01-29T15:36:38-07:00",
+      "rating": 5,
+      "title": "Love this!",
+      "text": "I have just started my journey and am already obsessed with this app! The layout and organization it provides makes everything so easy to follow! If you need something to help you with motivation to lose weight this is definitely the app for you!",
+      "version": "2.7.8"
+    },
+    {
+      "date": "2024-12-28T04:49:53-07:00",
+      "rating": 2,
+      "title": "Premium is a joke",
+      "text": "I was really enjoying the app and I even paid for the 3 month premium but I went to go open the app today and it says I need to pay for premium again when I just did a couple weeks ago. I don’t see any where in the app where I can contact customer support to get this fix. I’m not paying $40 again if the app isn’t going to work",
+      "version": "2.7.7"
+    },
+    {
+      "date": "2024-11-09T22:26:01-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "It seems likes such a good app definitely worth it",
+      "version": "2.7.1"
+    },
+    {
+      "date": "2024-11-06T07:13:43-07:00",
+      "rating": 5,
+      "title": "Best fitness app to use",
+      "text": "Highly recommend",
+      "version": "2.7.1"
+    },
+    {
+      "date": "2024-10-07T17:37:19-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2024-09-23T04:22:21-07:00",
+      "rating": 5,
+      "title": "Fasting",
+      "text": "I believe this will help with my eating habits.",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2024-09-18T17:37:19-07:00",
+      "rating": 5,
+      "title": "Love this",
+      "text": "Awesome app",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2024-09-06T17:24:18-07:00",
+      "rating": 1,
+      "title": "Greed",
+      "text": "The app is so focused on getting you to buy pro packages that it doesn’t even record your data correctly and it’s a glitchy mess",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2024-08-26T17:40:55-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "I started my fasting and walking journey three weeks ago and have been able to stay consistent. I have lost almost 9 lbs in these three weeks.",
+      "version": "2.6.9"
+    },
+    {
+      "date": "2024-07-22T20:44:28-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "Just downloaded but so far it’s free and guaranteed to be effective",
+      "version": "2.6.9"
+    },
+    {
+      "date": "2024-07-14T14:59:39-07:00",
+      "rating": 5,
+      "title": "Not bad",
+      "text": "Great although you do have to pay a bit but it’s wtv",
+      "version": "2.6.9"
+    },
+    {
+      "date": "2024-06-22T17:42:07-07:00",
+      "rating": 4,
+      "title": "Age restrict",
+      "text": "I think I would love this app if I could put my actual age in it, I’m young (14) but I’ve been trying to lose weight with my mom and none of these apps ever take my actual age.",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-06-18T13:03:49-07:00",
+      "rating": 5,
+      "title": "the free version and pro version are great",
+      "text": "this app is good for both who pay and don’t",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-06-13T22:10:56-07:00",
+      "rating": 4,
+      "title": "love love love",
+      "text": "i love the app it helped my gain more confidence and helped me loose more weight \nthis is an amazing app! the only thing i didn’t like was how you have to pay",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-06-04T21:00:10-07:00",
+      "rating": 3,
+      "title": "Money",
+      "text": "I wish i didn’t have to pay for a plan. My parents are strict and won’t let me. I wish I could get the full effect for free.",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-30T17:43:51-07:00",
+      "rating": 4,
+      "title": "It’s good!!",
+      "text": "it’s a really great app but it keeps signing me out and the first time i was like 3 days in and I lost all of my progress.",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-18T17:39:21-07:00",
+      "rating": 5,
+      "title": "i love this!",
+      "text": "It’s truly an amazing app!",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-15T22:32:51-07:00",
+      "rating": 5,
+      "title": "my work",
+      "text": "this app seems so good i have high hopes",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-14T11:13:30-07:00",
+      "rating": 3,
+      "title": "Good but",
+      "text": "This app was an AD on my tiktok so I tried it, it is one of those where it makes you pay $2.50 PER WEEK! Which is crazy. But u do have an option for a free fasting but it isn’t customized to you",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-14T09:45:31-07:00",
+      "rating": 1,
+      "title": "This is a very very bad app.",
+      "text": "This app is making my girlfriend insecure about her wait and how she looks so i will be suing you for everything you have and more.sincerely remove this app off the store thanks.",
+      "version": "2.6.8"
+    },
+    {
+      "date": "2024-05-12T17:55:14-07:00",
+      "rating": 5,
+      "title": "paying 😔",
+      "text": "idk but the whole paying weekly seems like they js wanna make money",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-05-05T16:54:03-07:00",
+      "rating": 4,
+      "title": "What if we can’t pay?",
+      "text": "This app is great, but for all I want to do is loose weight, and for people that are younger and don’t have a debit or credit card, I can’t pay to get my plan. If this app truly wanted to help you loose weight, I think it should be free.",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-05-04T19:37:16-07:00",
+      "rating": 5,
+      "title": "Love them",
+      "text": "Love yalll",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-05-03T20:47:41-07:00",
+      "rating": 4,
+      "title": "My weight loss goal",
+      "text": "Actually helped me loose weight!",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-04-09T17:51:46-07:00",
+      "rating": 3,
+      "title": "Not the best",
+      "text": "The actual app is good but I just got headaches and i was weak because food gives you energy and the app is for you to fast. I like the app its just not the best for me.",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-04-09T11:43:16-07:00",
+      "rating": 1,
+      "title": "Lack of food options",
+      "text": "This app expects you to completely drop your current habits and follow their program. Not only do they lack food options for those of us that lack the finances to afford better food options, but by stopping current habits cold turkey they expect you to fail and waste your money because your body can go into shock by sudden dietary changes. I expect my money back, I’m going back to Noom.",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-03-14T16:57:58-07:00",
+      "rating": 5,
+      "title": "TRULY WORKS!!!",
+      "text": "with this app, i lost 4.2 pounds in 5 days!!! from the start i was 119 and after only 5 days i was 114.8. if your looking to lose weight, i HIGHLY recommend litely!",
+      "version": "2.6.4"
+    },
+    {
+      "date": "2024-03-03T18:12:15-07:00",
+      "rating": 5,
+      "title": "Excited",
+      "text": "So far loving the app! Excited to see if this is the change I need to start dropping the weight I can’t seem to lose!",
+      "version": "2.6.3"
+    },
+    {
+      "date": "2024-03-03T09:10:13-07:00",
+      "rating": 5,
+      "title": "Lively",
+      "text": "Loving this app so far",
+      "version": "2.6.3"
+    },
+    {
+      "date": "2024-01-18T10:06:37-07:00",
+      "rating": 5,
+      "title": "Helping me",
+      "text": "This app helps me a lot. As I was trying to lose weight before I went to college in august and I’m already losing some pounds. And at first I thought I would have to starve to fast but no they encourage you to eat and drink lots of water. I think it’s a good app for people who have trouble not eating a lot like me.",
+      "version": "2.6.2"
+    },
+    {
+      "date": "2023-12-11T18:41:26-07:00",
+      "rating": 5,
+      "title": "Love this app!",
+      "text": "I’ve been using this for about a week now and it has helped me develop the habit of drinking more water on top of fasting and I feel amazing",
+      "version": "2.6.2"
+    },
+    {
+      "date": "2023-11-08T00:08:29-07:00",
+      "rating": 5,
+      "title": "Useful fasting companion",
+      "text": "I’ve been using Litely for a while, and it has truly transformed my eating habits and overall well-being. The user friendly interface makes it easy to track my fasting and eating windows, and it sends timely reminders to keep our on track.🥰 one of the standout features of this app is the customized fasting plans, especially the personalized recipes. It takes into account my goals and lifestyle, offering a personal fasting schedule that suits my me perfectly. It’s like having a personal nutritionist in my pocket! I’m not very skilled at cooking, but Litely offers many simple recipes this is not only helps me lose weight but also boosts my confidence in the kitchen.\nThe progress tracking tools are motivating and provide a clear picture of my achievements. I love how I can see my fasting history, weights changes, and even my energy levels. It keeps me motivated to stay committed to my routine. I used to lack confidence because of my shape, and it even affected my health. But can you believe it? I managed to shed 15 pounds in just ONE month. I used to think that losing weight was tough, especially since I’m not big on exercise. But ever since I started using this fasting app, I’ve realized that it’s not as hard as I thought. With the right weight loss tool, I have been able to enjoy the journey and make it a part of my daily life. Overall, this app has been a game changer for me. It helped me shed some extra pounds, improve my energy level, and establish a healthier relationships with food.\nSo if you are looking to explore the world of intermittent fasting, i highly recommend giving Litely a try. It’s fantastic tool to help you on your journey to better health!",
+      "version": "2.5.10"
+    },
+    {
+      "date": "2023-11-03T01:35:57-07:00",
+      "rating": 5,
+      "title": "cool fasting app",
+      "text": "I have been looking for a good fasting tracker for along time, this time I will try my best to follow the personal fasting plan and I hope I can lose some weight and keep it down. Good luck to all of you! Keep fighting!",
+      "version": "2.5.9"
+    },
+    {
+      "date": "2023-09-15T08:48:44-07:00",
+      "rating": 2,
+      "title": "False advertisement",
+      "text": "So when it starts you it says 3 month S 33.99 but what it doesn't tell you is you get charged initially. All it says is you won't get charged till 3 months later.  Don't use",
+      "version": "2.5.3"
+    },
+    {
+      "date": "2023-08-21T19:33:12-07:00",
+      "rating": 2,
+      "title": "App has bugs",
+      "text": "Keep sending wrong notifications about fasting and eating reminders.\n\nDo not record the fasting period/information properly. (Stage overview shows need to fast and plan interface show cheat day)\n\nNot very friendly user interface (I have a hard time filling info in  the fasting schedule)",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2023-08-08T17:22:36-07:00",
+      "rating": 1,
+      "title": "Horrible!!!! The “FREE” trial?!?",
+      "text": "I was charged over 30$!!!! Even though I signed up for a FREE TRIAL, that I started yesterday!!!! . It hasn’t even ended and they took 30+ dollars out of my bank account!!!! Not even a good app or something you can’t do on your own easily!!",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2023-06-05T19:54:00-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Just started! But loving it!",
+      "version": "1.5.5"
+    },
+    {
+      "date": "2023-04-13T06:37:02-07:00",
+      "rating": 1,
+      "title": "Trash",
+      "text": "This app is trash. Don’t pay for it! Terrible meal plan system. Doesn’t give visibility for full week or future meals so can’t set yourself up for success.",
+      "version": "1.4.13"
+    },
+    {
+      "date": "2023-03-19T13:45:56-07:00",
+      "rating": 5,
+      "title": "Well structured",
+      "text": "Too notch well structured app. Yippy!",
+      "version": "1.4.9"
+    },
+    {
+      "date": "2023-02-09T05:40:11-07:00",
+      "rating": 5,
+      "title": "New",
+      "text": "Good app. Tracks good.",
+      "version": "1.3.9"
+    },
+    {
+      "date": "2023-01-11T07:16:29-07:00",
+      "rating": 5,
+      "title": "Good fasting app",
+      "text": "I am only using the free version of the fasting app so far, and it's very simple and easy to use. The part I am using is very basic since I am just starting out with the fasting. I may pay for the pro later as I get into it more. I've lost almost  3 pounds in 5 days and eating low carb. I love that the app sends notifications to motivate me to fast and drink water throughout the day. I love a strip fasting tracker to show when I can eat again, too. I like the app a lot. I'll keep using it!",
+      "version": "1.3.6"
+    },
+    {
+      "date": "2023-01-09T04:32:35-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "The fasting timer makes it easier to know what's happening in my body and also makes it much easier to stick to the plan by providing accountability (even if it's only to myself) and helping me feel like I'm accomplishing a goal every day. I also like that there are different kinds of challenges. They aren't too hard, but mostly get me to live healthy in a way that feels doable. I'm don't do a good job with restrictive diets, but intermittent fasting is proving to be quite simple, and I've noticed that my appetite during non-fasting periods is quite moderate, and I'm craving unhealthy foods less.",
+      "version": "1.3.6"
+    },
+    {
+      "date": "2023-01-06T05:29:25-07:00",
+      "rating": 5,
+      "title": "I've lost some weight already with it.",
+      "text": "The fasting timer is great for getting you started, I paid for the personal plan so I could get personalized guide and join the challenges. I've lost some weight already with it.",
+      "version": "1.3.6"
+    },
+    {
+      "date": "2023-01-02T20:37:31-07:00",
+      "rating": 1,
+      "title": "No thanks",
+      "text": "if i could give this app no stars.. i would..it begins like a chat which i thought was a unique feature. it goes on to ask you personal questions so that it can \"customize\" your meals and schedule. what was upsetting was being called obese by a robot then told to pay to get a plan that 1) seemed mediocre at best and 2) didn't even give you a preview of what you're paying for. For that i would never purchase or bother downloading the app. 👎🏽",
+      "version": "1.3.6"
+    },
+    {
+      "date": "2022-12-15T20:47:07-07:00",
+      "rating": 5,
+      "title": "So far it seems really easy to use i am looking forward to keeping on track to losing the weight",
+      "text": "O",
+      "version": "1.2.1"
+    }
+  ]
+}

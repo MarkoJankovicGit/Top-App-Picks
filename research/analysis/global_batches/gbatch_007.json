@@ -1,0 +1,807 @@
+[
+  {
+    "key": "in:943712366",
+    "country": "India",
+    "name": "Healthify: AI Calorie Tracker",
+    "seller": "HealthifyMe Wellness Private Limited",
+    "genre": "Health & Fitness",
+    "released": "2014-12-17",
+    "updated": "2026-10-07",
+    "ratings_local": 66619,
+    "avg_rating": 4.55,
+    "ratings_us": 5977,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "wellness planner",
+      "women wellness"
+    ],
+    "url": "https://apps.apple.com/in/app/healthify-ai-calorie-tracker/id943712366",
+    "seller_url": "https://www.healthifyme.com/in/",
+    "description": "Healthify is trusted by over 40 million users globally to simplify their health journey. Whether your goal is weight loss, improved nutrition, or enhanced fitness, Healthify provides you with world class technology & services to support you make data driven decisions through every step of the way. With Healthify you can\n\n- Track Calories with photo or voice\n- Log Meals\n- Get personalized AI Insights & actionables\n- Track Water\n- Track Sleep\n- Track Weight\n- Track Workouts & Activity\n\nHealthify uses image based smart AI recognition technology to bring you the convenience of tracking calories and meals with just pictures. Healthify App is also empowered with an AI Nutrition Coach to take perso",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/7e/1b/537e1b85-e5c1-56fc-9e5a-be9470b08bc4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "mx:6446997766",
+    "country": "Mexico",
+    "name": "Grit: Hábitos, Rutinas Diarias",
+    "seller": "GrittyApps",
+    "genre": "Productivity",
+    "released": "2023-05-17",
+    "updated": "2026-10-09",
+    "ratings_local": 20188,
+    "avg_rating": 4.87,
+    "ratings_us": 16034,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FR",
+      "DE",
+      "EL",
+      "HE",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "NB",
+      "PL",
+      "PT",
+      "RO",
+      "RU",
+      "ZH",
+      "ES",
+      "SV",
+      "TH",
+      "ZH",
+      "TR",
+      "UK",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 4
+    },
+    "matched_keywords": [
+      "hábitos",
+      "desarrollo personal",
+      "diario",
+      "rutina diaria"
+    ],
+    "url": "https://apps.apple.com/mx/app/grit-h%C3%A1bitos-rutinas-diarias/id6446997766",
+    "seller_url": "https://gritapp.net/",
+    "description": "Potencía tus hábitos con Grit - Tu Mejor Rastreador de Hábitos:\n\nConstruye buenos hábitos, elimina los malos. Logra metas con Grit, el rastreador de hábitos completo. Integración con Apple Health, recordatorios inteligentes, estadísticas útiles, widgets y más. ¡Descárgalo ahora y comienza tu camino!\n\n- Logros: Desbloquea hitos mientras mantienes una racha.\n- Integración con Apple Health: Seguimiento sin problemas con sincronización automática.\n- Recordatorios Inteligentes: Mantente en camino con notificaciones inteligentes.\n- Estadísticas Útiles: Obtén insights y mantente motivado.\n- Widgets: Sigue el progreso de un vistazo.\n- Modo Oscuro y Personalización de Colores: Personaliza tu experien",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/0b/87/6b0b8716-6f21-b9b7-a302-c94d2bc37151/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:480952151",
+    "country": "Russia",
+    "name": "Lingualeo: учи английский язык",
+    "seller": "LinguaLeo, LLC",
+    "genre": "Education",
+    "released": "2011-12-19",
+    "updated": "2026-09-18",
+    "ratings_local": 18917,
+    "avg_rating": 4.51,
+    "ratings_us": 758,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "HY",
+      "AZ",
+      "BE",
+      "BG",
+      "HR",
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "ET",
+      "FI",
+      "FR",
+      "KA",
+      "DE",
+      "EL",
+      "HE",
+      "HI",
+      "HU",
+      "IS",
+      "ID",
+      "IT",
+      "JA",
+      "KK",
+      "KO",
+      "KY",
+      "LV",
+      "LT",
+      "MN",
+      "NB",
+      "FA",
+      "PL",
+      "PT",
+      "RO",
+      "RU",
+      "SR",
+      "ZH",
+      "SL",
+      "ES",
+      "SW",
+      "SV",
+      "TG",
+      "TT",
+      "TH",
+      "BO",
+      "ZH",
+      "TR",
+      "UK",
+      "UR",
+      "UZ",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1
+    },
+    "matched_keywords": [
+      "карточки для запоминания"
+    ],
+    "url": "https://apps.apple.com/ru/app/lingualeo-%D1%83%D1%87%D0%B8-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/id480952151",
+    "seller_url": "https://lingualeo.com",
+    "description": "Более 23 миллионов пользователей по всему миру уже изучают языки с Lingualeo!\n\nLingualeo — это многофункциональное приложение для изучения языков. Оно помогает легко и с интересом осваивать английский, китайский, чешский, нидерландский, французский, немецкий, греческий, хинди, индонезийский, итальянский, японский, корейский, польский, португальский, русский, сербский, испанский, турецкий, украинский,  вьетнамский и другие языки.\n\nПриложение использует технологии персонализации , чтобы подбирать упражнения и материалы с учётом вашего уровня и целей обучения.\n\nХотите понимать грамматику, улучшить чтение, разговорную речь, письмо или понимание на слух? \nВ Lingualeo есть все необходимые инструме",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/38/c9/3138c923-671f-3a48-880e-d9f204dcec8d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1454492537",
+    "country": "South Korea",
+    "name": "이지보카 - 영어단어 어원을 읽어주는 특별한 단어장",
+    "seller": "shouter inc.",
+    "genre": "Education",
+    "released": "2019-03-23",
+    "updated": "2026-09-07",
+    "ratings_local": 1789,
+    "avg_rating": 4.61,
+    "ratings_us": 40,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "KO"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 1
+    },
+    "matched_keywords": [
+      "단어장",
+      "TTS 읽어주는"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B3%B4%EC%B9%B4-%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4-%EC%96%B4%EC%9B%90%EC%9D%84-%EC%9D%BD%EC%96%B4%EC%A3%BC%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1454492537",
+    "seller_url": "https://www.youtube.com/watch?v=p4YLknq_Ak0",
+    "description": "영어 천재들은 단어를 암기할 때 어떻게 할까요?\n\n천재들은 뛰어난 상상력을 바탕으로 다양한 암기재료를 활용하여 체계적인 반복학습을 통해 암기를 완료합니다.\n\n이지보카는 영어 천재들의 학습방식과 검증된 인지과학 이론을 적용한 초고속 외국어 단어 암기 학습법을 제공합니다.\n\n* 다양한 암기재료 *\n단어마다 다른 남녀 현지인의 4가지 유형의 발음, 연상 이미지, 어원, 연상어 등 다양한 암기재료들을 활용할 수 있습니다.\n\n* 체계적인 반복학습 *\n학습, 복습, 테스트를 인지과학 이론에 기초하여 구성한 총 9단계를 반복하여 학습할 수 있습니다.\n\n* 200여개의 단어장 *\n생활과 시험에 활용도가 높은 2만여개의 단어들을 뽑아 파닉스, 초중고, 특목고, 수능, 취업, 공무원, TOEIC, TOEFL, GRE, SAT 등은 물론 수준별 분야별 테마별로 정리된 200개 이상의 단어장 그룹을 선택하여 암기할 수 있습니다.\n\n* 나만의 단어장 *\n학습중인 단어를 직접 선택하여 만든 나만의 단어장으로 잘 외워지지 않는 단어들을 오답노트처럼 효과적으로 재학습할 수 있습니다.\n\n* 관련 특허 *\n특허등록번호 10-1085623 (2011년), ‘인지과학 이론을 적용한 외국어 단어 학습 서비스 제공 방법’\n\n* 제공되는 이미지 *\n단어의 이미지중 대부분(약 10,000여장)은 직접 그린 이미지이고 일부분은 사진DB에서 구매한 사진입니다. 직접 그린 그림은 ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/74/ad/6a74ad4a-f6e4-9d95-f623-7af151a2d450/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "in:6443898817",
+    "country": "India",
+    "name": "Sushruta LGS: NEET SS & INI SS",
+    "seller": "Sushruta Educations LLP",
+    "genre": "Education",
+    "released": "2023-01-07",
+    "updated": "2026-10-12",
+    "ratings_local": 55,
+    "avg_rating": 4.49,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 2,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "AI study notes",
+      "AI flashcards",
+      "spaced repetition"
+    ],
+    "url": "https://apps.apple.com/in/app/sushruta-lgs-neet-ss-ini-ss/id6443898817",
+    "seller_url": null,
+    "description": "Begin your journey to mastering the NEET SS Surgical Group & INI-SS Entrance Test (INISS-ET) with Sushruta LGS — the pinnacle of EduTech innovation by Sushruta Educations LLP. Trusted by over 100,000 medical postgraduates and used by AIR 1 holders in NEET SS 2023, 2024, and 2025, our platform is a comprehensive ecosystem crafted to revolutionize your study approach with a perfect amalgamation of the latest in AI-powered learning technology and insights from leading surgical and medical experts.\n\nKey Features:\n\n\nAI Study Planner (da Vinci Brain): Your personal AI coach that scores every topic across 6 factors, builds a personalized daily study plan, and predicts your score and rank. It adapts",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/5c/30/bc5c30b4-c92e-cb91-0afc-a616f4840576/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1497832962",
+    "country": "South Korea",
+    "name": "플링 - 여성향 AI 채팅 & 오디오드라마",
+    "seller": "PLINGCAST co., Ltd",
+    "genre": "Book",
+    "released": "2020-02-14",
+    "updated": "2026-10-12",
+    "ratings_local": 1699,
+    "avg_rating": 4.45,
+    "ratings_us": 77,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "JA",
+      "KO"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 2
+    },
+    "matched_keywords": [
+      "오디오북",
+      "팟캐스트"
+    ],
+    "url": "https://apps.apple.com/kr/app/%ED%94%8C%EB%A7%81-%EC%97%AC%EC%84%B1%ED%96%A5-ai-%EC%B1%84%ED%8C%85-%EC%98%A4%EB%94%94%EC%98%A4%EB%93%9C%EB%9D%BC%EB%A7%88/id1497832962",
+    "seller_url": "https://www.plingcast.com",
+    "description": "AI 캐릭터 채팅부터 오디오드라마, 리얼 ASMR까지!\n멈춤 없는 로맨스 플레이, 플링을 즐겨보세요.\n\n▪ 내가 만드는 내 세상, AI 플레이챗\n내 취향대로 스토리를 이어가고, 캐릭터와 직접 대화하세요.\n단 한 줄이면 충분해요. 나만의 이야기를 만들어보세요.\n#무한 과몰입 #끝나지 않는 로맨스\n\n▪ 판타지 실현, 내 취향의 오디오 콘텐츠\n롤플레잉, 로맨스 BL, GL 모든 장르 준비 완료!\n다양한 로맨틱 상황을 담은 플링만의 #오리지널 오디오\n웹툰·웹소설 원작을 더 깊게 파고드는 #오디오드라마\n\n▪ 내 최애 보이스를 찾는 가장 빠른 길\n설렘을 깨우는 리얼 ASMR #보이스 크리에이터\n실시간 인기 차트 · 일간/주간/월간 랭킹으로 오늘의 최애 발견\n팔로우 한 번이면, 새 작품 소식이 가장 먼저!\n\n▪ 언제 어디서나, 내 취향대로\n나만 듣는 #커스텀 플레이리스트\n지금 이 대사 뭐지? #실시간대사 기능\n하루의 마지막을 편안하게 마무리하는 #잠자기모드\n\n▪ 매일, 매주 쏟아지는 무료 선물과 플링박스\n매일매일 럭키드로우로 최대 100플링 혜택!\n매주 공개되는 추천 무료 스토리로 취향을 넓혀보세요.\n이벤트·혜택·깜짝 선물까지, [플링박스]에서 한눈에.\n\n언제 어디서나, 플링과 함께 멈춤 없이 로맨스를 플레이해보세요.",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/93/b8/0a93b863-03b0-8c01-cb26-92d19bdd3737/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:6504188981",
+    "country": "South Korea",
+    "name": "잠글시간: 앱 잠금, 앱 차단, 공부 타이머",
+    "seller": "OnOff Labs",
+    "genre": "Productivity",
+    "released": "2024-07-24",
+    "updated": "2026-10-08",
+    "ratings_local": 5571,
+    "avg_rating": 4.65,
+    "ratings_us": 499,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "EN",
+      "FR",
+      "DE",
+      "JA",
+      "KO",
+      "PT",
+      "ES",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 1
+    },
+    "matched_keywords": [
+      "습관 루틴",
+      "공부 타이머",
+      "수면 소리"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%9E%A0%EA%B8%80%EC%8B%9C%EA%B0%84-%EC%95%B1-%EC%9E%A0%EA%B8%88-%EC%95%B1-%EC%B0%A8%EB%8B%A8-%EA%B3%B5%EB%B6%80-%ED%83%80%EC%9D%B4%EB%A8%B8/id6504188981",
+    "seller_url": "https://coldturkey--focusguard-a6f60.us-central1.hosted.app",
+    "description": "잠글시간으로 스크린타임을 줄이고 공부에 집중하세요! \n잠글시간은 단순한 ‘앱 잠금’이나 '공부 타이머'가 아니에요.\n핸드폰 중독을 벗어나 진짜 내가 원하는 일에 집중할 수 있게 해주는 디지털 디톡스 앱 입니다!\n\n■  공부할 때 잠글시간 활용하는 꿀팁\n공부를 시작하기 전에 잠글시간으로 핸드폰을 잠그고 공부 타이머로 사용해보세요! 핸드폰을 잠그고 유혹에서 벗어나 공부에 집중할 수 있어요.\n핸드폰 잠금이시작되면 공부 타이머를 통해 잠금이 종료될 시간을 알려드려요. 핸드폰 잠금이 종료된 후에는 다음 잠금을 예약해서 과도하게 핸드폰 사용시간이 많아지는 걸 방지할 수 있어요. \n공부할때 잠글시간을 사용하는 사람들은 하루에 평균 스크린타임을 2시간씩 줄이고 있어요. 열품타와 같은 공부 타이머와도 함께 사용할 수 있어요! 다른 앱으로 공부 시간을 측정하고 잠글시간은 공부 잠금으로 활용해 보세요.\n\n■  자기 전에 잠글시간 쓰는 꿀팁\n자기 전에 핸드폰을 많이 보면 아침에 피곤해요. 자기전 예약 잠금을 통해 핸드폰 사용시간을 줄여보세요. \n예약잠금을 계속 사용하다 보면 어느순간 도파민 중독에서 벗어나 자연스럽게 핸드폰 사용시간이 줄어있을거에요. \n\n\n기능 소개\n1. 바로 잠금 - 바로 잠금을 시작할 수 있어요. 주로 공부를 시작할 때 많이 사용하는 기능이에요.\n2. 예약 잠금 - 잠금이 시작될 시간을 예약할 수 있어요. 주로 자기 전이나 반복되는 일",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/5b/ad/ba5bad95-9579-703c-6a1d-f9e916d8f417/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1476943033",
+    "country": "Brazil",
+    "name": "Fábula: Resumos de Audiolivros",
+    "seller": "BIR YUDUM KITAP YAYINCILIK ANONIM SIRKETI",
+    "genre": "Book",
+    "released": "2020-01-13",
+    "updated": "2026-03-31",
+    "ratings_local": 16874,
+    "avg_rating": 4.8,
+    "ratings_us": 7077,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HI",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "PL",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "ES",
+      "SV",
+      "TH",
+      "TR",
+      "UK",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 3
+    },
+    "matched_keywords": [
+      "resumo de livros",
+      "audiolivro",
+      "podcast",
+      "resumo de livros áudio"
+    ],
+    "url": "https://apps.apple.com/br/app/f%C3%A1bula-resumos-de-audiolivros/id1476943033",
+    "seller_url": null,
+    "description": "Leia e ouça os melhores resumos e contos incríveis com Fábula.\nO aplicativo de audiolivros Fábula, possui mais de 1.000.000 membros em todo o mundo, agora está disponível em português! São milhares de resumos de audiolivros e histórias extraordinárias para você de forma prática em apenas 15 minutos no seu celular. Onde e quando você quiser: leia ou ouça um livro sempre que desejar.\n\n---------------------------------------------------------------------------------\n\nLEIA E OUÇA OS MELHORES LIVROS EM 15 MINUTOS\n\n● História, desenvolvimento pessoal, psicologia, clássicos, pensamentos e filosofia. Excelentes resumos escritos por professores e editores profissionais.\n● Novos livros são adicionados",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/db/1b/53db1beb-ec04-eda3-1648-a981b148109c/AppIconWhite-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1500801429",
+    "country": "Brazil",
+    "name": "CNN Brasil",
+    "seller": "Novus Midia SA",
+    "genre": "News",
+    "released": "2020-03-15",
+    "updated": "2025-12-10",
+    "ratings_local": 16268,
+    "avg_rating": 4.8,
+    "ratings_us": 602,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "PT"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 1
+    },
+    "matched_keywords": [
+      "podcast"
+    ],
+    "url": "https://apps.apple.com/br/app/cnn-brasil/id1500801429",
+    "seller_url": "http://www.cnnbrasil.com.br",
+    "description": "Descubra uma nova forma de se manter informado com o novo aplicativo da CNN Brasil. Esteja sempre por dentro das notícias mais importantes do Brasil e do mundo, com uma experiência feita sob medida para você. \n \nBaixe agora e veja a diferença! Pense bem, pense CNN.\n \n6 razões para ter o app CNN Brasil no seu celular:\n \nPush Segmentado:\nReceba notificações customizadas com base nas suas preferências, garantindo que você esteja sempre por dentro do que realmente importa.\n \nModo Teatro:\nAssista aos programas ao vivo diretamente da tela inicial com mais praticidade e agilidade, tornando sua experiência ainda mais imersiva.\n \nCNN Vídeos:\nAcesse todos os programas, cortes e vídeos mais populares e",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/3d/46/963d469c-73c8-4a3e-0068-cd9f89ef2340/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "pl:563888611",
+    "country": "Poland",
+    "name": "Legimi - ebooks and audiobooks",
+    "seller": "Legimi S.A.",
+    "genre": "Book",
+    "released": "2012-11-13",
+    "updated": "2026-06-30",
+    "ratings_local": 16512,
+    "avg_rating": 4.54,
+    "ratings_us": 230,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "DE",
+      "PL"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 1
+    },
+    "matched_keywords": [
+      "audiobooki"
+    ],
+    "url": "https://apps.apple.com/pl/app/legimi-ebooks-and-audiobooks/id563888611",
+    "seller_url": "https://www.legimi.pl",
+    "description": "Download the Legimi app for free and get unlimited access to thousands of ebooks, audiobooks, and synchrobooks® with a subscription. \nRead and listen to the products during a free trial period. If you like it, you can use up to four devices (smartphone, tablet, computer, and e-reader) to read bestsellers, hot new arrivals, and anything else you choose. When you purchase a subscription for unlimited ebook and audiobook access, you will have your books available in both text and audio versions. With synchrobooks®, you can switch formats at any time, so you will never get distracted from your reading. Legimi is a unique, mobile library available at your fingertips. \nThe Legimi virtual library i",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/54/d1/2f54d1e6-dcb6-f476-e254-4aaee47745ea/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg"
+  },
+  {
+    "key": "pl:348177651",
+    "country": "Poland",
+    "name": "Storytel - Audiobooks Library",
+    "seller": "Storytel Sweden AB",
+    "genre": "Book",
+    "released": "2015-06-02",
+    "updated": "2026-10-12",
+    "ratings_local": 45522,
+    "avg_rating": 4.78,
+    "ratings_us": 11185,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "BG",
+      "DA",
+      "NL",
+      "EN",
+      "ET",
+      "FI",
+      "DE",
+      "HE",
+      "IS",
+      "IT",
+      "KO",
+      "NB",
+      "PL",
+      "PT",
+      "ES",
+      "SV",
+      "TR"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 2
+    },
+    "matched_keywords": [
+      "audiobooki",
+      "podcast"
+    ],
+    "url": "https://apps.apple.com/pl/app/storytel-audiobooks-library/id348177651",
+    "seller_url": "https://www.storytel.com",
+    "description": "Welcome to a wide world of wonderful audiobooks, ebooks, and things that aren’t books but are still pretty great.\n\nStorytel is home to beloved stories, in-depth podcasts, and exclusive Storytel Originals.\n\nWhether you listen or read, you’ll find the right story for any moment.\n\n• Explore a massive library of stories in English and other languages\n• Jump freely from story to story until you find one you love\n• Build your bookshelf and get personalized recommendations\n• Find what fits your mood, like crime, feel-good, or self-development\n• Follow your favorite authors and series\n• Browse and share reviews and reactions\n• Try out that book your friend keeps talking about\n• Discover what’s trend",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/d0/cc/fbd0cc60-dc00-302d-a6ed-7f0e1a55aa4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "vn:6746062205",
+    "country": "Vietnam",
+    "name": "Om Mani – Global Buddhism",
+    "seller": "Nguyen Tien Duoc",
+    "genre": "Reference",
+    "released": "2025-05-29",
+    "updated": "2026-10-10",
+    "ratings_local": 14186,
+    "avg_rating": 4.93,
+    "ratings_us": 439,
+    "in_us": true,
+    "dev_apps": 7,
+    "languages": [
+      "AR",
+      "BN",
+      "MY",
+      "KM",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HI",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "LO",
+      "MS",
+      "MR",
+      "NE",
+      "PT",
+      "RU",
+      "ZH",
+      "SI",
+      "ES",
+      "SV",
+      "TH",
+      "ZH",
+      "TR",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1
+    },
+    "matched_keywords": [
+      "thiền"
+    ],
+    "url": "https://apps.apple.com/vn/app/om-mani-global-buddhism/id6746062205",
+    "seller_url": "https://ommani.web.app/",
+    "description": "In a restless world, everyone needs a quiet corner to come home to. Om Mani brings Buddhism together in one app — a Buddhist lunar calendar, sutra reading, chanting, a meditation timer and a mala counter. Completely free, with no ads.\n\nSCRIPTURE READING & LISTENING\n• A rich sutra library with English translations: Heart Sutra, Dhammapada, Amitabha Sutra, Ksitigarbha Sutra, Medicine Buddha Sutra, Great Compassion Mantra — across Theravada, Mahayana, Vajrayana and Pure Land.\n• Wooden fish while you read — tap by hand or play automatically at your own pace.\n• Auto-scroll and keep-screen-on to stay focused while reciting.\n• Adjustable text size, fonts and paper backgrounds; progress saved per ch",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ca/ca/7ecacaa4-5454-57e1-6c26-34839de796bf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ae:1042570113",
+    "country": "United Arab Emirates",
+    "name": "3asafeer School: Learn Arabic",
+    "seller": "Asafeer Education Technologies FZ LLC",
+    "genre": "Education",
+    "released": "2015-10-10",
+    "updated": "2026-10-10",
+    "ratings_local": 4413,
+    "avg_rating": 3.97,
+    "ratings_us": 643,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "تعلم بسرعة",
+      "كتب صوتية",
+      "قصص صوتية"
+    ],
+    "url": "https://apps.apple.com/ae/app/3asafeer-school-learn-arabic/id1042570113",
+    "seller_url": "https://3asafeer.com",
+    "description": "*Learn Arabic easily and joyfully!*\n3asafeer is the ultimate Arabic learning app for kids, offering a world of leveled Arabic stories, educational cartoons, songs, interactive exercises, and fun games — all designed to build a strong Arabic literacy foundation for native and non-native learners alike.\n\n*Key features include:*\n\n- A rich library of leveled Arabic reading books, gradually increasing in difficulty.\n\n- Educational cartoons and Arabic songs that make learning fun and engaging.\n\n- Interactive exercises, worksheets, and educational games aligned with learning objectives.\n\n- A guided learning journey for non-native students with placement assessments, learning maps, and structured le",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/8e/a0/008ea083-27a9-0dd6-a04b-a0279e027842/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1501665743",
+    "country": "Brazil",
+    "name": "Lera: Livros Story & Audiobook",
+    "seller": "CHANGDU (HK) TECHNOLOGY LIMITED",
+    "genre": "Book",
+    "released": "2020-05-02",
+    "updated": "2026-09-23",
+    "ratings_local": 55125,
+    "avg_rating": 4.33,
+    "ratings_us": 2111,
+    "in_us": true,
+    "dev_apps": 6,
+    "languages": [
+      "PT"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 1
+    },
+    "matched_keywords": [
+      "resumo de livros",
+      "audiolivro"
+    ],
+    "url": "https://apps.apple.com/br/app/lera-livros-story-audiobook/id1501665743",
+    "seller_url": "https://www.lera.mobi",
+    "description": "Sobre o Produto：\nTemos atenção exclusiva para romance on-line por mais de 10 anos. Oferecemos romances de ficção em estilo romântico, fanfiction, e um monte de livros na zona de leitura grátis. É um aplicativo que todos os amantes da leitura não podem perder!\n—— Guia: livros populares ——\n【Romances que estão bombando】\nO filme de suspense Meg : Tubarão Gigante (Inglês: The Meg) adaptado da versão de romance escrito pelo autor americano Steve Alten;\nAs novelas populares Neve Cinza (Inglês: Ash-like Frost) e A Legenda das Gêmeas Flores (Inglês: The Twin Flower Legend) foram adaptadas dos romances originais com os mesmos nomes；\nO autor da grande série on-line Crise da reparação do feitiço, ZhenXi",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/07/af/cf07af30-14b8-0c38-001c-8b96b52e85bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "mx:1476943033",
+    "country": "Mexico",
+    "name": "Fábula: Resúmenes de Libros",
+    "seller": "BIR YUDUM KITAP YAYINCILIK ANONIM SIRKETI",
+    "genre": "Book",
+    "released": "2020-01-13",
+    "updated": "2026-03-31",
+    "ratings_local": 13254,
+    "avg_rating": 4.75,
+    "ratings_us": 7077,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "FI",
+      "FR",
+      "DE",
+      "HI",
+      "HU",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "PL",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "ES",
+      "SV",
+      "TH",
+      "TR",
+      "UK",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 3
+    },
+    "matched_keywords": [
+      "resumen de libros",
+      "audiolibros",
+      "podcast",
+      "resúmenes de libros audio"
+    ],
+    "url": "https://apps.apple.com/mx/app/f%C3%A1bula-res%C3%BAmenes-de-libros/id1476943033",
+    "seller_url": null,
+    "description": "Lee y escucha los mejores resúmenes y sorprendentes relatos cortos con Fábula.\n\nLa aplicación de audiolibros Fábula, cuenta con más de 900 mil miembros en todo el mundo, ¡ahora en español! Los resúmenes en formato audiolibro y los extraordinarios cuentos que puedes leer y escuchar en tan sólo 15 minutos están en tu teléfono móvil. Donde y cuando quieras: lee o escucha siempre un libro.\n\nLEE Y ESCUCHA LOS MEJORES LIBROS EN 15 MINUTOS\n\n● Historia, desarrollo personal, psicología, clásicos, pensamiento y filosofía. Excelentes resúmenes escritos por profesores y editores profesionales.\n● Se añaden nuevos libros día a día.\n● Lee o escucha cientos de resúmenes de audiolibros e historias.\n● Desarro",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/db/1b/53db1beb-ec04-eda3-1648-a981b148109c/AppIconWhite-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "pl:1477213016",
+    "country": "Poland",
+    "name": "Pomelody Family Music & Fun",
+    "seller": "Pomelody sp. z o.o.",
+    "genre": "Music",
+    "released": "2019-09-14",
+    "updated": "2026-10-09",
+    "ratings_local": 1264,
+    "avg_rating": 4.75,
+    "ratings_us": 15,
+    "in_us": true,
+    "dev_apps": 4,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 1
+    },
+    "matched_keywords": [
+      "nauka",
+      "bajki na dobranoc"
+    ],
+    "url": "https://apps.apple.com/pl/app/pomelody-family-music-fun/id1477213016",
+    "seller_url": "http://pomelody.com",
+    "description": "Pomelody is a family-focused app designed to bring high-quality music and story materials to parents and children. It offers a delightful combination of entertainment and learning, helping you to enjoy enriching family moments and strengthen bonds while nurturing your child’s potential.\n\nPOLISH CONTENT FOR CHILDREN\n\nDid you know that the pomelody app features Polish songs, audio stories and animations for children? With a focus on age-appropriate material, parents can trust that their children are exploring the Polish language in a safe and educational environment. Whether it's singing along to catchy tunes or listening to well-known legends and rhymes, Pomelody makes parenting sound better!",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/49/56/ed4956eb-03ef-8f2b-d952-c4601203a78a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1282953238",
+    "country": "Brazil",
+    "name": "Zenklub - Se Conhecer Faz Bem",
+    "seller": "ZENKLUB - TECNOLOGIAS, LDA",
+    "genre": "Health & Fitness",
+    "released": "2017-10-18",
+    "updated": "2026-10-09",
+    "ratings_local": 12161,
+    "avg_rating": 4.79,
+    "ratings_us": 494,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1
+    },
+    "matched_keywords": [
+      "meditação"
+    ],
+    "url": "https://apps.apple.com/br/app/zenklub-se-conhecer-faz-bem/id1282953238",
+    "seller_url": "https://zenklub.com.br",
+    "description": "Testes, Dicas, Exercícios e Especialistas em saúde e bem-estar emocional.\n\nQuantas vezes você já se encontrou frente a um desafio emocional no seu dia a dia, precisava de ajuda mas não sabia onde procurar? O Zenklub é o lugar onde, a um clique de distância, você encontra novas formas de lidar com seus obstáculos, por meio de reflexões, técnicas ou, até mesmo, sessões com especialistas como psicólogos, terapeutas holísticos, psicanalistas e coaches.\n\nReceba conteúdo que te ajuda efetivamente a lidar melhor com assuntos como falta de propósito, relacionamentos, carreira e autoconhecimento. Faça testes para avaliar seu nível de ansiedade, depressão ou saber como anda a qualidade do seu sono. Ap",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/b7/23/39b723ff-187e-a29d-7336-048c81c439a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ph:336435697",
+    "country": "Philippines",
+    "name": "imo-International Calls & Chat",
+    "seller": "imo.im",
+    "genre": "Social Networking",
+    "released": "2009-12-05",
+    "updated": "2026-09-26",
+    "ratings_local": 3792,
+    "avg_rating": 4.49,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 6,
+    "languages": [
+      "AM",
+      "AR",
+      "BN",
+      "EN",
+      "FR",
+      "DE",
+      "GU",
+      "HI",
+      "ID",
+      "IT",
+      "JA",
+      "KN",
+      "MS",
+      "MR",
+      "NE",
+      "FA",
+      "PT",
+      "PA",
+      "RU",
+      "ZH",
+      "SI",
+      "ES",
+      "SV",
+      "TL",
+      "TG",
+      "TA",
+      "TE",
+      "TR",
+      "TK",
+      "UR",
+      "UZ"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 1
+    },
+    "matched_keywords": [
+      "audio learning"
+    ],
+    "url": "https://apps.apple.com/ph/app/imo-international-calls-chat/id336435697",
+    "seller_url": "https://imo.im",
+    "description": "imo is a FREE, simple, and secure international video call & instant messaging app.  It's used by over 200M people in more than 170 countries and regions, supporting 62 languages. imo brings innovative solutions for seamless communication capabilities and allowing people to share key moments with each other.\n\n■ Free & HD Video Calls\nOver 300 million times of video calls are made through imo every day. Make international calls to your friends & family for FREE. You can also create group chat with friends, free talk to them in one group. Experience crystal clear & HD quality instant video calls to friends and family all around the world. Avoid SMS and phone call charges, no fees or subscriptio",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/b9/30/72b930dc-3289-3355-d264-9d4fdbf195f6/imo-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "th:6482107201",
+    "country": "Thailand",
+    "name": "Wanlanid: Book Summary Insight",
+    "seller": "Suphasit Thongniam",
+    "genre": "Education",
+    "released": "2024-04-18",
+    "updated": "2026-08-27",
+    "ratings_local": 1215,
+    "avg_rating": 4.85,
+    "ratings_us": 6,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 1
+    },
+    "matched_keywords": [
+      "พัฒนาตัวเอง",
+      "สรุปหนังสือ"
+    ],
+    "url": "https://apps.apple.com/th/app/wanlanid-book-summary-insight/id6482107201",
+    "seller_url": null,
+    "description": "Wanlanid: Master Your Learning Journey\nUnlock a world of knowledge and insight with Wanlanid, your go-to app for powerful book summaries designed to inspire growth and learning. Each summary is crafted to help you gain key insights from leading books across various genres—available to read or listen in just 15 minutes. Transform your daily commute, workout, or any brief downtime into a productive learning session that fuels your personal and professional goals.\n\nFeatures:\n* Expansive Library: Dive into a vast collection of ebooks, each succinctly summarized to deliver the essence and core ideas of the original work. Whether you're looking to enjoy timeless classics, explore groundbreaking ne",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/61/43/3661438c-d735-518b-7eeb-f8f7e873571a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ua:1562328675",
+    "country": "Ukraine",
+    "name": "Офіційні тести з ПДР України",
+    "seller": "DP INFOTEKH",
+    "genre": "Education",
+    "released": "2021-10-27",
+    "updated": "2026-10-02",
+    "ratings_local": 11692,
+    "avg_rating": 4.77,
+    "ratings_us": 79,
+    "in_us": true,
+    "dev_apps": 7,
+    "languages": [
+      "EN",
+      "RU",
+      "UK"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1
+    },
+    "matched_keywords": [
+      "тести"
+    ],
+    "url": "https://apps.apple.com/ua/app/%D0%BE%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D1%96-%D1%82%D0%B5%D1%81%D1%82%D0%B8-%D0%B7-%D0%BF%D0%B4%D1%80-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/id1562328675",
+    "seller_url": "https://pdr.infotech.gov.ua/",
+    "description": "Нові офіційні тести ПДР України (оригінал) — це актуальна база офіційних тестів 2026 року з Правил дорожнього руху України, затверджених Головним сервісним центром МВС України.\nКористуйся додатком навіть коли немає доступу до інтернету! Складай іспит легко та без хабаря! Запитай у викладача ПРОМОКОД, щоб приєднатись до своєї групи в автошколі!\nВсі запитання в додатку співпадають на 100% з офіційною базою запитань до іспиту в сервісних центрах МВС України. Оновлення запитань відбувається щодня, як тільки вони оновились в державній базі МВС (НАІС).\nЗ нашим додатком Нові Офіційні тести ви отримуєте доступ до тестів ПДР 2026, теоретичного матеріалу, включаючи відеолекції та пояснення від експерт",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/27/ba/c827baff-83b5-467f-0ec5-fb612a945274/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  }
+]

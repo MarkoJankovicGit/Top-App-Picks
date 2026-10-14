@@ -1,0 +1,70 @@
+{
+  "app": "Calimax: Calisthenics Coach",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-27T16:44:13-07:00",
+      "rating": 5,
+      "title": "work out🔥",
+      "text": "So good",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2026-09-19T15:05:19-07:00",
+      "rating": 1,
+      "title": "Have to pay",
+      "text": "I feel like you shouldn’t have to pay to do calisthenics",
+      "version": "2.7.0"
+    },
+    {
+      "date": "2026-08-26T19:10:16-07:00",
+      "rating": 1,
+      "title": "not free",
+      "text": "did not want to pay",
+      "version": "2.5.2"
+    },
+    {
+      "date": "2026-07-16T17:52:23-07:00",
+      "rating": 1,
+      "title": "Money",
+      "text": "Why make it cost money, why be so greedy to children trying to get in shape?",
+      "version": "2.5.1"
+    },
+    {
+      "date": "2026-06-19T19:45:43-07:00",
+      "rating": 5,
+      "title": "This helped me",
+      "text": "This is good if you are a beginner looking to lose weight,gain muscle, and just do a thing in general",
+      "version": "2.4.1"
+    },
+    {
+      "date": "2026-06-12T06:50:33-07:00",
+      "rating": 5,
+      "title": "workout",
+      "text": "got my strength up really good",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-05-31T23:52:22-07:00",
+      "rating": 1,
+      "title": "Free trial",
+      "text": "Didn’t even work I clicked free trial and it charged right away",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-05-30T13:04:09-07:00",
+      "rating": 5,
+      "title": "i hope no subscription",
+      "text": "its gonna be good if its free",
+      "version": "2.4.0"
+    },
+    {
+      "date": "2026-05-20T18:43:42-07:00",
+      "rating": 1,
+      "title": "Made me pay",
+      "text": "Made me pay without telling me when the free trail is ending",
+      "version": "2.3.0"
+    }
+  ]
+}

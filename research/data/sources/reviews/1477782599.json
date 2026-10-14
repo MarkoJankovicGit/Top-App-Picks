@@ -1,0 +1,1407 @@
+{
+  "app": "Hume Health",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T08:04:50-07:00",
+      "rating": 3,
+      "title": "Sleep data doesn’t update",
+      "text": "I like the device but more often than that the app doesn’t display your current sleep data. It will continually show repeated days over and over a repeated amount of data. No way I’m sleeping exactly the same hours and minutes. \nOften have to repeat to close the app or refresh to get it to update",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T07:45:00-07:00",
+      "rating": 5,
+      "title": "Invaluable Piece of Equipment",
+      "text": "If you are serious about your health and wellbeing, then the Humehealth Pod is the perfect tool. If you use any GLP-1 medication, then this pod is an invaluable. It tracks muscle to fat ratio perfectly.  Love this product!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T06:07:36-07:00",
+      "rating": 1,
+      "title": "Wildly Inconsistent & Inaccurate",
+      "text": "I’ve had this for over two years and use it consistently every day and the numbers are wildly inconsistent  and inaccurate. The thing it does well is actually weight. All the other measures are way off. I went to a doctor to get a real scan and it was nowhere near Hume numbers. They claim 99% accuracy, but there’s no way that is true. It’s all marketing, highly recommend against spending the money for something like this..",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T06:03:55-07:00",
+      "rating": 5,
+      "title": "Still processing",
+      "text": "Easy to use. More data than I am able to process into information, as yet.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T06:03:11-07:00",
+      "rating": 5,
+      "title": "Motivational",
+      "text": "I was actually excited about getting on a scale",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T05:58:30-07:00",
+      "rating": 5,
+      "title": "Comfortable and accurate",
+      "text": "I love the compact design of the band and connectivity of the scale to the app. The band is fantastic at recording my stats for my sleep.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T05:26:45-07:00",
+      "rating": 5,
+      "title": "Stay aware",
+      "text": "Love the Fred back and break down of my daily routine.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-10T03:37:09-07:00",
+      "rating": 4,
+      "title": "Decent But reporting needs to be improved. Also data changes",
+      "text": "The scale is easy to use and is somewhat accurate compared to my dexa scan I received. Data can be off, when I step on the scale it shows one weight on the scale, a different weight in the app and then a different weight that is actually logged and transmitted to Apple Health. Why 3 different readings? \n\nReporting is really lacking and the aesthetics of the reporting is not that great compared to competitor scale such as Renpho. Also it does not transmit “muscle mass” to apple health even though competitors scales do and they actually have and log the data, they just don’t push it to Apple Health.\n\nOverall support is really slow and delayed at responding.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T17:54:47-07:00",
+      "rating": 2,
+      "title": "Update rearranged my metrics",
+      "text": "I have been faithfully using my Hume scale for over a year and a half.  the update two days ago moved 10 pounds of muscle into 10 pounds of fat overnight.  Disappointing.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T16:40:32-07:00",
+      "rating": 5,
+      "title": "Great scale",
+      "text": "Super happy now I know I’m fat and can do something about it",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T10:53:28-07:00",
+      "rating": 5,
+      "title": "Informational Scale",
+      "text": "It works as advertised. The scale of very insightful with all the data about your body.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T10:04:06-07:00",
+      "rating": 4,
+      "title": "Great info, Bluetooth sketchy",
+      "text": "This scale seemingly provides valuable information. It seems accurate and provides good insights. My wife and I both have problems with Bluetooth sporadically. It works for long periods, then neither of us can connect despite dozens of attempts so it sits unused for weeks, then we try again and it works. Very frustrating.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T09:11:01-07:00",
+      "rating": 5,
+      "title": "Hume",
+      "text": "It’s helping me live an everyday healthy life, at 50!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T09:10:38-07:00",
+      "rating": 5,
+      "title": "Hume Health my mentor in my weight loss",
+      "text": "Hume Health is an amazing tool to keep track of your loosing weight journey.  Not only your weight also your muscle mass, your visceral fat and many more features. My husband and I are very happy to have Hume Health in our lives,",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T08:50:06-07:00",
+      "rating": 5,
+      "title": "Incredible",
+      "text": "Absolutely couldn’t be happier with this scale. Love the app and everything!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T08:47:22-07:00",
+      "rating": 5,
+      "title": "Health & Activity",
+      "text": "I am learning more about how my body reacts to my workout regimen and sleep pattern which is very helpful inside to help me for recovery and consistency for my health.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T08:08:54-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "This app seems very good. I just started using it but so far I like it a lot. It shows a lot of data that lets me know what areas I need to target.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T06:09:28-07:00",
+      "rating": 1,
+      "title": "Very Disappointed!",
+      "text": "I ordered both the wrist band and the scale.  Both were pricey.  They came with zero instruction other than how to charge them and the watch band, I think included instructions for charging and pairing with Bluetooth.  \nThe app gives wordy, jargon filled “results that mean almost nothing to the average person and keeps saying “go to Hume Plus” for information…meaning now after spending almost $500 the scale is not syncing with Bluetooth AND I  have to KEEP SPENDING in order to get any benefit. I am mad at myself for getting suckered in. It is basically a waste of money. 😥",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T05:45:05-07:00",
+      "rating": 5,
+      "title": "Works well",
+      "text": "Love a modern and accurate scale….!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T04:13:49-07:00",
+      "rating": 1,
+      "title": "Customer Service",
+      "text": "Terrible service. Doesn’t track correctly. Just a bad purchase. Save your money.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T04:07:09-07:00",
+      "rating": 4,
+      "title": "Best out there",
+      "text": "This app is great for overall health tracking and pushing you toward your goals to achieve. Only drawback is that the numbers seem to fluctuate more than they should from day to day. It’s fairly consistent though and better than other similar metrics that I have used.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T04:04:03-07:00",
+      "rating": 5,
+      "title": "Very interesting",
+      "text": "So far so good. The band is great. Once I got used to it, don't even know it's on.  I also have an inbody at my gym, so I'm interested to compare the numbers over time. \nScale provides a number of very useful metrics. Absolutely recommend!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T03:27:05-07:00",
+      "rating": 4,
+      "title": "Getting Better",
+      "text": "I have been health and fitness focused for 54 years. Upon reading the first ad for Hume, I was intrigued. I purchased the original band. At the time, the hardware, the firmware, the software, had some challenges. They worked diligently with me to improve.\n\nUpon receipt of my 2.0 band, some things were strikingly better. There is still visible room for improvement. Biological ages on different screens do not match. The rate of walking or running per mile is still not even close. Heart rate while exercising is inconsistent, but improving. The most glaring essential improvement is to get the band either with its own GPS or linking to an Apple GPS. I look forward to the next three months of improvements. \n\nThough not perfect, I have found no plan or device superior. I intend to consistently feedback to Hume until the system is correct.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T02:58:12-07:00",
+      "rating": 5,
+      "title": "169th weigh in",
+      "text": "I’ve been on the Hume train since February with the original Band 1.0 and got a Hume Pod in April. I’ve been watching the Hume Health environment grow and evolve. It’s had ups and downs as any breaking tech/new thing will. I’ve seen highs and lows, broken algorithms but I’ve also seen innovation and forward progress. For anyone new to Hume, it’s not perfect and it’s an ever evolving ecosystem. Overall it’s been a positive experience and I hope the development team continues to improve and grow the product. The hardware is top notch and the software and server side is continually being updated and improving.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T02:56:47-07:00",
+      "rating": 5,
+      "title": "Working on me",
+      "text": "Easy to use and very helpful information. I love Hume band and pod!!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T02:25:53-07:00",
+      "rating": 4,
+      "title": "Product Issue",
+      "text": "Love your app.  I cant get a response to a question so I am putting it here: is a standard (green) measurement better than a high one (blue)?   Confusing as if high is BETTER on some measurements.  Makes me think that all the blue color coded categories are the better ones.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-09T02:19:41-07:00",
+      "rating": 5,
+      "title": "Mr",
+      "text": "Love this Hume",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T19:24:30-07:00",
+      "rating": 5,
+      "title": "Comprehensive and insightful",
+      "text": "Love this app and the technology!  Way to go Hume!!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T17:49:42-07:00",
+      "rating": 5,
+      "title": "Wow",
+      "text": "The App, Band, Pod combo is way more comprehensive than I anticipated. I am looking forward to seeing the progress I will make with this system. I will adjust my rating once I have had the system running for a decent period of time.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T11:26:37-07:00",
+      "rating": 4,
+      "title": "Great system, Learning Headache",
+      "text": "The system and its devices are a great way to try to help get people in good physical health. However, there is a lot to learn and can be a headache understanding.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T10:08:29-07:00",
+      "rating": 4,
+      "title": "Great at home device",
+      "text": "I enjoy the Hume band and pod to track my bone, muscle and fat percentages, as well as my steps. The biggest downer for me is that I can’t add more steps if I leave my band off and the band is the ugliest thing around and doesn’t last long. For this much money they should have band options that don’t look like a nasty wrist band left over from a rave.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T09:18:49-07:00",
+      "rating": 2,
+      "title": "Small print",
+      "text": "I have found the front size too small. to read on the app. There are no zoom in ability for this app. I can’t read the words, even with readers.  There are so many numbers and terms, terminology I can’t read because of the font size. I have decided to send it all back as unusable for me.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T08:22:56-07:00",
+      "rating": 5,
+      "title": "Starting my journey",
+      "text": "Hume band and Hume weight scale pod work perfectly in tandem to keep my health at the top of mind and in focus! Helping Develope a consistent history to accomplish forward goals of a healthy lifestyle….",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T07:15:51-07:00",
+      "rating": 1,
+      "title": "Misled Promises not kept",
+      "text": "Ads say no extra fees. All inclusive cost. Not True. From minute one they push upgrade for the details and insight. BP is just a range. No idea what blood pressure is from this band. Never high in my whole half century of life. Every range reported is “high”.  Sometimes no sleep data. Not sure if anything is accurate. Will be returning.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T06:54:04-07:00",
+      "rating": 4,
+      "title": "1st week review",
+      "text": "Everything is working well except for my Sleep score never changes. Other than that I am happy with the products so far",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T05:50:46-07:00",
+      "rating": 1,
+      "title": "Struggles to connect to phone, data isn’t as accurate as claims",
+      "text": "When we first received the Hume 2.0 the tracking and data seemed great, it updated quickly. With the beta updates the data went stale and doesn’t track like it did before. Fully charged it struggles to connect to the phone to update most if not all the times it takes 3-5 connecting attempts before uploads data which also kills the battery rapidly.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T05:26:35-07:00",
+      "rating": 5,
+      "title": "Love this",
+      "text": "I’m enjoying using my Hume 2.0. I will say you do need to lightly dampen feet and hands for it to generate data. \n\nI’ll see how this is over time.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T05:15:10-07:00",
+      "rating": 5,
+      "title": "Health",
+      "text": "Love it",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T03:53:56-07:00",
+      "rating": 5,
+      "title": "New to Hume",
+      "text": "Enjoying all the information",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-08T03:00:40-07:00",
+      "rating": 5,
+      "title": "Nothing short of amazing",
+      "text": "I have the band and the scale and I am amazed at all of the information they provide. I am 70 years old and the insights of cardiovascular health are spot on. I love the body composition information. I can see it change from cardio and weight workouts. I would highly recommend both for a full picture of health trends.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T22:38:44-07:00",
+      "rating": 5,
+      "title": "Getting started",
+      "text": "I had a little problem getting the pod to sync with my Bluetooth.. but I think I’ve got it figured out .. shows two weigh ins but I consider tomorrow as my beginning",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T21:53:06-07:00",
+      "rating": 5,
+      "title": "GAME CHANGER",
+      "text": "I can’t believe how easy it was to set up and then I’m shocked at everything it does. It’s so easy to understand and comprehend, I would recommend this to anyone who is on the fence and trying to decide if it’s worth it and the answer is heck yes so pull the trigger and purchase it for yourself. You won’t regret it but say it’s not for you and I can’t find (1) reason why it’s not for me but if it’s not for you, then they will refund every penny so you can’t beat that with a stick. JUST DO IT NOW!!!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T21:14:43-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "Honestly really like this scale along with apple it tracks all my numbers",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T19:04:11-07:00",
+      "rating": 5,
+      "title": "Fascinante",
+      "text": "Trabajo esta tecnología en mi Wellness Center y ayuda grandemente a la consulta del sistema metabólico",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T16:35:40-07:00",
+      "rating": 5,
+      "title": "Great health",
+      "text": "A great way to staying healthy",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T16:11:13-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Amazing product glad I made this purchase",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T15:18:29-07:00",
+      "rating": 2,
+      "title": "Scale stopped tracking my activity & sleep",
+      "text": "Very frustrated, as we have the premium subscription, all was fine for the most part. I weigh in everyday & it syncs, until Monday mornings report & score. BAM! No activity or sleep data available! Please fix this",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T12:49:26-07:00",
+      "rating": 4,
+      "title": "Just Started",
+      "text": "Off to a great start. Trying to figure out how to get my Garmin data and the Hume data combined and think Apple health will do that, but it’d be nice if Hume let you use your Garmin, which does everything body bracelet or whatever it is does. Just need to figure out how to use my Garmin watch cause I’m not gonna spend more money and wear two watches.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T11:43:58-07:00",
+      "rating": 5,
+      "title": "Newly",
+      "text": "I’m very excited to start this journey. I find this scale very interesting.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T09:51:53-07:00",
+      "rating": 4,
+      "title": "The Good and the bad",
+      "text": "The BP is not accurate. I have a medical condition that gives me very low BP and the band constantly says it is slightly high. I am ignoring that. Battery charge is very good, about to weeks and charges fast. It records my sleep most of the time correctly. But sometimes it thinks I am sleeping and I am not. It says I am fat. Shows it as being in my elbows. LOL my elbows are not fat but I do have  feminine breasts. So I guess that’s what it is recording. I have improved in my health rating and have learned some valuable info about my health using it. Particularly interesting is the temperature monitoring. I wish they would give more exercise types like apple does.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T09:36:26-07:00",
+      "rating": 5,
+      "title": "Great Additions + Great improvements!!",
+      "text": "Amazing!! Ok. So I wrote a review and simply bashed this Hume Band a year ago. Idk if anyone saw it or maybe I wasn’t the only one to bash it, but the bounce back of improvement from this company is SECOND TO NONE! The improvements made with the battery and detailed other health features including the Nutrition, Blood Pressure and now Sleep details!! Absolutely mind blowing and running circles around Whoop! Love the improvements and please keep them coming! Great product that I’ve already recommended to several people with the new updates. Salute!",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T09:21:14-07:00",
+      "rating": 5,
+      "title": "Day 1 10-7",
+      "text": "First day and I’m impressed with the system. It’s a bit more complicated but tracks in more detail. I have the scale and glad for easy tracking over time. First impression is a 10/10.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T09:17:38-07:00",
+      "rating": 4,
+      "title": "On the fence",
+      "text": "Only been one week on my diet. Not sure how much I agree with everything other than the weight change. Muscle and fat loss that it’s posting to me is questionable.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T09:05:06-07:00",
+      "rating": 4,
+      "title": "Love my HH!",
+      "text": "I love my scale & band! When my first band stopped charging, they just sent me a newer version of the band!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T07:36:28-07:00",
+      "rating": 2,
+      "title": "False Advertising",
+      "text": "They will market their product as not needing to pay a subscription to see your health data but will put the majority of the functionality and insight behind a monthly subscription paywall.",
+      "version": "9.28.0"
+    },
+    {
+      "date": "2026-10-07T06:40:03-07:00",
+      "rating": 5,
+      "title": "Great product",
+      "text": "Loving the results and at a good price",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T05:43:49-07:00",
+      "rating": 3,
+      "title": "Longtime User. Good concept but needs improvement.",
+      "text": "I’ve used the Hume Pod consistently for over a year and a half, so my review is based on long-term experience rather than just a few weigh-ins. There are things I really like about the scale. I appreciate the amount of information it provides, and the app presents body-composition data in an easy-to-understand way. However, for the price of the scale plus the yearly subscription, I expected a more consistent experience.\n\nMy biggest concern is the amount of day-to-day fluctuation in the body-composition measurements. I understand that hydration, exercise, food intake and other factors can affect BIA readings, but when a product is marketed with very high accuracy claims and comparisons to DEXA, I think consumers naturally expect a high level of consistency from the measurements.\n\nTravel has also been frustrating. There is currently no vacation or travel mode, and I have experienced disruptions in my data after being away. When I contacted customer service about this, they initially assumed I also owned a Hume Band and explained that the band could continue collecting data while I was traveling, although those measurements would not be as accurate as actually stepping on the Hume Pod. I do not own the band, which would be an additional purchase on top of the scale and subscription.\n\nI was eventually advised that after returning from a trip, I may need to step on the Pod several times for it to regulate again. That doesn’t really solve the issue I was asking about. I would much rather see Hume add a vacation/travel mode that recognizes a planned break in measurements and allows users to resume normally when they return.\n\nCustomer service has been another disappointment. My response regarding the travel issue took long enough that I could potentially have already been away on my trip before receiving the information. In a previous communication, Hume even acknowledged that their customer service needed improvement, but unfortunately my own experience has not shown much improvement yet.\n\nI like the concept of the Hume Pod and think it has a lot of potential, which is why I’ve continued using it for more than 18 months. But at this price point, especially with an ongoing yearly fee, I think customers should receive more consistent performance, better travel functionality and more responsive customer support.\n\nFor now, I feel three stars fairly reflects my experience. I would be happy to update my review if these areas improve.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T04:03:27-07:00",
+      "rating": 1,
+      "title": "They take away features over time",
+      "text": "Very disappointing. You buy the hardware, then they take the useful data away.\nI bought the Hume Health band because the pitch was simple: pay once for the equipment and see your own health data, including sleep detail, without a monthly fee. That is not how it works in practice.\nAfter I was told to update the app, the detailed sleep breakdown I had been using was gone. Stages, timing, and the night-by-night detail that made the band worth wearing overnight were locked behind a paywall. The hardware did not change. The sensors did not change. An update changed what I was allowed to see from a device I already paid for.\nSleep tracking was the main reason I bought it. A score with the useful detail stripped out is not the same product. Pushing an update that moves core data behind a subscription feels like a bait and switch. If detailed sleep was always going to be a paid feature, that should have been clear before purchase, not after the update prompt.\nThe band itself is comfortable enough to sleep in, and the idea of a screenless tracker is fine. The business model is the problem. I already bought the equipment. I should not have to subscribe to keep seeing the sleep data that device collected.\nWould not recommend unless you are willing to pay monthly for features that used to be included.\nShorter version if a review box has a character limit:\nBought the band, was told to update, then lost the detailed sleep data behind a paywall. The hardware did not change. An app update did. Sleep detail was the reason I bought it. Paying once for the device and then being charged again to see your own sleep stages is very disappointing. Do not buy if you expect the data you paid for to stay available.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T03:41:58-07:00",
+      "rating": 4,
+      "title": "Interesting features",
+      "text": "I like the variety of features but I don’t understand the importance of some of the metrics. Additionally, the blood pressure checker has some high rates sometimes that don’t seem accurate.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T03:23:38-07:00",
+      "rating": 5,
+      "title": "Hume goals in 2027",
+      "text": "Enjoying Hume thus far! Will be incorporating my meals to give a better insight and to keep everything on one platform.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-07T00:51:41-07:00",
+      "rating": 5,
+      "title": "Getting the job done!",
+      "text": "Love it",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T18:41:07-07:00",
+      "rating": 5,
+      "title": "Excellent Device",
+      "text": "An excellent device that measures health.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T18:36:56-07:00",
+      "rating": 5,
+      "title": "Best app for fitness",
+      "text": "Point-If you’re trying to be healthy or just want to start and be healthy this is for you. I started and realized there are things to change.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T18:09:56-07:00",
+      "rating": 3,
+      "title": "Stopped analyzing data support was less than effective",
+      "text": "Initially it seemed to work ok. The battery life remained good. It stopped being able to analyze my sleep as a category stating there was not enough data despite no change in wear frequency and the fact it showed data from each individual night. It’s unclear what about that data prevented the weekly analysis. \nWhen I contacted support about the issue they informed me there was an update available so download the update and contact them if it kept happening. This seemed reasonable. Several weeks went by and the same issue continued unchanged. So I did as instructed and informed them it still was happening and was told the next update was available and to download it and get back to them…. I have… there remains no change. I messaged asking if their intention was to just tell me to download new updates that resolve nothing and I did not hear back. The issue persists.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T17:11:05-07:00",
+      "rating": 3,
+      "title": "Hume band 2.0 needs work",
+      "text": "I have been wearing the new hume band2.0 for a little over 40 days and comparing it to my Apple Watch. The walking and weightlifting is off buy a lot hence why it is still in beta. The calorie intake take is also off significantly with work outs. Sleep feature is very good.feedback Hume provides is also helpful.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T16:45:16-07:00",
+      "rating": 4,
+      "title": "So far haven’t seen any data that’s extraordinary.",
+      "text": "Decent but need more time and for a subscription should have more features",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T15:11:06-07:00",
+      "rating": 1,
+      "title": "Awful experience",
+      "text": "Sent the band back as it was a huge downgrade from the whoop band.  The experience I’m having trying to get my refund is shocking.   10 emails and all I get back is  a generic email saying they’re aware that their customer service is bad.  So now I have no Hume band and no human contact to get my money back",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T13:11:36-07:00",
+      "rating": 5,
+      "title": "Tracks hydration",
+      "text": "I’ve had no way to track my hydration levels till now. I have kidney disease and it’s really important to check my levels. Thanks Hume!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T13:07:44-07:00",
+      "rating": 4,
+      "title": "Accuracy?",
+      "text": "The HUME BODY SCALE requires no set- up other than downloading the app onto your phone. From there you can access directions etc., and how to use the scale. \n\nIt doesn’t have to be recalibrated—in fact there is no option to do so — unlike  another scale I have that doesn’t similar measurements including muscle:fat percentages and ratios. That makes me wonder about the accuracy of HUME, perhaps the scale automatically recalibrates itself each time so the user doesn’t have to ( I move it around so it’s never in one location, which is why I have to recalibrate the other scale). \n\nIt takes about 20-seconds or so to get weight and internal measurements before it completes the weigh-in. If you try and weigh yourself again immediately after a warning message pops up saying that it’s too early for your next weigh in (therefore it won’t accept it)  and to wait 24- hours. But you can override this message by deleting the previous weigh in first. \n\nI don’t subscribe to the in-depth analysis and the scale still provides you with fat versus muscles in lbs/kg or in percentages. It also gives you an internal age, based on these factors and compared to health data  from medical standards and other people in your gender, age, and height class.\n\nIt’s best to use this and any other like scale as a way to compliment your yearly health checkups with a doctor because there are plenty of issues that this scale cannot detect, so it’s limited as far as being the only thing you need as an indicator of your overall health.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T12:33:21-07:00",
+      "rating": 5,
+      "title": "Solid",
+      "text": "I’m a data driven person who doesn’t like to waste time. This app gives an abundance of data that’s all useful. I just switched from MyFitnesspal to the Hume nutrition. Over all it’s nice to have it all in one place, that being said I do think there’s room for improvement such as adding recipes. If I scan or type in multiple bulk ingredients for a meal prep. It’d be nice to be able to decide that evenly in the app. If there is a way to do this currently I apologize and I’ll fix the review. Still overall highly recommend for anyone who wants to see the data behind the gym and diet.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T10:36:58-07:00",
+      "rating": 5,
+      "title": "I think I finally got it to work right",
+      "text": "I am enjoying it now that it seems to be working right",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T09:19:00-07:00",
+      "rating": 5,
+      "title": "So Detailed!",
+      "text": "I love all the stats this scale gives. What a game changer in knowing what is going on with your body! A must have!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T07:59:41-07:00",
+      "rating": 5,
+      "title": "Best I’ve ever used",
+      "text": "Had a lot of scales, but the Hume is the best I’ve ever used.  I need to consistently measure my progress as I diet with the help of Zepbound.  More than I expected.  Gives me the important data to keep me on track.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T07:56:53-07:00",
+      "rating": 4,
+      "title": "Love the info",
+      "text": "Great over all. Difficult in connection.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T07:38:49-07:00",
+      "rating": 5,
+      "title": "Informative",
+      "text": "Just started giving me frustrating, it’s really hard, but since then that’s not an issue. The charts of like how exact they are but enjoying it",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T07:25:19-07:00",
+      "rating": 5,
+      "title": "Love My Hume!",
+      "text": "The best at home body scale ever! It’s like having a Dexa scan right at your fingertips. The details the Hume gives you can make a significant impact on your journey to better health. 10 out of 10 highly recommend.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T07:17:13-07:00",
+      "rating": 3,
+      "title": "Ability to log known nutrition information directly would make it perfect.",
+      "text": "I want to love this app, and would if it weren’t for the limitations in it’s food tracking.  The only options are take a photo and let Ai (poorly) guess what’s in it or scan a barcode for pre-packaged food.  I can (& do) do the math when I create a recipe, using the specific ingredients and weights I use, because accuracy is important.  I find the Ai generated counts to be wildly off, sometimes up to 50%.  That isn’t a slam on the technology because it’s hard to tell from a photo what goes into a recipe…even though I manipulate serving sizes to make the calorie count correct I know the macros are wrong so that makes the advice it gives for your nutrition incorrect because for a computer bad data = bad results.  PLEASE update the nutrition section to allow manual entry of nutrition information instead of just a picture or a barcode for those of us who like to make meals from scratch from whole foods instead of eating packaged stuff with a barcode!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T06:03:43-07:00",
+      "rating": 5,
+      "title": "Motivation tool",
+      "text": "We’re on a long-term weight loss journey. Tracking muscle mass and other details is super important. This scale is an accountability tool.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T05:48:10-07:00",
+      "rating": 5,
+      "title": "Getting started",
+      "text": "I have just weigh in so far and I like it so far. I like how it breaks things down, where a normal scale can make you think your not proving but you are. Looking forward to seeing what happens after 3 more weight ins.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T05:47:01-07:00",
+      "rating": 4,
+      "title": "7 weight ins",
+      "text": "We have compared it with a DEXA plus inbody scan,  and it’s about half way between the two. I don’t like the very short window you have to grab the handle before it times out and you have to start over. My wife gets super frustrated, and I just have learned to deal with it.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T05:01:29-07:00",
+      "rating": 5,
+      "title": "Great Alternative to In-Body",
+      "text": "I have used the scale for about 40 weeks. Seems to be as accurate as In-Body machine at the gym.  My wife is having trouble with it syncing to her phone though.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T04:50:04-07:00",
+      "rating": 5,
+      "title": "The hype is real",
+      "text": "So I’ve been seeing ads for this company for a while now targeted marketing that’s real too lol I’m all for it. But this is such a useful tool to maintain overall health and wellness. It’s one thing to have lifestyle and goal plans, but without something to measure your progress one way or the other, you can’t effectively do that.\nI think once the band they designed with the sensor that reads pulse oxygen and gives more Intel on the cardiac and respiratory system it’ll be interesting to explore further",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T04:31:21-07:00",
+      "rating": 4,
+      "title": "Lovie",
+      "text": "I do like the band and the pod They have helped keep me on track with my goals. The size of the band is fine. My only hang up is I have to recharge it often. I only take it off to shower and for charging. Sometimes I have issues with the scale but that may be the good lord telling me today is not a day for measurements. I would love to upgrade my band but I just can’t afford to. The weights closely match my doctors scales so that is nice too.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T04:16:05-07:00",
+      "rating": 5,
+      "title": "Excitement builds",
+      "text": "I can’t wait to weigh in every morning",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-06T03:57:32-07:00",
+      "rating": 5,
+      "title": "Staying in the Knowing",
+      "text": "Since using the Hume band human scale combination for both, I find it fascinating as well as enlightening to wake up in the morning and to see my sleep scores see my body rhythms to see a full body picture of what’s going on while I’m sleeping and then you’re awake and see is ready to start my day. Give me a positive approach to what is needed to do and how I stay and knowing where I am physically mentally as a whole. I have already recommended the Hume band and Hume scale to numerous friends, and I just can’t say enough about it. Being aware of your metallic age metabolic age is a plus and I look forward to my scores getting better and maintaining stamina, growth , strength all around.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T18:33:02-07:00",
+      "rating": 5,
+      "title": "State of the art scale!",
+      "text": "Love my new scale!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T17:06:43-07:00",
+      "rating": 5,
+      "title": "Watching my weight",
+      "text": "I just ordered the scale. I’ve only used it twice so far it The technology built into it is amazing. It keeps track of data points of losing weight.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T15:12:33-07:00",
+      "rating": 1,
+      "title": "Dara 001 scale stopped working with Hume App",
+      "text": "Can’t track my data anymore",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T14:20:59-07:00",
+      "rating": 4,
+      "title": "Set up",
+      "text": "Otis a lot of info!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T14:14:51-07:00",
+      "rating": 5,
+      "title": "Table Stakes",
+      "text": "Must have tool for optimizing health and body composition, especially as we age.  Highly recommend!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T13:16:51-07:00",
+      "rating": 4,
+      "title": "Worth it",
+      "text": "True insights, real day at. Worth the investment.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T12:26:08-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Fast response from customer support. In depth personal data at a reasonable cost. Definitely recommend.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T10:48:47-07:00",
+      "rating": 5,
+      "title": "I like it",
+      "text": "I like the Hume band! My only complaints are the battery and my sleep data is always off! Which effect my overall health number! I definitely prefer this over all other health bands or watches!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T10:21:50-07:00",
+      "rating": 5,
+      "title": "Totally Worth The Price",
+      "text": "These products are expensive but worth it all in the end. I have the Hume band and the Hume Scale with the Hume (Plus) app. I can hardly believe how much information I am getting, as well as the help with reaching my health and weight goals. I highly recommend these products.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T09:33:14-07:00",
+      "rating": 4,
+      "title": "Keeps Me Interested",
+      "text": "Provides info I never had before. More informed , and interesting. Don’t mind the band but wish you could camouflage it sometimes.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:56:18-07:00",
+      "rating": 5,
+      "title": "GruntX",
+      "text": "Just got it; love so far",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:44:34-07:00",
+      "rating": 5,
+      "title": "just starting",
+      "text": "Very excited to add this piece of equipment to my continued journey to improved health",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:43:59-07:00",
+      "rating": 5,
+      "title": "A very helpful tool",
+      "text": "I’ve had the Hume band and scale/BMI tracker for about a month now and it is an awesome tool! More accurate for weight training than my SUUNTO.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:36:36-07:00",
+      "rating": 4,
+      "title": "Overall positive",
+      "text": "My only issue with the scans is inaccurate hydration data. No scan has shown over 35% which is impossible for the amount of water I drink, the amount I go to the bathroom, color of my urine and the fact that I had a biomarker test that showed healthy kidney function, healthy urine output at the same time Hume is showing me as significantly dehydrated.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:28:32-07:00",
+      "rating": 5,
+      "title": "For now",
+      "text": "I like it for now even though my wife is the one checking lol",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T08:17:56-07:00",
+      "rating": 5,
+      "title": "Game changer",
+      "text": "This band and scale has made a big difference in my health.  It tracked my weight loss goal and provided key indicators such as visceral fat and body mass.  If you are over 50 this scale and app and band are a must have!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T07:06:23-07:00",
+      "rating": 5,
+      "title": "Great tool to support health goals",
+      "text": "Just the right mix of hard data and effective tools to help support and motivate you to achieve your health, fitness, and nutrition goals.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T06:45:18-07:00",
+      "rating": 5,
+      "title": "I love it",
+      "text": "There’s absolutely so much information it give you.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T05:52:06-07:00",
+      "rating": 4,
+      "title": "Just fine",
+      "text": "Good scale, good app. Having to have the app open WHILE you weigh in is obnoxious.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T05:46:10-07:00",
+      "rating": 5,
+      "title": "Good addition to monitoring health",
+      "text": "I’ve used the Hume band since January 2026 and have been happy with the way it monitors my overall health. I decided to add the Hume scale just two weeks ago and I’ve also enjoyed the information it provides.  The company is very helpful if there are any issues and they’re very good at responding quickly.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T05:14:46-07:00",
+      "rating": 5,
+      "title": "Working on it",
+      "text": "So far good",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T05:12:13-07:00",
+      "rating": 5,
+      "title": "So Easy and Detailed",
+      "text": "This scale and the app work great together. The app offers so much information and lets me know what stats are good and bad.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T04:26:32-07:00",
+      "rating": 5,
+      "title": "Seems to work",
+      "text": "Seems to work ok. Wish it was Wi-Fi enabled.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T03:43:30-07:00",
+      "rating": 1,
+      "title": "Most Expensive Step Counter",
+      "text": "That’s basically all it is and I wouldn’t even trust the accuracy of those numbers either.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T03:41:27-07:00",
+      "rating": 5,
+      "title": "Seeing is Believing",
+      "text": "Hope to use the metrics to become healthier",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-05T02:35:53-07:00",
+      "rating": 3,
+      "title": "Interesting data and clear explanations. Needs some improvements.",
+      "text": "The date recorded is interesting and potentially very helpful. I am frustrated however by the sleep data. It records me as sleeping when I’m awake, watching TV, which skews the data and the “Sleep Recommendation” which then also distorts the “Optimal weigh-in time.” You should add a manual trigger like SleepCycle and others use to correct this issue. I’ve reported this to Hume  along with screenshots.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T22:08:29-07:00",
+      "rating": 5,
+      "title": "Fantastic read",
+      "text": "Love seeing the progress or lack thereof from weighing in each day. The data points are telling and comprehensive. I’m a big fan!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T19:42:46-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Love the health, benefits, and tracking of the app learning more stuff every day on it has really changed my life being on my fitness journey I’m glad to have this app help me on my path",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T16:12:15-07:00",
+      "rating": 1,
+      "title": "Where to start?",
+      "text": "You think with the cost it would ship same day, it took 3 days to leave the facility.\nWhen it finally arrive it showed up in a janky box barely taped. Lucky it made it. The actual box looked great open it up everything was included. Used the QR code started to create an account. App is terrible. Create an account page keeps telling me it needs a special charter and a number in the new password there’s both. Figured I’d create the account online using chrome and log in. That worked for creating an account. App still doesn’t acknowledge the account. The online login is weird. Extremely basic and it doesn’t let you update any information. Very disappointing.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T14:02:06-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Life changing",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T12:00:21-07:00",
+      "rating": 5,
+      "title": "Love it for tracking trends!!",
+      "text": "Seeing my muscle mass trend down made me take new measures to make sure I maintain my muscle mass. After three months of using the scale weekly, my scale shows a minimal loss in muscle while losing a ton of fat. Results have been noticeable with everyone who sees me. I know it’s not a dexa but I’m glad to have the report! \n\nIt has also encouraged my mom to start walking 10k steps a day. She loves seeing her muscle mass go up! She does not work out at all and she’s in her 60s so it’s really giving her the push that she needs to take her health seriously.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T11:10:23-07:00",
+      "rating": 5,
+      "title": "Goals",
+      "text": "Love this app",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T10:31:51-07:00",
+      "rating": 4,
+      "title": "So far so good",
+      "text": "Quite a bit of variation at weigh ins. Interesting info tho",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T10:13:56-07:00",
+      "rating": 1,
+      "title": "Muscular strain",
+      "text": "The app only detects muscular strain if I activate it through the activity option on the app which is highly inconvenient. Either tie it into the fitness app and detect it that way or create an Apple Watch app so it can be activated there.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T10:07:15-07:00",
+      "rating": 5,
+      "title": "Excellent app and devices",
+      "text": "After losing 45 pounds, I am going to the gym and gaining weight. The Pod and app show lower fat percentage as I begin to bulk a little. This is way better than BMI which will always be HIGH for me.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T09:13:27-07:00",
+      "rating": 5,
+      "title": "Newbee",
+      "text": "Terrifying statistics.  Should motivate.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T08:49:44-07:00",
+      "rating": 5,
+      "title": "Interesting",
+      "text": "I participated in the West Point physical fitness study that led to the Army height, weight and fitness standards of the 1980s. This would have made it a whole lot easier.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T08:10:07-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Very accurate",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T07:52:17-07:00",
+      "rating": 5,
+      "title": "Impressed",
+      "text": "Just got the Hume Health scale and app. It is very comprehensive and customizable. You can decide on how much or little information you need/want. I am looking forward to using this on my health journey.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T06:30:44-07:00",
+      "rating": 3,
+      "title": "Great data but needs more standard features",
+      "text": "I like the data that I get, but without having the band, you are missing out on some other features which I wish were more standard",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T05:52:26-07:00",
+      "rating": 4,
+      "title": "One year",
+      "text": "A very good Health tracker in a lot of ways. Biggest issue is the wrist band, however, the new generation should be better. Assumes everyone should sleep 8 hrs a night. A very small percentage of us only sleep 6-7 or less and are very healthy. It also needs to look at age and the metrics associated with the aging process. Overall I give Hume a B+",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T05:43:01-07:00",
+      "rating": 5,
+      "title": "Awesome!",
+      "text": "It really helps tracking the trends in my data over time and the reports are super helpful.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T05:14:02-07:00",
+      "rating": 2,
+      "title": "Inconsistent data",
+      "text": "The data between the different sections of the app do not track together. For example the sleep and activity data do not go to the health report. Despite daily use, the health report section says not enough data and recommends consistent use. The company keeps promising the issue will be fixed with updates but after each one so far the issue still has not been fixed. Sometimes the band looses connectivity at night and my step count with the band compared to the Apple Watch is very different most days. Apple Watch showing a lot more steps. I don’t expect them to be the exact same daily but figured the data would be closer. With the band losing connectivity at night makes me think it does the same thing during the day. The band is tight so I know it’s not moving around losing connection with my wrist. I like the warranty part offered. When I first got my band it didn’t track steps at all but the company did replace it. Customer service has been good as well. I just wished I could believe the data it is giving.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-04T05:01:58-07:00",
+      "rating": 5,
+      "title": "Very Intuitive Devices",
+      "text": "I started using the Band 2.0 and the Pod six days ago. Both are very easy to set up, and use. The Health app ($99 annual subscription fee) is worthwhile extra expense.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T19:59:24-07:00",
+      "rating": 5,
+      "title": "Change comes from change",
+      "text": "The more you know about what’s happening inside will convince your external choices!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T19:18:46-07:00",
+      "rating": 4,
+      "title": "Keep it going….",
+      "text": "I decreased my metabolic age by a decade and a half in nine months as well as losing weight. This system helps focus, still lots to go but just getting started. I recommend this system.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T16:00:32-07:00",
+      "rating": 1,
+      "title": "Don’t waste your time",
+      "text": "Metrics are great when it works -WHEN IT WORKS, it constantly disconnects and doesn’t gather data having to pair and unpair several times as week. Customer service does nothing except ask if you are in the current firmware. Its basically a bracelet now",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T14:20:26-07:00",
+      "rating": 1,
+      "title": "Scam company",
+      "text": "Bought original scale and it worked for a year and a half now they updated and want a monthly fee. Was debating the new one until this happened. Won’t fall for it twice",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T12:29:16-07:00",
+      "rating": 2,
+      "title": "Over priced - under delivered",
+      "text": "For the cost of the premium subscription, this should work as well as Apple fitness and MyFitnessPal pal. It’s lacking many options that lower cost apps offer. My suggestions to make it worth the cost would be to fix the following deficiencies:\nNutrition tab: - \n[ ] Lacks many barcodes\n[ ] Can’t add recipes (screenshots)\n[ ] Doesn’t show macro goals\n[ ] Doesn’t show full nutrition (fiber, fat breakdown, vitamins, etc)\n[ ] Needs a timer for intermittent fasting \n[ ] Allow preplanning of meals with times in the future. \n[ ] Allow adding multiple items from the recent meals search\n\nActivity tab:\n[ ] Should show heart zone minute goals (including accumulated zones 4 & 5) in activity mode or allow switching between activity tab and home tab. \n[ ] More options needed for activity mode (boxing, dancing, etc)",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T12:25:23-07:00",
+      "rating": 5,
+      "title": "LOVE IT!",
+      "text": "Worth every penny… period!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T10:52:29-07:00",
+      "rating": 5,
+      "title": "Great Technology!",
+      "text": "Worth while investment",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T10:33:41-07:00",
+      "rating": 3,
+      "title": "Great Hardware app and support needs work",
+      "text": "I have both the Humeband 2.0 and the Homepod 1.0. I've been using it since September 1st. Every night my sleep has been tracked, yet on my health reports there's no sleep. It says there's been no data collected, which is crazy.\n\nThe same thing was happening with my body composition as well. I was getting data every day on one part of the app, but nothing was being propagated into the the weekly health report, until recently.\n\nI reached out to customer service several times, with an initial response asking for screenshots and information on the model of iPhone I was using, which iOS version, etc. And radio silence after that. Reached out several more times, more radio silence.\n\nNot sure why my data, which is showing as being collected in one part of the app, is not propagating into the reports. And no one's been able to give me an answer or even respond. This has influenced my decision to not subscribe to this app and just use the free version.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T10:03:08-07:00",
+      "rating": 5,
+      "title": "Better than Apple Watch!",
+      "text": "I wanted something that would be completely dedicated to monitoring my health and my health goals, nothing that I could use to text or make phone calls with.  The Hume Band and Pod does exactly what I want to do! Thank you!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T09:49:04-07:00",
+      "rating": 5,
+      "title": "Hopeful",
+      "text": "Just received my Hume pod, goals set, will monitor and update. I believe this is the best informative piece of electronics, it’s like having your own medical scanner.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T08:25:55-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "Easy to set everything up, app is easy to navigate, excited to see what happens",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T07:58:21-07:00",
+      "rating": 5,
+      "title": "Me vs Me",
+      "text": "One of the things I appreciate about the Hume scale and app is how it's always me versus me. I really do not need to know how accurate it is compared to another health scale or a DEXA scan or whatever. All I need for it to be is accurate to itself over time so that I can use it as a tool to see how my efforts are paying off. In that way it works extremely well and I'm very happy with it. After almost a year of use I have no complaints",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T07:49:07-07:00",
+      "rating": 5,
+      "title": "farmstrong",
+      "text": "wowzer.  short and always morbidly obese when stepping on dr scale but this is a game changer.   can’t wait to haul this info in to the dr office.  talk about measuring up!!! at 55 I have a 41 year old metabolic age and all the overweight comments from dr office should stop when they see the bmi info split into body fat very low vs muscle mass very high.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T07:44:14-07:00",
+      "rating": 4,
+      "title": "More Useful than Typical Scale",
+      "text": "I enjoy using this scale. It’s much more useful than a typical scale you’d find at home and in a hospital. \n     I have hypothyroidism and PCOS. As a result, weighing myself every day can be daunting. I weigh myself once a week. You might want to adjust the goal number of times a person weighs themselves based on hormonal conditions.\n      Finally, my scale stops working when the battery is dead. Is there a way to have the app notify me when the scale needs to be charged?",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T05:42:32-07:00",
+      "rating": 4,
+      "title": "Pat",
+      "text": "Work is good however I still cannot open other exercise like biking or swimming",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T05:25:03-07:00",
+      "rating": 5,
+      "title": "Derek Brensinger",
+      "text": "Love Hume Health tracker and scale!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T03:31:25-07:00",
+      "rating": 2,
+      "title": "Bad customer support",
+      "text": "I’ve had Hume since Christmas. Everything was going fine up until about two or three weeks ago. The app would show connected but it would read my weight or perform the BIA function. I would typically need to step on and off and close and reopen the app like 10 times before it would work properly. This morning 10/3/26 it just would not work. I tried for 10 minutes. So I wrote Hume customer support and they replied back saying before they answer my question they need my order number the email associated with the order and the full name under which the order was placed. I don’t see what any of this has to do with my issue. As I said I got it for Christmas so can I get the information? Sure. But I don’t feel this was an appropriate response. Just provide help. So I emailed them back informing them if they don’t want to help that’s fine and I would be writing this review. \n\nSide note… I will definitely not be buying their wrist band. Thank you for exposing yourself.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-03T01:39:28-07:00",
+      "rating": 5,
+      "title": "Very convenient",
+      "text": "This is a great scale to do what I called trend analysis tracking. I'm not sure. I'm as late as it says I am, but the numbers are going in the same direction as I lose a little bit more weight so in that matter, it's accurate.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T18:48:03-07:00",
+      "rating": 3,
+      "title": "Band 2.0 not tracking heart rate and no Health Report",
+      "text": "I was very pleased to get the Band 2.0 and hoped any previous issues were behind me. I was wrong. The band is not gathering heart rate and the Health Report says there is no data from my band or pod. Very disappointed in Hume right now",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T17:58:45-07:00",
+      "rating": 4,
+      "title": "Hume Pod",
+      "text": "I like the app. I like the band. I like the data. I would say the customer support is slow, and it would be better if there was someone to speak with either on the phone or a live chat. My understanding is that it has improved from where it used to be so hopefully it gets better in the future. The other negative I have had is with the Hume Pod. It does not always scan properly. I’ve only been using this product for 4 days and there were 2 of those days the Pod would not stop throwing errors no matter what I did so I just skip the weigh ins for those days.  Hopefully that improves with time as well but we will see.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T17:14:04-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "I have the band but stopped wearing it because so much of the data points are useless data points that I can’t really do anything about. Also, I would love to be able to attach the band monitor to my watch band. \n\nThe scale is more helpful but telling me it’s too early to weigh again is ridiculous.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T15:58:28-07:00",
+      "rating": 1,
+      "title": "Glitch",
+      "text": "App glitches often. Keeps deleting my journey goals and difficult time syncing to band. Also the band metrics are difficult to understand cause it gives general data not average data for day.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T07:36:27-07:00",
+      "rating": 4,
+      "title": "Awesome set up!",
+      "text": "The band & the pod are great. I’m learning all sorts of new things. Only downside (not a big one), I wish it would’ve been easier to set up the pod.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T07:33:55-07:00",
+      "rating": 5,
+      "title": "Best scale available",
+      "text": "You cant manage what you dont measure.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T07:33:53-07:00",
+      "rating": 3,
+      "title": "Baffling flaws",
+      "text": "I wrote a long and specific review on the previous page (the one with the yellow stars), and now it seems to have disappeared. I’m not writing it all over again. The flaws I mentioned there should have been noticed and fixed before the product was released.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T07:20:47-07:00",
+      "rating": 5,
+      "title": "More Than A Scale",
+      "text": "This product is amazing. It is more than just a scale and is very eye-opening with regard to your overall health. The content is exceptional for tips on how to improve your health. I love it.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T06:38:36-07:00",
+      "rating": 5,
+      "title": "Weigh-ins",
+      "text": "Like it",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T04:28:02-07:00",
+      "rating": 5,
+      "title": "Pretty Good!",
+      "text": "I’ve had a Dexa, and get regular InBody scans. This is pretty close to the Dexa scan. And I like their nutrition tracker as well!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T04:26:50-07:00",
+      "rating": 5,
+      "title": "Fantastic",
+      "text": "This is the real deal.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T04:26:44-07:00",
+      "rating": 5,
+      "title": "Love this system",
+      "text": "I love how the band and pod sync up with each other. This system gives me more insight than my previous scale did and gives me hints of how to improve areas that I need to work on.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T04:17:08-07:00",
+      "rating": 3,
+      "title": "Just give me the facts",
+      "text": "I would prefer that the scale present the actual numbers in a less judgmental way— everyone has their own starting point and goals. Many people using this scale are likely to have a long way to go to get to the optimal levels and the negative commentary might discourage some people from using this scale.\n\nStill, it is useful to see the trends and the price (with discount) seems reasonable.\n\nThe visceral fat index is useless because there is no description of how the metric is calculated, what it means, or what the top and bottom numbers are. There has to be a more useful way to present the information.\n\nAlso, if a user has selected female, it seems like the body figure should present a female body shape.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T03:48:38-07:00",
+      "rating": 5,
+      "title": "Beginning",
+      "text": "So far the Hume 2.0 band and the Pod have been great.  It has really given me some great insight into my healthy lifestyle and my goals.  My wife Dr F just got the band she is truly dedicated to health and fitness, she will be the real test.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T03:11:39-07:00",
+      "rating": 1,
+      "title": "What happened!?",
+      "text": "Have the band, it’s OK. I wish it would tell me when the battery was dying instead of me having to constantly look at the app to see where my battery percentage is. I also don’t appreciate how expensive the Hume app is. I’m basically itself, how many people are you paying? Or are you just keeping it all to yourself?",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-02T02:51:30-07:00",
+      "rating": 5,
+      "title": "Great Product",
+      "text": "Love the scale and new band, a winning combo",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T17:22:38-07:00",
+      "rating": 1,
+      "title": "Do  not waste your money",
+      "text": "The scale and app are both a pain to use. If the scale works, the app has a 50% chance of working as well. Now I am not able to log into the Hume app and overtime I request a reset password link, it never arrives. Submitted an email to their support team, they got back to me in 48hrs and said they had fixed the issue with the reset link and to retry again. Tried again, and still does not work. The company is scrubbing comments from their Instagram account, probably because people are frustrated. I am frustrated. I have an expensive scale in my bathroom that I can only use to tell me my weight and body temp. This is ridiculous!! Never again will I buy from this company.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T17:17:25-07:00",
+      "rating": 5,
+      "title": "Hume Rules",
+      "text": "Hume Health is by far the best tool in terms of tracking and monitoring your key health metrics . Easy to use, well built and great software look no further! Using it over a year! Incredible accuracy, comprehensive and insightful. If you really care about taking care of you, get Hume!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T15:41:21-07:00",
+      "rating": 5,
+      "title": "Validated mind body connection!",
+      "text": "As in I’m understanding my body more in only a couple of days. I was always “aware” and felt good about my connection to my body. The Hume band and pod, did two things. First, validated exactly what I thought I am in tune with my body and how it’s performing and why. Second, gives me in far more detail picture of my health and how my body is actually performing with more than just the subjective “feel”. Look forward to more data points and insights!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T14:23:41-07:00",
+      "rating": 4,
+      "title": "Okay",
+      "text": "I like the product but it would be nice to step on the scale and not have to have your phone connected. Why can’t the scale perform the measurements and then transmit to the phone/app afterwards? Also I keep having failure of connection multiple times",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T14:00:07-07:00",
+      "rating": 1,
+      "title": "Hasn’t worked in three weeks",
+      "text": "All of a sudden my tracking device stopped working a few weeks ago and there’s no updates available and no matter how many times I uninstall and reinstall and restart nothing works. I paid for the annual subscription so I’m basically out 3/4 of the money I spent and 100% out of the money on a product that doesn’t even work. I will never buy this again",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T11:08:52-07:00",
+      "rating": 5,
+      "title": "The pod👍 The band 👎",
+      "text": "The Pod is a great tool. Works very well. The band didn’t stay put on my wrist well. Maybe the tech was sound, but the actual band part of it sucked!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T11:01:19-07:00",
+      "rating": 5,
+      "title": "Great way to monitor body",
+      "text": "I bought my Hume Pod and Band as I start an intelligent and thoughtful way to monitor my health as I work toward healthy aging. Very happy with the products.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T08:37:24-07:00",
+      "rating": 5,
+      "title": "Great!!!",
+      "text": "Change my life!!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T08:14:24-07:00",
+      "rating": 5,
+      "title": "Incredible Device",
+      "text": "I appreciate being able to look closely at the measurement of my health. It has been motivating.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T06:19:20-07:00",
+      "rating": 5,
+      "title": "Love Hume Health",
+      "text": "I started with the band and this app, then purchased the pod/scale a month later. 6 weeks in, and I am down a consistent 8 pounds. This app helps me to be intentional with my health:  sleep, exercise, meals, etc. And, the Nutrition section for logging meals is incredible!!! Take a photo, it figures calories and macros, and you can tweak the ingredients and/or portion size if need be. No regrets here!!!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T06:18:52-07:00",
+      "rating": 4,
+      "title": "Intuitive app with all the metrics",
+      "text": "Updating 10/1/26 - removing a star as I’ve been having constant issues with the band not connecting and importing data into the app. Some reason I have to raise the band to make sure there’s lights flashing while having the app open then it seems to connect. Feel like this should be importing data anytime as I always have my phone close by. \n\nReally enjoying my Hume experience. Bought the Hume band first then the Hume pod and I see how they synergistically work together. Takes a week though to calibrate with your health data just forewarning but along the way you continue to get recommendations in order to improve. I personally appreciate the recovery data since I am avid bodybuilder and competitor. Gives me an idea of what I can put my body through and if I actually recovered overnight.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T06:07:26-07:00",
+      "rating": 4,
+      "title": "Nutrition Section",
+      "text": "I wish I can select multiple items from previous meals.  This app makes you select and enter one thing at a time vs.  being able to select multiple items.  Example morning coffee, collagen, silk milk, stevia.  I either have to manually enter for the first time as a meal or I have to scan each item individually.  My Fitness Pal and Nourish have more user friendly apps.  Otherwise the app is good.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T06:03:09-07:00",
+      "rating": 1,
+      "title": "Junk",
+      "text": "You can’t export any info. The Hume Band 2.0 gives you generic information instead of real numbers. If you step away from your phone, even short distances the Humeband disconnects and stops collecting supposed info from your wrist. It’s a waste of money. How am I to adjust my life and health without actual numbers. I can’t give my doc oh it’s good or ok or bad but don’t know how bad. Don’t bother with Hume. I was going to save up and get the scale also but no. I’ll choose a different company. Hume isn’t worth $5 much less over $300.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T05:07:34-07:00",
+      "rating": 4,
+      "title": "Great Scale, Good Band",
+      "text": "Love the scale and the app. The band is good, however it had issues for about 3 months where the calorie tracker was incorrect. It does appear they fixed it in the most recent update. Love that they added nutrition tracker functionality into the app. Now I can consolidate and use one app to track everything.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-10-01T01:24:22-07:00",
+      "rating": 4,
+      "title": "My journey",
+      "text": "Inspiration",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T20:40:38-07:00",
+      "rating": 2,
+      "title": "Daily briefing missing",
+      "text": "A week ago when I installed this app with my new band, it was great. I would open the app. It would prepare the briefing and it would pop up. I switched it to manual so that I could access it from the home screen. Open the app each day it says that it’s preparing, but never shows up. There’s no option to view it and even when I switched back when I open the app, it will not come up. I’m even missing the option to start my day.  Please fix this. It’s super annoying. Really decreases the value of the band.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T16:15:02-07:00",
+      "rating": 2,
+      "title": "Hume is suspect.",
+      "text": "Bought two bands and a scale and one band went down in 3 months.  All data on my account is gone.  Do not recommend",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T13:22:18-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "So you can understand how this pod  actually works beyond a scale, when you stand barefoot on the scale and hold the handles, 8 electrodes send tiny electrical currents through your body at different frequencies and measures electrical resistance across your arms, legs, and torso to get measurements  of body fat, muscle mass, and body water content. My Hume pod has been amazing to use, and I am glad I made the purchase because I can use the data daily to see improvement. I am a veteran that found the website while looking for another piece of equipment in a google search and was intrigued. I’ve had the Hume  pod for almost a year I haven’t bought the wristband they keep trying to sell me with percentages off as of yet but I’m in consideration of having one as well for other readings it does.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T12:21:00-07:00",
+      "rating": 1,
+      "title": "Received What Appears to Be a Used Product — 4 Weeks of Silence From Customer Service",
+      "text": "I ordered a Hume Band on September 2, expecting to receive a brand-new product. Instead, the device arrived without its protective covering and had visible scratches on the sensor area, leaving me questioning whether I had been sent a previously used or returned device.\n\nI contacted Hume immediately after receiving it to report the problem.\n\nOn September 10, their customer service team acknowledged my complaint and indicated that they would provide a brand-new replacement once the issue was verified. They requested photographs of the device, which I promptly submitted that same day.\n\nThat was the last meaningful communication I received.\n\nDespite sending multiple follow-up emails, I have received no replacement, no shipping confirmation, and no meaningful explanation. One of their responses was a generic message that appeared to completely disregard our previous correspondence, as though I were contacting them for the first time.\n\nIronically, Hume had specifically informed me that they were consolidating my support tickets to streamline communication and resolve the issue more efficiently. Instead, I’ve experienced weeks of delays and an almost complete lack of communication.\n\nWhat’s particularly concerning is their 45-day return policy. As the days continue to pass without resolution, I’m increasingly concerned that their lack of response could leave me outside the return window before they address my complaint.\n\nI have no way of knowing whether these delays are intentional, but the experience has seriously undermined my confidence in this company.\n\nI paid for a brand-new product, received one that appeared used or damaged, immediately reported the issue, and provided every piece of documentation requested. I should not have to repeatedly chase a company simply to receive the product I originally purchased.\n\nAt this point, I’m still waiting for Hume to honor its replacement commitment or provide a full refund.\n\nMy advice to prospective buyers: Pay close attention to the return policy and customer service experience before purchasing. A company’s willingness to stand behind its products matters just as much as the products themselves.\n\nThis has been an extremely disappointing experience.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T09:04:40-07:00",
+      "rating": 4,
+      "title": "Better than many but developing",
+      "text": "There are a lot of little issues such as inaccurate sleep tracking which seems to be prevalent with others.  If you are looking for helpful information and ready to start a journey of better health, this is one of the best at a reasonable (slightly high) cost.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T08:46:19-07:00",
+      "rating": 5,
+      "title": "Frustrated",
+      "text": "I started with Fit Track app and then was pushed to Fit Track Pro. I actually like Fit Track Pro better, but now…every time I try to open the Fit Track Pro app the screen is blank. What’s up?",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T07:13:46-07:00",
+      "rating": 1,
+      "title": "No BP?",
+      "text": "The app only shows BP ranges not the actual reading numbers?! I just got the 2.0 band and I feel like I got a bait and switch on this product. All the screenshots show the numbers.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T07:01:50-07:00",
+      "rating": 4,
+      "title": "Awesome,except….",
+      "text": "I love most of this data. It’s fracking a lot of stuff my other wearable doesn’t. Blood pressure and body temp, as well as the body comp measurements? Very cool stuff. \nThat said… It’s terrible with tracking sleep. I’ve had it for months and if this is to be believed, I have slept about 3 hours in two months. This skews my numbers. (The SleepWatch app tracks my sleep perfectly) I’ve tried all the fit adjustment suggestions. Also during workouts out it just flatlines sometimes. I’m killing it and suddenly it decides I’m barely doing anything, resting, or doing low peak effort. Very frustrating. \nSo much potential with this tech if they figure out this issues. (A common one if my online research is accurate)",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T06:49:43-07:00",
+      "rating": 4,
+      "title": "WiFi reset daily",
+      "text": "App connect doesn’t work well. Prob 80% of time I have to reset the WiFi on the scale with a hard reset to get my data to sink. But scale works well and numbers jive with those generated by professional scale system.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T05:56:06-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I’m in love with the scale and band both are great motivational pieces to my health Journey",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T05:14:49-07:00",
+      "rating": 5,
+      "title": "Hume is VERY helpful!",
+      "text": "I’ve been using Hume since mid-January. Six months later, my weight loss has remained slow and steady, -10#’s. At 69 years of age rating has dropped from 77 years to 60. My body fat has been decreased by almost 10% and visceral fat is down by 4. I love using this scale for following the trends.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T05:13:20-07:00",
+      "rating": 5,
+      "title": "Nice Tracker",
+      "text": "Great Product",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T05:10:20-07:00",
+      "rating": 1,
+      "title": "Works a few months then stops talking to phone, waste of money",
+      "text": "Works a few months then stops talking to phone, waste of money",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T05:05:07-07:00",
+      "rating": 5,
+      "title": "On track",
+      "text": "Hume has me on track to reach my goals!!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T04:49:23-07:00",
+      "rating": 5,
+      "title": "Happy with results so far",
+      "text": "Just getting started, but so far I am happy with the Hume band and pod.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T04:33:57-07:00",
+      "rating": 4,
+      "title": "More than I know how to use.",
+      "text": "I like all the data that’s collected but my only real complaint is that it doesn’t know when it’s on the charger overnight. There’s no way to input sleep during that time. Miss tracking sleep and it kills your score.",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T03:48:39-07:00",
+      "rating": 5,
+      "title": "Dr",
+      "text": "No hay nada mejor en el mercado, que este producto \n\nAmazing product there’s nothing better in the market",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T02:29:27-07:00",
+      "rating": 5,
+      "title": "True reflection",
+      "text": "This scale tells me a huge picture of my health. Especially learning about my fat %, bone density, and muscle mass. Super impressive!",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-30T02:24:18-07:00",
+      "rating": 5,
+      "title": "Roland’s Progress",
+      "text": "Loving this new product",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-29T19:09:55-07:00",
+      "rating": 5,
+      "title": "Love the product",
+      "text": "Easy to used and understand",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-29T19:08:47-07:00",
+      "rating": 1,
+      "title": "Has not worked in months",
+      "text": "Not reviewing all the data recorded in order to give complete health report",
+      "version": "9.27.1"
+    },
+    {
+      "date": "2026-09-29T17:41:35-07:00",
+      "rating": 1,
+      "title": "So disappointed in this product",
+      "text": "This has to be the one of the most disappointing products I have ever owned. There are long spans when the body scan doesn’t connect to the app. Customer service is terrible. I hate that I invested in this body scan. If customer service was better it would not be as bad of an experience. I think I may have a bad device due to its inability to consistently connect to the app. I hope someone from customer service will see this and at least contact me and offer assistance. I’ve tried other means like emailing to no avail to get some type of customer",
+      "version": "9.27.1"
+    }
+  ]
+}

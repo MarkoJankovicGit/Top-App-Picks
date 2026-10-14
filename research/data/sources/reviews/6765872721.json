@@ -1,0 +1,28 @@
+{
+  "app": "Wake Up Alarm Clock: Waykee",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-06-21T16:56:55-07:00",
+      "rating": 5,
+      "title": "From Jullian",
+      "text": "It’s tuff",
+      "version": "1.4"
+    },
+    {
+      "date": "2026-06-06T14:24:27-07:00",
+      "rating": 1,
+      "title": ".",
+      "text": "gives only a 3 day trial and then you have to pay the rest of the time 🫩💔",
+      "version": "1.2"
+    },
+    {
+      "date": "2026-06-03T10:25:37-07:00",
+      "rating": 5,
+      "title": "Best Alarm App",
+      "text": "Waykee is easily the best alarm app out there in the app store! The setup process was very simple, personalized and relatable! I love the modern and sleek UI. And the missions system being used to wake me up works wonderfully! Premium is also very cheap and worth it! 10/10 props to the small dev team who put their hearts in to make this! ❤️",
+      "version": "1.2"
+    }
+  ]
+}

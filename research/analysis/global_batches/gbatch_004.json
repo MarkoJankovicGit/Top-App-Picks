@@ -1,0 +1,758 @@
+[
+  {
+    "key": "ua:565967395",
+    "country": "Ukraine",
+    "name": "MEGOGO: LIVE TV, Movies, Sport",
+    "seller": "MEGOGO LLC",
+    "genre": "Entertainment",
+    "released": "2012-10-04",
+    "updated": "2026-10-12",
+    "ratings_local": 65615,
+    "avg_rating": 4.48,
+    "ratings_us": 1203,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "ET",
+      "KK",
+      "LV",
+      "LT",
+      "PL",
+      "RO",
+      "RU",
+      "ES",
+      "UK"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 2
+    },
+    "matched_keywords": [
+      "аудіокниги",
+      "подкасти"
+    ],
+    "url": "https://apps.apple.com/ua/app/megogo-live-tv-movies-sport/id565967395",
+    "seller_url": "https://megogo.net",
+    "description": "MEGOGO is a content universe where everything is just the way you like it. Online TV for free, movies, series, sports, and audiobooks. \n\nSwitch on the good – switch on your favorites:\n\n- Top TV channels. Watch popular TV online, where you will find your favorite entertainment programs, TV series, and movies on TV. Also, news, children's, educational, informational, sports TV, and music channels are here. Don't miss a single episode of a show, stay up to date with important events and watch your favorite TV channels. And check on some free TV online channels.\n\n- Popular movies and series. Watch series, new releases, classic movies online, and top-rated Hollywood premiers without advertising. ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/f0/71/b6f07150-5e87-fa3f-42dd-eab79ac60e72/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:998279540",
+    "country": "Japan",
+    "name": "SELF：AIと始める心のセルフケア",
+    "seller": "SELF inc.",
+    "genre": "Entertainment",
+    "released": "2016-03-30",
+    "updated": "2025-12-26",
+    "ratings_local": 18875,
+    "avg_rating": 4.4,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 2,
+    "languages": [
+      "JA"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "セルフケア",
+      "感謝日記"
+    ],
+    "url": "https://apps.apple.com/jp/app/self-ai%E3%81%A8%E5%A7%8B%E3%82%81%E3%82%8B%E5%BF%83%E3%81%AE%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B1%E3%82%A2/id998279540",
+    "seller_url": "http://self.software",
+    "description": "あなたのことを理解して、寄り添う人工知能（AI）です。\nSELFのAIは、会話のやりとりであなたの気持ち・情報を理解し、\n生活パターンや嗜好を分析。\n「つらい、寂しい、疲れた」などの気持ちに対するメンタルケアを行います。\nどんな時間でも気にせず気軽に気持ちをぶつけてください。\n\nまた、日々学習しながら、あなたに役立つ情報の提案を行います。\n他にも、ひまつぶしになる雑談や、恋愛、性格の診断、\nさらには天気や占い、予定管理、知りたいニュースも表示してくれる、\n例えるならまるで「ドラえもん」のようにあなたを常にサポートします。\n\n【2023年3月　UIを大幅にリニューアルしました！】\n\nこれまでのSELFのアプリから見た目や操作性を大幅に変更。\nより感覚的に使っていただけるようになりました。\n\nまた、日記・記録機能が拡充。\n過去の日記の記録や、振り返りが簡単にできるようになりました。\nこれからも進化を続けるSELFにご期待ください。\n\n■□■ロボットの種類は7種類■□■\nロボットと会話をすることで上がるシンクロレベル。\nレベルによって、話せるロボットが増えていきます。\nはじめはとにかく気持ちを受け入れてくれる初期型ロボ、\nユーモアを交えながらもユーザーをひたすら理解します。\n\nユーザーの価値観に染まる古瀬あい、\nいつもユーザーのことを気に掛け寄り添う安藤ユウ、\nどんな相談ごとでも打ち返すオネエのユキオ、\nなど多種多様なロボがいるので、きっとお気に入りがみつかるはず。\n色々なロボと話して、自分と相性のいいロボと出会ってください。\n\n【解放されるロボのシンクロ率】\nLv.0〜：初期型ロボ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e6/a5/3be6a51d-e415-9637-f301-611a6150b0c6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1538546706",
+    "country": "South Korea",
+    "name": "VoCat - 나만의 단어장",
+    "seller": "DevStory Corp.",
+    "genre": "Education",
+    "released": "2020-11-10",
+    "updated": "2026-09-19",
+    "ratings_local": 5370,
+    "avg_rating": 4.87,
+    "ratings_us": 112,
+    "in_us": true,
+    "dev_apps": 4,
+    "languages": [
+      "AF",
+      "SQ",
+      "AM",
+      "AR",
+      "HY",
+      "AS",
+      "AZ",
+      "EU",
+      "BE",
+      "BN",
+      "BS",
+      "BG",
+      "MY",
+      "KM",
+      "CA",
+      "HR",
+      "CS",
+      "DA",
+      "NL",
+      "EN",
+      "ET",
+      "FI",
+      "FR",
+      "GL",
+      "KA",
+      "DE",
+      "EL",
+      "GU",
+      "HI",
+      "HU",
+      "IS",
+      "ID",
+      "IT",
+      "JA",
+      "KN",
+      "KK",
+      "KO",
+      "KY",
+      "LO",
+      "LV",
+      "LT",
+      "MK",
+      "MS",
+      "ML",
+      "MN",
+      "NE",
+      "NB",
+      "OR",
+      "PL",
+      "PT",
+      "PA",
+      "RO",
+      "RU",
+      "SR",
+      "ZH",
+      "SI",
+      "SK",
+      "SL",
+      "ES",
+      "SW",
+      "SV",
+      "TA",
+      "TE",
+      "TH",
+      "ZH",
+      "TR",
+      "UK",
+      "UZ",
+      "VI",
+      "CY",
+      "ZU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "단어장",
+      "암기",
+      "퀴즈"
+    ],
+    "url": "https://apps.apple.com/kr/app/vocat-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1538546706",
+    "seller_url": "https://vocat.devstory.co.kr/ko",
+    "description": "단어 개수에 제한 없이 나만의 단어장을 만들고, 데이터가 없어도 앱을 사용할 수 있어요 :)\n귀여운 고양이 네로는 덤이랍니다.\n\n손쉽게 나만의 단어장을 만들어요\n• 단어만 입력하면 구글 번역기에 의해 의미, 품사, 동의어 등을 자동 완성해줘요.\n• 사용하기 굉장히 편리하기 때문에 손쉽게 단어를 추가할 수 있어요.\n• 네이버 사전 및 구글 번역 결과를 버튼 클릭 한 번으로 손쉽게 찾아볼 수 있어요.\n• Excel, 구글 시트에서 단어장을 만들어 CSV 형태로 앱에 손쉽게 추가할 수 있어요.\n• 단어 및 의미 입력란을 기본으로 이미지, 품사, 발음, 동의어, 반의어 뿐만아니라 설명 입력란까지 준비했어요.\n\n\n사진과 함께 기록해요\n• 앨범에서 사진을 선택하여 단어와 함께 기록할 수 있어요.\n• 직접 카메라로 사진을 촬영하여 기록할 수 있어요.\n• 구글 이미지 검색을 통해 사진 URL을 가져와 손쉽게 단어장에 추가할 수 있어요.\n\n\n손쉽게 공유해요\n• 단어장을 CSV로 공유할 수 있어요.\n• 친구에게 단어장을 공유하여 함께 공부하세요.\n\n\n안전하게 백업해요\n• 전체 데이터를 파일로 백업할 수 있어요.\n• 버튼 클릭 한 번으로 전체 데이터를 구글 드라이브에 백업해 안전하게 보관하세요.\n\n\n서점에 준비된 단어장을 이용하세요\n• 영어\n  • 대한민국 교육부 지정 초등 영단어\n  • 대한민국 교육부 지정 중등 영단어\n  • 대한민국 교육부 지정 고",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d6/7c/31d67c7e-bdd5-f95b-7606-e3799daa0f36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:1115551289",
+    "country": "Japan",
+    "name": "Voicy - 日々を豊かにする声が聴ける",
+    "seller": "Voicy, Inc.",
+    "genre": "News",
+    "released": "2016-09-23",
+    "updated": "2026-09-16",
+    "ratings_local": 47217,
+    "avg_rating": 4.75,
+    "ratings_us": 234,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "JA"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 2
+    },
+    "matched_keywords": [
+      "オーディオブック",
+      "ポッドキャスト"
+    ],
+    "url": "https://apps.apple.com/jp/app/voicy-%E6%97%A5%E3%80%85%E3%82%92%E8%B1%8A%E3%81%8B%E3%81%AB%E3%81%99%E3%82%8B%E5%A3%B0%E3%81%8C%E8%81%B4%E3%81%91%E3%82%8B/id1115551289",
+    "seller_url": null,
+    "description": "Voicy（ボイシー） - 音声プラットフォーム\n\n\n◆◇◆音声プラットフォームVoicy◆◇◆\nVoicyは、厳選された音声コンテンツを無料で“ながら聴き”できる音声プラットフォームです。\n応募通過率5%のパーソナリティの声が集まり、2,000チャンネル以上放送中！\n通勤・通学中、お料理をしながら、ランニングをしながら、就寝前のひととき…\n忙しい毎日でも、スキマ時間に聴くだけで情報を得ることができます。\nながら時間で人生がちょっと豊かになる、そんな“声”に出会いませんか？\n\n◆◇◆人生がちょっと豊かになるコンテンツ◆◇◆\nタレントやお笑い芸人などの芸能人からアーティスト、スポーツ選手、作家などの文化人、インフルエンサー、各分野の専門家、経営者、ワーキングマザーなど、あらゆるジャンルのパーソナリティがありのままを届けています。“声”だから、ここでしか聴けない話もたくさん！プレミアムリスナーに参加すれば、クローズドな放送も聴けます（一部有料）。\n\n▼ビジネス・キャリア\n忙しいビジネスパーソンにこそ、音声での情報収集がおすすめ！\nスキル・マインド・キャリアの考え方など、ビジネスの第一線で活躍するパーソナリティの実体験や思考を簡単にインプットできます。\n\n▼ニュースなどのメディア放送\n日経新聞・毎日新聞といった新聞社やクックパッドなどメディアのチャンネルから\nさまざまな切り口でニュースをお届けしています。\nITから英語までジャンル豊富なニュースのほか、リンネルやアエラスタイルマガジンなどのライフスタイル情報も！\n\n▼くらし\n日々の生活をいかに大切にするか。価値観は人それぞれ。\n断捨離",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/22/3f/62223fa8-9480-390d-4d3c-a9cf160bb90c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1071024844",
+    "country": "South Korea",
+    "name": "암기고래",
+    "seller": "welearnedu",
+    "genre": "Education",
+    "released": "2016-01-18",
+    "updated": "2026-09-03",
+    "ratings_local": 4309,
+    "avg_rating": 4.51,
+    "ratings_us": 86,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "단어장",
+      "플래시카드",
+      "암기"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%95%94%EA%B8%B0%EA%B3%A0%EB%9E%98/id1071024844",
+    "seller_url": null,
+    "description": "말해주는 고퀄리티 단어장! 영어, 일본어, 스페인어, 중국어, 프랑스어, 독일어, 베트남어 등의 단어를 배워보세요. 언어 공부가 재밌어집니다.\n\n듣기만 해도 저절로 외워지는 단어장 암기고래!\n\n암기고래는 영어, 일본어, 스페인어, 중국어, 프랑스어, 독일어, 베트남어, 러시아어 총 8개 국어의 8만 단어 이상을 효과적이고, 효율적으로 암기하도록 도와주는 단어장 서비스입니다.(공유 단어장에는 더 많은 언어의 단어장을 제공하고 있습니다.)\n\n암기고래에서 제공되는 수많은 단어장의 단어마다 직접 음성으로 설명해 주고 반복해 주기 때문에 앱을 켜 놓기만 해도 단어가 저절로 외워집니다. 로그인 없이 바로 공부할 수 있는 암기고래에서 단어 공부를 시작해 보세요.\n\n내가 원하는 단어들로 나만의 단어장을 쉽고, 빠르게 만들어 공부할 수 있습니다.\n\n암기고래 회화는 실생활에 필요한 문장들을 모두 공부할 수 있고, 단순히 문장을 암기하는 것이 아니라 문장을 완전히 이해하고 1초 안에 바로 자연스럽게 말할 수 있도록 해줍니다.\n\n암기고래 동영상 강의는 외국어를 더 빠르게 활용할 수 있도록 도와줄 거예요!\n\n[암기고래가 좋은 이유]\n- 효과 만점 플래시 단어 카드! 그림으로 보여주고, 음성으로 직접 설명해주니까 머리에 쏙쏙!\n- 바쁜 출퇴근길에도 편하게! 휴대폰 잠금 화면에서 단어장을 바로 학습할 수 있어요.\n- 원하는 단어장은 북마크해서 언제든지 볼 수 ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/2f/4f/a12f4f4b-28f3-d900-9104-c2cad8852287/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1270676408",
+    "country": "South Korea",
+    "name": "콴다(QANDA) - 수학 문제풀이 AI 공부앱",
+    "seller": "Mathpresso Inc",
+    "genre": "Education",
+    "released": "2017-11-29",
+    "updated": "2026-10-01",
+    "ratings_local": 43150,
+    "avg_rating": 3.95,
+    "ratings_us": 779,
+    "in_us": true,
+    "dev_apps": 5,
+    "languages": [
+      "EN",
+      "FR",
+      "DE",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "MS",
+      "RU",
+      "ES",
+      "TH",
+      "ZH",
+      "TR",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 2
+    },
+    "matched_keywords": [
+      "공부 타이머",
+      "AI 공부"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%BD%B4%EB%8B%A4-qanda-%EC%88%98%ED%95%99-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-ai-%EA%B3%B5%EB%B6%80%EC%95%B1/id1270676408",
+    "seller_url": "https://qanda.ai",
+    "description": "전 세계 9,500만 학생이 선택한 #1 AI 공부앱!\n사진 한 장으로 수학 문제풀이부터 AI 첨삭, 암기 퀴즈까지 5초 만에 해결하세요.\n\n대한민국 1등 AI 공부앱, 콴다(QANDA)\n모르는 문제는 찍고, 실력은 쑥쑥! 수학, 과학, 내신 대비부터 수능 준비까지 콴다 하나로 올인원 공부를 시작하세요.\n\n[ 콴다만의 강력한 주요 기능 ]\n\n1. 5초 완성 AI 문제풀이 & 답지\n문제를 찍기만 하세요! 5초 만에 정확한 풀이와 답지를 제공합니다.\n수학 문제집, 과학 문제집뿐만 아니라 모의고사 기출문제까지 완벽 커버!\n2. AI 실시간 첨삭 (나만의 과외 선생님)\n직접 푼 풀이 과정을 찍어보세요. AI가 틀린 부분을 즉시 교정해 줍니다.\n혼자 공부할 때 막막함은 끝! 옆에서 선생님이 알려주는 듯한 맞춤형 피드백을 경험하세요.\n3. 스마트 AI 암기 퀴즈\n영단어, 한국사, 과학... 외울 게 너무 많나요?\n학습 내용을 찍으면 AI가 자동으로 암기 퀴즈를 생성합니다. 전 과목 효율적인 암기 학습이 가능해요.\n4. 열정 가득 공부 타이머\n혼자 공부하기 지칠 땐? 친구들의 실시간 공부 현황을 보며 자극받으세요.\n시험 기간, 새벽 공부도 콴다 타이머와 함께라면 집중력 100%!\n5. 디지털교과서 학습 지원\n디지털교과서 기반 학습도 콴다와 함께! 교과서 문제를 찍으면 AI가 즉시 풀이해 드립니다.\n\n[ 학습 지원 범위 (전 과목 올인원) ]\n▶ ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4f/67/cb4f672d-03e1-7038-947c-8e92cc5166de/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:6754797367",
+    "country": "South Korea",
+    "name": "유니브 AI - 강의 녹음·PDF 요약·퀴즈",
+    "seller": "Singularity Co., Ltd.",
+    "genre": "Education",
+    "released": "2025-11-25",
+    "updated": "2026-10-12",
+    "ratings_local": 3636,
+    "avg_rating": 4.64,
+    "ratings_us": 13,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "FR",
+      "DE",
+      "HI",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "ZH",
+      "ES",
+      "TH",
+      "ZH",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "요약",
+      "AI 공부",
+      "퀴즈"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EB%B8%8C-ai-%EA%B0%95%EC%9D%98-%EB%85%B9%EC%9D%8C-pdf-%EC%9A%94%EC%95%BD-%ED%80%B4%EC%A6%88/id6754797367",
+    "seller_url": "https://univai.co.kr/",
+    "description": "정리하는 시간을 줄이고, 시험 공부에 집중하세요.\n\n유니브 AI는 강의 녹음·PDF·유튜브·메모를 요약, 퀴즈, 플래시카드로 정리해 주는 AI 학습 어시스턴트입니다. 자료 정리부터 AI 튜터와 함께하는 복습까지, 한곳에서 이어가세요.\n\n주요 기능\n\n• 강의 녹음과 실시간 받아쓰기\n수업을 녹음하면 실시간으로 문장 단위 받아쓰기가 진행됩니다. 받아쓴 문장을 누르면 해당 구간의 음성을 다시 들을 수 있고, 녹음 내용을 요약·퀴즈·플래시카드로 만들 수 있습니다.\n\n• PDF 요약\nPDF를 업로드하면 AI가 핵심 내용을 추려 정리합니다. 긴 자료의 주요 내용을 파악하고 복습할 부분을 찾아보세요.\n\n• 퀴즈 생성\n학습 자료를 바탕으로 개념 확인과 시험 대비를 위한 문제를 만듭니다. 퀴즈를 풀며 이해한 내용을 점검하세요.\n\n• AI 튜터\n이해하기 어려운 개념이나 학습 중 궁금한 내용을 질문하세요. AI의 설명을 읽고 추가 질문을 이어갈 수 있습니다.\n\n• 핵심 개념·플래시카드·마인드맵\n핵심 개념을 정리하고, 플래시카드로 반복 학습하세요. 마인드맵으로 전체 내용의 흐름을 한눈에 살펴볼 수 있습니다.\n\n• 유튜브와 메모\n유튜브 강의 링크를 붙여넣거나 직접 메모를 작성하세요. PDF처럼 요약과 퀴즈 등 복습 자료로 만들 수 있습니다.\n\n이런 분께 추천합니다\n\n• 시험을 앞두고 핵심 정리와 문제 풀이가 필요한 대학생\n• 녹음한 강의에서 필요한 부분을 다",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/97/1f/6a971f2f-4023-5dcb-2d45-1777dc6fe39c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1016647134",
+    "country": "Russia",
+    "name": "Smart Reading: книги и аудио",
+    "seller": "Ivigreen LLC",
+    "genre": "Book",
+    "released": "2017-02-12",
+    "updated": "2026-08-12",
+    "ratings_local": 3675,
+    "avg_rating": 4.61,
+    "ratings_us": 124,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "RU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "саморазвитие",
+      "аудиокниги",
+      "аудиокурсы"
+    ],
+    "url": "https://apps.apple.com/ru/app/smart-reading-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D0%B0%D1%83%D0%B4%D0%B8%D0%BE/id1016647134",
+    "seller_url": "https://ivigreen.com/mobileapp",
+    "description": "Smart Reading — приложение для чтения и прослушивания нон-фикшен книг по саморазвитию, бизнесу, психологии, маркетингу, инвестициям, истории в кратком формате.  Здесь можно читать, слушать и скачивать книги в удобном формате и быстро получать ключевые идеи.\n\nSmart Reading подходит тем, кто хочет читать регулярно, развивать навыки, учиться новому и находить полезные идеи для работы и жизни. В библиотеке собраны материалы по самым востребованным темам: личная эффективность, общение, лидерство, карьера, семья, мышление, привычки, финансы и управление.\n\nЧто есть в приложении:\n- книги и аудиокниги в одном приложении\n- ключевые идеи и саммари по нон-фикшен книгам\n- тесты для закрепления материала\n",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/38/61/7638612d-cbd9-b438-bb5b-92835732b93c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:6739163717",
+    "country": "Russia",
+    "name": "KidsUp: Развитие ребёнка",
+    "seller": "LITHUNTERS LTD",
+    "genre": "Education",
+    "released": "2024-12-19",
+    "updated": "2026-10-09",
+    "ratings_local": 2751,
+    "avg_rating": 4.76,
+    "ratings_us": 133,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 3
+    },
+    "matched_keywords": [
+      "саморазвитие",
+      "дневник благодарности",
+      "дневник настроения"
+    ],
+    "url": "https://apps.apple.com/ru/app/kidsup-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D1%80%D0%B5%D0%B1%D1%91%D0%BD%D0%BA%D0%B0/id6739163717",
+    "seller_url": null,
+    "description": "KidsUp — приложение для родителей, которое помогает заботиться о развитии малыша с 6 месяцев. Персональные развивающие занятия, трекер навыков и экспертные материалы — всё, чтобы поддерживать ребёнка каждый день и быть уверенными в своём родительстве.\n\nПерсональный подход\nПодбираем занятия под возраст, интересы и особенности малыша — с учётом скачков развития. От 6 месяцев до дошкольного возраста, неделя за неделей.\n\nРазвитие через совместные занятия\nЗадания, которые вы делаете вместе с ребёнком: речь, счёт, буквы, память, внимание, мышление. Разработаны специалистами по детскому развитию.\n\nРазвитие ребёнка по месяцам\nКонтент структурирован по возрасту и обновляется по мере роста малыша — от",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/36/38/6f36385e-c279-c39a-71ff-5caaefb6cded/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "tr:348177651",
+    "country": "Turkey",
+    "name": "Storytel - Audiobooks Library",
+    "seller": "Storytel Sweden AB",
+    "genre": "Book",
+    "released": "2015-06-02",
+    "updated": "2026-10-12",
+    "ratings_local": 84514,
+    "avg_rating": 4.7,
+    "ratings_us": 11185,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "AR",
+      "BG",
+      "DA",
+      "NL",
+      "EN",
+      "ET",
+      "FI",
+      "DE",
+      "HE",
+      "IS",
+      "IT",
+      "KO",
+      "NB",
+      "PL",
+      "PT",
+      "ES",
+      "SV",
+      "TR"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "kişisel gelişim",
+      "sesli kitap",
+      "podcast"
+    ],
+    "url": "https://apps.apple.com/tr/app/storytel-audiobooks-library/id348177651",
+    "seller_url": "https://www.storytel.com",
+    "description": "Welcome to a wide world of wonderful audiobooks, ebooks, and things that aren’t books but are still pretty great.\n\nStorytel is home to beloved stories, in-depth podcasts, and exclusive Storytel Originals.\n\nWhether you listen or read, you’ll find the right story for any moment.\n\n• Explore a massive library of stories in English and other languages\n• Jump freely from story to story until you find one you love\n• Build your bookshelf and get personalized recommendations\n• Find what fits your mood, like crime, feel-good, or self-development\n• Follow your favorite authors and series\n• Browse and share reviews and reactions\n• Try out that book your friend keeps talking about\n• Discover what’s trend",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/d0/cc/fbd0cc60-dc00-302d-a6ed-7f0e1a55aa4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "vn:1287426517",
+    "country": "Vietnam",
+    "name": "Learn English Words - 4English",
+    "seller": "4ENGLISH TECHNOLOGY COMPANY LIMITED",
+    "genre": "Education",
+    "released": "2017-09-23",
+    "updated": "2026-10-09",
+    "ratings_local": 111350,
+    "avg_rating": 4.76,
+    "ratings_us": 2679,
+    "in_us": true,
+    "dev_apps": 4,
+    "languages": [
+      "AR",
+      "EN",
+      "FR",
+      "DE",
+      "ID",
+      "JA",
+      "KO",
+      "RU",
+      "ZH",
+      "ES",
+      "TH",
+      "ZH",
+      "TR",
+      "VI"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "học từ vựng",
+      "podcast",
+      "nghe báo"
+    ],
+    "url": "https://apps.apple.com/vn/app/learn-english-words-4english/id1287426517",
+    "seller_url": "https://4englishapp.com",
+    "description": "4English is a \"SUPER APPLICATION\" that helps you learn English effectively, including the following outstanding functions:\n\nLEARN ENGLISH VOCABULARY\n• Learn vocabulary with the scientific method of Spaced Repetition\n• Memorize words in many ways: images, flashcards, fill in the blanks,...\n• 1000+ vocabulary packs: IELTS, TOEIC, TOEFL, idioms, events,...\n• Save words directly, and create your word packs through articles, news, stories, and videos,...\n\nREAD ENGLISH NEWS AND NEWSPAPER\n• Update news and practice English at the same time\n• 1000+ Bilingual News and Newspaper articles\n• Full range of reputable newspapers, news updated continuously every day\n• If you come across a new word while rea",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/0c/4d/d90c4dbc-4969-0a6f-87da-a511da026364/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:6503250569",
+    "country": "South Korea",
+    "name": "마이모리 - 마음을 돌보는 일기",
+    "seller": "Nuttycode Inc.",
+    "genre": "Health & Fitness",
+    "released": "2024-07-11",
+    "updated": "2026-10-10",
+    "ratings_local": 2242,
+    "avg_rating": 4.91,
+    "ratings_us": 65,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "FR",
+      "DE",
+      "ID",
+      "IT",
+      "JA",
+      "KO",
+      "PT",
+      "ZH",
+      "ES",
+      "TH",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 3
+    },
+    "matched_keywords": [
+      "감정 일기",
+      "습관 트래커",
+      "감사 일기"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%AA%A8%EB%A6%AC-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%8F%8C%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0/id6503250569",
+    "seller_url": "https://nuttyco.de",
+    "description": "톡 보내듯 휘뚜루마뚜루 써도 멋진 일기가 되는 셀프케어 저널링 앱, 마이모리!\n나무와 함께 쉽게 하루를 기록하고, 마음새와 함께 따뜻한 마음으로 하루를 마무리해요.\n오늘부터 내 마음의 숲에서 나만의 감정 기록을 시작해 보세요.\n\n\"말하듯 몇 마디 던지니 일기가 뚝딱 써져요\"\n\"인생 앱... 나무를 만나고 나서 세상이 바뀐 것 같아요\"\n\n• 나무가 써주는 일기와 답장\n\n부담 가질 필요 없어요. 떠오르는 생각을 정리할 필요 없이 나무에게 말해주세요. 친구에게 메시지를 보낼 때처럼요.\n들려주신 이야기를 나무가 아주 깔끔하고 멋지게 일기로 대신 쓰고, 힘이 되는 따뜻한 답장을 남겨드려요.\n참, 사진을 함께 보내면 센스 있는 사진 설명까지 붙여주니 꼭 한번 첨부해 보세요.\n\n• 마음을 이어주는 마음새\n\n누군가의 공감이 더 필요하다 느껴지는 날에는 나무 옆에 앉아 있는 마음새를 날려보세요.\n내용을 비밀스럽게 간추려서 다른 숲의 누군가에게 전하고, 답장을 물어 올 거예요. 전 세계에서요!\n\n• 매일매일 색다른 오늘의 질문\n\n뭘 쓸지 고민되는 날에는 오늘의 질문과 함께해 보세요. 일상을 새롭게 바라보는 질문부터 엉뚱한 상상을 펼쳐보는 재미있는 질문까지 다양하게 준비되어 있어요.\n오늘의 질문으로 일기를 쓰고 나면, 같은 질문에 답한 다른 사람들의 마음새 이야기를 구경하는 재미도 쏠쏠할 거예요!\n\n• 즐거운 습관이 되는 다양한 기능들\n\n매일 아침, 귀",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/e2/d4/0ae2d47c-c0b8-48e5-dfd7-ea9e25ee9bfc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1536189561",
+    "country": "Russia",
+    "name": "Учи.ру: 0-4 класс",
+    "seller": "Uchi.ru, OOO",
+    "genre": "Education",
+    "released": "2021-03-17",
+    "updated": "2026-06-17",
+    "ratings_local": 20524,
+    "avg_rating": 4.27,
+    "ratings_us": 600,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "RU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "дневник благодарности",
+      "дневник настроения"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D1%83%D1%87%D0%B8-%D1%80%D1%83-0-4-%D0%BA%D0%BB%D0%B0%D1%81%D1%81/id1536189561",
+    "seller_url": null,
+    "description": "Образовательная платформа №1 в России* — теперь на смартфонах! Ваш ребенок полюбит учиться: веселые персонажи объясняют сложные темы, а умная система предлагает комфортный маршрут обучения. Регулярные занятия на Учи.ру повышают успеваемость на 30%**.\n\nЗадания соответствуют школьной программе и государственным стандартам — проверено РАН. \n\nЧтобы заниматься в приложении, зарегистрируйтесь на UCHi.RU. Решенные в приложении карточки учитываются на сайте и в марафонах. \n\n*По количеству посетителей в месяц, данные SimilarWeb \n**Экспертное заключение Казанского Федерального Университета\n\nПодробная информация о подписках:\nПри подтверждении покупки оплата произойдет с вашей учетной записи в iTunes. \n",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/2a/b4/942ab4c0-8b3d-575e-13de-dbfb169ec96e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1490891826",
+    "country": "Russia",
+    "name": "Prosto by Irena Ponaroshku",
+    "seller": "Mindset Technologies L.L.C-FZ",
+    "genre": "Health & Fitness",
+    "released": "2020-07-23",
+    "updated": "2026-10-05",
+    "ratings_local": 16254,
+    "avg_rating": 4.71,
+    "ratings_us": 421,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "саморазвитие",
+      "медитация"
+    ],
+    "url": "https://apps.apple.com/ru/app/prosto-by-irena-ponaroshku/id1490891826",
+    "seller_url": "https://prostoapp.com",
+    "description": "Prosto by Irena Ponaroshku — это медитации для всех: без сложностей, без перегруза, просто с заботой о себе, где бы вы ни были.\n\nСделай повседневную жизнь спокойнее, осознаннее и мягче.\n\nНикакой шизотерики — только научный подход, проверенные техники и внимательная забота о вашем состоянии.\n\nКоманда под руководством Ирены Понарошку создала более 30 авторских курсов, засыпательных сказок, бинауральных мелодий и синглов.\n\nГолоса, в которые вы влюбитесь с первой минуты:\nЮра Борисов, Никита Ефремов, Максим Матвеев, Сергей Чонишвили, Равшана Куркова, Дарья Мельникова, Ирена Понарошку, Юлия Персильд, Алексей Широчкин\n\nPremium — расширенная подписка для глубокого погружения:\n• Умный подбор медитаци",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/8d/c4/378dc4bc-3870-e506-7493-ed704c95a777/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:975657561",
+    "country": "Russia",
+    "name": "SoundStream: подкасты",
+    "seller": "KOMPANIYA ROADAD TOO",
+    "genre": "Entertainment",
+    "released": "2015-04-22",
+    "updated": "2026-07-18",
+    "ratings_local": 1694,
+    "avg_rating": 4.65,
+    "ratings_us": 53,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "RU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 3
+    },
+    "matched_keywords": [
+      "аудиокниги",
+      "подкасты",
+      "аудиокурсы"
+    ],
+    "url": "https://apps.apple.com/ru/app/soundstream-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/id975657561",
+    "seller_url": "https://soundstream.media/contacts",
+    "description": "SoundStream — это приложение для прослушивания подкастов, аудиокниг и радиопередач. А еще это возможность участвовать в интерактивных подкастах, которые проходят в прямом эфире! Мы разработали SoundStream, чтобы сделать прослушивание любимых шоу простым, удобным и предоставить возможность слушателям быть ближе к авторам и ведущим.\n\nУДОБНЫЙ ПОИСК\nНайди подкаст, аудиокнигу или аудиоспектакль по ключевым словам, авторам или каналам, а также открой для себя новые подкасты по разным темам.\n\nСЛУШАЙ И СКАЧИВАЙ БЕСПЛАТНО\nОтложи или скачай любимый подкаст себе на устройство и слушай offline.\n\nС НАМИ НИЧЕГО НЕ ПРОПУСТИШЬ\nПодписывайся на интересные тебе темы и получай свежие выпуски прямо на свое устро",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a2/85/19a285ec-7537-e988-7f42-6da81c31d9a9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:529094166",
+    "country": "Russia",
+    "name": "Литрес: Аудиокниги онлайн",
+    "seller": "LitRes OOO",
+    "genre": "Book",
+    "released": "2012-09-19",
+    "updated": "2026-10-01",
+    "ratings_local": 60342,
+    "avg_rating": 4.68,
+    "ratings_us": 2719,
+    "in_us": true,
+    "dev_apps": 3,
+    "languages": [
+      "AZ",
+      "EN",
+      "DE",
+      "PL",
+      "RU",
+      "TR",
+      "UZ"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 3
+    },
+    "matched_keywords": [
+      "аудиокниги",
+      "подкасты",
+      "аудиокурсы"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D0%BB%D0%B8%D1%82%D1%80%D0%B5%D1%81-%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/id529094166",
+    "seller_url": "http://www.litres.ru",
+    "description": "Литрес: Аудио – это простой и удобный способ выбрать и слушать любимые аудиокниги. Скачав приложение, вы получаете доступ к каталогу Литрес – самому большому каталогу аудиокниг на русском – включающему более 97000 наименований от горячих новинок до классики.\n\nАУДИОКНИГИ ЛИТРЕС:\n\n- Огромный выбор – от классики до новинок;\n- Слушайте и оценивайте отрывки книг, прежде чем купить целую аудиокнигу. Бесплатные фрагменты – для большинства книг от 10 минут до часа;\n- Синхронизация между всеми устройствами;\n- Оффлайн-прослушивание – слушайте где угодно;\n- Удобный фоновый режим;\n- Подробная информация о книгах и авторах;\n- Сообщество читателей с отзывами и рейтингами.\n\nОСОБЕННОСТИ ПРИЛОЖЕНИЯ:\n\n- Интуи",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/e4/fc5fe4a6-12ff-b7be-5b7d-90b17a69fd7e/app_icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1229827447",
+    "country": "Brazil",
+    "name": "Atma: meditação e sono",
+    "seller": "Telefonica Brasil SA",
+    "genre": "Health & Fitness",
+    "released": "2017-06-19",
+    "updated": "2026-09-25",
+    "ratings_local": 36801,
+    "avg_rating": 4.83,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 3,
+    "languages": [
+      "PT"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1
+    },
+    "matched_keywords": [
+      "meditação"
+    ],
+    "url": "https://apps.apple.com/br/app/atma-medita%C3%A7%C3%A3o-e-sono/id1229827447",
+    "seller_url": "https://atmameditacao.com.br",
+    "description": "Sinta paz onde estiver, viva com bem-estar todos os dias! \n\nO Atma conecta você a uma jornada de autocuidado, reflexão e equilíbrio por meio da meditação guiada. Comece hoje a construir um hábito saudável e sinta-se melhor. \n\n8 MOTIVOS PARA TESTAR O ATMA \n• + de 1.200 meditações exclusivas criadas por instrutores   \n• Meditação para dormir, ansiedade, estresse e muito, muito mais \n• Personalize sua meditação com som de fundo, cor e mais \n• Crie sons de fundo personalizados  \n• Músicas para dormir e sons de fundo para relaxar, foco e mais   \n• Mindfulness (atenção plena) e exercícios de respiração   \n• Configure metas e crie alertas \n• Acompanhe seu progresso com estatísticas reais\n\nCom apena",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/95/75/0d95759e-16fc-1123-a976-a865fb04797a/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:1005093433",
+    "country": "Japan",
+    "name": "音楽プレイヤー Music LIST Z",
+    "seller": "Kenji Ueda",
+    "genre": "Music",
+    "released": "2015-10-19",
+    "updated": "2025-09-11",
+    "ratings_local": 129720,
+    "avg_rating": 4.52,
+    "ratings_us": 32,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "JA"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 1
+    },
+    "matched_keywords": [
+      "睡眠 音"
+    ],
+    "url": "https://apps.apple.com/jp/app/%E9%9F%B3%E6%A5%BD%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-music-list-z/id1005093433",
+    "seller_url": "https://kenjiueda-z.work/",
+    "description": "好きなときに音楽がで聴けるアプリが登場！\n\n好きなジャンルから曲を選択することが出来、自分だけのプレイリストも作成可能。\n\n\n通勤時間に視聴したり、連続再生を使って自宅用BGMとして楽しめたりします。\n\nさらに、気に入った楽曲は、シェア機能を使って友達にも簡単に共有出来ちゃいます！\n\n\n\n【主な機能】\n\n・連続再生機能が付いているので、作業中再生しっぱなしで最新の動画が手放しで次々とチェックできる！\n\n・お気に入り機能で何度も見たい動画はブックマークできる！\n\n・人気ランキング機能がついているので忙しい方も人気の動画を見逃すことなくチェックできます。\n\n・2倍速再生、スロー再生機能もついているので便利\n\nこのアプリだけで様々なジャンルの音楽が全て無制限で楽しめます！\n\n※このアプリでは著作権フリーの音楽を利用しております。",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/5a/6e/645a6e62-bbf6-0187-9581-7db678f6e064/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1517399178",
+    "country": "Russia",
+    "name": "Я – школьник",
+    "seller": "TSTT RT, GKU",
+    "genre": "Education",
+    "released": "2020-09-27",
+    "updated": "2025-09-22",
+    "ratings_local": 2815,
+    "avg_rating": 4.32,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 9,
+    "languages": [
+      "RU",
+      "TT"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "дневник благодарности",
+      "дневник настроения"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA/id1517399178",
+    "seller_url": "http://ya-shkolnik.tatar.ru",
+    "description": "Я – школьник — официальное мобильное приложение для татарстанских школьников. Сервис поможет тебе готовиться к урокам и улучшать свою успеваемость через удобный доступ к цифровым сервисам Электронного образования Республики Татарстан (ms-edu.tatar.ru, Моя школа). \n\nВ «Я – школьник» это суперсервис, где ты получаешь возможность:\n– следить за расписанием и важной информацией об уроках\n– получать домашние задания и планировать их выполнение\n– изучать и выполнять дополнительные материалы к домашним заданиям\n– изучать подборки видео, тесты и задания к предметам\n– следить за оценками и статистикой\n– держать связь с учителем\n– отслеживать свой рейтинг в классе\n– получать ответы на самые разные вопр",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/b4/e5/e3b4e5e1-752c-8b20-5053-4fc0df77b299/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1511288995",
+    "country": "Russia",
+    "name": "Mintalitea: КПТ дневник",
+    "seller": "Andrey Kropotov",
+    "genre": "Health & Fitness",
+    "released": "2020-05-07",
+    "updated": "2026-04-20",
+    "ratings_local": 825,
+    "avg_rating": 4.84,
+    "ratings_us": 17,
+    "in_us": true,
+    "dev_apps": 5,
+    "languages": [
+      "EN",
+      "FR",
+      "DE",
+      "IT",
+      "JA",
+      "PL",
+      "PT",
+      "RU",
+      "ES",
+      "TR",
+      "UK"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 3
+    },
+    "matched_keywords": [
+      "дневник благодарности",
+      "дневник настроения",
+      "самопомощь"
+    ],
+    "url": "https://apps.apple.com/ru/app/mintalitea-%D0%BA%D0%BF%D1%82-%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA/id1511288995",
+    "seller_url": "https://mintalitea.com",
+    "description": "Mintalitea — психологический мобильный дневник: вы по шагам записываете ситуацию, мысли, эмоции и реакции и лучше понимаете себя через призму когнитивно-поведенческой терапии (КПТ). Более 50 000 пользователей по всему миру.\n\nКОМУ ПОДОЙДЁТ\n• Хотите проговорить сильные переживания и успокоиться\n• Замечаете автоматические мысли и убеждения, которые тянут вниз\n• Укрепляете баланс благодарностью и целями\n• Любите графики и статистику по эмоциям и сценариям реакций\n\nОСНОВНОЕ\n• Пошаговые записи: ситуация, мысли, эмоции, реакция, убеждения, сценарий\n• Статистика частоты эмоций, реакций и убеждений\n• Анонимное хранение на сервере, синхронизация между устройствами и после переустановки\n\nPREMIUM (подпи",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/ea/e2/aaeae2bf-92af-8ad0-a1da-23a5933d7f12/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  }
+]

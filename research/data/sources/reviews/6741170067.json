@@ -1,0 +1,105 @@
+{
+  "app": "Macro AI - Calorie Tracker",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-08-06T08:26:27-07:00",
+      "rating": 1,
+      "title": "Can’t use without purchasing a subscription",
+      "text": "Jsut downloaded. I’m not even allowed to access and part of the app until I sign up for a subscription. Waste of my time",
+      "version": "3.1.6"
+    },
+    {
+      "date": "2026-08-01T19:32:33-07:00",
+      "rating": 1,
+      "title": "Horrible",
+      "text": "I can’t delete and it makes you pay !",
+      "version": "3.1.6"
+    },
+    {
+      "date": "2026-08-01T15:22:26-07:00",
+      "rating": 3,
+      "title": "It’s okay",
+      "text": "Works pretty good most of the time; however, I’m going to cancel. I had the unlimited plan and today it quit analyzing food because it said my “Open AI” limit was reached. Also it consistently analyzed foods well above the actual calories. My buddy had the Android version and his were usually 200 cals lower. Devs need to update this app.",
+      "version": "3.1.6"
+    },
+    {
+      "date": "2026-06-15T16:26:14-07:00",
+      "rating": 1,
+      "title": "Stopped Working Randomly",
+      "text": "I got the app and even payed for a yearly subscription and then all of a sudden the scan camera stopped working. My phone’s regular camera works fine, but the app scanning feature just stopped working entirely. Right after I payed the 30$ for the subscription too. I tried redownloading the app but nothing worked. Nice.",
+      "version": "3.1.5"
+    },
+    {
+      "date": "2026-06-03T05:52:08-07:00",
+      "rating": 3,
+      "title": "Overall good app but has glitches",
+      "text": "It gets the job done, easy to use. But it does have some flaws. After 31 days, the app stops updating the streak of how many days straight you’ve been logging. It also doesn’t allow you to go back to previous logs other than the ones for the week you’re on (Mon-Sunday). I find those two things pretty annoying as sometimes I have to research the macros for a food item and it would be nice to be able to view it from previous weeks if I eat it again vs having to go search for it online again. And not being able to see the accurate streak days is a bit discouraging.",
+      "version": "3.1.5"
+    },
+    {
+      "date": "2026-04-23T20:25:35-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "This is the best ai calorie tracker app try it you won’t regret it",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-04-22T09:32:46-07:00",
+      "rating": 4,
+      "title": "Easy to use and cheap",
+      "text": "I used MyFitnessPal for years and this is 10000x easier and I’m more inclined to log food because of that. My only complaint is that there aren’t any home screen widgets available!",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-04-15T08:47:15-07:00",
+      "rating": 5,
+      "title": "Best app",
+      "text": "Very easy and simple, designed very well.",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-04-13T07:52:15-07:00",
+      "rating": 3,
+      "title": "Features",
+      "text": "So far, I’m enjoying the app, but some things that could be helpful would be to be able to see the specific grams that I added to each item if I need to reuse it again. Can we make it so that we can go back to previous weeks to see what food we did eat right now it just stays on the current week (M-Sun). We only have the option to change the serving size by 1/2. Would like the option to put in specific grams or and to change it by 1/4th.",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-03-29T18:21:40-07:00",
+      "rating": 3,
+      "title": "Seems like an okay app but…",
+      "text": "I tried the free trial but I would still weigh my food and count my calories manually. This app is wayyy off of the calories even when I would write it down instead of take a pic.",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-03-26T15:55:55-07:00",
+      "rating": 1,
+      "title": "Steer clear",
+      "text": "Do yourself a favor. Do not get the “free trial”. Horrible mistake",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-03-14T17:19:39-07:00",
+      "rating": 1,
+      "title": "Very inaccurate",
+      "text": "Unless you manually enter in all foods and their values, you’ll get numbers that’s are very inaccurate.  It greatly over estimates how many calories in a food, even after scanning the bar code. Very unreliable.",
+      "version": "3.0.2"
+    },
+    {
+      "date": "2026-02-07T10:44:04-07:00",
+      "rating": 5,
+      "title": "Waigt loss",
+      "text": "I love this app. It is helping me lose my weight. Y’all should definitely try this app.",
+      "version": "3.0.1"
+    },
+    {
+      "date": "2026-01-26T04:29:46-07:00",
+      "rating": 1,
+      "title": "not useful",
+      "text": "it’s not that great",
+      "version": "3.0.0"
+    }
+  ]
+}

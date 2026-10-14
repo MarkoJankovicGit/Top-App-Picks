@@ -1,0 +1,292 @@
+[
+ {
+  "key": "r:deenoverdunyafreeiosplanner",
+  "name": "Deen Over Dunya (free iOS planner)",
+  "country": "Global / unknown",
+  "seller": "DEEN OVER DUNYA TECHNOLOGIES INC",
+  "dev_type": "small company",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Free iOS planner 'that makes room for ...' (title truncated; the brand is faith-first planning). Requires iOS 17+, English and Arabic, all current features free, no subscription (as stated).",
+  "sets_apart": "Planner built around faith priorities instead of productivity-first scheduling.",
+  "traction": "Reddit: r/MuslimDevelopers post 1 week ago. App Store: 1 rating (5.0); released 2026-03-14, v1.1 updated 2026-07-24.",
+  "monetization": "Free, no subscription (as stated)",
+  "url": "https://apps.apple.com/us/app/id6758906721",
+  "evidence": [
+   {
+    "title": "Deen Over Dunya: a free iOS planner that makes room for ...",
+    "subreddit": "r/MuslimDevelopers",
+    "age": "1 week ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:niyyahqurancompanion",
+  "name": "Niyyah Quran Companion",
+  "country": "Global / unknown",
+  "seller": "hibo mohamed (App Store seller)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Qur'an study companion combining journaling, vocabulary, progress tracking and private study circles.",
+  "sets_apart": "Private study circles (accountability with friends) plus vocabulary/progress mechanics in a Qur'an study app.",
+  "traction": "Reddit: r/MuslimDevelopers 5 comments (1 week ago). App Store: 0 ratings; released 2026-09-21 (v1.0). Brand new.",
+  "monetization": "Free download; model not captured",
+  "url": "https://apps.apple.com/us/app/id6799808008",
+  "evidence": [
+   {
+    "title": "I couldn't find a Qur'an app that combined all of these ...",
+    "subreddit": "r/MuslimDevelopers",
+    "age": "1 week ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:myhaydappusermention",
+  "name": "MyHayd App (user mention)",
+  "country": "Global / unknown",
+  "seller": "MyHayd App Services Inc.",
+  "dev_type": "small company",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": true,
+  "what_it_is": "Period tracker for Muslim women (hayd tracking), recommended by a user in a 'Period in Ramadan' thread.",
+  "sets_apart": "Same faith-aware cycle-tracking niche as AYDA; mentioned by users, not by the maker.",
+  "traction": "Reddit: mentioned in r/muslimgirlswithtaste 'Period in Ramadan' (10+ comments, 7 months ago). App Store: 19 ratings (4.37); released 2025-04-18, v4.3.0 updated 2026-10-03.",
+  "monetization": "Free download; model not captured",
+  "url": "https://apps.apple.com/us/app/id6739942459",
+  "evidence": [
+   {
+    "title": "Period in Ramadan (snippet: 'there's an app called Myhayd App, its a period tracker')",
+    "subreddit": "r/muslimgirlswithtaste",
+    "age": "7 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:krokadhdstepbysteproutineapp",
+  "name": "KROK (ADHD step-by-step routine app)",
+  "country": "Poland",
+  "seller": "unknown (the mention sits in a help-request thread; unclear whether the maker or a commenter posted it)",
+  "dev_type": "solo (implied)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Free app that gives step-by-step instructions for everyday tasks, designed mainly for ADHD/AuDHD users; promised to stay free, with no login and no ads.",
+  "sets_apart": "Step-by-step routine guidance for neurodivergent users; free forever, no login, no ads.",
+  "traction": "Thread 'My daughter needs instructions for the simplest tasks' has 90+ comments (2 weeks ago); a 0:38 video appears next to the Google result. Not found in the App Store (pl/us) -> probably web/PWA.",
+  "monetization": "Free (stated: 'always free, no login, no ads')",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Moja córka potrzebuje instrukcji do najprostszych czynności. ...",
+    "subreddit": "r/Polska",
+    "age": "2 weeks ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:powerhabitsvcru",
+  "name": "PowerHabits (vc.ru)",
+  "country": "Russia",
+  "seller": "unknown",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Habit tracker combined with a workout diary and to-do list, with gamification and analytics.",
+  "sets_apart": "Built because the maker could not find a habit tracker for an active lifestyle; all-in-one habit + training log.",
+  "traction": "vc.ru article 4 Aug 2026; no numbers in the snippet. App Store has a 'Power Habits Tracker' (Jan Bosshard, released 2026-09-11) but the seller does not match a Russian-language maker, so it is NOT accepted as the same app.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Как я не нашел подходящий трекер привычек и ... (PowerHabits)",
+    "subreddit": "vc.ru (non-Reddit)",
+    "age": "4 Aug 2026"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:рывокryvokgamifiedappwithlevelsandachievements",
+  "name": "Рывок (Ryvok) - gamified app with levels and achievements",
+  "country": "Russia",
+  "seller": "unknown",
+  "dev_type": "solo/small (implied by 'my app')",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "App with levels, achievements and monetization, reviewed by a designer (39 remarks). Lens fit unconfirmed: levels + achievements suggest a gamified self-improvement app.",
+  "sets_apart": "Public design teardown (level display, achievements, monetization, design errors).",
+  "traction": "vc.ru article 10 Sep 2026; no numbers.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Заказал разбор своего приложения и получил 39 замечаний (Рывок)",
+    "subreddit": "vc.ru (non-Reddit)",
+    "age": "10 Sep 2026"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:obooktexttospeech",
+  "name": "Obook - Text to Speech",
+  "country": "Turkey",
+  "seller": "MHD AMIN ALLAHHAM (App Store seller; Reddit: 'Emin, a solo developer from Turkey' - match inferred from app name + description)",
+  "dev_type": "solo",
+  "lenses": [
+   "K3",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "AI reading assistant: turns PDFs, EPUBs, documents and articles into natural-sounding audio, with follow-along text and several languages.",
+  "sets_apart": "The user supplies their own PDF/ebook (K2-style input) and gets audio to listen to anywhere (K3); built solo over 8 months (React Native app + Node backend, per snippet).",
+  "traction": "Reddit: launch thread 10+ comments (2 weeks ago). App Store: 3 ratings (TR, 5.0), 0 in US; released 2026-03-11, v1.0.62 updated 2026-10-11 (ships often). Very early.",
+  "monetization": "Free download; in-app model not captured",
+  "url": "https://apps.apple.com/us/app/id6746949882",
+  "evidence": [
+   {
+    "title": "Solo dev here: I spent 8 months building a PDF-to-audiobook ...",
+    "subreddit": "r/SideProject",
+    "age": "2 weeks ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:digitalnadosadaserbianaudiobooksapp",
+  "name": "Digitalna Dosada (Serbian audiobooks app)",
+  "country": "Serbia",
+  "seller": "unknown (maker looking for collaborators)",
+  "dev_type": "small team (implied)",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Audiobooks in Serbian; at the time only on Android, iOS planned.",
+  "sets_apart": "Local-language audiobooks built by volunteers/collaborators.",
+  "traction": "r/serbia 20+ comments (~5 years ago); status today unknown; not in the App Store (rs/us).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Audio knjige na srpskom - u potrazi za saradnicima/ ...",
+    "subreddit": "r/serbia",
+    "age": "~5 years ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:tfaddalupalestinianarabic",
+  "name": "Tfaddalu: Palestinian Arabic",
+  "country": "Finland",
+  "seller": "Bobo Labs Oy (site tfaddalu.com)",
+  "dev_type": "small company (likely solo/tiny team; new Finnish Oy)",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "iOS app teaching Palestinian Arabic: words, sentences and audio, all in the Palestinian dialect.",
+  "sets_apart": "Dialect-first (Palestinian) instead of Modern Standard Arabic; audio for every item.",
+  "traction": "r/learn_arabic launch thread 30+ comments (3 months ago). App Store: 6 ratings (US, 5.0) + 1 (GB); released 2026-07-09, v1.0.20 updated 2026-10-12 (very active).",
+  "monetization": "Free download; model not captured",
+  "url": "https://apps.apple.com/us/app/id6784313314",
+  "evidence": [
+   {
+    "title": "I just launched Tfaddalu, an app tha teaches Palestinian ...",
+    "subreddit": "r/learn_arabic",
+    "age": "3 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:natulanglanguagelearning",
+  "name": "Natulang - Language Learning",
+  "country": "Poland",
+  "seller": "Natulang OU",
+  "dev_type": "small company",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Language-learning app that promises to take you from zero to watching films with subtitles in the target language; English course for Polish speakers announced on r/poland.",
+  "sets_apart": "Goal-led course design (be able to watch films with subtitles); launched with one course.",
+  "traction": "App Store: 420 ratings (US, 4.81) + 47 (PL); released 2023-03-25, v1.5.230 updated 2026-10-06. Reddit thread date/comment count not shown (thread id suggests ~late 2023).",
+  "monetization": "Free download (store); subscription model not captured",
+  "url": "https://apps.apple.com/us/app/id1672038621",
+  "evidence": [
+   {
+    "title": "Natulang: an app to learn English for Polish ...",
+    "subreddit": "r/poland",
+    "age": "unknown (~2023)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:diomahebrewlearningwebapp",
+  "name": "dioma (Hebrew learning web app)",
+  "country": "Global / unknown",
+  "seller": "unknown ('I built dioma over the last year')",
+  "dev_type": "solo/small (implied)",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Web-based Hebrew learning app for intermediate learners.",
+  "sets_apart": "Targets the intermediate gap that Duolingo-style apps skip; web only.",
+  "traction": "r/hebrew 'Best Hebrew App' thread 20+ comments (3 months ago).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Best Hebrew App : r/hebrew",
+    "subreddit": "r/hebrew",
+    "age": "3 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:lingualeaprapidfirevocabularygameandroid",
+  "name": "LinguaLeap (rapid-fire vocabulary game, Android)",
+  "country": "Turkey",
+  "seller": "unknown ('indie developer from Turkey')",
+  "dev_type": "solo",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "100% free Android vocabulary game designed to force fast recall instead of slow study.",
+  "sets_apart": "Rapid-fire vocabulary drills as a game; free.",
+  "traction": "r/SideProject post ~4 months ago; Android-only (no App Store listing found).",
+  "monetization": "free (as stated)",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built a rapid-fire vocabulary game because standard ...",
+    "subreddit": "r/SideProject",
+    "age": "4 months ago"
+   }
+  ],
+  "confidence": "low"
+ }
+]

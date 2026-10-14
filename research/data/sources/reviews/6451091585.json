@@ -1,0 +1,357 @@
+{
+  "app": "DietAI: Calorie Counter & Diet",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-07-24T21:56:25-07:00",
+      "rating": 1,
+      "title": "Not working",
+      "text": "I paid for the full year subscription. In the first month it work since I stopped using for a couple of months now I am trying to use it but it is not working app not allowing me to upload meals",
+      "version": "5.22.4"
+    },
+    {
+      "date": "2026-07-24T08:14:56-07:00",
+      "rating": 1,
+      "title": "Do not download.",
+      "text": "Terrible app. I paid for the yearly subscription and for the last week I have been unable to add any new foods through prompt or picture. I would recommend you save your money for a dieting app that works properly. I still have yet to receive a refund.",
+      "version": "5.22.4"
+    },
+    {
+      "date": "2026-06-15T23:47:11-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "App makes you answer like 15 questions before blocking you with a pay wall. I usually don’t leave a review but since I waisted my time, might as well review the waist of time app. Not weight lost app",
+      "version": "5.22.4"
+    },
+    {
+      "date": "2026-06-06T19:43:06-07:00",
+      "rating": 1,
+      "title": "Refuses to log in",
+      "text": "App used to let me log in without issue, bow I cannot log in at all as of a couple months ago. Even deleting the app and reinstalling would not fix it",
+      "version": "5.22.3"
+    },
+    {
+      "date": "2026-06-06T19:25:05-07:00",
+      "rating": 1,
+      "title": "Trash App",
+      "text": "Paid the subscription for the year which was $30.00 doesn’t even let me log in to my account. Stays frozen on the login screen \nTHIS APP HAS SO MANY BUGS needs to be Fixed",
+      "version": "5.22.3"
+    },
+    {
+      "date": "2026-05-31T07:01:27-07:00",
+      "rating": 5,
+      "title": "ℍ𝕖𝕝𝕡",
+      "text": "𝕋𝕙𝕚𝕤 𝕒𝕡𝕡 𝕙𝕖𝕝𝕡 𝕒 𝕝𝕠𝕥 𝕚𝕥 𝕤𝕠 𝕟𝕚𝕔𝕖",
+      "version": "5.22.3"
+    },
+    {
+      "date": "2026-05-12T18:00:50-07:00",
+      "rating": 2,
+      "title": "Scan Barcode Doesn’t Work",
+      "text": "Whenever you scan the barcode of the food it no longer works , just states “ not found “ please fix",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-05-02T06:09:44-07:00",
+      "rating": 4,
+      "title": "Suggestion",
+      "text": "Can u add a way to track sugar in take in foods",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-04-26T12:55:19-07:00",
+      "rating": 5,
+      "title": "Feliz me encanta",
+      "text": "Feliz",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-04-25T12:23:27-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "This app is great",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-03-24T23:16:21-07:00",
+      "rating": 5,
+      "title": "Weight loss",
+      "text": "Great it makes it much easier to count calories",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-03-18T08:49:16-07:00",
+      "rating": 1,
+      "title": "Don’t waste your money",
+      "text": "Overpriced garbage calorie tracker. Literally identical to the Cal AI app in every way, because both of them are trash money grabs. \n\nGo use the MyFitnessPal app and forget paying for this junk.",
+      "version": "5.21.0"
+    },
+    {
+      "date": "2026-03-04T15:03:21-07:00",
+      "rating": 5,
+      "title": "Best diet app",
+      "text": "Have been using this app for a while and it’s real simple to use and gives you everything you need to know.",
+      "version": "5.20.2"
+    },
+    {
+      "date": "2026-02-18T14:32:14-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "As a 10 year old I was 120 pounds and I went down to 91.2",
+      "version": "5.20.2"
+    },
+    {
+      "date": "2026-01-04T12:52:13-07:00",
+      "rating": 3,
+      "title": "Widget issue",
+      "text": "The app still sends to have an issue with the widgets working. It continues to ask me to sign in even though I already am.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-12-22T15:57:12-07:00",
+      "rating": 1,
+      "title": "Frustrating",
+      "text": "I started using this ad back in May and it is currently December in the app is completely broken. The app won’t let you set your macros. And I’m not sure if the creators of the app still cares.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-12-02T07:38:51-07:00",
+      "rating": 1,
+      "title": "DO NOT GET IT",
+      "text": "This app blows. Yeah it’s a good idea in the start but it’s like the developers just forgot about it and left it to die off. There’s a lot of bugs, widget doesn’t work, and I can’t put any goals for my macros it doesn’t let me change it. It’s glitchy and slow too. DONT WASTE YOUR TIME. I GOT THE YEARLY SUBSCRIPTION AND WILL BE DISPUTING.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-11-02T21:02:48-07:00",
+      "rating": 1,
+      "title": "No updates",
+      "text": "Lost everything. After tracking for months. Now it’s riddled with bugs. Wish I didn’t listen to whatever fitness influencer was pushing this garbage.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-10-26T10:46:10-07:00",
+      "rating": 4,
+      "title": "I loved it but still I didn’t want to pay my money on this, but it’s OK",
+      "text": "It’s good it’s good. I was going to read it five stars, but I couldn’t. The app is good. You should download it but frustrating.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-10-06T10:17:37-07:00",
+      "rating": 1,
+      "title": "Cannot Access",
+      "text": "You can’t even sign up or login. Permanently frozen log in screen as of today.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-09-18T08:50:37-07:00",
+      "rating": 1,
+      "title": "Don’t buy!",
+      "text": "App logged me out and will not logged me back in no matter what I do!",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-09-10T13:56:30-07:00",
+      "rating": 1,
+      "title": "Doesn’t allow sign in",
+      "text": "I tried to sign in and it no longer allows me and I paid the subscription smh I have cancelled subscription and have it until March of next year but can’t sign in nor change password smh. Do Not Buy!",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-09-08T22:08:17-07:00",
+      "rating": 1,
+      "title": "Malfunction",
+      "text": "I was trying to use my APP after a few weeks of not using it. I used the paid membership, but now it has logged me out & won’t log me back in. I did like using the app but i can’t believe I spent money on this app to not be able to use it. I looked this app up & noticed that other people are having the same issue with this app. Please just give me a refund at this point.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-09-07T09:58:59-07:00",
+      "rating": 1,
+      "title": "Smh",
+      "text": "Won’t let me login and i paid for it",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-08-15T16:55:34-07:00",
+      "rating": 2,
+      "title": "Super expensive",
+      "text": "The app seems amazing but I don’t see myself paying  9$ a week. Maybe a month?",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-08-13T20:51:25-07:00",
+      "rating": 1,
+      "title": "Review",
+      "text": "The app was actually good compared to other apps. Unfortunately, not sure what they did or what happened but my referral money disappeared and couldn’t get back in my account. I eventually logged in and all my information was wiped. No credits, no saved meals, and can not even set macro goals. The number goes back to 0 no matter how many times I clock save.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-08-10T12:11:42-07:00",
+      "rating": 2,
+      "title": "Macros not tracking",
+      "text": "I try and set my macros and it doesn’t save",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-08-08T20:23:15-07:00",
+      "rating": 1,
+      "title": "Terrible don’t waste your money",
+      "text": "So I payed for the subscription and used it like 1 week straight but then I stopped using it and didn’t think much of it until I wanted to start using it again and I’m trying to log in and it won’t let me I keep on logging in through Apple and trying to see if I’m going anything wrong but now I’m unsatisfied because I already payed for the whole year and now I can’t even use it and I only actually used it for like a week",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-07-28T10:16:42-07:00",
+      "rating": 1,
+      "title": "Worked and won’t log me in anymore",
+      "text": "Downloaded the app, set my account up through Apple. Paid for the year subscription and now it will not log me into my account. I have reached out to get this issue fixed and no one seems to want to respond. \n\nEvery time I go to the log in screen and log in through Apple nothing happens. It just goes back to the log in screen. Won’t even let me make a new account. I’ve deleted and re-downloaded the app many times and still the same problem. I paid for something that I liked using and now can’t get in or get ahold of anyone to fix my issue. Would like it to work, if not I’ll be getting a refund",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-07-23T06:27:08-07:00",
+      "rating": 1,
+      "title": "Unable to update macro goals",
+      "text": "I’m unable to update the macro goals. First, I hate that I’m unable to type in a number and have to keep scrolling to the goal. Secondly, after scrolling to said number the app does not save the changes. Therefore, I still have to manually track everything. It defeats the purpose of the app.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-07-21T08:40:15-07:00",
+      "rating": 1,
+      "title": "It’s a good app when it works",
+      "text": "They logged you out, which is very annoying",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-07-20T08:58:24-07:00",
+      "rating": 3,
+      "title": "Was good",
+      "text": "App has worked well till this weekend haven’t been able to log in with Apple login. No direct way to communicate with app team. Has helped me lose 38 pounds but reading other reviews I feel like something is up with the developer. Says an update for bugs was sent 2 days ago and as far as I can tell it made things unusable.",
+      "version": "5.20"
+    },
+    {
+      "date": "2025-07-03T04:19:10-07:00",
+      "rating": 1,
+      "title": "Awful",
+      "text": "Nothing can do without subscribing",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-07-02T13:35:31-07:00",
+      "rating": 1,
+      "title": "You have to buy a trial",
+      "text": "U can’t do anything bc u have to buy a free trial so u can’t do nothing until u buy the trial",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-26T15:49:44-07:00",
+      "rating": 1,
+      "title": "Calories and everything is totally unaccurate",
+      "text": "Calories count is way to high even when you change serving size. For example: it was telling me 2 eggs on whole wheat toast was 800 calories when really it’s about 350. Absolutely ridiculous not worth the description.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T12:39:30-07:00",
+      "rating": 1,
+      "title": "Deleted Progess",
+      "text": "I woke up today to log my breakfast and noticed everything was set to “0”. Every single thing I logged, every meal saved, and my weight history are now gone. I tried utilizing the in-app help button only to realize the only “help” offered was to delete my account…",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T12:03:31-07:00",
+      "rating": 1,
+      "title": "Horrible",
+      "text": "Horrible app I wouldn’t spend your money on it did the yearly plan app crashes not even accurate Don’t waste your money.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T10:54:16-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "It deletes your plan and logged meals",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T09:09:17-07:00",
+      "rating": 1,
+      "title": "App is glitchy. Lost all my data!",
+      "text": "I was enjoying my first month with this app but it randomly crashed and all my data was gone! Paid for the annual membership and was only able to use it for a month. Save yourself some money and try something else out!",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T08:20:22-07:00",
+      "rating": 1,
+      "title": "Deleted all of my saved meals and macros randomly one day",
+      "text": "I’ve been using this app for several months now. It’s not the best, but it does the job. I wish I would’ve just bought premium my fitness pal instead. But this morning, I went to log my breakfast, and all of my calorie and macro goals were set to 0. Weird, so I turn my phone off and on and even log in and out of my profile and everything is just gone. All of my saved meals (over 50 at least) of the things I eat, all gone. P*ssed is an understatement.. I paid for this app and it went and deleted all of my progress and settings. Yeah I’m over it and I wouldn’t recommend this to anyone you’re better off using my fitness pal this thing doesn’t track any nutrients or minerals either.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T08:11:58-07:00",
+      "rating": 2,
+      "title": "Confused",
+      "text": "I really enjoyed this app have used for the last 4 months everyday bought a year subscription but all of a sudden today when I woke up the app wouldn’t work, it won’t let me log in my food nothing will load I have deleted and reinstalled 5 plus times and there is no support email or number available",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T05:28:00-07:00",
+      "rating": 2,
+      "title": "Glitchy",
+      "text": "This app is awesome 2/3 of the time, but often it doesn’t load any data and I can’t see my history or my saved foods. I have to open and close it 10 times or wait an hour to go back and see anything. Sometimes I am unable to add any foods. I scan them and they show loading and loading forever until you close the app and they completely disappear. I use it to keep track of my carbs for my insulin dosage and it is terribly unreliable. I paid for a year so I have been using it for about 3 months. The updates are not fixing the problems. Customer service is impossible to reach.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-19T02:52:36-07:00",
+      "rating": 1,
+      "title": "I mean cmon",
+      "text": "This is easily the least efficient diet app I have ever used, there is constant issues with loading, sometimes the app wont even get past the title screen, scanning food hardly works half the time, extremely inaccurate results after scanning the food, and I logged on this morning only to figure out that all of my data had been miraculously erased.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-11T13:51:49-07:00",
+      "rating": 1,
+      "title": "got charged $20 for the yearly plan twice, then i got logged out",
+      "text": "so i got this app back in april, i tried paying for the yearly subscription through apple pay and i ended up getting charged twice, so $40 in total. i never got my money back. i also tried to log in today after not logging in for a week or so, it logged me out, i have no way of getting back into my account and its trying to get me to pay AGAIN for a subscription that i already paid twice. i really just want my money back at this point. im tired of all these apps just scamming you and logging you out. i'd either like help with this issue and to get my account back, or i want a full refund.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-05T17:35:27-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "5/5 perfect",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-06-02T19:58:04-07:00",
+      "rating": 1,
+      "title": "Awful App",
+      "text": "I haven’t had the AI come close once and I’m 5 days in. If you scan a nutrition label, it does the whole thing as one so you have to scroll for days to correct it. The widget hasn’t worked either. Tells me “must sign in”. Not to mention, no way to reach support. I want my money back developers!",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-05-30T07:23:28-07:00",
+      "rating": 1,
+      "title": "Trash",
+      "text": "Spent 15 to 20 minutes answering a bunch of questions and then wasted another half hour trying to log in. Deleted.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-05-28T10:07:24-07:00",
+      "rating": 2,
+      "title": "Just Doesn’t Work",
+      "text": "The 12k positive reviews are definitely bots. The app is super janky, and half of the screens don’t fit on my phone which is just from lazy coding. I scanned 5 regular eggs this morning and it said it was 750 calories. The scans are inaccurate and you can’t even click off of the settings screen. My account email had typos in it (@gmail.con), and the app didn’t even verify that it was an incorrect email. Just pure copy paste of other AI apps and not well made at all.",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-05-15T06:49:20-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "I was scammed by this app they stole 40 dollars from me, and I didn’t even receive the plan, and it logged me out so I couldn’t do anything about it. Do not buy SCAM!!!!",
+      "version": "5.15"
+    },
+    {
+      "date": "2025-05-14T21:40:18-07:00",
+      "rating": 1,
+      "title": "SCAM - DON’T SIGN UP",
+      "text": "After I signed up for the free trial, I couldn’t log into my account or access the subscription management. I emailed their support to request cancellation and still haven’t gotten a response. Had to dispute the charges on my credit card.",
+      "version": "5.15"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "app": "PGA Tour",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-21T09:33:34-07:00",
+      "rating": 1,
+      "title": "App completely non-functional",
+      "text": "I don’t know what happened, but when I opened the app today, the little shot trail animation came up and the screen went to just all white.  No options to see the schedule, the leaderboard, etc.  Just nothing.  Tried reinstalling the app, but same results.  This happens on both the iPad and iPhone versions.  I hope it is just their servers, not the app itself.",
+      "version": "2026.2.32"
+    },
+    {
+      "date": "2026-08-29T14:52:59-07:00",
+      "rating": 1,
+      "title": "NOT USER FRIENDLY AT ALL",
+      "text": "Had to actually update my review for a 2nd time. The concept of the app an event is nonexistent. It’s SSSSOOOOO. Bad at the Tour Championship. AWFUL. Map sucks and is totally inaccurate",
+      "version": "2026.2.30"
+    },
+    {
+      "date": "2026-08-27T11:22:40-07:00",
+      "rating": 1,
+      "title": "ipad App is a disaster",
+      "text": "PGA Tour has done nothing to develop an app that works well. - when you open the app the video at the top is half cutoff and super grainy - there is so much wasted real estate on the leaderboard page - much better off just using a web browser - disaster",
+      "version": "2026.2.30"
+    },
+    {
+      "date": "2026-08-22T10:32:52-07:00",
+      "rating": 3,
+      "title": "Shot trails",
+      "text": "When enlarging shot trails on app the group button is not there. Please fix.",
+      "version": "2026.2.29"
+    },
+    {
+      "date": "2026-08-06T08:48:19-07:00",
+      "rating": 2,
+      "title": "Leaderboard",
+      "text": "Leaderboard won’t open upon opening the app even though I have that option selected",
+      "version": "2026.2.27"
+    },
+    {
+      "date": "2026-07-30T14:37:48-07:00",
+      "rating": 2,
+      "title": "weak for ticketing",
+      "text": "Tickets are hard to find. Ticketing interface with Ticketmaster is not seamless",
+      "version": "2026.2.26"
+    },
+    {
+      "date": "2026-07-25T13:33:48-07:00",
+      "rating": 2,
+      "title": "Baggage",
+      "text": "Any time you log on the app grows by adding documents and data, Need to allow user the option of deleting same",
+      "version": "2026.2.25"
+    },
+    {
+      "date": "2026-07-18T05:05:23-07:00",
+      "rating": 1,
+      "title": "Horrible leaderboard",
+      "text": "Make it simple stupid.",
+      "version": "2026.2.25"
+    },
+    {
+      "date": "2026-07-17T08:51:21-07:00",
+      "rating": 1,
+      "title": "Sloooow updates",
+      "text": "Horrible updates on scoring! Takes 15-30 minutes for scores to be posted‼️ in a world of instant communication this is Neanderthal performance‼️ I Can’t believe the PGA Tour allows such horrible reporting……they’re so busy with useless tracking, bling & tech they can’t fix the #1 reason they exist “report live scoring” 🤮",
+      "version": "2026.2.25"
+    },
+    {
+      "date": "2026-06-29T12:34:20-07:00",
+      "rating": 5,
+      "title": "Broken after latest update",
+      "text": "Updated the app, and now it doesn’t work at all.  I just get a blank black screen after the loading page.  Can’t use it at all.  Please fix immediately.",
+      "version": "2026.2.24"
+    },
+    {
+      "date": "2026-06-21T12:52:58-07:00",
+      "rating": 2,
+      "title": "Its nice but super delayed.",
+      "text": "Sooooo delayed",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-20T18:03:21-07:00",
+      "rating": 4,
+      "title": "Ways to improve the app and my opinion of the app",
+      "text": "plese do under tee times how much under or over par each player is for there individual tee times",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-19T17:24:44-07:00",
+      "rating": 1,
+      "title": "Ad Overkill",
+      "text": "The ridiculous amount of ads ruins the experience.  They are fully across the whole iPad Pro screen.  Allow a paid version to remove them or just cut them back by about 90% and make them smaller and less in the way.",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-19T15:12:29-07:00",
+      "rating": 1,
+      "title": "How does ESPN have faster updates on scores than the PGA Tour?",
+      "text": "This app is trash. It's the US Open and no shot tracker. They show Rory on 18 and he's doing a TV interview AFTER he signed his card. Just like NBC, they need to up their game!",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-18T12:48:03-07:00",
+      "rating": 3,
+      "title": "SLOWWWWWW!!!!",
+      "text": "I like this app to check out the leaderboard when I can’t watch the tournament. However, it’s agonizingly slow, taking 20-30 minutes to update scores. I don’t know how the organization that literally controls the events can’t create an app update scores faster.",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-18T09:15:49-07:00",
+      "rating": 1,
+      "title": "Scores Not current",
+      "text": "Why can’t this app keep up with the currant score? Unacceptable!",
+      "version": "2026.2.21"
+    },
+    {
+      "date": "2026-06-06T13:50:28-07:00",
+      "rating": 1,
+      "title": "App broken",
+      "text": "Leaderboard for champions tour doesn’t work. Just gives you a white screen. Tried removing app and reinstalling, but didn’t work. Was  good when it worked but not now.",
+      "version": "2026.2.19"
+    },
+    {
+      "date": "2026-06-04T04:45:38-07:00",
+      "rating": 3,
+      "title": "Late",
+      "text": "The leaderboard is consistently behind the real-life pace by multiple holes. It can take up to 30 minutes for new data from the course to be reflected on the PGA Tour’s official leaderboard, both on the app and the website. This is inexcusable when the Masters has a much better and faster app even though it is only used for one weekend out of the entire year.",
+      "version": "2026.2.19"
+    },
+    {
+      "date": "2026-05-30T08:06:12-07:00",
+      "rating": 1,
+      "title": "Broken all around",
+      "text": "I get signed out of my account every single day!! I get alerts for round 1 completions during round 3.",
+      "version": "2026.2.18"
+    },
+    {
+      "date": "2026-05-17T16:02:02-07:00",
+      "rating": 2,
+      "title": "Updates are a joke",
+      "text": "Scores are at least one to two holes behind. What a joke!",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-17T16:01:39-07:00",
+      "rating": 5,
+      "title": "PGA Tour vs LIV Tour",
+      "text": "I do not think any of the LIV players should be able to play in any of our PGA tournaments like the Major tournaments. They are no longer a member of the PGA Tour. I wish they would consider changing this.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-17T15:47:12-07:00",
+      "rating": 3,
+      "title": "Slow Score Updates",
+      "text": "The app has a lot of great features, I love the overview of the holes, and looking up stats, but what I mainly use the app for is for score updates. Unfortunately within the past few months the score updates have gotten incredibly slow, at least two holes, if not 3 holes behind real time events. I’ve tried restarting the app and other troubleshooting, but it appears to be an issue with the app itself. Shame.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-17T15:32:40-07:00",
+      "rating": 2,
+      "title": "So LATE!!",
+      "text": "I’ve never seen such a lame sports app from a “real-time” perspective. Baseball and football apps provide every pitch or snap asap. This app runs SO behind the live event. Sometimes it takes 20 minutes to have the correct scores on the leaderboard. Just unreal.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-16T23:20:27-07:00",
+      "rating": 1,
+      "title": "Previously finished event shows up as current event",
+      "text": "I’m using this app from Korea and current event shows up as previously done event, and not sure how to fix this.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-16T14:19:29-07:00",
+      "rating": 3,
+      "title": "Slow to update",
+      "text": "Great app except always behind.  Current watching\n2026 PGA Championship, the leader is walking down 18 and the app still shows he just completed 16!",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-16T12:40:25-07:00",
+      "rating": 1,
+      "title": "So slow",
+      "text": "This app is good at the end of a round but is so unbelievably slow during play.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-15T10:12:36-07:00",
+      "rating": 2,
+      "title": "Love the golf, terrible app",
+      "text": "I’ve been there five events this year and this app gets overwhelmed very easy and does not update and I never know the actual real time score. They gotta do some upgrades.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-15T09:03:54-07:00",
+      "rating": 2,
+      "title": "Leaderboard Lag",
+      "text": "The leaderboard lags at least 20-30 minutes behind espn and live play. Very disappointing!!!!",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-15T06:35:06-07:00",
+      "rating": 3,
+      "title": "Why so far behind?",
+      "text": "I like all the features but leaderboard is about a half hour behind! Sometimes I see spelling errors in golfer names. Otherwise, it’s easy to use. I do wish I could customize my view.",
+      "version": "2026.2.17"
+    },
+    {
+      "date": "2026-05-04T06:17:00-07:00",
+      "rating": 3,
+      "title": "Slow opening",
+      "text": "It takes a long time to open the app on my iPad. The content is good once inside but getting it open is very frustrating. It becomes my last choice for tee times or leaderboards.",
+      "version": "2026.2.15"
+    },
+    {
+      "date": "2026-05-02T05:47:22-07:00",
+      "rating": 1,
+      "title": "Horrible App for iPad",
+      "text": "It’s official now that I have deleted this app from my iPad! It has gotten worst! It’s great for a phone but iPad forget it! The format does not work on an iPad. The home page at the top used to have a video, but could only see half of it, now it is blank and just blinks and never downloads. There are other issues but would take to long to tell you. I have the GolfChannel app now and it works! GolfChannel has great features! Maybe you should ask them how to make a format work for all iPads, phones etc. I gave a one star only because your app actually works for a iPhone. I don’t understand how the GolfChannel, ESPN, etc can have their apps work for all platforms but you can’t!? Get it together PGA and get it fixed!",
+      "version": "2026.2.15"
+    },
+    {
+      "date": "2026-05-01T23:57:41-07:00",
+      "rating": 4,
+      "title": "Good App Mostly",
+      "text": "Like the app for most of its purpose.  Somehow the sort on the round scores is messed up.  Rather than sorting with minus scores at the top and highest positive scores at the bottom, it sorts Even to Par scores, then negative, and finally positive scores.",
+      "version": "2026.2.15"
+    },
+    {
+      "date": "2026-04-30T09:46:42-07:00",
+      "rating": 3,
+      "title": "App not Opening",
+      "text": "After downloading an update to the PGA Tour app earlier today, it doesn’t launch. I rebooted my iPhone, but still it doesn’t launch. Updated version downloaded, but still the app doesn’t launch (iOS 16.17.4) This problem still exists. Please fix it. Sent emails to PGA HQ, but the same silent response as writing a review of the app. The PGA Golf developers are obviously not interested in resolving issues in reviews written by users of their app. Despicable if you ask me!!!\n\nNo action translates into “Can’t be bothered about addressing the issue of the app not loading.” You ought to be ashamed!",
+      "version": "2026.2.11"
+    },
+    {
+      "date": "2026-04-20T06:42:48-07:00",
+      "rating": 1,
+      "title": "Where are my tickets?",
+      "text": "They should be ultra handy and quick",
+      "version": "2026.2.13"
+    },
+    {
+      "date": "2026-04-14T07:48:24-07:00",
+      "rating": 2,
+      "title": "Notification spam",
+      "text": "The newest release added notifications every time a favorite player has a range session. There’s no ability to disable these notifications without losing other notifications for this player, so I either lose the notifications I do want or have to get spammed by notifications I don’t care about. Please fix this",
+      "version": "2026.2.13"
+    },
+    {
+      "date": "2026-04-04T19:39:43-07:00",
+      "rating": 1,
+      "title": "white screen after start",
+      "text": "the app shows the start screen then goes to a blank white screen…iphone 17 pro max running latest apple release",
+      "version": "2026.2.11"
+    },
+    {
+      "date": "2026-04-03T19:12:53-07:00",
+      "rating": 2,
+      "title": "Won’t load leaderboard",
+      "text": "You updated the app again tonight - Friday and it still won’t load the leaderboard. It’s been that way for 2 updates.",
+      "version": "2026.2.11"
+    },
+    {
+      "date": "2026-04-03T17:26:49-07:00",
+      "rating": 1,
+      "title": "Won’t update scores",
+      "text": "The app won’t update scores no matter what I do",
+      "version": "2026.2.11"
+    },
+    {
+      "date": "2026-04-02T09:26:22-07:00",
+      "rating": 2,
+      "title": "Leaderboard not updating",
+      "text": "Recently using this beginning last week from the Houston open, the leaderboard tab is displaying an error and show the leaderboard.",
+      "version": "2026.2.10"
+    },
+    {
+      "date": "2026-04-01T03:47:50-07:00",
+      "rating": 3,
+      "title": "PGA Tour App not Launching",
+      "text": "I use an iPhone 8 and the software version is iOS 16.7.15 which cannot be upgraded further. This iPhone model is no longer supported, having reached the end of its iOS support life cycle. This software functioned perfectly with your app until the latest upgrade to version 2026.2.6. So it looks like my software is no longer compatible with the PGA Tour app version 2026.2.6? Please confirm.\n\nI received the following response from the development team “Please update the Operating System to 17 or higher on your iPhone.” If you were to read my earlier post you will notice my software version is iOS 16.7.15 which cannot be upgraded further i.e. my phone has reached the end of it’s iOS support life cycle. So I can’t upgrade my iOS version. If this means I can no longer use the app, then so be it.",
+      "version": "2026.2.9"
+    },
+    {
+      "date": "2026-03-29T08:17:50-07:00",
+      "rating": 1,
+      "title": "Leaderboard",
+      "text": "Since most recent update, leaderboard is not working.  Before telling me to download most recent operating system, my phone is ALWAYS updated. The issue is the app. Fix it.",
+      "version": "2026.2.9"
+    },
+    {
+      "date": "2026-03-29T06:25:58-07:00",
+      "rating": 4,
+      "title": "No longer works in iOS 16",
+      "text": "Great app but stopped working on iOS 16 4 versions ago.",
+      "version": "2026.2.9"
+    },
+    {
+      "date": "2026-03-28T19:29:03-07:00",
+      "rating": 1,
+      "title": "Favorite players get wiped",
+      "text": "When you navigate away from the leader board, and then come back to it, the players you chose as a favorite disappear.",
+      "version": "2026.2.9"
+    },
+    {
+      "date": "2026-03-22T14:55:25-07:00",
+      "rating": 2,
+      "title": "Slow",
+      "text": "So slow on updating scores. No other professional sport has this problem. It’s bad",
+      "version": "2026.2.7"
+    },
+    {
+      "date": "2026-03-16T09:04:30-07:00",
+      "rating": 1,
+      "title": "Battery drain",
+      "text": "We had to download the app to access our tickets and the app drained our batteries.",
+      "version": "2026.2.6"
+    },
+    {
+      "date": "2026-03-15T15:23:35-07:00",
+      "rating": 3,
+      "title": "Player information gone",
+      "text": "App is lacking most information on players.  All the information that used to be on the players by clicking on their name, tapping on their picture is completely gone. This is information that gives us about the information of a player. We follow follow on every tournament is completely disappeared. If there’s a reason for this let us know.  If not, let us know why it’s gone and put it back. If there’s a reason, let us know what it is.  thank you.",
+      "version": "2026.2.6"
+    },
+    {
+      "date": "2026-03-14T13:37:09-07:00",
+      "rating": 1,
+      "title": "Can no longer open",
+      "text": "App will no longer open on my iPhone 8  iOS 16.7.15, after latest update 3 days ago…. Frustrating!",
+      "version": "2026.2.5"
+    },
+    {
+      "date": "2026-03-14T11:36:00-07:00",
+      "rating": 1,
+      "title": "Really?!?!",
+      "text": "Why must i chose a “favorite player”? I don’t care! I just want to watch pros golfing!!!",
+      "version": "2026.2.5"
+    },
+    {
+      "date": "2026-03-12T08:48:22-07:00",
+      "rating": 1,
+      "title": "Slow to load, requires constant updating",
+      "text": "Stinks just like most of the product that the Tour produces",
+      "version": "2026.2.5"
+    },
+    {
+      "date": "2026-03-10T12:33:32-07:00",
+      "rating": 1,
+      "title": "Latest update crashes on IOS 16.7",
+      "text": "After update select app won’t open goes to background.\nJust update to latest 2026.2.4 and app still won’t open on IOS 16.7",
+      "version": "2026.2.4"
+    }
+  ]
+}

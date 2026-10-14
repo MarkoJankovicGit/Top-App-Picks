@@ -1,0 +1,707 @@
+{
+  "app": "Heart Beat: Heart Rate Monitor",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T21:06:57-07:00",
+      "rating": 5,
+      "title": "# 1 Heartbeat test",
+      "text": "Good",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-07T16:47:22-07:00",
+      "rating": 4,
+      "title": "Good tool",
+      "text": "Very handy for checks",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-06T17:50:00-07:00",
+      "rating": 4,
+      "title": "I think it’s moderately accurate",
+      "text": "This is a cool app but I question the accuracy",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-06T10:31:25-07:00",
+      "rating": 1,
+      "title": "False advertising",
+      "text": "This does NOT check your blood pressure waste of money",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-06T08:38:10-07:00",
+      "rating": 5,
+      "title": "Test 1",
+      "text": "Good",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-04T11:39:12-07:00",
+      "rating": 5,
+      "title": "Chef",
+      "text": "Great",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-03T20:48:32-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "Seems like it works well to me",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-10-03T18:28:21-07:00",
+      "rating": 5,
+      "title": "Staying Healthy",
+      "text": "Heart 💙",
+      "version": "2.0.9"
+    },
+    {
+      "date": "2026-09-30T20:18:16-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "I love it personally, but maybe some people don’t like it. You have an option to do like a better version of it that you can do for the free type, but I love how there’s actually a free option like I said in the app..",
+      "version": "2.0.7"
+    },
+    {
+      "date": "2026-09-29T13:52:11-07:00",
+      "rating": 5,
+      "title": "Eric0923",
+      "text": "Me",
+      "version": "2.0.7"
+    },
+    {
+      "date": "2026-09-28T19:58:23-07:00",
+      "rating": 1,
+      "title": "Beware- this is a scam! they make it difficult to cancel 7 day trial subscription",
+      "text": "There is no way to cancel if you don’t book through Apple subscription. I message them several times and emailed their support team and they DO NOT RESPOND, as they want to be able to charge you after 7 days.",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-27T02:09:11-07:00",
+      "rating": 5,
+      "title": "Mommas Daily",
+      "text": "9/26",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-26T15:02:52-07:00",
+      "rating": 1,
+      "title": "Hidden charges",
+      "text": "Buyer beware. $14 a week. Scam you into free trial and will charge even if cancelled.",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-23T14:22:04-07:00",
+      "rating": 2,
+      "title": "Waste",
+      "text": "Deceptive. \nDon't waste your money",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-23T13:24:01-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Works fantastic!",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-23T12:10:10-07:00",
+      "rating": 1,
+      "title": "Didn’t work",
+      "text": "Tried all 3 cameras and it couldn’t find my finger.",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-22T22:08:28-07:00",
+      "rating": 5,
+      "title": "Healthy life",
+      "text": "I love it as my first time it work pretty good for me . Just try it",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-22T00:37:53-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Its easy i still dont understand",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-21T18:54:17-07:00",
+      "rating": 5,
+      "title": "MTBHR",
+      "text": "Corazon",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-21T09:02:57-07:00",
+      "rating": 5,
+      "title": "Get it!",
+      "text": "I honestly do recommend this app because it’s not fake it actually does pick up your heart beats.",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-20T16:35:23-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Enjoy the assessment",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-20T15:15:35-07:00",
+      "rating": 3,
+      "title": "Heart healthy",
+      "text": "Fast and easy. Not sure it’s worth 13$ a week",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-19T09:59:53-07:00",
+      "rating": 1,
+      "title": "Difficult to cancel",
+      "text": "Difficult to cancel",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-18T10:18:57-07:00",
+      "rating": 5,
+      "title": "Heart beat",
+      "text": "Great",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-17T18:27:27-07:00",
+      "rating": 5,
+      "title": "Heartbeat Monitor",
+      "text": "Easy Peasy",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-17T17:36:14-07:00",
+      "rating": 2,
+      "title": "Easy peasy",
+      "text": "Worked for me",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-16T17:51:15-07:00",
+      "rating": 1,
+      "title": "Prat",
+      "text": "Not what they claim. Could even u subscribe easily. Don’t fall for ads.",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-16T13:43:52-07:00",
+      "rating": 2,
+      "title": "Age is wrong.",
+      "text": "Can’t set my age",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-16T04:52:00-07:00",
+      "rating": 4,
+      "title": "Somewhat accurate",
+      "text": "gives you a general idea, off by an average of 7bpm",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-16T02:22:05-07:00",
+      "rating": 4,
+      "title": "First Heart test",
+      "text": "This ease my mind",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-15T21:25:09-07:00",
+      "rating": 5,
+      "title": "Good app so far",
+      "text": "It had been pretty accurate so far..",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-15T20:30:43-07:00",
+      "rating": 1,
+      "title": "Useless",
+      "text": "It worked the 1st time and it never worked again after 15 more tries and I can’t believe I actually see a couple good reviews. These have to be bots.",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-14T15:08:19-07:00",
+      "rating": 5,
+      "title": "Mark",
+      "text": "It was easy",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-13T07:22:00-07:00",
+      "rating": 5,
+      "title": "Mike",
+      "text": "Checking pulse",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-12T22:28:58-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Really works",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-11T07:54:33-07:00",
+      "rating": 5,
+      "title": "Mixed",
+      "text": "First time I downloaded the app, it recommended I use the back camera of my eyes iPhone 17.\n\nI also paid for the annual subscription of $40.\n\nWhile it appeared to take my pulse, The attempt to save my recording always showed up as zero.\n\nThe second time I downloaded the app, it required me to use the front camera of my iPhone 17.\n\nI was not asked to subscribe for an annual fee.\n\nHowever, this time it did record my reading and asked me for Reminders.\n\nAccordingly, I would like my annual subscription of $40 to be refunded as soon as possible!",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-11T06:44:35-07:00",
+      "rating": 5,
+      "title": "Heart",
+      "text": "9/11/26",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-10T21:39:59-07:00",
+      "rating": 5,
+      "title": "Fantastic",
+      "text": "Amazing use of technology",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-10T16:22:47-07:00",
+      "rating": 5,
+      "title": "Mom",
+      "text": "Heart felt like it was racing!",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-10T12:09:57-07:00",
+      "rating": 5,
+      "title": "El misterioso",
+      "text": "Ease to use",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-10T09:15:26-07:00",
+      "rating": 5,
+      "title": "This is genuinely amazing",
+      "text": "I genuinely thought this was bs but after I compared it to a real monitor it actually works",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-10T08:16:43-07:00",
+      "rating": 5,
+      "title": "Easy",
+      "text": "Seems so simple and accurate",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-09T22:23:34-07:00",
+      "rating": 1,
+      "title": "poor access to annual pricing",
+      "text": "I would've given it a good score if I could ever get past the opening screen but it's trying to force me to spend $13 a week which I won't do, and it won't let me have access to the $39.99 per year price that's in the App Store.",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-09T14:32:39-07:00",
+      "rating": 5,
+      "title": "Not Free",
+      "text": "They said it is completely free, not so ,, let’s get a class action lawsuit.. any Lawyers here ?",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-06T08:28:25-07:00",
+      "rating": 5,
+      "title": "Heart beat",
+      "text": "Daily",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-09-05T18:22:02-07:00",
+      "rating": 1,
+      "title": "Misleading",
+      "text": "The description on apple literally says measure BP, but you can only track it.",
+      "version": "2.0.4"
+    },
+    {
+      "date": "2026-09-04T12:22:00-07:00",
+      "rating": 1,
+      "title": "Poor",
+      "text": "Very difficult to unsubscribe",
+      "version": "2.0.4"
+    },
+    {
+      "date": "2026-09-02T12:03:05-07:00",
+      "rating": 5,
+      "title": "Check Approved",
+      "text": "I checked my Heart Rate with a Cuff and immediately after used this App and I gotta say I’m impressed with the results",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-09-02T06:24:22-07:00",
+      "rating": 5,
+      "title": "In love",
+      "text": "I love how easy and accurate to make measurements with this app",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-09-01T15:21:40-07:00",
+      "rating": 2,
+      "title": "Free trial, got charged anyway",
+      "text": "Signed up for a free trial, used it once and immediately canceled. I still got charged and now have to chase people down for a refund. Imagine how many people don’t even bother doing this and the developer pockets the money.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-30T10:47:09-07:00",
+      "rating": 5,
+      "title": "My health",
+      "text": "All is best",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-29T05:32:47-07:00",
+      "rating": 1,
+      "title": "Hard to cancel",
+      "text": "Can’t figure out where to cancel the service",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-28T22:19:14-07:00",
+      "rating": 1,
+      "title": "Can’t find cancellation option",
+      "text": "I have tried emailing these people about a cancellation . No response whats so ever . I am sure there was a bill passed that apps need to ensure cancellations are just as easy as the original sign up . What a waste. Don’t recommend at all . Just get a regular BP cuff saves you the trouble of trying to ahold of someone .",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-26T22:35:07-07:00",
+      "rating": 1,
+      "title": "Heart rate",
+      "text": "This is a horrible app I tried it my heart rate was 52 scared since I had chest pains the I check pressure and on my machine my heart rate was 80 way different",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-26T16:18:13-07:00",
+      "rating": 5,
+      "title": "DUKE",
+      "text": "ND",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-26T10:14:41-07:00",
+      "rating": 5,
+      "title": "Retired Guy",
+      "text": "Measurements interesting",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-26T00:05:14-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Would recommend for any and all ages.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-24T21:19:23-07:00",
+      "rating": 1,
+      "title": "Misleading “free trial”",
+      "text": "I accepted their free trial, once it ended, apple still charged me $10. It’s an interesting app, but their free trial isn’t really free. Don’t try it out unless you’re really willing to pay for it.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-23T11:52:23-07:00",
+      "rating": 1,
+      "title": "Fake",
+      "text": "All these apps are fake they can only monitor your heart rate and cannot monitor blood pressure or blood sugar and these apps are not free and should be removed because of false advertising",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-23T08:58:51-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Results is the same as if a nurse took your pulse",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-22T05:47:10-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Love it",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-20T19:10:06-07:00",
+      "rating": 3,
+      "title": "I was let down",
+      "text": "I thought I said it could measure by my blood auger I was sceptical cause unless you use real blood I cannot be measured. So I used it for my bpm and that worked ok until they will not let u see your info cause the want you to pay for it. U shouldn’t be able to withhold someone’s health info and that’s why I deleted the app",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-20T12:15:28-07:00",
+      "rating": 5,
+      "title": "7/13",
+      "text": "Not sure what to say",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-18T15:13:33-07:00",
+      "rating": 1,
+      "title": "scam app",
+      "text": "makes you pay fifty cents just to find out it doesn’t do blood pressure like it says. no idea how it was going to be able to do that, but it unsurprisingly doesn’t.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-18T11:26:23-07:00",
+      "rating": 1,
+      "title": "Massive pay wall",
+      "text": "Having features that could be useful for managing health issues and concerns behind a MASSIVE pay wall is disgusting.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-17T16:52:38-07:00",
+      "rating": 1,
+      "title": "This app does not work at all",
+      "text": "I downloaded Heartbeep because the app claims that it can measure your heart rate simply by placing your finger over the phone’s camera. However, I followed the instructions carefully and tried all three camera lenses, but the app was unable to detect my heart rate at all.\n\nWhat makes this even more frustrating is that the instructions in the tutorial do not seem to match the actual app interface, making it unclear how the feature is supposed to work.\n\nAfter multiple attempts, I still could not get the app’s basic heart rate measurement feature to work. This makes me question whether the app functions as advertised and honestly leaves me feeling somewhat misled.\n\nI hope the developers improve both the functionality and the instructions. If there are specific requirements regarding iPhone models, camera lenses, or finger placement, these should be clearly explained before users download or pay for the app.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-17T07:02:13-07:00",
+      "rating": 5,
+      "title": "Kk",
+      "text": "Okay",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-16T18:23:19-07:00",
+      "rating": 3,
+      "title": "No blood pressure",
+      "text": "I got it for blood pressure, it only calculates heart rate only",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-16T07:50:51-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "🫶🏾",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-16T06:40:33-07:00",
+      "rating": 1,
+      "title": "It don’t work please refund all my money ASAP",
+      "text": "This is a scam it don’t work please be righteous and return all my money ASAP THANK YOU",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-16T05:05:33-07:00",
+      "rating": 1,
+      "title": "Scan",
+      "text": "They charged my card even though I cancelled",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-16T01:39:21-07:00",
+      "rating": 5,
+      "title": "My heart beats",
+      "text": "I like this app",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-15T21:02:01-07:00",
+      "rating": 5,
+      "title": "San2702!",
+      "text": "Blood pressure",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-14T02:03:25-07:00",
+      "rating": 5,
+      "title": "Heart rate monitor ❤️",
+      "text": "So far so good",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-13T09:02:11-07:00",
+      "rating": 5,
+      "title": "Heart",
+      "text": "Nice to have",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-13T08:16:20-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "No way to unsubscribe",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-11T16:32:13-07:00",
+      "rating": 4,
+      "title": "It ok",
+      "text": "It was ok but I hat the fact that they only give you 7 days to try then will charge you that sucks",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-10T13:19:11-07:00",
+      "rating": 5,
+      "title": "Heart beat",
+      "text": "Great app",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-10T13:12:00-07:00",
+      "rating": 5,
+      "title": "Actually works",
+      "text": "Works well!",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-10T10:31:11-07:00",
+      "rating": 1,
+      "title": "$30/month NOT FREE",
+      "text": "Another Apple store rip off.  I want an app I pay for Once. If I want to upgrade to a newer program sell it to me, not rent every two weeks.  The scum who started this monthly charge stuff for sodtware has a special place when justice comes to Apple oligarch thoeves.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-09T20:06:20-07:00",
+      "rating": 1,
+      "title": "Was actively having a heart attack and app said my heart beat was good",
+      "text": "Like the tittle says I started feeling chest pain.  I wasn’t sure what was going on so I downloaded this app.  I proceeded to use it and it informed me my heart beat was normal. While at the same time my left arm was starting to go numb and I was starting to sweat.  So I called 911 and yes.  I wasn’t sure having a heart attack.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-09T10:28:19-07:00",
+      "rating": 4,
+      "title": "Stress",
+      "text": "Ok",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-08T12:15:20-07:00",
+      "rating": 3,
+      "title": "Doesn’t actually do bp",
+      "text": "Thought this did blood pressure as well. My other apps do pulse etc. not necessary",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-08T12:02:50-07:00",
+      "rating": 5,
+      "title": "1st Reading",
+      "text": "Very good news to hear and see. Thank you for the accuracy",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-07T21:15:36-07:00",
+      "rating": 5,
+      "title": "Easy!!",
+      "text": "I like it reminds me to take my heart rate before I go to bed.  Slick!",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-07T16:33:59-07:00",
+      "rating": 3,
+      "title": "Blood pressure should be available more than once a day.",
+      "text": "See title.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-06T19:27:47-07:00",
+      "rating": 5,
+      "title": "Kitty",
+      "text": "BP",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-06T13:18:59-07:00",
+      "rating": 5,
+      "title": "Mad",
+      "text": "It really helped",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-05T21:55:49-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Love this !",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-05T12:52:44-07:00",
+      "rating": 1,
+      "title": "It’s a lie",
+      "text": "It’s not free! First thing they ask for is a trial subscription. The free app only measures bpm like ALL of the other apps",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-04T21:57:10-07:00",
+      "rating": 5,
+      "title": "Need more practice",
+      "text": "I’m new to this so let’s see how it goes",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-04T16:35:13-07:00",
+      "rating": 5,
+      "title": "Jeje",
+      "text": "Awesome!",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-04T07:57:17-07:00",
+      "rating": 5,
+      "title": "Heartbeat",
+      "text": "Good",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-04T04:15:02-07:00",
+      "rating": 5,
+      "title": "Heart rate",
+      "text": "Easy to get!!!",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-03T16:21:08-07:00",
+      "rating": 5,
+      "title": "Heart rate",
+      "text": "This such an awesome app",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-02T20:14:53-07:00",
+      "rating": 5,
+      "title": "Allie",
+      "text": "Heart",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-02T13:46:39-07:00",
+      "rating": 4,
+      "title": "Heart rate",
+      "text": "Easy to get results.",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-08-01T03:57:35-07:00",
+      "rating": 5,
+      "title": "Accuracy for disease control",
+      "text": "I love this app because I have severe tachycardia due to a couple of heart conditions and this helps me track patterns in my heart rate while keeping the data so I can show my providers. I have compared this app to a manual pulse and pulse ox and it is completely accurate!",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-07-31T07:14:48-07:00",
+      "rating": 5,
+      "title": "Tracking heart rate when traveling",
+      "text": "It has been nice to have reminders when to check my heart rate or blood pressure levels so I can hopefully help myself see what spikes things at different times of the day!",
+      "version": "2.0.2"
+    },
+    {
+      "date": "2026-07-30T18:38:35-07:00",
+      "rating": 1,
+      "title": "Annoying",
+      "text": "It’s super hard to use as it’s like buy pro every minute and I’m trying to track my pots and I can’t",
+      "version": "2.0.3"
+    }
+  ]
+}

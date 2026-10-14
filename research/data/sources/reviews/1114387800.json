@@ -1,0 +1,357 @@
+{
+  "app": "Fitness App: Gym Workout Plan",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-03T07:09:01-07:00",
+      "rating": 4,
+      "title": "👍🏻",
+      "text": "Easy to use clear and excellent",
+      "version": "1.29.0"
+    },
+    {
+      "date": "2026-10-02T09:49:54-07:00",
+      "rating": 5,
+      "title": "Отлично",
+      "text": "Великолепное приложение. Поддержка на уровне. Все абсолютно нравится. Так держать!!!👍👍",
+      "version": "1.29.0"
+    },
+    {
+      "date": "2026-09-29T22:42:48-07:00",
+      "rating": 5,
+      "title": "Ayuda demasiado",
+      "text": "Me encanta e bajado mucho",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-09-26T04:19:05-07:00",
+      "rating": 4,
+      "title": "Great!",
+      "text": "Great app",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-09-23T01:10:49-07:00",
+      "rating": 5,
+      "title": "Невероятно крутое приложение!!!",
+      "text": "Занимаюсь по этому приложению уже 2 года стабильно! Без травм и с прекрасными результатами!\nСледуйте инструкции и будет вам счастье!",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-09-20T18:48:07-07:00",
+      "rating": 5,
+      "title": "Fitness App",
+      "text": "Monitoring my workouts is a breeze with this app",
+      "version": "1.28.0"
+    },
+    {
+      "date": "2026-09-14T18:40:17-07:00",
+      "rating": 4,
+      "title": "Occasionally frustrating, but solid app",
+      "text": "*Edited for brevity: I wanted to give this four stars, because while it’s a little unintuitive in place, overall the app is solid. I’ve now been using it for several months. Week one, I was able to see everything (didn’t realize it was a trial); calories burned in the workout, muscle focus, etc. That’s now all locked behind a paywall. Very disappointing. Basic functions like rest time between workouts. Calories burned. In-app notification sounds. Auto progress following a workout’s completion. Analytics. All pay-gated now. Very disappointing business practice. But, the app itself is solid and none of the workouts are locked behind premium. So. The important thing is there, at least.\n*I have bumped the rating up from 3 to 4 because honestly, most of the issues I have are minor—frustrating, but not world-ending—and the app is genuinely one of the best I’ve found. Multiple routines available, dozens of workouts, and frankly some of the better tech support I’ve experienced across the apps I use. I had a problem (and was quite frustrated when I initially reported it) and they were nothing but patient the entire time, and ultimately found a way to help me resolve the issue.\n\n\nEdit 9/09-11?/26: The app now triggers the Dynamic status that covers my clock. If I have a workout running in the background, I can no longer see the time. I have turned Live Activities off. It persists, and the widget no longer shows up. Support is attempting to assist and I am attempting to treat this like the minor issue it is.\nEdit 9/13: issue has been resolved! Customer service was very helpful and patient, and while it took a number of attempts to actually resolve the issue, you can’t say they don’t try. Some of the blame definitely rests on Apple for adding ‘features’ that have no direct manual toggle. Overall excellent experience!",
+      "version": "1.27.0"
+    },
+    {
+      "date": "2026-09-08T17:53:54-07:00",
+      "rating": 3,
+      "title": "Why is it low key mean",
+      "text": "I did a workout but could ultimately only do part of it because the gym was packed and also the workout was longer than I wanted. Why is it telling me that’s unacceptable and not okay like I did something wrong :( not encouraging at all",
+      "version": "1.27.0"
+    },
+    {
+      "date": "2026-09-06T17:48:23-07:00",
+      "rating": 3,
+      "title": "Goog",
+      "text": "For free use is limited but is helpful for who is starting.",
+      "version": "1.27.0"
+    },
+    {
+      "date": "2026-08-29T02:36:37-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good and easy to follow",
+      "version": "1.26.0"
+    },
+    {
+      "date": "2026-08-24T14:21:50-07:00",
+      "rating": 5,
+      "title": "The best app",
+      "text": "👍🏽👍🏽👍🏽👍🏽💪🏼💪🏼💪🏼💪🏼💪🏼💪🏼🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "version": "1.26.0"
+    },
+    {
+      "date": "2026-08-21T13:28:47-07:00",
+      "rating": 5,
+      "title": "Searching",
+      "text": "Please do the exercise search in more detail. Not just a pectoral muscle, but a small pectoral muscle, a large pectoral muscle, clavicle muscle, and so on. It would also be convenient to immediately add the desired exercise to the training from the analytics menu. So it will be possible to make a training plan in more detail",
+      "version": "1.26.0"
+    },
+    {
+      "date": "2026-08-11T11:51:08-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "G",
+      "version": "1.26.0"
+    },
+    {
+      "date": "2026-08-08T07:29:57-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Easy to use app with a structure calendar for training and alternate exercise integration on the app. Totally recommend for those who want to follow a routine. Excelent exercise graphics!!💪🏻💪🏻",
+      "version": "1.26.0"
+    },
+    {
+      "date": "2026-08-03T05:36:55-07:00",
+      "rating": 4,
+      "title": "Easy to Follow",
+      "text": "Easy to follow along. A little confusing in the beginning but after using it two or three times it’s easy to understand. I like the animated video demonstration to know how to do a machine if I have never done it. I do wish it had a setting where I could change the “rest” time. Overall for free it great.",
+      "version": "1.25.0"
+    },
+    {
+      "date": "2026-07-28T19:27:17-07:00",
+      "rating": 1,
+      "title": "Subscription",
+      "text": "False advertising of subscription. Great workout plans but bad marketing.",
+      "version": "1.25.0"
+    },
+    {
+      "date": "2026-07-26T15:47:39-07:00",
+      "rating": 4,
+      "title": "Almost perfect",
+      "text": "I’ve tried 4-5 different apps over the last several months and this is my favorite. I am relatively new to it, just 2weeks in.\nOne thing that I hoped would get fixed is that I cannot hear  the Rest Time Over notification when I play music (Spotify). Without music, I can hear it just fine",
+      "version": "1.25.0"
+    },
+    {
+      "date": "2026-07-22T19:37:57-07:00",
+      "rating": 5,
+      "title": "Misleading",
+      "text": "The app suggested a free workout plan w/o commitment. After the 3rd workout you are required to purchase a plan.",
+      "version": "1.25.0"
+    },
+    {
+      "date": "2026-07-21T16:55:02-07:00",
+      "rating": 5,
+      "title": "Perfect app",
+      "text": "Easy to use and helpful",
+      "version": "1.25.0"
+    },
+    {
+      "date": "2026-07-17T05:02:00-07:00",
+      "rating": 5,
+      "title": "Bien",
+      "text": "Muy buena",
+      "version": "1.16.0"
+    },
+    {
+      "date": "2026-07-12T12:50:01-07:00",
+      "rating": 5,
+      "title": "Лучшее приложение",
+      "text": "Регулярно посещаю спортзал более десяти лет и перерробовал десятки фитнесс приложений. Это лучшее! Пользуюсь платной версией белее двух лет",
+      "version": "1.16.0"
+    },
+    {
+      "date": "2026-06-24T04:44:08-07:00",
+      "rating": 3,
+      "title": "Что с обновлением?",
+      "text": "Теперь гиф с упражнением не грузится, шрифты стали ОГРОМНЫМИ. Вы проверяете как смотрится на разных размерах экранов?",
+      "version": "1.15.1"
+    },
+    {
+      "date": "2026-06-22T04:55:53-07:00",
+      "rating": 5,
+      "title": "Mi app favorita para entrenar",
+      "text": "Llevo usando la app por casi 4 años y me encanta 🫶🏽 Full recomendada",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-06-06T11:22:29-07:00",
+      "rating": 5,
+      "title": "What you’re looking for!!",
+      "text": "Best fitness app I have tried . Step by step workout plan with videos. Easy to use",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-06-02T14:39:27-07:00",
+      "rating": 5,
+      "title": "Excellent!",
+      "text": "I’ve been using this app for years. Effective with lots of options! Bravo!!",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-05-30T15:32:09-07:00",
+      "rating": 1,
+      "title": "Fitness",
+      "text": "This app doesn’t give you any new workouts. It tells you the same thing and doesn’t project anything new it’s not what you think.",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-05-11T23:59:39-07:00",
+      "rating": 5,
+      "title": "Muy buena",
+      "text": "Muy buena",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-05-09T06:01:56-07:00",
+      "rating": 5,
+      "title": "Feature request",
+      "text": "Please add the ability to adjust the rest timer dynamically during a workout. Right now, I can set a default timer when creating the workout, but sometimes I don’t log a set immediately and need to start the timer with 30 seconds less for that specific rest period. Currently, there’s no convenient way to do that.",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-05-07T16:21:22-07:00",
+      "rating": 5,
+      "title": "Me encanta…!",
+      "text": "Súper buena te da rutina para lo que quieras",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-05-05T13:40:57-07:00",
+      "rating": 5,
+      "title": "Amazing workout plans",
+      "text": "I mean this app is great it has a good tutorial good workouts only bad part is everything other then workout plans were premium but what do u expect from a free app",
+      "version": "1.15.0"
+    },
+    {
+      "date": "2026-04-20T10:36:20-07:00",
+      "rating": 5,
+      "title": "Отличная поддержка",
+      "text": "После обновления была проблема с синхронизации с часами. Ребята оперативно ответили и помогли",
+      "version": "1.14.0"
+    },
+    {
+      "date": "2026-04-15T14:08:02-07:00",
+      "rating": 5,
+      "title": "amazing resource",
+      "text": "such a great app to use in the gym OR at home. really good for beginners to correct form and inform people to make a solid plan.",
+      "version": "1.14.0"
+    },
+    {
+      "date": "2026-04-14T15:00:23-07:00",
+      "rating": 5,
+      "title": "Great exercises",
+      "text": "Great exercise app for beginners and people who are tired of doing same workout",
+      "version": "1.14.0"
+    },
+    {
+      "date": "2026-04-11T08:33:58-07:00",
+      "rating": 3,
+      "title": "Workouts",
+      "text": "Some of the workouts are very high sets and reps for the average person, and even tho I said I don’t have a bench it won’t adjust the workouts that require a bench. Overall tho a very good app for someone who needs a free workout plane.",
+      "version": "1.14.0"
+    },
+    {
+      "date": "2026-04-02T06:17:30-07:00",
+      "rating": 3,
+      "title": "3⭐️",
+      "text": "The reason why I give this app three stars is because the choices you have to choose from for like your meals. It’s very limited like I can’t put my own personal meal and say this is what I ate today or type the name in and that mail pops up there’s none of that. it’s only specific meals that’s already programmed into the app that you’ll see and you have to choose from and if you’re not having those meals, then you can’t use it. or even if they come up with like a system where you could scan the barcode and then the FOOD populates for you or you could type just just put in what you’re eating and it looks up the food for you then I’ll give the apple five star.",
+      "version": "1.13.2"
+    },
+    {
+      "date": "2026-04-01T21:40:07-07:00",
+      "rating": 5,
+      "title": "Too good",
+      "text": "unexpected to good and main part is free",
+      "version": "1.13.2"
+    },
+    {
+      "date": "2026-03-30T02:49:29-07:00",
+      "rating": 3,
+      "title": "7 баксов в месяц это много.",
+      "text": "За 7 баксов в месяц нафик не нужно. Купил бы приложение за 20-25 баксов, а так… Удаляю",
+      "version": "1.13.2"
+    },
+    {
+      "date": "2026-03-11T15:47:19-07:00",
+      "rating": 4,
+      "title": "Pretty good - could be better",
+      "text": "It’s a straight forward app that is great when you can’t think of what to do. HOWEVER, not being able to change/adjust is irritating. I want to turn some of the supersets off but can’t. Also, it is clearly targeted for men given the weight suggestions or women who want to bulk. I find the weight recommendations sexist. But still with all of those issues, it’s one of the better apps",
+      "version": "1.13.2"
+    },
+    {
+      "date": "2026-02-24T17:59:35-07:00",
+      "rating": 5,
+      "title": "Fitness",
+      "text": "Good work for good health.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-23T09:49:19-07:00",
+      "rating": 1,
+      "title": "Unhappy",
+      "text": "I get in a grove with this app and then next thing I have to pay for it. At least wait for a month or so I can see some results!",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-22T13:05:57-07:00",
+      "rating": 5,
+      "title": "Bou7a",
+      "text": "I’m so happy with this app it’s so useful and helpful to learn how to do ur workouts in a right way",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-19T12:35:54-07:00",
+      "rating": 5,
+      "title": "MA",
+      "text": "The best i ever seen",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-16T14:35:22-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app is really good. I thought it was going to be a scam and make me pay but to my surprise I don’t. It also is really useful at tracking weights lifted and what your workout should be.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-15T07:42:18-07:00",
+      "rating": 5,
+      "title": "Helps",
+      "text": "Great app! Helps me structure my workouts with visual cues.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-11T11:22:17-07:00",
+      "rating": 3,
+      "title": "No tracking available",
+      "text": "Doesn’t allow tracking of each completed exercise",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-02-03T11:42:06-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Helping me working out better",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-01-30T09:37:02-07:00",
+      "rating": 1,
+      "title": "Paywall",
+      "text": "Used to be able to use basic features free. Now you only get 3 days.",
+      "version": "1.13.1"
+    },
+    {
+      "date": "2026-01-20T16:54:45-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good at exercise",
+      "version": "1.12.1"
+    },
+    {
+      "date": "2026-01-19T05:24:47-07:00",
+      "rating": 3,
+      "title": "Review",
+      "text": "It was great until recently that it keep freezing and I have to delete and install every time now",
+      "version": "1.12.1"
+    },
+    {
+      "date": "2025-12-20T03:58:59-07:00",
+      "rating": 5,
+      "title": "Не получается оплатить из России",
+      "text": "Отличное приложение, к сожалению из России пропала возможность оплачивать и перешел в другое приложение",
+      "version": "1.12.0"
+    }
+  ]
+}

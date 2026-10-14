@@ -1,0 +1,130 @@
+[01:54:45] Pretraga: 75 kljucnih reci, trziste us
+[01:54:45]   [1/75] 'habit tracker': 191 rezultata, ukupno 191
+[01:54:48]   [2/75] 'streak tracker': 193 rezultata, ukupno 335
+[01:54:52]   [3/75] 'daily habits': 194 rezultata, ukupno 461
+[01:54:55]   [4/75] 'morning routine': 187 rezultata, ukupno 611
+[01:54:58]   [5/75] 'discipline': 194 rezultata, ukupno 767
+[01:55:01]   [6/75] 'self improvement': 191 rezultata, ukupno 923
+[01:55:04]   [7/75] 'glow up': 181 rezultata, ukupno 1099
+[01:55:08]   [8/75] '75 hard': 190 rezultata, ukupno 1253
+[01:55:11]   [9/75] 'accountability': 183 rezultata, ukupno 1406
+[01:55:14]   [10/75] 'goal tracker': 194 rezultata, ukupno 1530
+[01:55:21]   [11/75] 'gamified habits': 189 rezultata, ukupno 1671
+[01:55:24]   [12/75] 'level up life': 165 rezultata, ukupno 1804
+[01:55:29]   [13/75] 'life rpg': 196 rezultata, ukupno 1966
+[01:55:33]   [14/75] 'gratitude journal': 183 rezultata, ukupno 2131
+[01:55:37]   [15/75] 'daily journal': 186 rezultata, ukupno 2265
+[01:55:42]   [16/75] 'step counter': 184 rezultata, ukupno 2444
+[01:55:42]   [17/75] 'pedometer': 181 rezultata, ukupno 2564
+[01:55:45]   [18/75] 'walking app': 188 rezultata, ukupno 2697
+[01:55:52]   [19/75] 'walking challenge': 175 rezultata, ukupno 2782
+[01:55:56]   [20/75] 'steps challenge': 181 rezultata, ukupno 2854
+[01:56:01]   [21/75] 'running app': 181 rezultata, ukupno 3014
+[01:56:04]   [22/75] 'run tracker': 174 rezultata, ukupno 3107
+[01:56:07]   [23/75] 'couch to 5k': 133 rezultata, ukupno 3211
+[01:56:12]   [24/75] 'running game': 187 rezultata, ukupno 3375
+[01:56:15]   [25/75] 'territory running': 148 rezultata, ukupno 3512
+[01:56:19]   [26/75] 'pushup counter': 186 rezultata, ukupno 3661
+[01:56:23]   [27/75] 'workout challenge': 186 rezultata, ukupno 3808
+[01:56:27]   [28/75] 'home workout': 184 rezultata, ukupno 3954
+[01:56:31]   [29/75] 'calisthenics': 196 rezultata, ukupno 4125
+[01:56:35]   [30/75] 'plank challenge': 163 rezultata, ukupno 4251
+[01:56:40]   [31/75] 'fitness challenge': 186 rezultata, ukupno 4297
+[01:56:44]   [32/75] 'stretching routine': 180 rezultata, ukupno 4462
+[01:56:48]   [33/75] 'alarm clock mission': 179 rezultata, ukupno 4627
+[01:56:53]   [34/75] 'wake up alarm': 188 rezultata, ukupno 4730
+[01:56:53]   [35/75] 'sleep tracker': 188 rezultata, ukupno 4904
+[01:57:00]   [36/75] 'sleep schedule': 182 rezultata, ukupno 5016
+[01:57:04]   [37/75] 'wake up early': 187 rezultata, ukupno 5095
+[01:57:09]   [38/75] 'focus timer': 195 rezultata, ukupno 5287
+[01:57:09]   [39/75] 'pomodoro': 195 rezultata, ukupno 5416
+[01:57:16]   [40/75] 'screen time': 190 rezultata, ukupno 5586
+[01:57:20]   [41/75] 'app blocker': 195 rezultata, ukupno 5757
+[01:57:24]   [42/75] 'phone addiction': 175 rezultata, ukupno 5895
+[01:57:27]   [43/75] 'dopamine detox': 190 rezultata, ukupno 6030
+[01:57:28]   [44/75] 'study timer': 195 rezultata, ukupno 6153
+[01:57:31]   [45/75] 'study with friends': 183 rezultata, ukupno 6311
+[01:57:38]   [46/75] 'deep work': 196 rezultata, ukupno 6477
+[01:57:38]   [47/75] 'quit porn': 0 rezultata, ukupno 6477
+[01:57:45]   [48/75] 'quit vaping': 194 rezultata, ukupno 6663
+[01:57:49]   [49/75] 'quit smoking': 192 rezultata, ukupno 6800
+[01:57:53]   [50/75] 'sober tracker': 195 rezultata, ukupno 6961
+[01:57:57]   [51/75] 'quit sugar': 185 rezultata, ukupno 7088
+[01:58:01]   [52/75] 'quit social media': 184 rezultata, ukupno 7213
+[01:58:05]   [53/75] 'nofap': 181 rezultata, ukupno 7331
+[01:58:08]   [54/75] 'compete with friends': 168 rezultata, ukupno 7487
+[01:58:12]   [55/75] 'fitness challenge friends': 179 rezultata, ukupno 7574
+[01:58:15]   [56/75] 'group challenge': 169 rezultata, ukupno 7703
+[01:58:19]   [57/75] 'accountability partner': 186 rezultata, ukupno 7794
+[01:58:22]   [58/75] 'bet on yourself': 176 rezultata, ukupno 7968
+[01:58:26]   [59/75] 'habits with friends': 181 rezultata, ukupno 8046
+[01:58:26]   [60/75] 'leaderboard': 189 rezultata, ukupno 8216
+[01:58:33]   [61/75] 'brain training': 188 rezultata, ukupno 8401
+[01:58:37]   [62/75] 'daily quiz': 178 rezultata, ukupno 8575
+[01:58:37]   [63/75] 'vocabulary builder': 184 rezultata, ukupno 8755
+[01:58:44]   [64/75] 'reading tracker': 190 rezultata, ukupno 8935
+[01:58:47]   [65/75] 'read more books': 185 rezultata, ukupno 9104
+[01:58:52]   [66/75] 'learn something new': 176 rezultata, ukupno 9267
+[01:58:56]   [67/75] 'daily lessons': 180 rezultata, ukupno 9430
+[01:59:00]   [68/75] 'water tracker': 188 rezultata, ukupno 9610
+[01:59:03]   [69/75] 'drink water reminder': 190 rezultata, ukupno 9747
+[01:59:08]   [70/75] 'calorie counter photo': 197 rezultata, ukupno 9931
+[01:59:12]   [71/75] 'protein tracker': 195 rezultata, ukupno 10088
+[01:59:15]   [72/75] 'cold shower': 160 rezultata, ukupno 10237
+[01:59:19]   [73/75] 'posture': 186 rezultata, ukupno 10414
+[01:59:23]   [74/75] 'intermittent fasting': 193 rezultata, ukupno 10594
+[01:59:23]   [75/75] 'skincare routine': 193 rezultata, ukupno 10778
+[01:59:27]   Lista topfreeapplications / Health & Fitness: 100 aplikacija
+[01:59:30]   Lista topfreeapplications / Lifestyle: 100 aplikacija
+[01:59:33]   Lista topfreeapplications / Productivity: 99 aplikacija
+[01:59:37]   Lista topfreeapplications / Education: 100 aplikacija
+[01:59:40]   Lista topfreeapplications / Social Networking: 100 aplikacija
+[01:59:43]   Lista topfreeapplications / Sports: 100 aplikacija
+[01:59:46]   Lista topgrossingapplications / Health & Fitness: 100 aplikacija
+[01:59:49]   Lista topgrossingapplications / Lifestyle: 100 aplikacija
+[01:59:53]   Lista topgrossingapplications / Productivity: 100 aplikacija
+[01:59:56]   Lista topgrossingapplications / Education: 100 aplikacija
+[01:59:59]   Lista topgrossingapplications / Social Networking: 100 aplikacija
+[02:00:02]   Lista topgrossingapplications / Sports: 100 aplikacija
+[02:00:29] Gotovo: 11551 aplikacija u pool_2026-10-12.json
+[02:00:30] Filtriranje 11551 aplikacija iz pool_2026-10-12.json
+[02:00:30] Posle nise, kriticne mase i kvaliteta: 3045
+[02:01:06]   [1/3045] Scrambly: Earn Money Walking | dev apps 2 | rec 30d 279 | tracking True
+[02:01:19]   [2/3045] Puzzle Time: Brainy School | dev apps 10 | rec 30d 14 | tracking True
+[02:01:44]   [3/3045] MenuFit - Healthy Eating Out | dev apps 1 | rec 30d 50 | tracking True
+[02:02:04]   [4/3045] Unrot: Earn your Screen Time | dev apps 1 | rec 30d 69 | tracking True
+[02:02:26]   [5/3045] NTE: Neverness to Everness | dev apps 1 | rec 30d 51 | tracking True
+[02:02:46]   [6/3045] Magneta - Confidence & Clarity | dev apps 1 | rec 30d 115 | tracking True
+[02:02:55]   [7/3045] Quiz Blitz: Mind Games | dev apps 10 | rec 30d 7 | tracking True
+[02:03:14]   [8/3045] Rebel Glam: Dress Up Games | dev apps 8 | rec 30d 42 | tracking True
+[02:03:37]   [9/3045] Subway Surfers City | dev apps 7 | rec 30d 52 | tracking True
+[02:04:15]   [10/3045] Micro Learning - SmartyMe | dev apps 1 | rec 30d 389 | tracking True
+[02:04:44]   [11/3045] Wayk: Alarm Clock to Wake Up | dev apps 2 | rec 30d 136 | tracking True
+[02:05:03]   [12/3045] Liftoff - Ranked Gym Workouts | dev apps 2 | rec 30d 63 | tracking False
+[02:05:23]   [13/3045] Screw Away: 3D Pin Puzzle | dev apps 32 | rec 30d 44 | tracking True
+[02:05:52]   [14/3045] FitMe - Lazy Workout at Home | dev apps 10 | rec 30d 71 | tracking True
+[02:06:03] HTTP 429, pauza 30s: https://apps.apple.com/us/app/id6749300334
+[02:06:34]   [15/3045] Unscrew Frenzy 3D | dev apps 25 | rec 30d 42 | tracking True
+[02:06:47]   [16/3045] IQ Masters: Brain Games, Tests | dev apps 29 | rec 30d 9 | tracking True
+[02:07:06]   [17/3045] Unchaind: Overcome Lust | dev apps 6 | rec 30d 40 | tracking True
+[02:07:41]   [18/3045] MeAgain: GLP-1 Tracker App | dev apps 1 | rec 30d 197 | tracking True
+[02:07:55]   [19/3045] Solo Leveling:Arise | dev apps 20 | rec 30d 25 | tracking True
+[02:08:10]   [20/3045] Subway Surfers+ | dev apps 7 | rec 30d 48 | tracking False
+[02:08:48]   [21/3045] BitePal: Food Calorie Tracker | dev apps 2 | rec 30d 153 | tracking True
+[02:09:21]   [22/3045] Glow Fashion Idol | dev apps 38 | rec 30d 118 | tracking True
+[02:09:50]   [23/3045] LazyFit: Workout For Beginners | dev apps 23 | rec 30d 123 | tracking True
+[02:09:59]   [24/3045] Daily Bible Trivia: Quiz Games | dev apps 9 | rec 30d 2 | tracking True
+[02:10:11]   [25/3045] Lock In - Reset Your Life | dev apps 2 | rec 30d 10 | tracking True
+[02:10:25]   [26/3045] DayClass | dev apps 2 | rec 30d 54 | tracking True
+[02:10:41]   [27/3045] The Walking Dead: Aftermath | dev apps 2 | rec 30d 21 | tracking True
+[02:11:00]   [28/3045] Brick - Ditch Distractions | dev apps 1 | rec 30d 39 | tracking False
+[02:11:06]   [29/3045] Antistress trivia - Zen Quiz | dev apps 10 | rec 30d 0 | tracking True
+[02:11:19]   [30/3045] Opera GX | dev apps 4 | rec 30d 22 | tracking False
+[02:11:29]   [31/3045] Wood Quiz Blast: Trivia Blocks | dev apps 10 | rec 30d 6 | tracking True
+[02:11:38]   [32/3045] Muscle Rush - Destruction Run | dev apps 50 | rec 30d 1 | tracking True
+[02:11:51]   [33/3045] Sweatmates: Partner Fitness | dev apps 1 | rec 30d 34 | tracking True
+[02:12:01]   [34/3045] Hit & Run: Level Rush | dev apps 50 | rec 30d 0 | tracking True
+[02:12:39]   [35/3045] BePresent: Screen Time Control | dev apps 2 | rec 30d 320 | tracking True
+[02:12:49]   [36/3045] Bible Games: Trivia & Verse | dev apps 9 | rec 30d 6 | tracking True
+[02:13:18]   [37/3045] Brainrot: Screen Time Control | dev apps 3 | rec 30d 36 | tracking True
+[02:13:34]   [38/3045] Onyx - Sports Picks | dev apps 1 | rec 30d 72 | tracking True

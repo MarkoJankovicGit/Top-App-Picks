@@ -1,0 +1,21 @@
+{
+  "app": "Calife: AI Calorie Tracker",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-01T08:38:04-07:00",
+      "rating": 4,
+      "title": "Healthy",
+      "text": "Overall, the app has done well for me",
+      "version": "1.0.3"
+    },
+    {
+      "date": "2026-07-31T06:06:02-07:00",
+      "rating": 1,
+      "title": "Can’t delete/ cancel",
+      "text": "They make it so hard to try to cancel so they can charge you anyway! Not even showing up under my purchased apps but they are charging me!! Smh",
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "app": "Calorie Counter by Numify",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T09:27:05-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "After putting in all the data $59.99",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-08T13:42:13-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "A ton of questions just to have to pay for it",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-07T19:38:50-07:00",
+      "rating": 1,
+      "title": "Scary privacy policy!",
+      "text": "They pretty much share everything about you with tons of companies. This includes your height, weight, eating habits, your location, your habits in general, medical information, contacts, and device information. \n\nVery creepy stuff that a simple calorie logger shouldn’t do. ChatGPT rates the privacy policy a 7/10 on privacy violation.",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-07T10:15:00-07:00",
+      "rating": 4,
+      "title": "Great app with one request",
+      "text": "Really enjoying this app so far. It is easy to use and I love the option of taking a photo of a recipe to import it. I have one request. Is it possible to have the option of tracking fiber as one of our macros? Fiber has been as important as protein in my health journey and I would love to be able to see that daily vs tracking it manually. Thank you!",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-07T09:20:29-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "App has been working great and is easy to use. The features are fantastic and the interface is well designed. I love the widgets, but wish the water tracker widget had different options for quick add than just 8.4 oz. I feel like many people are drinking from 20+ oz water bottles.",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-07T06:29:46-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Excelente",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-06T20:40:58-07:00",
+      "rating": 1,
+      "title": "Waste",
+      "text": "A waste of time.",
+      "version": "1.26"
+    },
+    {
+      "date": "2026-10-05T17:44:32-07:00",
+      "rating": 1,
+      "title": "Not free you have to pay",
+      "text": "I looked up free calorie tracking and exercise apps and this came up. And you go through and answer all these questions only to get to a screen where you have to select a payment plan. Just to warn you guys so you don’t waste a ton of time also.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-05T10:11:51-07:00",
+      "rating": 2,
+      "title": "NOT FREE, very manual entry",
+      "text": "I’ve been using this for a week now, find it very cumbersome. Downloaded bc it was originally advertised as “free”, far from it. Wasn’t even given a free option. Unlike other apps, I find that I have to create most of my meals through manual entry as the bar code reader cannot find common foods, and the database lacks common options. Unfortunately the other two trackers I’ve used have gotten quite expensive. I will look for another option.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-04T12:23:33-07:00",
+      "rating": 1,
+      "title": "Waste of Time",
+      "text": "Spend 10 minutes answering questions to then be stuck behind a pay wall. Horrible waste of time.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-04T09:10:03-07:00",
+      "rating": 2,
+      "title": "Impatient",
+      "text": "Worst opinion I can have of an app is one that asks for reviews before you even get to use it. Think about that.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-04T08:44:41-07:00",
+      "rating": 5,
+      "title": "10/10",
+      "text": "This app is helping me so much with my weight loss journey and I am so grateful for the low price. All my friends are getting hooked too!",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-03T11:13:56-07:00",
+      "rating": 2,
+      "title": "Better apps out there",
+      "text": "At this price, I would argue there are much better apps out there. I have been using for about 4-6 weeks, and have noticed a number of times that the actual calories on a day are not equal to what is shown on the trends graphs. I have noticed the same thing for water intake.\n\nCreating recipes is annoying at times, and if you accidentally add an ingredient during recipe creation, there is no way to remove it. I usually just change the amount to 1gram so it doesn’t really impact the overall calories too much. But it’s annoying.\n\nThe AI feature gets it wrong 60% of the time. I get it’s not a perfect feature, but I have seen this be more intuitive in other apps.\n\nWould really consider other apps, and I will not be using this one once my subscription ends.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-03T10:34:53-07:00",
+      "rating": 2,
+      "title": "Shady and Misleading",
+      "text": "I signed up for this app because of good reviews. Wasn’t able to even try it before screens came up that made it seem like I needed to purchase it. Not a trial option that I could see. I went ahead and subscribed for the year when another screen pops up, still before I could even try the app. They want more money for the AI feature. Now I’m $80 in and haven’t even tried it. So since I bought it I tried it. Went to the AI  feature and found it couldn’t even see the macros or information I was entering into the app, making it pretty useless as a coach. I tried to get a refund for that and was denied without explanation. As a calorie counter it’s alright but not worth $80. And no trial option I could find before spending. \nFrustrating.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-03T08:25:20-07:00",
+      "rating": 1,
+      "title": "Search and photo scanning is useless",
+      "text": "They straight up don’t have a functional search. Doesn’t have the most basic items. The only thing that actually works is the barcode scanning. The photo scanning of food is ridiculously innacurate. You can scan a sandwich and it will say “Mac and cheese”????",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-02T22:33:46-07:00",
+      "rating": 2,
+      "title": "Not free",
+      "text": "Not free and doesn’t even help you",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-02T04:16:33-07:00",
+      "rating": 1,
+      "title": "Difficult to use",
+      "text": "Does not successfully scan barcodes. All foods must be entered separately. Forces you to buy an unnecessary pdf. I am vegetarian and meal plans and recipes included meat. Not very personalized. I don’t recommend.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-10-01T12:04:34-07:00",
+      "rating": 1,
+      "title": "Bait and switch",
+      "text": "I bought this app because my husband used it first and showed it to me. But my version had less features than his. Specially I have a medical condition where I need to track my sodium intake. Before I bought I made sure that it had an option to track sodium. I never would have purchased if it didn't have this feature. I contacted support and they said it was random and nothing could be done. They supposedly escalated but I've I have heard nothing back.",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-09-30T20:25:31-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app is great and I can’t recommend it enough",
+      "version": "1.25"
+    },
+    {
+      "date": "2026-09-29T04:52:54-07:00",
+      "rating": 3,
+      "title": "Good app in theory",
+      "text": "Unfortunately it doesn’t recognize things perfectly by pictures and scanning the packaging doesn’t work quite right either.  It would be fine if the information for the item could be edited freely but they can’t so the calorie count is often way off.",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-28T10:22:16-07:00",
+      "rating": 5,
+      "title": "OMG",
+      "text": "This app has been so so helpful! I love I can scan the barcodes and it knows exactly what I’m using. I also don’t have to go searching for the right food with the right weight input (like fitnesspal) because grams are already an option to use once you’ve found the food. The only thing I ask is to allow users to manually change the macros and calories. This would be so helpful if we’re on our own journey with specific goals in mind! Thank you again. This app has been amazing!",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-27T10:34:42-07:00",
+      "rating": 3,
+      "title": "Bar code scanner trouble",
+      "text": "I like the functionality for the most part, but any barcode that is printed on a curve cannot be read. \nThen creating a food by scanning the label and the nutrition grid is also impossible because you’re required to scan the barcode, even even though you shouldn’t technically need a barcode to “create” a food",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-27T05:34:04-07:00",
+      "rating": 1,
+      "title": "Rip off",
+      "text": "Why should I have to pay 70 dollars for an app I can get for free somewhere else. They force you to pay for it before you can even finish the set up. Then it told me I should just eat 1400 calories to lose weight. Yeah that is not how the human body always works and not how my body works. Cancelled it right away and then they still charged me the full amount so I can’t get my money back.",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-26T17:06:21-07:00",
+      "rating": 1,
+      "title": "NOT FREE",
+      "text": "I haven’t tried it because when I searched, it said the Apple app was free. I’ve already paid for multiple programs that did not accomplish what I was wanting. I do not want to pay for this one.",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-26T14:16:17-07:00",
+      "rating": 5,
+      "title": "love it",
+      "text": "love it",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-25T07:54:24-07:00",
+      "rating": 1,
+      "title": "NOT FREE",
+      "text": "Why lie? This app is NOT free! It will waste 15 minutes of your time asking you questions then want you to pay!!!",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-23T15:48:12-07:00",
+      "rating": 4,
+      "title": "First few minutes",
+      "text": "For Sophie",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-22T12:26:19-07:00",
+      "rating": 1,
+      "title": "False advertising",
+      "text": "This popped up advertised as a free calorie counter. After 5 minutes answering questions it requires a subscription before you can access it. I may have continued and given it a shot but false advertising gets you deleted.",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-21T15:33:27-07:00",
+      "rating": 1,
+      "title": "Paid app",
+      "text": "This app you have to pay for, and it makes you fill out a super long questionnaire so that you’re invested in the app before it asks for money. Lame. I’d rather the app be up front and honest",
+      "version": "1.24"
+    },
+    {
+      "date": "2026-09-20T08:55:07-07:00",
+      "rating": 1,
+      "title": "I HATE this app",
+      "text": "I really dislike this calorie counter app. It's not user friendly at all. navigating through the menus feels clunky and confusing. Adding meals is unnecessarily complicated and time-consuming, which defeats the whole purpose of quick tracking. The food database is often inaccurate or missing common items, making it frustrating to log meals properly.\nThere are much simpler and more reliable apps available that provide better tracking and insights. On top of that, I tried to get a refund because I haven't been using the app, but my request was repeatedly denied without a clear explanation.\nOverall, the app feels overpriced for what it offers, and the poor customer service just adds to the disappointment. I definitely won't be using or recommending this app.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-18T17:35:27-07:00",
+      "rating": 3,
+      "title": "Can’t see Fiber or Net Carbs",
+      "text": "I chose a keto diet so I thought I would see Net Carbs. I can see carbs, fat and protein. I can’t even see Fiber so I could calculate Net Carbs myself. \nIt has been less than 24 hours, can I get a refund?",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-18T06:30:02-07:00",
+      "rating": 5,
+      "title": "I couldn’t sign up",
+      "text": "I put in all my information and got a screen that said basic metabolic information and there was no next screen",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-17T06:57:20-07:00",
+      "rating": 1,
+      "title": "Misleading",
+      "text": "I was under the impression I could cancel for a refund. That is not the case. The app didn’t meet my needs & I am unable to reach anyone to discuss the situation.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-16T02:55:39-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "No free",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-15T12:10:43-07:00",
+      "rating": 1,
+      "title": "Complicated",
+      "text": "So much hassle to add your own recipes. Instead of popping up as regular ingredients example “roasted red skin potatoes” it comes up with random potato quantities and cooking method from some random recipe online. Then trying to edit the meal and save it is tough to figure out. Wish I could get a refund for the subscription but there is no place to ask for one if you don’t like the paid features.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-15T10:14:24-07:00",
+      "rating": 1,
+      "title": "It’s not free",
+      "text": "Usually these apps give you some functionality first and then try to upsell you from there. This is not one of those. There’s nothing you can do without paying. Don’t waste your time.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-15T08:44:57-07:00",
+      "rating": 5,
+      "title": "It’s wonderful",
+      "text": "Lovey!",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-15T05:40:10-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "This was listed as a free app with original in app purchases. You can’t even trial it without signing up with your credit card. Deceptive.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-14T11:28:48-07:00",
+      "rating": 1,
+      "title": "NOT FREE",
+      "text": "The app is not free. You can download it for free, but you cannot use it for even a single second without paying. If the app is not free to use, the download should not be free either. I used a lot of internet data and spent a lot of time answering many questions before I realized that the app was not free. When an app is not free but can be downloaded for free, it means that the developer is using a deceptive tactic and taking advantage of users’ trust in order to increase the number of downloads.",
+      "version": "1.23"
+    },
+    {
+      "date": "2026-09-13T12:32:27-07:00",
+      "rating": 1,
+      "title": "NOT FREE",
+      "text": "Stop advertising it as it free because it not. Stupid money hungry people",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-13T07:32:31-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "All the time answering questions, and the. They want you to sign up and pay.  Not free as advertised.",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-12T11:17:42-07:00",
+      "rating": 2,
+      "title": "Kind of disappointed",
+      "text": "I had high hopes for this app, but after using it for a week, I think I will go back to my old calorie tracker. This one is easy to use, but I can’t quickly check whether I’m getting the proper nutrition from foods. My old tracker gave me all the vitamins and minerals I eat and helped me find which ones to increase on. The recipe part is also a challenge (at least for me).  In my old tracker I could put in all the ingredients and the calories would be totaled plus the weight. This one is very difficult to figure out despite me putting in all the ingredients and as much info as I can. I’m sorry I paid for a year I instead of a month to test it out.",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-12T04:00:27-07:00",
+      "rating": 1,
+      "title": "Not FREE",
+      "text": "I wanted a FREE calorie counter app. You can download but not use without payment. What I asked for is NOT what I want but did not find out until I answered 20 questions.",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-10T10:50:22-07:00",
+      "rating": 1,
+      "title": "Says free",
+      "text": "It is not. Went through this whole long thing to set up a profile and it wants 60$ a year. Shouldn’t say free in the description.",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-10T08:08:19-07:00",
+      "rating": 1,
+      "title": "Not Free",
+      "text": "No option for free might as well charge for the app, stupid waste of my time",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-08T19:34:10-07:00",
+      "rating": 5,
+      "title": "Five stars!",
+      "text": "This app makes it almost effortless to track, I’ve used quite a few and this one makes it so simple. The one suggestion that I have, would be a way to save the recipes that we would want to try. Love this tracker!",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-08T06:15:55-07:00",
+      "rating": 1,
+      "title": "incompatible",
+      "text": "don’t get if you have an iphone 16 pro. it’s not calibrated correctly so some buttons are cut off and layout is crazy. i got the paid version ($20) and apple refused a refund twice. 👎👎👎",
+      "version": "1.22"
+    },
+    {
+      "date": "2026-09-05T11:40:17-07:00",
+      "rating": 1,
+      "title": "Pop up after pop up",
+      "text": "Get ready to take a 45 minute survey the second you open the app then pop up after pop up after “spin the wheel for a deal” after pop up. I’ve had the app for 20 minutes and still haven’t been able to get to the actual calorie tracking part. Obnoxious",
+      "version": "1.21"
+    },
+    {
+      "date": "2026-09-05T05:58:05-07:00",
+      "rating": 2,
+      "title": "Can’t track food effectively without subscribing",
+      "text": "App description needs to be honest and state that a subscription is needed to do things like barcode scanning. It is not really a free app, it requires a subscription to be of any use.",
+      "version": "1.21"
+    },
+    {
+      "date": "2026-09-04T18:14:12-07:00",
+      "rating": 1,
+      "title": "You have to pay",
+      "text": "The app is largely AI based, and sets realistic goals, but it costs $60 for the year, $5 for the week, or $20 for a month. Not exactly great for people who are already struggling with healthy options and financial insecurity",
+      "version": "1.21"
+    },
+    {
+      "date": "2026-09-03T13:25:59-07:00",
+      "rating": 3,
+      "title": "Can’t use your own recipes",
+      "text": "Easy to use, can scan a lot of bar codes. But there’s no function to create your own recipes. So if you cook a lot of your own food, you have to guess at the provided info.",
+      "version": "1.21"
+    },
+    {
+      "date": "2026-08-31T18:25:22-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "App is great and easy to use",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-31T15:47:35-07:00",
+      "rating": 4,
+      "title": "Random Full App Glitch",
+      "text": "The app works and works well! But several times now the app resets itself and makes me re-do the info for my goals but then doesn’t retain it and sets the calorie goal to 400 instead of what it should be. Frustrating!!",
+      "version": "1.21"
+    },
+    {
+      "date": "2026-08-30T22:15:45-07:00",
+      "rating": 3,
+      "title": "Misleading",
+      "text": "Starts that you’re supposed to be eating a certain amount then changes it to something else",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-29T21:14:42-07:00",
+      "rating": 4,
+      "title": "Pretty good but needs shortcuts integration",
+      "text": "The app is good and has a lot of flexibility. The lack of shortcut commands is a shame. They have one called “intent for water” whatever that means and that’s it. It would be appreciated if there was more you could do with the app when it comes to shortcuts, cause there’s basically nothing.",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-29T09:46:11-07:00",
+      "rating": 5,
+      "title": "Really good",
+      "text": "They ask a lot of questions but it’s worth it they make a weight goal tailored specifically to you",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-28T22:40:18-07:00",
+      "rating": 1,
+      "title": "Stay Away/FRUAD",
+      "text": "I was signing up for this and didn’t get through the full set up. Because you can’t even use this with out signing up with SEVERAL subscription and if you don’t go accept ever subscription you can’t use it and you can’t get your money back. I wasted $40 for something I can’t use",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-27T14:46:04-07:00",
+      "rating": 1,
+      "title": "User Friendly",
+      "text": "NOT☹️",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-27T06:21:16-07:00",
+      "rating": 1,
+      "title": "????",
+      "text": "To many questions not fast and easy to set up",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-26T16:45:13-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "cute",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-25T15:18:42-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "I’m starting a journey of weight loss, only problem is I’m underage and can’t pay for premium",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-25T15:09:11-07:00",
+      "rating": 1,
+      "title": "Membership",
+      "text": "I didn’t like the app and tried to cancel within the trial period but was still charged. Many options out there that are better. Don’t waste your time.",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-25T07:06:16-07:00",
+      "rating": 1,
+      "title": "Onboarding",
+      "text": "There are way too many questions to get started. I just want to track my calories. I closed the app out before finishing.",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-25T05:35:39-07:00",
+      "rating": 5,
+      "title": ".",
+      "text": "Great app",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-24T17:07:39-07:00",
+      "rating": 5,
+      "title": "great app",
+      "text": "555",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-24T06:23:53-07:00",
+      "rating": 1,
+      "title": "Failed",
+      "text": "Locked up my iPhone after I entered all my information",
+      "version": "1.20"
+    },
+    {
+      "date": "2026-08-23T09:23:06-07:00",
+      "rating": 1,
+      "title": "Paid App",
+      "text": "Takes you dozens of questions mostly unnecessary, redundant, or irrelevant only to be hit with a pay wall when the app actually starts",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-22T17:54:13-07:00",
+      "rating": 4,
+      "title": "Love",
+      "text": "Amazing how it is helping people who have a problem like me",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-22T14:49:50-07:00",
+      "rating": 5,
+      "title": "First time",
+      "text": "This is my first time tracking my calories always felt like I didn’t eat horrible but this app showed me where I needed help and what to substitute different foods with and honestly make it super easy takes no time! Plus I put the widget on my Home Screen so I can just glance through out my day to see how I’m doing!",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-22T12:21:40-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-22T05:49:25-07:00",
+      "rating": 1,
+      "title": "Don’t purchase",
+      "text": "Don’t purchase this app if you need large text and/or zoom on your display. The app cannot accommodate these adaptive features and is unusable. I’m disappointed I subscribed and now cannot use the app or get a refund.",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-21T23:04:02-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "So far so good",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-21T20:55:07-07:00",
+      "rating": 2,
+      "title": "Stuck",
+      "text": "Just signed up for the app and just as I finished updating my information, the app is stuck. I’ve tried for the past hour and it’s stuck stuck. Even with rebooting app and phone.",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-21T09:27:42-07:00",
+      "rating": 1,
+      "title": "It’s not free!",
+      "text": "I feel like there should be somewhere it tells you there is not a free program!  I don’t mind options to pay for features but nothing is free!",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-20T21:09:29-07:00",
+      "rating": 5,
+      "title": "Best App",
+      "text": "Easy to track calories!",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-20T16:57:58-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Easy to use and love that I can just take a pic and get nutrition info!",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-20T16:20:19-07:00",
+      "rating": 4,
+      "title": "Do What Works",
+      "text": "A sensible and productive use of AI to manage nutrition.",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-20T11:47:32-07:00",
+      "rating": 5,
+      "title": "Calorie",
+      "text": "Love the app",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-20T09:21:47-07:00",
+      "rating": 4,
+      "title": "Wish there was more free stuff",
+      "text": "Was good!",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-19T20:25:31-07:00",
+      "rating": 1,
+      "title": "Text display wonky unless you have a large phone like a 17 pro max.",
+      "text": "App doesn’t work well when using larger text for older eyes.  Seems you have to have a large phone for display layout to be seen correctly.  Using on an iPhone 17 pro.",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-19T04:09:17-07:00",
+      "rating": 5,
+      "title": "New learner",
+      "text": "5 star",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-18T17:09:12-07:00",
+      "rating": 5,
+      "title": "TOTALLY WORTH IT",
+      "text": "This has changed my life , body , and mindset just with all the support and the app keeping me on track and on top of everything",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-17T21:46:28-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "Not free 🙄",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-17T20:51:01-07:00",
+      "rating": 2,
+      "title": "Ai",
+      "text": "I don’t like the reliance on AI to track and find food calories",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-17T17:06:31-07:00",
+      "rating": 5,
+      "title": "me agrada esta aplicación",
+      "text": "me gusta esta aplicación creo que puedo llegar a mi peso ideal con esta app",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-17T16:57:24-07:00",
+      "rating": 1,
+      "title": "Free where",
+      "text": "I asked for a free calories counter and this popped up but it’s not free. Stop advertising as something that you’re not",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-17T09:43:50-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "I love the app helps me keep track of everything",
+      "version": "1.19"
+    },
+    {
+      "date": "2026-08-16T14:45:50-07:00",
+      "rating": 1,
+      "title": "Worst app",
+      "text": "They ask many useless questions for nothing, like 1000 questions that doesn’t have to do with your goal but just to get your information and sell it to any other companies, worst app ever",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-16T10:21:06-07:00",
+      "rating": 4,
+      "title": "It’s good",
+      "text": "I am a little young but I have felt insecure about myself lately I downloaded this app to help me not binge eat I also take adhd med which affects my appetite I don’t eat all day and then all of a sudden late at night I’m starving hopefully this will help me not have to many calories or carbs when I get hungry I really like how it ask a lot of questions to actually get a bigger picture I also like how it ask for an event your looking forward to I only wish it didn’t cost money I’m still young so I don’t have that money to spend",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-16T07:49:14-07:00",
+      "rating": 1,
+      "title": "Not what I expected",
+      "text": "I thought this would be more helpful than it is. It doesn’t really explain the different colors and how to eat better. There are free apps that basically do the same thing and pay apps that give more assistance if you are actually trying to change your eating habits. Disappointed that I had to pay for something I don’t use.",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-15T19:32:05-07:00",
+      "rating": 5,
+      "title": "My review",
+      "text": "I just started using this app and I already love it and the layout! It makes meal tracking and workout tracking so easy.",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-15T16:02:54-07:00",
+      "rating": 1,
+      "title": "Couldn’t even make it past the promotions",
+      "text": "My screen is literally too small. I tried exiting out of the third attempt they make at getting you to buy the premium, but i literally see any button to get off the screen, nor can I scroll down. Didn’t even make it to the actual app because it’s too poorly made",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-12T15:35:15-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Good",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-12T10:47:59-07:00",
+      "rating": 1,
+      "title": "Uses AI",
+      "text": "I got almost the entire way through onboarding before it tells me it uses AI. 😐",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-12T08:37:34-07:00",
+      "rating": 1,
+      "title": "Not free! Off with calorie suggestions",
+      "text": "I’m so glad I know enough about nutrition that I know the suggested calorie amount was way off! After going through a million prompts it reveals you have to pay around $60 a year",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-12T03:32:19-07:00",
+      "rating": 4,
+      "title": "It’s a good app",
+      "text": "hopefully I can get to my goal weight by 2027 I just started the app but it seems nice and easy to work with",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-11T19:54:44-07:00",
+      "rating": 1,
+      "title": "It should be about health",
+      "text": "The entire beginning questionnaire focuses solely on weight loss. I want o cut sodium and track my sodium levels for my heart. I want to eat Whole Foods because of chronic illness and my heart. I want to be healthy because I’m not healthy right now. \n\nI don’t need to calorie count. I don’t need inspiration to exercise. I need help tracking treatments and triggers. Please with the unhealthy diet culture, stop.",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-11T18:26:08-07:00",
+      "rating": 1,
+      "title": "Not user friendly",
+      "text": "Deleted",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-11T12:11:25-07:00",
+      "rating": 1,
+      "title": "By a free calorie counter",
+      "text": "Downloaded the app because it came up as the first FREE calorie counter, it is in fact NOT free! Not even a trial period. I was unable to even start counting calories or open the app without paying.",
+      "version": "1.18"
+    },
+    {
+      "date": "2026-08-09T18:48:59-07:00",
+      "rating": 5,
+      "title": "The best",
+      "text": "This is awesome",
+      "version": "1.17"
+    }
+  ]
+}

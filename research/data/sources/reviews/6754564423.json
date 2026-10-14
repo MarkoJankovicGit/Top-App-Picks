@@ -1,0 +1,154 @@
+{
+  "app": "Trendy: Profile Report & Boost",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-30T05:27:03-07:00",
+      "rating": 5,
+      "title": "Excelente app",
+      "text": "Súper buena directa no da tantos rodeos muy te dice y te ayuda rápido",
+      "version": "2.0.6"
+    },
+    {
+      "date": "2026-09-14T09:40:07-07:00",
+      "rating": 5,
+      "title": "По предварительной оценке",
+      "text": "Всё в точку написал, я в шоке! Это супер",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-08-16T22:40:20-07:00",
+      "rating": 1,
+      "title": "can’t cancel subscription",
+      "text": "rebuild chat gpt , poor app",
+      "version": "2.0.5"
+    },
+    {
+      "date": "2026-08-13T18:22:13-07:00",
+      "rating": 1,
+      "title": "App does NOT work",
+      "text": "I subsribed 10’days ago and now app Is stuck and frozen   I have reported and no Service    Impossible to Connect    I for the annual plan and it just doesnt working  i can’t even get started on the screen",
+      "version": "2.0.4"
+    },
+    {
+      "date": "2026-08-01T23:41:15-07:00",
+      "rating": 2,
+      "title": "Отзыв",
+      "text": "Мне не очень нравиться, во первых всего 6 слайдов, а сейчас уже можно делать 20, во вторых непонятный интерфейс , не делает индивидуально, я думала он будет подстраиваться под мою страницу делать аналитику и предлагать варианты",
+      "version": "2.0.3"
+    },
+    {
+      "date": "2026-07-17T13:08:04-07:00",
+      "rating": 1,
+      "title": "Обновление",
+      "text": "После обновления просто отупел. Пишет хуже gpt. Голосовой ввод не работает. Сообщения больше двух строк не отправляются. Разочарование.",
+      "version": "2.0.1"
+    },
+    {
+      "date": "2026-07-15T02:42:12-07:00",
+      "rating": 5,
+      "title": "Очень хорошее приложение",
+      "text": "Хорошее приложение,сразу все стало понятно",
+      "version": "2.0.0"
+    },
+    {
+      "date": "2026-06-20T01:08:58-07:00",
+      "rating": 5,
+      "title": "Trendy profile tracker & Boost",
+      "text": "I finding it very amazing. Especially for the way it scanned my profile and was spot on",
+      "version": "1.1.13"
+    },
+    {
+      "date": "2026-06-13T16:36:10-07:00",
+      "rating": 5,
+      "title": "From start",
+      "text": "As soon as I started it could give me a good idea of what going on with my profile",
+      "version": "1.1.13"
+    },
+    {
+      "date": "2026-05-23T11:13:09-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "It really is helpful if ur trying to grown online",
+      "version": "1.1.12"
+    },
+    {
+      "date": "2026-05-15T03:01:18-07:00",
+      "rating": 5,
+      "title": "👍👍👍",
+      "text": "bcклассный предложение 👍👍👍",
+      "version": "1.1.11"
+    },
+    {
+      "date": "2026-05-11T10:03:18-07:00",
+      "rating": 1,
+      "title": "Don’t get this",
+      "text": "This app doesn’t do what it advertised, I requested a refund within 30 mins and was told it was not eligible for refund. \n\nThey are Scamming people.",
+      "version": "1.1.11"
+    },
+    {
+      "date": "2026-04-21T14:20:38-07:00",
+      "rating": 1,
+      "title": "МОШЕННИКИ",
+      "text": "Списались деньги за месяц использования Про версии, ничего не открылось, просит повторно оплатить!!! Я в шоке!!",
+      "version": "1.1.9"
+    },
+    {
+      "date": "2026-04-12T17:26:21-07:00",
+      "rating": 5,
+      "title": "Soooo helpful",
+      "text": "I needed to grow as a small creator and this app helped me so much I wish I knew about it last year",
+      "version": "1.1.9"
+    },
+    {
+      "date": "2026-04-08T08:11:11-07:00",
+      "rating": 5,
+      "title": "Brilliant",
+      "text": "The accuracy of getting my feed back.",
+      "version": "1.1.8"
+    },
+    {
+      "date": "2026-04-04T21:14:44-07:00",
+      "rating": 4,
+      "title": "So Far So Good",
+      "text": "Just getting started with this app but I’m impressed with what I’ve seen so far.",
+      "version": "1.1.8"
+    },
+    {
+      "date": "2026-03-25T07:21:36-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "Seems helpful!",
+      "version": "1.1.8"
+    },
+    {
+      "date": "2026-02-23T19:50:46-07:00",
+      "rating": 1,
+      "title": "Won’t open",
+      "text": "App won’t open just intro",
+      "version": "1.1.6"
+    },
+    {
+      "date": "2026-02-08T21:19:51-07:00",
+      "rating": 5,
+      "title": "Yo",
+      "text": "Can anybody tell me more about this app?!😭",
+      "version": "1.1.5"
+    },
+    {
+      "date": "2026-01-31T17:02:01-07:00",
+      "rating": 1,
+      "title": "It won’t open",
+      "text": "Goes through the intro hooks but never opens",
+      "version": "1.1.4"
+    },
+    {
+      "date": "2026-01-24T17:32:59-07:00",
+      "rating": 1,
+      "title": "Not helpful whatsoever",
+      "text": "this app charged me 20$ for 10 chatgpt prompts for “content ideas”. do not recommend",
+      "version": "1.1.3"
+    }
+  ]
+}

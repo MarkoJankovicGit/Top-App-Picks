@@ -1,0 +1,42 @@
+{
+  "app": "Exhale - Quit Vaping Now",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-07-02T21:27:48-07:00",
+      "rating": 1,
+      "title": "Wouldn’t waste your time",
+      "text": "Paid money for it and now I’ve been stuck on the same screen that won’t work for over a week. Finally I just deleted the app and said screw it.",
+      "version": "1.0.6"
+    },
+    {
+      "date": "2026-05-17T15:10:11-07:00",
+      "rating": 5,
+      "title": "Help me quit",
+      "text": "I no longer want vape in my life",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-05-07T11:54:12-07:00",
+      "rating": 1,
+      "title": "Waste",
+      "text": "Paid money for it. And now it won’t work. Stuck on a screen. So got it for no reason. Don’t pay for this it won’t do anything.",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-04-16T10:56:31-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app keeps you on track and allow you to hold yourself accountable without the pressure of outside opinions . I personally love this app",
+      "version": "1.0.4"
+    },
+    {
+      "date": "2026-03-20T10:58:17-07:00",
+      "rating": 5,
+      "title": "Sobriety",
+      "text": "I got this app to quit smoking starting today I’m done",
+      "version": "1.0.1"
+    }
+  ]
+}

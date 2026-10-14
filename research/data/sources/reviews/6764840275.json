@@ -1,0 +1,49 @@
+{
+  "app": "English Bites",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-27T13:32:23-07:00",
+      "rating": 5,
+      "title": "Motivada",
+      "text": "Maestra 👍",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-09-17T17:46:04-07:00",
+      "rating": 1,
+      "title": "Advertised free trial, charged for a year",
+      "text": "I was excited to try this app because it seemed fun and useful. I signed up expecting the 7-day trial, but was charged for the full annual subscription immediately. I canceled within 10 seconds of seeing the charge. I’ve also emailed support twice and received no response. Very upsetting experience, especially when I was genuinely interested in using the app.",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-09-12T09:14:54-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "I am very like",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-09-12T01:12:02-07:00",
+      "rating": 1,
+      "title": "Horrible",
+      "text": "Not as advertised.  Not to mention, I clicked on 7 day free trial and was charged for 2 months. Don’t to be fooled into clicking on this.",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-07-11T06:41:58-07:00",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Cách dạy ok",
+      "version": "1.0.5"
+    },
+    {
+      "date": "2026-07-10T20:30:39-07:00",
+      "rating": 5,
+      "title": "Fantástico",
+      "text": "Estoy aprendiendo rápido me encanta",
+      "version": "1.0.5"
+    }
+  ]
+}

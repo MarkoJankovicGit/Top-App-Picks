@@ -1,0 +1,98 @@
+{
+  "app": "AcneTrack – Your Acne Journey",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-19T19:29:07-07:00",
+      "rating": 1,
+      "title": "AI Slop in App Form. Very limited- and you don’t know that until after they make you pay $",
+      "text": "I went through the entire onboarding process, and after seeing the model I figured that there was no way that this wouldn’t be helpful, so I paid for an annual subscription. Oooohohoho boy was I wrong.\n\nTL;DR - they used AI to make an app that looks flashy but misses all of the basic components needed to actually track your skincare routine, thereby rendering it useless. Details below.\n\nThings were going well in the app, I like the scans and the ability to scan/track individual pimples. BUT…… Man are there insane limitations.\n\nFor the morning routine and the evening routine, they basically give you 5 categories of product (like moisturize, treat, “soothe”, “nourish” whatever those mean, protect for SPF, etc) and they tell you what product you should buy for these categories. I was a little surprised they didn’t ask what my current routine was, but there was an option to “swap for your own product”, so I did that. I swapped the moisturizer with my moisturizer. And then next I wanted to add the moisturizing spray that I use, so I go to add a new product to the routine, and I put in the details of my moisturizing spray.\n\nWhen I go back to my routine, I realize that the app didn’t add my moisturizing spray to the list - it REPLACED the moisturizer I had added previously. So basically.. you can only put one moisturizing product in your routine 🤯 why tf would anyone do that\n\nAlso, that same section does not save any database or “shelf” of the products that you own after adding them to your routine - so for example, when I realized that it replaced my moisturizer, I went to add my moisturizer back in under another category (like “soothe” or something) to force it to accept it - I expected that they would have saved the product information somewhere, but no, it just gives me empty text boxes, so I have to enter all the info again.\n\nI also wanted to track the fact that I’m taking prescription tretinoin (VERY IMPORTANT to any skin care routine) - but they require you to pick a brand and don’t acknowledge the existence of prescriptions in their database.\n\nI also wanted to track the fact that I’m taking an oral medication for my hormonal acne, spironolactone - but there is nowhere to track prescription medications… Not topical Rx’s, not oral RX’s specifically for acne, nor other Rx’s that could affect your acne (antidepressants that increase sweat production, for example). So basically the two major tenets of my acne treatment routine - the only two things my dermatologist prescribed me - are not able to be tracked in this app.\n\nOn the “daily” tab, it gives you a personalized checklist of things to do or avoid every day, like not picking your face, or avoiding sugar, etc. So basically, lifestyle recommendations. But then it also puts on this list “Apply niacinamide serum”. What? Why are there product recommendations on this list? Not only is that not the right place for it, but it contradicts the routine section which doesn’t mention niacinamide at all. So are you supposed to apply niacinamide, but not track it? Like dude come on\n\nThe last thing that really hammered home the frustration was that they have an AI chat you can ask questions…. And it’ll just straight up lie to you about the app features. It told me I could track my medications from the dashboard - you can’t. I told it this, and it basically said “oh yeah my bad, you can’t” and then told me that I could keep track of it in the “journal/notes” section instead. There is no journal/notes section in this app. I told it that, and it straight up told me that I should use another app to track those things separately, or use pen and paper LMAO.\n\nOh, and another thing it can’t track - devices (I use an LED face mask every night, which is very relevant to my skin care)\n\nAs I was writing this review I realized I could save a lot of time by just calling this app what it is- AI slop. They took a good concept and executed it using purely AI tools and didn’t check if it actually worked. The different sections of the app seem ignorant of each other’s existence. And touchy-feely categories like “protect” instead of “SPF” and “soothe” instead of … ?? I don’t even know what just hammer home the lack of substance in this app. Like it doesn’t allow something to be both a moisturizer and an SPF at the same time 😭😭😭 make it make sense.\n\nIts lack of customizability makes it useless for its intended purpose, they don’t offer a free trial so you can’t know whether it works or not until after you pay them.\n\nI just emailed them asking for a refund. I included my explanation as to why I can’t use this app, and I will update this review when they reply. I don’t feel optimistic about it, but no reputable company should want to keep money from a customer who can’t benefit from their product. Reputation is everything.",
+      "version": "1.3.6"
+    },
+    {
+      "date": "2026-09-07T18:45:41-07:00",
+      "rating": 1,
+      "title": "Bad app",
+      "text": "Don’t recommend to many questions just for the to not tell you anything until you pay.",
+      "version": "1.3.5"
+    },
+    {
+      "date": "2026-06-20T11:40:26-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "This app is amazing",
+      "version": "1.3.2"
+    },
+    {
+      "date": "2026-03-18T11:28:16-07:00",
+      "rating": 1,
+      "title": "Sucks",
+      "text": "So I have kinda bad acne and I heard about this app so I got it and I did the face scan thing and it added spots to n my face and I wet to my camera and those spots weren’t there also you have to pay for everything",
+      "version": "1.2.7"
+    },
+    {
+      "date": "2026-02-22T13:13:02-07:00",
+      "rating": 1,
+      "title": "This doesn’t help",
+      "text": ".",
+      "version": "1.2.4"
+    },
+    {
+      "date": "2026-02-03T19:32:03-07:00",
+      "rating": 4,
+      "title": "Eh not what I thought. Paid too much",
+      "text": "I’d prefer for it to have a way for me to customize my treatment so I can track my progress.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2025-11-22T13:41:19-07:00",
+      "rating": 1,
+      "title": "after lots of doing there is nothing for free users",
+      "text": "they asked a lot of things.. after doing all of these, you will see almost nothing is available for free users.",
+      "version": "1.1.15"
+    },
+    {
+      "date": "2025-11-14T09:21:11-07:00",
+      "rating": 1,
+      "title": "wack app",
+      "text": "it keeps trying to make me pay and i already deleted the app",
+      "version": "1.1.15"
+    },
+    {
+      "date": "2025-10-14T22:20:20-07:00",
+      "rating": 1,
+      "title": "Don’t waste your money",
+      "text": "The app didn’t ask what my current routine is. Just said I needed to spend $ to see my results. The main cause of my acne is now “Hormon” apparently because they don’t spell check. Idk how this has positive reviews. Maybe I’m not using it right.",
+      "version": "1.1.14"
+    },
+    {
+      "date": "2025-10-03T05:59:01-07:00",
+      "rating": 5,
+      "title": "Best app ever",
+      "text": "Ok you’ll have to pay a few $. But the app is simply amazing for everyone who’s struggling with acne! I spent so much on skincare products, this is just amazing and worth so much more than products. Just test it you’ll see",
+      "version": "1.1.12"
+    },
+    {
+      "date": "2025-09-01T15:47:14-07:00",
+      "rating": 1,
+      "title": "Do not recommend if your broke",
+      "text": "Trash, how you might be saying? Let me explain, So I searched up “Acne” cause I have bad acne so I saw this app, I saw one good review and one bad review so I got it anyways, but little did I know I should’ve trusted the bad review, anyways I got the app, Took a survey kinda I scanned my face thinking this would work. AND IT COSTED MONEY!!! Thanks to that bad comment because I wouldn’t have known if I didn’t read that!",
+      "version": "1.1.12"
+    },
+    {
+      "date": "2025-08-02T14:52:35-07:00",
+      "rating": 5,
+      "title": "Very good app",
+      "text": "Very good app",
+      "version": "1.1.8"
+    },
+    {
+      "date": "2025-06-12T20:09:43-07:00",
+      "rating": 1,
+      "title": "Purchases",
+      "text": "you really have to pay to use the app. its not just like pay for an extra setting or ability, you pay for the entire thing. waste of time.",
+      "version": "1.0.5"
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "app": "Learn to code with Yolmo®",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-03-11T15:26:47-07:00",
+      "rating": 1,
+      "title": "Horrible just horrible",
+      "text": "Horrible do not recommend",
+      "version": "3.5.0"
+    },
+    {
+      "date": "2026-03-10T21:23:19-07:00",
+      "rating": 5,
+      "title": "Free Learning",
+      "text": "Three free paths with the ability to switch paths at will. Great reading platform with a wonderful community building it to be an amazing resource!",
+      "version": "3.5.0"
+    },
+    {
+      "date": "2025-08-03T15:20:44-07:00",
+      "rating": 2,
+      "title": "Not Responding",
+      "text": "When I first tried to login via apple, I tried to change my name. This happened to make the app and the keyboard unresponsive.",
+      "version": "3.4.20"
+    },
+    {
+      "date": "2025-01-11T17:54:52-07:00",
+      "rating": 5,
+      "title": "Charisma",
+      "text": "A pioneer in user satisfaction, makes me want to code and not waste my time on purchases.",
+      "version": "3.4.15"
+    },
+    {
+      "date": "2024-11-18T07:28:48-07:00",
+      "rating": 1,
+      "title": "Can’t login suddenly",
+      "text": "I suddenly can’t login even after successfully changing my password.",
+      "version": "3.4.14"
+    },
+    {
+      "date": "2024-03-26T19:56:11-07:00",
+      "rating": 3,
+      "title": "I can’t figure out how to learn",
+      "text": "You can’t learn it’s just coding",
+      "version": "3.4.10"
+    },
+    {
+      "date": "2024-03-01T18:36:50-07:00",
+      "rating": 1,
+      "title": "Lock files?",
+      "text": "I used to use this app a lot, but when I got back on, I noticed that all of my files are inaccessible. Why would you lock people out of their own files? It’s kind of like holding them hostage unless we pay you for them back. I get wanting people to pay for more access, but this doesn’t seem right.",
+      "version": "3.4.9"
+    },
+    {
+      "date": "2023-12-22T16:01:12-07:00",
+      "rating": 5,
+      "title": "Perfect for me",
+      "text": "It is SO perfect for my age (sorry i was too lazy to write more)",
+      "version": "3.4.9"
+    },
+    {
+      "date": "2023-06-24T17:19:41-07:00",
+      "rating": 2,
+      "title": "Paywall",
+      "text": "This app used to be amazing! I would use it every day and learn so much. But the lessons are boring and slow. When I first downloaded the app everything was free, but recently I realized that everything is behind a paywall with ridiculous prices.",
+      "version": "3.4.2"
+    },
+    {
+      "date": "2023-06-22T20:29:14-07:00",
+      "rating": 2,
+      "title": "Good app, but…",
+      "text": "I’ve been using this app for so long it seems to me that it was called something else before it was Yolmo. Now, all of a sudden, I go to get back into the Python 3 module and it’s locked pending membership purchase?!? There are other (likely better) free apps out there, but I’d be willing to pay for this one. Once. Not monthly or annually! There’s nothing here worth paying a monthly subscription for! Maybe $4.99 one time purchase, but that’s it. Sorry, but unless the pricing model changes I’ve gotta move on to something else.",
+      "version": "3.4.2"
+    },
+    {
+      "date": "2023-03-30T22:00:51-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "This is an awesome app, don’t know how its possible.",
+      "version": "3.4.0"
+    },
+    {
+      "date": "2023-02-11T15:34:08-07:00",
+      "rating": 3,
+      "title": "Ads or pay",
+      "text": "I don’t mind paying for a good app such as tho abut I feel their asks it’s too much at 60 a year. I would play a flat rate for it for sure but I feel like it’s a bit much. Since I don’t pay, I get the limited ad version of the software. Miss the good ol days. This was a great app.",
+      "version": "3.3.100009"
+    },
+    {
+      "date": "2023-01-26T05:35:03-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "A simple learning tool that works great",
+      "version": "3.3.100009"
+    },
+    {
+      "date": "2022-12-09T14:27:50-07:00",
+      "rating": 1,
+      "title": "Terrible",
+      "text": "so many popups, all closing a lot. TERRIBLE, DO NOT GET! 🗑🤮🤢",
+      "version": "3.3.100007"
+    },
+    {
+      "date": "2022-11-11T16:15:47-07:00",
+      "rating": 1,
+      "title": "Another one bites the dust",
+      "text": "IMO old reviews should be wiped when these previously good apps switch to subscription and lock things down",
+      "version": "3.3.100006"
+    },
+    {
+      "date": "2022-09-16T15:08:58-07:00",
+      "rating": 4,
+      "title": "Just not quite the same",
+      "text": "I learned a decent amount from this app and it was a useful tool but the monetizing kinda ruined it. Thank you so much for what I did learn though. 🙏🏽",
+      "version": "3.3.100005"
+    },
+    {
+      "date": "2022-09-07T22:05:10-07:00",
+      "rating": 5,
+      "title": "Playgrounds not working",
+      "text": "Great app, but it always prompts me to watch and ad. This wouldn’t have been much of an issue if it could ACTUALLY PLAY THE AD. I get stuck in the “watch an ad now” screen and cannot access playgrounds.",
+      "version": "3.3.100003"
+    },
+    {
+      "date": "2022-08-18T11:40:00-07:00",
+      "rating": 5,
+      "title": "Yolmo saved my whole family from a house fire because I was able to code en extinguisher script",
+      "text": "It also bought me KFC",
+      "version": "3.3.100003"
+    },
+    {
+      "date": "2022-07-15T18:26:16-07:00",
+      "rating": 2,
+      "title": "Sure I guess",
+      "text": "Whatever",
+      "version": "3.3.100002"
+    },
+    {
+      "date": "2022-07-05T17:10:41-07:00",
+      "rating": 5,
+      "title": "Fulfilled my curiosity",
+      "text": "Wanting to learn C++ and Python while working a third shift job isn’t easy. So having the portability of this amount of knowledge for free is amazing especially when I have no service, thanks your doing the lords work here lol.",
+      "version": "3.3.100002"
+    },
+    {
+      "date": "2022-06-28T04:02:10-07:00",
+      "rating": 5,
+      "title": "Best IDE for mobile!",
+      "text": "I’ve tried a lot, but this the only that stands out. Great job!!",
+      "version": "3.3.100002"
+    },
+    {
+      "date": "2022-06-25T22:18:26-07:00",
+      "rating": 4,
+      "title": "Keyboard Shortcuts for common chars",
+      "text": "Quite useful! Been using it for 2 years now. One suggestion please, add keyboard shortcuts for common symbols like ; { } ( ) [ ] just floating right above the keyboard, since these are common in almost all programming languages.",
+      "version": "3.3.100002"
+    },
+    {
+      "date": "2022-05-25T19:52:33-07:00",
+      "rating": 3,
+      "title": "It is unstable for me",
+      "text": "D D g",
+      "version": "3.3.10001"
+    },
+    {
+      "date": "2022-05-11T14:19:54-07:00",
+      "rating": 3,
+      "title": "App is not opening",
+      "text": "The app opened and ran fine the first time I downloaded it on my iPhone and iPad; however, after using “Sign Up/In with  Apple,” I was met with a never ending loading screen and wasn’t unable to proceed further——uninstalling and reinstalling didn’t work. In fact, after reinstalling, I’m not even able to access the Sign In page because it’s just loading and loading. \n\nI downloaded the iPad version of the app on my M1 mac and it worked fine when I didn’t use the Sign-in with Apple function. \n\nI am on the latest iOS/iPadOS betas on the respective devices (iPhone 13 pro, M1 iPad Pro), I dunno if that’s possibly causing the issue.",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-05-06T16:31:41-07:00",
+      "rating": 1,
+      "title": "Email sign up required",
+      "text": "No reason an IDE like this should require a sign up page.",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-05-01T03:49:38-07:00",
+      "rating": 5,
+      "title": "Wow!",
+      "text": "Awesomeness & free",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-30T16:13:21-07:00",
+      "rating": 5,
+      "title": "Yes",
+      "text": "This is by far the best coding app I’ve ever seen. They give you lessons and playgrounds, which means you can just do anything with this app. Would recommend to any future coder.\n\n:)",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-27T14:52:40-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Great",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-21T14:38:02-07:00",
+      "rating": 5,
+      "title": "Fantastic app",
+      "text": "Highly recommend",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-19T18:40:01-07:00",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "I’ve tried them all\n and this is the best by far👋🏽🎉🎉",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-17T14:17:14-07:00",
+      "rating": 5,
+      "title": "Fantastic app",
+      "text": "Has a built in editor or ide , or you can use a different one. And many different languages. \nIt explains the entire language and how it works.. this is freakin awesome.  I do wish it had quizzes or tests to test your skills as you learn. But it is great the way it is. I’m learning lua and it is more then helpful",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-17T13:19:00-07:00",
+      "rating": 2,
+      "title": "A fantastic app but it doesn't load",
+      "text": "I've used this app in the past and it was incredible how much information it contained. Coming back to the app now, the app fails to load and is stuck on the loading screen. I hope they fix this fast because I have been eager to use it again.",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-04-15T16:18:47-07:00",
+      "rating": 5,
+      "title": "Great App with 5 stars",
+      "text": "I loved the app, not only for learning purpose it’s really useful to test your javascript codes but i would suggest you separate the playground from the tutorials.\n\nThank you,",
+      "version": "3.3.10000"
+    },
+    {
+      "date": "2022-03-27T06:07:01-07:00",
+      "rating": 5,
+      "title": "A great app",
+      "text": "Can you add support to mouse?",
+      "version": "3.2.25"
+    },
+    {
+      "date": "2022-03-20T13:11:52-07:00",
+      "rating": 5,
+      "title": "This is TERRIBLE",
+      "text": "So I try to code a clock and it was completely accurate and said something about an error so DO NOT OK DO NOT INSTAL THIS APP this was in python3 an everything all you do is write stuff continuously so please don’t waste your money and I hope you fix \nThis",
+      "version": "3.2.25"
+    },
+    {
+      "date": "2022-02-07T00:14:13-07:00",
+      "rating": 2,
+      "title": "Good, Must improve",
+      "text": "In the title of this app it’s written as Yolmo Learning. But it’s just a code editor, No tutorials! And It’s so difficult to write the code in phone in this app. But it’s Good",
+      "version": "3.2.24"
+    },
+    {
+      "date": "2022-01-20T12:14:54-07:00",
+      "rating": 5,
+      "title": "Transfer code",
+      "text": "The app is nice for learning code. Would like to copy code and pull it out of the editor.",
+      "version": "3.2.23"
+    },
+    {
+      "date": "2022-01-14T20:14:03-07:00",
+      "rating": 5,
+      "title": "This is great.",
+      "text": "Over my years as a programmer, I haven’t come across an app like this, very simplified and user friendly. It’s a great app, easy to use and updated for multiple functions. \nKudos to the team in charge of this. You did a great job. I hope to more great experience using the app.",
+      "version": "3.2.22"
+    },
+    {
+      "date": "2022-01-12T11:13:44-07:00",
+      "rating": 5,
+      "title": "Fix this bug please",
+      "text": "It’s a fantastic app to practice coding, but I noticed that when you create multiple snippets in a workspace folder, the contents of old snippets gets messed up (overwritten with that of the new one). If the contents of the snippets were stable, the app will be just perfect for me.",
+      "version": "3.2.21"
+    },
+    {
+      "date": "2021-12-28T22:05:50-07:00",
+      "rating": 5,
+      "title": "Top 10 BEST Computer Programming to Learn in 2021 and beyond",
+      "text": "This is truly the best to learn computer programming in mobile smartphones just to know how the software aspect works for those curious minds who put the hard work in their mindsets.",
+      "version": "3.2.21"
+    },
+    {
+      "date": "2021-12-08T09:02:19-07:00",
+      "rating": 5,
+      "title": "Definitely worth a go",
+      "text": "Ive been using codecademy and other coding apps to help you learn how to code and none of those apps have helped me understand the language of the different codes.",
+      "version": "3.2.19"
+    },
+    {
+      "date": "2021-12-07T17:37:54-07:00",
+      "rating": 5,
+      "title": "Wonderful App",
+      "text": "Learning python with the app. Thanks to the developer for such a wonderful work.",
+      "version": "3.2.19"
+    },
+    {
+      "date": "2021-11-07T06:49:35-07:00",
+      "rating": 2,
+      "title": "Big Problem",
+      "text": "Getting back into programming and by review seems to be the best app. Love that the devs stay on top of ratings and reviews. Unfortunately the app is broken on my iPad(2021). Playground tab is completely empty, workspaces tab is empty(upon hitting plus button nothing happens), and attempting to open profile crashes the app. Reinstalled twice with no resolution. Please get back to me, would love to give the app a chance.\n\nEdit: Fixed the problem by opening the app from the AppStore rather than pressing it on my Home Screen. I believe the issue has something to do with the app not displaying the log in screen upon opening it for the first time. \n\nUnfortunately a new issue I discovered on the iPad(2021) with this app. Changing orientation of the device will sometimes cut half of the screen off prompting me to have to restart the app in my desired orientation.",
+      "version": "3.2.17"
+    },
+    {
+      "date": "2021-10-24T01:34:23-07:00",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "text": "This is a great free app that is well thought out and implemented. I’m glad I found it!",
+      "version": "3.2.16"
+    },
+    {
+      "date": "2021-10-21T01:00:38-07:00",
+      "rating": 5,
+      "title": "Feedback",
+      "text": "I am excited to use this app already. It is full of rich information.",
+      "version": "3.2.16"
+    },
+    {
+      "date": "2021-10-15T07:44:27-07:00",
+      "rating": 5,
+      "title": "Playground",
+      "text": "Needs to tweak minor settings, but not bad. I’d give it a 4.5 if I could. 100% works, not one off those paid to be here customers/reviewers either.",
+      "version": "3.2.16"
+    },
+    {
+      "date": "2021-10-10T20:04:16-07:00",
+      "rating": 3,
+      "title": "Leaves off needed details",
+      "text": "Descriptions of each piece of code is often missing leaving the user wondering how or what the code is doing",
+      "version": "3.2.16"
+    },
+    {
+      "date": "2021-10-05T04:27:19-07:00",
+      "rating": 4,
+      "title": "A Good App, But….",
+      "text": "I Used To Get A lot Of Coding Apps On App Store, I Loved This One But The Problem Is, I Cant Make Any Characters, The Output Is Just Text When I’m Writing Code, Good App, But It’s Could Have Been Better.",
+      "version": "3.2.16"
+    },
+    {
+      "date": "2021-10-03T18:13:26-07:00",
+      "rating": 4,
+      "title": "Really functional",
+      "text": "I can’t say how much I had enjoyed this app on my free time , now I have a question (how do you copy and paste on phone?) trying to export some codes and is not way I could find it, everything else on my opinion is great, good job guys.",
+      "version": "3.2.15"
+    },
+    {
+      "date": "2021-09-16T04:09:48-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome app!😄😄😄😄😄☺️ I hope you get 1B downloads. Also, will it be possible for you to release a desktop app? For windows or Linux?",
+      "version": "3.2.14"
+    }
+  ]
+}

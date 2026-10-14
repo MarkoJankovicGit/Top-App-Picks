@@ -1,0 +1,707 @@
+{
+  "app": "RateTracker:Blood Sugar",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T20:29:38-07:00",
+      "rating": 4,
+      "title": "Very good, but with some limitations…",
+      "text": "It’s very good app, but I don’t find how to measure and monitoring the indicators more than one time in a day. So, a single moment is important but it isn’t enough",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-09T18:37:37-07:00",
+      "rating": 1,
+      "title": "Danger Beware!",
+      "text": "This app does NOT give accurate readings. I took it several times and it still gave me inaccurate readings. This app shows my BP was 110/70 (normal). I took my BP several times on this app and got the same results!But with 2 other good BP machines I  own, my BP results were 207/133 (critical). So don’t risk your health and waste your time and money on this useless app!",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-08T10:38:05-07:00",
+      "rating": 1,
+      "title": "Worthless",
+      "text": "Any app that won’t let you use its basic functions without paying up front is garbage.  This app is incapable of providing accurate health data, and you shouldn’t waste your time or money on it.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-04T13:11:01-07:00",
+      "rating": 1,
+      "title": "Heart Rate monitor",
+      "text": "It shows 75 my heart rate. Doesn't make sense. But when I checked in Kardia 109. No wonder I am tired when I go uphill.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-03T23:56:50-07:00",
+      "rating": 4,
+      "title": "Rate tracker Rating",
+      "text": "I rate the app Rat “4” bc nothing is perfected Tracker and this app is new to me! In time I will be able to better review it app.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-03T08:35:15-07:00",
+      "rating": 1,
+      "title": "This is a scam/joke",
+      "text": "It did my heart rate, but I can do this on my phone.  I purchased the “free” app to monitor BP and blood sugar. Well, after paying to use these additional features, I try them and they do not work. So I’m very confused about that and I am about to cancel.  Don’t waste your time or money!!",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-03T01:02:21-07:00",
+      "rating": 1,
+      "title": "No BS detector",
+      "text": "Didn’t work the first time either",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-10-01T11:13:01-07:00",
+      "rating": 1,
+      "title": "False Advertising",
+      "text": "App is not Free.  You must enter credit card to access app and a “tentative” charge is made to your card.  Thehold",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-30T19:15:21-07:00",
+      "rating": 1,
+      "title": "Does not work",
+      "text": "I wish these apps that swear they take (not just track) blood pressure and glucose weren’t liars!!!!",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-30T09:05:41-07:00",
+      "rating": 2,
+      "title": "Limited time offers aren’t real",
+      "text": "I received a notification for a limited time offer for $.92 a week or $.77 a year. I selected the yearly option and then it took me to the payment screen and said the amount due was $39.99",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-28T12:19:28-07:00",
+      "rating": 1,
+      "title": "Blood sugar?",
+      "text": "There’s no way I’m a 5.0 anytime, much less every time.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-26T14:55:11-07:00",
+      "rating": 2,
+      "title": "Not real",
+      "text": "The only thing that’s working is the heart monitor which is included for Apple phone for free. The rest is not working. I have blood pressure monitor and I have few different measurements during the day. Here it is always the same. And my sugar is not even close to the real value.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-26T08:04:32-07:00",
+      "rating": 1,
+      "title": "Disappointed customer",
+      "text": "You cannot take your sugar or BP on this app it only allows documentation. So disappointed",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-24T09:24:46-07:00",
+      "rating": 1,
+      "title": "Functioning",
+      "text": "It doesn’t work the way it says it does . I recommend not buying it at all . Waste of money",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-23T19:12:11-07:00",
+      "rating": 2,
+      "title": "Bp reading",
+      "text": "Wasn’t accurate at all. Dangerous",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-23T14:57:32-07:00",
+      "rating": 1,
+      "title": "Blood Sugar Monitor",
+      "text": "Does not appear to be working. No service to question it either.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-23T10:22:35-07:00",
+      "rating": 1,
+      "title": "No Good",
+      "text": "Isn’t working and I don’t know how to set it up. Where’s the instructions?",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-22T22:20:35-07:00",
+      "rating": 1,
+      "title": "Don't waste your money.",
+      "text": "The RateTracker doesn't do what it claims.  Not all features work the way they claim.  False advertising.  Don't waste your money.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-22T08:14:24-07:00",
+      "rating": 1,
+      "title": "No directions",
+      "text": "It would be good if you could let an old duffer know how this works I am particularly interested in blood glucose",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-22T07:24:30-07:00",
+      "rating": 1,
+      "title": "Not working!",
+      "text": "Only tracks what my watch can track for free… does not tell me my blood sugar level or my blood pressure",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-22T07:22:50-07:00",
+      "rating": 1,
+      "title": "Horrible doesn’t work",
+      "text": "Inaccurate every time very dangerous false readings",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-21T17:12:15-07:00",
+      "rating": 1,
+      "title": "Blood sugar",
+      "text": "Every time I test it it’s normal and I have diabetes. It’s not supposed to be normal.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-20T08:06:21-07:00",
+      "rating": 3,
+      "title": "Blood sugar",
+      "text": "It does not calculate the blood sugar correctly",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-18T10:15:07-07:00",
+      "rating": 1,
+      "title": "Not Free",
+      "text": "I downloaded the app expecting to see adds, but the first week was $0.99 and then I was going to be charged a rate.  Don’t advise Free if it’s not.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-15T13:21:54-07:00",
+      "rating": 1,
+      "title": "DO NOT WASTE MONEY! Seriously",
+      "text": "I cancel the subscription 1 hr after purchasing it. Aside from heart rate, nothing else works, blood glucose comes up always the same and wants you to input data, possibly from another app or manually, blood pressure is the same. The interface is pretty nice all the way out to the layout and it is simple and organized but man, there is no real functionality for $40/year. I understand I am stuck with that purchase but so disappointing. Please do not buy or fix it. I like the idea of an app like that but this one is a ripoff. You can’t even get instructions or support from the app",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-14T18:43:07-07:00",
+      "rating": 5,
+      "title": "Just started",
+      "text": "Since I just started using the app, I don't know if it's OK or not",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-11T11:32:01-07:00",
+      "rating": 1,
+      "title": "MGM",
+      "text": "The blood sugar is way off. My freestyle Libre says my blood sugar is 160 and your foam monitor says it’s about 90.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-09T12:33:53-07:00",
+      "rating": 1,
+      "title": "Blood Glucose",
+      "text": "I need more instructions/ information",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-09T07:50:47-07:00",
+      "rating": 2,
+      "title": "No directions",
+      "text": "Very difficult to do blood pressure",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-08T15:41:28-07:00",
+      "rating": 1,
+      "title": "Terrible guidance",
+      "text": "Absolutely no instructions How do you clear the stuff out?",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-08T14:46:14-07:00",
+      "rating": 5,
+      "title": "Blood Sugar",
+      "text": "Awesome \nInteresting \nThis is great",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-08T12:38:44-07:00",
+      "rating": 1,
+      "title": "How to cancel",
+      "text": "Help",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-08T11:29:55-07:00",
+      "rating": 1,
+      "title": "Frustrated user",
+      "text": "You have to upload on information from different devices except heart rate to store at this app \nNothing else. To be useful. Completely not true this app can’t measure blood sugar or pressure.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-07T22:40:01-07:00",
+      "rating": 1,
+      "title": "Blood sugar tracker",
+      "text": "Blood sugar tracker does not work",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-06T14:33:21-07:00",
+      "rating": 1,
+      "title": "Doesn’t read even remotely close",
+      "text": "I tried this app and just as I suspected- it doesn’t read blood sugars even remotely close to actual blood sugar.  Very dangerous for diabetics",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-05T11:01:21-07:00",
+      "rating": 1,
+      "title": "Cancel subscription",
+      "text": "The links are not in Apple settings to cancel the subscription after the free period.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-04T22:54:53-07:00",
+      "rating": 3,
+      "title": "Blood sugar",
+      "text": "Like it but how do I measure my blood sugar?  That is why I purchased this app",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-04T14:38:09-07:00",
+      "rating": 1,
+      "title": "Blood sugar tracker",
+      "text": "This app does not measure blood sugar, at least not accurately. False advertising.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-02T07:40:17-07:00",
+      "rating": 1,
+      "title": "Diabetes tracking",
+      "text": "The only thing that it does is check your heart rate. It claims to do other things. No tutorials to help!",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-09-02T05:34:22-07:00",
+      "rating": 1,
+      "title": "Deceptive pricing",
+      "text": "When getting app from the Apple Store & opening it, it lists limited time offer of $7.99 for yearly access. When I click continue, the price changes to $39.99 per year. What’s the deal? I’m confused. Please advise. Thank you, Cindy Wicke",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-31T22:31:58-07:00",
+      "rating": 1,
+      "title": "Doesn’t take heart rate",
+      "text": "I cannot get a heart rate and see no trouble shooting options.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-31T19:26:01-07:00",
+      "rating": 1,
+      "title": "Can't cancel",
+      "text": "Can't ❌",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-31T07:52:21-07:00",
+      "rating": 1,
+      "title": "Not working",
+      "text": "Do not",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-31T06:03:47-07:00",
+      "rating": 1,
+      "title": "No assistance or customer service",
+      "text": "No contact information. Nobody to answer questions",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-31T05:57:18-07:00",
+      "rating": 2,
+      "title": "Not impressed",
+      "text": "None of the readings ever change.  Not ever a little",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-30T20:57:14-07:00",
+      "rating": 1,
+      "title": "Doesn’t match glucose",
+      "text": "Was off by a lot on my sugar I wear a dexacom and multiple readings all off by a lot",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-29T09:24:49-07:00",
+      "rating": 5,
+      "title": "Accurately measured",
+      "text": "Very close to expected results",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-28T09:26:22-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "This is.barely.functional\n\nGeared up to get you to sign up but no way to cancel",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-25T17:41:01-07:00",
+      "rating": 1,
+      "title": "This is a joke",
+      "text": "Every time I check sugar blood pressure it's all the same what a joke",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-25T13:51:25-07:00",
+      "rating": 5,
+      "title": "Safe",
+      "text": "Easy",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-24T20:55:42-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "The best",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-24T10:14:31-07:00",
+      "rating": 1,
+      "title": "Wrong units",
+      "text": "The blood sugar measurement is not in the scale I know.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-24T04:41:29-07:00",
+      "rating": 2,
+      "title": "Looks great doesn’t work",
+      "text": "The app looks wonderful great design easy to use. That said it reports normal range in every category everytime no matter what. Which is humanly impossible. I just got it and am deleting it immediately no point to have it.",
+      "version": "1.2.3"
+    },
+    {
+      "date": "2026-08-23T13:02:43-07:00",
+      "rating": 1,
+      "title": "Still try to charge you",
+      "text": "This was cancelled after the free trial and they still keep charging my card!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-23T04:44:12-07:00",
+      "rating": 1,
+      "title": "Bait/Switch",
+      "text": "Advertised as $0.77 (seventy-seven cents) adjust for a limited took time. My credit card was billed $43.89. This is fraud, a scam.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-22T15:02:08-07:00",
+      "rating": 1,
+      "title": "Heart rate inaccurate",
+      "text": "I compared my heart rate from this app with my Apple Watch 2 totally different results. The result variation was extremely opposite watch was accurate phone /app very inaccurate. I compared out of curiosity beings I have heart failure to see if it would actually be accurate or not good luck to anyone who uses this app to track heart rates.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-20T07:59:12-07:00",
+      "rating": 2,
+      "title": "How to use this app",
+      "text": "Are there any   how  t o directions",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-19T14:13:38-07:00",
+      "rating": 1,
+      "title": "About app",
+      "text": "I just found this app, I tried to use it, I am diabetic and in this app it shows everything normal. I don’t know how accurate it is!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-16T02:09:34-07:00",
+      "rating": 2,
+      "title": "Misleading",
+      "text": "The add said it’s free it’s not. The add implies u can get blood sugar reading and blood pressure you can’t threw the app you can record it if you get it from another sorce",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-14T14:50:02-07:00",
+      "rating": 1,
+      "title": "Blood pressure does not work",
+      "text": "The blood pressure part of it does not work. You put your thumb on it and it doesn’t direct you to the camera. Blood pressure. 110/170 every time my blood pressure hasn’t been 110/70 in years",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-14T09:09:59-07:00",
+      "rating": 1,
+      "title": "News break app said this app 100% free check blood sugar! Welp that was a lie ant nothing free",
+      "text": "Nothing free for health",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-11T11:23:40-07:00",
+      "rating": 1,
+      "title": "Not as advertised",
+      "text": "They can measure heart rate, but it cannot measure anything else. You can enter in your blood sugar reading, but the phone does nothing to read it! False advertising in my mind.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-05T18:17:10-07:00",
+      "rating": 1,
+      "title": "Review",
+      "text": "Not updating second time I used it",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-08-05T10:44:51-07:00",
+      "rating": 1,
+      "title": "A waste of money",
+      "text": "This is not accurate. The blood sugar measurement never changes it’s always five. Same with my blood pressure it’s always the same. It never changes. This app just doesn’t work!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-27T09:37:01-07:00",
+      "rating": 1,
+      "title": "No instruction",
+      "text": "After the very first day, on the second day, how do I get the program to take another reading???  There is NO instruction about this. I was excited to have this app. Now I think it is the most stupid app I’ve ever seen.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-26T16:06:25-07:00",
+      "rating": 1,
+      "title": "WASTE OF MONEY",
+      "text": "Your Rate Tracker App is absolutely a waste of good money!! Fix it, or get off the Internet!! So MANY OF us NEED a reliable check daily & this is NOT ACCURATE or reliable according to the checks I did on my other independent devices!!\nCancel my subscription TODAY!!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-23T17:14:36-07:00",
+      "rating": 1,
+      "title": "RateTracker:Blood Sugar",
+      "text": "On your sign up page it has $.77 per year, but on the sign up page it is $7.99 so how many people are getting ripped off.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-23T16:50:05-07:00",
+      "rating": 5,
+      "title": "Thanks",
+      "text": "Honest, upfront, caring and give g",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-22T21:00:05-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "That’s why I use this app and it did not work. It said that my blood pressure was regular. My blood pressure was high. It said my sugar was normal and it was not used traditional methods to confirm that it was inaccurate.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-21T14:07:48-07:00",
+      "rating": 1,
+      "title": "????",
+      "text": "No sirve",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-20T17:56:22-07:00",
+      "rating": 5,
+      "title": "Wow!",
+      "text": "Very impressive as a first time user.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-05T15:37:56-07:00",
+      "rating": 1,
+      "title": "Self",
+      "text": "Not accurate",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-07-03T06:49:44-07:00",
+      "rating": 1,
+      "title": "Waste of Time",
+      "text": "Dumbest app I’ve ever downloaded. Doesn’t work. No explanation as to why. Don’t waste your time like I just did. Deleting it now.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-30T13:44:50-07:00",
+      "rating": 1,
+      "title": "Function",
+      "text": "Not working properly",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-27T12:19:49-07:00",
+      "rating": 1,
+      "title": "Waste of money",
+      "text": "If it worked it would be handy as a shirt pocket but as is it’s a waste of time & money",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-25T05:43:57-07:00",
+      "rating": 1,
+      "title": "It's not free",
+      "text": "$7.99 for a year $39. Stop saying Free",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-22T14:59:09-07:00",
+      "rating": 1,
+      "title": "Not interested",
+      "text": "Please cancel",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-21T21:09:37-07:00",
+      "rating": 5,
+      "title": "Trying to check my blood sugar mainly",
+      "text": "It says it’s normal, but I don’t know if that’s true. It also doesn’t read the same as a machine that monitors your blood glucose.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-19T07:33:04-07:00",
+      "rating": 1,
+      "title": "Liars",
+      "text": "Does NOT check your sugar. Also in ad it says 0.79/year—- it’s actually 7.99 per WEEK!!!! And now I can’t find a way to get out of it!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-15T19:26:25-07:00",
+      "rating": 4,
+      "title": "Misleading to the max",
+      "text": "I hate liars",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-15T09:54:42-07:00",
+      "rating": 1,
+      "title": "Delete my account please and thank you",
+      "text": "This app is inaccurate since I downloaded it. It has had the exact same readings every single time and that’s just not possible. I want to delete my account, but I can’t figure out how to do it because I do not see an unsubscribe or delete or any option like that so could you please delete me?",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-11T18:45:18-07:00",
+      "rating": 1,
+      "title": "I don’t think the app works",
+      "text": "I don’t think the app works. It has the same blood sugar amount for m and other people who tried to use it!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-11T07:03:21-07:00",
+      "rating": 1,
+      "title": "False information",
+      "text": "Do not work",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-06-09T07:07:44-07:00",
+      "rating": 3,
+      "title": "Instructions?",
+      "text": "No instructions on how to use this app. Very disappointing",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-31T05:36:53-07:00",
+      "rating": 1,
+      "title": "Impossible to use",
+      "text": "I want my money back.  Implies it test blood sugar.  Does not",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-30T17:11:18-07:00",
+      "rating": 5,
+      "title": "Monitor Review",
+      "text": "Very well presented, and documented! Easy to understand. I am sure it will be a great addition to my health history!!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-30T05:56:09-07:00",
+      "rating": 2,
+      "title": "Rate tracker:blood sugar",
+      "text": "It has a smoke part \nlol! I don’t even smoke it took, me to stop smoking.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-28T05:34:36-07:00",
+      "rating": 5,
+      "title": "Health",
+      "text": "First time using this app . I hope I can get use to it .",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-28T03:48:05-07:00",
+      "rating": 2,
+      "title": "Two functions don’t work!",
+      "text": "Blood sugar and blood pressure don’t work. The legal page covers them for everything but earthquake, but not a word about available support.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-27T07:27:39-07:00",
+      "rating": 1,
+      "title": "Need more help and clarification",
+      "text": "You don’t have any support or help to set the program up and maintenance",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-26T08:55:34-07:00",
+      "rating": 1,
+      "title": "Usage",
+      "text": "No detailed explanation of how to use the app!",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-23T23:16:23-07:00",
+      "rating": 1,
+      "title": "This app is horrible",
+      "text": "Everything was always the same.  Blood sugar always at 5. I am trying to get better not rely on an app that lies to me.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-22T21:52:26-07:00",
+      "rating": 2,
+      "title": "Sugar test",
+      "text": "It seems not to be trusted.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-21T08:06:03-07:00",
+      "rating": 2,
+      "title": "Stop charging me and cancel my subscription",
+      "text": "I canceled you before my time was expired\n on March 15, 2026, but I’m still getting charged $1.07 which is interfering with my Apple iPhone account. Please cancel me.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-21T07:41:24-07:00",
+      "rating": 2,
+      "title": "Not allows to test blood sugar",
+      "text": "The app is advertising as blood sugar testing. But the blood sugar button does not work.  Despite I am paying subscription.  There is no cancellation subscription button.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-19T14:41:45-07:00",
+      "rating": 2,
+      "title": "Blood sugar",
+      "text": "It keeps indicating that my blood sugar level is normal every single time, even though I had a lab test done elsewhere which showed that my sugar levels were actually elevated. No matter how many times I check it on this device, it consistently reports a normal reading; furthermore, when I checked someone else's levels the day before yesterday, it reported their results as normal as well. I don't think this device works.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-18T07:54:48-07:00",
+      "rating": 3,
+      "title": "Why not working",
+      "text": "How does blood sugar work",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-17T06:37:26-07:00",
+      "rating": 2,
+      "title": "Use",
+      "text": "No instructions on how to use",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-16T10:09:47-07:00",
+      "rating": 1,
+      "title": "Not worth the fee",
+      "text": "This app does not change.  It registers my HR. Does not take BP or BLS sugar( not sure how it reads without a sample). No instructions on use.  Cancelled renewal immediately.  It had already charged me.  So don’t get it.",
+      "version": "1.2.2"
+    },
+    {
+      "date": "2026-05-11T11:22:07-07:00",
+      "rating": 1,
+      "title": "BP can’t be measured",
+      "text": "The ad for this app contains BP measurement but it’s not possible.",
+      "version": "1.2.2"
+    }
+  ]
+}

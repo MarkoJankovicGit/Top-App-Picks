@@ -1,0 +1,56 @@
+{
+  "app": "Buffro: Ranked Workout Tracker",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-30T14:20:29-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "I have zero complaints about this app. I have used Buffro for a few months now and have never had any issues. This app is amazing and has so many workouts I can do and the routine feature is probably my favorite. The calorie tracker is very accurate and even if it isn’t the app allows you to edit it. Overall I love this app and don’t think I will ever use a different app.",
+      "version": "1.8.3"
+    },
+    {
+      "date": "2026-07-26T13:54:06-07:00",
+      "rating": 4,
+      "title": "Overall good",
+      "text": "My only gripe is there isn’t EVERY exercise and my ranks are old , there was a glitch where my lb lifts were changed to kg and now it thinks I benched 400lb for reps",
+      "version": "1.6.0"
+    },
+    {
+      "date": "2026-07-22T09:28:32-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Best fitness app i have used, it’s full of very useful features",
+      "version": "1.5.9"
+    },
+    {
+      "date": "2026-07-17T09:41:04-07:00",
+      "rating": 5,
+      "title": "Easily 5 stars",
+      "text": "Best gym app by far",
+      "version": "1.5.8"
+    },
+    {
+      "date": "2026-07-08T02:42:10-07:00",
+      "rating": 5,
+      "title": "Goated",
+      "text": "10/10 fitness app, nutrition and workout covered by this app, and so many other useful features, I really like the clean and simple ui very understandable",
+      "version": "1.5.2"
+    },
+    {
+      "date": "2026-07-08T02:39:46-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "So many amazing features I can’t give enough credit, workout and routine builder is rlly good for me, ranks are super fun and cool on this app, so many exercises, body scan and to is tuff too and the meal scanner",
+      "version": "1.5.2"
+    },
+    {
+      "date": "2026-06-30T02:03:39-07:00",
+      "rating": 5,
+      "title": "Best fitness app ever",
+      "text": "This app makes planning workouts way easier. The workout builder is really useful because you can put in your schedule, level, equipment, and what muscles you want to train, then it gives you a workout to follow instead of having to think of everything yourself. The routine builder is great too because it can plan the whole week and sync it with the calendar. Really helpful app, 10/10",
+      "version": "1.5.0"
+    }
+  ]
+}

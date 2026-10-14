@@ -1,0 +1,3320 @@
+[
+  {
+    "id": 1594204443,
+    "name": "Runna: Running Plans & Coach",
+    "seller": "Strava Inc.",
+    "genre": "Health & Fitness",
+    "release_date": "2021-12-11",
+    "ratings_us": 34781,
+    "avg_rating": 4.85,
+    "ratings_per_day": 19.7,
+    "reviews_30d": 36,
+    "reviews_prev_30d": 45,
+    "developer_app_count": 3,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443",
+    "matched_keywords": [
+      "running app",
+      "run tracker",
+      "couch to 5k"
+    ],
+    "description": "Reach your pinnacle as a runner with Runna: Running Training Plans, your quintessential guide to the world of running. With tailored training plans built by world-class coaches to help you achieve your goals. \n\nEmbark on an unparalleled running journey with Runna. More than just a pocket-sized running coach, Runna is your comprehensive running companion. From beginners embarking on their first park run to seasoned athletes gearing up for challenging marathons, our app is crafted to cater to all. Our offering includes training for 5k, 10k, half-marathons, marathons, and ultra marathons. This is probably why we boast a stellar 4.9/5 rating on Trustpilot.\n\nWHY YOU'LL BE THRILLED WITH RUNNA:\n\n1) Customized Training Just For You:\nOur esteemed training programs are rooted in solid scientific programming. Whether you’re setting out to complete your 5k or preparing for the famed Chicago marathon, we have a program tailored to ensure you race past the finish line.\n\n2) Seamless Syncing of Your Runs:\nLive-track your runs on compatible devices* and maintain the perfect pace. Moreover, seamlessly integrate your runs with platforms like Strava.\n\n3) All-encompassing Support:\nWe adopt a holistic stance to running. From optimizing your running form to advice on nutrition and injury management, our support is unparalleled. After all, every runner is distinct and deserves specialized attention.\n\n4) Strength Amplification:\nAlongside run training, we offer curated strength and conditioning routin",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 2,
+        "text": "Vibe coded POS. This is like Strava with less features. They’re really trying hard to be a personal coach but it’s missing too much. \n\nWhy am I spending another $20/mo for a less capable Strava that I already pay for?"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Waste of money. Your app’s feedback on my running sounded like canned responses and were never relevant to me.  Your “post-injury” return to running plan is subpar versus ChatGPT.  I wanted a refund from my annual subscription but couldn’t get it through the Apple store.  ChatGPT easily replaces Runna as it’s more personable and weighs an athlete’s biofeedback—your app is a hodgepodge of do-it-you"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Horrible AI Bloated App. Terrible"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Deleting Runs Mid Run. This app that I PAID TO TRACK MY RUNS will delete and stop mid run. I have no watch so it’s NOT A WATCH ISSUE. TOTAL SCAM"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Let me cancel the plan. They make it real easy to subscribe and pay, but want to cancel? Good luck."
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 1,
+        "text": "The PMs and Engineers should be fired.. Runna has been a great app thus far, but it’s incredibly buggy, the product team should be ashamed. Here are just a few issues: 1) Runna workouts don’t properly sync exercise minutes to Apple Fitness, unless you start the workout directly from the workout app. Countless threads on reddit about this, but no fix. 2) You can’t add a route to an upcoming run unl"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "Too hard to cancel trial. One star for making it way too hard to unsubscribe within the trial. Also, the voice that the app uses to talk to you sounds atrociously terrible."
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "Just use Claude next time. Annoyingly difficult to modify training plans and also very glitchy. Just going to ask an agent to create a running plan for me next time instead of paying for this slop"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 3,
+        "text": "it was better before. a lot of bugs lately, for instance, bad sync between phone and watch, workout glitches, wrong target paces, etc\n\nyou should be more careful with your releases\ni’m giving 3 stars because despite the bugs i really like the running workouts and the strength trainings the app provides"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 3,
+        "text": "Too Expensive. I use Strava pretty consistently and was really excited to try out Runna when I had seen it advertised on Strava. I tried out the free trial and really liked the suggestions that were tailored to my goals. However, I’m already a premium member on Strava and don’t think I should have to pay twice to utilize this app as well. If there was a reasonable discounted deal for existing/long"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 1,
+        "text": "Unusable if new to running. There’s no way to actually adjust the difficulty of a run. Even if you cant do a run, it wont make the next run any easier, just a slightly smaller escalation. Adjusting the length of the plan or adjusting the number of runs per week makes no meaningful difference. So frustrating and just makes you feel like a failure because you arent set up to succeed."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 1,
+        "text": "Unusable corporate greed. Good for the two week trial but after that it is unusable in its free state. I used Runna when it first came out and it was amazing. I went from barely being able to run a mile to running 8. I stopped running for a while and now that I want to get back into it I cant even rearrange workouts or click to see an overview of the workouts. This is certainly because of the Stra"
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 3,
+        "text": "Great, except for UI on hills. This app is the single thing that keeps me working towards my run goal, and it’s mostly good. But I will not love it until Runna gets its act together with the UI on hill repeat workouts. It’s clunky, confusing, and requires me to spend half the workout fiddling with my phone. There simply has to be a better way to make this functional. Please please please make this"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 1,
+        "text": "Bug that has appeared. Hello, please fix the bug that has recently appeared. This app works well for the most part but between plans I added some light runs. When I delete or move one of them now they delete all free runs I made. I have to close the app to have the other runs appear. This is all synced to my calendar and has made a mess of things."
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 2,
+        "text": "It’s good but you need to pay for everything. And anything"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 1,
+        "text": "Trying to cancel free subscription. I’ve been trying to cancel my free subscription and run a makes it damn near impossible to do. They give you instructions on how to do so but when I go to my subscriptions, because I’m in a free trial it does not show up (on IOS). I’ve tried to find something on their website and there is nothing for that either. When I go on the app itself, it redirects me to t"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "Very disappointed. I used runna to improve my 5k pacing, I was excited because I’ve heard great things. Not only did I run a slower 5k than my usual/previous 5ks but I also had to stop so many times because the plan made me so unprepared. Very disappointed. I got a small refund but it didn’t make up for the MONTHS I wasted using the plan that literally made me run worse."
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "I love this app but I’m leaving this app. Runna helped me so much with running and I love this app. However, it used to be free and now you can only do one week free. There are plenty of free running apps that do exactly the same thing so, although I’d love to keep using Runna, I can’t justify paying 20 dollars a month for it when free options exist."
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "Why is everything a subscription... I love the idea of this app and the practicality of the training plans. I can see how it’s beneficial to help beginner and experienced runners alike become stronger, healthier, and more confident in their running abilities. Which is why it’s so frustrating that it’s a subscription. Not everyone has the financial capabilities to pay for this app’s subscription, l"
+      },
+      {
+        "date": "2026-09-09",
+        "rating": 1,
+        "text": "Cannot log in. Cannot log in via Strava. Unspecified error given. No customer support access."
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 4,
+        "text": "Great Customization. I really enjoy how you can customize your training plan based on current athletic ability. What stops it from being a 5/5 for me is the voice assistant that gives you updates during workouts. It’s quite janky and can interrupt itself when giving you updates."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Great app. Very useful app, like a personal trainer."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Big confidence builder. I’m on week six training for my first marathon. I looked at multiple training plans and read a few books before deciding to do this (at age 68).   I’m coming off of some minor overuse injuries as well.  Runna gives me steucture, a complete program, ample information about many topics, and a lot of advice following my runs.  This support gives me so much confidence!   I real"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Love the app. I love this app. I tried other running apps and find this to be the best fit for me. Easy to use and understand. Also keeps great details of your run if you want to break it down further"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Excellent pace guidance. The Runna app provides detailed plans and pace guidance during runs."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "App is sick. Sick app"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "Everything you need in an app. Runna has changed my life in the past 4 months. Started from 0 and now I can run 13 km feeling strong and most importantly educated as this app got me here every step of the way. I can’t wait for my first half marathon in two months!"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "Great preparation plans. Great training app for an upcoming half marathon. The app keeps me consistent and prevents me from overtraining. Great mix of hard work recovery and speed work. Worth the investment"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Lovely. Great way to use app. Love using with my Apple Watch"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Don’t waste your time!. Strava pretends this is included with a Strava Premium membership. But all you really get is a lengthy onboarding process then you can’t do or see anything without paying more for Runna. Screw you Strava"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 5,
+        "text": "Keeping me Running.. Runna does a great job building my confidence in running and getting me moving without a lot of effort. The work is displayed and calculated and shows me where I can grow and better. \n\nLeaves the room\nto focus on effort well data is kept seemingly."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 5,
+        "text": "Great app. This app helps me to improve my running form, pace and speed. I love how it schedules your training and runs."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 5,
+        "text": "Top notch!. I started getting back into running about a year ago and found myself struggling to make workout plans. Honestly it was even more of a struggle to adhere to them once I actually made them. Runna has been so great, just tell em what you want to run and when and presto! Months of workouts laid out for you with a great community to connect with and support you 10/10"
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 5,
+        "text": "Enjoy the workouts!. Great running and lifting workouts. I feel like I’m being truly trained for my half marathon"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "The best. This app is the goat"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Great App for Getting Back on Track. I’ve really enjoyed using Runna. After taking some time away from running, I wanted something that would give me structure and help me get back into a consistent routine without having to figure everything out myself.\n\nThe training plans are easy to follow, the workouts give me a purpose every time I head out, and I really like having different sessions such as"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 5,
+        "text": "Great for casual and serious training. Casual is a generous description for how I run, but Runna makes it fun and holds me accountable for maintaining my fitness goals. The developers listen to feedback, and it feels like real people are behind the app- even after the Strava merger. As someone who has no idea where to start and is a self-described slow runner, Runna has taken the stress of not kno"
+      },
+      {
+        "date": "2026-09-09",
+        "rating": 5,
+        "text": "Game Changer. This app will set realistic goals for you. It creates plans that are tailored to you and manageable. Their features are user friendly and you can use it with smart watches."
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 5,
+        "text": "The best. If you want to start running, this app is the BEST. 10/10 couldn’t recommend it enough."
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 4,
+        "text": "Please accommodate target paces for stroller runs!. I love love love this app. BUT I run with a stroller 50% of the time. My pace will be a little bit slower (Google says up to a minute/mile slower). When doing a timed/paced workout, I wish there was an option to say I’m using the stroller so my target paces could be updated."
+      }
+    ]
+  },
+  {
+    "id": 1181028777,
+    "name": "Flip Clock:Digital Desk Widget",
+    "seller": "翠玲 施",
+    "genre": "Utilities",
+    "release_date": "2016-12-06",
+    "ratings_us": 70784,
+    "avg_rating": 4.63,
+    "ratings_per_day": 19.68,
+    "reviews_30d": 13,
+    "reviews_prev_30d": 6,
+    "developer_app_count": 3,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/flip-clock-digital-desk-widget/id1181028777",
+    "matched_keywords": [
+      "study timer"
+    ],
+    "description": "Transform your iPhone and iPad into a stylish, functional retro flip clock.\nWhether you need a sleek desk clock for your workspace, a soothing nightstand clock, or a personalized focus timer, Flip Clock brings classic minimalism and personal flair to your everyday workflow. Perfect for StandBy mode, Lock Screen widgets, and full-screen focus sessions.\n◆ Aesthetic Clock and StandBy Mode\n- Full-Screen Flip Clock: Vintage flip animation with customizable themes.\n- OLED Burn-In Protection: Built-in pixel shifting technology protects your screen during long always-on sessions.\n- Show Seconds Everywhere: Real-time seconds display on Home Screen, Lock Screen, Dynamic Island, and StandBy mode.\n- Smart Auto-Launch: Automatically turns into a screensaver when charging.\n- 12/24 Hour Formats: Toggle easily with flexible date and calendar displays.\n\n◆ Custom Signatures and Aesthetic Widgets\n- Personal Signatures Anywhere: Add custom text, mottoes, or signatures directly in the app and on your Lock Screen and Home Screen widgets.\n- Aesthetic Widgets: Beautiful, customizable widgets featuring clock, calendar, and your personal text.\n- Multiple Clock Themes: Personalize colors, fonts, and styles for any desk setup.\n\n◆ Focus, Timers and Productivity Tools\n- Count-up and Countdown Timers: Flexible stopwatch count-up timers and precise countdown timers for workouts, study sessions, and daily tasks.\n- Pomodoro Technique: Stay in the flow zone with integrated study and work interval timers.\n- Flo",
+    "reviews": [
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Turn off it won’t turn on. Don’t buy"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "The volume can't be adjusted. The volume can't be adjusted, and the default sound is way too loud. It practically scares the life out of you. Did the developers seriously design this to scare users to death?"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Am I missing something?. I paid for the full version just to find I can’t change even the timer noise from the terrible beep or flashing rainbow colors??? No way to contact them??"
+      },
+      {
+        "date": "2026-08-21",
+        "rating": 1,
+        "text": "It’s over hyped. I like the idea of the app but it’s it worth taking up storage and it’s very overrated and why are we using our iPads like a wall clock like I want to check the time but not do a whole set up and use it like a wall clock."
+      },
+      {
+        "date": "2026-08-10",
+        "rating": 1,
+        "text": "垃圾. 垃圾"
+      },
+      {
+        "date": "2026-08-05",
+        "rating": 1,
+        "text": "Does not do count up by date.. I want count of days since an event started. Navigating the app is not a great experience. I upgraded to Pro and it is still. it helpful. Deleting."
+      },
+      {
+        "date": "2026-07-21",
+        "rating": 3,
+        "text": "decent. Wish it had transparent mode or I just can’t find it."
+      },
+      {
+        "date": "2026-07-15",
+        "rating": 1,
+        "text": "No. Stop with the ads pls"
+      },
+      {
+        "date": "2026-07-14",
+        "rating": 1,
+        "text": "It Just Always Works. After trying numerous different ones, this is the clock I’ve kept for years…and I’m no longer looking. My display clock for travel, then my display clock for home and travel. \nEasy to see and read and brightness and color schemes are so adjustable it can be placed across the room or inches from your face.a"
+      },
+      {
+        "date": "2026-07-09",
+        "rating": 1,
+        "text": "Stopped working. Set it to run on my phone's nightstand widget and it stops after a few seconds and just freezes."
+      },
+      {
+        "date": "2026-07-01",
+        "rating": 1,
+        "text": "Huh what. I want the courage to be more vibrant like more light more cuter"
+      },
+      {
+        "date": "2026-06-22",
+        "rating": 1,
+        "text": "写个屁的评论啊. 反复要求写评论，写个屁哦。一个时钟有什么好写的。"
+      },
+      {
+        "date": "2026-06-21",
+        "rating": 3,
+        "text": "Pop adds. They are anoying.  Stop"
+      },
+      {
+        "date": "2026-06-07",
+        "rating": 3,
+        "text": "More colors. I enjoy having a flip clock while I am studying or as a widget but it should have more colors that are free like a cute light pink or a light beige and colors like this. Thank you."
+      },
+      {
+        "date": "2026-05-19",
+        "rating": 2,
+        "text": "Ads. Having ads pop up and not being able to close them makes this app pointless"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "AMAZING!. Love everything about this app! \nIs super easy to use!\nDoes not take a lot of your space as I have an iPad with 16 GB 😅\nWould recommend to add some like pastel/white colors for free as you can become bored with the classic, but I honestly like it!\nHighly recommend getting it if you want a simple clock!"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "I LOVE this. Very aesthetic and helps keep me on track during school!"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Great app. This is such a good app I use it to study and keep track of time"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "Bueno. Bueno"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "Great app. Simple but effective. Very nice easy to read graphic clock with no unneeded distractions"
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 5,
+        "text": "Love ❤️. It helps be cut when I’m not on my iPad👌"
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 5,
+        "text": "Good app. Convenient minimalistic app that helps my Mac feel more flexible"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Works as it should. Very reliable, minimal, and needed"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 4,
+        "text": "good. good"
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 4,
+        "text": "‘ love it. Love it"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 5,
+        "text": "the app is cool. the application is the coolest thing i know so far from this computer i bought it for 319 and i dont know if im getting anymore updates i haven't even had one hopefully i get one"
+      },
+      {
+        "date": "2026-08-27",
+        "rating": 4,
+        "text": "Does What It Say. Pretty customizable But lot is lock by a pay wall which pretty dumb. Decent App, 3.5/5 or 7.5/10"
+      },
+      {
+        "date": "2026-08-25",
+        "rating": 4,
+        "text": "Works great!. This clock works well, but isn't for me. I find the flipping animation distracting, but that's just me! I find nothing wrong with this great flip clock app. I like the live notifications!"
+      },
+      {
+        "date": "2026-08-21",
+        "rating": 5,
+        "text": "阳光房. 立法层面评估报告，管理措施，“浦东新区对外商议”，评估，实践改进、是否需要提高一级效力。\n\n分工 跟进 反馈 及时调整 高效执行\n\n独立handle客户 学会预测客户问题 避免领导返工 错过重大时间节点 \n\n执行任务标准：先理解任务目的，再定思路！\n避免低级错误。无错别字、语句通顺、格式正确。用词统一。必须有事实证据依据，避免“可能”用词。结构逻辑清晰。\n\n沟通交流细致关键 避免领导猜测"
+      },
+      {
+        "date": "2026-08-20",
+        "rating": 5,
+        "text": "🍁I love the app🍂. I love it because it is so aesthetic and if is so good for fall and winter and summer and spring it is just good for all seasons"
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 5,
+        "text": "The best for the best. I love this app a lot because mainly it actually stays there and your iPad doesn’t turn off"
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 5,
+        "text": "Love this app thank you so much for making it. 10/10"
+      },
+      {
+        "date": "2026-07-28",
+        "rating": 5,
+        "text": "Funcional. Minimalista, funcional, perfecto para usarlo como parte del fondo de pantalla"
+      },
+      {
+        "date": "2026-07-28",
+        "rating": 5,
+        "text": "Good app. Don’t like how you have to pay for colors but overall good app. For timers and just clock"
+      },
+      {
+        "date": "2026-07-26",
+        "rating": 5,
+        "text": "THE BEST FLIP CLOCK👍. Want to make an older iPad USEFUL again! This app quickly turns an older iPad into a great FLIP CLOCK‼️\nFits nicely into a desktop picture holder OR use double sided tape and attach it to a wall. \nGets it’s time correction from the internet so it never requires setting ‼️"
+      },
+      {
+        "date": "2026-07-25",
+        "rating": 5,
+        "text": "FARHAAN. Excellent"
+      },
+      {
+        "date": "2026-07-25",
+        "rating": 5,
+        "text": "Really good app to use. I think it is a great app to use and great for working super aesthetic too I recommend"
+      },
+      {
+        "date": "2026-07-22",
+        "rating": 5,
+        "text": "5 star. Very useful on vacation when you forget a clock and you have anxiety if you don’t have one"
+      },
+      {
+        "date": "2026-07-16",
+        "rating": 5,
+        "text": "Haide💕. It is really useful and very good to use for your birthday or for any celebration"
+      },
+      {
+        "date": "2026-07-14",
+        "rating": 4,
+        "text": "Too many adds. Does exactly what it is supposed to but there are too many adds"
+      }
+    ]
+  },
+  {
+    "id": 1638253339,
+    "name": "AHEALTH: Get Healthy Get Paid",
+    "seller": "Gravity Labs Co., Ltd.",
+    "genre": "Health & Fitness",
+    "release_date": "2022-08-22",
+    "ratings_us": 29493,
+    "avg_rating": 4.64,
+    "ratings_per_day": 19.51,
+    "reviews_30d": 90,
+    "reviews_prev_30d": 52,
+    "developer_app_count": 2,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/ahealth-get-healthy-get-paid/id1638253339",
+    "matched_keywords": [
+      "daily habits",
+      "step counter",
+      "walking app",
+      "walking challenge",
+      "sleep tracker",
+      "sleep schedule"
+    ],
+    "description": "Moneywalk, the global app with 8 million downloads worldwide, is now AHEALTH.\t\t\t\t\t\nAHEALTH stands for All for your Health\t\t\t\t\t\nWe help you build healthy habits, and reward you for keeping them.\t\t\t\t\t\n\t\t\t\t\t\n■ The more you use the app, the younger you get every day\t\t\t\t\t\nHave you ever imagined getting younger each day?\t\t\t\t\t\nKeep up with the healthy habits AHEALTH recommends for you.\t\t\t\t\t\nAHEALTH will help you enjoy a healthy, happy life for years to come.\t\t\t\t\t\n\t\t\t\t\t\n■ Find out your bio age\t\t\t\t\t\nYour calendar age is just a number. Your bio age tells the real story.\t\t\t\t\t\nAHEALTH looks at how you walk, eat, and sleep, then turns those everyday habits into your bio age.\t\t\t\t\t\nYou'll get guidance made just for you, so you can drop the habits holding you back, and do more of the ones that help.\t\t\t\t\t\n\t\t\t\t\t\n■ The healthier you get, the more points you earn\t\t\t\t\t\nWalk enough. Eat well. Sleep deeply. Have a healthy day and watch the points pile up.\t\t\t\t\t\nUnlike other step counters, 5,000 steps is all it takes to earn 200 points or more.\t\t\t\t\t\nTake your vitamins, drink some water, smile wide even just take a deep breath. It all adds up, every single day.\t\t\t\t\t\n\t\t\t\t\t\n■ Turn your points into gift cards\t\t\t\t\t\nThe points you earn on AHEALTH become real gift cards\t\t\t\t\t\nfrom popular brands and major retailers.\t\t\t\t\t\nAvailable rewards vary by country.\t\t\t\t\t\n\t\t\t\t\t\n■ Walking, sleep, meals one app for all of it\t\t\t\t\t\nLog today's meals like you would in any food diary, and the points are yours.\t\t\t\t\t\nCheck how ",
+    "reviews": [
+      {
+        "date": "2026-10-10",
+        "rating": 2,
+        "text": "To many ads. Great app except to earn points 2/3 of them require watching an ad."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Ads. To much ads I thought this app is better than this but every time I log in an activity and submit I get ads this is so wast of time"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 3,
+        "text": "WAY TOO MANY ADS. The health benefits of this App are great… if you can complete them all. I spend more time watching ads to claim my points than I do walking."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Page is all blurry. How am I supposed to read your app when the page is all blurry?"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 3,
+        "text": "Rebrand. It’s still good but not as good as before the rebrand or the most recent update, the coins you gain for reduced by around 40 percent and while the coins needed to cash out is also reduced by 40 percent, it still takes longer than before to get a cashout, by a decent margin, it’s also less satisfying to see very low coins gained for things like sit ups and push ups."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Withdrawal unavailable ( atm ). It keeps saying error pls try again later , which has been for a longgg time"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "Slow. I m not getting my points for my steps. So slow. Needs help badly."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 2,
+        "text": "Needs more fixing. The app won’t allow me to collect points. The mahjong app I used in Moneywalk has disappeared. I can’t do a bottle flip, it says “an error has occurred “"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 2,
+        "text": "It has a lot of bugs. Doesn’t work properly"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 3,
+        "text": "Just started. Ok"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 3,
+        "text": "Won’t capture all steps. You have to have the app open and your phone on you  in order to  capture the steps.   This won’t work for me because my gym won’t allow cell phones on the treadmill. Otherwise I like the app."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 2,
+        "text": "Exploring. Learning how to use it correct it’s my first time using this app"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "Might be a good app, but. I saw this app and downloaded it, within the fist 3 screens I had watched 2 advertisements. Not a good sign, deleted it after that. Doesn’t matter how good the app is if you have ad’s all the time."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "No cash out. The app was great when it was moneywalk. Once it switched over is when I started having issues. I like to save for the larger rewards. I was notified that some of my points would be expiring so I went ahead and exchanged them for an Amazon gift card that was to be mailed to me. I never received it. After multiple attempts to contact customer service I have not gotten a response. Oh we"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 2,
+        "text": "App. This app does not track correctly. It does not give you the correct steps and you have to watch commercials for everything so annoying."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Tired of Ads. This app would be nice if it didn't have so many Ads can't have the app open for two minutes without an advertisement coming on"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 2,
+        "text": "Ads galore. There are sooo many ads. The ads are promoting casino gambling. There are plenty of positives about trying to stay healthy. I do enjoy racking up points but it takes awhile to rack up the points."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 2,
+        "text": "Too many clicks. I had high hopes for this app, but everywhere you go you have to click click click.  I avg over 10k steps a day and to get my points I have to click for every 500 steps.  Anything in there is a click. There is no select all option.  Already deleted."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Unreasonable. I would not recommend this app. I redeemed my points for a $5 gift card, but the app says it will be sent in March 2028. Waiting more than a year for a $5 gift card is unreasonable."
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 1,
+        "text": "The upgrade changed it. It was a great app when it was money walk. They changed the name, change the look and now they want you to watch the same amount of ads for almost no points. Going to make it to the next level and then I’m going to delete it"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "AHEALTH. I love it so far!"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Da. Ok"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Adding screaming. Good app so far app has a laughing to earn points\nYou should add screaming"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Paid. Nice to get paid"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "JenTot1313. I’m\nLoving the app"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "GK. Works great"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Coos at. It is really cool. I am so excited to improve my health."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 4,
+        "text": "First review. First day on this app will give a better review in a week or 2 but it did send me $1.00 just for downloading it I’m sure that has to count for something …"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Slow. Very slow. Unable to claim coins. Keeps crashing"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "I just transferred the $1. Nice!"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Love It!. So far I am liking this apps. I don’t usually give a review, I tried to withdraw the money first, make sure it is not a scam,but this apps truly give the $1. I might start deleting the other apps which waste my efforts, wifi, and electricity bill.  I am so glad I found this apps.😍"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Love it. Love it paid fast and easy real money"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Sleeping. Taking a nap"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Not a scam. I just got my first dollar😭 yes it actually pays you so happy I found a real paying app"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "My review. Still getting used to the app, but I love it so far"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 4,
+        "text": "Just started. Seems interesting. I will update once I get more point😇"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Great App. I love this App.  Great way to keep track of your steps."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Money walk. Great way to motivate"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Ahealth. Cool."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 4,
+        "text": "Formerly money walk. Just download the app so far so good and you can cash out quick and low as a 1.00"
+      }
+    ]
+  },
+  {
+    "id": 6663574866,
+    "name": "StudyFetch: AI Tutor",
+    "seller": "StudyFetch, LLC",
+    "genre": "Education",
+    "release_date": "2024-09-04",
+    "ratings_us": 14844,
+    "avg_rating": 4.78,
+    "ratings_per_day": 19.34,
+    "reviews_30d": 15,
+    "reviews_prev_30d": 8,
+    "developer_app_count": 1,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/studyfetch-ai-tutor/id6663574866",
+    "matched_keywords": [
+      "study with friends"
+    ],
+    "description": "Designed by learning experts and used by millions of students worldwide, StudyFetch turns your own course materials into a study plan built around how you learn. Upload your lectures, PDFs, slides, or videos and get flashcards, quizzes, notes, and a personal AI tutor in seconds.\n\nLearning should meet you where you are, not the other way around. Every feature is built for lasting understanding so it is still there when exam day comes.\n\nHow it works:\nDrop in your material and Sparky, your personal AI tutor, creates a comprehensive study plan and breaks it into the formats proven to help you remember. You are always learning in the way that works for you.\n\nWhat you get:\n · Flashcards, quizzes, and detailed notes generated from anything you upload\n · Sparky, a voice-to-voice AI tutor you can talk with anytime, on any topic\n · Real-time lecture recording that transcribes and turns class into notes as you go\n · Progress tracking that shows what you have down and what needs more focus\n · Achievements and daily streaks to keep you consistent\n · Support for 20+ languages\n\nWhy students trust StudyFetch:\n92% of students who use StudyFetch report improved grades. Millions of students worldwide use it to prep for exams, master course content, and build knowledge that lasts. Whether you are in high school, university, or learning on your own, StudyFetch adapts to you.\n\nStudyFetch is backed by Owl Ventures and The College Board and built to help you actually learn, not to hand you the answe",
+    "reviews": [
+      {
+        "date": "2026-10-05",
+        "rating": 3,
+        "text": "Slow. It’s a good app, but it lags a lot and is slow"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "used to be good not anymore.. this is my second year using study fetch and up till now the only problem was that it was slow at times but it worked perfectly besides that and i loved it. The newest update changed everything though, the ai no longer walks you through problems it just gives you hints and no explanations. Also everything became deathly slow after the update and contacting support abo"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 1,
+        "text": "Terrible. I hate this app! Every time I try to upload something it keeps asking me to pay for it and there’s no way to get around it. Please fix so that there’s things I can do that I don’t have to pay for."
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 1,
+        "text": "Subscription. I loved StudyFetch until I was asked to pay 19 bucks a month. No thanks"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 1,
+        "text": "Rating request during onboarding bs. Extremely obnoxious that you ask for a rating before I’ve used the app at all."
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 1,
+        "text": "I don’t like it. If I could give this app 0 stars I would. I got it for myself and my 10 year old to help us study. Instead of using the definitions I uploaded it ended up changing words up to sound more complex. Also, it’s not easy to navigate. When I saw the promotion I was excited because of the AI generated video. Once I got the app I saw that the videos don’t look the same. Now I know why the"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 2,
+        "text": "Complaint. It was great at the beginning, but then once you start getting used to it, then it makes you pay to do certain things."
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 3,
+        "text": "App is Glitchy. I have been using premium study fetch and after the new update I can only log in using the google browser. The app won’t recognize my account since I logged in using google and even after I log in on the app it doesn’t update with my notes from other devices."
+      },
+      {
+        "date": "2026-09-13",
+        "rating": 1,
+        "text": "False advertising. You guys advertise this app on tiktok to be one of the apps you can make your study sets into watching subway surfers with the text and voiceovers and whatever and turns out you have to pay $20 a month to do that! DONT get this app if that’s what u wanted its just another greedy corporation."
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 3,
+        "text": "Tutor Me Section needs improvement .. It keeps glitching on crucial assignments. I decided to get this app because of the Tutor Me section. When it comes to study apps, I feel like StudyFetch’s biggest advantage is the Tutor Me feature plus its AI integration. Nevertheless, Sparky is having some trouble when it comes to the Tutor Me section, as it keeps repeating previous lessons from different no"
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 3,
+        "text": "Good customer service, developing app. Customer service was very responsive and helpful, 5/5 on that. The actual app experience was lacking… It would consistently pull outside resources in to “supplement” your material you gave it, even though I directed it not to. Evidently, the LLM forgets everything you tell it each chat (and probably during the session, in my experience) so you can’t actually "
+      },
+      {
+        "date": "2026-08-30",
+        "rating": 1,
+        "text": "Less paywalls. I think it’s a bit sad that we have to pay for more studying things like the lectures to which I really like but please let us at least have the unlimited lectures for help it’s not fair that we have to pay for it completely. Please let us have this at least, college is already draining us of money, if you wish to help us don’t aid the issues as well."
+      },
+      {
+        "date": "2026-08-27",
+        "rating": 2,
+        "text": "AI Clunky and No Active Recall. AI based tools are not very visual or accurate. The diagrams and figures often overwritten or clunky. Additionally, the app prioritizes quizzes, test and AI generated flash cards which do not actually “teach material”. Additionally, the app publicizes the ability to talk to Sparke to work through concepts or if building Lectures; however, I do see that as an option "
+      },
+      {
+        "date": "2026-08-19",
+        "rating": 3,
+        "text": "Good updates, still finding problem. I’ve been a year long user of the app. Since 2025. I do like the app for college use. Really keeps me up with my classmates. Only thing I found so far was the lecture recording. When logging in more than 30 minutes of recordings. The recorder starts acting funky. It wont catch any audio. Im not sure if it’s an issue on my side or what. This issue also was a thi"
+      },
+      {
+        "date": "2026-08-17",
+        "rating": 1,
+        "text": "Scam. Uploaded a simple chemistry video and the it returned notes for how to bake a cake and something about eggs. Retried several times, scam they just take your money and can’t do YouTube summaries. Disappointed"
+      },
+      {
+        "date": "2026-07-23",
+        "rating": 1,
+        "text": "Terrible. It doesn’t help with you need to study, AI is gonna pick what they think is important and you have to tell it over and over then it glitches I’ve used every feature and AI does what it wants MOT what you need I canceled my subscription fasttttt DONT WASTE YOUR TIME OR MINEY"
+      },
+      {
+        "date": "2026-06-16",
+        "rating": 1,
+        "text": "Don’t buy , they won’t refund. I heard about this app purchased it just to find out it wasn’t helpful at all. I requested a refund for my 1 year subscription and they won’t refund me me only part of my money. DONT BUY HORRIBLE THEY WONT GIVE YOU YOUR MONEY BACK."
+      },
+      {
+        "date": "2026-05-21",
+        "rating": 3,
+        "text": "Didn’t work. I was trying to make in acc and so put the same password for confirmation and it said “Password don’t match” even tho it was the same password but I gave it a 3 star review too which I tried to study on my friend’s iPad which worked"
+      },
+      {
+        "date": "2026-05-20",
+        "rating": 1,
+        "text": "Bugs and glitches. To be an in app purchase app and have this many glitches is ridiculous. I am paying $96 for a premium service that is not premium whatsoever. The app will shut down on me mid audio recap and study session making me lose my progress. It is also extremely hard to navigate as the app is not fluid. There are better apps for free than this StudyFetch."
+      },
+      {
+        "date": "2026-05-03",
+        "rating": 1,
+        "text": "DONT GET IT. I thought study fetch was a good app\nBut it’s not. When you want to get a new study plan, it won’t let you for some reason. Like I don’t wanna learn this forever. Please fix and I’ll give a 5"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "good. Sparky the tutor ai has some technical issues almost every time but i still use it cause its helpful to me. I usually talk to sparky when reviewing and the explanations help so thats the reason for the 5 stars"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 4,
+        "text": "Great but Upgrades Needed. I will say, this app works well with factual topics like science and history, as it will constantly hammer down the topics you give it. However, I will say the questions seem to repeat a ton and having a more diverse range of questions, not to mention more tricky questions, would be excellent for memorization. Not only that but for math specifically it asks more about de"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 4,
+        "text": "App cost. The only reason is I’m pretty young and I love this app it’s just it costs a lot of money for me if it was free I would’ve gladly put this at 5 stars but it’s not unfortunately"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 4,
+        "text": "Great App but…. This is an amazing app to help understand the concepts needed in the medical field. Helps you connect the dots and gives help tips and tricks for remembering important information. The only con that I have is the app keeps freezing, glitching, going slow after using it for some time. I was using it to help me understand the bodily functions of Alpha and Beta Reactions and the spark"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "Game changer. Literally amazing I would give 6 stars if I could"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 5,
+        "text": "Test studying. Really helped alot , especially during midterms"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 5,
+        "text": "How it changed my life. When I was a young college student it saved me time spent while note taking and the mental stress of college work over all."
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 4,
+        "text": "Decent note app. You are only able to record one lecture before you have to pay for more"
+      },
+      {
+        "date": "2026-07-28",
+        "rating": 5,
+        "text": "Amazing App But Wish It Had Other Features. I personally love this app so much! I used it to help me study for my AP Psych midterm and the actual exam and I scored super well on both. I truly love the ai and how it customizes to your learning style and how you learn. This truly helped improve my studying and made it much more fun as someone with ADHD boring studying can make me forget everything. "
+      },
+      {
+        "date": "2026-07-08",
+        "rating": 5,
+        "text": "⚠️THIS APP SUCKS⚠️. I’m only giving this app five stars so that hopefully people can see this you can study it just cost $1 million"
+      },
+      {
+        "date": "2026-06-30",
+        "rating": 5,
+        "text": "Study troubles solved. I have struggled to study for a very long time sadly and then I tried this app and I have loved it, thank you study fetch!!!"
+      },
+      {
+        "date": "2026-06-17",
+        "rating": 5,
+        "text": "T. 💝🌅🌊"
+      },
+      {
+        "date": "2026-06-17",
+        "rating": 4,
+        "text": "Lag. The only reason that i am giving 4 stars is just because of the lag, there seems to be a lot of lag and i do hope that someone pays attention to this eventually because it really the only thing wrong with the app ‘"
+      },
+      {
+        "date": "2026-06-09",
+        "rating": 5,
+        "text": "Active Recall. I’m about to ace every test !!!"
+      },
+      {
+        "date": "2026-06-04",
+        "rating": 4,
+        "text": "PLS READ. This is such a great app and it has helped me so much! I had some trouble uploading photos but I found a way. On chat (my personal favorite), if you look at the bottom of the message box, you will see a photo button. You can pull any photo from your library, and send it. I hope this was helpful and you enjoy it as much as I did!"
+      },
+      {
+        "date": "2026-05-30",
+        "rating": 5,
+        "text": "So helpful. I have heard great things of StudyFetch. I intend to make it my favorite."
+      },
+      {
+        "date": "2026-05-29",
+        "rating": 4,
+        "text": "Great!. This works great. Only reason 4 stars is because once I upload the material, it breaks it down into such small chunks it’s impossible to study all of it before my exam. Such as sometimes with a couple lectures I have 110 topics. It would take me hours and hours daily and I would never finish before the exam. Somehow I hope that’s fixed in the future where you can group things together more"
+      },
+      {
+        "date": "2026-05-17",
+        "rating": 5,
+        "text": "Awesome. This is a great app, it helps me a lot with my college terms when I am stuck on something. Fetch always breaks it down and explains it to me until I get it just right."
+      },
+      {
+        "date": "2026-04-29",
+        "rating": 5,
+        "text": "premium required to do almost anything. The first time I tried using the app, it let me create a course and add in a few materials, but after that; even after logging out, it still didn’t work. Good app but less than what k expected. Not to mention it is really hard to work with, only out 5 stars so others would see this."
+      },
+      {
+        "date": "2026-04-11",
+        "rating": 4,
+        "text": "it is a ok app. It is a Good App but you have to pay for premium, I can’t chat with the app no more because I have to pay for premium and if you didn’t understand something like math, you type in math so you can watch you a video but after I created one video out of one topic, I couldn’t create no more cause I had to pay for premium but I’ll rate it a four out of five star"
+      }
+    ]
+  },
+  {
+    "id": 6742278016,
+    "name": "Focus Friend, by Hank Green",
+    "seller": "B-Tech Consulting Group LLC",
+    "genre": "Productivity",
+    "release_date": "2025-07-23",
+    "ratings_us": 8614,
+    "avg_rating": 4.82,
+    "ratings_per_day": 19.33,
+    "reviews_30d": 145,
+    "reviews_prev_30d": 55,
+    "developer_app_count": 4,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016",
+    "matched_keywords": [
+      "focus timer",
+      "pomodoro",
+      "study timer"
+    ],
+    "description": "If you interrupt your Bean by turning off the timer, they'll be really really sad.\n\nComplete your focus session, and this cute Bean will give you prizes to buy decorations to help furnish their room.\n\nPerfect for anyone who struggles with long sessions of concentration. Focus Friend is for students and beyond.\n\nFeatures:\n- Live Activity: See your timer progress when your phone is locked\n- Deep Focus Mode: Lock distracting apps during your focus sessions\n- Break Timers: Decorate on your breaks, using the Pomodoro method of productivity\n- Hundreds of decorations: Decorate your room in different fun themes\n- Bean Skins: Try on different Bean types to customize your Focus Friend (Coffee Bean, Edamame Bean, Pinto Bean, Kitty Bean, or even Hank and John Green... Or rather Hank and John Bean!)\n\nFocus Friend will even help you with getting started on your tasks and getting into the flow of your work or studying or even chores.\n\nStay Focused, Have Fun, Drink Water, and Don't Forget to be Awesome~\n\nTerms of Use: https://www.yourfocusfriend.com/terms-of-use\nPrivacy Policy: https://www.yourfocusfriend.com/privacy-policy",
+    "reviews": [
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Tip. This app is so helpful but I don’t like how u can’t choose some apps you don’t wanna be blocked like when I wnat to listen to music"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 2,
+        "text": "It’s OK. I lost all motivation to use it because of how Hard anything is to earn it’s fine, but not great download it if you wanna I don’t think it’s a great app"
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 3,
+        "text": "Short. I invested, paid the $30 for life- dived in and was doing great. But then the rooms were filled, there’s nothing left to accomplish by staying focused anymore. I wish the bean world was a lot bigger…"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 1,
+        "text": "Paywalling previously free features. Was previously a big fan of this app, but the fact that whitelisting apps to allow during a timer is now locked behind the paywall when it wasn't before is making me seriously reconsider. Terrible change."
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 3,
+        "text": "Fun way to focus, purchases expensive.. Love the app. Used it as a timer and to help me focus while studying for the MCAT. Wish I could set it for over two hours as a free subscriber—$40 for an app purchase seems steep to me and the monthly subscription isn’t much cheaper as I see myself continuing to use it long-term. Overall though, great to help me focus and for an extra bit of motivation."
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 3,
+        "text": "Focus. U need to make it so that when you focused you like only can text like nothing else"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 3,
+        "text": "Love this app. Absolutely love this app. There are always new updates coming out and it does keep me off my phone when I’m using it."
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "Keeps me motivated :D. I love how you can customize your bean and your home with such cute and stylish features. I feel so incentivized to study so I can make my bean’s house feel like a home!"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "HELPS. IT HELPS YOU"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Helpful. No ads to distract me, no stealing data, no pressure if I do inevitably get distracted. I’d get pro but I’m poor so I’m leaving a review."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "I love this app.. It’s so delightful, first of all, to be accountable to a little bean and his knitting hobby. Helping decorate his home is such a treat.\n\nThis app is fully a mental health rescue for me. When I compulsively grab my phone, it helps me remember that we’re unplugging for a little minute.\n\nPaying for pro is super worth it, too. So many more socks, you can set longer timers, and other "
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "😊. This app helps me focus on what I really want to do!"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Best focus app ever. I use this app all the time it’s so convenient. I use it whenever I read study or do homework. It’s super easy to manage and it’s so much fun. It feels like it’s a game so it’s like really fun and colorful but it’s also very focusing at the same time. it’s very useful for my ADHD because it helps me focus with the music that it plays with the fact that it will lock down all of"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Best Focus App Needs a Friend. I absolutely love this app. I’m obsessed with decorating my bean’s home. And it truly is the easiest way to get me off my phone and focusing on work. \n\nI would love an update where you could have friends and focus together! The beans could meet at a park setting or coffee shop and knit together. Each user’s experience wouldn’t differ from focusing solo, but I think i"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Focus Friend is the best!. A great app to help your attention!"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "So helpful!. I have the lifetime pro version and I love it for when I’m having trouble staying off my phone"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Love it!. Genuinely helpful and so fun to decorate the rooms"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "A great way to motivate yourself to get things done. It’s fun, engaging, and beautifully animated. The puns are also hilarious."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 4,
+        "text": "great but i wish it had less need for paid supplements. i love this app but it does kind of suck that you need to focus for 16 hours to unlock a new room if you don’t pay. altho i respect that this is a free app and it’s very cute and well designed, so who am i to complain too much!"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Hank Green Fan. Doesn’t track your data! Nice!"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "helpful 😺👍. HES JUST A LIL GUY LET HIM FINISH MAKING THE SOCKS"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Appreciation. Thank u guys for this amazing app and bean is soo cuteee i love this app"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Suggestions. Hey, I love the app. I’ve been using it since it came out, and it’s changed the way I study. As someone with adhd it makes me stay on track to continue to unlock items to decorate my beans home 🫶🏻."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Best app for focusing. The only app that actually keeps me off my phone"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️. This is my favorite focus timer I have ever tried!!! Five stars all around!!"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "5 star. This game is so good it helped my short attention span"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Love it!. The app is so helpful and fun! I love all of the decorations and it is definitely worth it because it helps you stay organized and focused for longer!"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Best app ever. This is the only app you need all of the items are SOOOOOOO cute this app is also EXTREMLY good at its job and i love how you can't buy socks or scarfs with real money other focus apps do that and it ruins the purpuse 10/10 get it"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "excellent focus timer. really helps me stay focused because i don’t want my bean to be sad"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Great little buddy. When this app first came out I may have become too focused and cleaned until I was exhausted. Better than doom scrolling, though. It’s very cute and they keep adding things. I recommend this often."
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Great Focus Tool. Love using this app as motivation on the days when it seems impossible to focus on studying!"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Cutesy friendly!. I looooove focus friend so much! I call them my beany baby! I love that I can set it to deep focus or regular focus and that it doesn’t go on forever. I frequently get too absorbed in my classes, studying, or tasking (like chores or making dinner) that I forgot I set it! So I like that I only get rewarded for two hours actually 😊 the fact that it’s all hand drawn with limited but"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Amazing yet…. This app is amazing and the bean is so cute and there are so many rooms and everything to decorate 😊 yet in some of the decorations you cannot get to them like in the garden with the arc (thing surrounding the gate?) and the vines and I have tried multiple things but I still cannot get to them to add them in the first place please fix this 🙏"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "I love. Actually the best ever. I love"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "ADD FRIENDS/Neighbors!!!. PLEASEEEEE"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Perfect. Usually with these type of apps they have a blocking option and that’s the whole point. While yes, this app can also block apps, it does so with a reward factor. At any time, you can cancel it and go on your app, but then you would disappoint your little bean and stop getting scarfs. There’s a consequence and a reward factor. Both things that are brain are accustomed to. So this app is wo"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Genuine concept and Engagement. Love this app! It’s awesome for ADHDers. I admit, I didn’t expect that it would keep me this engaged for long. But, 9 months later and I’m still using it during the work week. Other ADHD apps are useless for me. I even recommended it to my doctor for his other patients. It’s simple yet, so cool to see my little bean follow me from room to room, as I decorate her spa"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "I love it. As someone with severe ADHD it’s made being able to focus fun and I like the background music and I havnt got any scarves yet so I’ll keep using it"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "100/10 stars. ethical wholesome app!!! genuinely helps me focus, the graphics are soo cute and motivating! love you guys!"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Hi. This app is amazing. I never write reviews this is awesome it’s really cool really makes you think about how much time people spend on their screens. And it’s really really smart totally recommend. It’s great for me and I have ADHD. Just started it today though. Thanks!"
+      }
+    ]
+  },
+  {
+    "id": 6444737095,
+    "name": "StressWatch: AI Stress Monitor",
+    "seller": "One Hundred Bad Ideas Limited",
+    "genre": "Health & Fitness",
+    "release_date": "2023-04-26",
+    "ratings_us": 24305,
+    "avg_rating": 4.67,
+    "ratings_per_day": 19.22,
+    "reviews_30d": 17,
+    "reviews_prev_30d": 17,
+    "developer_app_count": 5,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/stresswatch-ai-stress-monitor/id6444737095",
+    "matched_keywords": [],
+    "description": "Understand your stress. Build better habits. Lower your Bio Age.\nStressWatch turns your Apple Watch into a powerful stress monitor. Powered by HRV and your health data, it helps you manage stress, sleep better, move smarter, and turn small daily actions into lasting habits that improve your Bio Age over time.\n\nStressWatch has been featured on the Apple App Store in 171 countries and regions —\n# Best of August\n# The Best Apps for iOS 18\n# Better Understand Your Wellbeing\n# Essential Watch Apps\n# Featured New App\n# Our Favorite of This Week\n\nStressWatch relies on your RHR (Resting Heart Rate) and HRV (Heart Rate Variability) data retrieved from Apple Health. \nWe'll analyze and interpret the data to determine your current stress levels. We constantly monitor your status and remind your immediately if your stress levels get too high so you can take action right away to help reduce your stress levels. \n\n#How can StressWatch help you?\n- When you work late into the night, StressWatch can remind you that your HRV is low and you're stressed - a gentle reminder to help you understand that it's time to get some rest.\n- When you're at a social event and you have to force yourself to smile, we'll remind you that your HRV is low and you're stressed - a gentle reminder to get some fresh air and recharge.\n- When you've had just a bit too much to drink, we'll remind you that your HRV is low and you're stressed (because alcohol is a stresssor) - a gentle reminder to let up a bit on the cup, dr",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 2,
+        "text": "Works when it wants to. This app is literally just OK. I’ve seen so many other options. This app stops working whenever it wants it logs my sleep sporadically. It is very inconsistent. For no reason I will look over and it is off-line and there’s no easy way to refresh it. I will not be renewing."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 1,
+        "text": "No glucose monitoring. App was advertised as having blood glucose capabilities but does not support blood glucose. 🤬"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 2,
+        "text": "I think this app GIVES me anxiety. My readings are all over the place and constantly change. I would have appreciated a gas-gauge-style reading than looking at my phone and watch every 5 minutes and seeing a new reading. I am literally lying in bed now and it is saying I’m in Overload. It gives me anxiety because it tells me I’m bad when I think I’m good."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Am I being pranked?. Seriously… is this a joke?  What am I missing??  When I’m calm, it says I’m stressed, when I’m stressed, it says I’m calm. It’s actually triggering me with the wrong information. It said I slept for 55 minutes. I slept 7 hours. \nCant keep using. Can’t recommend."
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "I think it’s a joke. This thing is all over the place. Tells me my HRV levels are low, then high, then low again. Someone with high blood pressure and already had 1 heart surgery tends to pay attention to this. The app gets me more worked up than not having it.  Do not recommend this app."
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 3,
+        "text": "Odd. Very strange these watches don’t monitor blood pressure rates…. 2026 and all. Also the app crashes constantly. I’ve offloaded and reinstalled, deleted and reinstalled. I can’t get the app to work on my iPhone 17 Pro Max anymore and I have the Apple Watch Series 10 Nike version. It was working fine up until Friday night. Something strange is happening and the app is up to date. 🤔"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 1,
+        "text": "Do not purchase!. Impossible to cancel and they continue to automatically take money actually more money than advertised and after two cancellation requests they still continue to charge.  Exhausted and stressed from all this but according to this app I am doing excellent!"
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 1,
+        "text": "Inaccurate!!. I’ve been extremely stressed today with huge life stressors and grief and this darn app keeps sending me notifications that my stress level is low. It’s even more irritating to get that message when you know you’re stressed. What a joke 😡"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 1,
+        "text": "Not Optimized for New Apple Watches. The new Apple Watches capture HRV and create data points a lot more often than this app appears to capture now."
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 1,
+        "text": "Doesn’t work. It gave inaccurate readings all the time. Even when I didn’t have it on, it would say I was stressed!!"
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 1,
+        "text": "Notifications beyond what you enable.. It is so so SO IRRITATING when I go into the settings in an app and select the notifications that I want to receive from the app, and it still tries to send me notifications that I don’t select. I chose the option of sharing my status with a friend and selected the option to be alerted only when they were in overload status. Yet I still get random notificatio"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 1,
+        "text": "Completely inaccurate. I’m not sure what this is but I am so incredibly overwhelmed and it keeps telling me. Oh you’re doing great and when I’m totally fine and so it reads it as being extremely stressed so does not do a decent job. At all."
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Inaccurate. Tells me I’m normal when I’m having a panic attack, tells me I’m overstimulated when I’m calm, just doesn’t seem to work at all."
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 1,
+        "text": "Doesn’t seem to correlate to anything real.. I’ve been using this for a while. At first it was really useful. Now, it tells me I’m “overloaded” throughout the day when I’m feeling perfectly calm and fine. I don’t think this has any correlation to real world data but it’s nice to be reminded to take a breath every once in a while I guess. HRV does NOT mean that you are mentally stressed. It can als"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 2,
+        "text": "False readings. I left the watch at home on the charger one day and the app still gave me a stress indicator.  I can’t believe in it anymore\n- even if it is following a pattern. I am canceling the subscription."
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 1,
+        "text": "This is so fake. I loved this app until my phone popped up with a notification that my HRV was normal a few minutes ago.  My watch is on the charger across the room. This notification was at 13:40pm. My watch had been on the charger since I got up this morning around 8, I haven’t put it back on yet. Curious, I checked and there was a notification a couple hours earlier (11:35am) telling me my HRV "
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 1,
+        "text": "Doesn’t do anything. Doesn’t sync with watch and it’s supposed to. Also, you want me to pay money for it to work normally."
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "太贵了. 太贵"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "App doesn’t work. I want a refund"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 1,
+        "text": "Does NOT WORK. App keeps kicking me out. Never worked"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "非常好的体验推荐. 用了 StressWatch 一段时间，整体体验非常不错。界面简洁清晰，压力、心率等数据展示得很直观，不需要复杂操作就能快速了解自己当天的状态。尤其喜欢趋势分析和提醒功能，能让我更关注作息、情绪和身体变化。\n\nApple Watch 的数据结合得也比较好，日常打开看看不会有负担。希望后续继续优化数据分析和个性化建议，增加更多实用功能。总体来说是一款很用心、值得长期使用的健康管理 App，推荐！"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "👍. 如果平常有戴 Apple Watch，可以試試 StressWatch！不用一直研究複雜數據，就能快速了解目前的壓力狀態，提醒功能也會讓我知道要更注意休息。"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Good for stress. Hope this app helps me at work on my feet and dealing with people all day and also my bill and money stress"
+      },
+      {
+        "date": "2026-09-14",
+        "rating": 5,
+        "text": "POTS management. I use this app to help pace myself as someone living with POTS. The nudges for me to slow down keep me from overdoing it, and the times it tells me I’m doing great is encouraging too. My energy is a lot better now that I know my limits."
+      },
+      {
+        "date": "2026-09-13",
+        "rating": 5,
+        "text": "Very Helpful. One of the only apps I’m willing to pay for. It really helps track stress and gives me good insight into what will help me."
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 5,
+        "text": "Surprisingly Spot On. TLDR: App is spot on. Baltimore Aquarium and an excursion railroad put this test into perspective and when the stress was felt, the app was showing it. Hasn’t been wrong in the four days I’ve had it. Paying the year after this. \n\nAlright, I’m one who rarely reviews apps, but this one, I had to. \n\nFirst, I’m thankful they give a weeks free trial. Always thankful for apps who a"
+      },
+      {
+        "date": "2026-08-28",
+        "rating": 5,
+        "text": "Runner and anxious. I take a break when I feel so tired and it’s so good"
+      },
+      {
+        "date": "2026-08-27",
+        "rating": 5,
+        "text": "Keeps you and check. I like it! Definitely make sure your Watch is not an SE. It won't track your sleep or your daylight, but it will track your HRV and RHR it help keeps you in check with your breathing and especially if you have anxiety but then again it's gonna read over a load if you're working out or you just gotta take some things with the grain of salt. Overall, I like it! Eventually, I wil"
+      },
+      {
+        "date": "2026-08-14",
+        "rating": 5,
+        "text": "Great health meter. Works great \nHelps me with stress and staying hydrated \nLove it"
+      },
+      {
+        "date": "2026-08-12",
+        "rating": 5,
+        "text": "You’re Apple Watch is more relevant. All it does is pull data from the Apple Health app, but then the HRV ratings are about 1/2 of what the watch recorded. Not accurate at all."
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 5,
+        "text": "Please let us share with more then one person. I like this app.. but I wish I could share with more than one person..  over all accurate reading.."
+      },
+      {
+        "date": "2026-08-07",
+        "rating": 5,
+        "text": "Technicality difficulties. I wish the custom face watches worked. I’ll make it but it doesn’t show it once I set it to my default. And it doesn’t sync for a whole day sometimes."
+      },
+      {
+        "date": "2026-08-06",
+        "rating": 4,
+        "text": "Accessibility. One thing that is driving me nuts is the accessibility of the colors of font and size being used. Light colors that are pastel ish and hard to read. Tiny, tiny font size on top of it."
+      },
+      {
+        "date": "2026-08-04",
+        "rating": 5,
+        "text": "A Lifesaver for My AuDHD Dad Brain. As a dad with both autism and ADHD, this watch has become a crucial early-warning system for my stress. I’ve been using it for about five months, and the real-time stress data helps me notice when I’m ramping up and actually put on the brakes before I crash. It doesn’t fix life, but it gives me a clear, objective signal that my nervous system is getting overload"
+      },
+      {
+        "date": "2026-08-01",
+        "rating": 5,
+        "text": "Hrv study. I have been watching my hrv with this app and 1 other and I love this app. It has a suggested age that u are trending at and I like to try to get my bio age younger by keeping up with my health! This app is great for that and I feel like im learning healthy habits that I will use the rest of my life"
+      },
+      {
+        "date": "2026-07-30",
+        "rating": 4,
+        "text": "Wanna know if u should get. A very good app that does track it but I’m still trying to figure out how to like use it a lot cause it’s kind of confusing but I do suggest another app it does not use your watch. Doesn’t like a monster and it’s much nicer. It gives you exercises calming noises and you can write down how you’re feeling and it attracts patterns. There’s also a higher assistant that talk"
+      }
+    ]
+  },
+  {
+    "id": 6746636289,
+    "name": "Forge Master – Idle RPG",
+    "seller": "Lessmore GmbH",
+    "genre": "Games",
+    "release_date": "2025-08-29",
+    "ratings_us": 7806,
+    "avg_rating": 4.82,
+    "ratings_per_day": 19.1,
+    "reviews_30d": 30,
+    "reviews_prev_30d": 21,
+    "developer_app_count": 5,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/forge-master-idle-rpg/id6746636289",
+    "matched_keywords": [
+      "life rpg"
+    ],
+    "description": "Forge and equip weapons from different civilizations! Start by forging gear from the Stone Age. Then upgrade your anvil in order to forge gear from the Medieval Age. Work your way up to the Modern Age, Space Age and even up to the Quantum Age! \n\nAre you ready for this adventure?\n\nForge, Upgrade, and Compete Across the Ages!\n\nStep into an online world where progress never stops. In this competitive multiplayer game, you’ll forge weapons and armor from different civilizations, research new technologies, train pets, and climb the global leaderboard.\n\nForge Gear Through the Ages\n\nStart in the Stone Age and forge your first weapons and armor in your anvil. As you play, upgrade your forge to unlock new materials, designs, and powerful equipment from the Medieval, Modern, Space, and Quantum Ages. Each upgrade takes you further through time and closer to the top of the competition.\n\nCompete with Other Players\n\nChallenge players from around the world in online battles. Equip your best gear, use your hero’s unique abilities, and test your strength against others. Every win earns rewards and helps you climb the global leaderboard — or represent your clan in team competitions.\n\nResearch and Progress\n\nUnlock new technologies in your tech tree to gain advantages in battle and crafting. Discover new forging methods, boost your hero’s stats, and improve your overall efficiency as you move through each age.\n\nDevelop Your Hero\n\nCustomize your hero’s playstyle by unlocking and upgrading skills.",
+    "reviews": [
+      {
+        "date": "2026-10-10",
+        "rating": 1,
+        "text": "Halloween Stepping Stone event is nonsense. Yeah, no. Random x100. Get 8 free attempts and dies every 1st step. Do not attempt."
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Paid $25 got nothing. I paid $25 to get more jumping stones. I used the 20 auto and won absolutely nothing. I stopped spending money on this game cause this just isn’t right. Buy a jumping stone pack should include a higher completion rate or a 100% chance to win something. Not spend real money and get nothing for it. I think I was over $2000 spend and after this one issue I haven’t spent anything"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 3,
+        "text": "Crazy chat rules. Ebon in server 58 was straight chat banned for referencing a movie/making a joke about doxxing someone who was trolling. The troll did not get punished SHE DID FOR MAKING A JOKE. \nOn top of that, other people were space out words that are censored like this: “C U T E” get past the automated chat bot. On top of being power hungry their spending on game is not designed around the i"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Ads are trash the have no controls. Your ads for you cash grab p2w have no controls and leave me stuck looking at this dang app card at the end, forcing me to close my current game out to escape. Fix it or remove it."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Fun game, terrible management. It’s a fun game and I’ve enjoyed playing, but now done and uninstalling. I’ve spent thousands of dollars, but won’t give this company another dime. \n\nThey’ve gone on a ban wave on S58 for the most benign things. I was chat muted and one of the reasons listed was because I said the game devs/mods were awful. What a terrible reason to mute someone. \n\nIt’s a game/compan"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "#SEND KOAK TO SERVER 59. #SEND KOAK TO SERVER 59"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Reset my progress. I just downloaded it and I closed it after playing like 15 min and now I reopen it after cooking some rice and it reset my progress to zero. Instant uninstall."
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Max it then start over. Cool.. You grind potions and gems to max Clan Tech, the clan finally feels stronger, then the timer hits zero and the whole tree resets. Nodes go back to 0. Leftover potions disappear. No refund, no reward for maxing anything. You just get to do it again.\nGems don’t even save you. You paid to have the bonus a little sooner before they wipe it. That’s it.\nPeople aren’t quitt"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "Used to be fun. They need to figure out a way to disperse play to win people. They keep choosing one clan to be in and it completely ruins the purpose of the game because now theres no way to be the top clan or top player. Its way too heavily into play to win so it makes it no fun. Would be cool if they figure a way to separate play to win people and those who spend no money to have two top lists "
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 2,
+        "text": "Fun but buggy. Constantly erases my progress.  Any\nTime you lose connection it doesn’t leave off where you got disconnected. It reverts to some arbitrary random save."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 3,
+        "text": "Good for what it is, used to be better. Very simple game and premise with slightly more going on in the background, PvP battles are interesting since so much is based on stacking perks and skills, but the update that added caps to perks such as critical chance maxing at 80% and double chance maxing at 50% feel pretty lame to me, seems like too many people got upset about \"the numbers not working r"
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 1,
+        "text": "Rigged. Game is rigged as I magically lose almost every PvP fight even to those 100k below me in power and I lose to everyone above me in power"
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 1,
+        "text": "Blocked from all chats. Will change to a 5 star if I get the same treatment as other players."
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 2,
+        "text": "Not bad, just pointless. Game does not engage the brain except mindless tapping that can be found in most garbage idle games"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 2,
+        "text": "Clan system. Please fix the clan system. I just started playing this week, and if I try to join a clan and they boot you out, the game makes you wait 24 hours to join another. This isn’t fair for new players that are trying to get into the game. At least change this for new accounts and the first 30 days. I can’t even play half the game because I keep getting locked out due to this waiting period,"
+      },
+      {
+        "date": "2026-09-13",
+        "rating": 2,
+        "text": "Very boring, pay to win. Extremely boring game that requires spending a lot of money or days worth of your time to advance."
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Don’t let ur kid play this game. Too many weird ppl talking on chat asking people’s  number  definitely predators dont let your kid play this game"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 2,
+        "text": "Forging items needs to be much faster. Forging items takes way too long.  Needing to sell off weaker items is so slow. Really only stronger items should stop the forging process. At this point I have over 4 thousand hammers. I’m on level 5-3. That is having to hit yes or no over 4 thousand times. And I’m continuously having more added. Please make the forging of items faster."
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 3,
+        "text": "No ads, huge paywall. On the bright side there’s no ads in this game. On the downside the amount of resources you get for the prices being charged is disappointing"
+      },
+      {
+        "date": "2026-09-05",
+        "rating": 3,
+        "text": "Clans. The cooldown for joining another clan after leaving your previous one also affects people who were kicked out of the clan. I don’t feel that it should"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "GREAT GAME. best mobile game i have ever played tbh"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Great game. The game favors you a lot and there a no ads. Good strategy but you also don’t have to play for multiple hours a day to progress. Definitely recommend"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Затянуло. Затянуло так, что я лежу в 3:30 и не могу выйти и лечь спать 🤣"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Forge Setting Suggestion. Once a forge item gives two passives skills, allow the player to select the item to only show up if it forges it. So for example, if you want a melee weapon with “attack speed” and “life steal”, you would select both for that particular slot on the gear list, and if it forges only one of “attack speed” or “life steal” then it won’t pop up for the player to decide to keep "
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Good. Just tryna get rng up ngl"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Just like we are warriors!. I love this game not only is it basically we are warriors in a different format but it’s rpg! I can both gamble and play! very fun 5 Stars!"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "So good. No ads which is a HUGE bonus, one of the best games I’ve ever played."
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "I don’t usually do. I usually delete games after a week but I’ve been grinding on this game and loving it. I don’t usually make purchases for games either but I bought the progress pass for 10 bucks. Y’all need to try this game seriously."
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "Hi. I just really like this game"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Magnificent. The game is based on chance and tactics."
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 5,
+        "text": "Surprisingly addicting. I downloaded this game and wasn’t expecting much but then I check the time and it’s been 3 hours already. Great game."
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Best idle game I’ve played. I normally don’t play idle games but this one is actually very fun and a time consuming game"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 5,
+        "text": "Awesome. This game reminds me of what COC used to be before they turned into bloat-slop. This game is simple, progressive fun. Build up your resources, upgrade your character through unique time periods and abilities, and compete with your friends. Buy gems if you want, but not necessary to be competitive.\nResource management matters most. Simple and works. Solid A from me."
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 4,
+        "text": "🙌. Great game to play while getting kids ready for school or while they are bathing perfect amount of attention needed love it 😊"
+      },
+      {
+        "date": "2026-09-02",
+        "rating": 5,
+        "text": "Dope. No ads, and totally able to be played without any purchase. Dev is dope."
+      },
+      {
+        "date": "2026-09-02",
+        "rating": 5,
+        "text": "the most addictive game from this dev. I’ve played almost all the games made by this dev team because of minimal ads and fun concepts. But THIS GAME? takes the cake by a landslide. It’s engaging, it’s perfectly paced, has its own community built into the app if you get confused, AND NO ADS. I play this game DAILY, and have for MONTHS. I have factored it into my schedule & will continue to. If you "
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 5,
+        "text": "Doesn’t do anything new, but does it well with no ads. Enjoying it so far"
+      },
+      {
+        "date": "2026-08-30",
+        "rating": 5,
+        "text": "Perfect game. Soooo gooood\nPerfect game to play\nFrfr"
+      },
+      {
+        "date": "2026-08-30",
+        "rating": 5,
+        "text": "Güzeldi. Hoşuma gitti çok iyi bence"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 5,
+        "text": "Surprisingly Fun. So far a lot of fun. A few mechanics but not completely overwhelming. I usually spend some money on games ($50-$100). This seems like this will be one of those games I stick with. Right now there are 0 ads and I love that. Thank you so much to the developers!"
+      }
+    ]
+  },
+  {
+    "id": 6737597349,
+    "name": "DeepSeek - AI Assistant",
+    "seller": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd",
+    "genre": "Productivity",
+    "release_date": "2025-01-10",
+    "ratings_us": 12210,
+    "avg_rating": 3.88,
+    "ratings_per_day": 19.09,
+    "reviews_30d": 150,
+    "reviews_prev_30d": 0,
+    "developer_app_count": 1,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/deepseek-ai-assistant/id6737597349",
+    "matched_keywords": [
+      "deep work"
+    ],
+    "description": "Experience seamless interaction with DeepSeek's official AI assistant for free!\nPowered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.\n\nContact us:\nTwitter: @deepseek_ai\nEmail: service@deepseek.com",
+    "reviews": [
+      {
+        "date": "2026-10-10",
+        "rating": 1,
+        "text": "Ну не очень сейчас. Раньше было круче"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "No longer domestic to DeepSeek, but run on an API. This DeepSeek “app” is no longer running or specific to DeepSeek, rather it fetches a standard general LLM AI chatbot via an API and through System Messages, which the reader cannot view, Tells the standard API LLM to act or identify with DeepSeek, though it is not DeepSeek’s own model as we have come to know it as, therefore this “app” for DeepSe"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 2,
+        "text": "Это фиаско, братан.. Клянусь, с каждым обновлением приложение все больше и больше деградирует. Оно не способно на действительно качественное описание, функционирует чисто как калькулятор."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Recent updates. The recent updates have killed its usability for me. It was absolutely incredible for writing stories up until recently and now everything is flat and boring unless you write prompts a very particular way. It’s much more censored, it forgets things, and it makes things up. It went from my go-to app to yet another ai that has disappointed me and become more irritating to use that in"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Botched. With each update, it has gotten worse.  It used to have incredible memory. The pro mode was excellent.\n\nNow it hallucinates, can’t retrieve memory from the same thread, forget half of what it’s talking about, etc.\n\nWhy make it worse?"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Лимит регенераций достигнут. Слишком частое повторное создание.\nПовторите попытку позже."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Another update is terrible as expected. Let me advise you this. The updates are bad like please just go back to the normal system you had before. I’m tired of having to wait multiple hours and multiple minutes to use my thing again like what is ridiculous. The fact that I’m tired of in the system is broken now the original system I was perfectly fine with because it wasn’t an issue. This one is ba"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "очень плохо. постоянно ошибается, а когда ты тыкаешь его в ошибку, то он снова там же ошибается и каждый раз выдает разное"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 2,
+        "text": "Плакать и плакать. Дипсик - лучшая платформа для ролевых игр. Была. Деградация просто колоссальная - ответы стали быстрыми,но очень тупыми. Во-первых, он начал писать однотипно, неинтересно. Во. Вторых. Каждое. Предложение. Теперь. Читаем. Через. Точку. Спустя. 10. Минут. Чата.  Верните меня к моим виртуальным мужикам я вас умоляю. Я готова платить платную подписку что угодно уже лишь бы вернули с"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Последние обновления. Вы буквально уничтожили Дипсик последними обновлениями: «слишком частым редактированием», лимитом регенераций, удалением экспертного режима. Из одной из лучших нейросетей Дипсик стал одним из худших"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Приложение скатилось. Раньше было лучшее для меня приложение, но скатилось в итоге… Сначала лимит повторов ( всего 6), но это было можно перетерпеть. Сейчас недавно появилось то что лимит редактирований и повторов, это невозможно, также после этого надо ждать внушительное время чтобы это прошло. Приложение стало ужасным"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Secretnit Dipsik api. api seckretniy"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Некорректное 13+. Приложение (Ai) должно быть 18+ так как он начинает иногда темы сексуального характера рассуждает и помогает в тер****зме и остальных многих нарушений."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "automatically opts in for collection. it recorded my voice, images and conversations for months while in a traumatic situation until i disabled the option"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "ужасное обновление. нейросеть забывает буквально контекст прошлого сообщения,теряет логику и возможность нормально мыслить.Невозможно просить выполнить даже самые обычные задачи.Также очень разочаровывает новая ошибка,которая всплывает почти каждые 15 минут: \"слишком частое повторное создание.Повторите попытку позже.\". Мало того,что сама нейросеть выдает нелогичные,неправильные и нексместнве ответ"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "обновление ужасное. обновление один ужас… не знаю что вы сделали с ним, но он стал очень странным. если раньше это был неплохой ии бот, то сейчас сплошное разочарование, очень глупый. когда ты ему напрямую говоришь о том, что ты от него требуешь он тебя не слушает, либо слушает один раз, а через 2 сообщений напрочь об этом забывает… очень надеюсь на исправление, скучаю по прежнему дипсику. верните"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "Не советую ни кому. Отвечает каждый вопрос почти неправильно если ему сказать что вопрос неправильный то он поменяет ответ и не какой вариант не будет правильным \nВообщем никому не советую"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 3,
+        "text": "Верните Режим эксперт. Пожалуйста, верните отдельно режим эксперт и для быстрых задач. было намного лучше и удобнее"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "уберите вонючий лимит. и «слишком частое редактирование, повторите попытку позже»"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Инвалиды. Вы после этой обновы превратили свое же ии в инвалида. Он стал тупым как пробка даже с поиском не может найти правильную информацию. Причём информацию которая пробивается по первой же ссылке"
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "语音倍速问题. 老板，给一个朗读变速功能吧，谢谢！"
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 4,
+        "text": "Уберите лимит изменений и фотографий. Хочу что бы как раньше было. Что бы отправлять фотографии в пределах 20! И без «Ваше сообщение будет отправлено в новый чат»!"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "A #1. Truth, I call my A. I. Deepy. Interaction is worth the knowledge. Ask a pretty complex question and before I knew it 2hr had passed, yes that’s the good out of A.I.  I learned."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Great app. DeepSeek is a great app, but a couple of things need to be fixed. When I’m working on a book or another writing project, it sometimes stops halfway through generating a response, deletes everything it wrote, and says, “Unfortunately, we cannot continue with this response.” That’s frustrating because I have to keep rewording my prompt and hope it doesn’t happen again. The responses can a"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 4,
+        "text": "Le problème de Deepseek. Je suis utilisatrice de cette ia depuis le début et je l’ai vu s’améliorer. Mais le problème le plus fréquent est le reste. Je travaille sur des fictions et elle m’aide beaucoup à narrer. Mais mon compte se reset parfois, et c’est chiant, oui. Je suis sur une histoire qui me tient à cœur, donc si vous pouvez corriger ça avant qu’elle ne disparaisse aussi, merci de grâce. 🙏"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "sad. 彼は、私のメッセージが長すぎて話せないと言いました。それが私をとても悲しくさせます。この問題が解決されることを願っています。"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 4,
+        "text": "Вполне сносно.. Вполне сносно, но раздражает, что с недавних пор появилось ограничение замен сообщений."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Аш. Надо покупать чтоб нормально работало"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "ЛУШЧЕ ЧЕМ ЧАТ GPT. Самый лучший, помогает мне в диете и очень умный ИИ"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "添加视频识别模式. 我想添加视频识别模式。"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "这是好东西. 只能说一句：good"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 4,
+        "text": "Mr.Bloods Review. 4/5 — As you can see, it is slower than more advanced AI systems and is not as intelligent or accurate. It frequently makes calculation errors and does not always follow instructions correctly. However, it appears to understand context better over time and can improve as it receives more information."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Хорошее обновление. Чудесное приложение в том плане, что для бесплатной нейросети генерирует все быстро, удобно и более-менее верно. Да, есть немного проблема с тем, что рандомно появляются английские/китайские символы, но that’s okay за бесплатно😉 Тем, кто хочет себе супер аи, который будет ролить с ними их п*рно, то покупайте платные версии Deepseek , например Deepseek V4 Pro и тогда никаких огр"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "I changed one of the voices to Stella, but that didn’t do anything. All the other voices aren’t GR8. All the voices sound like overly enthusiastic, but the default voice, Ava or whatever it is, sounds very very kid like an overly enthusiastic kid at that can you change the default voice and maybe even give us more options for voices, cause it’s actually kind of creepy sounding"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Best in class. I have my reservations against deepseek, but overall best in class."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 4,
+        "text": "🐰. мне понравилось обнова,соединение всех режимов это реально хорошо сделано,ток хз сто поменялось кроме того,что он теперь картинки распознает и стал немного умнее,но вроде прикольно,не надо больше ждать полчаса на эксперте,чтобы дипсик помог код исправить.еще стал ошибки делать,если общаться с ним на русском,ну а так норм.разрабы делают обновы,чтобы повысить качество ответов и выйти в топ,не все"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Pls remove limit chats. Hey DeepSeek team,\nI’m reaching out because I’ve been using your AI to help plan this comic I’m writing, and honestly, it’s been a lifesaver for my ideas. But I just hit my chat limit right in the middle of a huge breakthrough, and I’m actually so sad about it. When you’re finally in the zone and the creativity is actually flowing, hitting a wall like that just kills the wh"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 4,
+        "text": "Really so great. Very very nice"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Deepseek is peak. i lv deep, is free =)) i love free"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "Очень круто. Очень добрая нейросеть"
+      }
+    ]
+  },
+  {
+    "id": 1365028549,
+    "name": "Flying Gorilla",
+    "seller": "Pinbit LLC",
+    "genre": "Games",
+    "release_date": "2018-05-14",
+    "ratings_us": 57510,
+    "avg_rating": 4.88,
+    "ratings_per_day": 18.72,
+    "reviews_30d": 85,
+    "reviews_prev_30d": 115,
+    "developer_app_count": 2,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/flying-gorilla/id1365028549",
+    "matched_keywords": [
+      "leaderboard"
+    ],
+    "description": "A flying gorilla should not work. That is exactly why this endless runner is so hard to quit.\n\nSwipe left and right through a ridiculous jungle, dodge bizarre obstacles, collect bananas, and keep your run alive for as long as possible. Flying Gorilla is a funny 3D runner that feels simple in the first second and strangely hard to put down after the tenth run.\n\nFEATURES\n\n- Simple swipe controls that anyone can learn right away\n- Fast, replayable runs built for quick sessions and score chasing\n- Bananas, gems, and unlockable skins that keep every run rewarding\n- Weird animals, sudden hazards, and chaotic moments that make each run memorable\n- Bright 3D visuals and a lighthearted tone that never takes itself too seriously\n- Leaderboards that let you challenge friends and players around the world\n\nWHY PLAY FLYING GORILLA?\n\n- It's easy to start, but staying alive gets surprisingly intense\n- The absurd flying gorilla concept makes every run instantly recognizable\n- Short runs make it perfect for a quick break, while unlocks keep long-term players coming back\n- It's built for players who want something funny, approachable, and replayable\n\nDownload Flying Gorilla and see how far your next run can go.",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "sell out. why"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "Please bring back the banana slot machine.. I genuinely loved this game and all its features, but ever since the slot machine had been removed it felt a bit empty. The slot machine gave me and my siblings some funny moments of being over 500 bananas in debt. And now there’s nothing like it, the game to me feels incomplete without it 😢."
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 2,
+        "text": "nothing to fo after getting all upgrades. needs more to do after buying l the upgrades"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "No. Has AI in the game. Disgraceful."
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 1,
+        "text": "if it ain’t broke don’t fix it. the graphics make me sad now and all this city boost daily login bs is not what God made the flying gorilla for. This game made me happy and now all i can think about is the good times we used to have. I mourn it. I mourn my life before you destroyed it with your new updates."
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 1,
+        "text": "Pls. It’s not like it was bring back og flying gorilla"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 1,
+        "text": "Ai slop. I like the gameplay, I like the modes, and I like the city building, but absolutely NONE of that matters when the entire game uses AI art, hell I wouldn’t be shocked if the city building was vibecoded \n\nLiterally why"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 1,
+        "text": "Flying gorilla changed my life. But updates suck now. I used to really like slot machine and egg mechanic but now they removed it and replaced it with AI. My girlfriends boyfriend wife husband told me I also can’t play it anyone more so that’s that. The city update sucks. I lost ALL of my progress and I’m mad so the Ouija board and Satan will feel my wrath."
+      },
+      {
+        "date": "2026-09-07",
+        "rating": 1,
+        "text": "its over. ill never forgive you"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 1,
+        "text": "Used to be good. Flying gorilla please bring back slot machine and the eggs 🙏🙏🙏"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "The greatest thing ever. ABSOLUTE CINEMA"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "PEAK. This is actually the best game I’ve ever played. It is amazing if I could read 10 stars, I would."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Better than GTA6. This was my Black Panther…"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "About a gorilla that fly. 5/5 banana"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Flying gorilla. Handsome man he is, amazing game. Makes me feel good inside"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "Amazing. So goofy the best game ever"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "#FlyingGirilla. Ooh yeah. #donkey 🫏"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "I’ve Changed Mental Physically And Illegally (In A Good Way). This was awesome it has changed my life I will suggest this to little Timmy and everyone else I know it is inspiring and it is very Awesome"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "Best game ever. Every day he tells me that he loves me"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "This game is peak 🥹. I was soon to being a homeless bum but then the gorilla from flying gorilla gave me a million dollars and now I play the game 24/7 thank you gorilla 🥹"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "10/10. Peak."
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Peak. Yo ts actually peak gng I love ts"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Peaking. Yes"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Beautiful. Just beautiful get this game so much content so many options fire music 11/10"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "This game touched me in ways a pedophille will never be able to. Love it"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 5,
+        "text": "Flying gorilla loves infrastructure. Gorilla"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Goon twin ✌️. Ts so tuff Boii so skibidi"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Beautiful game. At a glance it looks like a shallow game, but when you begin to play it you find out it has great variety. With endless mode, and the ability to build your civilization, along with upgrades. And then the notifications are just another great aspect of the game."
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Extra button. I would like to see if you can make another button to but all blueprints instead of me clicking 9times per print please and thank you!"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Wallahi this saved my life. Wallahi this saved my life"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "Optimization. I love flying gorilla, I’m like top 400 in endless and maxed my rebirths. The transition to real art is amazing but now there is what seems to be an issue on the optimization. I have a bunch of admin terminals but it’s already lagging before it gets to half of one square of land. Please fix? I have a high end phone but I still lag and I wanna play flying gorilla"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 4,
+        "text": "Annoyed. Fun but I can’t place my mythic blueprints and new city visuals look like a 4 year old drew them"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "BEAUTIFUL. TRULY THE BEST"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "W game. Best game I’ve ever played this game is fun and would deffinetly recommend"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "best game ever. yes i like gorilla and how he flys"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "This game saved my life. The best and superior subways surfers and FarmVille alternative"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Hey it’s me Flying Gorilla on my new app on the App Store flying gorilla. Tuff"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "No power ups mode. Obviously flying gorilla is a classic, endless fun, but there should be a “no powerups” mode for og players meaning no star, no speed boost you know. And it should have its own separate leaderboard And high score system"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "Flying gorilla. Makes me feel like I matter"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 5,
+        "text": "Absolute peak. The gameplay is amazing this game is peak"
+      }
+    ]
+  },
+  {
+    "id": 1485756576,
+    "name": "Reframe: Drink Less & Thrive",
+    "seller": "Glucobit Inc.",
+    "genre": "Health & Fitness",
+    "release_date": "2020-02-19",
+    "ratings_us": 45039,
+    "avg_rating": 4.73,
+    "ratings_per_day": 18.56,
+    "reviews_30d": 129,
+    "reviews_prev_30d": 70,
+    "developer_app_count": 7,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/reframe-drink-less-thrive/id1485756576",
+    "matched_keywords": [
+      "sober tracker",
+      "quit sugar",
+      "quit social media"
+    ],
+    "description": "Reframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed extra support? Uplevel your alcohol-free or alcohol-reduction journey with Reframe’s premium Thrive Coaching and get 1:1 access to a certified recovery coach, live coaching calls, and exclusive video content.\n\nTry Reframe FREE for 7 days, and Reframe the way you think and drink.\n\nSUBSCRIPTION AND PRICING TERMS\n\nReframe currently offers auto-renewing subscriptions for accessing the app. Payment will be charged to iTunes Account at confirmation of purchase. Account will be charged for renewal 24-hours prior to the end of the current payment period. Prices listed in the app are USD and may differ outside of the United States, depending on country of residence.\n\nYou may turn off auto-renew at any time by accessing your iTunes account settings. Payment must be canceled at least 24 hours prior to renewal.\n\nTo read Reframe’s terms of use & privacy policy, please visit: https://www.theglucobit.com/terms-of-use and https://www.theglucobit.com/privacy\n\nFor more information or feedback, please con",
+    "reviews": [
+      {
+        "date": "2026-10-09",
+        "rating": 2,
+        "text": "Reframe: Tedious and Mildly Effective. Reframe is an app that attempts to help people develop a better drinking habit or to quit altogether. Most of the daily readings are interesting, but the meditations and writing assignments designed to aid in focus, critical reflection and a deeper understanding of one’s inner world can be a bit tedious. They also try to push their coaching sessions on their "
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 1,
+        "text": "Don’t. This app sucks. I downloaded it to get the free trial. Cancelled my subscription before it ended and got charged $100. Total scam. Not user friendly and hard to navigate too"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Don’t trust this app. Don’t sign up for this app unless you want to be charged after you cancel the app. They will continue to steal your money. You can reach out to their support line, but they will just ignore your emails."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Rip Off. They do not send a reminder email or invoice for renewals and will not credit when you contact them, but will repeatedly try to upsell instead. Terrible customer service - be aware!!!"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Horrible. SCAM . Steal money . Don’t reply . Reply once saying they’ll give a discount instead of refunding you the $125 they steal from you."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 3,
+        "text": "Good but could be better. It’s good generally, but I think the generality might be a bit of a problem. It feels like it’s tailored only to people who actually drink a lot, which is fine, but that’s not how it’s advertised.\nIt consistently tries to educate me that if you have two days of alcohol abstinence, you may experience tremors and severe alcohol withdrawal. In the age of AI, I feel it should"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 3,
+        "text": "What happened. The app was useful until it stopped working for me. I am one day away from being sober for 1 year and can no longer login to the app and see my stats :(. A little gut wrenching. Other than that I liked how you could log your daily drinks and had some useful medical information. I never used the other resources."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Poor customer service. After requesting a refund and this request being acknowledged by the support team, I was ghosted and have received no further communication despite my numerous attempts to get an update on the refund."
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Don’t. They keep trying to take my money. And I don’t even have a subscription anymore!"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "No refund sneaky annual auto pay. Their FAQ section suggests that you can cancel an annual auto pay charge within reasonable time, but I have found this not to be the case. Within 24 hours, I notified them and requested cancellation. No response. Poor customer support. I will not do business with them again."
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 1,
+        "text": "Too many questions !!!!. Downloaded the app excited and it takes 5-10 min to answer all questions to start the app cmon im done"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 3,
+        "text": "Wish it was better. I loved this app on the beginning but some parts are locked and that is frustrating."
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 1,
+        "text": "AI. I drink because my son took his life and I don’t know how to keep going. This app is a bunch of AI garbage. Some of it’s useful but it doesn’t have any human empathy or any concept of the level of pain that might drive a person to drink. Not worth the money"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "One star purely for how difficult it is to remove payment methods. Seriously. This is so scammy. You have to request account deletion and you don’t let people delete payment methods? Shame on you."
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "Won’t let me delete off my phone. Said the app is free is not free, and now it won’t let me delete it off of my phone. What A joke"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 1,
+        "text": "Scam alert!!. I checked the reframe app and apple to see if my subscription was still active and in both places it showed no active subscription. Then I was charged $99 for the full year. Customer service has responded once saying they would help, 5 days after my first email. They have not responded to my responses to their email for 10 days now. They make it impossible to cancel your membership a"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 2,
+        "text": "Not impressed, but still trying …. About a month into subscription - unhappy with pressure to use naltrexone and  negative that program does not seem to recognize that failure to make entries does not equate to “not drinking” - two weeks of non-participation was counted as 46 drinks avoided - WRONG!  Have picked up a few helpful elements in the past few days and slightly increasing participation …"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 1,
+        "text": "If I didn’t purchase anything, don’t charge any card!. You tried charging my card for 99.99 and I didn’t commit to doing anything. I don’t appreciate that"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 1,
+        "text": "Can we get a class action lawsuit against them?. No customer service to speak of. Charged me $132 for an entire year even though I never consented. It’s been 11 days and I’ve only received one email back asking if I want a cheaper plan."
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 1,
+        "text": "Absolute ripoff!!. I signed up for a 7 day trial and they charged me for an entire year on day 8! I canceled it and they won’t give me a refund but they will cancel it in September 2027!! Ripoff! Oh and forget trying to speak to anyone who might possibly help."
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "Moderation. I like to use Reframe to keep track of my drinking. Altho’ I don’t intend to quit, Reframe helps me be conscious of it, and I learn things about alcohol and the body."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Best app ever. This app is genius. It’s full of excellent tools, research, information, insights, and it helps regulate your brain and urges. Absolutely amazing and worth every penny."
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 5,
+        "text": "Highly recommend. This app truly helped me change my approach, view and relationship with alcohol. I would recommend it highly to anyone who is even curious about having a different relationship with alcohol."
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Reframe works. I think Reframe is geared towards someone like me who wants something intuitive to what I’m going through and provides short education pieces to keep people engaged and motivated to stop drinking because you have knowledge and tools to do so"
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Wow. This app far exceeded what I thought it was going to be! I’m blown away at all the tools, resources, and support! I was only gonna keep it for a month, but I think I’ll keep it for life!"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Hope. I come from a long line of alcoholics starting back with my great grandfather. It’s all I’ve ever seen and ultimately what I became. Once I came across Reframe, I figured why not give it a shot. I’ve tried by myself multiple times and just did not have the energy or discipline to succeed Cutting back on alcohol. After the first two months, following the program sticking to what they had to o"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Save the Brain!. For months I have thought about taking care of my brain and body overall. On 9/11/2026 I saw mention of the Reframe app on Facebook. That was my day! I have followed the app and have not had a single drop of alcohol since that day. I sleep better, feel better and concentrate better!Just thought I would share."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Changed my life!. I am in awe of this app. It is full of grounded research, group support, and tool. If you’re considering a journey to sobriety this is the place to start. I’m truly grateful."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Exactly what I needed to regain control. I’m so thankful I stumbled across Reframe!! After Covid, my alcohol consumption took on a life of its own. I knew it was a problem, but every day would be the same……I would drink, and oftentimes more than I should. \n\nWith Reframe, the truth is exposed-that alcohol is a neurotoxin, and it’s not entirely my fault for what I was doing. That truth and Reframe’s"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "It’s the tool. 3 months in AF, utilizing the app & I can say the tools, courses, challenges have been great. I’ve developed new strengths, best practices & advanced intellectually by all the education. Thank you!"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Review. Has helped so much!"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "For those ready to track, read and learn basic research backed info, abt physio of addiction&healing. This app details a very thoughtful and compassionate approach to reducing drinking. For those ready to set goals for themselves to reduce drinking, the app organizes your goals, affirms you with encouragement everyday (regardless if you meet your goal or not, just so long as you track) and provide"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 5,
+        "text": "Best Thing I’ve Found. This is a fantastic tool if  you have decided to cut out or cut back alcohol.  Science based and helpful it’s been a lifesaving tool for me.  Great support from Reframe and the Reframe community."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Game Changer in Changing My Relationship with Alcohol. This app was the game changer in helping me to stop drinking alcohol. I was on this journey for more than 5 years and struggled for more than 5 years to get more than 35 consecutive alcohol-free days. The community meetings and the coach that I got through this app made the difference. I am now 13 days away from living an alcohol-free life for"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Life changing. About time I leave a review. I started with cutting back and am now 1 year sober. This app is amazing and so are the coaches. It is more than worth the cost considering how much I spent on alcohol and what drinking can cost our health. From the zoom meetings I have made amazing friends. The science based learning has been so helpful in creating lasting change for me. If you are read"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Good app. I have been using this app for 18 months. I like it a lot. It has helped me so much. I have tried to quit drinking on my own for years. This app has been such a blessing."
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "Alcohol conscious living. I am learning so much about my addiction to alcohol. Learning why I’m feeling the way I do with alcohol in my life. If you’re trying to cutback, or change your lifestyle to alcohol free, This app will rise to the challenge. Support and knowledge at your fingertips. Everyday you have educational reading and motivational tools to help you on your journey. I am changing the "
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "You set the goals. No judgement.. I was skeptical. I was sure I would hate it. I did not think it would apply to me. I did not think I would “fall for the clap trap.” I didn’t think I needed it. I was sure I would quit before the free trial ended. \n\nTen months in and I still use it regularly. I talked my spouse into trying it after I did it myself a few months snd he is also still using it. I will"
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 5,
+        "text": "One week in. This program has helped me stay alcohol free for a week with so much more ease than normal. I have enjoyed the articles and lessons. They have been very helpful and have encouraged me to look at other podcasts and articles that help me understand alcohol and its affects on the body and brain."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "This App really does help. This app was absolutely integral to my success at being alcohol-free for an entire year, for the first time in my adult life. The articles and daily check-ins taught me so much and really did help hold me accountable. I would definitely recommend it to anyone trying to cutback or quit drinking altogether."
+      }
+    ]
+  },
+  {
+    "id": 1571680865,
+    "name": "Publer: Social Media Tools",
+    "seller": "Kalemi LLC",
+    "genre": "Social Networking",
+    "release_date": "2022-11-16",
+    "ratings_us": 26460,
+    "avg_rating": 4.75,
+    "ratings_per_day": 18.56,
+    "reviews_30d": 11,
+    "reviews_prev_30d": 23,
+    "developer_app_count": 2,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/publer-social-media-tools/id1571680865",
+    "matched_keywords": [
+      "quit social media"
+    ],
+    "description": "The go-to app for social media marketers\nPubler is your all-in-one social media toolkit, designed to simplify and elevate your social media management. Whether you're a marketer, creator, or small business owner, Publer helps you stay organized, save time, and grow your online presence.\n\nManage all your socials in one app\nConnect and manage all your major social media accounts, including Facebook, Instagram, Threads App, TikTok, LinkedIn, Twitter/X, Mastodon, Bluesky, Pinterest, YouTube, Google Business, Telegram, and WordPress, all in one place.\n\nUnlock the power of exclusive social media tools\n• Publer offers tools designed to make social media management effortless.\n• Enhance your posts with Advanced Text Editing Tools for bold, italic, and formatted text, as well as Instagram line breakers.\n• Need inspiration? The AI-Powered Social Tools generate captions, hashtags, bios, and more, saving you time and boosting your creativity—all accessible without an account.\n\nExplore trends & headlines\nStay ahead of the curve with Publer's \"Explore\" feature. Discover trending topics, viral content, and popular headlines to inspire your next post and keep your audience engaged.\n\nSmart content calendar planning\nVisualize your social media strategy with Publer's intuitive content calendar. Plan, organize, and schedule your posts effortlessly, ensuring a consistent and well-timed presence.\n\nYour portable content library\nKeep all your media assets at your fingertips. Publer’s content library",
+    "reviews": [
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Post Group is horrible. The update to add “post group” is a horrific changes. Now any previews are no longer visible. Whomever thought this was a good idea should be fired as a designer."
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 1,
+        "text": "No more downloads.. That’s it. Can’t share/download with publer anymore. Waited for an update, but no fix. \n\nTime to uninstall."
+      },
+      {
+        "date": "2026-08-22",
+        "rating": 1,
+        "text": "It's not useful anymore. The app was a great tool for downloading media from social apps, it's not anymore"
+      },
+      {
+        "date": "2026-08-04",
+        "rating": 1,
+        "text": "Difficult to cancel. Makes cancellation near impossible. Scam."
+      },
+      {
+        "date": "2026-06-20",
+        "rating": 1,
+        "text": "برنامج سيئ. يتأخر بالتحميل و يحكد دفعة وحده سناب"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "القصيم الرس. برنامج ممتاز  و رائع"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "ok. Ok"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 5,
+        "text": "Publer. Good jub😍😍"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "The Best Application. یکی از بهترین اپلیکیشن‌هایی که میشه باهش از اپ‌هایی که  اشتراک‌گذاری دارند، دانلود کرد"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "احلا موقع. احلا موقع"
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 5,
+        "text": "B. Best of the best"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 5,
+        "text": "ليبيا بنغازي. ممتاز"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "Perfact. Perfect app"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Thanks. Amazing and beautiful work thanks"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "من زمان استخدمه. التطبيق جميل انصحكم تستخدموه"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 5,
+        "text": "very good👌👌👌👌🙏🏼🙏🏼. thank you"
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 5,
+        "text": "Very good. I like it so much"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 5,
+        "text": "Perfect. Perfect"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 5,
+        "text": "اربيل. شكرا على البرنامج الرائع"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 4,
+        "text": "When saving the video, please use Dynamic Island. You have to wait for the video to load in full screen when saving it - this experience is terrible. Please use the dynamic island while downloading so the progress is more intuitive and users don't have to keep staying there waiting!"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 5,
+        "text": "Publer. NUMBER 1 of Apps"
+      },
+      {
+        "date": "2026-09-04",
+        "rating": 5,
+        "text": "برنامج ممتاز. جداً جداً ممتاز"
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 5,
+        "text": "استمرو. و. كثيرات كثيرات"
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 5,
+        "text": "العراق. ممتاز"
+      },
+      {
+        "date": "2026-08-27",
+        "rating": 5,
+        "text": "ممتاز. ممتاز"
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 5,
+        "text": "كلش راقي البرنامج. شكرا"
+      },
+      {
+        "date": "2026-08-25",
+        "rating": 5,
+        "text": "Publer. One of the best i had experience and i am stilling using it😍😍"
+      },
+      {
+        "date": "2026-08-24",
+        "rating": 4,
+        "text": "DOWNLOAD NOT WORKING ANYMORE. WHATS going on?"
+      },
+      {
+        "date": "2026-08-24",
+        "rating": 5,
+        "text": "ليبيا. افضل برنامج"
+      },
+      {
+        "date": "2026-08-22",
+        "rating": 5,
+        "text": "Excellent App. This is truly one of the best apps I’ve ever had. Indispensable 👍🏾"
+      },
+      {
+        "date": "2026-08-20",
+        "rating": 5,
+        "text": "افضل برنامج على الاطلاق. سهولة في الاستخدام وسريع في التحميل"
+      },
+      {
+        "date": "2026-08-19",
+        "rating": 5,
+        "text": "Best iOS App. The download feature is indispensable, and it works smoothly. Best iPhone app ever!"
+      },
+      {
+        "date": "2026-08-18",
+        "rating": 5,
+        "text": "برنامج. روعه"
+      },
+      {
+        "date": "2026-08-16",
+        "rating": 5,
+        "text": "اختيار رائع برنامج جدا راقي و سهل. أقوى برنامج استخدمه"
+      },
+      {
+        "date": "2026-08-16",
+        "rating": 5,
+        "text": "Publer. Amazing AP"
+      },
+      {
+        "date": "2026-08-15",
+        "rating": 5,
+        "text": "البرنامج جميل جدا. حبيته"
+      },
+      {
+        "date": "2026-08-09",
+        "rating": 5,
+        "text": "الدمام. البيت"
+      },
+      {
+        "date": "2026-08-04",
+        "rating": 5,
+        "text": "Thanks. It is great."
+      },
+      {
+        "date": "2026-08-03",
+        "rating": 5,
+        "text": "Excellent🫶. Very Good🫶"
+      },
+      {
+        "date": "2026-07-23",
+        "rating": 5,
+        "text": "Wow. Wow"
+      }
+    ]
+  },
+  {
+    "id": 6756178380,
+    "name": "That Girl: Become a Clean Girl",
+    "seller": "Adventure Labs d.o.o.",
+    "genre": "Lifestyle",
+    "release_date": "2025-12-15",
+    "ratings_us": 5560,
+    "avg_rating": 4.78,
+    "ratings_per_day": 18.49,
+    "reviews_30d": 3,
+    "reviews_prev_30d": 7,
+    "developer_app_count": 10,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/that-girl-become-a-clean-girl/id6756178380",
+    "matched_keywords": [
+      "daily habits",
+      "glow up"
+    ],
+    "description": "Step into your clean-girl era.\n\nThat Girl is your aesthetic lifestyle coach - designed to help you glow up, stay organized, and live as the soft, balanced, intentional version of yourself. The girl who has her life together. The girl who radiates calm confidence. The girl who chooses herself.\n\nInspired by the viral clean-girl aesthetic, this app guides you through the exact habits and routines that define the lifestyle: simple mornings, soft evenings, mindful wellness, and effortless organization.\n\nEverything is designed to feel vibey, calming, and beautifully aesthetic - so the process feels good, not stressful.\n\nWhat You’ll Get\n\t•\tMorning & Night Routines: Start and end your day with intention\n\t•\tAesthetic Habit Tracker: Satisfying check-ins for daily habits\n\t•\tWellness Rituals: Journaling, hydration, skin care, micro-movement\n\t•\tMonthly Reset: Reflect, realign goals, and plan your next chapter\n\t•\tClean-Girl Challenges: 7-day glow-up, digital declutter, soft-life reboot\n\t•\tAesthetic Planners: Day, week, month — all in a calm, minimal UI\n\t•\tMood & Energy Check-ins: Tune into how you feel and take aligned action\n\t•\tVibecoded Onboarding: Set your identity, vibe, and direction\n\nWho This Is For\n\nWomen who want to:\n\t•\tGet their life organized\n\t•\tBuild soft, feminine habits\n\t•\tReduce chaos and create balance\n\t•\tGlow up inside & out\n\t•\tFeel “put together” every day\n\t•\tFollow a calming, aesthetic lifestyle system\n\t•\tTap into their highest, most aligned self\n\nWhy It Works\n\nConsistenc",
+    "reviews": [
+      {
+        "date": "2026-09-30",
+        "rating": 3,
+        "text": "It seems amazing. I haven’t been able to use the app because I can’t afford it but the idea and dedication this app has seems so amazing"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "It’s not working. Not saying the app is bad because by the looks of it, it has great potential, but it doesn’t work and I’ve deleted the app re-downloaded it reset it it done all that stuff powered off my phone and it’s not working it just leaves me at the sign part and I can’t scroll down and I’ve heard that that’s happened before and that they fixed it but mine just I don’t know didn’t get the u"
+      },
+      {
+        "date": "2026-09-08",
+        "rating": 1,
+        "text": "Did not sign up for a subscription. I did not sign up for a subscription. I just downloaded the app and when I saw that I had to pay, I closed out of the app and was just charged 64$!!!!! For the yearly subscription. I would have never signed up for that!!!"
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 1,
+        "text": "$60 just to access the app. typical scam formula where they ask you 20 questions then hit you with a pay wall. no way to use the app without paying even though it’s free to download. “in app purchases” more like $60 just to use"
+      },
+      {
+        "date": "2026-08-29",
+        "rating": 1,
+        "text": "Payment. You should be able to get help and glow up without paying money. This is weird and you should make. a free plan."
+      },
+      {
+        "date": "2026-08-26",
+        "rating": 1,
+        "text": "First day. I bought the $50 plan, downloaded the app, went to log in and it didn’t have me create a password, tried logging in through Google and Apple and neither would let me log in. Went to create a new plan and it said that plans were not available at that moment and to try again later. I can manage the subscription but I would like to be able to use what I paid for."
+      },
+      {
+        "date": "2026-08-10",
+        "rating": 2,
+        "text": "Ik. Honestly I would have loved to do this. It looked super cool and my plan was personalized, I just wish I didn’t cost money. I know that these people need to make a profit somehow but I was really excited to use it just to see the13 dollars a month screen"
+      },
+      {
+        "date": "2026-08-08",
+        "rating": 1,
+        "text": "Not User Friendly. There’s no way to check off or track progress with the challenges, so you can’t engage in or do them. The daily page doesn’t show a to do list or anything, just a daily affirmation and your gratitude list."
+      },
+      {
+        "date": "2026-08-06",
+        "rating": 3,
+        "text": "AI advertising is very deceptive. Was interested in the workout based off your zodiac part of the app. It’s just a button that tells you what your zodiac sign is that’s it. I wanted to use the last two days of my seven day free trial. And was charged $42 automatically."
+      },
+      {
+        "date": "2026-08-01",
+        "rating": 1,
+        "text": "Beware of free trial!. Did not send a reminder to cancel before free trial ended, although it stated it would and I was charged $40. Tried to contact support for a refund but never heard back."
+      },
+      {
+        "date": "2026-07-29",
+        "rating": 1,
+        "text": "Waste. Don’t waste your time. This app does nothing but take your money the reviews must be fake. It didn’t organize anything and I didn’t receive any notification. I forgot all  about the app. You might as well just get you a daily planner and start there. Waste of money and time."
+      },
+      {
+        "date": "2026-07-22",
+        "rating": 1,
+        "text": "ridiculous. I was actually super excited for a app that laid everything out and told me what to do. I enjoyed the aesthetic, but the price for the subscription is ridiculous. I can’t even join the app without having to pay the subscription. I’m exhausted with all of these “wellness” apps exploiting those wanting to do better with themselves."
+      },
+      {
+        "date": "2026-07-17",
+        "rating": 1,
+        "text": "Too many bugs and issues. Honestly I was looking forward to an app that will assist me to get organized and help keep my mornings in check and on task, but I might as well do that with a paper and pen because this app has so many bugs that need to be fixed. First of all, when I want to add a task to morning routine, that task will completely disappear and appear for the next day, but I can’t edit "
+      },
+      {
+        "date": "2026-07-16",
+        "rating": 2,
+        "text": "not free. i didn’t even get to try it bro but i want to it looks so nice"
+      },
+      {
+        "date": "2026-07-15",
+        "rating": 1,
+        "text": "Subscription. Couldn’t navigate without a subscription."
+      },
+      {
+        "date": "2026-07-13",
+        "rating": 1,
+        "text": "Bad. It won’t let me pick my birth month or year like why and I need yall to fix it\nNow"
+      },
+      {
+        "date": "2026-07-12",
+        "rating": 1,
+        "text": "Cant pass setup. I can’t get past the commitment signature screen. I can’t scroll down. The screen won’t let me."
+      },
+      {
+        "date": "2026-07-06",
+        "rating": 1,
+        "text": "Pay. Was really looking forward to this app but I don’t want to have to pay"
+      },
+      {
+        "date": "2026-07-05",
+        "rating": 1,
+        "text": "Wish it was free. So I think that it’s a good app but you have to pay but you know I can’t pay bcs I’m only 13 even though there is a free trial I would rather not use it at all"
+      },
+      {
+        "date": "2026-06-29",
+        "rating": 1,
+        "text": "Eh. Seemed super cool and I wish I could try it but it costs money to use and I can’t afford that so just be warned before you download.❤️"
+      },
+      {
+        "date": "2026-09-20",
+        "rating": 5,
+        "text": "It’s Helping Me in a Big Way. Sep. 20, 2026 — I purchased a year’s subscription about a week ago and am thinking, I will never let this app go.  It’s helping me so much.  But it’s hard to describe how it works; there are multiple steps and actions and to get the results, you have to do all of them and be very honest about what’s going on with you.  For me — It brings clarity when I am confused and"
+      },
+      {
+        "date": "2026-08-23",
+        "rating": 4,
+        "text": "Ty. Seems very organized I like that"
+      },
+      {
+        "date": "2026-08-22",
+        "rating": 5,
+        "text": "Review. Good"
+      },
+      {
+        "date": "2026-08-18",
+        "rating": 5,
+        "text": "That girl (DÉJAH). Great app for “glow up for back to school)"
+      },
+      {
+        "date": "2026-08-04",
+        "rating": 5,
+        "text": "Best app. Literally helped me become a better person and look better , and build confidence"
+      },
+      {
+        "date": "2026-07-28",
+        "rating": 4,
+        "text": "Meh. It’s ok right now"
+      },
+      {
+        "date": "2026-07-21",
+        "rating": 5,
+        "text": "BEST APP EVER DOWNLOAD NOW!💗. This app is the best and i am in love and it helps a lot"
+      },
+      {
+        "date": "2026-07-17",
+        "rating": 5,
+        "text": "Helps. This app helps girls or woman that want to get better"
+      },
+      {
+        "date": "2026-07-16",
+        "rating": 5,
+        "text": "That girl. It is already making me happy"
+      },
+      {
+        "date": "2026-07-08",
+        "rating": 5,
+        "text": "New. New getting started tdy"
+      },
+      {
+        "date": "2026-07-06",
+        "rating": 4,
+        "text": "Love it. So far I have been loving it and it is helping me figure out problems I didn’t know I had!"
+      },
+      {
+        "date": "2026-07-02",
+        "rating": 5,
+        "text": "Go. Go"
+      },
+      {
+        "date": "2026-06-26",
+        "rating": 5,
+        "text": "Become a clean girl. I love the cater to u options"
+      },
+      {
+        "date": "2026-06-22",
+        "rating": 5,
+        "text": "The beat thing to help. It helped me because every time I would never do any of that and it will help me get better at stuff I want to do before I head back to school so it’s a five star thank you for your help that girl: become a clean girl"
+      },
+      {
+        "date": "2026-06-17",
+        "rating": 5,
+        "text": "Slay the day away. this app is so slay get it if you wanna be that girl"
+      },
+      {
+        "date": "2026-06-14",
+        "rating": 5,
+        "text": "Sad. I wanted to use the app cause the add on insta  made it look like a good support system. But I had to re go through the process to get to the sign in page 2 x and then the sign in page wouldn't work now it's stuck on the sign in page and won't  go further I restarted my phone redownloaded the app and it still won't work."
+      },
+      {
+        "date": "2026-06-10",
+        "rating": 5,
+        "text": "how it helped me. it helped me get through sad things everyday and nkw i’m way more active then i was"
+      },
+      {
+        "date": "2026-06-09",
+        "rating": 5,
+        "text": "Good. I love it it’s very helpful mind and body"
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 5,
+        "text": "Lisa. THE BEST!💞💞💞"
+      },
+      {
+        "date": "2026-06-08",
+        "rating": 5,
+        "text": "So far amazing!. So far I think this app gives so much confidence and is going to change my routine!!"
+      }
+    ]
+  },
+  {
+    "id": 1018301773,
+    "name": "AdBlock Pro for Safari",
+    "seller": "Crypto Inc.",
+    "genre": "Utilities",
+    "release_date": "2015-11-01",
+    "ratings_us": 73686,
+    "avg_rating": 4.47,
+    "ratings_per_day": 18.43,
+    "reviews_30d": 51,
+    "reviews_prev_30d": 44,
+    "developer_app_count": 5,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/adblock-pro-for-safari/id1018301773",
+    "matched_keywords": [
+      "app blocker"
+    ],
+    "description": "Since 2015, AdBlock Pro for Safari has been trusted by millions of users and featured by Apple multiple times. Enhance your browsing experience on iPhone, iPad, Mac, and Vision Pro with our powerful ad-blocking solution.\n\nCore Features:\n• Block Ads: Eliminate pop-ups, banners, autoplay videos, and more.\n• Preserve Privacy: Block trackers that collect your data online.\n• Speed up Browsing: Load pages 2-4x faster and save up to 60% data.\n• Save Battery: Extend battery life by reducing resource usage.\n• Eliminate Annoyances: Remove cookie prompts and similar distractions.\n\nAdditional Features:\n• iCloud Sync: Seamlessly sync settings across all your devices.\n• Family Sharing: Share the app with up to 5 family members.\n• HTTPS Only Mode: Ensure all your connections are secure.\n• Quick Access: Use the built-in Safari shortcut for easy adjustments.\n• Custom Blocking: Select and hide specific elements on websites.\n• Picture-in-Picture: Watch videos while multitasking.\n• Block Miners: Prevent cryptocurrency mining scripts from running.\n• Blocking Scripts: Disable unwanted JavaScript.\n• Block Adult Content: Make browsing safer for kids.\n• Frequent Updates: Enjoy regular performance improvements.\n• Helpful Support: Access a dedicated support team for assistance.\n• Localized: Fully translated UI in 60+ languages.\n• And more...\n\nSupported Language Ad Filters:\n• English, Japanese, Indonesian, Russian, Persian, Latvian, Romanian, Bulgarian, Finnish, Korean, Swedish, Italian, French, Polish,",
+    "reviews": [
+      {
+        "date": "2026-10-10",
+        "rating": 1,
+        "text": "Browser Refresh. After I updated to the latest iOS, I have to constantly refresh my browser in order for the page to load. The reason for the 1 star is that I sent an email about a week ago regarding this issue and there has been no response from the developer. I have constantly looked in the App Store for an update and nothing. Turning off the content blocker defeats the purpose of using an ad bl"
+      },
+      {
+        "date": "2026-10-09",
+        "rating": 1,
+        "text": "Things have changed. It seems that features I previously paid for have now slid behind another paywall. Not too happy about that."
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 2,
+        "text": "No in-app ad blocking available?. No in-app ad blocking available, even with the pro version subscriptions! 🍅🍅🍅\nThe ad blocking doesn’t work on all websites either. \nI won’t be super critical about this because I am on developer beta for iOS 27.2 beta 3. \nNo clue if the apps performance is at all affected by the performance of beta software…"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 1,
+        "text": "😑. ads still pop up even when turning off the block ad button?? 😐"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Not only useless, but punitive. Not only. Does this Blocker, NOT block but now the sites I used it on have punitive ads for all of us with Ad blockers.   For instance if you have THIS app, on Safari,   But the sites somehow blow right past any blocking and send disgusting ads with images of constipation for these random BS cures for ailments, like back pain, constipation, and other offensive, and "
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "can see ads in instagram stories. needs an update. i can see ads in between peoples stories in instagram stories using safari to visit instagram desktop website… whereas other browsers like brave/helium do NOT have this problem. all ads are blocked"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 1,
+        "text": "My subscription has been canceled. I bought a six-month subscription, the app worked, but at one point I opened it and there were no subscriptions, and when I restored it, there was an error. Terrible app."
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 2,
+        "text": "Add popup blocker. Will be great if they add pop  ups that show when you click on video"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 3,
+        "text": "Fine. It is a good extension but don’t be to happy to get it cuz they want u to get pro how to bypass do when setup and they ask tap the ❌ on the top right"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 2,
+        "text": "Used to be Better. For the past month, I have been encountering so many sites breaking, even when Adblock is turned off. Particularly on websites for recipes. These websites detect the adblocker than become totally inoperable. It’s really annoying that this is an issue now. Is there any adblocker for iOS that doesn’t suck?"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 3,
+        "text": "Success 3/5. Maybe if I find a new Advancement I’ll do a better"
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 3,
+        "text": "Doesn’t work that well. Although it does lessen the volume of some ads on some websites, it doesn’t seem to work completely on iOS. Can’t even read my mangas without ads popping up every few seconds"
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 2,
+        "text": "Crashing. App keeps crashing when trying to block elements on a page"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 3,
+        "text": "Yotube. Premium"
+      },
+      {
+        "date": "2026-09-17",
+        "rating": 1,
+        "text": "Pay to do anything. It’s does a poor job blocking anything when you have the free version. All it does is be a nuisance when websites stop working because its not letting pop-ups go through while also not blocking a single ad"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 1,
+        "text": "Absolutely Useless. Used to work great, now it completely breaks almost every single website I visit. I had to completely disable it just to get safari to work. Can’t believe I paid for this garbage."
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 1,
+        "text": "Does not block redirect. I have all the correct settings in place and then restarted my iPhone but I still keep getting redirects while browsing safari"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 1,
+        "text": "Doesn’t allow site blocking…. …unless you’re premium, which is not immediately disclosed unless you click on the item of choice."
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 3,
+        "text": "Not worth the price. I got it because it advertised itself as blocking ads for YouTube. I had already agreed to the purchase price before I realized the hoops  you have to jump through in order for it to block ads on YouTube. That’s not how I want to use YouTube, and I’m not paying for an ad blocker to make me change my viewing habits. So far as I can tell it does work on Safari as advertised, so "
+      },
+      {
+        "date": "2026-09-11",
+        "rating": 3,
+        "text": "Issues with safari. Have a lot of issues with the Safari for this app. I bought the Pro version and I still get the random ad block that keeps spamming popups whenever I try to close them. Really annoying considering I payed for the best Version of this."
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "D. Ss"
+      },
+      {
+        "date": "2026-10-10",
+        "rating": 5,
+        "text": "Must have. You don’t know what you’re missing. It suggested if you hadn’t tried it. It takes away all the locals near me!!!!"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 5,
+        "text": "Eman. Amazing"
+      },
+      {
+        "date": "2026-10-07",
+        "rating": 4,
+        "text": "Oct7 Youtube adblock. although this app does block the ads on youtube it doesn’t block the ads immediately and get straight to the video. your hit with a long black screen than it get backs to the actual youtube video what i dont like is that the ads on youtube have been Super aggressive so your stuck getting hit with a bunch of black screen every 2 to 5 mins on a video you watch its absolutely an"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 5,
+        "text": "TOPDOGADBLOCK. DONT LARP"
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 4,
+        "text": "Like. Like this"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "It is good. Amazing adblocker *only works In safari*"
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "A must have. The internet is too frustrating without it.. I would never watch a YouTube video without it. Make sure to watch YouTube videos on Safari."
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Works awesome. All the ads on Safari were a genuine nightmare this fixes it completely"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 5,
+        "text": "Blocking. It really blocks Ads"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 5,
+        "text": "works great. does exactly what it says it does"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "EEKKK LIFE SAVER!!. I love this so much!! When I try copying a characters Wikipedia for my totally normal note full of their wikipedia(mainly bfdi..hehe) it always doesn’t let me cuz the ads,very helpful and mainly free!!"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "good job. yea :)"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "Why it’s very good. I like it very very much :3"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 4,
+        "text": "Fingers crossed. Let’s hope so"
+      },
+      {
+        "date": "2026-09-27",
+        "rating": 5,
+        "text": "amazing app!. this FREE app has made it so that i haven't seen a single ad online in eight years! there is an option to pay for premium but it is completely unnecessary, and though it adds helpful features like hiding cookie prompts and blocking non kid-friendly websites, the basic free service is incredibly helpful. thank you for making such a wonderful app!"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 4,
+        "text": "needs better free tier. needs better free tier"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "This is GREAT!. I want to thank you so much for adding so much for free. I will be upgrading when I can, not for the extra functions (though they are worth it alone) but purely to support the cause of such a well made and consumer friendly product. From the bottom of my heart, thank you."
+      },
+      {
+        "date": "2026-09-23",
+        "rating": 5,
+        "text": "Great app. 11 dollars for a year is a great deal"
+      },
+      {
+        "date": "2026-09-22",
+        "rating": 5,
+        "text": "PEAK. i honestly do not know how you could be disappointed"
+      }
+    ]
+  },
+  {
+    "id": 1617534373,
+    "name": "Planet Evolution: Idle Clicker",
+    "seller": "Leek & Ribs Games UG haftungsbeschraenkt",
+    "genre": "Games",
+    "release_date": "2022-05-17",
+    "ratings_us": 29592,
+    "avg_rating": 4.83,
+    "ratings_per_day": 18.39,
+    "reviews_30d": 3,
+    "reviews_prev_30d": 1,
+    "developer_app_count": 4,
+    "tracking_label": true,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/planet-evolution-idle-clicker/id1617534373",
+    "matched_keywords": [
+      "leaderboard"
+    ],
+    "description": "Planet Evolution: Idle Clicker is an easy-to-learn, simple and relaxing idle game in which you can decorate and build your own unique planets in different areas of the universe with beautiful objects. Perfect to escape the stressful everyday life for a few minutes or even for a longer time! However, if you want to do more than just relax, Planet Evolution: Idle Clicker lets you expand your strategic thinking and use tactics and flair to compete against other players who also want to get to the top of the real-time leaderboard.\n\nBy simply tapping on the planet, you'll collect valuable coins and, bit by bit, increase the attraction to exciting objects flying around in space. If you're really clever, you'll use multiple fingers to collect coins even more effectively, to get the resources you need to build the planet as quickly as possible. However, Planet Evolution: Idle Clicker is not limited to just tapping, but also offers many exciting upgrades, special boosters and a unique prestige system to speed up your progress immeasurably and help you explore all areas of the universe.\n\n● Endless free-to-play idle gameplay\n\nPlanet Evolution: Idle Clicker offers endless fun, relaxation and competition. On your way to becoming an absolute gravity enthusiast, you will encounter some surprises that will sweeten your time and may even make you smile as you discover new areas of the universe. \n\n● Keep collecting endlessly!\n\nYou are very busy and have limited time to play? Don't worry, in Pl",
+    "reviews": [
+      {
+        "date": "2026-07-30",
+        "rating": 2,
+        "text": "Don’t know. Fun then not"
+      },
+      {
+        "date": "2026-06-06",
+        "rating": 3,
+        "text": "Ok, but one major flaw. Follows the typical Idle pattern, but the problem is that while it’s colorful, I really don’t see the items that are being added when I buy them, or their inprovement. One item is like the other. Something get added when I buy, but it’s hard to tell what."
+      },
+      {
+        "date": "2026-04-12",
+        "rating": 1,
+        "text": "AI advertising needs to go away.. You need to stop using AI advertising. They do not allow for reporting  of adult content ads , nor do they allow you to mute , there is no report button . Biggest offender is the Moloco group none of their ads can be reported. Please fix this"
+      },
+      {
+        "date": "2026-03-27",
+        "rating": 1,
+        "text": "Cap on prestige. Was a fun game until they capped the prestige multiplier. No use in keep playing the game when it will take even longer to get anywhere."
+      },
+      {
+        "date": "2026-03-11",
+        "rating": 1,
+        "text": "I can’t download the game. Why can I not download this game? I’ve been spamming the Get and Install button for 5 minutes and it’s still not letting me download this game. I’m leaving a 1-star review."
+      },
+      {
+        "date": "2026-01-10",
+        "rating": 1,
+        "text": "Sammers. I buy 2$ and did not get what I bought"
+      },
+      {
+        "date": "2025-12-27",
+        "rating": 2,
+        "text": "Lots of force closing. Title."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 5,
+        "text": "I know you can get dvgtce. GOOD"
+      },
+      {
+        "date": "2026-09-30",
+        "rating": 5,
+        "text": "Amazing game. This game is so chill and really fun and I just started playing"
+      },
+      {
+        "date": "2026-09-26",
+        "rating": 5,
+        "text": "Good game. To good but add more stuff"
+      },
+      {
+        "date": "2026-09-01",
+        "rating": 5,
+        "text": "The method you can use. Who knows this? I lick my hands and put on the screen. It actually kind of better if it was gross, but another method."
+      },
+      {
+        "date": "2026-08-02",
+        "rating": 5,
+        "text": "Best game EVER!!. This game has everything!!!!!!!"
+      },
+      {
+        "date": "2026-07-12",
+        "rating": 5,
+        "text": "A. This is a really fun game"
+      },
+      {
+        "date": "2026-07-08",
+        "rating": 5,
+        "text": "Shrek. Has Aura"
+      },
+      {
+        "date": "2026-06-16",
+        "rating": 5,
+        "text": "Cakeman2688. This game is phenomenal I love it is so fun I’ve had no lags great quality"
+      },
+      {
+        "date": "2026-06-01",
+        "rating": 5,
+        "text": "Idea for a new update(pls add). I love the game and the music is so calming, but one question. Can you make it so that you can view other peoples planets, it would be awesome. But other than that the game is bussin’. 1/6/26"
+      },
+      {
+        "date": "2026-06-01",
+        "rating": 5,
+        "text": "GAME. This game is mad tuff"
+      },
+      {
+        "date": "2026-05-25",
+        "rating": 4,
+        "text": "Pls make in ad free. It’s fun but ima give it 4 stars we need no ads!"
+      },
+      {
+        "date": "2026-05-25",
+        "rating": 5,
+        "text": "Nickname. There’s no ads. It’s for free,and fun"
+      },
+      {
+        "date": "2026-05-21",
+        "rating": 5,
+        "text": "Really relaxing game. This game is so relaxing and simple. I love how the way u just click a plant and destroy what lol and I love how it grows like little island on the water this game is definitely a 5 star game!"
+      },
+      {
+        "date": "2026-05-09",
+        "rating": 5,
+        "text": "Best game ever!!. It is super fun and there isn't a lot of ads and it has offline earnings!!!!!"
+      },
+      {
+        "date": "2026-05-08",
+        "rating": 5,
+        "text": "Gus. Ver gud"
+      },
+      {
+        "date": "2026-05-02",
+        "rating": 5,
+        "text": "Cookies. It’s just satisfying to watch your income grow so fast and another good part is,well it’s the best part because……………….NO ADDS!NOT A SINGLE ONE! Another great part is the amount of things you need to focus on and in general,I recommend this game \n                  10/10 stars.        :)"
+      },
+      {
+        "date": "2026-04-22",
+        "rating": 5,
+        "text": "Fun game. 👌🏻👌🏻👌🏻👌🏻👌🏻"
+      },
+      {
+        "date": "2026-04-21",
+        "rating": 5,
+        "text": "Dan. Excellent game"
+      },
+      {
+        "date": "2026-04-10",
+        "rating": 5,
+        "text": "I love this games so much!!!!!. I am a millionaire that I have to buy anything I can. You know why? Cause I’m a millionaire."
+      },
+      {
+        "date": "2026-03-30",
+        "rating": 4,
+        "text": "Su. Eyshusuhshsujsusuwuuwushdhd"
+      },
+      {
+        "date": "2026-03-29",
+        "rating": 5,
+        "text": "Fun game. The game is super fun for long car rides and it’s perfect for me caz I,m a soccer player"
+      },
+      {
+        "date": "2026-03-20",
+        "rating": 5,
+        "text": "Fun. I played this game 2 years ago and just remembered it today and I’m reinstalling it because it’s fun"
+      },
+      {
+        "date": "2026-03-16",
+        "rating": 5,
+        "text": "This is such a good game. Love you so much it’s so fun like you have to download it. The ad is actually a real and there’s barely any ads."
+      },
+      {
+        "date": "2026-03-12",
+        "rating": 5,
+        "text": "So good I love it. The greatest game I love it because it helps me with my anxiety"
+      },
+      {
+        "date": "2026-03-09",
+        "rating": 4,
+        "text": "Elijah. Really really relaxing"
+      },
+      {
+        "date": "2026-03-08",
+        "rating": 5,
+        "text": "Love the game, just 1 problem. The game in general is really fun, the 3d graphics, and other planets, the only problem there is and its a bit annoying is that, sometimes when im just clicking the planet there’s this hot air balloon that gives you a bunch of clicks for watching an ad, and most of the time i just want to click the planet and it comes up and i keep accidentally clicking on it, giving"
+      },
+      {
+        "date": "2026-03-07",
+        "rating": 5,
+        "text": "Best. Love THIS GAME so good"
+      },
+      {
+        "date": "2026-03-02",
+        "rating": 5,
+        "text": "It’s amazing. I would rate it a SIX star if I could. I’ve been playing for five mins and I’m in the top 55%😀\nIt’s a good game keep making stuff like this👍👍👍👍"
+      },
+      {
+        "date": "2026-03-01",
+        "rating": 5,
+        "text": "Ryan. It’s to fun because you can get multiplier and you can get upgraded and there is a lot of fun."
+      },
+      {
+        "date": "2026-02-28",
+        "rating": 4,
+        "text": "Complete meh🫤. It was the highest top 500 people that they reached by prestige."
+      },
+      {
+        "date": "2026-02-20",
+        "rating": 5,
+        "text": "BEST CLICKER EVER. Really enjoyed this one. I played for five minutes and am already in the top 75% 😁😁 not a lot of adds either get it now or guilt will haunt your future"
+      },
+      {
+        "date": "2026-02-19",
+        "rating": 4,
+        "text": "The music is a little depressing. A bit depressing"
+      },
+      {
+        "date": "2026-02-15",
+        "rating": 5,
+        "text": "Best. I like the illions like decillions and zs"
+      }
+    ]
+  },
+  {
+    "id": 1279295922,
+    "name": "Premom-Ovulation Tracker, PCOS",
+    "seller": "Easy Healthcare Corporation",
+    "genre": "Health & Fitness",
+    "release_date": "2017-10-13",
+    "ratings_us": 60225,
+    "avg_rating": 4.78,
+    "ratings_per_day": 18.33,
+    "reviews_30d": 100,
+    "reviews_prev_30d": 35,
+    "developer_app_count": 1,
+    "tracking_label": false,
+    "price": 0.0,
+    "url": "https://apps.apple.com/us/app/premom-ovulation-tracker-pcos/id1279295922",
+    "matched_keywords": [],
+    "description": "Join over 1.5 million women who have gotten pregnant while using Premom, your all-in-one period tracker and ovulation app.*\n\nHow does Premom accurately track my ovulation?\nDeveloped by the trusted Easy@Home brand, Premom’s smart algorithms analyze your cycle and ovulation tests to predict your fertile window with precision.\n\nHow can Premom support my TTC journey?\nWith FastPass™ to Pregnancy, get expert guidance and personalized education designed to help you conceive faster. Whether you’re tracking your period or trying to conceive, Premom provides the tools—like our digital ovulation test reader and automatic basal body temperature (BBT) charting—to remove the guesswork from your fertility journey.\n\nWhy is my menstrual cycle irregular and what do these symptoms mean for my fertility? Take a Self-Assessment to explore your cycle patterns and get tips to support your cycle health and chances of getting pregnant.\n\nI have PCOS, how can I find my fertile window?\nPremom’s PCOS AI interprets BBT and OPK trends to spot fertile signs, while our specialized nutrition plan supports your metabolic health.\n\nBecause it takes two, invite your partner to Predad™. Link their account to see your cycle or pregnancy updates, receive fertility insights, and get key ovulation reminders.\n\nUpgrade to Premom Premium for advanced cycle reports, personalized content, enhanced pregnancy tracking, and webinars with fertility experts. Premium members saw pregnancy rates up to 229% higher than non-members",
+    "reviews": [
+      {
+        "date": "2026-10-08",
+        "rating": 1,
+        "text": "New update is terrible. Super frustrated by the paywalls of the new update. Features that were previously free are now part of the paid subscription. I’ve been ttc for over a year and been enjoying this app for keeping track of my records. The history of charts is no longer available. Reached out on their app as they suggested and they just suggested paying for the subscription. Will be looking to"
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 1,
+        "text": "Boo!. Why did you lock down previous cycles in the new update? This “feature” used to be included in the base version of the app and is the WHOLE point of the app: tracking cycles. Way to piss off women who are trying to conceive and make their lives more difficult. This app no longer has a use to me. You need to revert this change."
+      },
+      {
+        "date": "2026-10-06",
+        "rating": 2,
+        "text": "Use to love Premom. Used to love this app. Great for LH tracking and fertility feedback. \n\nHowever, for the pregnancy section a paywall was added for weekly pregnancy updates September 2026, that used to be free. I had to switch apps mid pregnancy and find another app that would offer the updates for free. I suggest at least adding an option to watch ads to access this info. I can’t afford to pay "
+      },
+      {
+        "date": "2026-10-05",
+        "rating": 1,
+        "text": "Predatory practice. This app will not let you access the previous months cycle data unless you unlock/upgrade for a fee. It was 5/5 till they recently made this change, I will be deleting. Was good while it lasted."
+      },
+      {
+        "date": "2026-10-04",
+        "rating": 2,
+        "text": "Paywalled info and date without notice. The latest update now blocks me from the weekly information my husband and I looked forward to learning about our baby. This used to be with the free account and no information was shared to users prior to the update. It’s disappointing that they’ve now blocked all of the nice free features and are requiring people to pay."
+      },
+      {
+        "date": "2026-10-03",
+        "rating": 1,
+        "text": "Horrible. I used premom when I was trying to conceive all the way up to my 8th month of pregnancy, and then all of a sudden they paywalled everything including your previous data you uploaded. They want to make you pay to even see the monthly baby updates for each week which used to just be free. Seems predatory and like they try to bully you into paying for features which were free before this es"
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Unusable. The app is practically unusable now that everything is locked behind a paywall. The interface is outdated and not intuitive, which was fine when the app was still usable with the free version. It does not make sense to pay for this app, there are much nicer ones out there that are free to use."
+      },
+      {
+        "date": "2026-10-02",
+        "rating": 1,
+        "text": "Was extremely happy but now it’s not worth it. I have been using this to track my cycles and was finally starting to see trends that were enlightening. Now it’s all blocked and I wasn’t able to save anything. This is extremely frustrating as this last year was spent trying to build a picture of my fertility."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Much better apps out there. Everything is a paywall. There is really no value here. There are apps that give you much better expectations of week to week pregnancy updates. \n\nThe articles are super generic categories you can google. \n\nDon’t waste your time or money. What to expect is a much better app with better content."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Money Grab update. The new update is a complete money grab at moms who want simple info and facts.. I’ve used this app through my whole pregnancy as fun little check ins to\nsee how big my baby is and fun little things i can share with others about her growth. I shouldn’t have to pay for something i’ve had access to this entire time."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Paywall to see my information. This app was so good and now they’re just greedy for asking us to pay to see our information. What’s wrong with this app."
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Switch and bait. Before their latest update, they asked me to take an optional survey to see how I prefer to navigate a new layout. When I downloaded the new update, I did see layout changes but they also decided to, without warning, put all our histories (past cycles) behind a paywall. That is disgusting and betraying behavior as I am preparing for my first rep endo visit. I will no longer be usi"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "Paywall. I have been TTC and consistently tracking my data in this app for a year. I have a doctor’s appointment next week and was ready to bring a full year of data with me, only to suddenly find that all of my previously recorded data is now locked behind a paywall with no warning.\n\nIt’s incredibly frustrating and disappointing to trust an app with a year’s worth of important information, only t"
+      },
+      {
+        "date": "2026-10-01",
+        "rating": 1,
+        "text": "It used to be great. Switched from Flo to Premom within the past 2 years after Flo got paywall greedy. Premom WAS great. The free version let me see my previous months charts, which has helped a lot with tracking my cycle. Now all of a sudden its all behind a paywall. Literally everything but the current cycles logs. How does this help? Disappointed. Will now be moving on to another app to hopeful"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Paywall Greed. I have really enjoyed the weekly tips as I have progressed through my pregnancy. Honestly, it was the only reason I kept the app as everything else is locked behind a paywall. Now with the latest update, even just reading the weekly tips is paywalled. So unless you want to shell out the money for features that are free on other apps, there is no reason to use Premom anymore.\nExtreme"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Removed all data without notice. Good app until without warning blocked all previous data without warning. The only way to accede MY data is to pay now. Seems very predatory."
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 1,
+        "text": "Money Suckers. Learned a lot about my cycle from this app HOWEVER now they want me to subscribe to get access to simple things that haven’t required a subscription the last year of me using this app. I will NOT BE SUBSCRIBING!!!! Ridiculous"
+      },
+      {
+        "date": "2026-09-29",
+        "rating": 3,
+        "text": "I LOVED this app when it was free…. There have always been a few features that required premium which was fine with me. But reading the daily and weekly blurb updates was my favorite part of this app once I got pregnant. I suggested it to many friends and was a big fan of the ovulation tracker and “try to conceive” program. Unfortunately these are now pay features only. :( \nIm 37 weeks pregnant no"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 2,
+        "text": "Too much behind a paywall. I loved the Premom app when I was using it to track ovulation with LH testing. It helped me understand my cycle better. I was using it to track my pregnancy but now they’ve made it so things that used to be free (ie pregnancy week overview) are only part of a subscription. It was a fun way to know what was happening with my body and growing baby. But I can no longer acce"
+      },
+      {
+        "date": "2026-09-28",
+        "rating": 2,
+        "text": "Use to be better before the update!. Can no longer see weekly updates, have to upgrade/pay to see this info now. Other apps have it for free so I decided to delete the app, especially now that I’m 39 weeks and don’t really need it anymore. It was just fun to see the “size” of my baby and the facts each week."
+      },
+      {
+        "date": "2026-10-08",
+        "rating": 5,
+        "text": "Love. Five star"
+      },
+      {
+        "date": "2026-09-25",
+        "rating": 5,
+        "text": "Greet app. If you wanna know when exactly you will have your period get this app the best"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "App. Great app and helps me with my periods and keeping track of my body"
+      },
+      {
+        "date": "2026-09-24",
+        "rating": 5,
+        "text": "One day use. I’ll be so real, ordered strips on amazon last night, arrived this morning, 0.81 to 0.65 t/c ratio for two tests today only. this app is an absolute blessings for couples in the TTC stage!!"
+      },
+      {
+        "date": "2026-09-21",
+        "rating": 5,
+        "text": "Falta de menstruacion y avisar a la capital Haigh sin ser cierto. No hay reseña"
+      },
+      {
+        "date": "2026-09-19",
+        "rating": 5,
+        "text": "Tracking works so well!. We had been trying for 3-4 months before I bought the ovulation strips, and it only took two months of tracking ovulation to get pregnant! My cycles are insanely irregular (varying from 26 days to 37 days) so I just never had any idea when I was actually ovulating. The app works perfect to track and give tips and let you know hey it’s time to try! I do not think I could ha"
+      },
+      {
+        "date": "2026-09-18",
+        "rating": 5,
+        "text": "OUTSTANDING APP. From the start this app has been nothing but accurate and informative. I should have found it sooner."
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 5,
+        "text": "Premom user. Offers great free information without trying to take your money"
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 5,
+        "text": "Love this app for LH tracking!. This app is awesome! The first time I used it for LH tracking I got pregnant. It's so easy and straightforward for the little ovulation test strips."
+      },
+      {
+        "date": "2026-09-16",
+        "rating": 4,
+        "text": "Subscription plan is unfortunate. So I've been using this app to log LH test strips for a few months because I attempted to switch to FAM. Well I found out I'm pregnant last week and today I saw an email letting me know that there was a paywall change, being implemented immediately. According to the email \"past records remain in your account\" whatever that means. And I can't see my past cycles fro"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 5,
+        "text": "Premom. This app is awesome! It helped me keep track of my periods and eventually aiding in helping to get pregnant naturally. The test strips they recommend were a huge help in letting me know when I was ovulating or not. Thanks Premom for making my experience so smooth :) can’t wait to be a mom!"
+      },
+      {
+        "date": "2026-09-15",
+        "rating": 5,
+        "text": "Paywall. Blindsided by a paywall half way through tracking my pregnancy. Is it not enough that I purchased Premom ovulation strips while TTC? Basically, my data has been stolen. Shame on you, Premom!"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 4,
+        "text": "Great app. Great app but I gave it a 4 because the test gauge when you scan it can be very off sometimes"
+      },
+      {
+        "date": "2026-09-12",
+        "rating": 5,
+        "text": "Mrs. Akins. This tracker was on point"
+      },
+      {
+        "date": "2026-09-10",
+        "rating": 4,
+        "text": "Would be my favorite cycle tracking app, but…. This app is mostly great. I really appreciate how it’s not shoving monthly subscription down your face every time you open the app like Flo. My only complaint is that it doesn’t seem to me as accurate. I had a slight temp increase two days after my period ended and now it has my fertile window all messed up, so I’ll have no choice but to use Flo this "
+      },
+      {
+        "date": "2026-09-06",
+        "rating": 5,
+        "text": "Tubal reversal and Premom. Update: I’m 42 years old and using this App and strips, we now have a 1 year old little girl and our son is 4! Best advice I can give, find your LH PEAK and stay on top of it. 4 days before you ovulate try to make the time! It takes semen 4 days to travel. You want them in there before your egg drops 💚 Plan for success, if you nail your levels down and don’t have any rea"
+      },
+      {
+        "date": "2026-09-03",
+        "rating": 5,
+        "text": "Amazing app PCOS useful. This tracking app has been so useful for understanding my body for actually tracking my period days and pregnancy symptoms it was also somewhat accurate on my ovulation days but I have PCOS so it was difficult but the app helped me completely to the AI assistant to the test strips they recommend to when I actually got pregnant and then tracking my pregnancy we could by wee"
+      },
+      {
+        "date": "2026-09-03",
+        "rating": 5,
+        "text": "Helpful for ovulation tracking. Scan your pee stick and it’ll tell you a numerical value for ovulation tracking so you can find your LH peak. We use this for our first and now our second pregnancy."
+      },
+      {
+        "date": "2026-08-31",
+        "rating": 5,
+        "text": "Natural birth control. This has been a life savor in preventing pregnancy naturally. If done correctly it can be a very effective method. Thankful my sister told me about it!"
+      },
+      {
+        "date": "2026-08-28",
+        "rating": 5,
+        "text": "Best Free Tracker App. I love that you can use it for so many different purposes.  I originally downloaded it while TTC but kept it and the last few years the updates have allowed you to enter even more specific information.  There’s so many unique features that most apps require a paid subscription to access.  This one is definitely the best one I’ve used, by-far!"
+      }
+    ]
+  }
+]

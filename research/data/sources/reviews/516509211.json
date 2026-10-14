@@ -1,0 +1,1407 @@
+{
+  "app": "mySugr - Diabetes Tracker Log",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T08:58:44-07:00",
+      "rating": 5,
+      "title": "The Best Diabetes Tracker Log",
+      "text": "I’m so glad I decided to use this diabetes tracker to monitor my blood sugar. I love the different details you can log that’s important to know your daily blood sugar. This app is a must to have for your health monitoring of your blood sugar.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-10T07:18:06-07:00",
+      "rating": 5,
+      "title": "Great job",
+      "text": "It works like a charm, even if my phone isn’t right there it still works",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-10T03:42:48-07:00",
+      "rating": 4,
+      "title": "Sugar levels",
+      "text": "I like this tracker, the fact that it puts my numbers on my phone. I just don’t understand the whole concept of the DMI as it relate to A1c.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-09T12:27:07-07:00",
+      "rating": 2,
+      "title": "It’s a great app, but",
+      "text": "Only gave it two stars because it should with today’s technology pair with a blood pressure cup. It’s time guys get on it. Technologies has been there for years. You’re just dropping the ball.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-09T06:15:15-07:00",
+      "rating": 5,
+      "title": "Quick and easy",
+      "text": "Mainly been using it in am to see my 1st morning blood sugars. It is interesting to see when I eat more carbs the night before how it increases. I like the noise it makes and how easy it is to sync to my phone. The lancet I have it set higher then recommended but is easy to use.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-08T19:55:36-07:00",
+      "rating": 2,
+      "title": "Motto for update: We try to get it right!",
+      "text": "Come on guys. Main function of app is to record each reading and do an average for the day. Not to record on the line graph. Then have the user kill the app and restart it so the info shows up.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-08T17:26:25-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Works great with my Accu Chek. Can edit and add all kinds of information to each reading if you want.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-08T03:14:08-07:00",
+      "rating": 5,
+      "title": "Best App ever❣️❣️",
+      "text": "Love this app ❣️\nEasy input all my BloodSugar , etc..\nWishing they connect with “My Heart BP” app \nWould give it to \n10 stars 🌟",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-07T19:16:56-07:00",
+      "rating": 2,
+      "title": "Lacking and very big way",
+      "text": "It used to give me April when it was September now it gives me many of 2028. It’s currently October of 26.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-07T15:25:28-07:00",
+      "rating": 5,
+      "title": "Really good",
+      "text": "I use this to measure my blood sugar number of times a day. It is always consistently easy to use and works well.\n\nI recommend it.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-07T11:11:04-07:00",
+      "rating": 1,
+      "title": "Good for Reporting ONLY — Does NOT Play Well With Other Apps",
+      "text": "MySugr writes a nice report you can email your endocrinologist to see what’s necessary to set your insulin. It refuses to take data from other (“competitor”?) Apps or from Apple Health if Apple Health got it from a “competitor”App. Its explanation conflates “dietary food weight” with “body weight”. Apple Health stores these metrics in entirely separate, strictly partitioned data silos. Blocking basic BMI data under false excuse of food measurement error is nonsense and  causes consumers to have to enter the same data multiple times in the easiest way possible. Apple Health does an EXCELLENT job of capturing everything in all the different ways App builders do it and make it readily available and medically appropriate. MySugr should fix its read permissions and quit playing games.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-07T05:59:46-07:00",
+      "rating": 5,
+      "title": "Diabetes Data",
+      "text": "Great App!! Keeps me on track. Highly recommended",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-07T05:51:35-07:00",
+      "rating": 5,
+      "title": "Easy Way to Log",
+      "text": "This is a very easy way to log your numbers each and every day and more than once without having to have Payne and Paper in Hand.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-06T20:23:07-07:00",
+      "rating": 5,
+      "title": "Wonderful free app",
+      "text": "If you need real numbers to help you stabilise yourself",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-06T14:54:06-07:00",
+      "rating": 5,
+      "title": "Works great!",
+      "text": "The app was easy to install and set up. It’s  easy to navigate through and log your daily information.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-06T14:04:38-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "10 of 10",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-06T05:35:06-07:00",
+      "rating": 5,
+      "title": "Cachie",
+      "text": "Love sugar app and definitely I would recommend it",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-06T05:14:31-07:00",
+      "rating": 5,
+      "title": "Lewis",
+      "text": "Awesome Data",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-06T02:59:46-07:00",
+      "rating": 5,
+      "title": "New To Diabetes",
+      "text": "Everything is going good. Getting ready to see my dietitian. Hoping to learn more on how to eat the right foods. Still getting too much carbs. \nI know all of this goes together with diabetes. \nI feel like I am losing weight the right way now too. I’m happy with accu-chek.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-06T02:24:56-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Good app, great way to track results and extra info. Great app! Good to interface with other apps. Easy to use!",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-06T01:50:03-07:00",
+      "rating": 5,
+      "title": "Works perfectly!",
+      "text": "I’m glad I bought this unit, I couldn’t be happier.☺️",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-06T01:17:05-07:00",
+      "rating": 1,
+      "title": "Not Too Sweet",
+      "text": "This app is not consistent with your data and how it displays it.  The DMI indicator disappears constantly.  Transferred data does not always work FYI - Not made in the USA.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-06T01:08:18-07:00",
+      "rating": 5,
+      "title": "Patient",
+      "text": "Great device fast and quick I recommended to anybody",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-05T20:43:39-07:00",
+      "rating": 2,
+      "title": "Previously free features",
+      "text": "They recently added a monthly/annual subscription fee to access previously free tags and features.",
+      "version": "3.148.0"
+    },
+    {
+      "date": "2026-10-05T16:09:34-07:00",
+      "rating": 5,
+      "title": "I love this meter",
+      "text": "Works great and accurate.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-05T02:59:13-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "I like it",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T18:44:46-07:00",
+      "rating": 5,
+      "title": "great program",
+      "text": "nice program",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T16:22:49-07:00",
+      "rating": 5,
+      "title": "Love this meter and App",
+      "text": "Love that it automatically adds reading to app. I can add meds,carbs meals ect.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T16:02:39-07:00",
+      "rating": 5,
+      "title": "GS",
+      "text": "Well I had this Tracker since I’ve being diagnosed with Diabetes and I updated mySugr pro app and now it works very well thanks a lot! :-)",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T08:40:09-07:00",
+      "rating": 5,
+      "title": "Easy Testing Kit",
+      "text": "It's very easy to use and the app is very user friendly. I love using this testing kit.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T07:16:40-07:00",
+      "rating": 5,
+      "title": "Great app. Lots of options.",
+      "text": "This app is easy to use and integrate with the most devices and tools. It is great to see your trends, overtime and the progress you’re making.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T03:34:56-07:00",
+      "rating": 3,
+      "title": "Works okay",
+      "text": "Sometimes I have to delete then re-sync my meter to my phone but overall works okay",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-04T02:26:22-07:00",
+      "rating": 5,
+      "title": "Boss",
+      "text": "5",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-03T20:13:47-07:00",
+      "rating": 5,
+      "title": "Mi Glucosa",
+      "text": "Gracias excelentes resultados de mis niveles de glucosa!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-03T12:55:27-07:00",
+      "rating": 5,
+      "title": "Like the quickness",
+      "text": "I can track my glucose quickly",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-03T05:34:54-07:00",
+      "rating": 5,
+      "title": "Mathews2",
+      "text": "Great Record",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-03T04:12:38-07:00",
+      "rating": 5,
+      "title": "My sugar",
+      "text": "Is very nice",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-02T15:23:42-07:00",
+      "rating": 5,
+      "title": "Great app for tracking and managing your health",
+      "text": "I’ve been using the MySugr app to document my readings and keep track of my progress, and it has been very helpful. I really like how easy it is to use, and the app has plenty of options and features that make keeping up with my information more convenient—and even a little fun.\n\nAnother thing I really appreciate is how well it connects with the equipment I currently use to take my readings. The readings can sync directly with the app, making the whole process feel effortless and saving me from having to enter everything manually.\n\nOverall, MySugr has made it much easier for me to stay organized, monitor my progress, and keep a better record of my health information. I’m very happy with the app and would definitely recommend it to anyone looking for an easy and convenient way to keep track of their readings.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-02T07:36:58-07:00",
+      "rating": 5,
+      "title": "Mejora",
+      "text": "Lo único q le falta a la aplicación para hacerla más interesante es que evalúe un poco la comida a través de la foto y más o menos calcule los carbohidratos",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-02T07:18:56-07:00",
+      "rating": 5,
+      "title": "Bloods at fasting",
+      "text": "It works great and I can show my doctor my progress",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-01T20:47:44-07:00",
+      "rating": 1,
+      "title": "Esconden que hay que pagar para usar la app",
+      "text": "No es honesto que uno compre el medidor con la información que tiene una app para ver los informes y su glicemia y al tiempo lo quitan y hay que pagar",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-01T20:18:13-07:00",
+      "rating": 4,
+      "title": "Links nicely",
+      "text": "Links nicely with phone and tester. Don’t love the way you record details.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-01T15:01:17-07:00",
+      "rating": 5,
+      "title": "Pre-Diabetic",
+      "text": "I really do like this app. It’s helped me keep track of what I put into my body.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-01T13:33:38-07:00",
+      "rating": 5,
+      "title": "My review",
+      "text": "Five Stars",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-10-01T08:40:07-07:00",
+      "rating": 5,
+      "title": "Mike",
+      "text": "The app helps me with my sugar, and was told to my sugar in the morning & the new meds are lowering my sugar to be under control.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T22:05:29-07:00",
+      "rating": 5,
+      "title": "Check it out",
+      "text": "Sometimes it’s doesn’t upload the results and if by accident you delete some food app it deleted even the glucose test result at the same time..no apps like wake up, first thing in the morning, coffee butter",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T19:27:16-07:00",
+      "rating": 5,
+      "title": "Great product",
+      "text": "Gives insight to me for making me better control of my diabetes",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T19:20:15-07:00",
+      "rating": 5,
+      "title": "This is a great app to track your progress",
+      "text": "This app has helped me track my progress and make sure I know how different meals affect my blood. Real easy to use and wireless!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T14:49:27-07:00",
+      "rating": 5,
+      "title": "Wacky Numbers",
+      "text": "Has totally changed my attitude towards taking my blood sugar.   Plus it’s a good way to keep you on track!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T13:31:27-07:00",
+      "rating": 5,
+      "title": "It’s good",
+      "text": "It’s bettered",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T09:08:59-07:00",
+      "rating": 5,
+      "title": "Me encanta el app",
+      "text": "Me ayuda mucho",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-30T04:21:22-07:00",
+      "rating": 5,
+      "title": "Sugary",
+      "text": "Great keeps me disiplined",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T22:32:20-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Easy to use.  Good tracking tools.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T18:36:01-07:00",
+      "rating": 5,
+      "title": "Duro  y con todo",
+      "text": "Si se puede",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T15:53:36-07:00",
+      "rating": 5,
+      "title": "My sugar check",
+      "text": "So easy to use and I love that it lets me journal my meal intake",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T11:00:01-07:00",
+      "rating": 1,
+      "title": "Not intuitive, disconnects from bluetooth all the time",
+      "text": "I wish I could change to another app",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T10:34:06-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "The meter works great and the App is fantastic. It really helps me keep track of my glucose",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T10:10:39-07:00",
+      "rating": 4,
+      "title": "Fun app!",
+      "text": "I like the app and the things it tracks, but I only gave it 4 stars as it could use more tags and I wish it could also track other meds.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T09:23:44-07:00",
+      "rating": 5,
+      "title": "Pretty cool app",
+      "text": "This app is better than the freestyle app I used a few years ago. I love how it also takes my Bp reading in the app so it’s all in one spot.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T08:41:47-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "I love this app. It's easy to get the data out to my doctor and dietician.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T05:10:36-07:00",
+      "rating": 4,
+      "title": "Blood sugar levels",
+      "text": "Having to enter reading manually… it was automatically done when I first started… why?",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-29T04:48:27-07:00",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "MySugar is well suited for A1C monitoring. It allows manual data entry from different devices which create more data for the estimate. However.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T09:35:28-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Es muy buena",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T09:11:17-07:00",
+      "rating": 4,
+      "title": "Blood",
+      "text": "Test strips",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T08:07:24-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This has been a great app to monitor my BS.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T06:24:39-07:00",
+      "rating": 5,
+      "title": "Nivel de glucemia",
+      "text": "Gracias por esta app me ayuda mucho",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T06:04:17-07:00",
+      "rating": 5,
+      "title": "Excellent Reports",
+      "text": "I like the real time updates and reports.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T05:48:55-07:00",
+      "rating": 5,
+      "title": "My Sugar App",
+      "text": "I like to use this app because it helps me to keep a good record of my readings. I am glad I downloaded this app.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T04:51:43-07:00",
+      "rating": 5,
+      "title": "Trend line / chart included",
+      "text": "A quick and easy way to have an idea of where you are with your sugar levels!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T04:50:19-07:00",
+      "rating": 5,
+      "title": "Easy & Accurate",
+      "text": "Quality equipment that is easy to use.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T04:17:58-07:00",
+      "rating": 5,
+      "title": "Like MySugr",
+      "text": "I like this app and find it very helpful.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-28T04:17:41-07:00",
+      "rating": 5,
+      "title": "Test",
+      "text": "I’m very impressed by the quality of this blood test machine",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T21:46:54-07:00",
+      "rating": 5,
+      "title": "Thankful",
+      "text": "The app is great",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T12:16:52-07:00",
+      "rating": 5,
+      "title": "👍",
+      "text": "Excelente aplicación",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T12:06:39-07:00",
+      "rating": 5,
+      "title": "Satisfied with mySugr app",
+      "text": "Happy",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T08:00:36-07:00",
+      "rating": 5,
+      "title": "MySugr Success",
+      "text": "After struggling to keep up with my diabetes and blood sugars for years, this app has helped me become more responsible with my testing and diet. When I started keeping track with MySugr, my results were regularly near 300 fasting sugars. Now, I’m waking up with  sugars in the low 100’s. \nI recommend this app to anyone seriously wanting to keep track of their health.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T07:15:01-07:00",
+      "rating": 5,
+      "title": "The Diabetes Tracker",
+      "text": "Since I started using this app and meter my A1C had dropped from \n7.7 to 5.9 its absolutely amazing and the best way to track you can enter your insulin intake and the food you consume and exercise time and walking steps and a whole lot more I highly recommend it this app needs a tracker for protein and fat and sugar but all in all it’s the best and more information space for entering your information",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T06:25:45-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "The app is really making me watch what I eat, and helping me keep my sugar levels down. And it’s very easy to keep track of everything",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-27T05:11:26-07:00",
+      "rating": 5,
+      "title": "Diabetes app",
+      "text": "It always works.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-26T11:29:04-07:00",
+      "rating": 4,
+      "title": "Rating",
+      "text": "I usually don’t give anyone a 5-star as there is always room for improvement (3/28/2026)",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-26T10:26:46-07:00",
+      "rating": 5,
+      "title": "MySugr",
+      "text": "It is easy to use and quick",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-26T06:15:22-07:00",
+      "rating": 5,
+      "title": "Dad",
+      "text": "Easy to use!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-26T04:51:12-07:00",
+      "rating": 5,
+      "title": "Great Way to Monitor Your Blood Sugar",
+      "text": "Thus far I found this app to be very useful in tracking my daily blood sugar status.  With the various tracking enhancements, it provides an initiative to be diligent in your daily monitoring.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-26T04:10:55-07:00",
+      "rating": 3,
+      "title": "Great but missing trend charts",
+      "text": "It’s a fine app there’s no way to capture and view a line chart of trends.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T20:20:46-07:00",
+      "rating": 5,
+      "title": "Accu Check Guide",
+      "text": "It is a great glucometer to keep washing the sugar levels",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T20:14:53-07:00",
+      "rating": 5,
+      "title": "My sugar",
+      "text": "Very intelligent way of tracking sugar",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T18:14:20-07:00",
+      "rating": 4,
+      "title": "Lovin me some my sugar!",
+      "text": "Since my current insurance doesn’t cover my G7s, this working with my Relion monitor is awesome!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T16:17:11-07:00",
+      "rating": 5,
+      "title": "Five Stars",
+      "text": "mySugr-is a wonderful way to keep track of Diabetes blood sugar levels! Thank you for making it so easy to keep\n a record of my progress.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T10:07:47-07:00",
+      "rating": 5,
+      "title": "Diario de mi azúcar",
+      "text": "MySugr me ha sido de mucha ayuda para controlar mi azúcar.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-25T08:18:34-07:00",
+      "rating": 1,
+      "title": "No longer works🤬🤬🤬🤬",
+      "text": "I got a new phone and the new phone can’t open the app and there’s no way to get a verification email because they never send it🤬 spoke to customer service who could barely speak English and didn’t help at all🤬🤬🤬",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-24T11:01:20-07:00",
+      "rating": 2,
+      "title": "Used to work flawlessly",
+      "text": "Approximately 5 months ago, this app worked flawlessly. Now it doesn’t. This because the app no longer connects with my meter. Have emailed back and forth with Support - even sent them a screen recording of the issue, but their instructions are always the same - and never works. I believe that this issue has to do with iPhone’s iOS. I have an older version of iOS and refuse to update to latest version (for my own personal reasons). \nHowever, there are millions of folks who have older devices/models and CANNOT update to latest iOS. \nMy complaint is that I feel the use of this app should not be contingent on its operation due to iOS versions.",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-23T17:36:55-07:00",
+      "rating": 4,
+      "title": "My sugar",
+      "text": "Great app still learning but it easy to use so far",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-23T16:36:54-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "As someone going with MDI and no CGM at the moment- this app is phenomenal at keeping track of all my logs for FREE :) its adorable, thorough, and easy to use. Only wish there was a dark mode :(",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-23T15:41:37-07:00",
+      "rating": 5,
+      "title": "Dave’s review",
+      "text": "Works like a champ!!!",
+      "version": "3.147.1"
+    },
+    {
+      "date": "2026-09-22T16:41:42-07:00",
+      "rating": 4,
+      "title": "Gotta love it!",
+      "text": "Syncs easily with Apple Health app.",
+      "version": "3.147.0"
+    },
+    {
+      "date": "2026-09-22T07:50:11-07:00",
+      "rating": 5,
+      "title": "Smart & Simple",
+      "text": "Best way to keep track of my sugar levels and log results for my doctor as a reference directly to my phone.",
+      "version": "3.147.0"
+    },
+    {
+      "date": "2026-09-21T22:40:46-07:00",
+      "rating": 5,
+      "title": "Must have",
+      "text": "Helps me track my daily sugar levels. Invaluable.",
+      "version": "3.147.0"
+    },
+    {
+      "date": "2026-09-21T14:29:22-07:00",
+      "rating": 5,
+      "title": "Great easy to use",
+      "text": "Very easy to set up and input goes perfect every time",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-21T09:26:56-07:00",
+      "rating": 5,
+      "title": "The BG Tracker",
+      "text": "Great app to keep track of your sugars when you’re not eligible for a CGM.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-21T08:23:46-07:00",
+      "rating": 5,
+      "title": "Easily to use",
+      "text": "Much easier to use than the bgm I used before.  Allows more input from the user.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-21T06:25:30-07:00",
+      "rating": 5,
+      "title": "Lots of features in one organized space",
+      "text": "I enjoy the speed y logging of date, time ,location meal type and composition— with notes for exercise and steps.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-21T04:53:04-07:00",
+      "rating": 5,
+      "title": "Current rating and feedback",
+      "text": "I have really liked the app and Bluetooth auto sync.\n\n1) I wish the Notes field would be a default and I wouldn’t have to add it continuously.",
+      "version": "3.147.0"
+    },
+    {
+      "date": "2026-09-21T04:02:00-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "I truly love this app a lot. I love the way it breaks down everything like meals, meals description, pills, steps….etc. It truly makes keeping track of my sugar so easy. I have and will continue to recommend this glucose monitor and app to others.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-20T11:12:48-07:00",
+      "rating": 2,
+      "title": "Update professionalism",
+      "text": "I wish the team would note what updates were completed, features added and or improved. The updates text given is not professional and a bit immature.",
+      "version": "3.147.0"
+    },
+    {
+      "date": "2026-09-20T09:04:26-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "I’ve used various glucose tracking over the years. Once I downloaded this one I deleted the others. It is perfect for me and has all the fields I need. I can write notes to my doctor in real time that will appear on a report.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-20T07:19:43-07:00",
+      "rating": 4,
+      "title": "Does the job",
+      "text": "I wish the graphs were more flexible, but at least the Apple Health integration gives me another way to look",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-20T06:03:16-07:00",
+      "rating": 4,
+      "title": "New user",
+      "text": "Learning to use the app and learning about the disease goes hand in hand for me at this point. I’ve found it fairly easy to maneuver. Need to learn more about results and carbs.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-20T03:48:28-07:00",
+      "rating": 4,
+      "title": "Apple Watch",
+      "text": "Like the app. However would like to be able to pull up current reading on Apple Watch.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-19T23:19:48-07:00",
+      "rating": 5,
+      "title": "Blood sugar tracker app",
+      "text": "The best blood suga tracker app…",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-19T20:15:16-07:00",
+      "rating": 5,
+      "title": "Perfect Glucose tracker",
+      "text": "I’ve been diabetic for almost 30 years and have been tracking my numbers via old school paper notebook method. This app is super convenient and easy to use. Save a tree and use this app !!!!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-19T13:50:53-07:00",
+      "rating": 5,
+      "title": "Diabetes",
+      "text": "Great Awesome Application",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-19T07:44:05-07:00",
+      "rating": 5,
+      "title": "VA725",
+      "text": "Great once you get on to the routine.\nI don’t know why the A1C or DMI won’t print on the report!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-18T11:27:55-07:00",
+      "rating": 5,
+      "title": "Great way to log",
+      "text": "I enjoy the feedback from the sounds to the messages for holidays it’s a nice app to make something seem like it’s a positive experience I appreciate all the work put into it and look forward to using it each time! Thank you to all who work to make it!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-18T09:03:34-07:00",
+      "rating": 5,
+      "title": "Log",
+      "text": "Very good",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-18T04:43:02-07:00",
+      "rating": 5,
+      "title": "Still learning",
+      "text": "I’m new to this meter, so I’m still learning my way around. Loving it more and more!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T18:25:46-07:00",
+      "rating": 4,
+      "title": "Doesn’t calculate my A1C",
+      "text": "Almost everything works good. But most important thing not. For some reason stopped calculating my A1C.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T17:32:13-07:00",
+      "rating": 4,
+      "title": "Keeping me on my toes!!!",
+      "text": "This app has gotten me off to a great start. Will add more info to increase my benefits.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T13:04:47-07:00",
+      "rating": 4,
+      "title": "Love it.",
+      "text": "Wish I could add food better. Maybe by barcode or more options. Not sure how to suggest something better. But I can’t add meals and get an overall better view. - if we could link this app to a food journal maybe?",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T07:33:17-07:00",
+      "rating": 5,
+      "title": "Proud owner",
+      "text": "Does great",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T07:16:23-07:00",
+      "rating": 4,
+      "title": "Works well",
+      "text": "Good system. Easy to track. I’m sure the paid features would improve many of the areas lacking but for basic tracking proposes it does what I need. Creates an easy enough to read print out of results to review with doc.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T04:50:33-07:00",
+      "rating": 5,
+      "title": "Taking sugar readings",
+      "text": "This system makes taking sugar level readings very easy.  When combined with the app, it will provide a reliable record to my health care provider.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-17T03:52:09-07:00",
+      "rating": 1,
+      "title": "Constant disconnects and data transfer failures",
+      "text": "The meter works but the blue tooth connection is sporadic at best and does not always transfer data. Having to constantly try to to get the Bluetooth to work is a real drag. They want to blame iOS but my other devices connect /disconnect without having these issues",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-16T15:50:44-07:00",
+      "rating": 5,
+      "title": "Good tracker",
+      "text": "Need a manual to learn how to enter information!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-16T13:42:25-07:00",
+      "rating": 5,
+      "title": "No way to Pairing my device without have Keypad to type in the code!",
+      "text": "Update: The tech department contact me right away after my first review! Now, it worked! I really like how efficient they are! Truly appreciate the team to help me to solve the problem!! So change to 5 stars!!\n\nWhen I’m trying to pairing the device, the app ask for a pairing code. There no way I can enter the code because the keypad is not popping out! Can you fix it please?",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-16T06:18:34-07:00",
+      "rating": 5,
+      "title": "Sugar",
+      "text": "Great",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-16T04:52:25-07:00",
+      "rating": 5,
+      "title": "One of the best",
+      "text": "My tracker log  really works for me. Help me to be able to manage my numbers better and easy to reflect back on past numbers. I would recommend this to anyone that needs help keeping track of their blood sugar.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-16T03:43:16-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Easy to use and monitor workouts too.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T18:56:39-07:00",
+      "rating": 5,
+      "title": "Rating",
+      "text": "Like this connection helps to follow count..",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T09:49:57-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "A1 set up",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T08:45:11-07:00",
+      "rating": 5,
+      "title": "Awesome app!",
+      "text": "I love how it connections to my blood sugar reader through Bluetooth!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T08:11:40-07:00",
+      "rating": 1,
+      "title": "Very Disappointed in “MySugr App”",
+      "text": "I received my device about 3 months ago, but cannot sign in to MySUGR app. I have called them at least six times. Each time they assure us that they will call and help me get signed on to MySUGR…. But that NEVER HAPPENS. I AM VERY DISSATISFIED AND DISAPPOINTED WITH THEM AND DO NOT RECOMMEND THEM.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T06:18:29-07:00",
+      "rating": 1,
+      "title": "Doesn’t record via blue tooth",
+      "text": "Doesn’t automatically record readings. It worked for a few days then stopped. I did troubleshooting and it didn’t help",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-15T04:53:43-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "I like this",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-14T16:10:16-07:00",
+      "rating": 5,
+      "title": "MySugar App",
+      "text": "One of the earliest devices and apps to navigate. Device tests the blood glucose levels and upon shutting down transfers that information to your phone for the app to store. In the app measurements are calculated and displayed in easy quick glance numbers that are simple as well as easy to understand. I recommend this to anyone who is tired of having to log results multiple times or is looking for an more simple way of doing things.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-14T14:40:26-07:00",
+      "rating": 5,
+      "title": "Quite reliable and useful",
+      "text": "Used it for several weeks..like the interface and it’s intuitive!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-14T12:29:47-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I am new to diabetes and took a chance on this app. I haven’t tried others yet but this was a great start in helping my health. I never imagined ‘this would happen to me, but it did. I’m glad I stumbled upon this app, it is user friendly and I plan to learn more to use it to help my health. ‘‘This can be a five star app soon!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-14T09:08:14-07:00",
+      "rating": 5,
+      "title": "Keeps me right",
+      "text": "I check to make sure my body is doing okay",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-14T04:53:24-07:00",
+      "rating": 1,
+      "title": "No way to add sugar score",
+      "text": "Need to enter sugar score",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-13T22:06:21-07:00",
+      "rating": 5,
+      "title": "Philo",
+      "text": "It is wonderful , easy and accurate",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-13T13:45:32-07:00",
+      "rating": 5,
+      "title": "Works Great",
+      "text": "I’ve been diabetic a long time and this app is the best",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-13T06:14:46-07:00",
+      "rating": 5,
+      "title": "GFB3 Sugar check",
+      "text": "I have always been high in my sugar test, this has given me insight as to how my body is preforming and checking if I’m a stage II diabetes",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-13T04:15:18-07:00",
+      "rating": 4,
+      "title": "Great app",
+      "text": "Started checking my blood sugar again so this app is aligned with my unit. It’s actually very detailed with a twist of whimsy via the interactive component. I like how it notes trends and has a very simple interface. I do wish I could add more than one detail at a time. I believe that would help me personally pin point some trends as to the weird highs and lows. Overall, easy to use, pulls info from my monitor, and it collects data noting trends.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-12T14:07:16-07:00",
+      "rating": 4,
+      "title": "Options lacking",
+      "text": "There are many times when the collection of emojis inadequately describe the moment of my glucose test. Having more options would be easier than adding notes.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-12T08:26:36-07:00",
+      "rating": 2,
+      "title": "D",
+      "text": "Had to quit using after couple of year. Concerned with how they shared my data with their partners.  Called & discussed but could not get assurance of the security of my data. Very disappointed after trusting them. Had pop-up that required me to share my information with their partners. Unacceptable.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-12T06:37:11-07:00",
+      "rating": 4,
+      "title": "Almost there",
+      "text": "Wish you had an option/icon for after workouts. Otherwise, love the app.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-12T06:03:16-07:00",
+      "rating": 5,
+      "title": "Excelente Aplicación",
+      "text": "La aplicación es fácil de usar y fácil de conectar al aparato de medir la azúcar",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-12T04:48:44-07:00",
+      "rating": 5,
+      "title": "Level going down",
+      "text": "I’m loving the meter. It helps me keep track of my numbers and food I’ve ate. It helps me to know what food spikes my levels up. Helping me stay on track.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T20:04:16-07:00",
+      "rating": 5,
+      "title": "Love this app!’",
+      "text": "Outstanding for tracking blood sugar! Helped me lower my numbers!!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T11:11:09-07:00",
+      "rating": 5,
+      "title": "Reliable and motivating app.",
+      "text": "And encourages me to document my information and to motivate me to keep up with entering  my information into the app. It would be nice if we can enter Coffee and another drinks that are not loaded with sugar and carbonation. I do like the app and it would be nice if I could also document my information on my  Apple Watch ultra two so when my phone is not handy, I can use my watch to input my information. Great app I am sure that they will continue to upgrade as time goes on.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T10:55:21-07:00",
+      "rating": 4,
+      "title": "MySugr app",
+      "text": "Wonder app. Use it daily. 2 things I wish it did. An option to manually enter the number or Import the number when I get it from my Libre 2.  App gives me a lot of places to record specifics but nowhere to just simply add a note to give myself more information. I will continue to use app. My doctor loves it and now tells me she recommends it to other patients.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T10:53:37-07:00",
+      "rating": 5,
+      "title": "Good Tracking Product",
+      "text": "As a Type 2 diabetic, I find this product invaluable in tracking my diabetes journey. The number of fields available, as well as its ability to import information from other products makes this product a very important diabetes tool.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T09:38:01-07:00",
+      "rating": 4,
+      "title": "Pretty good",
+      "text": "It works well enough, but it simply will not allow my phone to pair.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-11T02:57:41-07:00",
+      "rating": 5,
+      "title": "My glucose meter",
+      "text": "My meter keeps up with my blood glucose and I don’t have to write it down.  I can just go to app and see everything at a glance and print reports for my doctor  \n \nThis is the best meter that I have owned.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-10T17:08:14-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "I like this meter very much",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-10T05:46:50-07:00",
+      "rating": 5,
+      "title": "Great tool to track blood glucose levels.",
+      "text": "Still in the infancy stage of using the app. Can say, that so far I find the app to be extremely useful. Plenty of happens to make notes about type of food intake, exercise and mood. I have not been very compliant in taking care of my glucose levels but using the app as designed makes for poignant points of how I do or do not pay attention to my situation. Been using this app for a little over three months and it is awesome. Can even calculate your A1C using just three weeks of three times a day of blood glucose testing. Easy to read graphs for trends along with the impact of diet variations. This really is a indispensable tool for diabetics.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-10T04:13:20-07:00",
+      "rating": 3,
+      "title": "Just start",
+      "text": "I love the way it goes to my phone and registers it but it takes too long. It also does not give you a good graphic and how your glucose is going? For those of us who are just starting I think it needs to be a little bit better. The monster is cute and makes a sound, but there is no way to understand what the points are for what to do with the points it needs more clarification.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-09T09:24:28-07:00",
+      "rating": 5,
+      "title": "Records",
+      "text": "Works really well and keeps good accurate records to show my doctor",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-09T08:14:58-07:00",
+      "rating": 5,
+      "title": "Es muy útil, y facilita mis registros",
+      "text": "Me ayuda a fijar mis metas para mejorar mi salud",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-09T05:42:27-07:00",
+      "rating": 2,
+      "title": "Not the best app to track",
+      "text": "I can’t link my device to the app.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-09T05:10:38-07:00",
+      "rating": 5,
+      "title": "Diabetes",
+      "text": "Simple great device",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-08T16:19:30-07:00",
+      "rating": 5,
+      "title": "Bruce health",
+      "text": "I found this app to be very helpful and easy. It makes staying healthy fun. Great job everyone.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-08T05:16:07-07:00",
+      "rating": 5,
+      "title": "Love sugar app!",
+      "text": "I love My sugar app! Makes it so easy to keep track of my numbers.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-08T03:54:40-07:00",
+      "rating": 5,
+      "title": "Easy",
+      "text": "I check my blood three times a day and it’s so easy to monitor it with mySugr. It’s all recorded and I can actually let my Doctor know the numbers without a paper in front of me.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T21:31:18-07:00",
+      "rating": 5,
+      "title": "Outstanding",
+      "text": "I’ve been using mySugr for a while now, and it has truly transformed how I manage my diabetes. The app not only helps me track my blood sugar levels effectively, but it also provides invaluable insights into my health journey.\n\nOne of the standout features is the ability to log medications and see how they impact my sugar levels. It’s incredibly helpful to have a space for notes and tags, allowing me to track when I take my meds and observe their effects over time. This functionality has made it easy to identify patterns, especially when certain foods cause my sugars to spike.\n\nThe app’s intuitive design makes it simple to navigate through my data, and I love how it encourages me to make adjustments to my routine. Whether it’s modifying my diet or changing my medication times, I can see the direct impact on my blood sugar levels. \n\nOverall, mySugr has become an essential tool in my diabetes management toolkit, making it easier to stay on top of my health and make informed decisions. Highly recommend it to anyone looking to take control of their diabetes!",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-07T17:10:56-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Very nice free app.  Blood sugar automatically transfers from glucometer to app, and there is a place to add notes, blood pressure, and A1C level.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T13:37:32-07:00",
+      "rating": 5,
+      "title": "Great place to organize my health",
+      "text": "I can keep track of food and glucose levels as well as activity levels. It doesn’t make it easy to keep track of water, protein, or other things but overall it is very good. It connects to my tester too.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T08:28:52-07:00",
+      "rating": 5,
+      "title": "Diabetes Tracker Log",
+      "text": "Great product and easy to use.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T06:21:31-07:00",
+      "rating": 5,
+      "title": "Tracker",
+      "text": "Thanks, my to my sugar tracker. I’m doing very well managing my levels.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T05:36:13-07:00",
+      "rating": 5,
+      "title": "So cute!",
+      "text": "I was skeptical at first but after connecting the Bluetooth to the app logging my blood sugar is a breeze and the cut monster makes checking my blood sugar fun.  I highly recommend this for kids and kids at heart and also for those with ADHD who keeps forgetting or have a hard time logging in their blood sugar.  It also automatically monitors CGMs such as Dexcom and insulin.  Overall great app!",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T05:24:20-07:00",
+      "rating": 4,
+      "title": "Great Tool",
+      "text": "Great tool.  I wish it automatically connected to my Apple Health app.  I have to record my info in both apps.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-07T03:57:38-07:00",
+      "rating": 5,
+      "title": "Breakfast",
+      "text": "Awesome love this app. Great tracker keeping me in bounds! Thank you! Keep me on track!",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-06T12:22:36-07:00",
+      "rating": 5,
+      "title": "The best glucose app ever",
+      "text": "This is so easy to use, and the Accu Chek Guide is a glucose meter with Bluetooth!",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-06T07:29:49-07:00",
+      "rating": 5,
+      "title": "Bruce",
+      "text": "Easy and convenient to use and add notes.",
+      "version": "3.146.0"
+    },
+    {
+      "date": "2026-09-06T04:07:45-07:00",
+      "rating": 5,
+      "title": "Reliable",
+      "text": "MySugr app working great with my equipment",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-05T19:22:15-07:00",
+      "rating": 3,
+      "title": "Confusing",
+      "text": "I find this app very confusing to navigate and use the features",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-05T03:12:28-07:00",
+      "rating": 5,
+      "title": "Tracker",
+      "text": "Excellent",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-04T17:36:04-07:00",
+      "rating": 4,
+      "title": "1st Time User",
+      "text": "Easy to use.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-04T06:59:52-07:00",
+      "rating": 5,
+      "title": "Vi",
+      "text": "I’m able to manage my health better with the tracker 👍🏻",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-03T14:11:57-07:00",
+      "rating": 5,
+      "title": "Upped my management game",
+      "text": "And I think I've been trying to keep track of all this in my head...",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-03T12:05:03-07:00",
+      "rating": 1,
+      "title": "CAN’T USE IT",
+      "text": "My ‘outdated’ version of MySugr served me just fine.  My phone wont support the required version of iOS to use the upgrade and it’s ridiculous to think that someone will spend the money to upgrade their phone just to use this product.  I liked it, but it’s not an app I can’t live without.  And I guess that’s a good thing.",
+      "version": "3.108.0"
+    },
+    {
+      "date": "2026-09-03T10:55:30-07:00",
+      "rating": 5,
+      "title": "My glucose",
+      "text": "Great app, really helpful and pleased.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-03T08:34:28-07:00",
+      "rating": 5,
+      "title": "Better than OEM app",
+      "text": "The Accu-Chek app was horrible. A lot of difficulty getting the Accu-Chek Guide unit to connect to the app. This app has 100% connectivity. I like the overall functionality of this app. It can be improved a bit. It would be nice to allow the background color to be modified and to make changes to the testing images (breakfast, sports, etc.). Overall I highly recommend this app over the Accu-Chek app.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T22:53:54-07:00",
+      "rating": 5,
+      "title": "Outstanding Product",
+      "text": "Love it & it keeps up with all your information for years",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T17:57:30-07:00",
+      "rating": 5,
+      "title": "Diabetes isn’t fun",
+      "text": "This app makes it funner",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T17:34:02-07:00",
+      "rating": 4,
+      "title": "Good App!",
+      "text": "Just updated to I-phone 12 and now it will not pair. Unsure of problem. I have told others about appt. they will try it out.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T14:35:43-07:00",
+      "rating": 4,
+      "title": "Overall a Great App",
+      "text": "I like the app in general and think that it’s very easy to use. Did not take long to learn it at all. Would love it if there was also a way to track macros too (fiber, protein) so I could track more of my nutrition in a single place.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T13:37:27-07:00",
+      "rating": 2,
+      "title": "New Update Disappoints",
+      "text": "Now they want you to  pay for features like pdf.and excel reports which used to be free.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T11:20:22-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Way better than the other glucose tracking apps by far",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-09-02T06:50:40-07:00",
+      "rating": 5,
+      "title": "Es una buena opcion para tener un récord de tus datos",
+      "text": "Diarios de glucosa",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-31T08:17:31-07:00",
+      "rating": 5,
+      "title": "After 10 days",
+      "text": "Easy to use, informative",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-31T05:51:34-07:00",
+      "rating": 5,
+      "title": "Handy tool",
+      "text": "This is a very handy app to have for those that have trouble keeping a record of their blood sugar if taken multiple times a day. It stores all of your values and even allows you to put in customized fields notating whether you’re fasting or not, if it’s before or after a meal and more specifically your symptoms at that time. \n\nIt allows me to look back and see what may have caused a rapid change. Very easy to navigate and it syncs with your phone by Bluetooth. I’ve never found an app this good for keeping track of sugar! 100% recommend this one, even beginners can get the hang of it.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-31T04:48:07-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This to me is one of the must have apps for diabetics. It help keep track of all your readings in one place and gives you an awesome coach if you decide to use all that is available. I highly recommend using this and see how well it works.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-31T04:09:36-07:00",
+      "rating": 4,
+      "title": "Customize report columns",
+      "text": "Like to be able to reduce column info on reports exported",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-31T04:00:41-07:00",
+      "rating": 5,
+      "title": "Blood",
+      "text": "This makes it real simple really enjoy doing it this way",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-30T23:22:09-07:00",
+      "rating": 5,
+      "title": "Alvaro’s Glucometer.",
+      "text": "Awesome",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-30T09:16:09-07:00",
+      "rating": 3,
+      "title": "Glucose Average",
+      "text": "I recently started using this app again. Before it would give you the glucose average when testing once a day after a few days. Now you have to test 3 times a day for a few days before it gives you an average. \nI will be looking for a new app.",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-29T16:53:34-07:00",
+      "rating": 5,
+      "title": "Works great",
+      "text": "Using this to track my blood sugar and meals while dealing with gestational diabetes! Really helps be able to communicate what’s going on to my doctor!",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-29T11:58:38-07:00",
+      "rating": 5,
+      "title": "Latest Update",
+      "text": "WAY TO GO!! You fixed the previous update and made some things better. Appreciate that! It took a minute, but you did it. I will now give you a good rating. 😎",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-29T10:33:16-07:00",
+      "rating": 4,
+      "title": "Blood sugar",
+      "text": "Not so. Sure if this willl work for me",
+      "version": "3.145.0"
+    },
+    {
+      "date": "2026-08-29T10:31:29-07:00",
+      "rating": 4,
+      "title": "Great but won’t stay connected",
+      "text": "Have to forget and reconnect almost everyday",
+      "version": "3.145.0"
+    }
+  ]
+}

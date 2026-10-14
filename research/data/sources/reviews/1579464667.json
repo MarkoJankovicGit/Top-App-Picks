@@ -1,0 +1,707 @@
+{
+  "app": "Pokémon Sleep",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T05:48:56-07:00",
+      "rating": 5,
+      "title": "Great Pokemon game",
+      "text": "Great Game, Great support and great Attention from the developers to fix any issues with the game. 3+ years player here and I will keep playing with no end in sight sight.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-09T21:37:14-07:00",
+      "rating": 5,
+      "title": "Good game",
+      "text": "I love it but I don’t like how we have to do the mic but I understand that we must",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-09T05:43:14-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "Worked for three nights with my Apple Watch and stopped recognizing data. Requires an overpriced unavailable accessory to actually give rewards in Pokemon Go. Don’t bother.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T20:54:36-07:00",
+      "rating": 1,
+      "title": "Animations are too long and frustrating plus the interactions are counterintuitive to all modern UX",
+      "text": "See title.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T19:24:40-07:00",
+      "rating": 5,
+      "title": "So cool",
+      "text": "You know how I used to sleep with bad habits like going to bed at 12:00 and sleeping for 4h only? Now with Pokésleep that problem is outta here! This app has been beneficial to me and my family. I love it!",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T18:35:29-07:00",
+      "rating": 4,
+      "title": "Why so many Updates?🫪",
+      "text": "Bruhhhhhh. Game is fun. Grinding 4 sure",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T18:35:10-07:00",
+      "rating": 5,
+      "title": "LOVE IT",
+      "text": "So good use it",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T15:08:34-07:00",
+      "rating": 3,
+      "title": "Love concept but poorly executed",
+      "text": "Love the concept but they don't incentivize good sleep habits enough. Checking the app multiple times during the day is more incentived than actually improving your sleep routine.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T07:22:02-07:00",
+      "rating": 4,
+      "title": "Not much personalization",
+      "text": "The app is cute and I enjoy collecting the Pokemon. It just feels odd to me that it literally talks about how the best amount of sleep is what makes you feel best, but you’re locked in to an arbitrary 8 hours and 20 minutes goal to get the max amount of sleep points. You also can’t change the meal times at all, so if you’re on a third shift schedule it’s a struggle to remember to feed your Snorlax. It’s fine if you’re just using it as a sleep tracker but if you’re more interested in the game aspect of it then it can get frustrating. It would also be nice to be able to skip or turn off the Snorlax level up cutscene things. Especially when it triggers multiple times in a row while you’re in a hurry\n\nThat said, they have been updating the game regularly and have already added in a bunch of QOL stuff as well as new content. So I expect that things will only get better as time goes on",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T04:45:15-07:00",
+      "rating": 5,
+      "title": "Consistent and fun",
+      "text": "They really take care of the users and don’t make any features determinant on $.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-08T00:45:17-07:00",
+      "rating": 4,
+      "title": "Actually a decent sleep tracker but…",
+      "text": "It’s honestly a great concept. What better way to track how well you sleeping than to add some Pokémon flare to it? Complete your Pokédex by befriending Pokémon who come and sleep by your side. Raise your Snorlax by making you sure you build the best team possible and it will reward you.\n\nAll-in-all, it’s a great game with a great community. I just wish the developers would allow us to play other things in the background. Or at minimum, add white noise as an option for the songs. As cute as the music is, it’s kinda hard to fall asleep to. And I don’t like that it stops playing after about 20ish mins?\n\nThere’s definitely room for improvement. Please consider incorporating our feedback.\n\nSincerely,\nA light sleeper",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-07T23:43:30-07:00",
+      "rating": 5,
+      "title": "My favorite!",
+      "text": "This is genuinely my favorite game. It helps me take my health seriously, and prioritize getting the best sleep I can. I have a wonderful team of pokemon and I’ve been playing for nearly 700 days & have logged 4800 hours of sleep. I also love the events and hope this game will continue to be updated! My only suggestion is implementing a dark mode option, as the game is pretty bright even with my brightness turned down. Otherwise, I think this game is incredible and deserves so much more love.",
+      "version": "3.8.3"
+    },
+    {
+      "date": "2026-10-03T11:24:31-07:00",
+      "rating": 5,
+      "title": "Recommend for Pokéfans",
+      "text": "To those who play Pokemon, this is definitely the game for you!",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-10-03T05:12:32-07:00",
+      "rating": 4,
+      "title": "I use it everyday",
+      "text": "I've used it almost every day for a year and a half now. It works as intended but the most annoying thing for months now is the constant pop up when you level up. I get it every single time I go back into the main screen with snorlax. Please fix this bug it's been ongoing for a long time now and it's super annoying!",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-30T22:47:56-07:00",
+      "rating": 5,
+      "title": "Sleep aide",
+      "text": "Helps me regulate my sleep schedule",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-28T19:44:44-07:00",
+      "rating": 5,
+      "title": "best sleep tracker out there",
+      "text": "just overall very good and tracks my sleep extremely well! Would definitely recommend!",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-28T08:43:35-07:00",
+      "rating": 5,
+      "title": "Relaxingly Great Game",
+      "text": "Does anyone else wish the Poké Biscuits in real life?! So deliciously crunchy!",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-27T07:00:29-07:00",
+      "rating": 5,
+      "title": "Amazing!",
+      "text": "This game is perfect! Free, fun, and SUPER EFFECTIVE lol.",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-25T20:27:13-07:00",
+      "rating": 4,
+      "title": "Need my audiobooks",
+      "text": "So I love this game and played it pretty regularly when it first came out but I have one major issue which was my reason for deleting it. I listen to audiobooks to go to sleep and I can’t have the app open and listen at the same time. This is my first night with the game again in 2 years so I guess I’ll see if it can still register if the app is open it’s just not sitting on it or not.",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-23T07:47:46-07:00",
+      "rating": 1,
+      "title": "Crashed",
+      "text": "So. I originally had this game sleep tracker in 2024 and it crashed not allowing me to do anything but bounce between an error code and the main screen. I deleted the game but I came back as I’ve been trying to track how much I’m sleeping everyday. \n\nNow I’m back to where I was in 2024 and all support said was to try different networks or cellular like I didn’t already try that. This game is very enjoyable and I’d love to continue playing but I can’t keep an app on my phone that I cannot use. I hope that this can be fixed for anyone else dealing with the same situation",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-22T23:35:20-07:00",
+      "rating": 1,
+      "title": "Just fine",
+      "text": "It’s a great concept but I get so annoyed every time I open the app about to go to bed it makes me click through a million things. It gets to the point where I just close it and forget about it for the night",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-22T09:45:44-07:00",
+      "rating": 1,
+      "title": "Pls fix bug!!",
+      "text": "So i download pokemon sleep on my phone, And for some reason every time i try to read the terms of use or privacy policy it wont actually show me the terms of use/privacy policy cause it will be stuck loading. I left my phone on pokemon sleep for an hour it still wasnt loaded. please fix this as i have seen many others do reviews meaning many people cant play!!",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-21T04:52:28-07:00",
+      "rating": 2,
+      "title": "Needs autocomplete/skip buttons to be enjoyable",
+      "text": "90% of the time I have this game open I am just tapping to complete whatever pop up comes up. I understand children under a certain age might need the guidance to play but I should be able to turn some things off. It’s so bad I seriously can’t stand opening this app cause I have to spend five minutes clicking through stuff before I can actually play. Sucks because I do like the concept and the sleep tracking.",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-20T07:02:05-07:00",
+      "rating": 4,
+      "title": "Great Game",
+      "text": "I enjoy it and it helps reward me for resting. I will say, I plan on getting a watch one day, and it would be cool if it could track sleep through heart rate alone. Sometimes, I like listening to YouTube to fall asleep, and I lose all my sleep progress if I tab out of this app and choose YouTube.",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-19T21:57:01-07:00",
+      "rating": 4,
+      "title": "Sleep Music",
+      "text": "I would like to be added no music but white noise, fan noise, or be let other apps like Spotify to take over so I can sleep with my white noise until I wake up, I don’t want it to be over so soon. As soon the music is over I wake up, I would prefer it goes all night. I still insist white noise is added. Otherwise, this app is perfect",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-19T07:19:34-07:00",
+      "rating": 5,
+      "title": "Gem",
+      "text": "I love this experience so much. Instead of catching and fighting with Pokemon… you feed, care for and nurture Pokemon ~",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-19T02:45:07-07:00",
+      "rating": 5,
+      "title": "Whats a sleep score?",
+      "text": "Whatever it is, Snorlax gets better. I just want Mewtwo. Love Pokemon 🫀♾️",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-17T21:57:20-07:00",
+      "rating": 1,
+      "title": "I hate this app",
+      "text": "Yet I still play it. I really hate this game. I’m writing this review while being seriously annoyed. It feels like every time I turn around there’s an update that I have to download. I don’t see any improvement. And the worst part about this whole thing is even after updating the stupid app, when I go back into it it says I have to download more data. Stop it! \n\nPlease have it so I can zoom out all the way. I hate when you tap on a Pokémon to get the berries that they find, after any random gaining xp or finding candy animations are done it zooms right back in on the stupid Snorlax. I hate it. Playing this game triggers my claustrophobia so bad, but I want to play it because I want my favorite Pokémon.\n\nLET ME STAY ZOOMED OUT. 😡🤬😡🤬😡🤬",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-17T15:27:07-07:00",
+      "rating": 3,
+      "title": "Loading",
+      "text": "Idk if it’s my internet -_- but when I download it the privacy notice and da term of use wouldn’t load",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-17T08:54:55-07:00",
+      "rating": 1,
+      "title": "Bad game",
+      "text": "This game is very frustrating as you get rewarded certain items without understanding what they do. Instead you have to use them and if you don’t like the outcome you don’t get a chance to use it again. Basically you have to waste your first items unless you’re doing outside research.",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-17T04:52:06-07:00",
+      "rating": 5,
+      "title": "My favorite mobile game",
+      "text": "the developers are always looking out for the community, fun game that helps you focus on a steady sleep schedule",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-17T03:51:05-07:00",
+      "rating": 4,
+      "title": "Phenomenal",
+      "text": "Change the mechanics up for those of us who Have busy lives and then only get 3-4 hours a day. Its day 4 of the MewTwo event and NOT ONE MEWTOO but all my friends get to meet it….",
+      "version": "3.8.2"
+    },
+    {
+      "date": "2026-09-15T14:39:54-07:00",
+      "rating": 1,
+      "title": "Won’t load",
+      "text": "So I really like this game but now I can’t play cus it’s suck syncing my sleep data at 30% and I have tried to get it to work and even cleared my cache but it still won’t work.",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-14T02:42:15-07:00",
+      "rating": 1,
+      "title": "Blue White and too bright",
+      "text": "The title says it all.\nBlue and white are daytime colors. This app is way to bright to use right before bed, and there is no dark mode.",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-11T22:10:35-07:00",
+      "rating": 5,
+      "title": "Unless you’re a vampire, you have to sleep",
+      "text": "If you’re going to sleep, you might as well track your sleep so you can progress through a video game I mean, who doesn’t want that🗣️🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-11T21:03:20-07:00",
+      "rating": 5,
+      "title": "Amazing app!",
+      "text": "I’ve been using Pokémon sleep for about half a year now, and I’ve completely fallen in love with it. I’m excited for every new event, mostly for shiny Pokémon fahaha, and new Pokémon additions! It’s helped me grow so much, as someone with a horrid sleep schedule, and being rewards for good habits feels great.\n\nOn the topic of rewards for sleeping and shiny Pokémon, I LOVE the shiny hunting mechanic-type in this app! Every day I wake up in hopes of finding my next shiny and naming it something cute, like my Ampharos Angel! 🤍",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-11T19:42:50-07:00",
+      "rating": 5,
+      "title": "For dumb 1 stars",
+      "text": "The 1 star reviews are all temporary issues or dumb complaints like, and this was an actual review, “I want more shiny Pokémon they’re too rare now so I’m quitting the game” where in the real games it’s 1/ 4069, so they are more common in this game.",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-11T00:07:12-07:00",
+      "rating": 5,
+      "title": "Amazing app!!!❤️❤️❤️",
+      "text": "This game really helps me sleep better and also it is very fun .Great job🤩🤩",
+      "version": "3.8.1"
+    },
+    {
+      "date": "2026-09-09T21:34:47-07:00",
+      "rating": 1,
+      "title": "so annoying",
+      "text": "this app is making me so mad i just want to go to sleep but the tutorial is so long and it’s not like you can skip it and finish it another time. so annoying!!",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T18:28:20-07:00",
+      "rating": 5,
+      "title": "TEHY BEST",
+      "text": "Ok so to be honest this game is just peak for a pokemon lover. Like me it’s just peak it has alarms and mew I you can evolve the pokemon its just peak",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T17:26:06-07:00",
+      "rating": 4,
+      "title": "Pretty good👍",
+      "text": "It’s pretty good👍 please make it so I can send my Pokémon from sleep to other Pokémon games, even if it’s just one.",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T16:53:44-07:00",
+      "rating": 2,
+      "title": "Doesn’t connect to my ring or Apple health",
+      "text": "I feel like this game could be so fun, but the data from Apple health doesn’t sync. My Ringconn syncs with my Apple health, but claims it doesn’t sync to the Pokémon Sleep app.",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T15:10:49-07:00",
+      "rating": 5,
+      "title": "This game is practically philanthropy",
+      "text": "I’m a college student. So, as with many college students, I have a problem: stress and lack of sleep. For the past year, this app has single handedly (well I guess my determination played a role) fixed my sleep schedule. Asleep at 2 went to 1 and now I’m usually in bed well before 12. I cannot recommend this enough. \nThe gamification of such a simple but necessary practice is something that is so very tried, but little do it as well as this one does\nMy only gripe is the fact that there is no dark mode. It’s so bright!",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T10:47:44-07:00",
+      "rating": 5,
+      "title": "awesome",
+      "text": "I love this app! it’s a fun way to track sleep and enjoy some pokemon. I appreciate how active the developers are, there’s lots of special events that make the game more exciting from time to time, and bug fixes pop up a lot (often when i didn’t even notice the mentioned bug being fixed)\n\nI love how the progress in this app takes time, it makes the objective truly to get better sleep rather than to speed through stats. that being said, it’s such a joy to see your pokemon get stronger and better, it’s especially fun to evolve then after a lot of hard work.",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-09T00:54:52-07:00",
+      "rating": 1,
+      "title": "Tracking Sleep removed from the server maintenance screen",
+      "text": "The latest Update Removed the option to begin tracking sleep during server maintenance. Please put it back. The website states: “You can still track your sleep during maintenance.” That is dishonest so I’m leaving a 1 star until it’s fixed.",
+      "version": "3.8.0"
+    },
+    {
+      "date": "2026-09-08T11:00:57-07:00",
+      "rating": 1,
+      "title": "Fraudulent When It Comes to Missions & Rewards—Reporting To Apple",
+      "text": "They will NOT give you the monthly reward if you complete all the steps. I did all the steps required to get a Mew in the app for the most recent mission—all of a sudden it glitches out, and when i go back into the app it said I took 8 out of 10 snapshots when I know for a fact I took 10. When I contacted Pokemon about it, the automated message I get back says they don’t take those types of requests. There’s no other way to contact them. I’M CURRENTLY REPORTING THIS APP TO APPLE FOR SCAM & FRAUD\n\n*UPDATE* Pokemon have flat out REFUSED to honor the request. They basically said “Sucks to be you.” This app is a fraud, a scam, has been reported to Apple & the BBB. they will NOT give you the reward, and they will refuse to listen to you. They are power hungry. Even when I sent them evidence, they refused. I’m looking into research if I can escalate this much MUCH further.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-07T21:58:09-07:00",
+      "rating": 1,
+      "title": "I had high expectations when I clicked to download the app",
+      "text": "The tutorial is simply too slow and long, and the tracking definitely doesn't work as it should. It’s an app meant to help with sleep, but it ends up causing stress every morning and wasting a lot of your day. Ultimately, it’s disappointing.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-06T05:12:17-07:00",
+      "rating": 4,
+      "title": "Okay, but frustrating",
+      "text": "It’s an okay game, but at times can be frustrating. For example, you can select a dish to make, and then get yourself so focused on adding ingredients that you don’t realize that the dish you’re building has changed to another dish, and then the points you wanted to add go to another dish, or the strength of dish you wanted is considerably weaker because the dish changed on you.\n\nI think that once you select a recipe, the dish shouldn’t change at all, or that you should get a notice stating your dish changed to something other than what you chose.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-03T07:50:59-07:00",
+      "rating": 1,
+      "title": "Pop-ups",
+      "text": "I want to enjoy it I really do. But for the love of god why is there so many pop ups. I can’t play for 5 seconds without being attacked by pop up. Feels like I’m on a website to watch sports or movies with the amount of pop ups.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-01T17:59:37-07:00",
+      "rating": 1,
+      "title": "⭐ 1 Star — Pokémon Sleep Could Be So Much Better",
+      "text": "I really wanted to enjoy Pokémon Sleep, especially as a longtime Pokémon GO player, but right now I find the game boring and unnecessarily complicated. Too much of the gameplay revolves around managing Snorlax, collecting ingredients, and worrying about breakfast, lunch, and dinner. It feels more like a chore than something that makes me excited to go to sleep.\n\nI think Pokémon Sleep could be amazing if it had much deeper integration with Pokémon GO.\n\nImagine going to sleep and having your sleep determine what Pokémon you encounter. The better and more consistent your sleep, the better your chances of discovering rarer Pokémon. When you wake up, the game could give you three Pokémon to choose from, and you could pick one to keep or transfer to Pokémon GO.\n\nAfter completing seven nights of healthy sleep goals, you could even unlock a chance of encountering a Legendary Pokémon.\n\nI would also love the ability to use my Pokémon GO Buddy in Pokémon Sleep instead of always building the experience around Snorlax. You could adventure with your Buddy during the day in Pokémon GO and then have that same Pokémon sleep alongside you at night.\n\nThere could even be special rewards, Buddy Hearts, Candy, ribbons, or other bonuses that carry between the two games.\n\nPokémon Sleep already supports devices such as Pokémon GO Plus + and smartwatches. Take advantage of that connection and make Pokémon GO and Pokémon Sleep feel like one continuous adventure:\n\nPlay Pokémon GO during the day. Sleep and discover Pokémon at night. Wake up, choose your Pokémon, and continue your adventure in Pokémon GO.\n\nI love the idea behind Pokémon Sleep. I just don’t enjoy the current gameplay loop. Give Pokémon GO players a meaningful connection between the two games and I would gladly come back and change this to five stars.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-01T15:00:35-07:00",
+      "rating": 4,
+      "title": "Too bright at night",
+      "text": "This  game is too bright, even with my phone screen brightness turned all the way down. It really needs a dark mode.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-09-01T08:14:46-07:00",
+      "rating": 1,
+      "title": "Quitting after 1100+ day streak",
+      "text": "Game was fun at the beginning and got a large number of shiny pokemon, but after some update it became harder to find any shiny. The shiny pokemon made it worth going to sleep early and I was getting multiple in a month, but now I never see them and don’t care to track my sleep anymore after 1100+ days. The events and release of pokemon is good, but the reward of never seeing a shiny is bogus. Not sure why it was changed. Ggs",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-30T12:04:38-07:00",
+      "rating": 5,
+      "title": "A Pokémon request",
+      "text": "Could the next legendaries be the Regis, I would love to see them in this game.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-30T07:02:14-07:00",
+      "rating": 4,
+      "title": "Cute n cozy but you need to have money",
+      "text": "Been playing this game for a while now and it’s draining my bank account. Please make it cheaper or easier to get biscuits. It’s not fair- I can’t capture Pokemons due to not having enough biscuits or them getting full instantly.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-30T01:48:44-07:00",
+      "rating": 1,
+      "title": "8 minutes of achievements every time you want to use it",
+      "text": "The title. Infuriating",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-29T00:17:24-07:00",
+      "rating": 3,
+      "title": "Dear Niantic…You broke the Sleep Feature",
+      "text": "I love my Pokémon Plus + ball for tracking sleep. And up until tracking feature changed from the ball to my phone, I was using it every night to track my sleep and feed my Snorlax. \n\nWhy did moving it to the phone break the feature?! Because now I can no longer listen to my Audible books to go to sleep while at the same time putting Pokémon Sleep into sleep tracking mode. Since the tracker is on the phone, when I enable tracking it stops the Audible playback that was playing in the background (with a sleep timer). When it was on the ball, I could push the button, Pikachu would sing his lullaby and start tracking. All while being completely separate from Audible playback on my phone. \n\nI’ve used other sleep trackers on my phone in the past that allowed Audible or Spotify to play in the background. So, it’s possible. \n\nPlease fix this feature so that I can listen to my Audible books to go to sleep, like I have every night for over a decade, AND use Pokémon Sleep to track my sleep, preferably back on the physical Plus + ball, but if not, then fixed on the phone app.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-24T20:21:15-07:00",
+      "rating": 4,
+      "title": "Sleep stories",
+      "text": "Hi, I want to tell you that I want to be able to Lise’s to my sleep stories, thank you!!!",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-23T08:58:11-07:00",
+      "rating": 1,
+      "title": "Team Switching Error",
+      "text": "I am so tired of getting a confirmation message that I changed teams then coming back and seeing the team didn’t actually switch. Don’t give a confirmation message if it didn’t happen. When I swap a team, I should be able to close the app immediately afterward and not have to worry.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-22T21:33:09-07:00",
+      "rating": 4,
+      "title": "Not very shift worker friendly.",
+      "text": "Cool game. I would like to be able to track my sleep schedule without losing my streak every time I swap from day shift to night shift.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-22T10:29:45-07:00",
+      "rating": 5,
+      "title": "Helps with your sleep habits",
+      "text": "A good program that promotes good sleeping habits, it may not be accurate, but it gives players an idea of their sleeping habits.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-20T10:23:35-07:00",
+      "rating": 5,
+      "title": "Honest review",
+      "text": "This game is awesome entertaining and I look at stats and all of that and somehow my mom is doing better than me. This game is truly built for people who want to be the very best and people who don’t care and just wanna catch cool pokemon",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-20T02:08:57-07:00",
+      "rating": 2,
+      "title": "Fun Game, Terrible Sleep Tracker",
+      "text": "I’ve been tracking my sleep for years, I have tracked my sleep with every app imaginable, an Apple Watch, Apple Health, an Oura Ring, you name it I’ve tried it. (Oura Ring is the top tier option in case you were wondering. Best. Purchase. Ever.). Pokemon sleep is very fun to play and I do still use it, but only to catch Pokemon with my friends. The actual sleep tracking function of this app sucks. It’s always telling me that I slept less than I actually did (which screws you for the game because you have to sleep to rest up your Pokemon) and it’s always telling me the app closed overnight and low key scolds me for it. Like excuse you, my app IS open and has been all night. YOUR tracking coding is the problem. At least the app is fully usable for free. That’s more than I can say for any other sleep tracking app I’ve tried.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-18T09:07:07-07:00",
+      "rating": 1,
+      "title": "非常喜欢这个ip 但这个游戏很糟糕",
+      "text": "闪光系统充斥着不公平，我不理解为什么有人可以一周一次闪光，而我一个月都没有一个。这太糟糕了！🤮",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-18T07:40:48-07:00",
+      "rating": 5,
+      "title": "Actually helps with sleep",
+      "text": "I had super bad insomnia and was having a horrible time actually wanting to sleep but this helped so so much",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-14T09:50:48-07:00",
+      "rating": 3,
+      "title": "Cool App, Bad Design",
+      "text": "This app is really cool and I love Pokémon, but after doing one sleep session for four hours my phone became so hot that it actually woke me up because major heat was radiating off of it. I had to turn off my phone and let it cool down for 20 minutes and even then it was still too hot. I’m not sure why my iPhone didn’t auto shut off at that point, but I had to eventually set it in front of my air-conditioning unit just to cool it down a little more. Genuinely worried that my iPhone would break from how much heat was coming off of it.\n\nAfter about 30 minutes of cooling down my phone, I turned it back on, and I went back into the if there were any settings, I could change and unfortunately there are not but the drowsy score was really cool and I wish that I had a device that I could connect this to that wouldn’t overheat because this app is actually really cool.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-12T01:09:00-07:00",
+      "rating": 1,
+      "title": "Apple Watch face",
+      "text": "I had the app before on the previous iPhone and I just re-downloaded it then I see a ad on TikTok that Garmin Pokémon Sleep watch faces and my wife got me the Apple Watch Ultra for Christmas. Why is it that we don’t have this? This is an absolute must I need this on my watch ASAP. and only then will I give the five stars",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-11T08:37:36-07:00",
+      "rating": 1,
+      "title": "Can’t even play",
+      "text": "I’m stuck on the terms of use cause there making me read it but it won’t load I’ve been sitting here for 5 hours just trying to get into it.😑",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-09T16:52:39-07:00",
+      "rating": 5,
+      "title": "Yay",
+      "text": "Good yummy yummy yummy",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-06T06:15:40-07:00",
+      "rating": 5,
+      "title": "The cutest sleep tracker- NEEDS a dark mode",
+      "text": "I’ve tracked my sleep with a variety of different apps, and this is the only one I’ve stuck with- it’s been about a year of consistent logging. Adorable, broadly self-paced, and low-stakes with no ads! It feels like a little treat to see what Pokemon show up for research and the shiny rate is way higher than any of the mainline Pokemon games. Runs nicely on iPhone 15 pro, the animations and Pokemon cries are perfect. Love the new Nap Island feature for making it easier to level helpers, too.\n\nGame NEEDS a dark mode or something. It would be cute if they changed throughout the day to match the game’s day/night cycle, but I would be totally satisfied with a toggle switch in the settings (Light/Dark/Match system).\n\nMinor issues- Some of the “sleep tips” are pretty vague or don’t cite a reputable source (‘some say’ or ‘it is thought’ don’t count!), and the app is not great for tracking naps (must sleep for at least 90 mins to count) and the way the days are broken up can cause problems when I fall asleep after midnight.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-08-05T19:32:11-07:00",
+      "rating": 3,
+      "title": "Pokemon made me late to work",
+      "text": "Don’t get me wrong I ADORE this game. It’s very cute and I like feeling like I’m getting little rewards for taking care of myself by sleeping well. But one morning the app decided to crash and did not set the alarm off for work😭 It was very upsetting and I will no longer be able to use the in app alarm. I wish it could be more reliable!",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-08-03T05:27:47-07:00",
+      "rating": 5,
+      "title": "GOAT",
+      "text": "This is one of the greatest Pokemon games I’ve ever played.  I absolutely love everything about it.",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-31T17:15:45-07:00",
+      "rating": 5,
+      "title": "Tracking sleep",
+      "text": "I’ve had this for a month now. I’ve had nothing but issues with trying to track sleep. This week I’ve only had 2 days tracked on Pokemon Go. The Pokemon Go Plus +app lets about 90%of the Pokemon flee. I’m starting to feel it was a waste of $54.00. It jumps to the next Pokemon before the one it’s on is caught.\n\nUpdate I’ve had this for a few years now! It usually works great but since this recent update I can’t log in to the app! 😭",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-31T00:43:32-07:00",
+      "rating": 2,
+      "title": "I enjoyed it but…",
+      "text": "Ever since the dex got altered, I’m seeing a lot less pokémon I enjoy and tons more duplicates.\n\nPoke biscuits are not abundant enough. And subskill seeds are almost impossible to get as f2p\n\nAnd, we’re getting too many pokemon lately that are single stages and require 16 friendship points to recruit… \n\nPlease add more pokémon with 5 friendship points.\n\nUntil improvement, this is my review.",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-31T00:10:25-07:00",
+      "rating": 5,
+      "title": "Sold",
+      "text": "Idk why but this game makes me just wanna sleep more",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-30T21:25:10-07:00",
+      "rating": 3,
+      "title": "Entretenido",
+      "text": "Le hace falta más creatividad y que tenga más libertad más paisaje y más variedades como juegos secundarios y así",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-30T20:09:37-07:00",
+      "rating": 5,
+      "title": "great app, have some suggestions",
+      "text": "Let me start off by saying that this app truly helped my sleep schedule, there were nights where i couldn’t sleep and I found that the music helped.\nAlso for recommendations I think they should add a shiny incense that increases shiny odds for the night, the ability to trade pokemon with friends, and the ability to vote on what the next event should be.",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-30T09:01:03-07:00",
+      "rating": 5,
+      "title": "Better than Pokémon unite",
+      "text": "Great game accurate sleep tracker \nTrading and battling would be fun even though it’s meant for sleep it would be cool if they added a battle in mode similar to brawl stars\nGot my favorite shiny!\n(Bonsly and sudowoodo)",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-29T23:10:56-07:00",
+      "rating": 5,
+      "title": "WE NEED THE PARADOXES!!!",
+      "text": "It would be insane for the professor to give you stuff for studying them, since they’re supposed to be like, not very known or whatever!! WE NEED THIS BRO!!!",
+      "version": "3.6.3"
+    },
+    {
+      "date": "2026-07-29T05:54:57-07:00",
+      "rating": 5,
+      "title": "WE WANT DRAGAPULT",
+      "text": "NOWEWE",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T23:41:11-07:00",
+      "rating": 5,
+      "title": "🔥💙💙💙💙💙💙💙🕊️",
+      "text": "Relaxing and nostalgic but intelligent reminder of all things classically Pokémon.",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T21:14:31-07:00",
+      "rating": 5,
+      "title": "10 out of 10 would recommend",
+      "text": "This app helps you set sleep schedules and I have been feeling a lot better because of it however I wish there were more Pokémon",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T19:23:35-07:00",
+      "rating": 5,
+      "title": "Fire game bruh",
+      "text": "I wish Espurr was in the game but otherwise its super fire. The only gripe i would have is that sometimes it cant tell if youre asleep or awake. Like i got up in the middle of the night to use to restroom and i got back in bed and fell asleep, woke up the next morning and it decided that the two minutes it took me to use the restroom that i was up for 2 HOURS instead",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T17:23:13-07:00",
+      "rating": 4,
+      "title": "Fun, Useful, could perform better",
+      "text": "I love the app and use it as my default sleep tracker, but it could use some quality of life adjustments:\n1) Make font size adjustable or sync to our device settings. Some of the lettering is tenths of a mm tall on my screen and I can’t even zoom in on it. I stand no chance to read it first thing in the morning.\n2) Change it so leveling up Snorlax can not override the sleep screen. But I’ve had multiple times that Snorlax levels up right after I hit confirm to go to sleep and set my phone face down, and it keeps the screen on displaying the level up screen and I’m worried about screen durability when it’s like that all night.\n3) Ties in to 2, but really this app needs to be receptive to be able to run in the background with the screen off. My phone is sitting there with the screen technically on and unlocked all night while I sleep, and I’m not super comfortable with that.\n\nI enjoy the app greatly and have used it for a year or two now, but do hope to see the devs find ways to improve on these fronts.",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T11:24:45-07:00",
+      "rating": 5,
+      "title": "How great this game is",
+      "text": "I’ve never had this much fun waking up to find a new Pokemon to discover. Pokemon sleep is more fun then actually sleeping and I love sleeping now after playing this game want to sleep more it’s been so great",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-28T00:12:42-07:00",
+      "rating": 4,
+      "title": "ADD HAWLUCHA & MORE KALOS PLZ",
+      "text": "actually incredibly cool, but they need to add in WAY more Pokémon!! It sucks that I can only enjoy five Pokemon from my favorite region ingame >:(",
+      "version": "3.6.2"
+    },
+    {
+      "date": "2026-07-24T05:11:08-07:00",
+      "rating": 5,
+      "title": "Good game",
+      "text": "Helps me sleep better, very fun, i wish getting sub skill seeds and getting the pokemin i need with what i need them to have would be easier",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-23T17:24:56-07:00",
+      "rating": 5,
+      "title": "Malfunctioning!!",
+      "text": "Every time I open the sleep pass it won’t let me “x” out of it, I have to close the whole app. But I love the app still!!!",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-23T02:01:52-07:00",
+      "rating": 1,
+      "title": "Animations take too long",
+      "text": "I just use this app because the alarm is super effective (no pun intended) in being the most annoying alarm ever. Unfortunately it forces me to sit and watch every animation before bed. Let me skip all",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-22T17:30:58-07:00",
+      "rating": 5,
+      "title": "Luv this",
+      "text": "Mew.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMew.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-21T19:59:10-07:00",
+      "rating": 3,
+      "title": "iPhone XR",
+      "text": "Terms of use and privacy notice not loading. Please fix.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-21T17:44:35-07:00",
+      "rating": 1,
+      "title": "In terms of use and privacy would not load",
+      "text": "I’ve been trying to get into this game for two years and the terms of view and privacy will not load up. I’ve had max Internet and everything game will not work please fix.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-19T07:59:11-07:00",
+      "rating": 1,
+      "title": "No new sleep data was found",
+      "text": "Screw you I guess, garbage app",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-18T08:12:15-07:00",
+      "rating": 3,
+      "title": "Getting fed up with this game",
+      "text": "This game was great until you updated the shiny mechanics in the game. I was getting shinys all the time. I barely get them now and I have Pokemon like level 30 and still haven’t seen a shiny of it. When I would get a shiny with them being like level 5. So extremely disappointed with how the game is going now.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-17T08:50:21-07:00",
+      "rating": 2,
+      "title": "After A Month, Meh Over It",
+      "text": "First of all, the “glowing” reviews are 100% fake and paid for. Far too detailed, like someone is actually trying to sell you the product itself. While the app is not exactly terrible per say it’s not very accurate at tracking your sleep unless you have an Apple Watch. Tracking on the phone is not that accurate. The gaming aspect of it is also very lacking and kind of forceful. As soon as you wake up you have to do these tasks which sometimes you really don’t want to immediately first thing in the morning. I thought it would be more of and idle game but it actually requires you to be logging in multiple times a day or miss out on “feeding” which then makes your pokemon unhappy and unhelpful. Catching pokemon is the WORST of any pokemon game. You have to give them snacks which itself isn’t that bad, the bad part is how much they cost. A basic poke biscuit is 150 sleep points and the MAX amount you can get in a single day is 100 and that’s only if you get a perfect sleep score. Leveling up and evolving your pokemon is then even harder because it’s not even about hours spent sleeping with a pokemon or just raising its level to a certain point. Nope you gotta keep feeding it level up candy to get it to a certain level and some you have to buy certain stones or items which cost thousands of sleep points. This is honestly the SLOWEST game EVER! Progress is like watching the continents move, yeah it’ll happen after years and years and years of work and dedication which most people will not bother with. If I’m over it after only a month I can’t imagine there are people that will be on it for years and years. You can’t even transfer any pokemon to Pokemon home which would be the ONLY benefit of actually using this app.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-16T10:42:09-07:00",
+      "rating": 4,
+      "title": "Great, but…",
+      "text": "Lately, it’s been having an issue where, when I set an alarm for a certain time, it changes whether it’s in the afternoon or the morning. I work late shifts at work. I need my alarm to go off at one PM so I can get to my job at 3 PM, and work until 11 PM. Twice now, it has changed my alarm from 1 PM to 1 AM, causing me to oversleep and have less time to get ready. I’m not sure what’s going on with that, but this NEEDS to get fixed.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-14T15:10:07-07:00",
+      "rating": 1,
+      "title": "Loading…",
+      "text": "I can’t read terms of  use or privacy notice.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-14T09:02:46-07:00",
+      "rating": 4,
+      "title": "Update: Not a good sleep app",
+      "text": "Update: gave it another chance. If you take two days to set it up, you get past the tutorials and things where you’re able to press “sleep” at any time \n\nOld: I wanted to like this so much but it’s constantly asking me questions instead of letting me log my sleep. I can’t even enjoy the game part bc I have to press skip 100 times. It should let you log sleep when you want to log and go back and play during the day where there is time… I slept 5 mins exhausted just trying to press “log sleep” but it never happened so I had to go back to my old sleep app",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-13T19:17:02-07:00",
+      "rating": 1,
+      "title": "WHY!!!😡",
+      "text": "This app is not helpful I want to listen to an audiobook, pokemon sleep: nah how about this we’re gonna shut ur audiobook off and play Pikachu noises😈, me:😭",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-10T01:50:37-07:00",
+      "rating": 1,
+      "title": "Palestine?",
+      "text": "I see Israel on there but no Palestine, what if someone wants to track their sleep over there? They still got phones.",
+      "version": "3.6.1"
+    },
+    {
+      "date": "2026-07-10T00:25:08-07:00",
+      "rating": 3,
+      "title": "Helpful, but lack of music choice",
+      "text": "Really have found this app helpful in trying to stick to schedule. However, it could greatly benefit from integrating some music services like Apple, Spotify, etc. as most of the “relaxing” sounds it provides are a little too stimulating to help with sleep.",
+      "version": "3.6.1"
+    }
+  ]
+}

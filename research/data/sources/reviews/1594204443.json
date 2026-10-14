@@ -1,0 +1,707 @@
+{
+  "app": "Runna: Running Plans & Coach",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T08:56:51-07:00",
+      "rating": 4,
+      "title": "Great Customization",
+      "text": "I really enjoy how you can customize your training plan based on current athletic ability. What stops it from being a 5/5 for me is the voice assistant that gives you updates during workouts. It’s quite janky and can interrupt itself when giving you updates.",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-09T09:34:40-07:00",
+      "rating": 2,
+      "title": "Vibe coded POS",
+      "text": "This is like Strava with less features. They’re really trying hard to be a personal coach but it’s missing too much. \n\nWhy am I spending another $20/mo for a less capable Strava that I already pay for?",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-06T11:19:46-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Very useful app, like a personal trainer.",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-06T08:08:00-07:00",
+      "rating": 1,
+      "title": "Waste of money",
+      "text": "Your app’s feedback on my running sounded like canned responses and were never relevant to me.  Your “post-injury” return to running plan is subpar versus ChatGPT.  I wanted a refund from my annual subscription but couldn’t get it through the Apple store.  ChatGPT easily replaces Runna as it’s more personable and weighs an athlete’s biofeedback—your app is a hodgepodge of do-it-yourself running plans.  Terrible.",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-06T07:08:10-07:00",
+      "rating": 1,
+      "title": "Horrible AI Bloated App",
+      "text": "Terrible",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-05T12:29:29-07:00",
+      "rating": 5,
+      "title": "Big confidence builder",
+      "text": "I’m on week six training for my first marathon. I looked at multiple training plans and read a few books before deciding to do this (at age 68).   I’m coming off of some minor overuse injuries as well.  Runna gives me steucture, a complete program, ample information about many topics, and a lot of advice following my runs.  This support gives me so much confidence!   I really believe that I can do this!",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-05T10:43:08-07:00",
+      "rating": 1,
+      "title": "Deleting Runs Mid Run",
+      "text": "This app that I PAID TO TRACK MY RUNS will delete and stop mid run. I have no watch so it’s NOT A WATCH ISSUE. TOTAL SCAM",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-10-02T11:17:05-07:00",
+      "rating": 1,
+      "title": "Let me cancel the plan",
+      "text": "They make it real easy to subscribe and pay, but want to cancel? Good luck.",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-09-30T13:51:10-07:00",
+      "rating": 5,
+      "title": "Love the app",
+      "text": "I love this app. I tried other running apps and find this to be the best fit for me. Easy to use and understand. Also keeps great details of your run if you want to break it down further",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-30T03:58:15-07:00",
+      "rating": 5,
+      "title": "Excellent pace guidance",
+      "text": "The Runna app provides detailed plans and pace guidance during runs.",
+      "version": "8.57.0"
+    },
+    {
+      "date": "2026-09-28T19:13:48-07:00",
+      "rating": 5,
+      "title": "App is sick",
+      "text": "Sick app",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-28T14:14:06-07:00",
+      "rating": 5,
+      "title": "Everything you need in an app",
+      "text": "Runna has changed my life in the past 4 months. Started from 0 and now I can run 13 km feeling strong and most importantly educated as this app got me here every step of the way. I can’t wait for my first half marathon in two months!",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-27T23:25:25-07:00",
+      "rating": 1,
+      "title": "The PMs and Engineers should be fired.",
+      "text": "Runna has been a great app thus far, but it’s incredibly buggy, the product team should be ashamed. Here are just a few issues: 1) Runna workouts don’t properly sync exercise minutes to Apple Fitness, unless you start the workout directly from the workout app. Countless threads on reddit about this, but no fix. 2) You can’t add a route to an upcoming run unless you’re on the current week. i’m trying to plan for next week and can’t add routes i’ve created. 3) You can’t view the route map you’ve added, you have to be actively within a work out to see it. I need to be able to navigate to my starting point! 4) The route map doesn’t show up on the apple watch if you start the run from the iphone app. 5) the workout insights are absolutely useless, and you are forced to rate the workout to see them. So much friction in the user experience. \n\nI’m training for my first half and using Runna due to the Strava brand, but the app is pretty bad. So close to just going old school and following a plan out of a book, since the app creates more friction in my workflow rather than being smooth.",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-27T13:30:17-07:00",
+      "rating": 5,
+      "title": "Great preparation plans",
+      "text": "Great training app for an upcoming half marathon. The app keeps me consistent and prevents me from overtraining. Great mix of hard work recovery and speed work. Worth the investment",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-26T13:34:09-07:00",
+      "rating": 1,
+      "title": "Too hard to cancel trial",
+      "text": "One star for making it way too hard to unsubscribe within the trial. Also, the voice that the app uses to talk to you sounds atrociously terrible.",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-24T20:32:03-07:00",
+      "rating": 1,
+      "title": "Just use Claude next time",
+      "text": "Annoyingly difficult to modify training plans and also very glitchy. Just going to ask an agent to create a running plan for me next time instead of paying for this slop",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-24T17:38:15-07:00",
+      "rating": 5,
+      "title": "Lovely",
+      "text": "Great way to use app. Love using with my Apple Watch",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-24T10:30:20-07:00",
+      "rating": 5,
+      "title": "Don’t waste your time!",
+      "text": "Strava pretends this is included with a Strava Premium membership. But all you really get is a lengthy onboarding process then you can’t do or see anything without paying more for Runna. Screw you Strava",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-24T09:44:32-07:00",
+      "rating": 3,
+      "title": "it was better before",
+      "text": "a lot of bugs lately, for instance, bad sync between phone and watch, workout glitches, wrong target paces, etc\n\nyou should be more careful with your releases\ni’m giving 3 stars because despite the bugs i really like the running workouts and the strength trainings the app provides",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-23T12:39:45-07:00",
+      "rating": 3,
+      "title": "Too Expensive",
+      "text": "I use Strava pretty consistently and was really excited to try out Runna when I had seen it advertised on Strava. I tried out the free trial and really liked the suggestions that were tailored to my goals. However, I’m already a premium member on Strava and don’t think I should have to pay twice to utilize this app as well. If there was a reasonable discounted deal for existing/long-time Strava users I could get on board, but it’s way too expensive to be a premium member of both.",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-23T09:40:06-07:00",
+      "rating": 1,
+      "title": "Unusable if new to running",
+      "text": "There’s no way to actually adjust the difficulty of a run. Even if you cant do a run, it wont make the next run any easier, just a slightly smaller escalation. Adjusting the length of the plan or adjusting the number of runs per week makes no meaningful difference. So frustrating and just makes you feel like a failure because you arent set up to succeed.",
+      "version": "8.56.0"
+    },
+    {
+      "date": "2026-09-22T15:16:13-07:00",
+      "rating": 5,
+      "title": "Keeping me Running.",
+      "text": "Runna does a great job building my confidence in running and getting me moving without a lot of effort. The work is displayed and calculated and shows me where I can grow and better. \n\nLeaves the room\nto focus on effort well data is kept seemingly.",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-21T16:02:46-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app helps me to improve my running form, pace and speed. I love how it schedules your training and runs.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-21T13:05:08-07:00",
+      "rating": 5,
+      "title": "Top notch!",
+      "text": "I started getting back into running about a year ago and found myself struggling to make workout plans. Honestly it was even more of a struggle to adhere to them once I actually made them. Runna has been so great, just tell em what you want to run and when and presto! Months of workouts laid out for you with a great community to connect with and support you 10/10",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-21T06:20:32-07:00",
+      "rating": 1,
+      "title": "Unusable corporate greed",
+      "text": "Good for the two week trial but after that it is unusable in its free state. I used Runna when it first came out and it was amazing. I went from barely being able to run a mile to running 8. I stopped running for a while and now that I want to get back into it I cant even rearrange workouts or click to see an overview of the workouts. This is certainly because of the Strava acquisition. Im so disappointed that this app has become so money hungry that it doesn’t support some basic usage. The price is too high to justify paying into for an AI generated workout plan. Corporate greed at its finest.",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-21T05:28:02-07:00",
+      "rating": 5,
+      "title": "Enjoy the workouts!",
+      "text": "Great running and lifting workouts. I feel like I’m being truly trained for my half marathon",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-20T21:46:54-07:00",
+      "rating": 5,
+      "title": "The best",
+      "text": "This app is the goat",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-19T12:05:32-07:00",
+      "rating": 5,
+      "title": "Great App for Getting Back on Track",
+      "text": "I’ve really enjoyed using Runna. After taking some time away from running, I wanted something that would give me structure and help me get back into a consistent routine without having to figure everything out myself.\n\nThe training plans are easy to follow, the workouts give me a purpose every time I head out, and I really like having different sessions such as easy runs, intervals, hills, and longer runs instead of just going out and running the same 5K every day.\n\nI’m currently working on improving my 5K and building my mileage back up, and Runna has helped make running feel fun and goal-oriented again. I also really like how well it integrates with my Apple Watch and fits into my overall training.\n\nDefinitely a 5-star app for me! ⭐️⭐️⭐️⭐️⭐️",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-17T15:14:39-07:00",
+      "rating": 3,
+      "title": "Great, except for UI on hills",
+      "text": "This app is the single thing that keeps me working towards my run goal, and it’s mostly good. But I will not love it until Runna gets its act together with the UI on hill repeat workouts. It’s clunky, confusing, and requires me to spend half the workout fiddling with my phone. There simply has to be a better way to make this functional. Please please please make this improvement!",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-16T18:31:30-07:00",
+      "rating": 1,
+      "title": "Bug that has appeared",
+      "text": "Hello, please fix the bug that has recently appeared. This app works well for the most part but between plans I added some light runs. When I delete or move one of them now they delete all free runs I made. I have to close the app to have the other runs appear. This is all synced to my calendar and has made a mess of things.",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-16T09:59:52-07:00",
+      "rating": 2,
+      "title": "It’s good but you need to pay for everything",
+      "text": "And anything",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-15T11:22:19-07:00",
+      "rating": 1,
+      "title": "Trying to cancel free subscription",
+      "text": "I’ve been trying to cancel my free subscription and run a makes it damn near impossible to do. They give you instructions on how to do so but when I go to my subscriptions, because I’m in a free trial it does not show up (on IOS). I’ve tried to find something on their website and there is nothing for that either. When I go on the app itself, it redirects me to the runna website which then redirects me to the app. Seems like an infinite loop that will never end, and that I’ll have to pay for an app I do not plan on using.",
+      "version": "8.55.0"
+    },
+    {
+      "date": "2026-09-14T18:30:43-07:00",
+      "rating": 1,
+      "title": "Very disappointed",
+      "text": "I used runna to improve my 5k pacing, I was excited because I’ve heard great things. Not only did I run a slower 5k than my usual/previous 5ks but I also had to stop so many times because the plan made me so unprepared. Very disappointed. I got a small refund but it didn’t make up for the MONTHS I wasted using the plan that literally made me run worse.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-14T06:57:45-07:00",
+      "rating": 5,
+      "title": "Great for casual and serious training",
+      "text": "Casual is a generous description for how I run, but Runna makes it fun and holds me accountable for maintaining my fitness goals. The developers listen to feedback, and it feels like real people are behind the app- even after the Strava merger. As someone who has no idea where to start and is a self-described slow runner, Runna has taken the stress of not knowing if what I’m doing is correct out of the equation while still fitting seamlessly into my lifestyle.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-14T03:56:41-07:00",
+      "rating": 1,
+      "title": "I love this app but I’m leaving this app",
+      "text": "Runna helped me so much with running and I love this app. However, it used to be free and now you can only do one week free. There are plenty of free running apps that do exactly the same thing so, although I’d love to keep using Runna, I can’t justify paying 20 dollars a month for it when free options exist.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-14T01:01:56-07:00",
+      "rating": 1,
+      "title": "Why is everything a subscription..",
+      "text": "I love the idea of this app and the practicality of the training plans. I can see how it’s beneficial to help beginner and experienced runners alike become stronger, healthier, and more confident in their running abilities. Which is why it’s so frustrating that it’s a subscription. Not everyone has the financial capabilities to pay for this app’s subscription, limiting access to a part of the population who wants to better their health but is unable to afford another subscription. Running should be accessible for all, without the training resources behind some paywall. Please consider a more affordable, or even free version.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-09T11:26:08-07:00",
+      "rating": 1,
+      "title": "Cannot log in",
+      "text": "Cannot log in via Strava. Unspecified error given. No customer support access.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-09T11:06:09-07:00",
+      "rating": 5,
+      "title": "Game Changer",
+      "text": "This app will set realistic goals for you. It creates plans that are tailored to you and manageable. Their features are user friendly and you can use it with smart watches.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-07T19:17:40-07:00",
+      "rating": 5,
+      "title": "The best",
+      "text": "If you want to start running, this app is the BEST. 10/10 couldn’t recommend it enough.",
+      "version": "8.54.0"
+    },
+    {
+      "date": "2026-09-06T18:20:59-07:00",
+      "rating": 4,
+      "title": "Please accommodate target paces for stroller runs!",
+      "text": "I love love love this app. BUT I run with a stroller 50% of the time. My pace will be a little bit slower (Google says up to a minute/mile slower). When doing a timed/paced workout, I wish there was an option to say I’m using the stroller so my target paces could be updated.",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-06T18:19:16-07:00",
+      "rating": 5,
+      "title": "Great workout plans!",
+      "text": "I’ve picked up running 2 years ago in my mid 50s and have been creating my own training plan. Now I’m 4 weeks into a 10 week Runna half-marathon training plan that used my past Strava data and built a challenging yet manageable schedule that I have found to be extremely beneficial! I’m feeling stronger and more confident about the half-marathon than I would have been on my own. Thank you Runna!",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-09-06T08:22:38-07:00",
+      "rating": 5,
+      "title": "Great App for Consistency!",
+      "text": "I picked up running after a very long break from it and Runna has been amazing at helping me ease back into it. The plans are great and the best part is the calendar option and notifications to keep you accountable. I like seeing my planned runs laid out before me so I can see what the week is going to look like. Starting workouts on my phone and then Transferring to my Apple Watch is seamless. It’s a great app that I plan to use for a long time.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-09-05T18:28:24-07:00",
+      "rating": 1,
+      "title": "Overly optimistic and wildly connected to injuries",
+      "text": "This app is wildly over optimistic in training and pace. This opinion is coming from not only my experience with multiple full and half marathons, but is also other experience coaches and runners that you can find with simple research online. I highly suggest getting connected to a run club and/or actual coach whose true goal isn’t preying on the unknowing or inexperienced. If I could take my time and money from this app I would. Biggest waste of time and money I’ve ever spent is using this garbage.",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-05T11:27:36-07:00",
+      "rating": 1,
+      "title": "Canceled and charged anyway",
+      "text": "BEWARE. I canceled this app on the App Store and unsubscribed from emails but I was charged anyway. And I can’t reach anybody to reverse the charges. A reminder email that they were going to charge my card went to spam.",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-04T18:48:39-07:00",
+      "rating": 3,
+      "title": "Don’t believe the 4.9 stars",
+      "text": "While the premise of this app is great, the AI used just cannot keep up with the slightest customization. For instance, I recalibrated my plan because I’m going on a vacation, and it increased the length of a run that I had already completed and therefore couldn’t hit my weekly goal. Small issues, but for $20 a month I’m expecting things to work (like my lock screen live tracking). You’re better off using a free chat bot to build you a plan, especially if you get demotivated by missing targets due to app glitches.",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-04T16:08:13-07:00",
+      "rating": 5,
+      "title": "Easy App",
+      "text": "AI feature is easy to incorporate in my running routine!",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-09-04T09:33:06-07:00",
+      "rating": 2,
+      "title": "Needs some work",
+      "text": "I love the idea of this app - setting custom paces, warm up, cool down stretches.  It gives a great framework to follow, and the plan design seems great.  BUT, there’s a lot of issues. My biggest gripe is that the Apple Watch integration doesn’t work.  I’ve been on 5 runs using this app and only 1 of them has worked the way it’s supposed to (I have the latest Apple Watch).  Most of the time, the app will freeze, pause, not keep track of miles, or sometimes the screen will just be black.  \n\nFeature request: when your run is logged incorrectly (which it normally will be through the watch), there should be a way to edit the runs (or combining data from multiple runs). Would be a great add. \n\nI’m going to continue using it for the plan design, but won’t be using the Apple Watch features, which is a huge bummer.",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-02T13:45:56-07:00",
+      "rating": 1,
+      "title": "Don’t use if you wanna use Apple Watch",
+      "text": "3/10 times the app will crash on your watch and lose all progress of that run. really ruining your run",
+      "version": "8.53.0"
+    },
+    {
+      "date": "2026-09-02T06:38:49-07:00",
+      "rating": 5,
+      "title": "Great for Apple Watch",
+      "text": "Makes running with my Apple Watch more enjoyable than using the fitness feature. Words are spoken less often and more quickly, and the words are more motivating.",
+      "version": "8.52.1"
+    },
+    {
+      "date": "2026-08-31T08:12:44-07:00",
+      "rating": 5,
+      "title": "Great app for new runners",
+      "text": "I’ve been running for years just to stay in shape for work, did it for sports when I was younger. Now that I’m older, getting into doing some races (did 5k, doing a 10k next month and a half marathon in November). Never knew anything about pacing and training volume/frequency. This app is great for that. Audio quest to speed up or slow down depending on the run that day have helped immensely. Was a bit worried about the 10k, but after using this app for a bit, felt confident in signing up for the half. Highly recommend this to new or inexperienced runners.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-30T18:49:45-07:00",
+      "rating": 1,
+      "title": "Do not download",
+      "text": "The app auto renewed and charged me $129 without any warning or way to cancel my subscription.  The subscription is not displayed on the Apple subscriptions so there’s no way to cancel it.  I will need to report a fraud through my bank.  Do not download this app.  The information it gives you is all available through AI, and Strava works fine for routes.",
+      "version": "8.52.1"
+    },
+    {
+      "date": "2026-08-30T07:52:36-07:00",
+      "rating": 5,
+      "title": "Love Runna",
+      "text": "Best app I’ve used yet.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-28T15:24:43-07:00",
+      "rating": 5,
+      "title": "Very helpful planning for a marathon",
+      "text": "I have used a number of running apps, but Runna is the best one I have used for marathon preparation. The app put together a good training plan based on my most recents tracked runs. The watch app makes the runs simple to track and provides helpful feedback.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-26T18:53:16-07:00",
+      "rating": 3,
+      "title": "Editing",
+      "text": "Not being able to go back and edit runs is actually ruining this program for me. I run mostly at the gym on a treadmill right now because it is so hot outside, and half the time the app freaks out and doesn’t stay connected to the treadmill halfway through the run. I’m not just going to start over halfway through a 6 mile run, so I try to remember all my numbers and edit them whenever I get to the final page. If I accidentally hit save or have to stop my run in the middle to use the restroom, my progress is screwed. Please add a way to edit so I can keep my stats accurate and my training plan can be modeled around my actual times. \n\nOtherwise, happy with the training plans. This has been an incredible tool for holding myself accountable and I love it!!",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-26T18:51:13-07:00",
+      "rating": 5,
+      "title": "Motivational and insightful",
+      "text": "This app got me up and on my feet. It provides insight and helps to create a plan tailored to you. Totally worth it",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-25T09:52:40-07:00",
+      "rating": 4,
+      "title": "Good when it works",
+      "text": "This app does a pretty good job overall in planning your training schedule for a race. However, I find it to be quite buggy and it could also use some enhancements. For the bugs the sync often fails. I’ve had issues with re-organizing a plan, the app would crash. I also noticed the heart rate sync with my Apple Watch does not match. Suggestion for enhancement, when using the app timer for a set. It has a noise when you click the timer to start. Perhaps it would be a good idea to also have a bell/noise when the time has ended.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-25T05:40:21-07:00",
+      "rating": 5,
+      "title": "Great training app",
+      "text": "I am improving every week following the coaching sessions",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-24T07:46:51-07:00",
+      "rating": 5,
+      "title": "Great planning",
+      "text": "Great planning but sometimes feels like the prediction are a little exaggerated.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-24T04:17:32-07:00",
+      "rating": 5,
+      "title": "Running with Runna",
+      "text": "Love the app. Using the 5k improvement plan and workouts with premium to train for my first spartan sprint. #teamrunna",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-23T18:10:07-07:00",
+      "rating": 2,
+      "title": "Needs work",
+      "text": "The plan is the best thing about the App. It’s buggy will sometimes not record, trigger Spotify and there is a time difference between your phone and the app when using treadmill. It has a lot of potential but honestly Strava is more reliable but doesn’t offer a training plan. The other issue is if you are injured or want to modify a workout your only options are to skip it or record it but you have to either put notes or notes. So if you are on a training plan it just adds pressure to complete rather than complete within your means. They need to listen to new runners who could be a large customer base.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-23T12:49:43-07:00",
+      "rating": 5,
+      "title": "The motivation I needed",
+      "text": "I love how this app has taken the thinking out of running for me. I just need to the workout it gives me and they are the right level of challenging for me without burning out. I’m a huge fan!!",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-23T07:34:16-07:00",
+      "rating": 5,
+      "title": "New favorite running app",
+      "text": "Great at planning training and making it easy to adjust as life requires tweaks to the plan. Great watch app!",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-22T08:08:59-07:00",
+      "rating": 5,
+      "title": "Best Running App",
+      "text": "I’ve used numerous running apps over the years and this is by far the best in terms of technical integration, plans, etc. I use my iPhone, Apple Watch and AirPods and for the last 3.5 months have had zero issues (I can’t say that about any of the other apps). One addition I would like is conversational AI with the app. I often times have questions about the plan, the metrics, last run versus this run, etc and I find myself doing a lot of page switching and online searching to get answers. I’d also like to use the AI to modify my plan (like vacations, skipped workouts, should I add a 5K or 10K race into my plan on this date, etc) versus going through the menus and trying to get what I want.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-20T21:14:47-07:00",
+      "rating": 4,
+      "title": "Good app",
+      "text": "It's a good app- and I'm enjoying it but it's lacking a very simple feature that could make it great. I would love the inclusion of an option to have runs automatically end when the distance is over. I understand some times people may want to manually turn the run off when they're done if they want to go longer but there should be an option to choose because I hate having to fumble with my watch at the end of each run.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-20T09:46:06-07:00",
+      "rating": 5,
+      "title": "Amazing App!",
+      "text": "This app has helped me improve as a runner.",
+      "version": "8.50.2"
+    },
+    {
+      "date": "2026-08-19T14:34:05-07:00",
+      "rating": 5,
+      "title": "Absolute excellent app for beginners",
+      "text": "The only really negative things I can say is that there is not turn by turn map navigation, that it doesn't allow for training on other things like bike and swimming if you wanna triathlon and that the subscription doesn't include Strava (Strava owns Runna). I literally went from couch to marathon using only this app. Their support is fantastic. Give it a try.",
+      "version": "8.50.1"
+    },
+    {
+      "date": "2026-08-19T14:16:15-07:00",
+      "rating": 5,
+      "title": "Great training app",
+      "text": "I’m getting back into running and getting ready for half marathons and this app has boosted my confidence overall. I’m excited to take on my first race here soon. Most importantly, I’m confident I can make it. So far so good. Hopefully in a year, I can hang with the faster runners. But for now, I’m satisfied with my progress.",
+      "version": "8.50.1"
+    },
+    {
+      "date": "2026-08-18T12:31:27-07:00",
+      "rating": 5,
+      "title": "Not very impressive for the price",
+      "text": "I wanted to try out Runna after having previously tried marathon training plans that are available for free online. I didn’t find that this was any more helpful and the AI is all non-responsive, and not based on real-time conditions, it feels like everything has just been dropped into an Excel sheet and then into an app without thought going into heat, rain, cold, humidity, injury, and or other life factors that affect every runner. This app feels like more marketing than product. Unless you want to desperately buy into an app, I would recommend downloading a training plan online and just sticking to it.",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-17T17:53:38-07:00",
+      "rating": 5,
+      "title": "Finally Gave In. Best Decision I Could Have Made",
+      "text": "I absolutely love this app it adjust to my progress and prompts me doing the workouts is exactly what I needed",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-17T15:48:07-07:00",
+      "rating": 1,
+      "title": "Apple Watch Issues",
+      "text": "Latest update broke the connection between Runna and the native workout app. I can no longer access the Runna workouts in my apple watch. I’ve deleted/reinstalled and made sure everything is enabled. Seems my friends are experiencing similar issue. I don’t like using the Runna watch app because the views and audio cues are just not right for me.",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-17T01:22:20-07:00",
+      "rating": 5,
+      "title": "Hyrox L1 Performance Coach/UESCA Running Coach",
+      "text": "Fantastic. Only feedback is sometimes a warm up run isn’t always programmed before the workout starts.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-16T15:51:05-07:00",
+      "rating": 5,
+      "title": "Great coaching app",
+      "text": "As a coach app, I feel very happy with the results 47 years old never run before. I’m preparing for my first 5k, I’m doing great so far.  Worth every penny.  Fully recommended it.",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-16T15:35:42-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "After having two kids, I needed something affordable but effective. Runna is that for me. The app makes the plan for me and is easily adjustable for the unpredictable schedule. I appreciate the variety in the workouts. I felt stronger and more fit even just three weeks in.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-16T12:54:35-07:00",
+      "rating": 1,
+      "title": "Worst customer service I’ve ever seen",
+      "text": "Got this app to help me train for my half marathon, tried the free week of the plan and it was great, so I upgraded through the Runna app for the year. Right after I did I realized that there was a Strava + Runna bundle, which wasn’t offered via Runna, and apparently if you want to upgrade to the bundle you won’t get credited for your remaining Runna premium time, which I learned via their chat bot. You can upgrade Strava premium to the bundle and get credited, but not Runna, which makes no sense. I chatted with their customer service chat bot, which wasn’t helpful, they escalated me to a support request with an agent, who got back to me 2 weeks later with a canned response sending me the same upgrade guide link the chat bot had, telling me to wait a year or throw away my Runna premium subscription….",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-16T08:36:33-07:00",
+      "rating": 1,
+      "title": "Non-operational",
+      "text": "It does not track the run nor pace. I’ve attempted to use it each time I run and Strava is much better at tracking. Run a has not worked at all. Disappointed with the app. I was hoping to track more consistently with Runna. I will\nBe deleting the application.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-16T06:23:04-07:00",
+      "rating": 5,
+      "title": "App with strength",
+      "text": "Truly enjoying the run schedule strength, yoga, Pilates and stretch to get stronger for my upcoming NY Marathon! At 70 years of I am getting stronger while training",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-16T05:53:16-07:00",
+      "rating": 5,
+      "title": "A Game-Changer for New Runners",
+      "text": "I’m newer to running and currently training for my first half marathon while also being about 70 pounds overweight. I’ve tried running in the past, but I always ended up failing because I was trying to run way too fast.\n\nRunna has completely changed that for me. It helped me understand that it’s okay to slow down—even if that means running just a little faster than a walking pace—and that speed and endurance will come with training.\n\nI love that the app adapts to my current fitness level rather than expecting me to already be a runner. The coaching, pacing guidance, and personalized plan have helped me build confidence and realize that I actually can run.\n\nIf you’re new to running or have struggled to get started because you feel like you’re “not a runner,” I highly recommend giving Runna a try. It’s been a game-changer for me! 🏃‍♀️",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-15T23:32:55-07:00",
+      "rating": 1,
+      "title": "Charged me when i didn’t even get there subscription",
+      "text": "I got 19.99 taken out of my account from this app. i don’t know how they charged me considering they aren’t even on my subscription list. i want my money back that you took!",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-15T12:12:20-07:00",
+      "rating": 1,
+      "title": "Auto renewal Refund Denied",
+      "text": "I used the app last year and paid for the premium version. I stopped using it mid year and thought I’d cancelled the subscription. \n\nIt appears I was wrong and the subscription auto renewed. I requested a refund and the request was denied. I requested a refund and was denied again with no explanation. I called Apple support and was told that they can’t tell me why the refund request was denied. I spoke to a manager who also said they could see or tell me why the refund was denied but that it probably has something to do with the apps terms and conditions and the decision was final/I have no recourse. \n\nNot sure if the app or Apple support is to blame as nobody could tell me why the refund was denied/what I should next.",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-15T03:27:03-07:00",
+      "rating": 2,
+      "title": "Constantly freezing",
+      "text": "The app runs on my phone in the background and when I’m done a run and try to stop it, it’s frozen 50% of the time. Eventually it unfreezes but by then enough time has elapsed that it significantly miscalculated my pace. And then there is no way to edit the elapsed time to fix it.",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-13T20:07:08-07:00",
+      "rating": 5,
+      "title": "Runna on Apple Watch",
+      "text": "Love leaving the iPhone behind and still getting the run information and coaching in real time. Easy to learn to use. If you have an Apple Watch you should give it a try on your next run.",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-12T08:03:30-07:00",
+      "rating": 4,
+      "title": "Use it",
+      "text": "Not bad could be better if more mechanics were free but good overall",
+      "version": "8.50.0"
+    },
+    {
+      "date": "2026-08-11T07:36:12-07:00",
+      "rating": 5,
+      "title": "Runna Plans avoid injuries",
+      "text": "I just did a six week plan and usually I would have been injuries. Realizing you don't need to go all out every run and don't have to run every day was eye opening. I improved my overall goal time by three minutes and still have strong healthy legs!",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-11T04:11:33-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great app for training",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-10T13:59:58-07:00",
+      "rating": 5,
+      "title": "Amazing app!",
+      "text": "I love how easy this makes running for me. The programs they design make me feel like I have my own personal trainer but for a fraction of the cost! Takes the guess work out of running.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-10T11:48:53-07:00",
+      "rating": 4,
+      "title": "Pretty good",
+      "text": "I love the structured running plan but I would like it better if the watch and runna app would sync better",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-10T03:48:35-07:00",
+      "rating": 5,
+      "title": "Essential App for Runners",
+      "text": "The hype about this app is real, and it’s worth the money. They offer a free trial, and I was sold. I would not have created this running plan on my own. I am a personal trainer, and I have discovered new exercises (for runners) in their strength training workouts. 100% worth it. I see the integrity and heart and love of running that went into building this app.",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-08T21:10:18-07:00",
+      "rating": 5,
+      "title": "Newbie",
+      "text": "I am new to the Runna App, but I’m extremely happy I found it. I’m using it to train for a marathon and in a short period of time it has held me accountable and helped with my pace. As someone who is not a runner this has been a great experience for me. My effort has increased, my pace has gotten better and adjusting my runs to work with my schedule has been a blessing. This app is honestly a life and time saver when it comes to preparation or guidance for a race or just getting into running",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-07T13:56:04-07:00",
+      "rating": 1,
+      "title": "Spam notifications",
+      "text": "This app decided to interrupt my day with a notification for SHOE SALES.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-07T12:01:07-07:00",
+      "rating": 5,
+      "title": "First time marathon training",
+      "text": "This is my first time training for a marathon and I’ve been doing it! I am so excited for this journey and runna is helping me  get there!",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-07T08:50:43-07:00",
+      "rating": 1,
+      "title": "No injuries running… until I started using this app",
+      "text": "I really wanted to like this app, and thought it would be great, so I opted for the year subscription via Strava. Huge mistake. I’ve been running for a few months now injury-free, but since I started using this app, injuries have been creeping in. It just pushes too hard, too fast, and that’s a recipe for injuries. The voice prompts are also the absolute worst. All of the voices they offer sound incredibly robotic and depressing. And while support seems to be responsive (which is good because the releases have been buggy) all of their support messages seem to be written by AI. Whether any are sent by real people or AI agents, I don’t know.\n\nI am currently nursing what appears to be an ACL injury after the latest run. I don’t think I’ll be using the app again. \n\nIf you are new or newish to running, returning to running, whatever, please do not use this app. It’s going to increase volume far too quickly (recent research says no more than 5% per week, and this app seems to double that). It has made me start to hate running, which is terrible. But I’m stuck with the purchase. Just trying to save others.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-06T12:48:58-07:00",
+      "rating": 1,
+      "title": "Very poor",
+      "text": "This really should be something in Strava. It has no real unique features, if you want to pay monthly to have an app add your runs to your calendar that’s extent of the use. It make no effort to understand your schedule and needs, you have to fine tune it to the point where you may as well make the plan yourself. The ai information is never useful or relevant, just feels like copy and paste messages. Very disappointing.",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-05T20:31:21-07:00",
+      "rating": 3,
+      "title": "Annoyed",
+      "text": "Why does it stop my runs early???? Needs to be more difficult to stop and end runs because it’s happened multiple times with me barely touching my phone. Really frustrating",
+      "version": "8.49.0"
+    },
+    {
+      "date": "2026-08-04T15:31:22-07:00",
+      "rating": 4,
+      "title": "Overall great app",
+      "text": "Great for pacing and setting goals. I personally experience some technical issues sometimes during my runs which can be stressful.",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-03T21:45:34-07:00",
+      "rating": 5,
+      "title": "I like it",
+      "text": "I never considered myself a runner. However, being able to wake up, put on my watch, and already have a workout waiting for me makes it so much easier to just get out the door. For me, that convenience alone makes it worth the money.\n\nI also love that the plan adapts to my pace. If I’m consistently running faster than it recommends, it eventually asks if I want to increase the target paces for future runs. If I’m running slower, it’ll ask if I want to adjust those paces too. That’s one of my favorite features.\n\nThe variety of workouts has also kept things interesting. Mixing easy runs, hard workouts, and long runs has helped me stay consistent. I’ve been running consistently for 10 months now, and I don’t plan on stopping anytime soon.\n\nI hit my original 5K goal pace, and now I’ve set a new goal. I’d definitely recommend it to anyone who can afford it and values the convenience.",
+      "version": "8.48.0"
+    },
+    {
+      "date": "2026-08-03T12:34:32-07:00",
+      "rating": 5,
+      "title": "So good, highly recommend",
+      "text": "Very good app! It's adaptive, encouraging in many ways. Overall such a great app!",
+      "version": "8.48.0"
+    },
+    {
+      "date": "2026-08-03T02:21:35-07:00",
+      "rating": 4,
+      "title": "Get the app",
+      "text": "First time training for a marathon. This app takes the worry out of preparing and allows the body to build in strength and stamina. Confidence builder!",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-02T19:03:30-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I’ve been running for years but never under a program of instruction.  This app has allowed me to follow a regimented run routine to improve and I’m getting ready to run my first 10K race in a few months! I recommend to anyone looking to get structured run coaching.",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-02T16:33:30-07:00",
+      "rating": 3,
+      "title": "Train Running",
+      "text": "Doesn’t take into account adjusted pace for courses with a lot of elevation change despite this being an existing Strava feature.",
+      "version": "8.47.0"
+    },
+    {
+      "date": "2026-08-02T11:32:59-07:00",
+      "rating": 5,
+      "title": "Great program, good personal results",
+      "text": "Super cool app. My times and fitness increased when I started this program.",
+      "version": "8.47.0"
+    }
+  ]
+}

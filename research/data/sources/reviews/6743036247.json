@@ -1,0 +1,707 @@
+{
+  "app": "Arise: Level Up Workout Game",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-05T15:29:09-07:00",
+      "rating": 3,
+      "title": "Requires you pay",
+      "text": "I was really eager to start this. The app looked like it was made just for me. There was no warning in the ad or anywhere during sign up that it cost money. Disappointed.",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-10-05T05:28:55-07:00",
+      "rating": 1,
+      "title": "No longer lets you log in",
+      "text": "I paid for the year loan subscription and a few months in it logged me out and gives me error code so I can no longer log back in. I’ve lost all of the points I had acquired.",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-10-03T13:02:48-07:00",
+      "rating": 1,
+      "title": "Costs money",
+      "text": "If i need to pay to lose weight, I'd see a surgeon",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-10-01T14:17:01-07:00",
+      "rating": 1,
+      "title": "I can’t log into my account",
+      "text": "I’ve been trying to log back into my account and it won’t let me keeps giving me some weird error code I would like help bc the apps not that bad",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-09-30T14:21:38-07:00",
+      "rating": 2,
+      "title": "Was Good until it wasn’t.",
+      "text": "App is actually good until it randomly says I no longer have a subscription after paying for a whole year.\n\nNo support when you email.\n\nHas an option to join a discord server that doesn’t exist.\n\nAnd when restoring purchases it doesn’t realize I have and account.",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-09-28T21:19:26-07:00",
+      "rating": 2,
+      "title": "Having account issues - 9/28 update",
+      "text": "9/28/26: it’s been a week since I have received the response to my review from the developer. They told me I should be able to log in and the error I’m receiving is just a dropped session. I was told they would be going into the internal settings and correct the issue. Afterwards, I would receive direct communication from the development team. If you guys are still working the issue, can you just give me an update so I’m not thinking you forgot about me. I appreciate it. \n\n9/19/26: I have a year long subscription and now when I try to sign in it says invalid user token. The links to the developers don’t work. I’m unsure how to request support now that I can’t even log in. So hopefully you guys see this review.",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-09-28T08:40:26-07:00",
+      "rating": 1,
+      "title": "Subscribed now can’t access",
+      "text": "I purchased a one year plan and for some reason, I can’t log in with Apple account. When I log in, it says user’s credentials is no longer valid and only gives me options to log in again. There’s no way to go to settings and there doesn’t seem to be any way to contact customer support. Please help.\n\n09/28/2026 Update: still no way to contact. Was told  someone would reach out to me.  Nothing. Demanding a refund.",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-09-28T05:05:42-07:00",
+      "rating": 1,
+      "title": "Lying is terrible",
+      "text": "Calling an app free but forcing payment to use it does not make it free. Garbage company",
+      "version": "1.4.10"
+    },
+    {
+      "date": "2026-09-26T07:37:07-07:00",
+      "rating": 1,
+      "title": "Purchased the subscription and now I cannot sign in",
+      "text": "I purchased the subscription and everything was working just fine until I couldn’t sign in anymore. It logged me out and then tells me to continue login with Apple ID, everytime I try to login it says syncing data and then gives me an error telling me I need to sign back in. So I’m basically just stuck in a loop, then not to mention if you go to the website to reach out to support it apparently doesn’t exist. Wouldn’t recommend this app to anyone",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-25T13:52:01-07:00",
+      "rating": 3,
+      "title": "Rating",
+      "text": "Overpriced but still it is very good",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-24T18:27:40-07:00",
+      "rating": 2,
+      "title": "Should be a paid app",
+      "text": "So, you can’t do anything without a subscription. So you can’t even tell if the app is usable or the workout instructions are any good. The score it gives you initially is based only on your BMI (meaningless), what you say your activity level is, and maybe age. The “plan” it shows you before subscribing only lists the first day of exercises. Who knows, it could be as good as the other reviewers say, but I don’t feel like spending 20-50 bucks to find out - or spamming my friends to get a 7 day trial.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-24T18:18:14-07:00",
+      "rating": 4,
+      "title": "WE NEED forearm workouts",
+      "text": "Missing some muscle groups, would like workouts thats target the forearms!!!",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-24T11:45:31-07:00",
+      "rating": 3,
+      "title": "Great idea, execution still needs work",
+      "text": "I love the idea behind the app, but even with the paid subscription it’s lacking a number of features that are considered standard on many other fitness apps",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-23T23:05:26-07:00",
+      "rating": 1,
+      "title": "It signed me out, even though I have a subscription I logged",
+      "text": "I was signed out of my app and I logged back in. You know I have a subscription. It does not let me go to my account. It tells me there is no account found and I am subscribed until October 13 of this year. Can we fix this issue ASAP? and I’m using the right email.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-22T07:08:34-07:00",
+      "rating": 1,
+      "title": "greedy money grab",
+      "text": "all they want is my money",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-21T15:56:57-07:00",
+      "rating": 1,
+      "title": "Cannot even use the app",
+      "text": "It will no longer let me in the app and sign in and no customer service will even respond. Still waiting on a response from developer as of 9/5/2026",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-19T15:36:54-07:00",
+      "rating": 1,
+      "title": "Annual subscriber locked out",
+      "text": "Paid for annual subscription can’t even sign back in",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-19T06:08:03-07:00",
+      "rating": 1,
+      "title": "Waste of time",
+      "text": "They wasted my time by not saying it costs money outright on the App Store. It’s unusable without paying for it. They should just slap a price on it from the get go if it isn’t free to use.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-17T20:39:00-07:00",
+      "rating": 1,
+      "title": "Can’t even use the app.",
+      "text": "I signed up for a one year subscription and still can’t get anything but the subscribe screen. I tried clicking the app support but on the itunes store page and it says website not found. I click on the restore on the subscription page and it tells me I don’t have a subscription. I got an email receipt telling me I had my payment processed. The help link on that email goes to a company called MeAgain. They say they are a GPL-1 app that has nothing to do with Arise. This whole process is infuriating. You shouldn’t have an app store app if you can’t provide support. The subscription page says “money back guarantee”, if that is true, developer please respond on how I get my money back. Thanks.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-17T17:12:45-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "It’s a really great app but can you guys please add widgets? Everyone would love that.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-14T00:18:12-07:00",
+      "rating": 1,
+      "title": "Another Paid Service",
+      "text": "The biggest thing that truly demotivates me is deception. When something is listed as free but is not, the first thing that comes to mind is how quickly I can avoid any sort of person, platform, or host site who would make such listings. This is a huge problem with apple that I don’t see getting fixed.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-13T13:58:29-07:00",
+      "rating": 1,
+      "title": "Can’t recover",
+      "text": "I’m so upset! I trying to login to App on my iPhone and it keeps saying credential error. I tried everything deleted, reinstalled, then reset but nothing.\n\nI paid annually and I can’t even use the app even more. I’m so upset! I won’t change the review until support either fix it or refund me.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-13T07:26:46-07:00",
+      "rating": 2,
+      "title": "Boooo",
+      "text": "You know when you have to answer a ton of questions in the beginning and agree to all the benefits they’re going to make you pay for it",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-12T04:37:09-07:00",
+      "rating": 1,
+      "title": "Terrible User Interface",
+      "text": "I was excited to start the program but not only does it not allow me to add other workouts, it forced me to log a rest day when I clearly selected one of the E rank programs to go along with the daily recommended workout. It’s wonky and takes a long time to load. What did I expect from AI slop?",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-11T11:26:49-07:00",
+      "rating": 2,
+      "title": "WAS great when I had access",
+      "text": "I had to delete the app at one point. Now I get an error every time I try to log bag in with my Apple ID. I have tried to find contacts for the developers to get guidance on how to access my account because I paid for a subscription. I found one email address but have never heard anything from them. If ANYTHING goes wrong, it seems they are impossible to get in touch with.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-09T18:14:44-07:00",
+      "rating": 2,
+      "title": "It's cost money",
+      "text": "It cost money",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-07T15:05:39-07:00",
+      "rating": 1,
+      "title": "Does not work save your money.",
+      "text": "Save your $20 First month was good. But then went down hill, the app is subscription only, but does not save your progress and make you redo your program from scratch. Contacted Devs for months and all we get is “they’re working on it” it’s been months. Their discord doesn’t help either, everyone is having the same issue with no resolution and devs do not respond to anyone on their discord.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-06T15:42:44-07:00",
+      "rating": 2,
+      "title": "Why isn’t it free",
+      "text": "I’m trying to start working out and I thought it was free",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-05T08:21:31-07:00",
+      "rating": 1,
+      "title": "Replaced by a to do list app.",
+      "text": "Tried contacting company about sign on problems but they don’t answer. Out the $20.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-03T20:26:53-07:00",
+      "rating": 3,
+      "title": "Replacing Workouts",
+      "text": "I have a 17 pro max, not sure if it has the same issue on other phones but the “replace” button for exercises is blocked, I have to delete the exercise and then add to make a replacement",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-03T18:05:32-07:00",
+      "rating": 1,
+      "title": "Very inaccurate in beginning",
+      "text": "In the last 6 months I’ve gone from 207 pure fat to 184 mostly muscle with only a tiny bit of belly fat left without this app and this app said I was overweight and a strength level 12 😂😂 \n\nIt also assumes that without Arise you’ll only gain a tiny bit of strength vs having the app. Please. I got my gains by myself without this app and trust me I’m S level. Really sucks because I was looking forward to this concept of leveling up like a game",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-03T05:23:55-07:00",
+      "rating": 1,
+      "title": "App does not save progress",
+      "text": "Paid for the yearly subscription. App has not been working for several months.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-02T14:44:27-07:00",
+      "rating": 2,
+      "title": "App has gone downhill",
+      "text": "I loved the first version of this app, but now it has gotten really bad. It has no sense of realistic progression for physical ability, no non-weight/calisthenic exercises and the pure xp system doesn’t hurt as much as the previous three strikes system. I regret paying for this version.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-01T20:13:22-07:00",
+      "rating": 1,
+      "title": "Please help",
+      "text": "I cannot log in keep getting error. I’ve deleted the app and clear the Apple sign in still errors out",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-09-01T12:29:35-07:00",
+      "rating": 1,
+      "title": "Why pay?",
+      "text": "I love the app and how it’s similar to the anime but paying the app just to workout is insane that might just be me tho",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-30T19:29:54-07:00",
+      "rating": 2,
+      "title": "Wont let me log it.",
+      "text": "It logged me out after paying for a year of service, Giving a msg saying \n\nSign-In Error\n[auth/invalid-user-token] The user's credential is no longer valid. The user must sign in again.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-29T19:43:38-07:00",
+      "rating": 3,
+      "title": "Not sure",
+      "text": "I haven’t even started exercising but I have to rate the app",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-28T19:08:06-07:00",
+      "rating": 3,
+      "title": "WHY I GOTTA PAY???",
+      "text": "It seems like a really good app but the only thing is that it cost I little more money than it should and the fact I have to pay kind of isn’t helping me out. I really like the whole jades but making me answer so many questions just for it to say I have to pay really wasted my time and my hopes. Still seems really good app tho.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-28T15:22:57-07:00",
+      "rating": 2,
+      "title": "Doesn’t Work Anymore",
+      "text": "App won’t let me sign in and I can’t even get in touch with the app support. Continuously says error and that the app support site does not exist.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-28T05:02:56-07:00",
+      "rating": 2,
+      "title": "Cool but costly",
+      "text": "Great concept for an app but all aspects are hidden behind a costly paywall. No free option. \nCosts about the same as a monthly membership at a nice gym. lol. Kind of ironic given the goal is to workout. Recommend using another workout app.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-27T11:29:36-07:00",
+      "rating": 2,
+      "title": "Can not login after paying",
+      "text": "I always wanted to try the app I had made an account a while ago but did not comitt with subscription yet. I tried to login today with my Apple ID it had an error about “authentication token missing” or something like that along with “unable to sign in with this account” I went ahead and made subscription as a guest user thinking I could login later. I tried to login again today and now the app requires me to login and when I try it has the same error. So now I paid for a subscription I can’t use. Also can not reach out to email support when I click that option it takes me to a website now found 404 error.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-26T08:42:28-07:00",
+      "rating": 5,
+      "title": "Help",
+      "text": "App is beautiful but im having problem signing in and have no way to reach support",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-22T20:54:28-07:00",
+      "rating": 5,
+      "title": "Subscription before you try",
+      "text": "Hopefully this gets shown on the front. You can’t use the app unless you pay! There are only two options- $15 per month or $50 yearly.. pass",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-21T21:44:47-07:00",
+      "rating": 1,
+      "title": "Horrible support",
+      "text": "The devs do not respond. Paid for a subscription and all my info was wiped out and says I can’t log in. Messaged devs for weeks no response. Finally went to Leveling which is proven to be a better all around app. Highly disappointed.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-19T06:53:45-07:00",
+      "rating": 1,
+      "title": "What happened",
+      "text": "App was working fine until it reset out of nowhere to where I now have to restart my entire progress",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-19T05:26:03-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "Paid for a yearly subscription and stopped being able to log in and use the app not long after",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-17T18:11:29-07:00",
+      "rating": 1,
+      "title": "Paying",
+      "text": "I downloaded the game but it wants me to pay I’m not paying also why is this app for kids like how do u expect a kid to have money and not every kids parent is going to pay just to exercise so remove the paying subscription I’m not paying",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-17T10:21:34-07:00",
+      "rating": 1,
+      "title": "Scam app",
+      "text": "Login issues for months now with no update or fix, they abandoned this app after scamming everyone",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-16T22:11:34-07:00",
+      "rating": 1,
+      "title": "Arise app not free",
+      "text": "The app looks good and I searched it up and I heard it’s god but it’s not free",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-16T17:52:26-07:00",
+      "rating": 2,
+      "title": "Locked behind a massive Pay-Wall",
+      "text": "Ok look. I get it. The majority of apps aren’t free anymore, and usually have a cheap free version to go along with them. But this doesn’t even have that. If you really want to use it, you’re locked behind a $15/month paywall, or a $50/year paywall.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-16T14:41:38-07:00",
+      "rating": 1,
+      "title": "Read this",
+      "text": "It costs money and the app sucks. Dont even download. The good rewiews are bots.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-16T09:32:21-07:00",
+      "rating": 4,
+      "title": "Need to state that u need to pay for it is the only problem",
+      "text": "The only problem I found was that after you do all the information it hit you with a pay wall other than that looks good",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-15T10:16:31-07:00",
+      "rating": 3,
+      "title": "Not bad but is it worth it?",
+      "text": "I thought it was free but you have to pay for it",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-15T09:40:37-07:00",
+      "rating": 1,
+      "title": "Restarted My Account",
+      "text": "I paid for a year of use and was using this app consistently for several months but took a brief break. When I tried to start using it again, my account was restarted and I lost all of my progress history and they tried to make me pay again before my membership even though it shouldn’t have been expired. I reached out about this concern on two different occasions, the first time was over 2 months ago, and nothing has fixed. Very dissatisfied with the customer service and upset that all my tracked progress is gone.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-14T02:49:07-07:00",
+      "rating": 2,
+      "title": "DO NOT GET",
+      "text": "looks cool but THEY DONT EVEN OFFER A FREE TRIAL! all ads make it seem FREE",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-14T02:15:39-07:00",
+      "rating": 1,
+      "title": "Unable to login",
+      "text": "Hi I unable to login my account .",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-12T14:27:10-07:00",
+      "rating": 1,
+      "title": "No access",
+      "text": "I signed up for it and now can’t log in, it says my credentials aren’t valid and I need to sign in again but it won’t allow me too just the same message over and over, wasted money",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-12T07:18:18-07:00",
+      "rating": 1,
+      "title": "Can’t login after paying for a year subscription.",
+      "text": "I paid for a year subscription and after a couple months of not using the app, it won’t let me log back in. I keep getting a sign in error. And there’s nowhere to get assistance or reset my credentials.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-10T18:28:31-07:00",
+      "rating": 5,
+      "title": "Widgets",
+      "text": "That’s all you’re missing Widgets for the phone and Apple Watch compatibility’s similar to what it already does but helping calculate how much you’ve done when to drink water when it’s time to eat. Things of that nature would be pretty cool. Let’s say I burn a certain amount of calories the watch would detect that within the diet portion to the app and alert accordingly and it would be cool to see alert penalty incoming on your wrist.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-09T17:01:12-07:00",
+      "rating": 3,
+      "title": "Limited",
+      "text": "There isn’t very many exercises that don’t require equipment. There isn’t anything in the way of yoga or Pilates or more female type exercises. There is a lot going for it but it’s very lacking. I have requested this be updated but no changes or response other than notice having received request. Last option available would be to add your own exercise but they don’t even have that. It is very disappointing. It didn’t offer free trial till I paid for subscription so it was too late / unavailable. So I had to take a risk just to try this. Please address my requests.",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-08T08:53:07-07:00",
+      "rating": 3,
+      "title": "I was told I could do this for free",
+      "text": "I was told in a YouTube ad that this was a free app and that I wouldn’t have to pay. I’m 13 and I can’t get a job so this was a way I could do it, but no. I have to pay 15$ a month for this. I’m very weak and wanted to do this to look and feel better, but if I can’t afford what’s the point. I feel there should be a free with ads version such as every day  every few workouts the break would be an ad. I feel like it’s dumb I should pay to work out. It’s personal gain not a thing I should pay for. I just can’t find a better way to workout. Please make a free with ads version, (with less benefits than subscription so people still pay).",
+      "version": "1.4.8"
+    },
+    {
+      "date": "2026-08-05T07:49:20-07:00",
+      "rating": 1,
+      "title": "iOS version not working",
+      "text": "iOS version has not worked in about 2 months. Paid for membership and can’t even use it.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-05T02:01:11-07:00",
+      "rating": 1,
+      "title": "Why do you need to pay",
+      "text": "I need to pay 14.99 for this horible do not recommend",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-04T10:27:09-07:00",
+      "rating": 1,
+      "title": "Needs some work",
+      "text": "It sucks that you can choose a new program, and then do your workout and then go for the second one and it doesn’t let you start is and then you lose all your exp. And it also sucks where I don’t have equipment and I put that in and then it tells me to do stuff that requires dumbbells/barbells etc",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-03T22:20:40-07:00",
+      "rating": 4,
+      "title": "It’s fun, but its not dialed in",
+      "text": "The point of this app is to keep you engaged in a reward system program. The days you schedule your workout, the app will give you a program to complete. If you don’t do it, you get penalized (in leveling points) the UI is nice, but it needs more user interaction functions. \n\nI bought the yearly plan to give this a fair review. Anything above E rank is not available, they have not released the programs as of the date of this review. S rank is available, but you have to be in great shape to attempt them.\n\nSome improvement to suggest.\n\nWhen asking users what their workout experience is like, keep the program according to their selection. \nA novice, or someone who is not active will usually be unable to doing clapping pushups, tri angle pushups, or even archer pushups. \n\nAsking users what equipment they have available, and not keeping the workouts consistent. \nIf the user chooses no equipment, why put bench press, dumbbells, or even kettle bells in their quest? To be fair, You are able to swap out the workouts. But, they aren’t suggested workouts, you have to determine if the newly chosen workout (with limited selection) will be a good substitute.\n\nCreate a way to view your previous workouts and choose/save the ones you enjoy. \n\nAchievements, describe how we are able to complete them.\n\nI believe they are still in BETA release. Hope they continue to succeed with newer updates",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-03T20:10:38-07:00",
+      "rating": 4,
+      "title": "We need more",
+      "text": "Hey this app is awesome, and gamifies weight-lifting without making it corny.\nThere are two aspects that I feel this app is lacking in heavily.\n1. This app *needs* an online ranking system. Without it, there is no real challenging yourself by getting more points/ levels than others.\n2. Adding the ability to track if you have/ have not hit your macro goals in the app would add another large pull towards using the app. With that, the app would feel like an entire Bobdybuilding/ Health ecosystem, not just an app to track workouts",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-02T18:46:24-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "It makes you enter all of your personal data (age gender, height weight, lifestyle, etc.) and THEN tells you that you have to either agree to pay $14.99/month with opportunity to try the app for free, or delete it. So they collect all your information whether you use the app or not without disclosing fees beforehand. Shame on them.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-08-02T12:45:05-07:00",
+      "rating": 5,
+      "title": "Все круто",
+      "text": "Не хватает неожиданных дополнительных заданий и отслеживания их выполнения. Как минимум можно добавить внезапные беговые тренировки и следить за дистанцией через стандартные функции отслеживания активности. А также запись на камеру упражнений с возможностью потом скачать с лого и другим брендированием",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-31T23:39:49-07:00",
+      "rating": 1,
+      "title": "Cost money.",
+      "text": "the app is not bad but you just gotta pay.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-31T17:50:58-07:00",
+      "rating": 1,
+      "title": "Very inaccurate",
+      "text": "I downloaded this app excited to use it. I would be using it to gain muscle and gain weight as I only weigh 100lbs. Within the first setup period it told me I’m obese with a BMI of 31.1. \nMy BMI is 18.4 underweight in reality. \nOn top of this it told me my goal of 125 would be a lower BMI than where I am at 100.\nThese extreme inaccuracies are unacceptable.\nIt shows that this app is set up on the back end to make the user think they are more obese than they actually are in the start. This alone made me change my mind about giving this app a try due to its tactics. Which makes me sad because the concept looks very good.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-30T16:59:33-07:00",
+      "rating": 3,
+      "title": "It’s a good app but you gotta pay a lot",
+      "text": "It’s a really good app and it tells you about a lot of things with your body but you do gotta pay monthly or yearly",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-30T13:59:25-07:00",
+      "rating": 3,
+      "title": "I like your app but",
+      "text": "Stop trying to get money out of us I don’t want to pay make the game free and you will get a 5star please I love the idea it’s just not fair I don’t want to pay I just want to play free",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-30T03:42:44-07:00",
+      "rating": 2,
+      "title": "All the things are hidden behind a paywall",
+      "text": "I can’t access it because I’m broke",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-29T18:52:39-07:00",
+      "rating": 1,
+      "title": "No support/ no accountability",
+      "text": "I have sent multiple emails on my account login issue and not being able to sign in with no response, no fix for it, nothing this app used to work fine…now nothing works and the app keeps deleting my account back and forth",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-29T17:25:22-07:00",
+      "rating": 4,
+      "title": "Wish you could have a few version",
+      "text": "Well I liked the intro to getting started but in order to actually use the app you have to pay 15 a month or like 50 a year which isn’t bad but I wish you’d at least let me see what it’s gonna look like before I spend my money on the app also I think $10 would be better but that’s just my personal opinion",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-29T12:21:52-07:00",
+      "rating": 4,
+      "title": "Pretty good but some things they should add.",
+      "text": "This is a very good app and I like the concept but there are some workouts that I want to do but they don’t have them listed on the app so once they widen their range of workouts it’ll be great even though there are a lot of other options.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-29T06:19:43-07:00",
+      "rating": 3,
+      "title": "Can’t log in",
+      "text": "I paid for a subscription and switched phones now I can’t in the app it keeps telling me my email is already being used and can’t sign in can somebody help please",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-27T19:18:59-07:00",
+      "rating": 5,
+      "title": "I hope they listen to me",
+      "text": "I really wish there was a free version",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-27T16:02:04-07:00",
+      "rating": 2,
+      "title": "Great app but one huge bug that locks you out",
+      "text": "It’s a very good app but there is a big or glitch with the share quest button that keeps you from doing any other quest and it just kinda ruins the app because you can’t do anything else when that happens",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-26T23:01:40-07:00",
+      "rating": 3,
+      "title": "Cost money",
+      "text": "The app is good but the main problem is it cost money, I did the quest it gave me without buying the plan but I need to pay $15 for a month. Please make a free version or free in general, IM BROKE 😭",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-26T16:26:16-07:00",
+      "rating": 4,
+      "title": "It costs money",
+      "text": "…",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-26T04:33:34-07:00",
+      "rating": 1,
+      "title": "Total Scam",
+      "text": "Was unaware you had to pay to even use the app.  Advertisements said nothing about needing to pay a subscription simply to use the app, I was aware there was a subscription but thought there was still a free version I could use.  Turns out I was wrong and I am extremely disappointed.  I was looking forward to a free to use app that can help me improve for my sport but this let me down big time.  If I could give 0 stars I would for how disappointing my experience was.  Fix your damn app.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-25T17:57:47-07:00",
+      "rating": 2,
+      "title": "Very Expensive",
+      "text": "15$ a month is the most outrageous thing ever. it doesnt give you the slightest hint of purchase or a subscription. Saw a ad on youtube and downloaded it. it was cool at the beginning and all of a sudden it pulls up a subscription that you have to pay for otherwise you cant use the app for its purpose. fix your damn app!",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-24T19:40:46-07:00",
+      "rating": 1,
+      "title": "Paying",
+      "text": "You have to pay for a workout app that’s just stupid",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-24T15:31:58-07:00",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "text": "I was really excited to use this app, i did the the starting questions and then it said start program and i pressed on it and it didn’t work, i even tried updating the app, no luck.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-24T09:53:35-07:00",
+      "rating": 1,
+      "title": "tik tok Bro science. Avoid",
+      "text": "This app is not a replacement for a real trainer or nutritionist. The “1g of protein per lb of body weight” was the only red flag I needed.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-24T01:12:35-07:00",
+      "rating": 1,
+      "title": "Have to pay for it",
+      "text": "Super lame that you have to have a subscription to use the app",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-23T17:37:05-07:00",
+      "rating": 2,
+      "title": "Cool idea… but don’t be fooled, there is no “free” version",
+      "text": "Got all the way through the information fill out form and went through the content to get started on my journey. In order to get started you have to sign in for a $14.99/week or month payment plan. So, don’t be fooled, I was super excited for this app up until I found this information out. It’s a really cool idea, just very misleading.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-23T12:38:17-07:00",
+      "rating": 2,
+      "title": "Stopped before it started",
+      "text": "Was hoping to give the app a test drive. Says free with in app purchases, but it walks you through the entire setup and then blocks you to a subscription. Offers a 7 day free trial if you invite 3 people. Not a great experience for someone who already works out but wants to try it for fun.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-22T22:59:39-07:00",
+      "rating": 4,
+      "title": "Love it but glitches",
+      "text": "I love the app and its concept. It’s literally the app I’ve been looking for to track and suggest workout. The only problem with it is a bit of glitching with the challenge screen and logging me out. But not a big deal for me.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-22T12:11:54-07:00",
+      "rating": 1,
+      "title": "Issue with this app",
+      "text": "I like this app and the workouts are good however I have one major problem with this app and time I want to do the daily workout I have to uninstall the app and reinstall the app again to generate the days workout otherwise wise it tells me you have completed your four week program and when I click the generate button it says no user profile",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-21T21:59:45-07:00",
+      "rating": 1,
+      "title": "Dumb",
+      "text": "Its locked behind a paywall absolutely useless if your looking for a free workout trainer turn the other way this app is useless unless you wanna pay 14 bucks a month its fishy aswell why make me pay first to see it why not let me use a free version of the app before i pay",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-21T16:46:30-07:00",
+      "rating": 1,
+      "title": "Unable to sign in.",
+      "text": "I used this app for about 5 months, and it had some small flaws but overall I really enjoyed using it.\nOn June 15th I went to use the app as usual and I was signed out, and it would not let me sign in. It just gave me error codes.\n I emailed the company right away asking for assistance, and I got a response the next day. I was told that the update might have messed with my account but they would work on it.\nIt is now July 21st and after 2 follow up emails with no response, I am still unable to log in. \nConsidering I payed for a year to use the app and I haven’t been able to for over a month, I will not be paying more money just to potentially loose it all again. I am very dissatisfied with this app, and will not be supporting this company again.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-21T08:35:49-07:00",
+      "rating": 1,
+      "title": "Unusable",
+      "text": "Purchased the app recently set up my account and paid for the Subscription the next day I go to use the app and it tells me my goals have been met and to set new goals or start a new program when I try to start a new program it says invalid entry and kicks me out of the app after multiple tries I end up deleting and re-download the app It makes me put all my information in again and at the end tells me it’s going to sync my data. Luckily I did not have to pay for the subscription again and I was able to use the app that same day but the following day the same thing happened I try once again to re-download the app and this time before I even finish setting up my account for the third time it kicks me out and gives me the same error message. At this point, I’m trying to get support for the app but the link on the App Store for Support leads me to a website that does not exist. Trying to request a refund tells me that this isn’t available for a refund so now I just paid for an app that I cannot use. What the heck!!!",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-21T08:20:53-07:00",
+      "rating": 2,
+      "title": "Let’s Be Honest",
+      "text": "We all LOVE solo or we wouldn’t be here paying to download this app for the cool UI/UX. I’ve used many fitness apps and this one has so much potential but falls short in several areas. I was hoping this app would be of the same quality as other paid fitness apps with the added benefit of a very cool UI/UX but unfortunately they lean heavily on the solo leveling connection and less on being a robust fitness and lifestyle tool. I’ve been using the app for almost 7 weeks and have logged 28 workouts. Over the 7 weeks I have submitted a handful of feature requests and reached out regarding issues with my account login - I have received no response to any of my messages. I can only assume this app is a money grab banking on the relevance of Solo Leveling. It pains me to say it because I wanted so badly for this to be the one fitness app to rule them all. Unfortunately it is not. 2/5 stars because the UI/UX is well done.",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-19T23:17:48-07:00",
+      "rating": 1,
+      "title": "It’s a scam",
+      "text": "The app doesn’t really work. i’m a big solo leveling fan so I foolishly didn’t look into it before I downloaded it. It was clearly made to bamboozled solo leveling fans for a quick come up. Very disappointed",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-19T05:57:15-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "App does not work at all, and double charge me",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-18T22:47:04-07:00",
+      "rating": 1,
+      "title": "Great when working",
+      "text": "App says I don’t have valid credentials and I can no longer access it. Subscription is paid until April 2027",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-18T13:59:11-07:00",
+      "rating": 1,
+      "title": "Pay wall",
+      "text": "After the 9th survey it reveals you gotta pay, just like every app like this ever",
+      "version": "1.4.6"
+    },
+    {
+      "date": "2026-07-18T01:15:32-07:00",
+      "rating": 3,
+      "title": "Question:",
+      "text": "Do you have to pay to use it?",
+      "version": "1.4.6"
+    }
+  ]
+}

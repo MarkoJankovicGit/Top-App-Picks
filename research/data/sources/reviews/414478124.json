@@ -1,0 +1,1407 @@
+{
+  "app": "WeChat",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T20:09:20-07:00",
+      "rating": 5,
+      "title": "方便读者",
+      "text": "包罗万象用起来好方便",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-09T18:53:00-07:00",
+      "rating": 1,
+      "title": "消息提示音无法关闭",
+      "text": "消息提示音无法关闭",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-09T09:52:10-07:00",
+      "rating": 3,
+      "title": "Could be better",
+      "text": "Doesn’t have a new line (enter sends a message instead of doing a new line), doesn’t preserve a word while moving to the new line (words are cut into two pieces and the second half is moved to the new line), doesn’t show the time of the messages: when was it sent? When received? Only some vague time for arbitrary periods. That’s really annoying",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-08T21:01:15-07:00",
+      "rating": 1,
+      "title": "部分机型未适配",
+      "text": "对部分机型未做好适配，比如iPhone air，都发布一年的机型了，这家垃圾公司也未做好适配，反而各种垃圾功能越塞越多，app体积越来越大！",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-08T19:44:53-07:00",
+      "rating": 3,
+      "title": "It’s okay",
+      "text": "I really like the emojis but I wish I could change my age or get rid of guardian mode",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-07T22:18:56-07:00",
+      "rating": 1,
+      "title": "微信小微无法关闭",
+      "text": "侵犯隐私，不提供关闭微信小微开关，你的聊天记录朋友圈，小微都能看到",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-07T08:38:59-07:00",
+      "rating": 1,
+      "title": "关于内存问题",
+      "text": "可以用付费的方式解决保存聊天记录。现在太占用内存了，又不能删除，太烦人了",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-07T07:25:57-07:00",
+      "rating": 1,
+      "title": "真的很差",
+      "text": "真的是越来越差，更新后",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-06T23:56:25-07:00",
+      "rating": 1,
+      "title": "You removed translations?",
+      "text": "Why did you remove the ability to translate?",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-06T00:46:07-07:00",
+      "rating": 1,
+      "title": "太垃圾了",
+      "text": "越来越大，占空间",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-05T20:54:13-07:00",
+      "rating": 5,
+      "title": "Zayar",
+      "text": "Phyoe",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-05T17:45:00-07:00",
+      "rating": 1,
+      "title": "Cant sign up",
+      "text": "It says someone should scan my qr code! I cant even sign up ! Verification failed! How can i find someone!!!",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-05T05:51:40-07:00",
+      "rating": 5,
+      "title": "I like so much WeChat",
+      "text": "I like so much WeChat",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-04T21:11:32-07:00",
+      "rating": 2,
+      "title": "Photo translation stopped working!",
+      "text": "Since the last two updates using AI beta, photo translation no longer works. Remove AI translation; it’s such a hassle to use and doesn't work with photos. Regretted updating the app.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-04T16:16:04-07:00",
+      "rating": 1,
+      "title": "偷窥/监控/窃听",
+      "text": "利用所谓AI机器人收集分析窃取用户信息，极不安全",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-04T02:14:07-07:00",
+      "rating": 4,
+      "title": "公众号取消关注",
+      "text": "无法一键取消关注已注销封禁的公众号，无法按互动频率排序",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-04T00:44:42-07:00",
+      "rating": 4,
+      "title": "Л",
+      "text": "Я скачал ради раст Мобайла",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-02T03:38:17-07:00",
+      "rating": 1,
+      "title": "垃圾",
+      "text": "垃圾",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-01T17:17:54-07:00",
+      "rating": 1,
+      "title": "Got locked out and can’t recover account",
+      "text": "The app locked me out, saying the account might be compromised. To get back in, I have to do SMS verification. But I no longer have access to a Chinese mobile number, and since I switched from WeChat to Weixin I must use a Chinese number for the SMS verification. Since I’m locked out of the app interface, I can’t change it back to WeChat and revert to my US number. There is no way to contact support. It looks like I’m permanently locked out.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-10-01T10:19:44-07:00",
+      "rating": 3,
+      "title": "Please don’t make a lite version of it, and try to small it’s size",
+      "text": "It reminds me of the old times when windows installation took one floppy disk, but now it’s several gigabytes, WeChat is a great application, it’s a phone app, but now it’s installation is almost a gigabyte. I believe that WeChat developers can do something about this.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T23:36:36-07:00",
+      "rating": 1,
+      "title": "🤬🙄🤔",
+      "text": "1 GB app",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T23:25:06-07:00",
+      "rating": 1,
+      "title": "微信平台",
+      "text": "微信平台无缘无故封号",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T19:53:46-07:00",
+      "rating": 1,
+      "title": "不能删除服务对话框",
+      "text": "删除服务对话框依然会弹出来！",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T15:43:15-07:00",
+      "rating": 1,
+      "title": "溢出的六星",
+      "text": "溢出的六星",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T15:38:23-07:00",
+      "rating": 1,
+      "title": "“小而美”？",
+      "text": "简直就是垃圾",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T15:29:12-07:00",
+      "rating": 1,
+      "title": "中國的微信是個間諜軟體！",
+      "text": "中共國的apps 建議都不要使用，全他媽的都是間諜軟體！",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T06:59:14-07:00",
+      "rating": 1,
+      "title": "扫码张小龙",
+      "text": "液态玻璃呢？？？？？？？？？？？？？？？？",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-30T01:05:30-07:00",
+      "rating": 1,
+      "title": "NO PRIVACY AT ALL",
+      "text": "It embeds an AI assistant which is still in beta. The privacy has been breached! The AI can read all data across the app! Which means all my chat history, post history, and it even knows my specific location without me telling it first ! And even worse, it literally says “it knows the location from the beginning, and it doesn’t have to ask for user’s permission ”. No privacy at all!",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T17:17:26-07:00",
+      "rating": 2,
+      "title": "侵犯隐私",
+      "text": "ai读取聊天记录朋友圈等，严重侵犯公民个人隐私，应该",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T09:19:17-07:00",
+      "rating": 1,
+      "title": "ميزة الهز غير فعاله",
+      "text": "ميزة الهز او الرج غير فعاله",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T05:20:53-07:00",
+      "rating": 1,
+      "title": "软件臃肿肥大",
+      "text": "一个支付聊天的软件，搞得什么东西都有，连贷款都有你妈了个逼的腾讯",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T01:09:51-07:00",
+      "rating": 1,
+      "title": "差  差  差",
+      "text": "体积越来越大，功能越来越多，说好的小而美呢，用户想要暗黑图标不给，27系统液态玻璃的功能一直不给，垄断霸权主义",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T00:27:52-07:00",
+      "rating": 1,
+      "title": "Huge violation of privacy without user’s consent",
+      "text": "The app compulsively enabled an AI function that reads all your chat history without any consent without providing any ways to disable it. It's shameful that the company does this.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-29T00:05:12-07:00",
+      "rating": 1,
+      "title": "一个聊天软件快1G了",
+      "text": "真的逆天",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-28T21:30:32-07:00",
+      "rating": 1,
+      "title": "worst app",
+      "text": "no privacy, they steal your all data for advertising",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-28T19:20:39-07:00",
+      "rating": 1,
+      "title": "请适配Liquid Glass",
+      "text": "微信是手机中的异类了，打开之后界面太丑，张小龙的审美需要提高。",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-28T19:11:57-07:00",
+      "rating": 1,
+      "title": "Waste of local storage",
+      "text": "Gets bigger and bigger, slower and slower, but no new features.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-28T19:04:51-07:00",
+      "rating": 1,
+      "title": "unlimited use mini program games",
+      "text": "WeChat is fundamentally unable to enforce usage restrictions on mini-program-based games, which results in children using these services without any time limit, in violation of relevant Chinese laws and regulations.",
+      "version": "8.0.79"
+    },
+    {
+      "date": "2026-09-28T11:11:02-07:00",
+      "rating": 5,
+      "title": "👍👍👍",
+      "text": "Приложение супер",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-27T21:30:23-07:00",
+      "rating": 1,
+      "title": "Float",
+      "text": "I am looking forward to seeing the previous floating file\nWhile opening all the images & videos I want also to see the files as previous because it’s to difficult to lookup for the files\nI really want the previous version It was too much better.\nYou can add as the selection, image videos, and select files otherwise how we can find our files",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-27T09:13:25-07:00",
+      "rating": 1,
+      "title": "WeChat account is blocked indiscriminately",
+      "text": "For all kinds of major users, WeChat, in order to confuse the national control, blocks a large number of accounts without violations, so as to fill the number. Does the development trend of an enterprise have to make up for us, the normal users, in order to fill those non-existent violations? I hope that the company will cancel the control of AI detection blocking and replace it with manual screening. You should know why you are the empire of lawsuits.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-27T08:53:34-07:00",
+      "rating": 1,
+      "title": "Interesting",
+      "text": "Idk",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-27T03:27:46-07:00",
+      "rating": 1,
+      "title": "垃圾",
+      "text": "没有人想用这个垃圾AI助手",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-26T20:29:21-07:00",
+      "rating": 3,
+      "title": "Turn off \"typing\" status",
+      "text": "Please add an option to disable the “Typing…” status! Why can’t users turn this off? Please give us the choice to control whether this status is shown.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-26T16:39:44-07:00",
+      "rating": 1,
+      "title": "AI Without Consent",
+      "text": "One star. I never asked for WeChat’s AI “XiaoWei,” and I never consented to having it enabled.\nAI features that may access chats, searches, or personal data should be opt-in, not forced on users by default. This is a serious privacy and consent issue.\nAI OFF by default. Ask first.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-26T09:38:00-07:00",
+      "rating": 1,
+      "title": "Plainte",
+      "text": "J’ai préféré désinstaller l’application parce on me demande que une autre personne scanne le QR code avant de validé mon inscription et je connais personne qui veux scanné",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-26T06:37:19-07:00",
+      "rating": 1,
+      "title": "Cannot turn off AI features",
+      "text": "Beware of your privacy although almost zero since you are using WeChat but AI just makes it extra disgusting",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-25T11:43:34-07:00",
+      "rating": 1,
+      "title": "We Chat",
+      "text": "Could not get the app to work in English. Trying to contact anyone regarding this was a waste of time…",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-24T16:17:04-07:00",
+      "rating": 1,
+      "title": "force to use AI bot",
+      "text": "Should ban this function where WeChat force user use AI bot, collect and use person data to train model",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-24T00:22:13-07:00",
+      "rating": 1,
+      "title": "一星都嫌多",
+      "text": "空间占用越来越大，每次更新都语焉不详，给一星是因为没有零星",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-23T21:51:31-07:00",
+      "rating": 1,
+      "title": "那个SB的ai功能能不能关掉呀。",
+      "text": "那个SB的ai功能能不能关掉呀。",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-23T11:05:11-07:00",
+      "rating": 1,
+      "title": "服务号里面塞小红书，卡包里面塞淘宝",
+      "text": "张小龙，你 什么时候 啊？",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-23T10:59:05-07:00",
+      "rating": 1,
+      "title": "语音转文字极慢，视频下面的购买链接看不到商品图片",
+      "text": "iPad WeChat 8.0.78: Voice-to-text has become extremely slow, and product/course links embedded in videos load extremely slowly, with images often failing to load. The same WeChat account works normally on my iPhone using the same network. Other apps on the iPad, including Clever, load videos and images normally. Clearing WeChat storage/cache and enabling Local Network access did not resolve the issue. The problem appears to have started after updating to 8.0.78.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-22T04:39:56-07:00",
+      "rating": 5,
+      "title": "微信好评",
+      "text": "小微ai助手比较方便，模型的话还需要聪明一点",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-22T03:50:08-07:00",
+      "rating": 1,
+      "title": "凭什么",
+      "text": "凭什么ipad没有注册功能！这是微信最大的缺点没有之一！",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-21T22:48:24-07:00",
+      "rating": 4,
+      "title": "希望增加朋友圈可见时间一年，两年，三年内",
+      "text": "如题",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-21T21:57:38-07:00",
+      "rating": 1,
+      "title": "Garbage",
+      "text": "I can’t remember the last time I used the app, so am unable to login. Every single account recovery option either asks me for some ID I don’t have access to, or for friends to verify me, which I also do not have access to.\n\nWay to make something as simple as account recovery an absolute mess. You had to work hard to make something so bad.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-21T09:53:10-07:00",
+      "rating": 1,
+      "title": "小微",
+      "text": "开发微信ai的人趁这几天土松挑个日子早点走吧",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T23:24:12-07:00",
+      "rating": 1,
+      "title": "不尊重隐私，垃圾app",
+      "text": "升级内容永远都是修复一些问题，但升级后莫名其妙的就侵犯了用户的隐私。号称本地存储的皇帝新衣，现在已经公开的把AI放在软件左上角了，这样做的时候有经过用户同意吗，不想用的用户，有地方关闭和取消吗？都没有-垃圾app",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T18:24:39-07:00",
+      "rating": 1,
+      "title": "The worst app I have ever seen!!!!!!!",
+      "text": "When I was getting WeChat I saw that you have to use a phone to scan a the QR code. Like, for real, I can't chat my GF in this stupid app or friends and family to chat with it is sooooooooooo UNFAIR",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T15:58:31-07:00",
+      "rating": 1,
+      "title": "微信视频通话弄的画面很大，却是越来越垃圾了。中国人害中国人世界第一",
+      "text": "垃圾",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T15:31:45-07:00",
+      "rating": 1,
+      "title": "Not working on iPad",
+      "text": "After installing, clicking the open button doesn’t invoke the app and no app icon showing on the iPad",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T14:58:06-07:00",
+      "rating": 1,
+      "title": "垃圾应用",
+      "text": "希望早点倒闭",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-20T01:45:26-07:00",
+      "rating": 3,
+      "title": "快内测我",
+      "text": "什么时候开已读 什么时候开朋友圈评论区发语音🤓",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-18T11:22:08-07:00",
+      "rating": 2,
+      "title": "Mysterious size increase",
+      "text": "The “Necessary Files” jumped from 2.7 GB to 3.1 GB in a short time and it’s still growing. No idea what’s taking up the extra space, and there’s no way to clear it. Please optimize this — it shouldn’t keep expanding for no reason.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-18T07:26:09-07:00",
+      "rating": 1,
+      "title": "系统故障",
+      "text": "他人合并转发的信息中的图片加载不出来，怎么更改设置都不可以",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-17T01:41:11-07:00",
+      "rating": 1,
+      "title": "垃圾公司",
+      "text": "垃圾微信，垃圾公司，垃圾设计师，AI不能关，拍照一直卡，垃圾公司垃圾公司垃圾公司垃圾公司垃圾微信",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-17T00:28:24-07:00",
+      "rating": 1,
+      "title": "畸形的产物",
+      "text": "最垃圾的即时通讯软件，没有之一",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-16T08:10:54-07:00",
+      "rating": 1,
+      "title": "Don’t use this!",
+      "text": "They added an AI function in the app that can’t be cancelled!",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-16T02:57:34-07:00",
+      "rating": 1,
+      "title": "开发小微功能的丝一车马",
+      "text": "小微功能，未经用户允许，直接上线灰度测试，该功能无法手动关闭，滚吧，一星都是高了",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-15T20:16:11-07:00",
+      "rating": 1,
+      "title": "解决提出问题的人",
+      "text": "提交bug给封号笑死我了",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-15T12:52:45-07:00",
+      "rating": 3,
+      "title": "Fix bug",
+      "text": "Video call on iPad in PiP looks good same the source aspect ratio, but in WeChat fullscreen it get cropped and zoomed",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-15T05:24:27-07:00",
+      "rating": 1,
+      "title": "越来越垃圾",
+      "text": "越来越垃圾",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-14T15:22:48-07:00",
+      "rating": 1,
+      "title": "会读取并分析个人隐私哦",
+      "text": "会读取并分析个人隐私哦",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-13T19:17:44-07:00",
+      "rating": 1,
+      "title": "AI问题",
+      "text": "默认使用ai，还无法关闭。忽视客户个人隐私",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-13T10:02:09-07:00",
+      "rating": 1,
+      "title": "开发小微AI的司一个马",
+      "text": "这个功能好啊，藏在对话框的功能里面，一个误触开启以后就无法关闭了。祝愿使用人数和你们司了的马一样多嗷",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T18:07:44-07:00",
+      "rating": 1,
+      "title": "烂",
+      "text": "滥用ai，强行上线小微，不经用户同意，垃圾",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T17:13:59-07:00",
+      "rating": 1,
+      "title": "臃肿，太臃肿了",
+      "text": "为什么天天清理空间 还是占用3个G，就不能像其他app一样，300-500M吗， 如果能替代，我绝对不用微信了～",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T09:54:54-07:00",
+      "rating": 1,
+      "title": "狗屎",
+      "text": "死了老妈了最近莫名其妙抬个ai上来？",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T09:37:52-07:00",
+      "rating": 1,
+      "title": "Enable the AI feature without notification",
+      "text": "This app will enable the new AI feature without any notification, and cannot any way to turn it off. It will scan your chats, your conversations with friends and family, your Moment post, and try to learn how you write and speak. It can even help to transfer money to another. It’s terrible!!!!!! I need the privacy boundary, and permission!",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T05:25:34-07:00",
+      "rating": 1,
+      "title": "没有垄断你什么也不是",
+      "text": "呵呵",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T04:00:24-07:00",
+      "rating": 1,
+      "title": "怎么能在培养了用户习惯以后就拿起大刀呢",
+      "text": "从左往右划调出折叠的星标文 用过的小程序什么的 是你们培养的用户习惯 现在用户习惯了 你们就大手一挥砍了 然后把这些功能藏在更深的 需要更多操作才能抵达的地方 在想什么？",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-12T00:46:14-07:00",
+      "rating": 1,
+      "title": "越改越难用",
+      "text": "折叠服务号太恶心了",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-11T19:22:17-07:00",
+      "rating": 1,
+      "title": "The malicious bug does not prompt the user",
+      "text": "恶性bug不提示用户，更新无bug说明",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-11T15:20:10-07:00",
+      "rating": 5,
+      "title": "Convenient Communication App",
+      "text": "WeChat makes communicating with friends and family convenient. The messaging, calling, and sharing features are easy to use.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-11T00:49:14-07:00",
+      "rating": 1,
+      "title": "越来越烂了",
+      "text": "广告是真的多",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-10T21:35:10-07:00",
+      "rating": 1,
+      "title": "封漏洞测试者账号",
+      "text": "无耻 无能 无德",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-10T16:00:48-07:00",
+      "rating": 1,
+      "title": "Can’t screenshot",
+      "text": "Screenshots turned to be blank, please fix this bug",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-10T08:54:08-07:00",
+      "rating": 1,
+      "title": "Can’t send my link and photos",
+      "text": "Title",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T22:47:48-07:00",
+      "rating": 1,
+      "title": "越更新越慢",
+      "text": "图片加载不出来消息收不到",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T20:58:23-07:00",
+      "rating": 1,
+      "title": "无法查看发送图片",
+      "text": "无法查看发送图片！",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T18:55:41-07:00",
+      "rating": 1,
+      "title": "真的没办法 资本很强大",
+      "text": "不好用 无隐私 广告骚扰",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T17:27:09-07:00",
+      "rating": 5,
+      "title": "REALLY GOOD",
+      "text": "As Chinese it’s really good but the setting up was lil difficult but it was useful such as posting and texting not lagging at all",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T11:08:46-07:00",
+      "rating": 1,
+      "title": "评分",
+      "text": "评分太高了多多评论低分",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T09:42:40-07:00",
+      "rating": 4,
+      "title": "外观有待改进",
+      "text": "苹果手机液态玻璃效果都这么久了，几乎全部应用都有了适配版，只有微信还在执着地当着“钉子户”，“特立独行”地展示着生硬的色块。无法理解！",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-08T04:45:03-07:00",
+      "rating": 2,
+      "title": "Buggy onboarding",
+      "text": "Seemed to work, then asked for authorization by a registered user - tried several who were using from inception - still did not work. \nGuess the dev team needs training !! On UI and problem solving.\nMicrosoft teams was seated by our team member and it works much better across countries\nThis is a great wannabe app.",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-07T23:39:37-07:00",
+      "rating": 1,
+      "title": "搞不懂老是自动备份",
+      "text": "我明明取消了自动备份，Windows版本老是自动备份。",
+      "version": "8.0.78"
+    },
+    {
+      "date": "2026-09-07T19:31:16-07:00",
+      "rating": 1,
+      "title": "辣鸡",
+      "text": "辣鸡真的很辣鸡",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-07T11:25:51-07:00",
+      "rating": 5,
+      "title": "Goddess connect",
+      "text": "Its really idle play at it best and it is still got layers to discover even after n few hours play time",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-07T10:46:54-07:00",
+      "rating": 5,
+      "title": "微信图片合并转发问题？",
+      "text": "在微信的图片合并转发时一直在转圈，而且出现有些图片无法发出。以前没有此现象？\n现微信版本是8.0.76，需要尽快更新版本？",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-07T09:20:31-07:00",
+      "rating": 3,
+      "title": "Wallet setup confusing",
+      "text": "The old bank card not working anymore. But it cannot be removed. Some US bank card has 4digits 密码，so it’s impossible to use it with wallet.",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-06T18:29:09-07:00",
+      "rating": 4,
+      "title": "朋友圈出7天可见",
+      "text": "朋友圈能不能出一个7天可见？一个月太长，三天太短，一周刚刚好",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-05T19:48:01-07:00",
+      "rating": 5,
+      "title": "非常好",
+      "text": "很好",
+      "version": "6.0.1"
+    },
+    {
+      "date": "2026-09-05T00:10:39-07:00",
+      "rating": 1,
+      "title": "Trash",
+      "text": "No dark icon?",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-03T22:41:26-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "The app is very good, but there is way too much restrictions a.k.a. trying to add people from different countries. I understand that this is to keep them safe, but it’s just a little too extreme but again, I understand. Especially for people in China.",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-03T14:18:16-07:00",
+      "rating": 1,
+      "title": "乐色",
+      "text": "真难用",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-09-01T18:33:29-07:00",
+      "rating": 1,
+      "title": "这次更新的就是失败的",
+      "text": "为什么图片和文件不能一起查看了",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-31T20:45:58-07:00",
+      "rating": 1,
+      "title": "Как зарегистрироваться???",
+      "text": "У меня не получается зарегистрироваться. Я набираю телефон,ввожу ник,дальше мне предлагается ввести код ОТР. Звонок просто не приходит,я могу сидеть и ждать 5 минут. Вай фай в норме,связь тоже есть,в чем проблема?",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-31T16:50:37-07:00",
+      "rating": 1,
+      "title": "Poor function",
+      "text": "Not easy to use or update",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-31T12:12:18-07:00",
+      "rating": 5,
+      "title": "Unable to verify",
+      "text": "I would love to change my review if my problem can be resolved. \nI have been unable to verify to sign up for an entire week. Two different WeChat users have tried to scan the generated code to verify me. Each time I get a message saying the system is experiencing issues and to try again later. Not able to email the support team because the developer website asks you to sign in to your WeChat account to report a problem. Needs a secondary option to verify that does not rely on others.",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-31T05:25:41-07:00",
+      "rating": 1,
+      "title": "难用的要死",
+      "text": "能不能优化一下",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-31T04:11:06-07:00",
+      "rating": 1,
+      "title": "垃圾",
+      "text": "真垃圾买东西还扣我钱",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-30T20:28:19-07:00",
+      "rating": 1,
+      "title": "打开微信相机卡死",
+      "text": "微信相机卡死的毛病什么时候能修好？",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-30T18:55:37-07:00",
+      "rating": 3,
+      "title": "one thing that’s missing",
+      "text": "I use wechat everyday communicate with my friends in China. The only feature that you guys are missing is the “reaction” button like messenger! I hope you guys can consider this feature soon!! It’ll be awesome!!",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-30T17:41:02-07:00",
+      "rating": 1,
+      "title": "Never write reviews",
+      "text": "This app literally is horrible, it’s legitimately easier to log into my banking app with all of my important financial info.",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-30T01:10:53-07:00",
+      "rating": 5,
+      "title": "Useful messaging app",
+      "text": "WeChat is convenient for messaging and staying connected with others. The app offers several useful communication features in one place.",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-29T20:59:52-07:00",
+      "rating": 1,
+      "title": "一堆广告",
+      "text": "为什么私域还要放一堆广告",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-29T20:43:16-07:00",
+      "rating": 1,
+      "title": "取消小微取消小微取消小微",
+      "text": "还我星标",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-29T07:45:06-07:00",
+      "rating": 2,
+      "title": "霸道的腾讯",
+      "text": "把我微信朋友圈无缘无故关闭，并且打不开，解决不了问题。这样糟糕的事情发生在腾讯微信身上不可理喻",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-29T00:08:11-07:00",
+      "rating": 1,
+      "title": "軟體很臃腫，什麼都沒幹這個軟體都有2個G",
+      "text": "騰訊的軟件感覺都是以臃腫為美，這個WeChat剛下載下來登錄上就2G+，然後再使用起來輕輕鬆鬆破10G，用自帶的快取清理又清理不乾淨，真的就很頭疼，一個大陸的國民軟件怎麼能做到那麼差，真搞不懂大陸人為什麼都還能用的下去，蠻有意思的",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-28T02:01:58-07:00",
+      "rating": 5,
+      "title": "太好了",
+      "text": "离不开微信",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-27T15:28:24-07:00",
+      "rating": 5,
+      "title": "Nice!",
+      "text": "Very good app, so many emojis~ love that!",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-27T07:52:28-07:00",
+      "rating": 1,
+      "title": "Doesn’t seem to work?",
+      "text": "I install, set up, and then whatever i try to do causes the app to load a blank screen",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-27T04:53:04-07:00",
+      "rating": 4,
+      "title": "建议",
+      "text": "希望能出个vision pro版的",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-27T01:33:32-07:00",
+      "rating": 1,
+      "title": "复制链接",
+      "text": "复制群聊天链接总是直接跳转，没有之前的方便",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-26T20:56:57-07:00",
+      "rating": 1,
+      "title": "垃圾微信！",
+      "text": "垃圾微信！",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-26T17:24:34-07:00",
+      "rating": 1,
+      "title": "还我卡包入口，微信小店不欢迎",
+      "text": "如题所示，微信卡包真的很差劲。",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-26T17:17:18-07:00",
+      "rating": 1,
+      "title": "bad",
+      "text": "it signed 呕吐",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-26T01:10:48-07:00",
+      "rating": 3,
+      "title": "喜欢偷听隐私",
+      "text": "通过信息及信任力的不对称，偷听用户隐私",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-25T04:22:48-07:00",
+      "rating": 3,
+      "title": "气泡难看",
+      "text": "建议增加聊天气泡",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-23T02:55:21-07:00",
+      "rating": 1,
+      "title": "垃圾微信",
+      "text": "乱封号",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-22T10:03:53-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very Good",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-22T07:34:15-07:00",
+      "rating": 1,
+      "title": "把原来的对话框改回来！",
+      "text": "太丑了，那个混蛋想出来的",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-22T00:28:16-07:00",
+      "rating": 1,
+      "title": "长按转文字难用",
+      "text": "新功能难用死了，不知道为什么随机抓人来测试，难用，用不到，为什么用户接受这个功能？",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-21T22:20:25-07:00",
+      "rating": 1,
+      "title": "So bad",
+      "text": "It doesn’t even let me write a review",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-21T20:44:14-07:00",
+      "rating": 1,
+      "title": "又在胡乱更新什么？",
+      "text": "谁要你们加可按住转文字的，低频功能放这么显眼的地方，无敌碍眼，而且iOS本身就支持转文字，很方便！！",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-21T12:43:01-07:00",
+      "rating": 1,
+      "title": "内测版本",
+      "text": "请把我放在内测版本外，快把我现在对话框可按住转文字这个功能取消掉，快烦死了，你再这样搞下去就会被弃用，知道不",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-21T12:15:24-07:00",
+      "rating": 4,
+      "title": "A",
+      "text": "A",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-21T02:50:54-07:00",
+      "rating": 5,
+      "title": "新功能建议",
+      "text": "希望能出一个像qq中那种给不同的人设置不同提示音的功能",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-20T23:52:57-07:00",
+      "rating": 1,
+      "title": "液态玻璃时代还在用老 UI",
+      "text": "微信图标至今没有适配 iOS 深色模式，这居然都能拖到现在。UI 更是没有适配液态玻璃，整体界面依旧是十年前的老古董，和现在的 iOS 设计语言完全不搭。作为一个使用频率这么高的 App，基础的视觉体验却这么落后，真的不知道这么多年更新都更新了些什么。1 星。",
+      "version": "8.0.76"
+    },
+    {
+      "date": "2026-08-19T06:29:22-07:00",
+      "rating": 5,
+      "title": "A good APP",
+      "text": "WeChat is Chinese good APP,many people use it.I hope everybody use it.Bye,because I need and friends chat.\n\n*I am a boy😃",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-19T02:48:58-07:00",
+      "rating": 1,
+      "title": "ليبيا طرابلس",
+      "text": "ميزه الاشخاص القريبين في ليبيا لا تشتغل",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-19T01:38:43-07:00",
+      "rating": 5,
+      "title": "按住说话新版本一点也不好看 十分丑",
+      "text": "可以把按住说话改回去吗 好难看",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-18T18:24:43-07:00",
+      "rating": 1,
+      "title": "微信app违规自动更新",
+      "text": "我明明是关闭了app的自动更新，但是微信居然还是可以背着我自动更新，举报了。\n新版本越来越臃肿，能不能把你主页左上角那破什么小微删了，真是碍眼。\n还有聊天框里强制标个“可按住 转文字”是要干什么，能不能也删了然后把nc产品经理开了",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-18T17:47:37-07:00",
+      "rating": 3,
+      "title": "霸王条款",
+      "text": "私下收取用户隐私，不同意还不让用，霸王条款！钱转到钱包千分之一的手续费高到离谱",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-18T11:55:10-07:00",
+      "rating": 1,
+      "title": "把几乎同时发布的照片一张张列开 很影响观感",
+      "text": "能不能把朋友圈发布的图片 ，弄回九宫格啊，就是同时发布的图片，一张一张列开 很占空间",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-18T03:55:39-07:00",
+      "rating": 4,
+      "title": "为什么要更新的那么丑",
+      "text": "为什么要把语音输入改成这样 为什么 为什么输入框还有一行字 为什么 好丑好丑",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-17T05:05:19-07:00",
+      "rating": 5,
+      "title": "yoooo",
+      "text": "我是中国人",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-16T08:57:21-07:00",
+      "rating": 1,
+      "title": "为啥没有0分选项",
+      "text": "作为一项工具但不是为了交流或促进交流而是为了封锁和实施封锁……",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-15T22:23:52-07:00",
+      "rating": 1,
+      "title": "依托答辩",
+      "text": "张小聋是这样的",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-15T20:13:51-07:00",
+      "rating": 1,
+      "title": "辣鸡",
+      "text": "一大堆广告，反感，恶心！",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-15T09:40:52-07:00",
+      "rating": 1,
+      "title": "You can’t create an account",
+      "text": "Im trying to create an account but it’s only giving me the option to log in",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-15T08:43:23-07:00",
+      "rating": 2,
+      "title": "扫一扫",
+      "text": "扫一扫Ai翻译失灵！用不了！",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-15T08:38:19-07:00",
+      "rating": 2,
+      "title": "你这更新的自己看的下去吗？",
+      "text": "能不能不要版本更新呀微信你自己看看你改的丑不丑还死卡",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-13T22:16:13-07:00",
+      "rating": 1,
+      "title": "Why do I need to invite another user?",
+      "text": "Hello, I am writing this review in regards to my recent frustration when trying to set up a WeChat account for myself. When setting up a WeChat account, you do everything quite normal like any other messaging app, but in order to create the account you must have someone else register on WeChat as well with a QR code. I am frustrated with this process because it feels the app is trying to mandatorily force users to reach out to others and use WeChat as well. Overall, wanting to advertise your app is completely fine, but it can definitely feel a little overwhelming or unsettling, for users trying to set up an account. Which I believe, would lead to a decrease in new users because of that.",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-12T08:24:20-07:00",
+      "rating": 5,
+      "title": "李沾霈",
+      "text": "李沾霈",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-11T23:48:58-07:00",
+      "rating": 1,
+      "title": "太差了",
+      "text": "你现在与创造初心背道而驰了，现在搞一堆没用的东西",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-10T08:07:52-07:00",
+      "rating": 1,
+      "title": "垃圾玩意发视频发热费电",
+      "text": "能不能优化，很难？",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-10T02:43:07-07:00",
+      "rating": 1,
+      "title": "Can’t register without someone else",
+      "text": "Can’t register without someone else",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-10T00:28:02-07:00",
+      "rating": 1,
+      "title": "扫一扫改了个AI垃垃圾功能",
+      "text": "扫一扫改了个AI垃垃圾功能",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-08T20:33:30-07:00",
+      "rating": 1,
+      "title": "Absolute rubbish",
+      "text": "Won't let me sign up, QR code for registration always shows expired. What a joke. 🤬",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-08T15:53:31-07:00",
+      "rating": 2,
+      "title": "bruh",
+      "text": "i cant even sign up that i have to use the phone filter to actually sign up. dont even have an actual phone tho",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-07T20:41:53-07:00",
+      "rating": 1,
+      "title": "磁盘占用狂涨",
+      "text": "手机存储根本吃不消",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-07T08:44:39-07:00",
+      "rating": 1,
+      "title": "Force turn on the function",
+      "text": "If you don’t have a real name, you will be forced to ask your age, and then you will be forced to open the underage. If you don‘t open it, you will write to disable the account～😅",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-06T09:05:24-07:00",
+      "rating": 1,
+      "title": "把你那破小微给我关了",
+      "text": "就一个社交软件跟个什么风建立个AI啊，我用微信翻译的时候麻烦的要死",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-06T04:52:22-07:00",
+      "rating": 1,
+      "title": "垃圾",
+      "text": "纯粹垃圾，恶意占用空间，储存垃圾信息，威胁用户安全",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-06T04:19:55-07:00",
+      "rating": 5,
+      "title": "@ good luck",
+      "text": "This software is very easy to use in China, Zhejiang and Ningbo. Basically, everyone is using it, but why do you say it is not easy to use? If there is no Chinese translation, you can translate it with the translation software that comes with your mobile phone. Please don't complain about this national software.",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-05T22:12:06-07:00",
+      "rating": 2,
+      "title": "Lately become very slow with iPhone and do not support background refresh",
+      "text": "You cannot switch this app because every time it will need to reconnect which took at least 2 min",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-04T21:45:03-07:00",
+      "rating": 1,
+      "title": "垃圾软件",
+      "text": "祝愿开发者出门被车撞，md什么东西都忘里面加，cs不如的玩意。我想问下开发者眼睛是瞎了吗。体积暴涨看不见是吧？给你一星是因为只有一星，实际上就是一坨大粪。",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-04T19:21:42-07:00",
+      "rating": 1,
+      "title": "不能粘贴",
+      "text": "不能粘贴了，垃圾升级",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-03T07:02:25-07:00",
+      "rating": 1,
+      "title": "无限套娃",
+      "text": "越来越臃肿的套娃软件，各种烂功能往里面塞！呸",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-02T09:39:54-07:00",
+      "rating": 5,
+      "title": "蛮好的",
+      "text": "这里有中国人吗？",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-02T03:59:30-07:00",
+      "rating": 1,
+      "title": "拉完了",
+      "text": "快点给我我的朋友圈改回来 新改的朋友圈是个啥😹",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-02T02:44:08-07:00",
+      "rating": 1,
+      "title": "微信神了😂",
+      "text": "😂😂😂",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-08-01T18:53:31-07:00",
+      "rating": 1,
+      "title": "臃腫，強行推微信小店",
+      "text": "Tencent是有多想開電子商務，強行把毫無關聯的小店和卡包合併在一起，近卡包還得多點一步。還在功能入口打廣告，推薦三無產品",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-31T11:48:10-07:00",
+      "rating": 2,
+      "title": "Love one",
+      "text": "Great job here",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-31T10:56:14-07:00",
+      "rating": 4,
+      "title": "。。",
+      "text": "能优化一下iPad端的微信小店吗 真的很卡",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-29T14:49:52-07:00",
+      "rating": 2,
+      "title": "快更新",
+      "text": "快更新",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-29T08:26:05-07:00",
+      "rating": 1,
+      "title": "毒瘤软件",
+      "text": "毒瘤到不行 可惜大家都被你绑架了",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-28T18:04:24-07:00",
+      "rating": 1,
+      "title": "新版本",
+      "text": "为啥海外升级不了最新版本呢？",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-28T17:54:43-07:00",
+      "rating": 1,
+      "title": "六星好评",
+      "text": "六星好评👍",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-27T23:23:40-07:00",
+      "rating": 1,
+      "title": "Not friendly towards foreigners",
+      "text": "They force all foreigners to give up their passport pictures, address, info, and have someone verify them???\nIt’s all too much",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-26T18:58:21-07:00",
+      "rating": 1,
+      "title": "WeChat早日倒闭",
+      "text": "早点倒闭吧……\n越来越laji了这个软件。\n大家不要存钱进钱包了！加快他的倒闭速度。",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-26T02:26:53-07:00",
+      "rating": 1,
+      "title": "худшая соц сеть, что я встречал",
+      "text": "хуже некуда",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-25T17:45:55-07:00",
+      "rating": 1,
+      "title": "屎山代码",
+      "text": "恶心至极",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-24T13:43:52-07:00",
+      "rating": 1,
+      "title": "良子软件内存爆炸了",
+      "text": "老牧师了再加一堆没用的功能占我内存试试呢？能不能出一个阉割版只有朋友圈和聊天😂😂😂删掉微信我就能把2778个别的app下回来我都气笑了每次都提醒内存不足要清内存我就没见过哪个社交软件像微信这样肥的良子软件",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-24T12:35:10-07:00",
+      "rating": 1,
+      "title": "Can’t log in to the account",
+      "text": "Hate that",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-24T08:16:26-07:00",
+      "rating": 1,
+      "title": "Unable to sing up",
+      "text": "After registering I was unable to log in. Very frustrating",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-22T08:08:02-07:00",
+      "rating": 5,
+      "title": "Im from chinese",
+      "text": "I’m from China, looking for language partners to improve my English. Feel free to add me on WeChat if you want to be friends. TnTiian01",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-21T22:03:29-07:00",
+      "rating": 1,
+      "title": "一分都不想给",
+      "text": "垃圾应用",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-21T20:13:17-07:00",
+      "rating": 2,
+      "title": "加载后点错",
+      "text": "为什么不管什么网络信号 点开都要加载 列表突然变 每次都点错",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-21T17:46:41-07:00",
+      "rating": 1,
+      "title": "Got scammed",
+      "text": "Got scammed on wechat and there is nothing I can do, I am so angry!!!",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-21T07:31:01-07:00",
+      "rating": 1,
+      "title": "Login",
+      "text": "So hard to log in",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-20T23:05:19-07:00",
+      "rating": 5,
+      "title": "不知道",
+      "text": "那个那个那个啥，就是我觉得这个还比较好用吧，评论区就我一个中国人吗？",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-17T15:49:31-07:00",
+      "rating": 1,
+      "title": "This app is horrible",
+      "text": "The app is horrible. if you don’t live in china, they get every personal information out of you and then it won’t even work. Logging in is super complicated",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-17T10:31:28-07:00",
+      "rating": 1,
+      "title": "Guardian Mode so bad",
+      "text": "I accidentally enabled it but I can’t disable",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-16T05:24:40-07:00",
+      "rating": 1,
+      "title": "好好的改成什么玩意",
+      "text": "不会更新就别更新，更新了什么垃圾wy，一堆广告",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-16T01:38:26-07:00",
+      "rating": 2,
+      "title": "Need to improve",
+      "text": "The app requires full photo library access just to upload a few photos. iOS has supported Limited Photos access and Photos Picker for years. Please support these privacy-friendly options instead of forcing full library access.",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-15T07:42:43-07:00",
+      "rating": 1,
+      "title": "微信支付时闪退",
+      "text": "最新微信版本不匹配最新ios系统，扫码支付时频繁提醒小程序内存不足，死机、闪退。多次重启后，提醒释放缓存。重新登录，可以支付了。但支付几笔后又死机闪退。我查了一下内存还有200+个。老版本没有此问题。",
+      "version": "8.0.75"
+    },
+    {
+      "date": "2026-07-14T08:01:38-07:00",
+      "rating": 1,
+      "title": "点进状态会卡死",
+      "text": "好友状态，只要点进去就卡死，只能杀后台重启",
+      "version": "8.0.75"
+    }
+  ]
+}

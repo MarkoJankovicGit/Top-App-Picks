@@ -1,0 +1,77 @@
+{
+  "app": "BeConfident: learn English",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-05-30T09:53:12-07:00",
+      "rating": 4,
+      "title": "Spanish option",
+      "text": "Is not available in the app",
+      "version": "2.31.1"
+    },
+    {
+      "date": "2026-04-30T11:53:04-07:00",
+      "rating": 1,
+      "title": "Bug",
+      "text": "Está sendo impossível estudar pelo app nas últimas semanas. Trava a toda hora",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2026-02-11T10:21:34-07:00",
+      "rating": 5,
+      "title": "O melhor app para aprender inglês.",
+      "text": "Já usei vários outros app para aprender inglês! Mas se sem dúvidas é muito superior e entrega muito mais que promete. Fascinada com ele já abandonei as redes sociais e consigo manter o foco nele e de quebra aprender inglês. Se you next time!",
+      "version": "2.17.28"
+    },
+    {
+      "date": "2025-10-25T19:01:33-07:00",
+      "rating": 5,
+      "title": "I like",
+      "text": "10",
+      "version": "2.17.12"
+    },
+    {
+      "date": "2025-10-16T04:09:05-07:00",
+      "rating": 5,
+      "title": "Ótimo",
+      "text": "5 estrelas",
+      "version": "2.17.12"
+    },
+    {
+      "date": "2025-10-13T19:11:22-07:00",
+      "rating": 5,
+      "title": "Excellent App! 😍",
+      "text": "I love this App, thank you for help me!",
+      "version": "2.17.12"
+    },
+    {
+      "date": "2025-10-04T18:13:16-07:00",
+      "rating": 5,
+      "title": "I love",
+      "text": "Excelent",
+      "version": "2.17.12"
+    },
+    {
+      "date": "2025-07-29T06:47:04-07:00",
+      "rating": 1,
+      "title": "App muito bugado",
+      "text": "O app é extremamente bugado! Não computa nada direito, sendo que o reconhecimento de voz é horrivel! Já fiz queixa no SAC e eles ficaram de corrigir, mas parece que na última atualização os erros ficaram ainda piores! Não recomendo, até então, do jeito que está. Vi recentemente o app da Open English em funcionamento e dá um pau nesse aqui! Uma\nPena, pois esse app tem potencial, mas os dev parecem ser bem ruinzinhos…",
+      "version": "2.12.0"
+    },
+    {
+      "date": "2025-07-27T07:03:07-07:00",
+      "rating": 1,
+      "title": "Quiero cancelar y no Deja la aplicacion",
+      "text": "Es muy Basica siento que no Avanzo y quiero cancelar y nadie resuelve",
+      "version": "2.11.2"
+    },
+    {
+      "date": "2025-07-09T17:37:49-07:00",
+      "rating": 1,
+      "title": "Pessimo",
+      "text": "O app trava toda hora, o suporte leva 24 horas para responder! E as licoes sao super faceis e nao tem como ir para um nivel melhor! Nao recomendo",
+      "version": "2.10.3"
+    }
+  ]
+}

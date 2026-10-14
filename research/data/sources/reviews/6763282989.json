@@ -1,0 +1,21 @@
+{
+  "app": "VitaHabit: Daily Reset",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-07-24T12:29:07-07:00",
+      "rating": 1,
+      "title": "mrd",
+      "text": "es una mrd",
+      "version": "2.1.0"
+    },
+    {
+      "date": "2026-07-11T08:04:55-07:00",
+      "rating": 5,
+      "title": "La mejor",
+      "text": "Me encanta 🥰",
+      "version": "2.1.0"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "app": "FocusPomo · Pomodoro Timer",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T13:22:43-07:00",
+      "rating": 5,
+      "title": "Feature request, good app",
+      "text": "Feature request: show completed tomatoes from the current week on the active focus screen, add option to group by task? (I love seeing the tomatoes I have collected and want to see them while I am working, it would be fun to see how many I have collected for each project while there)\nClean app, great app blocking, I love the little smiling tomatoes and want to see them more! 🍅❤️",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-07T14:07:05-07:00",
+      "rating": 5,
+      "title": "Love this pomodoro!",
+      "text": "I was using the pomodoro videos on YouTube for a while, and loved the style, but kinda wanted to be able to pick my music. This lets me keep apps I use for work and blacklist the ones that distract me so I’m way more efficient and focused!",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-06T17:52:29-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "So good",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-06T13:42:43-07:00",
+      "rating": 5,
+      "title": "Best app ever!",
+      "text": "This app has gotten me through SOOOO many study session this and a dream can go a long way!",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-06T05:53:36-07:00",
+      "rating": 5,
+      "title": "Love it!!",
+      "text": "So productive and easy to use!",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-05T13:38:02-07:00",
+      "rating": 5,
+      "title": "So cute",
+      "text": "This app is adorable and helps a lot with adhd",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-05T13:06:42-07:00",
+      "rating": 5,
+      "title": "Session count",
+      "text": "Hello: suggesting a session count so I know what number of focus periods I am on before my long break. \n\nSay I’m on session #2, walk away, forget which it was 2/3 ? 3/3?  I have no idea. It’s impossible to know it seems. That would be cool to have in the corner like 1/3, 2/3 3/3/ focus counter",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-04T22:02:15-07:00",
+      "rating": 5,
+      "title": "Weekday vs weekend time spent",
+      "text": "Hi, \n\nCan you help add a feature to differentiate time spent on weekdays and weekends? \n\nThx!",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-04T13:31:32-07:00",
+      "rating": 5,
+      "title": "Love the app but would love one extra feature",
+      "text": "I love this app but I wish this app had the ability to also set custom break times for each of the focus tags. I’ve not found any apps that do this really so that’s why I still gave 5 stars. But if they added this then the app would be perfect",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-04T10:28:13-07:00",
+      "rating": 5,
+      "title": "Love this timer app",
+      "text": "So easy to use, and I love how the pomodori bounce around the screen 😭 It encourages me to keep going and collecting more",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-03T11:39:24-07:00",
+      "rating": 5,
+      "title": "Helps me focus",
+      "text": "Love this app! It has not only kept me focused but has motivated me to get my work done! Love collecting the GOOD tomatoes it’s so satisfying:)",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-02T18:30:40-07:00",
+      "rating": 5,
+      "title": "feature request",
+      "text": "could let the user pick a different alert sound for when the timer is over",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-10-02T09:22:32-07:00",
+      "rating": 5,
+      "title": "Cute veggies!",
+      "text": "The veggies just make me feel like I’m being healthy too!!",
+      "version": "5.3.1"
+    },
+    {
+      "date": "2026-10-01T09:24:29-07:00",
+      "rating": 4,
+      "title": "Useful tool, but a little buggy",
+      "text": "This app is super helpful to stay focused. I just wish the bugs were fixed (e.g., app freezing when clicking on certain buttons in summary screen).",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-29T09:50:17-07:00",
+      "rating": 4,
+      "title": "Could we get a feature to remove the timer label from the Apple Watch complications?",
+      "text": "I really like this timer, but I wish I had an option for the circular Apple Watch complication to remove the timer name and just have a bigger display of the time left on the task since I can already tell which timer it is by the color. Please add this and I will definitely pay and revise my review!",
+      "version": "5.3.0"
+    },
+    {
+      "date": "2026-09-28T07:12:38-07:00",
+      "rating": 5,
+      "title": "能不能有个子标签功能？",
+      "text": "软件很简洁好用，不过我希望能出个子标签功能，比如阅读标签下面，可以添加具体书名的子标签，运动标签下面，可以添加跑步、骑行之类的子标签。诸如此类。",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-27T23:27:28-07:00",
+      "rating": 4,
+      "title": "Recommendation",
+      "text": "Good app, there should be an option to further gamify your tomato. To keep simplicity for those that prefer that there should be an option to also switch the gamified option on and off. Also more variety for viewing your data should be offered, instead of just the bar chart there should be a pie chart options, line graphs etc",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-27T14:50:03-07:00",
+      "rating": 5,
+      "title": "cool",
+      "text": "cool",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-27T12:33:13-07:00",
+      "rating": 1,
+      "title": "Limited time off add won’t stop showing up",
+      "text": "I had this app for a while but had to delete it due to storage problems with my older phone now that I got a newer one I been and with more storage I decided to get back into the app. Once I opened it and noticed that an add for limited offer plan with -72% discount has been showing up every time I opened the app to focus and lately has been disrupting the use of the app as I have to restart the app every time I want to go on use the app but due to it showing up every single time I open it and there’s no way to get rid of it other than restarting it has become harder to get things started on and keep track of what I have done. Today I have only been able to focus on one single thing due to how often the ad has shown up. This is really disappointing and difficult decision to delete the app or wait till the 26 hours have passed until I am able to use it.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-27T12:19:33-07:00",
+      "rating": 4,
+      "title": "Good app for keeping track of focus",
+      "text": "I find the simplicity of the app to be well done. It’s cute and simple but also playful. My only complaint is that you can’t change the color of the tomatoes according to the color of the tags. I feel like that would certainly be a feature worth implementing.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-27T11:22:20-07:00",
+      "rating": 2,
+      "title": "greatttt",
+      "text": "can you make it to keep the tomatoes forever so i can bring my tomatoes back please",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-26T15:15:23-07:00",
+      "rating": 4,
+      "title": "suggestion: different fruits/colors for different focus tag",
+      "text": "great app! i was hoping there would be an option to collect different fruits or tomato colors based on the tags. for example would be great to see a difference in tomatos / fruits collected for my reading and writing sessions weekly",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-26T12:45:59-07:00",
+      "rating": 5,
+      "title": "tomato",
+      "text": "i love pomo",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-25T07:33:20-07:00",
+      "rating": 1,
+      "title": "Try before Buy",
+      "text": "This app pounds you for money and you can’t use the free one",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-24T11:20:11-07:00",
+      "rating": 3,
+      "title": "Forcing reviews for features",
+      "text": "…is lame, even when the product is good.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-24T10:07:10-07:00",
+      "rating": 4,
+      "title": "So helpful",
+      "text": "Grab a friend and us this timer. It solves all of your problems just chatting when you need to study.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-24T05:25:40-07:00",
+      "rating": 5,
+      "title": "Cute & fun",
+      "text": "As a graphic designer, I SWEAR by the Pomodoro method when I’m working for long stretches! It really helps keep you from getting distracted or mentally burnt out. \n\nI love FocusPomo’s cutesy interface and the visual reward of the little oranges? Tomatoes? Apples? Not sure what they are, but they’re cute as heck! The timer always keeps me on track and the notifications aren’t annoying.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-23T14:37:48-07:00",
+      "rating": 2,
+      "title": "Blacklist & whitelist don't work",
+      "text": "The blacklist/white list was the only reason I got the paid version and they do not work. I select apps to whitelist and only a handful actually get whitelisted. Same thing happens to blacklisted apps, only a handful actually get blacklisted... I don't have enough self control to not have these apps blocked 😫",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-23T12:24:19-07:00",
+      "rating": 5,
+      "title": "5 stars",
+      "text": "I love this app! It helps my brain and I to rest and think! I hated having no breaks because I would just cause more stress so I tried this app and method and it is helpful!!! 💕😍😘",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-23T11:31:13-07:00",
+      "rating": 4,
+      "title": "Custom timer ringtone?",
+      "text": "Is there no way to customize the timer ringtone? The default is so harsh. \n\nOtherwise I really love the simplicity and utility focus of this app.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-23T11:26:40-07:00",
+      "rating": 4,
+      "title": "Very beautifully UI but a few problems",
+      "text": "I really love this timer, it’s simple and helps me be more productive. However, some issues still persist even after contacting support:\n1) occasionally, the app glitches and does not add overtime after clicking “add time”\n2) the selection dial within the”Edit Session” page persists in displaying in24-hour time even though I have 12 hour time toggled on",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-23T09:51:38-07:00",
+      "rating": 5,
+      "title": "Simple and fun",
+      "text": "FocusPomo is a fun and simple way to keep track of your attention and to visualize where it goes. The interface is entertaining and easy to use, allowing your neurodivergence to focus on keeping track of your tracking.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-22T21:58:15-07:00",
+      "rating": 5,
+      "title": "great tool. could use a quality of life improvement",
+      "text": "i would love if you could add a note like “what are you working on: ____” besides the tag. like for example starting a homework timer and putting the assignment name so i could have an accurate log and data of historically how long specific assignments take me.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-20T19:09:34-07:00",
+      "rating": 5,
+      "title": "Reviewww",
+      "text": "Helps me focus and makes me do homework",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-20T18:42:54-07:00",
+      "rating": 4,
+      "title": "“Always on Top” (aka floating)",
+      "text": "The window “Always on Top” (aka floating) is absolutely mandatory for an App like this – so user can see the time counting down. What’s the point if the countdown is buried under several windows. I assume it’s relatively trivial to add the feature. Please add ASAP.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-19T12:22:54-07:00",
+      "rating": 5,
+      "title": "Sync to Google Calendar",
+      "text": "FocusPomo has saved my time managment skills and as an avid Google suites user, it would be great to see my focus sessions reflected on google calendar.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-18T10:20:10-07:00",
+      "rating": 5,
+      "title": "Absolutely Great and Super Cute",
+      "text": "I love using FocusPomo at work! It’s simple and easy to use, but also super cute—it genuinely brightens up my cubicle and my day.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-18T07:50:56-07:00",
+      "rating": 5,
+      "title": "FocusPomo",
+      "text": "Love this app!!!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-16T12:10:00-07:00",
+      "rating": 5,
+      "title": "HK",
+      "text": "I love how it keeps me organized",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-16T10:00:07-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "很棒！但如果有可视化的时间流动就好了，比如沙漏，或者图像显示时间流逝/剩余多少时间，而不是数字时间（尤其是在电脑屏幕最上方的bar一直显示的话，会对adhd的人产生焦虑感）。或者如果能够隐藏时间也可以，但最好是一个可以直观看见时间还剩多少的图像（类似进度条那种也可以），希望可以加入！",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-14T14:14:55-07:00",
+      "rating": 5,
+      "title": "Great app, would like to see task list",
+      "text": "Ive already seen a difference since using, will suggest yall add a task list to replace the Apple Reminders app which I want to stop using asp because Reminders has a poor interface and bad categorization.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-14T11:06:06-07:00",
+      "rating": 4,
+      "title": "Landscape mode pls",
+      "text": "Love it. But would like to turn my phone horizontally on the desk :)\nToo many payment ads when I’m already in a trial. \nThe extend time feature is confusing, maybe need to investigate more but it’s not obvious what that is doing or how it affects my tomato count.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-13T16:55:00-07:00",
+      "rating": 5,
+      "title": "Use it everyday",
+      "text": "It's so fun and seamless to track productivity -- collecting tomatoes actually motivates me to work hard!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-13T15:39:39-07:00",
+      "rating": 5,
+      "title": "Managed focus",
+      "text": "I love this app because it’s so simple to use. Just click a button and a timer, pops up. \n\nHaving that timer, there helps me really log in for that sprint of time. Before I start using this app. There’s really no structure or true focus.\n\nBut now I’m able to see how long I’m actually logging in in incorporating. Small breaks within my routine to make sure I’m not giving my soft time to recharge for the next focus sprint!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-13T12:25:48-07:00",
+      "rating": 5,
+      "title": "Let me keep my tomatoes, PLEASE",
+      "text": "Please let me keep my tomatoes until I reset them!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-12T13:39:04-07:00",
+      "rating": 5,
+      "title": "Love this app",
+      "text": "Helps me get off my phone and focus",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-11T18:48:16-07:00",
+      "rating": 5,
+      "title": "suggestions",
+      "text": "Have white noise",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-11T11:23:00-07:00",
+      "rating": 5,
+      "title": "Really charming and exactly what I need",
+      "text": "I really enjoy how simple it is and no fuss. The design is S tier.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-11T08:10:15-07:00",
+      "rating": 5,
+      "title": "Auto Cycle",
+      "text": "Would love to see an auto cycle on the session so I don’t have to hit start every time for my break!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-09T18:13:50-07:00",
+      "rating": 5,
+      "title": "Best focus app",
+      "text": "This has been the BEST focus app all YEAR LONG",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-08T18:12:38-07:00",
+      "rating": 5,
+      "title": "Focus with friends",
+      "text": "Wish we can focus with friends",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-07T17:11:50-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "This app helps me with my studies and makes me focus better, I love the style and theme the app has as well.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-07T14:38:12-07:00",
+      "rating": 4,
+      "title": "Tomato count",
+      "text": "I love getting my tomato’s but I wish I could set when they are refreshed. Being in school I would love to see what a real semester looks like. I want to fill up my screen. But within a month that doesn’t seem possible",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-07T12:22:14-07:00",
+      "rating": 5,
+      "title": "Don’t count overtime",
+      "text": "The app is simple and nice. But personally I’d like the clock to end as exactly the time I’ve set up. In that way, I can start in clean Pomodoro blocks and measure the time more precisely",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-07T11:05:41-07:00",
+      "rating": 4,
+      "title": "Great app",
+      "text": "I’ve used this app a lot in the past and to say I still use it to this day means a lot coming from me. I think it’s a cute visualization of pomodoro and it helps me stay focused",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-07T10:22:01-07:00",
+      "rating": 5,
+      "title": "Options other than tomatoes",
+      "text": "Love to app, but can you give us other options than tomatoes, such as chess pieces! Love chess, or other fruit, or monkeys. It will make it even more awesome!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-05T15:12:37-07:00",
+      "rating": 5,
+      "title": "Swag",
+      "text": "This app is so swag its not even funny",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-05T12:28:40-07:00",
+      "rating": 5,
+      "title": "love the app",
+      "text": "the app is super great and i love the stats and cute reminders. I only wish we got to rotate the screen on the phone, i can only use it vertically. it’s great and i love using it with multiple devices.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-05T06:49:29-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-03T13:59:02-07:00",
+      "rating": 3,
+      "title": "Optional Sounds For Alerts; sync with Apple Music",
+      "text": "We definitely need to customize the alarm sounds; it would go a long way towards making a good little app to a GREAT Big App!",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-02T08:34:17-07:00",
+      "rating": 4,
+      "title": "Very Helpful",
+      "text": "I have really enjoyed using this app. It’s nice to have a visual reminder to stay on track. I will say, I do wish it had a horizontal figuration, and the tomatoes stayed on the screen when the timer is on, but that’s purely for aesthetic purposes.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-09-01T07:20:23-07:00",
+      "rating": 5,
+      "title": "So helpful!",
+      "text": "Really great for studying, especially will large amounts of material",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-08-31T16:03:25-07:00",
+      "rating": 5,
+      "title": "Game Changing",
+      "text": "I really enjoy using the app for focus sessions. The UI is well made and makes it enjoyable to use and quickly jump in. \n\nI love that I’m able to tag and track specific pomodoro sessions. It’s makes my sessions enjoyable and it’s been a game changer for me. This app was the missing piece for me to feel even more productive with the pomodoro timers.",
+      "version": "5.2.3"
+    },
+    {
+      "date": "2026-08-30T11:08:06-07:00",
+      "rating": 5,
+      "title": "Cute pomo timer",
+      "text": "I love this app! Very useful but also fun",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-28T09:46:09-07:00",
+      "rating": 5,
+      "title": "Suggestion",
+      "text": "Love the app! It’s half the reason I’m making it through grad school! One suggestion I have is to create the ability for different timers to have different app blackout lists! I use one of my timers for home tasks and it’d be nice to not have the same apps blacked out at that time as when I’m using the timer I use to study. Thank you!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-27T16:08:59-07:00",
+      "rating": 5,
+      "title": "It does what its supposed to do",
+      "text": "I got exactly what I needed. there are no complaints on my side",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-27T09:05:46-07:00",
+      "rating": 5,
+      "title": "I love it",
+      "text": "Best focus tool so far. Premium is absolutely worth it. Would love to see some sound options to play in background like lofi or cafe noises.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-26T08:59:48-07:00",
+      "rating": 5,
+      "title": "I like it so muchh",
+      "text": "It’s a very good app, i started using it more now since i started college and it has helped me study a lot. Would definitely recommend… plus the cuteness!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-25T18:16:08-07:00",
+      "rating": 5,
+      "title": "Good app!",
+      "text": "I love this app, it really cute to have the tomato float around! I found the pomodoro timers help me stay focused!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-24T07:06:18-07:00",
+      "rating": 4,
+      "title": "Suggestion",
+      "text": "The app seems pretty cool but I wish there were more features like being able to add our classes to the calendar but it lists them for the whole semester",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-23T12:16:43-07:00",
+      "rating": 5,
+      "title": "So adorable",
+      "text": "Would love the ability to pause the focus session during pomodoro!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-23T06:39:58-07:00",
+      "rating": 5,
+      "title": "Feature",
+      "text": "This app has helped me a lot with my studies and I love collecting tomatoes s it’s so cute and fun oh and maybe you could do besides tomatoes like fruits but I like the whole concept thing of tomatoes because pomodoros  and tomatoes it’s so cute and fun and maybe I like free trials but maybe just like do like a starter pack completely free because some students or People just don’t have the money maybe just for the starter pack you can do I year free and then 20$ or a reasonable price Im not saying your prices are not reasonable it’s just a suggestion for the price I hope you read this thanks✨ oh and the sound while the timer is on its sooo relaxing I don’t know if it’s rain or the tomatoes cooking But I just love it",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-22T18:02:14-07:00",
+      "rating": 5,
+      "title": "Love this for studying",
+      "text": "I use this app all the time for studying or getting assignments done for my college classes. Also the tomatoes as rewards are so adorable !",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-20T19:22:33-07:00",
+      "rating": 5,
+      "title": "Suggestion",
+      "text": "I love asthetic and so do many more girlies I know. This could be an instagram worthy app if we could change the color of the background! (And maybe different fruits for different colors?) *that might defeat the whole pomrodo “tomato” purpose tho I absolutely love this app tho I use it am in high school i would like have. No breaks without it.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-20T14:53:07-07:00",
+      "rating": 5,
+      "title": "Great timer to help me focus",
+      "text": "Love this timer .. it keeps me focused",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-20T11:40:01-07:00",
+      "rating": 4,
+      "title": "Cant restart data",
+      "text": "I love this app, and recently redownloaded it because I am going back to school. Problem  is, the app still has saved data from YEARS ago. Its driving me crazy that I have 33 past tomatoes that I can’t delete:/ I have tried EVERYTHING to clear it, but cant. I would love to start over for the school year…",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-18T20:59:08-07:00",
+      "rating": 4,
+      "title": "Toggle off dark mode",
+      "text": "If possible, I’d like to toggle off dark mode for its widgets even when my system is using dark mode. I just would like the option to see the color I chose clearly in the whole widget block rather than just in the font while still using dark mode for the rest of my phone. Thank you!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-17T23:04:17-07:00",
+      "rating": 5,
+      "title": "Idea",
+      "text": "The oranges have the same color as the task done. Shows how much work was done for each different individual task. Can be turned on or off for aesthetic reasons ;) Can also be different fruits or something \n\nEx: Reading is red and did 20 minute read and the orange is also red on home page. \n\nGood app though fr",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-17T15:15:49-07:00",
+      "rating": 5,
+      "title": "Request",
+      "text": "Can the tomatoes by different colors for each focus type? That would visually help me determine where my focus has been centered.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-17T08:07:45-07:00",
+      "rating": 4,
+      "title": "needs PiP capabilities",
+      "text": "please provide option to pop out timer in PiP",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-10T10:38:51-07:00",
+      "rating": 4,
+      "title": "Great but a visual bug is frustrating",
+      "text": "Every time upon opening the app following completion of the timer, the little congratulations badge card is off centered and glitching out. Makes the app experience seem laggy and unpolished.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-08T13:57:18-07:00",
+      "rating": 5,
+      "title": "great app",
+      "text": "please add a pause feature to the timer 🥹🥹",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-07T20:09:09-07:00",
+      "rating": 5,
+      "title": "good app",
+      "text": "Good app",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-07T12:16:37-07:00",
+      "rating": 5,
+      "title": "Its the best study app I have every used",
+      "text": "This app first and foremost is free to use out the box. But I loved it so much I bought premium because it’s so good. By far the best pomodoro app ever! ive used it for a year and its simply amazing!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-06T10:11:03-07:00",
+      "rating": 3,
+      "title": "Nice app, but need to allow for cycle reset/stop",
+      "text": "The app ui is nice, and lots of great features on plus to help keep you on the pomodoro cycle. However, it doesn’t appear possible to stop or restart a cycle if you need to interrupt. It is also annoying to have the this app stuck on live activities when you are not intending to use it. IE there should be a way to choose when you are in the cycle, when you want to stop it, and when you want to restart. You should also be able to customize cycles for the different tags.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-02T13:07:08-07:00",
+      "rating": 5,
+      "title": "Please enable different break length combos",
+      "text": "This is an excellent app. The design is cute without being distracting. I also posted earlier about wanting alerts that go off even if the watch app is open, but since upgrading to premium, I realized the alarm setting does exactly this! The calendar setting is also super helpful for tracking work! \n\nThe only thing I wish I could do with premium is pair different break lengths to different focus sessions. For example, sometimes I use a 25 min work/5 min break structure, but other times I do 45 mins/10 mins. It would be great if the break time/number sessions before long break switched automatically with my session length instead of having to change it manually.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-02T11:36:35-07:00",
+      "rating": 4,
+      "title": "FocusPomo review",
+      "text": "love this app! must have for adhd brains! just wish it was a bit more simple but absolutely love!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-02T10:20:38-07:00",
+      "rating": 5,
+      "title": "Simple, user friendly, perfect",
+      "text": "I have tried several other apps to help me organize my writing time in relation to other professional tasks and find the flexibility of this one to be the best one that I’ve come across. I like the various options for setting times and I also really appreciate the tracking options which help me manage my weekly and monthly writing. I also appreciate that there are not a lot of unnecessary bells and whistles.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-02T07:21:52-07:00",
+      "rating": 5,
+      "title": "Rất hay",
+      "text": "IT í so gôd",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-02T05:03:55-07:00",
+      "rating": 5,
+      "title": "The best so far",
+      "text": "This is the only study timer app I’ve consistently used for a long time. It’s simple, easy to use, and creates a great study environment. I find myself much more focused and attentive whenever I study with this app.\nOne suggestion I’d like to make is to add a screen rotation option with a horizontal full-screen mode for phone users, not just iPads and tablets. Having a large, full-screen timer in landscape mode would make the experience even more immersive and motivating for studying.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-08-01T18:09:36-07:00",
+      "rating": 1,
+      "title": "Annoying",
+      "text": "Millions of users! 4.7 star rating! Whatever. This is one of those apps - kind of like Tinder - that has so many pop ups and questions before you even get to use the app… then finally you’re on the timer page, but wait, how about this free trial? Me: No, Go away. Then just as I’m about to click on the timer, another pop up: how about THIS free trial? Me: How about I delete your app? I am already annoyed before I’ve even started using the product. And the oranges aren’t cute, they’re just weird.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-31T06:26:22-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "This app helped me work on my time management and my productivity. I got all my work done in the time it gave and the breaks helped",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-30T17:29:49-07:00",
+      "rating": 4,
+      "title": "One of the best Pomodoro apps",
+      "text": "NEEDS: Optional ticking sound to play during the focus sessions.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-30T08:56:05-07:00",
+      "rating": 5,
+      "title": "Game changer",
+      "text": "My focus has improved since using this, as has my physical health!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-28T13:19:09-07:00",
+      "rating": 4,
+      "title": "Mac version not blocking apps",
+      "text": "Great app for iPhone and iPad, but I would love if it blocked apps on my MacBook too!",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-27T08:42:38-07:00",
+      "rating": 3,
+      "title": "𝙿𝚛𝚎𝚝𝚝𝚢 𝚐𝚘𝚘𝚍",
+      "text": "𝚃𝚑𝚎 𝚛𝚊𝚒𝚗 𝚔𝚎𝚎𝚙𝚜 𝚜𝚝𝚘𝚙𝚒𝚗𝚐 𝚙𝚕𝚣 𝚏𝚒𝚡 𝚘𝚝𝚑𝚎𝚛𝚠𝚒𝚜𝚎 𝚐𝚘𝚘𝚍 𝚜𝚘𝚞𝚛𝚌𝚎",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-25T13:08:33-07:00",
+      "rating": 5,
+      "title": "New to the app but great first impression!",
+      "text": "I’ve just started using FocusPomo but it has a great interface that is simple but also effective and with many features. You can start your focus time quickly and easily upon opening the app, but when you do have the time to spare, there’s also a lot of data features for insights and planning features to make the best use of your time.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-25T09:26:56-07:00",
+      "rating": 4,
+      "title": "Sorting Features",
+      "text": "It would be great to sort the tags to the user’s preferences beyond what is already available.",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-24T18:41:18-07:00",
+      "rating": 5,
+      "title": "I love it",
+      "text": "Thank you so much",
+      "version": "5.2.2"
+    },
+    {
+      "date": "2026-07-24T01:32:38-07:00",
+      "rating": 5,
+      "title": "番茄钟的魅力",
+      "text": "番茄钟是个好工具，让人在这个碎片信息时代得到属于自己的一片清静的时间，不仅仅单单的计时工具，当按下按钮的那一刻，全身心都进入了集中注意力的状态",
+      "version": "5.2.2"
+    }
+  ]
+}

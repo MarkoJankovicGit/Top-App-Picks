@@ -1,0 +1,757 @@
+[
+ {
+  "key": "r:quickcastai英語リスニング",
+  "name": "QuickCast - AI英語リスニング",
+  "country": "Japan",
+  "seller": "Kazumasa Shimomura",
+  "dev_type": "solo (self-described indie developer)",
+  "lenses": [
+   "K3",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "iOS app that turns English articles, YouTube videos, PDFs and study notes into AI listening audio matched to the learner's level, for commute/walk/chores; transcript and term hints for later review.",
+  "sets_apart": "User-supplied material (URL/PDF/notes) becomes a personalised audio episode; share-sheet ingestion from Safari/YouTube/news apps into a listening queue; explanation depth by level. Direct K2 x K3 hybrid.",
+  "traction": "JP App Store: 10 ratings (4.3); released 2025-07-08, updated 2026-06-03; Reddit thread 5 comments. Small.",
+  "monetization": "Free download; paid tier not verified",
+  "url": "https://apps.apple.com/jp/app/id6748022299",
+  "evidence": [
+   {
+    "title": "I built QuickCast - an app that turns articles & PDFs into ...",
+    "subreddit": "r/iosapps",
+    "age": "1 year ago"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "key": "r:sleepscapesleepaidalarmsleephabittracker",
+  "name": "Sleepscape: Sleep Aid, Alarm, Sleep Habit Tracker",
+  "country": "South Korea",
+  "seller": "unknown (self-described 'solo developer building apps from Korea')",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "iOS 26 sleep app: sleep aid + alarm + sleep-habit tracker (per thread title).",
+  "sets_apart": "Bundles sleep aid, alarm and habit tracking in one iOS 26-native app; details beyond the title not visible in the snippet.",
+  "traction": "r/iosapps thread 50+ comments, ~3 months old. Store listing not found via iTunes API under 'Sleepscape' (US/KR) - final store name may differ.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "[iOS 26] Sleepscape: Sleep Aid, Alarm, Sleep Habit Tracker",
+    "subreddit": "r/iosapps",
+    "age": "3 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:복기복을부르는일기bokgi",
+  "name": "복기 - 복을 부르는 일기 (Bokgi)",
+  "country": "South Korea",
+  "seller": "Sung Hee Bae (Play package kr.co.jaystory.bokgi)",
+  "dev_type": "solo/very small (individual seller)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Easy diary app combining emotion, achievement and habit logging through taps ('the diary that brings luck').",
+  "sets_apart": "Tap-based diary (no long writing) that merges mood, achievements and habits in one record; positive 'luck' framing; seasonal updates (Christmas post).",
+  "traction": "KR App Store: 1,178 ratings (4.76); released 2022-04-03, updated 2024-04-24; r/hanguk post 1 comment.",
+  "monetization": "Free download; IAP not verified",
+  "url": "https://apps.apple.com/kr/app/id1605894697",
+  "evidence": [
+   {
+    "title": "탭으로 완성하는 감정,성취,습관 일기앱 복기에서 크리스마스 ...",
+    "subreddit": "r/hanguk",
+    "age": "3 years ago"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "key": "r:travelechotitletruncatedtravelechoai",
+  "name": "Travel Echo (title truncated: 'Travel Echo: AI-...')",
+  "country": "Hong Kong",
+  "seller": "unknown (maker says he/she is from Hong Kong)",
+  "dev_type": "solo (first launched product)",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Maker's 'journey to my first launched product' post; title begins 'Travel Echo: AI-' (probably an AI travel/audio guide - NOT confirmed).",
+  "sets_apart": "unverified",
+  "traction": "6 comments, ~2 years old; not found in US/HK App Store via iTunes API (possibly delisted).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "A journey to my first launched product - Travel Echo: AI- ...",
+    "subreddit": "r/SideProject",
+    "age": "2 years ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:yongshinhalmomaikoreanfortunetellingwebapp",
+  "name": "Yongshinhalmom (AI Korean fortune-telling web app)",
+  "country": "South Korea",
+  "seller": "unknown (frontend developer from Korea)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Web app that turns Korean fortune telling (saju-style) into an AI experience; adjacent to identity/ritual content popular with young women (assumption).",
+  "sets_apart": "Traditional fortune-telling content wrapped in AI; web only, no store listing.",
+  "traction": "r/SideProject thread 1 comment, ~4 months old",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I turned Korean fortune telling into an AI web app and people ...",
+    "subreddit": "r/SideProject",
+    "age": "4 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:auraderreadaloudebooktts",
+  "name": "Aurader: Read Aloud Ebook TTS",
+  "country": "China",
+  "seller": "Static Fire Technology Co., Ltd. (V2EX post written by the maker)",
+  "dev_type": "solo/small (unverified)",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Immersive AI audiobook/ebook reader: high-quality TTS read-aloud with soothing background music.",
+  "sets_apart": "Soothing background music layered under high-quality TTS ('immersive listening'); Pro tier; maker gave lifetime Pro codes to V2EX readers.",
+  "traction": "US store 168 ratings (4.79), CN store 395 ratings (4.75); released 2026-02-18; V2EX post Mar 2, 2026.",
+  "monetization": "Free + Pro membership; snippet mentions a $59.99 price (unverified)",
+  "url": "https://apps.apple.com/us/app/id6758951184",
+  "evidence": [
+   {
+    "title": "做了个沉浸式AI 听书工具Aurader，送大家一个永久Pro 会员 ...",
+    "subreddit": "V2EX (non-Reddit)",
+    "age": "Mar 2, 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:随心听书离线有声书播放器",
+  "name": "随心听书 - 离线有声书播放器",
+  "country": "China",
+  "seller": "Shandong far Heng Supply Chain Management Co., Ltd (store seller; V2EX posts by individual maker)",
+  "dev_type": "solo (unverified)",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Offline-first audiobook/reading app (iOS+Android) for people with their own book library, cloud drive or audiobook files; v2.0.10 adds self-hosted music server support (AList / AudioBookshelf mentioned).",
+  "sets_apart": "Self-hosted/own-files audiobook player (NAS and cloud-drive sources) rather than a catalogue.",
+  "traction": "CN store: 24 ratings (4.17); released 2025-12-17; V2EX update post May 25, 2026.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6755520834",
+  "evidence": [
+   {
+    "title": "随心听书2.0.10 更新：支持自建音乐服务器， AList / Watch ...",
+    "subreddit": "V2EX (non-Reddit)",
+    "age": "May 25, 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:拾芽shiya亲子打卡与成长存钱罐",
+  "name": "拾芽 (Shiya) - 亲子打卡与成长存钱罐",
+  "country": "China",
+  "seller": "Jiang Yilong (江奕龙)",
+  "dev_type": "solo",
+  "lenses": [
+   "K3",
+   "K1"
+  ],
+  "women_oriented": "unknown (parents; likely mothers - unverified)",
+  "what_it_is": "Parent app that turns a child's daily small moments into bedtime stories (per V2EX interview); store listing frames it as parent-child check-in + growth piggy bank.",
+  "sets_apart": "Personalised bedtime story generated from the child's own day; built because the dev had no time to tell his daughter bedtime stories.",
+  "traction": "CN store: 5 ratings (5.0); released 2026-06-05; <1 month live at the interview date (Jul 23, 2026).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6771161520",
+  "evidence": [
+   {
+    "title": "因为没时间给女儿讲睡前故事，他做了一款App",
+    "subreddit": "V2EX (non-Reddit)",
+    "age": "Jul 23, 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:marknow习惯打卡日常记录健康打卡时间管理",
+  "name": "MarkNow - 习惯打卡、日常记录、健康打卡、时间管理",
+  "country": "China",
+  "seller": "Cai Kunyu (坤雨 蔡)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Life-logging / habit check-in app with fully custom fields (text, number, toggle ...), built in Flutter by a solo dev in three months.",
+  "sets_apart": "Customisable record types instead of fixed habit ticks - one app for habits, health and daily logs; dev handed out promo codes on V2EX.",
+  "traction": "CN store: 422 ratings (4.8); released 2025-01-29; V2EX post Feb 13, 2025. Comparable CN habit-check-in (打卡) apps by tiny devs: MarkTimes 3,267 ratings (4.92), DayMark 394 (4.48).",
+  "monetization": "Free download; IAP not verified",
+  "url": "https://apps.apple.com/cn/app/id6739256038",
+  "evidence": [
+   {
+    "title": "「送码」使用Flutter 三个月独立开发一个生活记录应用MarkNow",
+    "subreddit": "V2EX (non-Reddit)",
+    "age": "Feb 13, 2025"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "key": "r:呱呱计数习惯打卡软件",
+  "name": "呱呱计数 - 习惯打卡软件",
+  "country": "China",
+  "seller": "Qiu Fan (帆 邱)",
+  "dev_type": "solo (3 apps in 6 months per sspai article)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Habit check-in counter app; the sspai article says it visualises everyday habits together with the 呱呱 mascot.",
+  "sets_apart": "Mascot-driven visualisation of effort ('seeing your effort visualised'); very high rating for its size.",
+  "traction": "CN store: 2,413 ratings (4.91); released 2025-01-02.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6739162457",
+  "evidence": [
+   {
+    "title": "独立开发者6个月时间开发的3款APP",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Jul 17, 2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:黑鸟日记时间胶囊心情日记blackbirddiary黑鸟写信",
+  "name": "黑鸟日记 - 时间胶囊, 心情日记 (Black Bird Diary / 黑鸟写信)",
+  "country": "China",
+  "seller": "Qiu Fan (帆 邱)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Diary app for writing letters to your future self (time capsule) with mood recording.",
+  "sets_apart": "'Letter to future self' / time-capsule mechanic as the journaling hook.",
+  "traction": "CN store: 263 ratings (4.9); released 2025-05-22.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6745124614",
+  "evidence": [
+   {
+    "title": "独立开发者6个月时间开发的3款APP",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Jul 17, 2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:rehabit",
+  "name": "ReHabit",
+  "country": "China",
+  "seller": "unknown (sspai Matrix author)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Daily-habit app built by the author to practise 'The 7 Habits of Highly Effective People' for self-improvement.",
+  "sets_apart": "Built around a self-improvement book framework.",
+  "traction": "unknown; not found in CN/US App Store via iTunes API (renamed/removed?)",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "为了养成每日习惯、实现自我提升，我开发了ReHabit 这款应用",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Mar 18, 2024"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:onemood心情日记手帐情绪状态管理",
+  "name": "OneMood - 心情日记手帐, 情绪状态管理",
+  "country": "China",
+  "seller": "Lin Gunning (滚宁 林), same seller as the DayMark habit app",
+  "dev_type": "solo (self-taught)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Mood diary / journal with emotional-state tracking; same seller also ships the DayMark habit check-in app.",
+  "sets_apart": "Self-taught-dev story (sspai #37: two apps, a calculator and OneMood); details of mechanics not visible.",
+  "traction": "CN store: OneMood 67 ratings (4.57), released 2023-08-22; DayMark 394 ratings (4.48).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6462837446",
+  "evidence": [
+   {
+    "title": "独立开发者故事#37- 自学编程开发的两款App",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Feb 6, 2024"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:me让健康更直观",
+  "name": "Me - 让健康更直观",
+  "country": "China",
+  "seller": "Liu (弨 刘)",
+  "dev_type": "solo (self-taught at 38)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "iOS app for health records, mood records and relationships with visual charts (per sspai snippet).",
+  "sets_apart": "Health/mood data made visual; built in three spare-time months by a self-taught 38-year-old, launched Oct 2023.",
+  "traction": "CN store: 513 ratings (4.74); released 2023-10-10.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id6468550888",
+  "evidence": [
+   {
+    "title": "38 岁的我，如何自学编程上架了一款叫做Me 的App",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Mar 6, 2025"
+   },
+   {
+    "title": "介绍一下我独立开发的健康App",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "May 6, 2024"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:心光ai生活记录伴侣xinguang",
+  "name": "心光 - AI 生活记录伴侣 (Xinguang)",
+  "country": "China",
+  "seller": "Wang Yuxiao (王禹效) / LIGHT WITHIN LIFE PTE. LTD.",
+  "dev_type": "solo founder, small team (unverified)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "AI life-logging companion / AI note app: record daily life and moods with AI help.",
+  "sets_apart": "AI companion layer on top of life recording; founder story 'from indie developer to super-slash youth' (sspai podcast interview).",
+  "traction": "CN store: 12,705 ratings (4.83); released 2022-12-31.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/cn/app/id1631169735",
+  "evidence": [
+   {
+    "title": "对话《心光》王禹效：从独立开发者到超级斜杠青年",
+    "subreddit": "sspai (non-Reddit)",
+    "age": "Nov 20, 2024"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:dayceデイスライフログ音声ジャーナル",
+  "name": "Dayce (デイス) - ライフログ&音声ジャーナル",
+  "country": "Japan",
+  "seller": "unknown (note.com account app_dayce)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1",
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Voice journal app: you just talk before bed and AI summarises the day into a diary.",
+  "sets_apart": "Voice-only journaling (speak instead of write) with AI summary.",
+  "traction": "note post 2 likes, ~7 months old; not found in JP App Store via iTunes API by name.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "AIが日記を要約してくれるアプリを個人開発した｜Dayce",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "7 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:kokorune",
+  "name": "kokorune",
+  "country": "Japan",
+  "seller": "roga (note.com)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Diary-creation app released over New Year; 30+ users on day one.",
+  "sets_apart": "unknown",
+  "traction": "note post 9 likes, ~9 months old; not found in JP App Store by name.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "個人開発アプリが初日で30人以上使ってくれた｜roga",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "9 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:tubehabit動画と一緒に習慣化・記録・ルーティン",
+  "name": "TubeHabit - 動画と一緒に習慣化・記録・ルーティン",
+  "country": "Japan",
+  "seller": "Yui Matsumoto (note: ゆんぺん)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Habit app built around YouTube videos: paste a video URL to build a list of videos you want to turn into a habit, plus logging and routines.",
+  "sets_apart": "Habit formation anchored on the user's own YouTube links (user-supplied content as the habit).",
+  "traction": "JP store: 3 ratings (5.0); released 2025-10-14; note post 10+ likes.",
+  "monetization": "Free download",
+  "url": "https://apps.apple.com/jp/app/id6752489660",
+  "evidence": [
+   {
+    "title": "続かない習慣に悩んでいた私が作ったアプリの話【新リリース】",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "11 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:routiny루티니습관루틴관리식물키우기",
+  "name": "Routiny (루티니) - 습관 루틴 관리 & 식물 키우기",
+  "country": "South Korea",
+  "seller": "Changhwan Joo",
+  "dev_type": "solo (1인 개발자)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Flutter habit/routine app where completing daily routines grows your own plant.",
+  "sets_apart": "Plant-growing companion as the reward loop (cute companion mechanic); velog posts document the global launch and 'one week after launch - honest reality'.",
+  "traction": "KR store: 1 rating (5.0); released 2026-02-20; velog posts from Mar 2026.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/kr/app/id6758573546",
+  "evidence": [
+   {
+    "title": "1인 개발자의 Flutter 습관 앱 글로벌 출시기 - Routiny v2.3.0",
+    "subreddit": "velog.io (non-Reddit)",
+    "age": "Mar 21, 2026"
+   },
+   {
+    "title": "Flutter 습관 앱 글로벌 출시 후 일주일 - 솔직한 현실",
+    "subreddit": "velog.io (non-Reddit)",
+    "age": "n/a"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:히어릿hearit개발자를위한it팟캐스트",
+  "name": "히어릿 hEARit - 개발자를 위한 IT 팟캐스트",
+  "country": "South Korea",
+  "seller": "Yuyoung Rhee (Woowacourse bootcamp team project)",
+  "dev_type": "small team (bootcamp project)",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "IT/CS podcast app: listen to CS, IT-trend and framework topics as short podcasts and find podcasts easily.",
+  "sets_apart": "Curated audio micro-learning for developers.",
+  "traction": "KR store: 3 ratings (5.0); released 2025-12-10; velog post says first 100 users.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/kr/app/id6756041112",
+  "evidence": [
+   {
+    "title": "기획부터 출시, 그리고 첫 100명의 사용자까지: 우테코 프로젝트 A to Z",
+    "subreddit": "velog.io (non-Reddit)",
+    "age": "Oct 12, 2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:areyoudead死了么demumu",
+  "name": "Are You Dead? (死了么 / Demumu)",
+  "country": "China",
+  "seller": "unknown here (press reports a very small team - unverified)",
+  "dev_type": "small team (unverified)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown (young people living alone)",
+  "what_it_is": "Daily check-in app for young people living alone: if you do not check in, an emergency contact is alerted (snippet: 'viral Chinese app for young people living alone').",
+  "sets_apart": "Safety/accountability mechanic: daily 'I'm alive' check-in + emergency contact; extremely simple; spread through the provocative name. Borderline: global-viral, not local-only.",
+  "traction": "r/China thread 5 comments (~9 months ago) calls it China's hottest app; original not found by iTunes API in CN store (many clones in US store).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "China's Hottest App Is a Daily Test of Whether You're Still ...",
+    "subreddit": "r/China",
+    "age": "9 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:catzyselfcarejourney",
+  "name": "Catzy: Self-Care Journey",
+  "country": "China",
+  "seller": "Chongqing niruo Technology Co. Ltd.",
+  "dev_type": "small company/team (unverified size)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown (category is heavily used by women, e.g. Finch in r/adhdwomen)",
+  "what_it_is": "Self-care app where you care for a cat with love and for yourself with intention (own description in a Reddit community header).",
+  "sets_apart": "Cute pet-companion framing of self-care (Finch-style) built by a small Chinese studio for an English audience; ~1,000 ratings at 4.88.",
+  "traction": "US store: 1,075 ratings (4.88); released 2024-11-11; has its own Reddit community (header text surfaced by Google).",
+  "monetization": "Free download; IAP not verified",
+  "url": "https://apps.apple.com/us/app/catzy-self-care-journey/id6737681541",
+  "evidence": [
+   {
+    "title": "Thirsty little buddy : r/Awww (snippet shows Catzy community description)",
+    "subreddit": "r/Awww",
+    "age": "2 weeks ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:publickz",
+  "name": "publickz",
+  "country": "Brazil",
+  "seller": "unknown (self-described solo dev from Brazil)",
+  "dev_type": "solo",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Web app that turns long videos into vertical clips (title: 'turns long videos into vertical clips and ...').",
+  "sets_apart": "Repurposes the user's own long video into short vertical (reel-style) clips - adjacent to K2.",
+  "traction": "r/SideProject 3 comments, ~3 weeks old",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built publickz: it turns long videos into vertical clips and ...",
+    "subreddit": "r/SideProject",
+    "age": "3 weeks ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:aydaperiodtrackerayda",
+  "name": "Ayda - Period Tracker (AYDA)",
+  "country": "Global / unknown",
+  "seller": "Ayda Health Inc. (Reddit user u/aydaforme)",
+  "dev_type": "small team/startup (unverified)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "true - title 'to support Muslim women', posted in r/muslimgirlswithtaste",
+  "what_it_is": "Cycle/period tracker built to support Muslim women; thread title continues 'here are 10 ...'; framed as faith plus self-care ('caring for your body is an amana').",
+  "sets_apart": "Cycle tracking positioned around Muslim women's faith context and announced in a women-first taste community rather than a dev subreddit.",
+  "traction": "US store: 277 ratings (4.84); released 2025-05-09; r/muslimgirlswithtaste thread 20+ comments (~11 months old).",
+  "monetization": "Free download; IAP not verified",
+  "url": "https://apps.apple.com/us/app/id6745415462",
+  "evidence": [
+   {
+    "title": "I built a cycle tracker app to support Muslim women",
+    "subreddit": "r/muslimgirlswithtaste",
+    "age": "11 months ago"
+   },
+   {
+    "title": "I built a cycle tracker app to support Muslim women",
+    "subreddit": "r/muslimgirlswithtaste",
+    "age": "11 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:wellnessjournalappforwomenofcolormuslimahsweunearthedcom",
+  "name": "wellness journal app for women of color / muslimahs (weunearthed.com)",
+  "country": "Global / unknown",
+  "seller": "Sarah (self-described founder, developer, writer, marketer)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "true - 'built for women of color, by a woman'",
+  "what_it_is": "Wellness journal app built for women of color and muslimahs, in beta; testers sign up at weunearthed.com.",
+  "sets_apart": "Identity-specific journaling built by a woman founder; recruits testers across r/muslimdevs and r/BetaTestersNeeded.",
+  "traction": "r/muslimdevs 1 comment (5 months ago); r/BetaTestersNeeded 5 comments; beta stage.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "wellness journal app built for women of color/muslimahs",
+    "subreddit": "r/muslimdevs",
+    "age": "5 months ago"
+   },
+   {
+    "title": "wellness journal app built for women of color, by a woman ...",
+    "subreddit": "r/BetaTestersNeeded",
+    "age": "5 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:deendoor",
+  "name": "DeenDoor",
+  "country": "Global / unknown",
+  "seller": "Daler Khodzhimatov",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Daily companion for practicing Muslims; just published on the App Store.",
+  "sets_apart": "Daily practice routine app; details beyond the snippet not visible.",
+  "traction": "US store: 0 ratings, released 2026-09-12; r/MuslimVentures 5 comments (3 weeks ago).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/deendoor/id6798593982",
+  "evidence": [
+   {
+    "title": "I built an app for daily Islamic practice would love your ...",
+    "subreddit": "r/MuslimVentures",
+    "age": "3 weeks ago"
+   },
+   {
+    "title": "I built an app for daily Islamic practice (Quran, prayer times ...",
+    "subreddit": "r/MuslimDevelopers",
+    "age": "3 weeks ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:sukoonlife",
+  "name": "Sukoon Life",
+  "country": "Global / unknown",
+  "seller": "SUKOON LIFE LTD",
+  "dev_type": "small team (unverified)",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Islamic lifestyle app with an immersive short-form video feed ('wholesome Muslim Netflix' with stories on the prophets).",
+  "sets_apart": "Reel-style short-form video feed inside a faith app (K2 format applied to religious learning).",
+  "traction": "US store: 31 ratings (4.71); released 2026-04-07.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/sukoon-life/id6759110473",
+  "evidence": [
+   {
+    "title": "DIFFERENT take on Islamic apps - Sukoon Life",
+    "subreddit": "r/MuslimVentures",
+    "age": "n/a"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:nemonicaiaudiocourses",
+  "name": "Nemonic - AI Audio Courses",
+  "country": "Global / unknown",
+  "seller": "KnowMore Labs, LLC",
+  "dev_type": "small team (unverified)",
+  "lenses": [
+   "K3",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Tell it a goal, topic or drop a PDF and it generates 5-60 minute hands-free audio lessons, then brings ideas back with spaced-repetition practice (3,900+ audio lessons per store text).",
+  "sets_apart": "Audio courses on any goal plus own-PDF ingestion plus spaced repetition - a direct K2 x K3 hybrid. Match to the Reddit post is PROBABLE (release date and description fit) but not confirmed.",
+  "traction": "US store: 15 ratings (5.0); released 2026-03-28; updated 2026-10-06; Reddit thread 6 comments (6 months old).",
+  "monetization": "Free download; paid tier not verified",
+  "url": "https://apps.apple.com/us/app/id6757449293",
+  "evidence": [
+   {
+    "title": "I built an AI App that generates a full audio course on any topic in seconds, so I could actually learn things while commuting",
+    "subreddit": "r/SideProject",
+    "age": "6 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:gipfl",
+  "name": "Gipfl",
+  "country": "Global / unknown",
+  "seller": "unknown (maker built it for his wife and close friends)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Habit tracker for use with a partner or a few close friends: one shared grid with a row per person.",
+  "sets_apart": "Private shared habit grid for partner/close friends only (accountability with friends, no public feed).",
+  "traction": "r/SideProject 10+ comments (4 months ago); not found in the US App Store by name.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built a habit tracker specifically for use with your partner or ...",
+    "subreddit": "r/SideProject",
+    "age": "4 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:momentumappmomentumtrackcom",
+  "name": "Momentum (app.momentumtrack.com)",
+  "country": "Global / unknown",
+  "seller": "unknown (r/webdev poster)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown (built for a girlfriend)",
+  "what_it_is": "Web habit-tracking app the maker built for his girlfriend.",
+  "sets_apart": "Built-for-my-girlfriend story drove 600+ comments in r/webdev and a 90+ comment update thread.",
+  "traction": "r/webdev 600+ comments (1 year ago) plus update thread 90+ comments.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I made a habit tracking app for my girlfriend",
+    "subreddit": "r/webdev",
+    "age": "1 year ago"
+   },
+   {
+    "title": "I made a habit tracking app for my girlfriend (Update)",
+    "subreddit": "r/webdev",
+    "age": "1 year ago"
+   }
+  ],
+  "confidence": "low"
+ }
+]

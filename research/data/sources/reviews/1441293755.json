@@ -1,0 +1,357 @@
+{
+  "app": "TRY DRY: The Dry January app",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-08-22T15:55:38-07:00",
+      "rating": 1,
+      "title": "It didn’t track my days",
+      "text": "I’m on day 3 and the tracking has not updated since day 1",
+      "version": "1.8.18(6053)"
+    },
+    {
+      "date": "2026-04-02T07:13:14-07:00",
+      "rating": 5,
+      "title": "Great but needs more badges",
+      "text": "Please extend add additional badges to each of the day streak, calendar streak, moderator, reducer, and total dry days categories! I’ve used this app for just over 5 years but there’s few badges left to achieve, making it less useful.",
+      "version": "1.8.17(5981)"
+    },
+    {
+      "date": "2026-02-10T16:23:58-07:00",
+      "rating": 3,
+      "title": "It’s great, but come on!",
+      "text": "Genuinely my favorite app so far for tracking, but come on, you can’t change multiple dates at once??? C’mon I want to add 1 month dry and I need to add it all manually?",
+      "version": "1.8.16 (5912)"
+    },
+    {
+      "date": "2026-01-27T15:39:46-07:00",
+      "rating": 3,
+      "title": "Poor support for imperial measurements",
+      "text": "Really wish it supported US measurements better. Oz, pints, etc",
+      "version": "1.8.16 (5912)"
+    },
+    {
+      "date": "2026-01-20T09:45:13-07:00",
+      "rating": 4,
+      "title": "Great app but synching struggles",
+      "text": "I’ve used this app for well over a year and love it! It’s great motivation and great at tracking associated habits with low/no alcohol. Lately (from late November 2025, and especially this January) the math of it seems very off—I’m doing Dry January but it says I’ve only been dry for one day and not 19, i.e.. So I can’t give it 5 stars but certainly would do 4.8 if that were an option. Thank you for making this available in the US!",
+      "version": "1.8.14 (5888)"
+    },
+    {
+      "date": "2026-01-02T16:09:12-07:00",
+      "rating": 4,
+      "title": "Freezing screen",
+      "text": "I’d like to have used this app but it just freezes on the first screen. Nice idea but useless.\nUpdate: the freezing screen has fixed.",
+      "version": "1.8.14 (5888)"
+    },
+    {
+      "date": "2026-01-01T21:17:17-07:00",
+      "rating": 2,
+      "title": "Ease of use-not",
+      "text": "I’d like to put this to use, but I’m stuck trying to score my beverage of choice. Confusing, but once over this hump, I’ll be anxious to see what the app has to offer. I spent too much time doing math and conversions to get past the first page.",
+      "version": "1.8.14 (5888)"
+    },
+    {
+      "date": "2026-01-01T18:47:00-07:00",
+      "rating": 5,
+      "title": "Straightforward and reliable. Love this app",
+      "text": "This helped me so much. I’ve had over 700 dry days since starting.",
+      "version": "1.8.14 (5888)"
+    },
+    {
+      "date": "2026-01-01T13:35:02-07:00",
+      "rating": 1,
+      "title": "Can’t get app to load (2026)",
+      "text": "I would like to utilize this app, but unfortunately it just spins at the ‘opt in’ splash page. I tried numerous options, tried to close, etc. It just locks up. Oh well.",
+      "version": "1.8.13 (5864)"
+    },
+    {
+      "date": "2025-11-05T19:54:18-07:00",
+      "rating": 1,
+      "title": "Wrong # of days",
+      "text": "Had 995 days just jumped to 885 days sober and do not know how to correct it!",
+      "version": "1.8.9 (5585)"
+    },
+    {
+      "date": "2025-10-17T02:47:50-07:00",
+      "rating": 5,
+      "title": "I love this app",
+      "text": "I’m have used this app for 4 years now. It’s helped me immensely. And it’s free!",
+      "version": "1.8.9 (5585)"
+    },
+    {
+      "date": "2025-07-06T05:40:58-07:00",
+      "rating": 2,
+      "title": "Quite frustrating",
+      "text": "The app hasn’t been working properly for a couple of weeks and is very frustrating. Not responsive AT ALL! Find a better app!",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-06-25T13:38:34-07:00",
+      "rating": 5,
+      "title": "Can't Log In",
+      "text": "Used to work great.  Now I can't login or I get an error and when I go to try and send a password reset to my email I get an error.  Tried deleting all and reinstalling.  Still no dice.  Will update to 5 stars once this issue is resolved.  Help!",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-05-23T18:00:28-07:00",
+      "rating": 3,
+      "title": "What happened?",
+      "text": "I did a lot of work to make the decision to use this app and follow the prompts to put all my information in during a very challenging time. After 11 days,  of using the app, all data was removed and I felt completely dropped off. I’m not investing time again to use this UK Based app.",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-05-18T07:09:33-07:00",
+      "rating": 3,
+      "title": "Buggy, white screen",
+      "text": "New iphone 16e with up to date software and the app screen turns white and freezes, and only resolves with deleting and reinstalling the app.  Happened twice on the first day before I deleted my account.  Looks like a really good program, just not working for my phone.",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-02-23T02:38:29-07:00",
+      "rating": 5,
+      "title": "It all started with a UK Xmas trip",
+      "text": "I'm grateful for this app that motivates me not to drink. it gives me purpose and lots of satisfaction to click on \"stay dry\" everyday. I look forward to checking off my dry-day commitment each new day; kind of like having an accountability partner i never knew i needed ! thanks trydry!",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-02-19T19:10:09-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "This is great to keep track.",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-02-17T10:23:38-07:00",
+      "rating": 5,
+      "title": "Great Support Tool",
+      "text": "This is a fantastic app for not only for those trying to modify their drinking for whatever reasons, but for educating themselves as well. It’s non-judgmental and keeps you motivated to check-in by really thinking about why you’re drinking. It gives the opportunity to jot daily notes and keep track of how your day went, which goes a long way to assessing how alcohol is affecting you in ways you might now otherwise notices. It also has great links for NA beers, health articles, and many other informative pieces that can help you decide what works best for you.   Besides that, the app updates and tech support are fantastic and quick to answer and fix and issues. Great job!",
+      "version": "1.8.3 (4752)"
+    },
+    {
+      "date": "2025-01-31T08:53:32-07:00",
+      "rating": 3,
+      "title": "Happy with App",
+      "text": "Would like if it remembered my sign in info or had face recognition",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T11:55:19-07:00",
+      "rating": 5,
+      "title": "you against you",
+      "text": "been on it 3 years now / go off an on,mostly on. \nits a great tool. \nwhen the calander is as yellow as tge sun - no one throws you a party / when its grey an black no one yelks at you either",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T07:42:12-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "I found it very helpful to read the daily articles. They gave good strategies for staying on track and remembering all the good things I am doing for myself by not drinking. I appreciated the non-judgmental tone and encouragement. Even though I didn’t think of myself as a big drinker, it was challenging to cut out alcohol completely. Maybe the challenge was more about overcoming the feeling of defiance about having to say no to myself than it was about the actual drinking itself. I enjoyed reading the personal stories that people shared. I found them to be very inspirational. In addition, I like the suggestions about planning for the future after January. I might not have thought to do this on my own. Thanks for providing this great public service.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T07:13:24-07:00",
+      "rating": 5,
+      "title": "Dry January",
+      "text": "My husband and I are doing dry January.  I found this app very helpful.  I look forward to seeing the daily information in my email.  Best of all, the end of the night when it asks if I had a dry day? I get to play an active role in my staying dry.  I highly recommend the app and doing Dry January.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T06:05:52-07:00",
+      "rating": 5,
+      "title": "Almost perfect!",
+      "text": "If it just had a way to allow individuals to track the physical changes (with pictures), it would help to push reinforce the positives of being alcohol free.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T06:02:34-07:00",
+      "rating": 5,
+      "title": "Easy to Use / Motivating",
+      "text": "I found about the Try Dry app on Reddit, and I and so glad I did. I started using it for Dry January in 2024 and used it almost consistently throughout the year. It’s very easy to go in and click if you “stayed dry” or if you “drank as planned”. It’s motivating to see all the days pile up. I enjoy scrolling back to last year and looking at my consumption and I’m proud of how far I’ve come and the relationship shift I’ve had with alcohol and I would like to give credit to the app. I’m not completely “dry” and I still drink often throughout the year but it helps hold me accountable to reflect on my habits with drinking. The emails throughout January have also been helpful, with little tips and motivating stories! I recommend this app to those who want to learn more about their relationship with alcohol.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T05:13:14-07:00",
+      "rating": 5,
+      "title": "Game Changer",
+      "text": "Just do it.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-26T00:13:48-07:00",
+      "rating": 5,
+      "title": "Great for January, and beyond!",
+      "text": "This app has been great. I started using it in late Dec 2024 and have carried on throughout Jan. The reminders are helpful, the emails motivate, and realizing the calories and money saved is a good extra nudge. I’d love to see more added like community connections, podcasts, etc. But it’s wonderful as is. Thanks for making me (and some friends) healthier and happier this January!",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-22T19:34:01-07:00",
+      "rating": 1,
+      "title": "Disappointingly and disgustingly, it’s all bout ca$hing in from the app users",
+      "text": "Everything is converted into money.  Your baseline, your goals, your net change in habits.  The app nudges you to donate every chance it gets.  It is super materialistic, and overwhelmingly gives off vibes that it’s not very concerned about your health.  You could even say it’s miscategorized as a health app.  Also, it feels rushed… everything is about the UK and pounds of sterling, even if you stay in setup that you live in another major country.  And if you try to change your existing complex goal that it took you minutes to configure, it doesn’t actually let you edit but you have to rebuild from scratch. Greed at its worst, don’t think for a second there’s anything altruistic about this app.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-18T04:40:22-07:00",
+      "rating": 3,
+      "title": "App locks up every few days",
+      "text": "This app is a motivator to stay dry and it is easy to use. But the daily reminder asking,  Did You stay dry?, will lock up on my IPhone and IPad every few days.  This is frustrating of course. Hopefully your software engineers can work through the issues.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-12T19:17:47-07:00",
+      "rating": 5,
+      "title": "Recognizes You Are Human",
+      "text": "Cheers from the US! This is the app I have been looking for to cut back drinking. I have tried a few others and they fell short in some way or the other. Many felt slapped together so they can charge a subscription fee and make some money off of you trying to be healthier. Others felt judgmental like I was being chastised if I slipped or had a drink at all. I like that this app is just very matter of fact. It gives the facts and details of how much doctors say is unhealthy. If you do have a drink, it’s not a big deal. You are treated no differently. You share your mood, how you feel, cravings, notes, and you move on. Tomorrow is another day. It helps me feel hopeful. That a slip up id just that, and I don’t have to dwell on it. I also quite appreciate that it differentiates between having a planned vs unplanned drink, because sometimes I do plan to have a beer with a friend and that is very different from drinking when I have no intention to. If all that weren’t enough, it celebrates your success with badges and missions! I feel good having not had a drink. It doesn’t feel like a slog. Thank you for creating this. It helps me be more cognizant of my drinking and I still feel like I’m a human being.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-07T17:15:32-07:00",
+      "rating": 3,
+      "title": "Insights not all that insightful",
+      "text": "I like this app and it’s helping me cut back. But it seems the Insights page needs some work. For example, under “my drinking” I select explore, then select the last 30 days, but the total drinking days and total dry days add up to only 17.2 days. I’ve faithfully entered my drinking history for the last 30 days (and much longer) so I don’t understand why drinking+dry for the last 30 days doesn’t add up to a total of 30. Confusing",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-07T16:27:20-07:00",
+      "rating": 1,
+      "title": "Crashes",
+      "text": "It keeps crashing. I’ve had to reset it 4x in the 7 days I’ve used it. Very frustrating. I won’t bother to reset it again.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-05T09:59:23-07:00",
+      "rating": 2,
+      "title": "Buggy",
+      "text": "Calendar keeps saying they have a problem and won’t let me record the days. Keep having to delete app and reinstall. Frustrating!!",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-04T05:47:21-07:00",
+      "rating": 1,
+      "title": "Unusable",
+      "text": "I find it unusable, but I am glad that others are finding it helpful.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-02T16:11:49-07:00",
+      "rating": 4,
+      "title": "Good app but unstable",
+      "text": "I enjoy the usefulness of the app; however, it’s extremely unstable. Just about daily it freezes, and I have to reboot my phone for it to respond, sometimes multiple times a day. Very aggravating, but it’s good enough to keep.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-01T12:41:31-07:00",
+      "rating": 5,
+      "title": "Easy Peasy",
+      "text": "Been using it for several years. Easy.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2025-01-01T06:26:20-07:00",
+      "rating": 3,
+      "title": "Can’t Select Jan 1 Start Date?",
+      "text": "I downloaded the app but it wouldn’t allow me to set the start date of today (Jan 1). It kept reversing back to Dec 31. I didn’t like this glitch h so I deleted it. Going to stick w sunnyside app.",
+      "version": "1.8.1 (4675)"
+    },
+    {
+      "date": "2024-10-12T14:37:03-07:00",
+      "rating": 5,
+      "title": "Fantastically Easy",
+      "text": "This app is a great way to use gamification to stay motivated. Easy to use. I way like the calendar feature.",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-12T03:59:48-07:00",
+      "rating": 5,
+      "title": "Motivating",
+      "text": "It’s been over five years and I still love to see the days and money and calories saved add up",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-11T20:14:26-07:00",
+      "rating": 3,
+      "title": "Overall good, but would like American units",
+      "text": "It’s great but it’d be nice to have option for drink volumes in ounces.",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-10T09:31:20-07:00",
+      "rating": 5,
+      "title": "Enlightening",
+      "text": "This app was a real wake up call on how much I was drinking and spending. Happy to report on a dry streak over 230days with intentions to drink again!",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-10T05:26:13-07:00",
+      "rating": 5,
+      "title": "Works flawlessly",
+      "text": "Allows me to stay consistent in my journey of sobriety. \n\nVery easy to use, and I add reflections on how I feel allowing me to understand the improvements in my life by not drinking.",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-09T21:04:31-07:00",
+      "rating": 5,
+      "title": "Make it work",
+      "text": "There are so many ways to adapt the app to your specific goals. It’s easy to track drinking and spot patterns. It’s personal and private. It works for every kind of goal, be it cutting back or hitting a long addiction head on. The visual calendars shows your drinking rate, and that, for me, ends up leading to a greater awareness of my problematic areas. I can honestly say this app has made an improvement in how I make all kinds of choices in my life, including, but not exclusively, how I decide to drink or not drink. Thanks to all that keep this app going!",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-09T20:56:49-07:00",
+      "rating": 5,
+      "title": "Game changer! Love this app!",
+      "text": "I love this app!  I’ve been working to moderate my social drinking habits and this has been huge! Something so motivating about checking another dry day at the end of each day.",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-10-09T11:46:00-07:00",
+      "rating": 4,
+      "title": "Helps Stick to Goals",
+      "text": "The app helps you visually identify drinking patterns—and set goals for desired behavior. Love that it reinforces healthy behavior with motivators like money and calories saved.",
+      "version": "1.6.11 (4239)"
+    },
+    {
+      "date": "2024-03-13T17:03:45-07:00",
+      "rating": 5,
+      "title": "great app",
+      "text": "very useful with lots of helpful resources, tips, and encouragement",
+      "version": "1.6.8 (4118)"
+    },
+    {
+      "date": "2024-02-21T09:36:42-07:00",
+      "rating": 5,
+      "title": "Motivating",
+      "text": "I have been using the app since Dry Jan 2020 and have found it very helpful in cutting way back on my stubborn habit of rewarding myself after work with a beer or two. I have lost 12 pounds, upped my exercise time and most notably am sleeping soundly. \nShout out to the developers who have addressed some of the early glitches that were a bit annoying but really never affected the usability of the app. The UK system of tracking units was unfamiliar to me, but once I understood it, it was so much more precise. I saw just how much of a difference there is between a 7% pint of beer and a 5.3% 12oz can of beer.  It is important to note the difference between a UK pint and US pint. \nHighly recommend the app. Thanks to AlcoholChange UK!",
+      "version": "1.6.8 (4118)"
+    },
+    {
+      "date": "2024-02-21T05:43:26-07:00",
+      "rating": 5,
+      "title": "Excellent accountability tool!",
+      "text": "I’ve been using the app for two or three years since my first dry January. It helps me keep consumption lower and keeps me honest. The stories and added tools like the test are all so well thought out and developed. Thanks!!",
+      "version": "1.6.8 (4118)"
+    },
+    {
+      "date": "2024-02-21T05:13:08-07:00",
+      "rating": 5,
+      "title": "Well Done",
+      "text": "Really helped me with Dry-uary. Easy to use, and motivating.",
+      "version": "1.6.8 (4118)"
+    },
+    {
+      "date": "2024-02-21T05:06:48-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "I just passed 650 dry days. Love using this app to track — and to celebrate my successes!",
+      "version": "1.6.8 (4118)"
+    },
+    {
+      "date": "2024-02-19T08:24:49-07:00",
+      "rating": 5,
+      "title": "Great app and a big help!",
+      "text": "I am very grateful that this app was made and available for my Dry January attempt. I am happy to say that I was successful and this app was a great benefit and contribution to that effort. The (optional) emails that I received during January were extremely helpful and the blogs were great as well. Just an all-around great experience through this app. \n\nBeing able to see my journey, the units and money saved, and the ability to journal was actually very helpful. \n\nSo I am continuing to use the app for my next goal, an alcohol free Lent. Thank-you to the developers of the app. You were a great help to me.",
+      "version": "1.6.7"
+    }
+  ]
+}

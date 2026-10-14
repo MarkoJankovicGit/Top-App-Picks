@@ -1,0 +1,98 @@
+{
+  "app": "Fasty - Intermittent Fasting",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-11T15:31:01-07:00",
+      "rating": 1,
+      "title": "paywalls",
+      "text": "too many ads that get in the way of the features, there is barely any flexibility without paying",
+      "version": "1.2"
+    },
+    {
+      "date": "2026-09-07T06:26:46-07:00",
+      "rating": 1,
+      "title": "Useless",
+      "text": "Cannot do anything without subscribe",
+      "version": "1.2"
+    },
+    {
+      "date": "2026-08-10T14:06:40-07:00",
+      "rating": 1,
+      "title": "Not free",
+      "text": "I thought there was a free version of this app. There is not.",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-06-18T16:52:10-07:00",
+      "rating": 1,
+      "title": "Paid for a year and it won’t restore my purchase!",
+      "text": "I paid for a year and when I try to restore my purchase, I put my password in and nothing happens, doesn’t say wrong password, doesn’t let me gain access, just does nothing. This is very frustrating! I paid for a year in Jan, I should have access until then.",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-06-17T19:46:05-07:00",
+      "rating": 1,
+      "title": "payment",
+      "text": "it makes u pay for this stupid slow working app",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-06-09T00:21:30-07:00",
+      "rating": 1,
+      "title": "This app sucks",
+      "text": "I started fasting 5 days ago and was shocked to find that this app doesn’t even have a simple way to track an ongoing fast. That seems like one of the most basic features a fasting app should offer, yet it’s missing.\nInstead, the app feels heavily focused on pushing subscriptions and premium plans at every opportunity. Rather than providing useful tools to help people fast, it comes across as a giant advertisement designed to get users to pay.\nTo make matters worse, the AI assistant wasn’t particularly helpful or competent. It just lies and says it’s a bug when it’s clearly just not a feature.\nOverall, this app was a complete waste of time. If you’re looking for an app that actually helps you track and manage your fasting journey, I’d recommend looking elsewhere.",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-02-16T23:20:21-07:00",
+      "rating": 3,
+      "title": "Asked to give a review",
+      "text": "I was entering my info and it asked for a review before I have even used it ><",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-02-12T07:34:51-07:00",
+      "rating": 1,
+      "title": "No ability to edit. Clock errors.",
+      "text": "If you forget to start your fast. No ability to start clock to previous evening. If you accidentally hit end fast there is no way to restart. App is overly simplistic. Might as well start a timer on apple phone.",
+      "version": "1.1"
+    },
+    {
+      "date": "2026-01-05T05:37:25-07:00",
+      "rating": 1,
+      "title": "Not worth subscribing",
+      "text": "The 2026 calendar isn’t even correct and doesn’t reflect the right date with day of the week. If you forget to start your fast within the app, you cannot go back and start it. Very basic app with a lot of glitches, total waste of money.",
+      "version": "1.1"
+    },
+    {
+      "date": "2025-12-15T00:42:55-07:00",
+      "rating": 1,
+      "title": "Can’t do anything without subscription",
+      "text": "The app only allows 12-12 hour fasting, if you want to change ANYTHING like oh I fasted an hour ago or I ended my fast at this time you HAVE TO PAY. Everything you go on the app it asks if you want to pay :( I tried using this app but it’s basically a brick. You have to pay for basically everything all you can do is click fast start fast end. That’s it",
+      "version": "1.1"
+    },
+    {
+      "date": "2025-12-11T14:33:24-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "This app is amazing.",
+      "version": "1.1"
+    },
+    {
+      "date": "2025-10-12T18:32:45-07:00",
+      "rating": 1,
+      "title": "Terrible app",
+      "text": "Free version is pointless. The calendar day and dates don’t even line up correctly",
+      "version": "1.1"
+    },
+    {
+      "date": "2025-08-04T18:12:18-07:00",
+      "rating": 1,
+      "title": "Terrible App",
+      "text": "If you started your fast over 24hrs before you get the app you can’t put the date in. No matter what you choose it automatically signs you up for their subscription. The app has very little to offer. Total waste of money. Terrible engineers put this 3rd grade product together I want my money back.",
+      "version": "1.1"
+    }
+  ]
+}

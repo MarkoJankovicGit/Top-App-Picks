@@ -1,0 +1,1407 @@
+{
+  "app": "BitePal: Food Calorie Tracker",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T06:59:41-07:00",
+      "rating": 5,
+      "title": "Buena app me encantaaa",
+      "text": "Me ayudó a saber que cosas comía mal y hace un mes que la descargue y baje 1.3 kilos estoy muy feliz y todo gracias a esta app la amo",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T21:28:52-07:00",
+      "rating": 5,
+      "title": "Starting off great",
+      "text": "It’s early in my usage history with the app but so far so good. I’m enjoying the challenges and I appreciate the lack of judgment and the focus on nutritional value.",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T16:04:17-07:00",
+      "rating": 5,
+      "title": "Rating",
+      "text": "It’s pretty interesting to log in and Super Smooth and stuff",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T11:49:06-07:00",
+      "rating": 5,
+      "title": "i love this app soooo much",
+      "text": "this app is literally so easy to use and it's not confusing like other apps (in my opinion lol). i also love how easy it is to track calories by portions and how accurate the scanner is - makes it soo much easier for me to use",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T09:41:40-07:00",
+      "rating": 5,
+      "title": "So easy",
+      "text": "This is such an easy app, and it help that it’s cute",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T05:33:38-07:00",
+      "rating": 5,
+      "title": "The best",
+      "text": "This fun app makes logging food loving and fun!",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-09T04:18:39-07:00",
+      "rating": 5,
+      "title": "Great Find!",
+      "text": "Easy to Use!",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-08T19:14:49-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "10/10",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-08T16:15:29-07:00",
+      "rating": 5,
+      "title": "Pleasantly Surprised",
+      "text": "One day on the app and it’s not like any other I’ve been on.",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-08T13:37:30-07:00",
+      "rating": 5,
+      "title": "The app is good",
+      "text": "I just started using it. It counts my daily cal of walking. Also counts my calories",
+      "version": "2.35.0"
+    },
+    {
+      "date": "2026-10-08T09:09:56-07:00",
+      "rating": 5,
+      "title": "Super cute and easy",
+      "text": "Love how easy the app is to use",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-07T18:02:30-07:00",
+      "rating": 5,
+      "title": "Kally review",
+      "text": "So far this up is good if you want to lose weight you have to stay committed because weight loss takes a very long time and burning calories is very important in your weight loss diet",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-07T10:09:45-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "So far i went from the basic to premium and i like it because of the price and wish it was low for everyone that way it can be used by everyone",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-07T09:28:54-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "Quite handy and encouraging to meet goals",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-07T06:18:59-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Fun and easy to track macros",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-07T06:18:43-07:00",
+      "rating": 5,
+      "title": "Bitepal Review",
+      "text": "Amazing app!",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T18:51:08-07:00",
+      "rating": 4,
+      "title": "Bring it back",
+      "text": "Please bring back the function where it would show different faces for different nutrition on food. Like if the raccoon ate chips he would have a sad face. But if he ate a salad he would be happy. Also you should add a feature where if you go over the calories your raccoon looks uncomfortable or really full because it would really help gamify food tracking even more for adhd. I find it hard to stop when there’s no visual cue. Love this app",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T14:45:14-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T11:02:21-07:00",
+      "rating": 4,
+      "title": "1st day",
+      "text": "So far so good",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T09:03:03-07:00",
+      "rating": 3,
+      "title": "Cute, but accurate?",
+      "text": "I love the idea of this app, but I hate how much time it takes to correct what the AI thinks your food is, and how often the macros are way off. \nI’ll also echo the person who said “Don’t believe the ads,” because it does not suggest any kind of walking or other exercise, and I have yet to get it to sync what steps I’ve taken in a day.",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T07:20:49-07:00",
+      "rating": 5,
+      "title": "Fun fit and food tracker",
+      "text": "Cute fun way to track your your calories and fitness",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-06T00:14:17-07:00",
+      "rating": 4,
+      "title": "Fun",
+      "text": "It’s a fun experience and it’s super helpful as well",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-05T18:26:40-07:00",
+      "rating": 5,
+      "title": "Love!",
+      "text": "Love it!",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-05T17:50:23-07:00",
+      "rating": 5,
+      "title": "Pretty good",
+      "text": "Nice app",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-05T14:58:46-07:00",
+      "rating": 5,
+      "title": "Easy peasy",
+      "text": "Really easy to set up. Minimal fat shaming. Very easy to log food.",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-05T13:25:31-07:00",
+      "rating": 5,
+      "title": "Journey Started",
+      "text": "Day 1 and already loving my Rocco!",
+      "version": "2.34.0"
+    },
+    {
+      "date": "2026-10-04T11:31:43-07:00",
+      "rating": 5,
+      "title": "Easy early going",
+      "text": "Intuitive to use but hard to know what to eat besides more fiber….",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-04T03:48:22-07:00",
+      "rating": 5,
+      "title": "Interesting",
+      "text": "I like it",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T21:55:51-07:00",
+      "rating": 2,
+      "title": "Seems pointless",
+      "text": "If you don’t pay for anything but access to the app, all you get is a pretty worthless food journal.  The gimmick, I suppose, is that the AI scans your food and calculates calories and whatnot.  It does a poor job of this—you can’t easily input your own selections (they simply don’t exist, and custom input defaults to 0 calories), so you’re always left substituting your food for some other food, meaning the numbers aren’t going to be accurate from that alone.  Then the AI guesses portions really badly, so your numbers will be wrong for that reason as well.  I can’t believe I paid money for this, and I wouldn’t recommend anyone else do it either.  There are plenty of other apps that do the same thing better, just without a cartoon raccoon.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T19:39:56-07:00",
+      "rating": 4,
+      "title": "One suggestion",
+      "text": "It’s a great app overall, but one thing I wish it offered was sick time. You see, when a person is sick, you’re lucky to stick to any plan including a diet. I propose some sick time so that users don’t have to worry about streak preservation when they should focus on getting well.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T16:13:25-07:00",
+      "rating": 5,
+      "title": "Awesome Sauce",
+      "text": "Great app for younger adults and teenagers you can use for free and it’s really good",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T12:44:13-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "I used to have a subscription but cancelled so long ago, and they were still charging me…. Mind you they don’t even have a 9.99 sub.. anyways gonna dispute all transactions through my bank.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T09:46:17-07:00",
+      "rating": 4,
+      "title": "Cool app",
+      "text": "Cool app",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T09:27:06-07:00",
+      "rating": 5,
+      "title": "New Today…",
+      "text": "So far so good",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T08:31:15-07:00",
+      "rating": 4,
+      "title": "First time user",
+      "text": "So far I’m liking this app. It’s easy to use and I don’t have a hard time understanding",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T06:04:48-07:00",
+      "rating": 5,
+      "title": "Fun and motivating",
+      "text": "Makes tracking calories more fun.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T05:33:48-07:00",
+      "rating": 5,
+      "title": "Fun app",
+      "text": "It’s easy to use and I’m enjoying it so far.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-03T01:04:45-07:00",
+      "rating": 5,
+      "title": "Amazing!!",
+      "text": "This app is amazing! I absolutely love the way you add your meals and it keeps track of everything for me and my water. And so much more! Definitely recommend if you’re looking to loose weight",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-02T11:41:12-07:00",
+      "rating": 4,
+      "title": "banqué",
+      "text": "me parece bien lástima q hay que pagar una función",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-02T09:01:41-07:00",
+      "rating": 3,
+      "title": "Nice app",
+      "text": "I like it",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-02T08:50:03-07:00",
+      "rating": 5,
+      "title": "Highly Recommend",
+      "text": "As someone who struggles to track, I highly recommend this app. Being able to take a photo of my food and having the app calculate the rest makes it so easy! Excited to see what this app brings in the future.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-02T05:23:29-07:00",
+      "rating": 5,
+      "title": "Worst meal tracker",
+      "text": "The look up and AI scanners are the worst I’ve experienced. There is no way to track exact measurements and ingredients for accurate tracking.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-01T22:13:37-07:00",
+      "rating": 5,
+      "title": "Joined a few minutes ago",
+      "text": "And it’s already fun!",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-10-01T07:55:24-07:00",
+      "rating": 5,
+      "title": "Day one",
+      "text": "Takes extra time but worth it",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-30T04:30:21-07:00",
+      "rating": 5,
+      "title": "Food logging",
+      "text": "Very easy just snap a pic",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-29T11:17:29-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-29T04:35:07-07:00",
+      "rating": 5,
+      "title": "Supportive App",
+      "text": "Has been helping me to be aware of what I eat and how many calories are in various foods.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-29T03:58:30-07:00",
+      "rating": 4,
+      "title": "Payment option",
+      "text": "Just wish payment were cheaper.  I’m on a budget and I love this app",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-29T01:02:48-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "It’s already starting good",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-28T21:15:27-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "Keeps track of calories and exercise for me. Ai is normally pretty good at reading what you’re eating.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-28T08:52:24-07:00",
+      "rating": 5,
+      "title": "Makes it fun to track",
+      "text": "The simple straightforward design and cute raccoon make me want to use it more.",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-28T07:11:09-07:00",
+      "rating": 5,
+      "title": "Fácil",
+      "text": "Súper fácil de  hacer tu cuenta",
+      "version": "2.33.0"
+    },
+    {
+      "date": "2026-09-28T02:17:51-07:00",
+      "rating": 5,
+      "title": "Good stuff",
+      "text": "It helps you stay up to date with your good intake and review it to improve your nutritions!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-27T17:02:22-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "Very helpful",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-27T06:48:40-07:00",
+      "rating": 5,
+      "title": "Accountability",
+      "text": "Helpful",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-27T06:37:05-07:00",
+      "rating": 5,
+      "title": "Lost Weight and Now maintain",
+      "text": "Over the summer I lost 25 pounds it was so much fun to know when to fast and eat balance meals. The character is cute and I love the Ai scanner tool innovative. So many people I know have downloaded the app and have lost some kind weight.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-26T13:19:50-07:00",
+      "rating": 2,
+      "title": "Not what you think",
+      "text": "There were no meal plans, the numbers were wrong when you used the camera feature. There are more accurate and reliable apps for around the same price. It was cute and fun just too inaccurate to continue.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-26T08:30:39-07:00",
+      "rating": 5,
+      "title": "Really nice calorie counter",
+      "text": "I love it specially after the new updates with the AI food log.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-26T07:20:11-07:00",
+      "rating": 5,
+      "title": "Calorie tracker",
+      "text": "Super easy to use!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T23:30:58-07:00",
+      "rating": 5,
+      "title": "Food calorie tracker: Bitepal",
+      "text": "This app is sooo epic and it’s easy for me to know calories and everything I needed.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T20:43:39-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good aapp",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T19:40:27-07:00",
+      "rating": 5,
+      "title": "Ohzi ohzi",
+      "text": "Me gusta bastante ya que bajo de peso facil  y me ayuda con mi autoestima",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T17:04:37-07:00",
+      "rating": 5,
+      "title": "Best app I’ve ever used",
+      "text": "Free but not everything is locked which is amazing, not a total money grab and I really respect that. I’m very proud to the devs I’m only a teen and I can’t pay but I totally would if I had money😭💔 THANKS BITEPAL DEVS",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T11:53:18-07:00",
+      "rating": 4,
+      "title": "Cool but glitchy",
+      "text": "Fun way to track food. Reminds me of a toy from my childhood 😂",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T10:19:41-07:00",
+      "rating": 5,
+      "title": "Buena app",
+      "text": "Muy buena aplicación me ayuda bastante aunque no tenga el premium  la amooooooo",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T09:56:35-07:00",
+      "rating": 4,
+      "title": "9.9 out of 10",
+      "text": "I love Bitepal and have been using it for a bit now to try and get my life together. But recently I downloaded another app to try because I’m so irritated that I have to keep inputting the same meals from scratch over and over. I want an option to save my meals (and even categorize them into breakfast lunch dinner snacks dessert etc) so next time I go to log, I just click one button instead of 5,000. But Bitepal is so easy to use and uncomplicated that I couldn’t adjust to the other apps, so while I’m sticking with Bitepal, please make the app a 10/10 because right now it’s at 9.9 🤣 ALMOST THERE. Oh and a voice to text would be great too (like I could just say “I ate half a snickers bar” and the ai will log it).",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T09:33:17-07:00",
+      "rating": 5,
+      "title": "I like this app I wish keep my streak",
+      "text": "Ok",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-25T06:04:40-07:00",
+      "rating": 5,
+      "title": "Hi",
+      "text": "I like",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T13:34:07-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "5 stars",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T09:51:28-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Easy way to track what you eat and how much you exercise the raccoon is super cute.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T09:34:44-07:00",
+      "rating": 5,
+      "title": "Bitepal",
+      "text": "It’s great to use it’s not expensive to have and makes me feel motivated",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T08:52:34-07:00",
+      "rating": 1,
+      "title": "I can’t believe they charge money for this…",
+      "text": "….or, more embarassingly, that Inactually paid. \n\nThe data in the app is laughable and there is no way to create custom entries or new entries for items they don’t already have. Or, for items they have but for which their data is woefully inaccurate. I have used other apps that are far superior and that do not cost money. What they provide as a “plan” for you to follow is a generic daily calorie intake and a generic/default fasting period. The only thing this app gives me that is in any way different is the raccoon — which doesn’t impress me enough to pay for this. I expect to go back to the apps I have used before and ignore this one, despite having three and a half weeks left of my four week “plan.” \n\nIf anyone thinks they are going to get accurate information from a picture of your plate and an AI estimate, think again. I mean, I knew the AI picture thing does not work, but I had thought I would be able to enter my own data.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T08:12:51-07:00",
+      "rating": 5,
+      "title": "Awesome app for ADHD!!",
+      "text": "I have really enjoyed using the app, I like the large widget, the visible timer, the ability to take a picture of your food, but it would be nice to be able to put your own amounts Instead of only the pre-selected\nAmounts.  Otherwise, I have been using it five days amd have already lost two pounds!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T07:35:17-07:00",
+      "rating": 5,
+      "title": "Subscription Issues",
+      "text": "I had an issue with my Plus subscription not showing up after I paid for the annual plan. I contacted BitePal support, and they were incredibly helpful and quick to resolve the problem. They corrected the issue and made sure I had access to what I had paid for.\n\nI really appreciate the excellent customer service and how easy they made the whole process. It’s refreshing to deal with a company that actually takes care of its customers. Thank you, BitePal, for your help! I definitely recommend them! ❤️",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-24T04:17:19-07:00",
+      "rating": 5,
+      "title": "love it",
+      "text": "❤️",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T22:53:49-07:00",
+      "rating": 1,
+      "title": "Beware.",
+      "text": "Charged me even though it shows my subscription was cancelled. Scammy.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T22:51:23-07:00",
+      "rating": 5,
+      "title": "Chaos is cute",
+      "text": "Wish he yelled at me more.  !!!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T17:17:25-07:00",
+      "rating": 5,
+      "title": "Baja de peso asegurado",
+      "text": "Bagel",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T13:19:18-07:00",
+      "rating": 5,
+      "title": "Calories",
+      "text": "Good",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T12:34:47-07:00",
+      "rating": 5,
+      "title": "Food tracker",
+      "text": "It is amazing I wish I hade this before omg I love it",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T11:02:54-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "I absolutely love this app and the way it’s set up super easy to navigate",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T10:00:53-07:00",
+      "rating": 2,
+      "title": "Need improvement",
+      "text": "Can you guys make more cooking friendly like able to incorporate ingredients to see how much the total macros are like I have to scan the egg and flour separately I want to be able to basically have subcategories. Also scanning is extremely hard to get perfect I understand that so when I'm taking a photo of my food can you add an oz or something like I know how many oz the food weighs as I just need to know the macros it can be an optional thing. can you guys include other metric measurements such as grams like other options other than oz",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-23T06:55:52-07:00",
+      "rating": 5,
+      "title": "Recomendado",
+      "text": "Súper chévere, el registrar las comidas y saber cuántas calorías. Debo consumir en el día me ha aparecido espectacular.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T20:20:59-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "good app",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T20:00:11-07:00",
+      "rating": 5,
+      "title": ".",
+      "text": "Your plans are amazing.",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T08:32:12-07:00",
+      "rating": 5,
+      "title": "Simple",
+      "text": "Easy to use. Works as expected",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T08:20:03-07:00",
+      "rating": 4,
+      "title": "Pretty good",
+      "text": "Room for improvement",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T06:59:27-07:00",
+      "rating": 4,
+      "title": "Raccoon",
+      "text": "Let’s be friends",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-22T04:22:54-07:00",
+      "rating": 5,
+      "title": "Amazing so far!",
+      "text": "Easiest food, water, exercise, steps and sleep app all in one place that I’ve tried, and I’ve tried a lot of them!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-21T20:58:02-07:00",
+      "rating": 5,
+      "title": "Great UX!",
+      "text": "Affordable and a fun UX!",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-21T14:41:31-07:00",
+      "rating": 5,
+      "title": "La mejor forma de perder peso!!",
+      "text": "En cuestión de un mes, logré perder 7 kilos de grasa y subir 2 kilos de músculo y todo se lo debo a esta aplicación (y a ser constante en el gimnasio). Mis hábitos alimenticios nunca han sido los mejores pero algo tan sencillo como tener en cuenta las calorías que como ha sido suficiente para mejorar mil veces mi calidad de vida. Yo amo a este mapache!!!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-21T11:47:51-07:00",
+      "rating": 4,
+      "title": "𝓜𝓾𝔂 𝓫𝓾𝓮𝓷𝓪 𝓪𝓹𝓹 𝓵𝓪 𝓻𝓮𝓬𝓸𝓶𝓲𝓮𝓷𝓭𝓸",
+      "text": "10/10",
+      "version": "2.32.0"
+    },
+    {
+      "date": "2026-09-21T05:20:36-07:00",
+      "rating": 2,
+      "title": "I gained weight!",
+      "text": "I have been using the app for almost two weeks and I have gained weight! I went through all the questions and it told me I needed to consume 1600-1800 calories a day! I blame myself for not researching it sooner. My body type is definitely not as an athlete I am a retired grandma.  I struggled to even reach the 1600.  I am sorely disappointed in the guidelines of this app.  The analyzer for food content is not perfect but just okay.  It is nice to not  have to type all the contents in.  It also will read the nutrition label which is helpful.  The water tracker is helpful. I am using the fasting guidelines as well. When it comes time to renew the subscription I will be looking for something else.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T19:06:17-07:00",
+      "rating": 3,
+      "title": "New to bitepal",
+      "text": "So far so good new to the program so we will see how well I do I am confident that this app will help me stay on track",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T18:21:55-07:00",
+      "rating": 1,
+      "title": "DONT BUY‼️",
+      "text": "Was getting charged for a subscription i didn’t even have? and check my settings, appstore, and still there was no subscription but i was still trying to be charged and when i contacted them about it they kept saying i probably made it through the website which i didn’t, there was no way i could and even the website didn’t help with anything",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T14:15:40-07:00",
+      "rating": 5,
+      "title": "cute",
+      "text": "cute amazing awesome",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T12:26:44-07:00",
+      "rating": 5,
+      "title": "Fun and supportive!",
+      "text": "Love how it gives insight to food choices after logging meals!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T11:30:15-07:00",
+      "rating": 5,
+      "title": "Bitepal is fun",
+      "text": "It’s actually fun to log your food, and make sure you are eating healthy.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T09:14:41-07:00",
+      "rating": 5,
+      "title": "Dopamine for logging!",
+      "text": "I love the little interactions. The AI food thing is fairly accurate.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T07:08:51-07:00",
+      "rating": 5,
+      "title": "I was holding off on the review",
+      "text": "I was waiting to see what I truly thought about the app. But I love it. I holds me accountable for everything I eat. I mean…as I log it I see what’s going into my mouth. I was thinking “okay, cut back on portions, back on the carbs ( type 2 diabetic)”. This makes it easy to watch. Also it’s easy to edit info that the AI inputs when you take a photo of your meal.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-20T05:46:18-07:00",
+      "rating": 4,
+      "title": "Day One",
+      "text": "Almost intuitive",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-19T13:14:19-07:00",
+      "rating": 5,
+      "title": "Yay",
+      "text": "Love it",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-19T12:48:25-07:00",
+      "rating": 4,
+      "title": "Need more food library",
+      "text": "Ai scan works great when I’m doing at home meals, but It has a harder time for fast food, as well as the search tool. I had a chicken cantina bowl from taco bell one night and it couldn’t ID it correctly, it kept giving me tex mex bowl with the kcals way over what the bowl actually was. I didnt want to type it in individually, theres no exact measurements.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-19T08:38:16-07:00",
+      "rating": 5,
+      "title": "Great for keeping me accountable",
+      "text": "I’d always forget to log my meals when I start diets, but this helps me see visually what I’m eating and how much I benefit from it. It also helps me get my water intake for the day by making me want to fill up the little cups. 😂  and as a competitive person I like the streak feature, I want to see that number go up as high as I can get it.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-19T08:15:29-07:00",
+      "rating": 5,
+      "title": "LOVE IT!!",
+      "text": "This app is so easy to use. Worth every penny!!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T18:18:13-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "I only just started",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T15:38:25-07:00",
+      "rating": 5,
+      "title": "Easy",
+      "text": "Love the fact that I can track my calories and carbs",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T11:34:43-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "The meal plans alone were enough to sell me on it!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T10:44:18-07:00",
+      "rating": 1,
+      "title": "Scam",
+      "text": "Do not get this app. They are a scam",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T08:05:21-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Very Fun",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-18T04:45:30-07:00",
+      "rating": 5,
+      "title": "Helpful Friend!",
+      "text": "So far, I’m loving this!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T21:18:22-07:00",
+      "rating": 5,
+      "title": "Adorable",
+      "text": "Very helpful",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T19:37:35-07:00",
+      "rating": 2,
+      "title": "Very good but why do you have to pay?",
+      "text": "You have to pay or the app won’t give you all the features,how are you supposed to lose weight or gain or maintain weight when it makes you pay for the stuff you need to do that? It te is your calories but that it unless you pay,overall get a different free calorie app",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T17:49:29-07:00",
+      "rating": 5,
+      "title": "Getting Started",
+      "text": "I Love this app ! The cute little raccoon really keeps me on track !! 🦝🐾",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T10:11:33-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Great interactive way to keep tabs of calories.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T08:08:41-07:00",
+      "rating": 5,
+      "title": "DO NOT DOWNLOAD!!!Literal fraud, stole money",
+      "text": "This app was installed for one day on my phone. I paid for a sub at $19.99. Then it decided to charge me $59.99. No notifications, no agreement. It literally stole $59.99 from me. DO NOT DOWNLOAD!!!!!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T07:40:53-07:00",
+      "rating": 4,
+      "title": "New",
+      "text": "I’m still learning the app. However, having it on my Home Screen keeps me on track.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T06:04:08-07:00",
+      "rating": 1,
+      "title": "Impossible to cancel",
+      "text": "I was charged $53.74 after being told my subscription was cancelled and not charged. Speaking to a human is impossible. You communicate with a bot who has the same replies over and over. Very disappointed in their customer service.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T04:55:36-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Makes calorie counting easy!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-17T03:14:09-07:00",
+      "rating": 5,
+      "title": "Day 1",
+      "text": "Great",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-16T20:08:24-07:00",
+      "rating": 5,
+      "title": "Es increible",
+      "text": "La aplicación tiene todo lo que promete y es muy agil para usarla",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-16T16:32:53-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Love this app so far!!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-16T15:02:36-07:00",
+      "rating": 4,
+      "title": "So helpful",
+      "text": "So it’s awesome",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-16T06:52:02-07:00",
+      "rating": 5,
+      "title": "Tracking on the app",
+      "text": "Encourages participation!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-15T20:29:39-07:00",
+      "rating": 1,
+      "title": "Annoyed",
+      "text": "I check my subscriptions every month to get rid of the ones that I don’t want but for some reason, this one isn’t listed in the app you just charged me and send an email to me. I’ve sent an email to please refund my money for this app that I’m not using. I hate when places make it purposely difficult so that they can charge you and then keep the money.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-15T10:18:43-07:00",
+      "rating": 1,
+      "title": "Bad",
+      "text": "I loved this app but I couldn’t keep up with the cost, so I had to cancel my subscription and delete my account. I now get a charge from paddle.net that is linked to this app that is $42.47 and I have no way to cancel it. I am losing my mind trying to fix this.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-15T06:06:35-07:00",
+      "rating": 5,
+      "title": "So easy!",
+      "text": "Never had a tracking tool that was this easy and accurate. Just snap a pic and the rest is done for you!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-15T05:44:03-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Love this app, very helpful to keep me on track",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-15T03:45:55-07:00",
+      "rating": 5,
+      "title": "100%",
+      "text": "La app realmente te ayuda a controlar tus comidas y crea una motivación para seguir una rutina saludable. La recomiendo al 100 y es mucho más barato que Fitia",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T20:19:42-07:00",
+      "rating": 1,
+      "title": "Difficult to Cancel",
+      "text": "I was hoping good things would come from using this app. After using it for a day, I realized it was falling short. You don't receive accurate info on calories by letting AI analyze your pictures of food. The inability of scanning barcodes was a zero for me. Editing info is a challenge.\n\nI requested a refund and that was difficult. They had no record of me purchasing the app even though I had proof from my credit card statement. They wanted the last four digits of my card number which I declined to give. I contacted Apple support and sent them print screens of the purchase. I was going to dispute the credit card charge with bank than in the middle of the night my purchase was refunded. Then they asked for a review which isn't happening.\n\nTheir email address can be located by going to the settings wheel or by going to their website to request a refund. Good luck.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T19:47:30-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "It pretty good I love it",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T18:00:15-07:00",
+      "rating": 5,
+      "title": "Lovin’ the Raccoon!",
+      "text": "Great little coach!",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T12:29:29-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Hope this works but it’s easy so far and kind of fun.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T11:01:08-07:00",
+      "rating": 5,
+      "title": "Newbie",
+      "text": "Just got the app so I’m excited to see how much I can lose and build new habits",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-09-14T08:48:00-07:00",
+      "rating": 5,
+      "title": "Tracking calories",
+      "text": "Very helpful to keep me on track",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-14T07:42:53-07:00",
+      "rating": 1,
+      "title": "BitePal App",
+      "text": "The AI is wildly inaccurate for estimating macros from the photo. I have also taken a picture of the actual label and it still tries to change the calories which do not match. I really wanted to like this app but you’re better off using an app like My Fitness Pal which is more accurate.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-14T04:36:19-07:00",
+      "rating": 5,
+      "title": "Logging Food",
+      "text": "Easier than I thought.  More flexibility in making changes to default settings.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T18:50:24-07:00",
+      "rating": 5,
+      "title": "5 stars",
+      "text": "It was so easy to login",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T18:35:57-07:00",
+      "rating": 1,
+      "title": "do not download",
+      "text": "I’m so upset to not be using this app anymore. A 105 day streak and down 25 lbs for nothing because their new update has made it nearly impossible to insert personal calorie counts based off your own information and it makes the ai features unavoidable. Previously, the app was nothing great for tracking calories but it did the job and i didn’t want to lose my streak, but now that it’s a complete pain to log anything, it fails at its main purpose. Not to mention that the ai feature for pictures is inaccurate 99% of the time to the real calorie counts. Such a bummer that an app that worked enough has turned itself into something practically useless to force its trashy ai based interface onto its users.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T18:23:34-07:00",
+      "rating": 3,
+      "title": "Comida",
+      "text": "Fc",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T16:25:47-07:00",
+      "rating": 1,
+      "title": "Can’t figure out how to cancel",
+      "text": "I deleted my account, but they’re still charging me. It doesn’t show up in my subscriptions and I can’t contact them.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T15:54:23-07:00",
+      "rating": 2,
+      "title": "What happened ?",
+      "text": "Why does everything cost money now?",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T11:51:58-07:00",
+      "rating": 3,
+      "title": "Cute but….",
+      "text": "Cute but it doesn’t give the correct info and doesn’t have quite a bit of foods in the system, so adding your meals is a bit of a pain",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T09:36:56-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "Awesome and worth tracking every meal",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T09:33:47-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Amazing app",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T06:41:14-07:00",
+      "rating": 4,
+      "title": "Helpful",
+      "text": "So far it is helpful for tracking!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-13T05:33:04-07:00",
+      "rating": 5,
+      "title": "I’m new",
+      "text": "Day 2 of using this app. It’s user friendly, you get to name the raccoon anything you want, and counting calories is as easy as snapping a picture! So far, this diet is almost fun!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-12T23:43:36-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "I like this app help me a lot",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-12T19:30:12-07:00",
+      "rating": 1,
+      "title": "Just say no.",
+      "text": "There are far better apps that do the same thing and more who don’t engage in unethical business practices. I cancelled during the trial period and my credit card was charged without my authorization. When I tried to reach out through PayPal, their contact info was fake. I disputed the charge through PayPal and was eventually refunded. But I’d say run from this company. Not worth it.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-12T16:09:14-07:00",
+      "rating": 5,
+      "title": "Excited",
+      "text": "Ready to get started.  Sati is the cutest.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-12T08:18:27-07:00",
+      "rating": 5,
+      "title": "Easy Peasy",
+      "text": "This app makes it super easy to track and see what you’re eating and make better choices",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-12T06:22:12-07:00",
+      "rating": 4,
+      "title": "Excelente",
+      "text": "Me gustas mucho muy divertida",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T17:12:51-07:00",
+      "rating": 1,
+      "title": "THIS APP IS STEALING MY MONEY",
+      "text": "i can’t give zero stars if i could i would i downloaded this i it won’t let me cancel my subscription but isn’t giving me the benefit of it it’s changing the wrong amount to what it claimed i’m reporting it",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T13:24:32-07:00",
+      "rating": 5,
+      "title": "Y",
+      "text": "😒",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T09:21:09-07:00",
+      "rating": 5,
+      "title": "Quick",
+      "text": "Easy",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T07:27:59-07:00",
+      "rating": 5,
+      "title": "Cool",
+      "text": "Just got the app but pretty cool so far.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T06:14:03-07:00",
+      "rating": 5,
+      "title": "super adorable",
+      "text": "this little guy is so helpful and cute ☺️",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-11T00:11:12-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good app",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T18:11:00-07:00",
+      "rating": 5,
+      "title": "Si se puede",
+      "text": "Mi primer día de muchos",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T15:35:32-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Neat app",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T14:34:25-07:00",
+      "rating": 2,
+      "title": "Just started",
+      "text": "You’re getting a low score, because I’m only a half a dozen clicks in haven’t really set up an account or done anything and you’re asking for a review? Kind of ridiculous!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T12:01:49-07:00",
+      "rating": 5,
+      "title": "Helps me",
+      "text": "This helps me so much ive been bullied and ive gained so much confidence and respect for myself now that i have\nThis app! And in only 11!!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T09:07:17-07:00",
+      "rating": 5,
+      "title": "Good log",
+      "text": "Super easy",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-10T07:54:44-07:00",
+      "rating": 4,
+      "title": "New to app",
+      "text": "Food entry a little confusing",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T19:41:39-07:00",
+      "rating": 5,
+      "title": "😍",
+      "text": "this app is awsome",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T17:40:47-07:00",
+      "rating": 5,
+      "title": "Calorie look ups are on key",
+      "text": "Every time I scan my plate or label this app as no trouble finding the appropriate food calories and nutrition information. They also have a large library of food info if you need to look food up for calories. I’m really enjoy the app so far. Love the cute raccoon icon and the fasting/eat time animations.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T08:57:47-07:00",
+      "rating": 1,
+      "title": "Cancelled the app month ago and it charged me",
+      "text": "I cancelled this app and subscription months ago and it it charged me now I’m in a tight spot and it’s all over a app I cancelled",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T07:59:08-07:00",
+      "rating": 5,
+      "title": "Awesome and easy",
+      "text": "Awesome and easy",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T07:17:11-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Easy to use and really helps stay motivated",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T07:07:23-07:00",
+      "rating": 5,
+      "title": "Committed",
+      "text": "So far so good",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T06:30:05-07:00",
+      "rating": 5,
+      "title": "Easy Peasy",
+      "text": "Took a sec to add my meal!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T05:28:57-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "So far I really like the app, it has everything I want to track and incorporates your apple health app.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T05:28:47-07:00",
+      "rating": 4,
+      "title": "Love my raccoon",
+      "text": "A fun little macro tracker that makes it so much easier to track my calories and mindless snacking with my baby running around !I’ve already lost 5 pounds in 2 weeks and takes all the hard work and guessing out for a tired mom like me :)",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-09T03:58:47-07:00",
+      "rating": 5,
+      "title": "Easy Breezy Lemon Squeezy",
+      "text": "It’s as easy as snapping a picture and texting a friend.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T21:17:18-07:00",
+      "rating": 5,
+      "title": "I love this app",
+      "text": "It’s very help full and not that expensive",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T19:59:33-07:00",
+      "rating": 4,
+      "title": "Nice",
+      "text": "Nice minus the subscription part they don’t tell you about till the end",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T19:34:53-07:00",
+      "rating": 5,
+      "title": "I like this",
+      "text": "I like how easy it is to use this app",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T19:10:40-07:00",
+      "rating": 5,
+      "title": "Cute and easy",
+      "text": "Found it to be easy and just scans food snd trsckers it",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T16:48:23-07:00",
+      "rating": 3,
+      "title": "MyFitnessPal is far superior",
+      "text": "This app isn’t bad.  Thr photo meal catcher is surprisingly accurate- i tested it by first pouring a glass of wine and measuring using my food scale, I then took it off scale and used the app - it was perfectly accurate 5.1oz glass red wine, I done the same with a sirloin steak - again, accurate.  What I dislike is the nutrition information for some items is incorrect.  Also, the free version only allows you to track calories, however if you want to see all nutritional info tracked, you must get the paid version.  This is where MyFitnessPal us superior - it shows you all nutritional information for products and what you consumed.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T16:44:46-07:00",
+      "rating": 5,
+      "title": "Love the app",
+      "text": "Love the app. I'm not disciplined at all so it's taking some time to get used to. With that said, my little guy dying after a long day of not eating definitely explains why I have no energy and can't lose weight properly! Lesson learned. Plus he looks so pitiful!! So I'm getting there. Very good app for free. Stay tuned. I'll keep you posted!!",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-08T04:44:20-07:00",
+      "rating": 4,
+      "title": "Interesting",
+      "text": "Fairly easy to understand and catch on, making it easier to reach my goals :)",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T19:09:05-07:00",
+      "rating": 5,
+      "title": "Reseña",
+      "text": "Me encanta esta app, es súper fácil de usar y me ayuda muchísimo a llevar un mejor control de lo que como. Además, ¡AMO a su mascota! 😭💕 Es demasiado linda y hace que la app sea mucho más divertida. 🥹✨",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-07T18:58:14-07:00",
+      "rating": 5,
+      "title": "hola",
+      "text": "bueno",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T15:26:06-07:00",
+      "rating": 5,
+      "title": "First day",
+      "text": "It’s only my first day on this app and im already in LOVE with it.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T15:00:27-07:00",
+      "rating": 1,
+      "title": "Intentionally Difficult to Cancel",
+      "text": "I downloaded this app with good intentions but never used it then spent months trying to figure out how to cancel it. In the mean time it close me over $140 which they would not refund because by the time I figured out they’re “Paddle” and not BitePal I was outside the cancellation window. I literally NEVER used the app and paid over a hundred bucks and no customer service. Might be a great app, and if never have taken the time to leave a review if they’d made it easy to cancel or at least done the right thing. Predatory.",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T13:24:35-07:00",
+      "rating": 5,
+      "title": "W app",
+      "text": "It asked for money than it ignored me and didnt care",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T12:35:16-07:00",
+      "rating": 1,
+      "title": "It takes money",
+      "text": "Don’t use, I got the premium and even when I stopped the subscription it still takes money",
+      "version": "2.30.0"
+    },
+    {
+      "date": "2026-09-07T09:18:19-07:00",
+      "rating": 5,
+      "title": "Awesome!!",
+      "text": "I love this app! It helps me log my food with zero friction, and even when I don't reach my goals i don't get shamed like in other apps. Definitely worth the sign up fee!",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-07T08:58:28-07:00",
+      "rating": 5,
+      "title": "Love this app!",
+      "text": "I used to hate calorie tracking apps and especially subscriptions, but this app makes calorie tracking fun and easy instead of a punishment.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-07T05:44:16-07:00",
+      "rating": 5,
+      "title": "Ginger",
+      "text": "Great app! Very easy!",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-07T04:33:13-07:00",
+      "rating": 4,
+      "title": "Skeptically optimistic",
+      "text": "I have been seeing this ad for weeks now. I don’t know anyone on it but yesterday, when I stepped on the scale for the first time in a couple of months, I wasn’t happy. So I decided to give this a try.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T19:20:52-07:00",
+      "rating": 5,
+      "title": "Lit",
+      "text": "Lit",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T17:12:20-07:00",
+      "rating": 5,
+      "title": "i think this will really help me",
+      "text": "right now theres been no bugs and a lot of motivating words",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T16:31:27-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "I love this app. It helps a lot.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T14:27:59-07:00",
+      "rating": 5,
+      "title": "Cyn",
+      "text": "It’s really nice it’s really free. It helps me not to get diabetes because when I use it, it logs in the calories.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T06:47:08-07:00",
+      "rating": 4,
+      "title": "Play and Lose",
+      "text": "This feels like I game that I want to win.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T06:23:16-07:00",
+      "rating": 5,
+      "title": "Game changer",
+      "text": "Snapping pictures of the food is amazing! It makes logging meals incredibly easy.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-06T05:35:03-07:00",
+      "rating": 3,
+      "title": "I love this app",
+      "text": "I love this app it as \nhelped me lose weight and know how much calories I put in my body!!!!!",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-05T19:27:19-07:00",
+      "rating": 4,
+      "title": "Nice app",
+      "text": "Great app. Fairly accurate. I hate that we now have to pay extra for the breakdowns when it was included before. I like how I’m able to track my calories with my workouts as well.",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-09-05T17:37:12-07:00",
+      "rating": 5,
+      "title": "Liking it so far",
+      "text": "It was easy to sign up and get started",
+      "version": "2.29.0"
+    }
+  ]
+}

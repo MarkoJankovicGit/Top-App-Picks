@@ -1,0 +1,357 @@
+{
+  "app": "Thea - #1 Skincare App",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-04T17:35:06-07:00",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "Helped me realize all my products weren’t suited for my skin and find replacements!",
+      "version": "3.21.0"
+    },
+    {
+      "date": "2026-09-29T19:22:59-07:00",
+      "rating": 2,
+      "title": "Makes you have an account",
+      "text": "I don’t want to make an account",
+      "version": "3.20.0"
+    },
+    {
+      "date": "2026-09-21T12:46:19-07:00",
+      "rating": 5,
+      "title": "My options",
+      "text": "Good app but signed it take long but it worth",
+      "version": "3.19.0"
+    },
+    {
+      "date": "2026-08-06T19:26:32-07:00",
+      "rating": 5,
+      "title": "Thea",
+      "text": "It rlly does actually help and gives u specific things to put in so they have all info",
+      "version": "3.9.0"
+    },
+    {
+      "date": "2026-08-04T20:24:12-07:00",
+      "rating": 3,
+      "title": "Okay, could be better",
+      "text": "The app is great at helping you find the areas that need improvement on your skin. I wish there was an option to change how some products are categorized. I have a few makeup products that are listed under skincare as “other” instead of being listed under makeup as “primer” or “setting spray”. Also the product capability chart seems to change by the hour so fixing that would be great. Overall so far it is helpful but with a few improvements I know it can be great.",
+      "version": "3.9.0"
+    },
+    {
+      "date": "2026-08-04T10:27:24-07:00",
+      "rating": 5,
+      "title": "Too much bs",
+      "text": "Get to the point",
+      "version": "3.9.0"
+    },
+    {
+      "date": "2026-07-29T10:07:15-07:00",
+      "rating": 1,
+      "title": "Get to the point",
+      "text": "Get to the point",
+      "version": "3.9.0"
+    },
+    {
+      "date": "2026-07-27T13:51:12-07:00",
+      "rating": 5,
+      "title": "So goooood",
+      "text": "This genuinely helped so much at the start. I was thinking oh this is not gonna work. It’s just one of those apps, but my mind was blown. It works so well haven’t got a single bug and it has like everything and it gave me really good things you don’t it’s free and you don’t have to share anything like personal.",
+      "version": "3.9.0"
+    },
+    {
+      "date": "2026-07-25T18:56:16-07:00",
+      "rating": 3,
+      "title": "Useful but AI is broken",
+      "text": "It worked well for the first few days - the data it gave me is very useful and provided a reason as to why my skin may have been freaking out. I really enjoy that I can scan all my products to be in the app. However, after maybe 2-3 days of use, the AI stopped working completely. I have sent their support emails, but no response.",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-24T13:25:47-07:00",
+      "rating": 5,
+      "title": "Best app ever",
+      "text": "Genuinely, this app seemed completely legit—but after using it? My skin as so clear",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-23T15:47:54-07:00",
+      "rating": 3,
+      "title": "Acne struggles",
+      "text": "I’m trying this app rn and it has good tutorials and tips",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-23T15:29:12-07:00",
+      "rating": 5,
+      "title": "Love",
+      "text": "I love this so much",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-22T08:49:53-07:00",
+      "rating": 4,
+      "title": "good but..",
+      "text": "gives good products but it took forever to load! (not my wifi)",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-20T11:05:31-07:00",
+      "rating": 5,
+      "title": "Works well",
+      "text": "It recommends great products for your skin, and tracks your progress. I am noticing improvement. Godsent app",
+      "version": "3.7.0"
+    },
+    {
+      "date": "2026-07-08T14:09:39-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Helped clear my acne bumps in days",
+      "version": "3.3.0"
+    },
+    {
+      "date": "2026-07-04T08:24:43-07:00",
+      "rating": 5,
+      "title": "Thea",
+      "text": "Best app to use for your skin care routine",
+      "version": "3.3.0"
+    },
+    {
+      "date": "2026-07-02T07:30:17-07:00",
+      "rating": 5,
+      "title": "Love it so far",
+      "text": "so far I been using Thea as a place to go to check if my products are compatible with each other. I was looking to add my regular vitamin c serum that I normally buy and learned it was incompatible with my exfoliater since it dries my skin out!! I wish I knew ab this earlier. anyway I love it, it’s very helpful",
+      "version": "3.3.0"
+    },
+    {
+      "date": "2026-06-30T12:56:32-07:00",
+      "rating": 1,
+      "title": "Face scan doesn’t work",
+      "text": "Every time I do the face scan it will analyze all of the except the last one and it takes long and never approves the pictures, please fix this.",
+      "version": "3.3.0"
+    },
+    {
+      "date": "2026-06-23T13:41:37-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Fabulous",
+      "version": "3.2.0"
+    },
+    {
+      "date": "2026-06-09T12:43:50-07:00",
+      "rating": 2,
+      "title": "Change this now.",
+      "text": "Before I got it, it said 12 and up and once I opened the app and put my birthday it put that I need to be 13 you need to change that",
+      "version": "3.1"
+    },
+    {
+      "date": "2026-06-03T16:24:19-07:00",
+      "rating": 5,
+      "title": "Honest 5/5",
+      "text": "PR: — I put these for important info to just skim through —\n\nI don’t often write reviews but this one deserves it. It helps A LOT. Scans your face and ask about your —routine to design a specific skincare FOR YOU—. Afterwards, —it’ll explain what to get— for morning and night with description. You can ask it more questions as well. AND afterward, a WHOLE PAGE will —show about possible products— and describe what and why. Best part? —IT IS ALL FREE— (obv not the product which you have to buy). I love that it is free and hope it stays that way because originally, I thought you had to pay like everything else but no! It is such a refreshing change to the typical ones.",
+      "version": "3.0"
+    },
+    {
+      "date": "2026-06-01T20:14:08-07:00",
+      "rating": 3,
+      "title": "Pretty good",
+      "text": "I really appreciate the app for not having to pay a whole lot! The option that lets you formulate a routine is extremely helpful as it lets you know what products will not react well together. My only issue was the scanner. I’m not sure if it’s just me, but my freckles got mistaken for pimples so it completely messed up my progress, which of course I get as it’s an ai scan and not a real in-person checkup. However, when I asked the Thea AI chat how to delete scans, it told me to click on the button that scans your face and click a clock, but I didn’t see a clock. (Or a history button which it also said to look for) I also checked whether or not the delete option was just for people with a subscription and it was not. I wasn’t subscribed but I still had all of the abilities it came with. This doesn’t affect me too much but it is quite frustrating since there’s no visible option to delete or flag scans as wrong, and I can also see how people who mainly rely on Thea for the scans would be angry with this issue.  Nice app overall, just one very frustrating issue.",
+      "version": "3.0"
+    },
+    {
+      "date": "2026-05-24T10:56:09-07:00",
+      "rating": 5,
+      "title": "AMAZING",
+      "text": "AMAZING",
+      "version": "2.33.2"
+    },
+    {
+      "date": "2026-05-09T14:12:39-07:00",
+      "rating": 5,
+      "title": "Acne",
+      "text": "It works like a charm",
+      "version": "2.32.1"
+    },
+    {
+      "date": "2026-05-09T11:56:44-07:00",
+      "rating": 5,
+      "title": "Very good app",
+      "text": "Its a very good app you can take pictures of what your face looks like and then the pictures of the things that you use and can show me even better ones. It’s amazing app you should go try it out",
+      "version": "2.32.1"
+    },
+    {
+      "date": "2026-04-18T07:09:30-07:00",
+      "rating": 5,
+      "title": "Fantastic app for skincare tracking!",
+      "text": "I love this app to track skin progression. It’s so well designed. When you take pics they are always the same so it’s easy to see differences. My skin has improved tremendously I am way more consistent since I see my progress and I rarely breakout anymore after 10 years of struggling with adult acne.",
+      "version": "2.31.0"
+    },
+    {
+      "date": "2026-03-16T16:22:48-07:00",
+      "rating": 5,
+      "title": "FINALLY",
+      "text": "The one stop shop for all my dermatology and skin care needs. Couldn’t ask for a better product!",
+      "version": "2.29.0"
+    },
+    {
+      "date": "2026-01-31T13:11:42-07:00",
+      "rating": 5,
+      "title": "My ride or die🫶🏻🫶🏻🫶🏻",
+      "text": "Sinceramente, lo que comenzó por una casualidad en la App Store, se convirtió en una de las apps que más uso día a día. Al iniciar la App, solicita tomar fotos de tu rostro para identificar las características y problemas que presente y te da una puntuación del 1-100, en base a 5 categorías (y este proceso se repite 1 vez cada semana para ver el progreso de acuerdo a tu nuevo rutina) te hace una serie de preguntas para descubrir cuál es la causa de los problemas en tu piel, si tienes comedones, espinillas, acné fungico, etc. \n\nDespués te pide que si quieres puedes ingresar los productos en tu rutina para ver si son aptos para tu tipo de piel ( y si no es el caso, te da alternativas más aptas😮‍💨😮‍💨). Viene integrada con IA para un mejor asesoramiento ya sea de tu rutina, productos, hasta para encontrar dupes🥹🥹🥹.\n\nEn mi caso, mi limpiador, según mi tipo de piel, no era para uso diario porque tenía ácido salicílico y me había comprado el suero de ácido azelaico de Anua, entonces me recomendó la primera semana introducirlo en mi rutina 2 veces por la noche (porque mi piel es sensible) y si mi piel lo toleraba, que aumentara a 3-4 veces pero por la noche y me ha ido muy bien en estas dos semanas que llevo usándola.\n\nEspero que te haya servido mi reseña y que decidas instalarte la app😌🪄.",
+      "version": "2.26.0"
+    },
+    {
+      "date": "2026-01-28T15:25:19-07:00",
+      "rating": 1,
+      "title": "it used to be a good app.",
+      "text": "now you have to PAY to view all your photos of your journey. no thanks, the app was good before you guys got greedy.",
+      "version": "2.26.0"
+    },
+    {
+      "date": "2025-12-29T17:00:44-07:00",
+      "rating": 5,
+      "title": "Carla",
+      "text": "Thea is doing is best!! To help definitily recomend it!!",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2025-12-26T08:54:08-07:00",
+      "rating": 5,
+      "title": "Helped to diagnose my problems before my wedding!",
+      "text": "I have been suffering from clogged pores, congestion, and overall texture in my face, and this was 2 months out from my wedding. \n\nThea helped me to realize that I was over exfoliating and breaking down my skin barrier which actually caused more breakouts! \n\nI paused exfoliation and switched to gentle and soothing products for the first month, which greatly cleared up my acne and helped with redness and inflammation. I slowly reintroduced gentle exfoliants like mandelic acid, using only once a week, and my glow for my wedding day was amazing. \n\nThe check ins with Thea are informative and helpful, especially when I over corrected my issue.",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2025-12-22T20:07:16-07:00",
+      "rating": 1,
+      "title": "Not good",
+      "text": "It was helpful and encouraging but I hate that you have to pay like I wish it said that in the beginning because now I’m all excited seeing what I can get out of this but I have to pay like I wish it can just be free so this sucks",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2025-12-17T19:56:19-07:00",
+      "rating": 1,
+      "title": "Fake Promo",
+      "text": "Sent an email offering a trial/free access to the app with a “promo code”, HOLIDAY100, but doesn’t give a place to put in a promo code.  Scam!",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2025-12-17T18:57:31-07:00",
+      "rating": 5,
+      "title": "It’s good",
+      "text": "It’s good because I never used it…",
+      "version": "2.25.0"
+    },
+    {
+      "date": "2025-12-12T19:49:03-07:00",
+      "rating": 3,
+      "title": "10/10",
+      "text": "This app is so good, works great and overall has helped me with my skin",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-11T11:33:47-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "This app has help me so much with my skin my skin had so much acne and now it glows.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-09T18:35:18-07:00",
+      "rating": 5,
+      "title": "Surprisingly GREAT!",
+      "text": "I am a 26yo female who has been struggling with adult acne for probably about 3-4 years now. It is very hormonal and painful. I made an appointment with a dermatologist, but then I found Thea! I scanned my face and it recommended me one product and I tired it and omg it seriously changed my skin. I have been struggling with acne WAY less. Of course I do still have an occasional pimple here and there but it has improved sooo much. I love the weekly check ins and the full overviews. I love that you can use voice or text for an overview. I have the one year subscription and I am loving it so far.  Oh… and I canceled that derm appointment! lol!",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-09T15:33:08-07:00",
+      "rating": 5,
+      "title": "So useful",
+      "text": "I’ve loved having an app where I can ask just about any skincare question. Whether it be about a product or my skin in general, this has been super helpful to understand an array of different things. I’m going through quite a bad breakout from hormonal issues and it’s helped so much in getting me a good routine! Love love love.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-09T03:03:08-07:00",
+      "rating": 5,
+      "title": "amazing!!",
+      "text": "this app truly helps in so many ways and is greatly functional! it helps me tell the difference between my skin in DAYS and helps me show actual progress like no other. it has truly helped with my confidence because i can look back on bad days and see how far i have come and that is truly beautiful!! it's more than just a app, it helps people with themselves and calms their mind.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-08T23:48:40-07:00",
+      "rating": 1,
+      "title": "This didn’t help me",
+      "text": "Well I am 10 and I have acne and when I put my b-day date it’s say”we have13 to up” like I still can do skin care and it’s not helpful for me. So Thea if you seeing this can you please make this for kids to",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-08T16:52:07-07:00",
+      "rating": 5,
+      "title": "lifesaver!!!",
+      "text": "thea has helped improve my skin so much!! i kept seeing videos about it through tiktok and decided to try it out because whats the worst that could happen??? i love the way the app recommends different products that could suit your skin and i love the chat feature where you can ask questions and figure out a routine that can suit your skin, 10/10 definitely recommend!!!",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-08T09:55:35-07:00",
+      "rating": 5,
+      "title": "Thea is awesome!",
+      "text": "This app has helped me learn so much about my skin and the best products for my skin type and situation. You can ask it anything and it will give you a wide range of recommendations and accommodations to your everyday life and habits. Down to what products to use and what food you might want to stay away from. My favorite part is that it keeps track of your skins progress and you can compare throughout your journey. Highly recommend!! :)",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-07T10:02:46-07:00",
+      "rating": 5,
+      "title": "This app saved my skin!",
+      "text": "I have been using Thea for more than 6 months now and it has saved my skin! Before my skin routine consisted of as much salicylic acid as possible because i thought that’s what would get rid of my acne. Turns out my skin barrier was so angry and so Thea helped create a whole new skin routine and I haven’t had a bad breakout since! My skin is thriving and glowy⭐️⭐️⭐️",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-06T12:10:06-07:00",
+      "rating": 5,
+      "title": "It works WONDERS",
+      "text": "I decided to try this app due to being influenced on TikTok I was struggling with my skin really badly and I said why not??  I built my skin care routine with this app they are very detailed and answer all your questions , truly I don’t know how I would’ve gotten my skin to where it’s at now without Thea I was in such a low place with my skin and now it’s 10x better !!",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-05T22:11:13-07:00",
+      "rating": 5,
+      "title": "My New Favorite Beauty Tool!",
+      "text": "I started using Thea a few months ago and have noticed significant improvements since. From weekly check ins to product recommendations and ingredient knowledge, this app really does do it all for your skin. Every week or so you take pictures of your face and any blemishes/problem areas and it scans your skin to give you recommendations and track your progress. You are also able to add all your skincare products to the app and it will tell you if it’s good for your skin type as well as the reasoning behind it. I highly recommend Thea to begin tracking your skincare journey today!!",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-05T10:09:53-07:00",
+      "rating": 5,
+      "title": "Changed my skin",
+      "text": "My breakouts are less frequent, my texture looks smoother, and my skin has a healthier glow overall. I did not realize how many ingredients were irritating me until Thea broke everything down in a way that made sense. One of the biggest differences for me is that I stopped wasting money on products that were not right for my skin. The match scores and ingredient explanations helped me figure out exactly what to keep and what to avoid. I also found a few new products I never would have tried on my own, and they have become part of my daily routine.\nMy favorite features are the personalized routine builder and the progress photo tracking. The routine is simple to follow and it keeps me consistent. The progress photos have been great because I can actually see the changes over time and it motivates me to stay on track. I also love the dupe finder. It has saved me money without hurting the results I’m seeing.\nOverall, Thea has helped me understand my skin in a way I never did before. It is easy to use and it has made a big difference in both my routine and my results. Five stars.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-04T16:51:52-07:00",
+      "rating": 5,
+      "title": "I love this app!!",
+      "text": "Def get this app its amazing, helped my skin so much!",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-04T14:37:40-07:00",
+      "rating": 5,
+      "title": "Great alternative to a dermatologist for small issues",
+      "text": "I’ve struggled with acne for several years suddenly. I tried out Thea and loved the different alternatives including a skincare routine or products. The check ins have also been very helpful and a lot of my stubborn acne scars have started to fade as well.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-04T10:47:50-07:00",
+      "rating": 5,
+      "title": "the best for your skin",
+      "text": "this app has helped me in so many ways wherein ever since I’ve used this app, I’ve noticed improvements in my breakouts, and oiliness in my skin (which are really my main concerns for my skin). Thea has provided me the best products to use for my skin type and the best advices on my skin care routine. With this app, I have learned and found what’s best for my skin because Thea has provided me ingredient explanations on the different products I use on my skin and progress photo tracking, which I’m really grateful for.",
+      "version": "2.24.0"
+    },
+    {
+      "date": "2025-12-04T09:41:53-07:00",
+      "rating": 5,
+      "title": "Better than going to the dermatologist!!",
+      "text": "I love how this app gives you product suggestions tailored for your skin type and allows you to take detailed photos of your skin to really analyze what the root of your skin problems may be. You can even ask any questions you may have relating to different products, how you should fix your skincare routine, etc. My skin has never looked better after using this app!",
+      "version": "2.24.0"
+    }
+  ]
+}

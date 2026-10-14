@@ -1,19 +1,5 @@
-# Sirovi Apple odgovori i veliki medjufajlovi (regenerisu se skriptama)
-research/data/raw/
-research/data/pool_*.json
-research/data/stage1_progress_*.json
-# Recenzije korisnika (sirove) i paketi za analizu sa uzorcima recenzija
-research/data/sources/reviews/
-research/analysis/batches/batch_*.json
-# Python i okruzenje
+# data branch: the whole research database is tracked here
 __pycache__/
 *.pyc
 .env*
-
-# Arhive i veliki globalni podaci (regenerisu se skriptama)
 *.zip
-research/data/global/
-research/analysis/psych_packet_*.json
-research/analysis/global_batches/
-research/analysis/reddit_batches/
-research/analysis/check_*.json

@@ -1,0 +1,357 @@
+{
+  "app": "SNOOZ: Sound. Sleep.",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T22:58:16-07:00",
+      "rating": 4,
+      "title": "Best Sleep",
+      "text": "I've gotten nothing but the best kind of sleep!",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-09T19:02:21-07:00",
+      "rating": 4,
+      "title": "Love my SNOOZ",
+      "text": "Great noise machine for sleep. I use it every night. \n\nLatest app update I don’t like because it is now a 2 step process to change volume instead of one.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-08T01:20:00-07:00",
+      "rating": 2,
+      "title": "Bring Back the Old Design",
+      "text": "Old interface worked great. Now I have to tap the icon to bring up a screen where I have to toggle a function on or off. You took something that was easy and added more steps. So annoying.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-07T07:07:22-07:00",
+      "rating": 5,
+      "title": "Great device, great app",
+      "text": "Update: the devs responded and confirmed they will not be ever going to a subscription model and the account is optional. Great! I understand gating away firmware behind accounts due to security reasons, it might be a good idea to explain in the app what the account actually does but regardless I’ve updated my review.\n\nExcellent device and the app always works great, even when traveling. I just plug it in and the app links right up.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-06T19:19:51-07:00",
+      "rating": 2,
+      "title": "Redesign Kills iPad Landscape",
+      "text": "The redesigned app doesn’t lay out properly in landscape on an iPad, which is the only way I use it. It still works, but it’s a step backwards from the previous version that worked fine in “giant iPhone app” compatibility mode. Would love to see proper iPad support.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-06T13:32:58-07:00",
+      "rating": 3,
+      "title": "Poor App Redesign",
+      "text": "The redesign is poor. I have multiple Snooz and this redesign makes it take longer to cycle through the multiple Snooz I have.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-10-06T07:21:25-07:00",
+      "rating": 1,
+      "title": "Need an account?!",
+      "text": "It’s an app for a noise machine… it turns on and off and there’s some timers and stuff. Great. Now I need an account for some reason? I for one am definitely not creating one. I’ll just delete the app and turn it on like a normal person.",
+      "version": "3.1.71"
+    },
+    {
+      "date": "2026-09-29T08:04:36-07:00",
+      "rating": 1,
+      "title": "Don’t Update!",
+      "text": "On an iPad using iPadOS 27, the September 29, 2026 update causes the app to be rotated 90º clockwise, which makes it unusable in landscape mode. In portrait mode, the app isn’t centered, and his located on the side of the screen, long and thin. It’s as if the orientation is backwards with respect to landscape or portrait modes.",
+      "version": "3.1.7"
+    },
+    {
+      "date": "2026-09-28T10:51:12-07:00",
+      "rating": 1,
+      "title": "Account required now?",
+      "text": "This is insane. You sell a white noise machine. The app should work with no account. What the hell do you get out of requiring an account.",
+      "version": "3.1.7"
+    },
+    {
+      "date": "2026-08-16T22:19:37-07:00",
+      "rating": 1,
+      "title": "Not calming white noise.",
+      "text": "Just sounds loud and fast and has the opposite of a calming sound you want during sleep",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2026-04-24T06:54:25-07:00",
+      "rating": 3,
+      "title": "Multiple schedules",
+      "text": "It’s nice to not have to manually turn on/off the sound machine but the app needs more fine tuning. I setup three schedules and only one seems to work.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2026-02-07T17:19:30-07:00",
+      "rating": 4,
+      "title": "Easy to use",
+      "text": "The app is easy to use. It’s a pretty bland app set up. The scheduler could use some improvement.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2026-01-14T21:38:58-07:00",
+      "rating": 1,
+      "title": "I hate this app",
+      "text": "It never works. I can never just open the app and interact with the Snooz. EVERYTIME I have to unplug the machine, repair the device with my phone/app. And it’s so frustrating because of course the device is in the bedroom on the nightstand so I have to move furniture to unplug the device. I HATE THIS APP!!!",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2026-01-10T21:53:08-07:00",
+      "rating": 3,
+      "title": "Great Fan, Limited App",
+      "text": "I love my Snooz so much I bought a second one, which is when the app limitations became apparent. I have two units in the same room and I’d really love to “pair” them so I can control them both from the same screen instead of swapping back and forth from one device to the next to set them on the same schedule. It doesn’t look like the app is updated anymore, so I won’t hold my breath.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-11-07T21:59:41-07:00",
+      "rating": 3,
+      "title": "Great sound, basic features",
+      "text": "The machine’s sound is great and I love having it in my room. My dog loves it too! She knows that sound means it’s bedtime. But I’m so tired of this app randomly and repeatedly losing the Bluetooth connection. When that happens, you have to unplug the unit and plug it back in. Also, not having an Apple watch app for this seems a little behind for a product that sells a couple of sizes already. I have the travel SNOOZ as well and even though it’s not as good as the full-sized one, it’s much better than using your phone or some random white noise app. Again, I can’t seem to even ADD my travel SNOOZ to my app (at least it was not available as an option last time I tried) which is pretty basic for an expensive white noise machine. The most aggravating thing is the Bluetooth dropping thing. It’s always and when you have to literally move furniture to get to the plug for the SNOOZ, it’s a major hassle!",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-11-07T21:31:07-07:00",
+      "rating": 5,
+      "title": "Great companion app",
+      "text": "This is a great and functional app for this machine. Love that you don’t need any accounts to make it work on schedules, love the ability to enable a smart plug mode. This is awesome!\n\nTwo suggestions for the makers of the machine\n\n1. Make an auto-off option, I know you support schedules. but I would love a mode where I can have the machine on for x amount of time after I turn it on. Let’s say I want it to turn off an hour after I last interact with it. Maybe you can add the functionality by tapping on both the plus and minus buttons at the same time. that can set that auto off period to 1, 3 or 6 hours depending on the number of taps. No need to change hardware to do this. Just firmware!\n\n2. I was going to say add home assistant support but I see it’s already there! Thank you for the great and simple app!",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-11-02T13:18:32-07:00",
+      "rating": 4,
+      "title": "Daylight savings",
+      "text": "Needs to take into account daylight savings time. It went off an hour earlier than expected this morning. Was hoping to get done extra sleep but the sound went off an hour early due to daylight savings time change.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-07-27T22:59:08-07:00",
+      "rating": 2,
+      "title": "Please fix! So much potential",
+      "text": "The actual machine’s potential is 5 stars, but for $100, you’d expect complete control via the app. Unfortunately, the app is incredibly basic. The volume control is choppy, causing my kid to wake up as I try to gradually turn it down. While there’s a fade option, it’s only available when the machine is scheduled and can only be used to turn the machine off or on. It would be great if the fade option could be used manually or scheduled, allowing you to fade the volume from a high level to a low level over a period of, say, 10 minutes or vice versa. Additionally, it would be ideal if the machine could use its built-in sound monitor to detect crying and gradually increase the volume until the crying stops for about 5 minutes. Then, it could gradually fade back down to a low level. Finally, adding complex schedules or multiple schedules would be a nice feature. Overall, the machine is great, but please fix the app to fully utilize its potential!\n\nUpdate: still no fade option. Please add. 🙏🙏",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-07-27T15:26:13-07:00",
+      "rating": 2,
+      "title": "Slow app",
+      "text": "I thought the app was broken, turns out it takes a solid minute to respond when I want to turn the sound machine on/off. Wild.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-05-24T05:43:51-07:00",
+      "rating": 1,
+      "title": "Still no support for Siri Shortcuts?!",
+      "text": "Would be great to turn on my SNOOZ as part of a bedtime automation or routine—alas, the lazy developer hasn’t updated this app in over a year, and it still lives in the dark ages. Don’t let their advertisements fool you—these are not “smart” devices.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-04-02T15:10:31-07:00",
+      "rating": 2,
+      "title": "Stops my music, slow",
+      "text": "Opening this app stops my music or podcast. Uh, what? No. \n\nAlso it’s slow to connect to a machine 5’ away.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2025-01-23T10:19:54-07:00",
+      "rating": 2,
+      "title": "Need simultaneous multi device support",
+      "text": "Needs to be able to control groups of snooz at once and not have to connect individually. Also the app doesn’t work sometimes. And when it does it takes too long to connect. Extremely annoying.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-12-04T19:26:41-07:00",
+      "rating": 5,
+      "title": "If you value sleep don’t be loser and buy this.",
+      "text": "Changed my life. I went from being amazingly handsome to amazingly handsome and well rested.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-11-19T18:22:05-07:00",
+      "rating": 3,
+      "title": "Multiple simultaneous timers needed",
+      "text": "Decent app, I like the ability to calibrate the noise with my phone to ensure safe sound levels for the nursery. Requesting an enhancement - I need to set multiple timers. One for the night to turn off automatically and one in the morning to turn on. Unfortunately the app only allows one timer per day. Thanks!",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-11-06T02:37:37-07:00",
+      "rating": 5,
+      "title": "Love the Sweet Sweet Sounds",
+      "text": "This really is the best ambient noise machine out there. Especially if you love the sounds of a fan or plane cabin. \n\nBut I do have one suggestion for the app developers…let us choose a volume number for each of our scheduled times.  I like my volume to be set at 2 during the day, but at night time I want it to be a 5 or 6. Would be cool if it just did it via the schedule.  Thanks for coming to my TED talk ;)",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-09-15T16:48:49-07:00",
+      "rating": 2,
+      "title": "Love the SNOOZ, the app needs work",
+      "text": "The app is very glitchy and sometimes deletes the schedules I have set. It really needs improvement. The actual SNOOZ itself is great.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-08-01T19:43:14-07:00",
+      "rating": 5,
+      "title": "Do it.",
+      "text": "Just buy it.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-07-31T12:58:55-07:00",
+      "rating": 5,
+      "title": "Great App and Best Sound Machine",
+      "text": "This device and app are great.  If you are like me, electronic sound machines loop and I can always (for some reason) pick up the loops that keep me awake. This does not do that. The app is great since you can setup multiple schedules, check the dB level to ensure you have the right level, etc. \n\nOnly one thing is that I hope the developer adds the app to the Apple Watch. This would make it a lot easier if your phone is not near.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-07-09T18:03:08-07:00",
+      "rating": 5,
+      "title": "Great easy to use app",
+      "text": "The Snooz app does everything you need and is very easy to use. You can adjust the fan speed and set schedules for the device to come on and shut off. Just wish you had the ability to group multiple Snooz devices together.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-05-28T19:53:50-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Great product",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-05-23T20:41:00-07:00",
+      "rating": 5,
+      "title": "Makes great white noise machine even better",
+      "text": "I set it to ramp up slowly at bed time.  It is a good cue for my brain to know its time to sleep. \nI also set it to go off slowly in the morning which wakes me way more pleasantly than my alarm going off suddenly. And I can set a later wakeup time on the weekend. \nMake your Snooz even better by programming it with the app.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-05-19T06:23:16-07:00",
+      "rating": 5,
+      "title": "Get it",
+      "text": "If you have a product, then get the app. This app has everything you need. I have the fan and its great to be able to set timers and adjust the settings without having to get up and physically change them.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-05-17T07:52:11-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "That’s cool",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-03-09T05:25:42-07:00",
+      "rating": 5,
+      "title": "It’s Programable",
+      "text": "I have used white noise for many years, I had to turn it on at night and off in the morning. \nThe good about this one is the it automatically starts at at schedule time and also schedule off, m not only that, I start it at volume 3 at 10 PM and at 12 am I set it to go higher (7), and then off at 7 am, you can have multiple on/off",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-03-04T04:27:04-07:00",
+      "rating": 2,
+      "title": "Limited scheduling functionality",
+      "text": "Please allow multiple schedules writing the same days.\n\nFor example, I want to turn the unit on Monday-Friday at 05:00, off at 08:00, them on again at 17:00 and off at 23:00. Currently it seems I cannot do this.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-02-27T06:38:02-07:00",
+      "rating": 3,
+      "title": "Great app, but the scheduler hasn’t been reliable.",
+      "text": "I’ve had my Snooz Pro for a couple of weeks now and love it.  The app is super easy to use and really clean which I great.\n\nMy only complaint is the scheduler.  The first week with it and it worked as expected.  Going into week two, it just doesn’t.  It will either not turn the Snooz on or it it won’t turn it off according to schedule.  \n\nI had two schedules set up.  Both turned on at the same time, but each were set to turn off at a different time (earlier on weekdays, a little later on weekends).  \n\nI’ve delete both and restarted the app to re-create a new schedule.  Hopefully that will work because the scheduler seems like it would be one of the biggest selling points of the app outside of remote control.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-01-27T03:54:33-07:00",
+      "rating": 1,
+      "title": "Can’t even connect it to the app!",
+      "text": "The app crashes and turns black every time I try to pair it to my iPhone 14. This is beyond frustrating. I haven’t been able to even use it yet and I’m having problems. I tried all of their suggestions including unplugging and plugging the device, restarting the phone, reinstalling the app. Nothing works. It’s just a badly designed app. I can’t believe I paid 115 dollars for this. I’m such an idiot.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-01-25T04:34:44-07:00",
+      "rating": 5,
+      "title": "Sleepy",
+      "text": "It’s been a lifesaver. My husbands snores and several nights a week I’d have to sleep somewhere else.   The white noise cancels out his snoring. Or most of it. I’m able to sleep thru.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-01-23T21:06:24-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "I got this to try to minimize car noise from people who think loud cars are cool at all hours.  It’s been absolutely perfect yo sleep, highly recommend.  It sounds like a super loud fan!",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-01-10T21:58:40-07:00",
+      "rating": 3,
+      "title": "Great white noise, hard to connect",
+      "text": "Only bad thing about Snooz is it’s very finicky Bluetooth connection. Need to unplug and replug to connect and change any settings from your phone.",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2024-01-03T09:54:37-07:00",
+      "rating": 4,
+      "title": "Excellent—just need a watch app",
+      "text": "Love the product and the phone app! Just think a simple watch app would go such a long way",
+      "version": "2.9.0"
+    },
+    {
+      "date": "2023-11-26T22:17:40-07:00",
+      "rating": 4,
+      "title": "Great machine. Terrible connectivity.",
+      "text": "The machine is great. I don’t know why I constantly have to unplug the machine from the wall to get it to connect to my phone. It annoying especially since you need to place it not directly next to the bed & our outlet is behind a dresser!",
+      "version": "2.8.4"
+    },
+    {
+      "date": "2023-09-23T13:56:12-07:00",
+      "rating": 5,
+      "title": "I could cry",
+      "text": "This machine has changed my life. I don't travel anywhere without it. I tried noise apps, regular fan, ceiling fan, running my house system fan-nothing has ever been as effective or comforting as this device. It has changed my sleep quality forever. Thank you from the bottom of my heart!! To you and to Moxy PDX hotel for introducing me to you. So grateful. 🥹",
+      "version": "2.8.4"
+    },
+    {
+      "date": "2023-07-07T20:05:45-07:00",
+      "rating": 4,
+      "title": "Almost perfect!",
+      "text": "First off, the actual device is fantastic. 10/10. The sound is the BEST white noise machine I’ve ever heard. Just like a fan, without the blowing air or space a fan takes up. I just wish the app had an additional feature: the ability to set a timer at will. Currently, you can set a schedule for the device to turn on/off. But I don’t necessarily need it on every Tuesday from 10:00 to 7:00. If my husband happens to be snoring on any given night, I’d love to be able to open the app, and tell the device to play for 3 hours. I don’t see a way to do that (though it’s entirely possible I’m missing it) and I wish I could.",
+      "version": "2.8.4"
+    },
+    {
+      "date": "2023-06-19T10:20:09-07:00",
+      "rating": 5,
+      "title": "Great but needs one enhancement",
+      "text": "*update: traded up for a Pro and the Pro version has everything I need for scheduling! You can do multiple schedules and choose the volume for each.*\nSimple and easy to use. The sound is just like a fan and I like that you can change the tone a bit. I love that there is a setting to disable all lights. I will think about getting a second one for ambient noise in my office.",
+      "version": "2.8.1"
+    },
+    {
+      "date": "2023-05-04T21:23:44-07:00",
+      "rating": 2,
+      "title": "Poor connectivity",
+      "text": "It’s nice when the connection works, but the device and app need to constantly be paired. I have to restart the device several times a week to get it to connect to the app.",
+      "version": "2.8.1"
+    },
+    {
+      "date": "2023-03-13T11:49:40-07:00",
+      "rating": 4,
+      "title": "Daylight savings",
+      "text": "Love the app but after switching to daylight savings my schedules are not synced to the new time.  Any way to make this work?",
+      "version": "2.8.1"
+    },
+    {
+      "date": "2023-03-05T11:00:31-07:00",
+      "rating": 4,
+      "title": "Feedback",
+      "text": "Please work with Eight Sleep to sync bedtime and wake up times.\n\nCan one SNOOZ be controlled by multiple phones/ devices?",
+      "version": "2.8.0"
+    },
+    {
+      "date": "2023-01-03T15:20:16-07:00",
+      "rating": 2,
+      "title": "Disconnects and no smart assistant support",
+      "text": "Every 1-2 months, the app becomes unable to connect to the Snooz device, and I have to unplug it and restart the setup. Also, it’s frustrating that there is no Google/Siri smart assistant support for turning on or off the device. This is a basic feature that any smart/connected device should have. Please add support.",
+      "version": "2.7.8"
+    },
+    {
+      "date": "2022-12-15T01:42:01-07:00",
+      "rating": 5,
+      "title": "Love it!",
+      "text": "Only wish it worked with Alexa!",
+      "version": "2.7.8"
+    }
+  ]
+}

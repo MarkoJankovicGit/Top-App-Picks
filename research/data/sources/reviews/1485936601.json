@@ -1,0 +1,707 @@
+{
+  "app": "Stadium Live - Predict Sports",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T17:53:20-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "This is a great app. I recommend it.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-08T11:02:06-07:00",
+      "rating": 1,
+      "title": "Don’t try black jack",
+      "text": "Pls don’t try it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-07T16:05:34-07:00",
+      "rating": 5,
+      "title": "Stadium live",
+      "text": "5",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-04T17:34:13-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Its flat out amazing",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-04T17:19:46-07:00",
+      "rating": 3,
+      "title": "Fun",
+      "text": "Fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-04T13:33:32-07:00",
+      "rating": 5,
+      "title": "goat",
+      "text": "perfect",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-04T10:40:08-07:00",
+      "rating": 5,
+      "title": "It’s a good game",
+      "text": "It’s a good game",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-03T12:20:54-07:00",
+      "rating": 5,
+      "title": "Rating",
+      "text": "10/10",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-03T11:07:10-07:00",
+      "rating": 5,
+      "title": "Fye",
+      "text": "Fye",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-03T09:44:10-07:00",
+      "rating": 5,
+      "title": "Betting",
+      "text": "Super fun to bet with not real money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-10-03T05:07:40-07:00",
+      "rating": 4,
+      "title": "Great sports predictions app",
+      "text": "Great app for predicting stats and outcomes of games.I love being able to predict and not loose money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-30T22:51:28-07:00",
+      "rating": 1,
+      "title": "Shi game",
+      "text": "It takes your money not ligit scams you don’t recommend don’t waste your time",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-30T06:32:36-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Great app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-30T05:10:52-07:00",
+      "rating": 5,
+      "title": "Great game",
+      "text": "I like that you don’t need money to bet, and the game is really self explanatory",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-29T17:18:28-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-28T19:11:03-07:00",
+      "rating": 5,
+      "title": "Jjjj",
+      "text": "Hhh",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-27T14:55:21-07:00",
+      "rating": 2,
+      "title": "iPhone 18 Pro",
+      "text": "Literally can’t click half the buttons. Can’t go to settings.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-27T13:46:43-07:00",
+      "rating": 5,
+      "title": "Commanders",
+      "text": "My commanders bet hit and I’m very happy",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-27T11:38:08-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-27T10:04:57-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "It’s fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-27T09:08:43-07:00",
+      "rating": 5,
+      "title": "Awesome game",
+      "text": "Luv it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-26T14:35:32-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Very fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-26T13:37:20-07:00",
+      "rating": 5,
+      "title": "Love this game",
+      "text": "It is a free sports betting app I recommend to play with friends",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-24T17:00:30-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I love how the bets are easy",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-24T15:34:48-07:00",
+      "rating": 4,
+      "title": "Bets and games",
+      "text": "The bets are the best part about the app, the game in the arcade are rigged so I don’t recommend playing them, especially blackjack and free throw merchant. But overall great app.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-23T16:23:07-07:00",
+      "rating": 5,
+      "title": "Nice betting app",
+      "text": "Amazing",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-22T18:14:14-07:00",
+      "rating": 3,
+      "title": "Good app",
+      "text": "Fun and it makes you feel like you actually betting",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-21T17:42:12-07:00",
+      "rating": 5,
+      "title": "I love gambling",
+      "text": "I love gambling twin",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-20T18:19:30-07:00",
+      "rating": 5,
+      "title": "Felt so real",
+      "text": "It felt like I was betting real money but I wasn’t",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-20T14:35:56-07:00",
+      "rating": 5,
+      "title": "nice",
+      "text": "it’s fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-20T12:59:22-07:00",
+      "rating": 5,
+      "title": "It is so good",
+      "text": "It is so go",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-20T07:27:42-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "It was super fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-19T13:16:45-07:00",
+      "rating": 5,
+      "title": "Could be amazing",
+      "text": "It actually really good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-17T20:51:42-07:00",
+      "rating": 5,
+      "title": "Really good picks",
+      "text": "I really love how their is so many sports you can choose to bet on !",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-17T12:54:04-07:00",
+      "rating": 4,
+      "title": "Good game",
+      "text": "Good app just wish u wouldn’t have to pay for more than 2 for the fun of it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-17T12:08:48-07:00",
+      "rating": 4,
+      "title": "Very fun",
+      "text": "Great game overall very fun with out spending money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-17T10:58:35-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-16T20:30:46-07:00",
+      "rating": 5,
+      "title": "Yes",
+      "text": "Yes",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-16T12:10:07-07:00",
+      "rating": 5,
+      "title": "Really good app",
+      "text": "This was really fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-16T00:32:20-07:00",
+      "rating": 5,
+      "title": "best",
+      "text": "really really fun especially blackjack",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-13T13:24:17-07:00",
+      "rating": 5,
+      "title": "Good game",
+      "text": "I think it’s the best non costly betting app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-13T12:27:30-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "I would give it a 9/10 it just doesn’t feel nice to pay the money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-13T10:10:41-07:00",
+      "rating": 5,
+      "title": "I like gamble",
+      "text": "Gamble fun :)",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-12T18:46:10-07:00",
+      "rating": 5,
+      "title": "Tuffy",
+      "text": "Gh.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-12T16:34:36-07:00",
+      "rating": 5,
+      "title": "H",
+      "text": "H",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-12T13:04:41-07:00",
+      "rating": 5,
+      "title": "really fun",
+      "text": "fun and i’m good at it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-10T18:18:38-07:00",
+      "rating": 5,
+      "title": ".",
+      "text": "Fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-10T08:52:26-07:00",
+      "rating": 5,
+      "title": "I love this",
+      "text": "Best app ever",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-09T06:52:24-07:00",
+      "rating": 5,
+      "title": "Stadium Live",
+      "text": "10/10",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-07T16:44:02-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "It is so fun I don’t have to spend any money but can still bet I love it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-06T07:05:42-07:00",
+      "rating": 2,
+      "title": "Overrated",
+      "text": "It was nice a couple years ago, now they’re too lazy to pay out stakes and the community is too toxic. I would rather just pay real money to gamble.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-05T13:47:48-07:00",
+      "rating": 3,
+      "title": "Best app",
+      "text": "Alr I’ve had some time to revise this app look I put my coins in and I’m not getting my pay outs and I’m wondering why sooooooo pay me now or I might have to delete this app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-05T09:28:53-07:00",
+      "rating": 5,
+      "title": "Legal underaged gambling",
+      "text": "It’s in the title",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-05T08:46:17-07:00",
+      "rating": 5,
+      "title": "The game is so aura",
+      "text": "Tufffff",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-05T03:58:18-07:00",
+      "rating": 4,
+      "title": "No Spread",
+      "text": "Fun app, absolutely love that you don’t have to play with money.  Just wish you could bet the spread, even if it got locked in to whatever it was on a certain date and didn’t change live",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-09-02T15:00:22-07:00",
+      "rating": 5,
+      "title": "huh",
+      "text": "gamble yk it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-30T10:04:24-07:00",
+      "rating": 4,
+      "title": "noice",
+      "text": "noice",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-25T12:44:11-07:00",
+      "rating": 4,
+      "title": "4 stars",
+      "text": "Good app for people who don’t want to spend money betting on sports",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-23T14:06:05-07:00",
+      "rating": 5,
+      "title": "I like gambling",
+      "text": "thank you for helping me create this passion add crossy road and the bomb game to go along with black jack thank you",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-23T10:08:27-07:00",
+      "rating": 5,
+      "title": "Betting for fun for all ages!",
+      "text": "Honestly not a bad game to put a little money in to get a huge amount of it back!",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-22T20:21:06-07:00",
+      "rating": 5,
+      "title": "Gs",
+      "text": "Te",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-22T05:02:51-07:00",
+      "rating": 4,
+      "title": "Pretty good",
+      "text": "Helps you learn to bet",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-20T10:18:16-07:00",
+      "rating": 5,
+      "title": "stadium da goat",
+      "text": "One of the best games I played",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-19T10:03:26-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Love this app!",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-18T18:16:40-07:00",
+      "rating": 1,
+      "title": "Pushes gambling to kids",
+      "text": "Review bomb and destroy there business and they use ai",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-17T12:41:14-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-16T13:15:21-07:00",
+      "rating": 4,
+      "title": "Fun",
+      "text": "So cool that you don’t have to use real money just online coins",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-16T08:17:27-07:00",
+      "rating": 5,
+      "title": "Amazing app for non money betting",
+      "text": "The game lets you bet with coins that you get for free",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-15T19:20:23-07:00",
+      "rating": 5,
+      "title": "Okay",
+      "text": "Okay",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-15T19:17:09-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I love gambling and crashing out when I lose",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-15T09:16:29-07:00",
+      "rating": 5,
+      "title": "Good predicting app",
+      "text": "Very good for kids and adults who are trying bet but don’t want to risk their money and I like it very fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-13T21:03:07-07:00",
+      "rating": 5,
+      "title": "Peak",
+      "text": "It is so fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-12T19:58:11-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "Perfect for getting over overspending on legs. Now I can get good without having to loose money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-11T06:22:57-07:00",
+      "rating": 4,
+      "title": "Rating",
+      "text": "Very good app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-10T17:53:01-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-10T10:03:44-07:00",
+      "rating": 4,
+      "title": "good",
+      "text": "good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-09T22:57:39-07:00",
+      "rating": 4,
+      "title": "Hey",
+      "text": "The app is so good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-07T10:20:30-07:00",
+      "rating": 5,
+      "title": "good",
+      "text": "solid app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-06T05:57:00-07:00",
+      "rating": 5,
+      "title": "Stadium live",
+      "text": "Very good app love it",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-05T18:02:33-07:00",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Very good app. Speechless",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-08-03T20:54:45-07:00",
+      "rating": 4,
+      "title": "Love it",
+      "text": "I love how it doesn’t use real many a can still bet without the worry of losing hundreds",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-31T14:22:44-07:00",
+      "rating": 5,
+      "title": "N/A",
+      "text": "Just amazing app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-30T13:00:15-07:00",
+      "rating": 1,
+      "title": "My time on stadium live",
+      "text": "Hi I’ve made a couple of accounts on stadium live and it was so fun really but then it took a turn for the worst first of all the non elite cap. I have elite so I’m fine but they made the cap for non elite players 5 so they made it super ptw. And then came their laziness honestly this is insane they barley update and there’s a big bug right now no hit stakes which is important when the only thing you can bet on is baseball. And also I know so many good players like myself who just quit the game because of lack of care by the creators please make this game better I love it but please put more effort into it. It breaks my heart et seeing this app die",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-30T08:05:38-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good app",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-28T21:13:17-07:00",
+      "rating": 5,
+      "title": "Good because it lets you practice real bets",
+      "text": "This app lets me practice real bets with real money. This app has coins instead of money. But it is fun because you know when you bet that you won’t lose real money.",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-28T12:51:23-07:00",
+      "rating": 5,
+      "title": "So much fun",
+      "text": "It is so much fun and makes watching sports way more fun",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-28T05:56:45-07:00",
+      "rating": 5,
+      "title": "Stadium live",
+      "text": "5 stars",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-27T08:06:07-07:00",
+      "rating": 5,
+      "title": "peak",
+      "text": "best dopamine rushes ever",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-26T09:25:37-07:00",
+      "rating": 5,
+      "title": "Greatest Game/Betting app OAT",
+      "text": "Yo,I’m on pace to break 1M minutes on this bro 1 MILLION",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-26T06:52:10-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "Great for none spending betters",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-25T16:42:18-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Fantastic",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-24T10:54:24-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Good",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-23T17:15:19-07:00",
+      "rating": 5,
+      "title": "Øway",
+      "text": "Øway",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-23T12:10:42-07:00",
+      "rating": 5,
+      "title": "W game",
+      "text": "I love gambling",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-23T10:39:02-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "It’s amazing",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-22T11:04:03-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Kinda tuff",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-21T12:46:25-07:00",
+      "rating": 5,
+      "title": "Bets",
+      "text": "Love it I’m learning so much",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-20T14:58:16-07:00",
+      "rating": 5,
+      "title": "W game",
+      "text": "Fun and no money",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-19T15:09:52-07:00",
+      "rating": 1,
+      "title": "This sucks",
+      "text": "I bet 28k and I would’ve won 68k but stupid game said the Argentina vs Spain 2026 game I lost even tho Spain won",
+      "version": "1.72.1"
+    },
+    {
+      "date": "2026-07-19T14:19:21-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Amazing",
+      "version": "1.72.1"
+    }
+  ]
+}

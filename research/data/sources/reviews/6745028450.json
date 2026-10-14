@@ -1,0 +1,56 @@
+{
+  "app": "Walkbucks - Step Counting",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-01T08:06:16-07:00",
+      "rating": 5,
+      "title": "Exelente",
+      "text": "A penas estoy empezando y si el gusta",
+      "version": "1.7.0"
+    },
+    {
+      "date": "2026-09-13T04:16:56-07:00",
+      "rating": 5,
+      "title": "El mejor",
+      "text": "Muy buena aplicación",
+      "version": "1.6.0"
+    },
+    {
+      "date": "2026-08-26T16:12:00-07:00",
+      "rating": 5,
+      "title": "Recomiendo",
+      "text": "Excelente 🤩🤩, es confiable",
+      "version": "1.6.0"
+    },
+    {
+      "date": "2026-08-23T22:02:37-07:00",
+      "rating": 5,
+      "title": "Genial",
+      "text": "Me gusta es muy cómodo",
+      "version": "1.6.0"
+    },
+    {
+      "date": "2026-07-26T09:47:22-07:00",
+      "rating": 5,
+      "title": "Está bien",
+      "text": "Está súper bien la app la amo pero se me traba y no me está contando los pasos.",
+      "version": "1.5.0"
+    },
+    {
+      "date": "2026-07-13T14:26:16-07:00",
+      "rating": 5,
+      "title": "Buena",
+      "text": "Es muy buena y si da dinero te recomiendo usarla",
+      "version": "1.5.0"
+    },
+    {
+      "date": "2026-01-25T07:39:36-07:00",
+      "rating": 4,
+      "title": "Once",
+      "text": "I like how we can get her water with our steps I don’t like that we have to hit the button to clean our steps hundred times we can’t just hit at once and get all our coins cause it’s annoying and all the ads that we have to get to get 100 and some coins is annoying as well. We need to get that fixed. We’re just click it and hit it once so maybe watch an ad and get our points.",
+      "version": "1.2.1"
+    }
+  ]
+}

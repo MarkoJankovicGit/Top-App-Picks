@@ -1,0 +1,707 @@
+{
+  "app": "Obsidian Knight: Roguelike RPG",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T08:15:17-07:00",
+      "rating": 4,
+      "title": "Slow Burn That Keeps You Playing",
+      "text": "The game is all around very enjoyable and the paid currency for in game purchases is fairly common, overall I’d definitely recommend picking it up.\n\nI have some change requests to make the game feel a bit better.\n\n1 - when doing an endless dungeon, save our current progress and let us either do something else for a bit or step away from the game without our dungeon progress being lost.  It feels really bad to essentially have to set aside like an hour to actually run the endless dungeons.\n\n2 - When you purchase an artifact that is part of the Merchants Offer, the price of the offer is not reduced meaning you just get less value and really have no reason to buy it after.\nIt would really help if you either had the price reduced to reflect the lessened value or just had him move on to his next offer once part of the pack has been purchased with gems.\n\n3 - When fighting the clan boss, once the battle concludes you are not able to fight him again from the end screen and have to navigate through like 3 screens to try again.  Please allow simply trying again from the end screen.\n\nThank you for your time, if those changes are implemented I’d definitely give it 5 stars.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-10-06T08:33:43-07:00",
+      "rating": 3,
+      "title": "Decent game",
+      "text": "It is an enjoyable game, but it appears to require substantial spending. Equipment costs are prohibitively high, making it difficult to compete against enemies without purchasing in-game coins. Enemies are also challenging when the limited cards offered upon leveling up during a match are ineffective. Finally, the coins awarded do not adequately reflect the effort required to complete a match.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-10-05T02:59:41-07:00",
+      "rating": 5,
+      "title": "RPG?",
+      "text": "I’m not a fan of rpgs but I actually like this game and it is amazing so far",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-10-04T20:28:38-07:00",
+      "rating": 5,
+      "title": "10 out of 10",
+      "text": "Best game I’ve played in years, on the App Store, great job, keep it up,",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-10-03T18:53:35-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Just started playing and love it so far",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-10-02T06:35:31-07:00",
+      "rating": 5,
+      "title": "Fun game",
+      "text": "So far I am really enjoying the game great job keep up the good work",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-28T10:12:21-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Love the progression.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-27T14:22:59-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "This game is at the point where it’s so relaxing and something to look forward too after a long day at work.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-26T04:59:04-07:00",
+      "rating": 5,
+      "title": "Amazing game",
+      "text": "Love how strategic this game is, like if you lose a level you can just instantly replay it with a different strategy and win",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T20:24:40-07:00",
+      "rating": 5,
+      "title": "Simple is perfect!",
+      "text": "Devs these days think the players want an extremely complex game. Little do they know that simplicity is golden! This game nails it! Simple yet every run feels new! I love everything about it. If you enjoy it as much as I do please purchase something small. Solo developer who obviously cherishes his game. Would help him tremendously!",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T19:42:54-07:00",
+      "rating": 4,
+      "title": "obsidian knight",
+      "text": "good game overall just wish the items were a little less expensive or you’d get a little more gold to get your character strong enough to progress more often",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T19:23:14-07:00",
+      "rating": 5,
+      "title": "fun game",
+      "text": "it is fun and you really don’t need to spend money, but going add free is nice. it’s also a bit of a grind but it’s a blast.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T18:56:14-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Fun",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T16:57:54-07:00",
+      "rating": 5,
+      "title": "Played a long time and still fun!",
+      "text": "Great game lots of options.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T16:55:19-07:00",
+      "rating": 5,
+      "title": "Worth the time",
+      "text": "Might be one of the best mobile games I’ve ever played. You do have to put in a little bit of time to start getting the true gameplay, but it’s so worth it.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T16:53:06-07:00",
+      "rating": 5,
+      "title": "Good Strategy Play",
+      "text": "I've enjoyed the character building and strategy mixed with randomness in the game play.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T16:40:49-07:00",
+      "rating": 5,
+      "title": "Goated",
+      "text": "Love dis game",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T13:14:44-07:00",
+      "rating": 4,
+      "title": "Great game",
+      "text": "It’s been enjoyable, to actually see improvements without having to buy stuff is great",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T13:07:55-07:00",
+      "rating": 5,
+      "title": "Awesome side scrolling rpg",
+      "text": "Must lay if you like this type of game, highly recommended",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T10:06:30-07:00",
+      "rating": 5,
+      "title": "Pretty fun",
+      "text": "I never write reviews but this one is actually pretty fun. I enjoyed it and continue to. It’s nice and soothing and I love the progression. Very satisfying to continue to grow and a good rate.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T09:48:01-07:00",
+      "rating": 5,
+      "title": "Love it, and obsessed",
+      "text": "I think it’s a great game, I feel like there are some definite upgrades tho to make it more fun. \n\nTo be able to customize your armor would be super fun, like completely have full control not just when you earn it, make more side missions, also yall need a pause button on the battles, have the option to switch your hero, but this game is awesome I love it 5/5",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T09:28:17-07:00",
+      "rating": 2,
+      "title": "Unfinished",
+      "text": "Decent enough game, if not way too casual to be called Roguelike. But the game isn’t finished. I don’t understand releasing an unfinished game.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T08:53:28-07:00",
+      "rating": 5,
+      "title": "Fun game",
+      "text": "Out of the countless games I’ve played in my phone, this is by far one of my top 3 favorites. And the fact that you don’t need to spend actual money to play it mashes it even better. I got 2 of my sons to play it with me, so it makes it even better. Definitely recommend this game",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T08:47:39-07:00",
+      "rating": 5,
+      "title": "Genuinely the only game you should be playing",
+      "text": "This game is actually fun, so much content to keep you playing, doesn’t require an intense amount of skill or constant grinding in order to enjoy. You can always come back to the game. Dev team is actually cool instead of some corporate dill weeds",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T08:36:33-07:00",
+      "rating": 4,
+      "title": "Fun game, glad to see more content",
+      "text": "Seems like the devs are working on updates. Was getting a little worried about the end game loop but it looks like they have a plan. Still need more options to spend gold on after level 100, maybe let us buy more pickaxes",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-25T07:21:52-07:00",
+      "rating": 5,
+      "title": "Really fun game",
+      "text": "Absolutely worth paying for no ads. Every time I think I’m coming to the end of the content there’s MORE CONTENT and it’s awesome. Shoutout to the dev.",
+      "version": "2.4.11"
+    },
+    {
+      "date": "2026-09-24T14:56:58-07:00",
+      "rating": 5,
+      "title": "Bought the dev a coffee!",
+      "text": "Great game!  Plus I bought the dev a coffee!",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-23T19:58:46-07:00",
+      "rating": 5,
+      "title": "Fantastic free fun",
+      "text": "This game is very replayable and has a good grind. Simple clean animations.",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-23T12:22:44-07:00",
+      "rating": 2,
+      "title": "Fun game",
+      "text": "What I experienced was fun",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-23T11:14:48-07:00",
+      "rating": 3,
+      "title": "Need more weapon options and better graphics, and more things to do in this game",
+      "text": "Really fun game just needs an update or like six you should be able to upgrade audience as well in this game",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-19T18:19:07-07:00",
+      "rating": 5,
+      "title": "Great game",
+      "text": "Awesomeness",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-19T07:43:37-07:00",
+      "rating": 5,
+      "title": "Cool",
+      "text": "Nice game, fun",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-19T07:31:11-07:00",
+      "rating": 5,
+      "title": "Sup",
+      "text": "I like the game play",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-18T20:03:22-07:00",
+      "rating": 4,
+      "title": "Good game",
+      "text": "Solid game so far",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-18T17:16:15-07:00",
+      "rating": 5,
+      "title": "Great game",
+      "text": "Fun time killer",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-18T15:20:37-07:00",
+      "rating": 5,
+      "title": "Jnn",
+      "text": "Jnbj",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-17T19:00:02-07:00",
+      "rating": 5,
+      "title": "Sold game",
+      "text": "I’m really enjoying the talent tree and different skills. Great game to pass the time.",
+      "version": "2.4.7"
+    },
+    {
+      "date": "2026-09-16T21:44:20-07:00",
+      "rating": 3,
+      "title": "Slow play",
+      "text": "Not much to it it’s the same type of play each segment",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-16T01:47:26-07:00",
+      "rating": 1,
+      "title": "BDSM",
+      "text": "If you enjoy dying and watching ads, this game is for you!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-14T08:33:44-07:00",
+      "rating": 4,
+      "title": "Fun game",
+      "text": "Fun, addictive and free-to-play  friendly, with 2 downsides.\n1)Lack of tooltips. There is no enemy descriptions before starting levels. I am level 45 and still have no idea where to find hunt targets, what triggers rage on berserker enemies, and what hunt rate stat do.\n2) Some levels, especially in Act ,3 are by design impossible without very specific skills (same for some challenges). All you can do is restarting again and again until you randomly roll them. Very frustrating - at least give players option to restart quickly (like in challenges) without playing doomed run to the end.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-12T22:13:14-07:00",
+      "rating": 5,
+      "title": "Simple in the best way",
+      "text": "Love it from the get go and look forward to playing more",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-12T15:45:52-07:00",
+      "rating": 1,
+      "title": "Give me the update quit asking for a review",
+      "text": "Got a new phone. Keeps saying to go to the App Store for update, get sent directly to a review. Did it one to many times. Just give me the update and quit asking for a review.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-10T07:57:32-07:00",
+      "rating": 5,
+      "title": "Highly recommended (nostalgia fr)",
+      "text": "Reminds me of the days of internet flash games ported to mobile",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-09T13:07:56-07:00",
+      "rating": 2,
+      "title": "Slow paced, no benefits to play",
+      "text": "While it seems like an interesting concept.  It’s maybe a game for gold fish and people who like to live life 30 seconds at a time.  Toss in the extremely long adds and constant dying.  And you have a game where you aren’t actually doing much",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-08T18:16:25-07:00",
+      "rating": 5,
+      "title": "Very well crafted game",
+      "text": "This game has many good elements to it. The campaign missions are themed and require some strategy when picking different types of in-mission skills—which are super fun when combining compliment skills! The missions are challenging but not too difficult, and I actually find it fun to replay some missions I’ve previously lost in this game. Upgrading your character and their abilities is streamlined and has variety without being too complex, and there are a good amount of different armors to choose from. The PvP is actually fun. And the best part is you can play offline if you want! This is a really well crafted game. Definitely give it a try and you’ll have some fun with it.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-08T04:18:37-07:00",
+      "rating": 2,
+      "title": "No Fun",
+      "text": "This game wasn’t designed to be enjoyed. Poor rewards, the skills are mostly useless and the XP is underwhelming. Plenty of other options out there.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-07T09:18:56-07:00",
+      "rating": 5,
+      "title": "Highly Recommend!",
+      "text": "This is hands down my favorite mobile game in a long time. The rougelike style keeps things interesting. Despite my total playtime I still find cool combinations of skills I’ve never mixed. Also, progression is possible without needing to spend real money (although I do recommend add skip) Lastly, I used to play on android and when I switched to iOS the support team worked with me to recover the progress I lost.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-06T17:22:03-07:00",
+      "rating": 1,
+      "title": "Really?",
+      "text": "1 minute in and asked to review. I will have real review once I play the game",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-09-02T18:21:26-07:00",
+      "rating": 5,
+      "title": "Game has been awesome",
+      "text": "Game running smooth and I’m loving this ascetic",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-30T03:20:05-07:00",
+      "rating": 1,
+      "title": "Lack of data ownership",
+      "text": "The game itself is fun, but there isn’t a way to delete my profile, remove the linkage to Apple Game Center, or contact method to the developer to take the action.  From a game perspective, that also means you can never start over since they also store your data on their servers.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-27T22:14:13-07:00",
+      "rating": 3,
+      "title": "Great till Third Part",
+      "text": "The game is super fun and rewarding until the third part - nightmare . At that point the game becomes impossible. It literally could take 100 tries until you get the rng to beat the level. And there is literally nothing to do about it. Even if one wanted to spend hundreds of dollars on dark steel (the currency use to upgrade) it wouldn’t help. \nWhat is double frustrating is that if dark steel wasn’t so hard to come by, I imagine one could level up enough to make the levels more doable - Really hard but doable. But after spending an hour on a level to beat it, one is rewarded 5 dark steel which is worthlessj. Even the super fun pirate ship , where one could earn a somewhat decent amount of dark steel, only could be played every two days. I cannot image why the developers are being so stingy with it. It’s not like even paying for it is a viable option unless I’ve spend  1000s of dollars. Great game till act 3. Don’t waste your time if you are going to want to play the full game.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-27T15:40:49-07:00",
+      "rating": 5,
+      "title": "Great game",
+      "text": "Really fun for a phone game and runs well.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-27T09:43:10-07:00",
+      "rating": 4,
+      "title": "It’s ok",
+      "text": "It’s ok game I like it",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-26T15:07:39-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-26T01:20:12-07:00",
+      "rating": 5,
+      "title": "F2P friendly and currently my fav game",
+      "text": "Love the game!! Cant wait for a new upcoming updates and acts, keep the good work up pleasee",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-25T17:19:54-07:00",
+      "rating": 1,
+      "title": "Soft locked me into writing this review.",
+      "text": "Good game but kinda dumb that it’s forcing me to write a review to open it.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-22T18:41:50-07:00",
+      "rating": 4,
+      "title": "Freezes/add",
+      "text": "I like this game (except if you want nice items you have to watch ads, kill yourself repeating battles, or purchase them), but it keeps freezing up during ads and I have to keep reuploading it. I am about out of patience.\nThanks",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-22T09:56:59-07:00",
+      "rating": 3,
+      "title": "Не загружается игра",
+      "text": "Все было хорошо до момента,как первый раз зашел в неё без интернета,потом,как интернет появился-перестала загружаться,висит 74% загрузки,что делать?",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-22T01:31:08-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "So far no pay to win which is always a plus",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-19T18:38:28-07:00",
+      "rating": 5,
+      "title": "Loved the dev npc",
+      "text": "Game is good but just started playing will keep you updated",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-19T16:36:24-07:00",
+      "rating": 3,
+      "title": "Mostly decent game.",
+      "text": "I actually am mostly enjoying the game, though I believe there are a few issues that could/should (?) be addressed.\n\nFirst: The fact that the game doesn’t allow iOS users to redeem the redemption codes. According to all of the information I have been able to find the redemption code window should either have a ‘button’ so players can enter a code and redeem it, on the general settings window or some iOS users have to tap the “Credits” button three (3) times to open the redemption code window. Unfortunately for myself running iOS 26.6 neither option works. There is no ‘button’ marked “Redeem” on the general settings window. As for tapping the “Credits” button just opens the Credits window, no it doesn’t matter how many times you tap the Credits button. Three (3) times quickly or twenty (20) times as fast as you can, makes absolutely no difference. All tapping the Credits button does is open the Credits window. \n   Second: The pathetic weapons selection. Seriously? While I do understand the developers aren’t interested in overpowering players but seriously the highest damage raying I have seen after most of the year I have been playing is 10? Seriously? What a load of low level garbage. Now a few do have some slight advantages in magic percentages added to some of the weapons but the damage factor is completely ridiculous at how little damage  can be inflicted per hit. Perhaps there are some higher damage weapons that hasn’t shown up in the game store but I am Level 100, I have all three sets you can purchase with in game gold which aren’t terrible, but the best weapon I have so far discovered in the store, which I check daily, has been 6-10 basic damage value. I have somewhere around 350,000 gold, actually I think it’s closer to 400,000 now. I definitely have plenty of gold to use toward purchasing a weapon that can actually inflict some serious damage.\n   I would like to actually be able to actually clear any of the timed runs but unfortunately that is apparently impossible. I repeatedly play the PVP and the Challenges. While I do well in the PVP section I still cannot clear any of the timed challenges even though my defense rating is 244 with 342 as my health. Unfortunately being limited by my damage value being a pathetic 6-17 there is no way to clear ‘literally’, yes really, any of the timed sections. I have cleared both the first and second level of challenges completely, excluding the timed ones, and am working on the third level although I have definitely slowed down my efforts since it doesn’t matter because of the impossibility of clearing the timed levels. For all the excellent cards that can be used none have so far proven to be able to help clear the timed levels. It simply takes longer than we are given because of how long it takes to defeat each opponent. There just isn’t enough time when dealing such minor damage.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-19T15:24:27-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Only did 3 sections but fun so far. You deserved this review just for the unique way of asking for one and not the normal popup",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-18T15:12:05-07:00",
+      "rating": 1,
+      "title": "Another money grab",
+      "text": "As another reviewer said, this game just wants you to pay for progress.  Failing a mission, which you are supposed to do to grind gold/exp until you can beat it, rewards about 40 gold/experience.  2 hours into the game, your upgrades for 1 out of 8 equipment slots will be 960 gold, and you will need about 1000 exp to level up.  A failed run takes about 3 minutes, so 1 hour minimum per equipment upgrade.  And you WILL fail every new mission you enter.\n\nYou can watch a long ad for 150 gold.  Or you can spend $1 and get 1500 gold.  Thats right, people spending $1 on the game will boost them up a full 1 1/2 hours of grinding.  It’s just yet another bare bones, mission based “roguelite” where the dev hopes you get so frustrated you just throw money at the game to feel good.\n\nAnd surprise, the dev put the pop-up asking you to rate the game within the first 10 minutes, when you are still cruising through the levels buying better equipment after every mission.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-16T09:30:09-07:00",
+      "rating": 3,
+      "title": "Newbie",
+      "text": "Just started but seems good so far.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-13T13:45:42-07:00",
+      "rating": 1,
+      "title": "2+ minute ads, beware!",
+      "text": "2+ minute ads, beware!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-11T04:34:58-07:00",
+      "rating": 5,
+      "title": "Нужно больше контента,пожалуйста",
+      "text": "Отличная игра.Но за месяц ежедневной игры проходится основной контент,остаются несколько испытаний и ежедневные задачи на 15 минут.\nХочется больше снаряжения,петов например\nЖдем обновы :)",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-10T12:38:53-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Fun",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-09T20:09:13-07:00",
+      "rating": 5,
+      "title": "Fun concepts",
+      "text": "Good game",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-09T14:19:03-07:00",
+      "rating": 4,
+      "title": "It’s good game",
+      "text": "I love it so far no problem at all",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-05T12:13:17-07:00",
+      "rating": 5,
+      "title": "Early on",
+      "text": "To ask for a review comes early on in the game, but there is no pressure to purchase, and the steaks are low. It's a great game to just vibe out on.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-08-03T15:54:51-07:00",
+      "rating": 5,
+      "title": "Well put together game",
+      "text": "Never review normally but I had to for this one! Playing a month and now in act 3. Grinding but actually getting ahead by FTP. Keep up the great work devs!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-31T14:43:54-07:00",
+      "rating": 5,
+      "title": "Obsidian Knight",
+      "text": "Excellent Fun!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-30T13:52:47-07:00",
+      "rating": 5,
+      "title": "So far, it’s pretty good",
+      "text": "Not too many ads & not trying to get you to buy stuff",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-30T09:33:00-07:00",
+      "rating": 5,
+      "title": "Simple but great game.",
+      "text": "Fun game",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-28T22:04:46-07:00",
+      "rating": 5,
+      "title": "Yes download!!",
+      "text": "Yes download  the game!!!  Very fun and satisfying to have you r character grow and become OP!!!! 5 stars!!!!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-28T14:43:46-07:00",
+      "rating": 2,
+      "title": "Look out",
+      "text": "They can hack your game!!!!!!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-27T11:08:30-07:00",
+      "rating": 5,
+      "title": "So far the game is",
+      "text": "So far the game is pretty fun. It’s OK it’s a good game. I like it.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-24T15:16:28-07:00",
+      "rating": 1,
+      "title": "Boring",
+      "text": "I’m getting only 30-40 gold on a run before dying. My next weapon upgrade costs 1900 gold. I’m only an hour into the game. That’s an insane amount of grinding to do for ONE upgrade. There’s still shirts, gloves, shields, pants, and shoes to upgrade. Nope. I’m not wasting my time with these low payouts. Your ads give 150 gold. Imagine NOT playing the game is 5 times more valuable. I might as well go watch tv if I’m just gonna sit there and stare at commercials.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-24T11:23:48-07:00",
+      "rating": 5,
+      "title": "👍👍👍",
+      "text": "Крутая игра , добавьте ещё уровней и предметов",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-22T05:43:59-07:00",
+      "rating": 1,
+      "title": "This game is stupid",
+      "text": "I can’t even get past level 2 and you can’t go back levels to level up or anything",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-20T13:17:52-07:00",
+      "rating": 5,
+      "title": "Good game",
+      "text": "It’s an amazing game so far",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-16T00:51:45-07:00",
+      "rating": 5,
+      "title": "Fun",
+      "text": "Very fun and challenging game.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-15T12:17:48-07:00",
+      "rating": 4,
+      "title": "Cool game",
+      "text": "Fun. But now I can’t get past “new update” screen….",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-14T15:49:34-07:00",
+      "rating": 2,
+      "title": "“Random” accuracy drops",
+      "text": "Game decides your accuracy is 50 percent at best if you start getting too many good skills. Get ready for a skill with a 40 percent proc rate to miss 4 out of 5 times.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-13T16:15:52-07:00",
+      "rating": 5,
+      "title": "Great game",
+      "text": "Great game play it every day.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-13T10:59:09-07:00",
+      "rating": 4,
+      "title": "Time killer",
+      "text": "Decent time killer.  Simple yet fun n to upgrade",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-12T20:59:52-07:00",
+      "rating": 5,
+      "title": "Obsidian",
+      "text": "Great",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-11T22:17:53-07:00",
+      "rating": 5,
+      "title": "Е",
+      "text": "Е",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-09T10:11:41-07:00",
+      "rating": 1,
+      "title": "Bug",
+      "text": "Will fix the review after as the game usually works great, but I haven’t been able to log in for about a week now because there’s a pop up saying that I need to update the app, though no update is available.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-08T21:13:53-07:00",
+      "rating": 1,
+      "title": "It's not even a game",
+      "text": "The entire \"game\" is just picking an upgrade between 2 random options every 10-15 seconds. That's all you can do. Everything else is just automatic",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-07T13:50:48-07:00",
+      "rating": 5,
+      "title": "Decent",
+      "text": "Decent game. No complaints",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-06T22:13:52-07:00",
+      "rating": 5,
+      "title": "Good game",
+      "text": "I like it",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-06T14:59:17-07:00",
+      "rating": 5,
+      "title": "Forced me",
+      "text": "To give them five stars for candy",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-06T13:12:26-07:00",
+      "rating": 3,
+      "title": "Close but not yet",
+      "text": "Needs a lot of QOL changes:\n1. Camps should refill armor or potions\n2. Needs more sustain in general\n3. Store is too expensive\n4. Some of the language needs to be more detailed or reworked. For example, reflect means you still take damage. Probably would be more clear if you used mirror or something similar.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-05T14:44:42-07:00",
+      "rating": 5,
+      "title": "Great Game",
+      "text": "A simple but surprisingly deep experience.",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-02T16:16:10-07:00",
+      "rating": 5,
+      "title": "Update",
+      "text": "Not working just says go to store and when you go it’s says open not update",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-07-01T11:11:38-07:00",
+      "rating": 4,
+      "title": "So far so good 🗣️",
+      "text": "I like what I’ve seen love me a rogue lite/like game",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-06-30T08:42:25-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "Just installed this game and immediately enjoyed it. Easy progression, no complicated tutorial, and I haven’t seen a mandatory forced ad, or a pay to win boost pop up yet. \n\nSo far, this is a 5 star rating. Excellent work so far!",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-06-29T14:55:34-07:00",
+      "rating": 1,
+      "title": "Skills not working",
+      "text": "Have liked the game so far and want to continue. But i have died every time i get the skill that says armor and health cant be damaged at the same time. And then i die with full armor right after that. Whats the point of the skill if it doesnt work",
+      "version": "2.3.7"
+    },
+    {
+      "date": "2026-06-28T18:39:23-07:00",
+      "rating": 5,
+      "title": "Pretty good!",
+      "text": "Been playing it for awhile. It’s pretty good.",
+      "version": "2.3.7"
+    }
+  ]
+}

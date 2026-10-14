@@ -1,0 +1,707 @@
+{
+  "app": "SmartGym: Gym & Home Workouts",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-08T20:52:37-07:00",
+      "rating": 5,
+      "title": "Great Workout App!",
+      "text": "Super easy to use and great for keeping my workouts organized. Perfect for training at home or at the gym. Highly recommend!",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-06T19:20:20-07:00",
+      "rating": 4,
+      "title": "Pocket Trainer",
+      "text": "Great app and functionality creating what you like to develop and build for workouts. Family sharing feature is great. Many modes to work with including AI.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-06T06:39:37-07:00",
+      "rating": 5,
+      "title": "amazing app",
+      "text": "love it",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-05T06:26:36-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "It helps me keep my workout plan organized and allows me to switch up exercises based on which machines are available at the time, and the exercises are very comprehensive and cater to all tastes and styles.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-05T05:05:27-07:00",
+      "rating": 5,
+      "title": "Works for me",
+      "text": "Ive tried several apps for working out.  Im getting good results from this one.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-04T14:18:33-07:00",
+      "rating": 4,
+      "title": "Great App",
+      "text": "Great app, I would like to see trends on here for lifting weights overtime. Otherwise fantastic app.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-04T04:16:48-07:00",
+      "rating": 5,
+      "title": "Game Changer",
+      "text": "I use my Apple Watch with SmartGym and it is irreplaceable, highly recommended!",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-03T10:41:15-07:00",
+      "rating": 5,
+      "title": "lol",
+      "text": "lol",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-03T06:42:04-07:00",
+      "rating": 5,
+      "title": "Top app",
+      "text": "Very flexible. Great app to customize different work outs, log execution and track trends. Really enjoy using this. Certainly high value for money.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-03T05:21:25-07:00",
+      "rating": 5,
+      "title": "Great program",
+      "text": "I’m a 6 day a week gym rat, with years of experience. After the same routine for years which had worked I downloaded this app and it’s been a big help. It keeps me accountable, sets visible goals and adds to the inventory of exercises I already have. Love it",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-02T19:43:17-07:00",
+      "rating": 5,
+      "title": "Idk I just started",
+      "text": "O g",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-02T15:31:19-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "I’ve been using this to track my workouts for the last six months and it’s really been a great tool for monitoring my progress and tracking my workouts. It’s comprehensive and has every exercise that I either started with or have chosen to add. I’m very pleased with my decision and purchase.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-10-01T04:15:12-07:00",
+      "rating": 1,
+      "title": "Personal training",
+      "text": "Need to have a way to lock out clients when they don't pay for training app /they should not be able to add out there plan",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-29T12:30:19-07:00",
+      "rating": 5,
+      "title": "Les",
+      "text": "Im older, and the SmartGym program has been easy to use.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-28T05:41:35-07:00",
+      "rating": 5,
+      "title": "Great Workout App",
+      "text": "Does all the things, and does them well.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-28T03:27:43-07:00",
+      "rating": 5,
+      "title": "Back in to shape",
+      "text": "This app helps me to progress through my workouts & not get bored.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-27T19:59:13-07:00",
+      "rating": 3,
+      "title": "AI routine suggestions, muscle load and progress.",
+      "text": "I only just downloaded the app to get a feel for it versus Fitbod. \n\nIt seems like it has everything Fitbod has at a minimum. \n\nInterested to try it more and hoping my rating increases!",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-27T10:58:27-07:00",
+      "rating": 1,
+      "title": "Typical subscription trash",
+      "text": "Trash",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-27T06:45:56-07:00",
+      "rating": 5,
+      "title": "Really helps keep me on track",
+      "text": "Easy to use and customize!",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-26T15:49:03-07:00",
+      "rating": 1,
+      "title": "Sync sucks",
+      "text": "Good luck syncing the watch app with your iPhone. When I first got this app I synced it with my series 9 Apple watch. It worked. Then I got a newer watch and can’t sync it with my iPhone.  The watch app is all but useless if it can’t sync with the phone app easily and reliably.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-26T13:09:24-07:00",
+      "rating": 5,
+      "title": "Good but",
+      "text": "Needs a spiritual match to go with physical through music",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-26T05:34:58-07:00",
+      "rating": 2,
+      "title": "Workout buddy",
+      "text": "I love the Apple fitness workout buddy. I HATE!!! That this is turned off when I start working out using the SmartGym app!!! Love everything else!!  But this is a dealbreaker for me. Not renewing this app. Guess I’ll go back to GymGoal until you all get with it.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-25T17:09:01-07:00",
+      "rating": 5,
+      "title": "Great app with minor complaints",
+      "text": "Excellent suggestions and responsive to users",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-25T14:36:11-07:00",
+      "rating": 5,
+      "title": "Actually such an amazing app",
+      "text": "This app is so straight forward and easy to use, the yearly fee is definitely worth it, I’ve continued to smash through my lifts and progressively overload due to this app being so good at tracking my lifts. Thank you smart gym gods",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-25T13:50:08-07:00",
+      "rating": 3,
+      "title": "Hard to use your own exercises",
+      "text": "Not user friendly. App wants you to let it program routines for you. Searching for weight training exercises is hard",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-25T02:30:53-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "Gives great suggestions with illustrations of the exercises.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-23T10:52:58-07:00",
+      "rating": 5,
+      "title": "Fantastic app",
+      "text": "Exactly what I needed. Easy to customize for my small selection of weights. I don’t have room for a big setup.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-23T10:00:52-07:00",
+      "rating": 5,
+      "title": "Just a solid app for training or lifting",
+      "text": "Once you get used to the features it’s awesome.  #1 allows you to easily adjust your workout. # 2 Full database of lifts, but creating custom lifts is simple allows you to add graphics.  #3 customer support is top notch.  I and probably a few others ask to add some Olympic style training lifts.  And a month later they were in there.  So they listen.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-23T08:43:38-07:00",
+      "rating": 5,
+      "title": "Wonderful",
+      "text": "Really does the trick.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-23T08:24:49-07:00",
+      "rating": 5,
+      "title": "The best trainer !!",
+      "text": "This is the best workout app ever! It’s a real personal trainer",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-23T08:01:48-07:00",
+      "rating": 5,
+      "title": "Theeee top gym app",
+      "text": "Best gym app on the market!!",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-22T22:36:54-07:00",
+      "rating": 5,
+      "title": "Dating",
+      "text": "My ex broke up with me and i’m trying to, get, a, new, body.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-22T03:14:47-07:00",
+      "rating": 5,
+      "title": "Súper recomendable",
+      "text": "La mejor app para llevar y hacer tus ejercicios",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-21T07:03:14-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Motivational words for the day, creates new workouts or use your own, add equipment. It’s easy to use doesn’t matter if you’ve never worked out or a trainer. I’ve used the app for about 4 years and took a year off. You can go back years to see old workouts. I recommend to others",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-19T10:02:53-07:00",
+      "rating": 5,
+      "title": "New update fixes everything",
+      "text": "The update corrected everything I was having issues with plus the implementation of Liquid Glass is beautiful. Can’t wait to see how this looks on my Duo in October. \nNow just add some more exercises.",
+      "version": "8.0.2"
+    },
+    {
+      "date": "2026-09-17T16:51:50-07:00",
+      "rating": 4,
+      "title": "Really good",
+      "text": "Smartgym make it easy to log in and get started and is on it so you can stay on your grind",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-17T09:09:37-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Great app and worth the subscription. Having these workouts put together helps me hold myself accountable and go to the gym with a plan.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-17T06:05:24-07:00",
+      "rating": 5,
+      "title": "It is a good app for the people who want to work out.",
+      "text": "It is very easy to login and get started \n\nIt is a good app for the people who want to work out.",
+      "version": "8.0.3"
+    },
+    {
+      "date": "2026-09-16T02:38:23-07:00",
+      "rating": 5,
+      "title": "Great training tool",
+      "text": "The SmartGym app has been my go-to for my fitness goals. The training is customizable and as effective as you allow it to be. I’ve been using it for a few years and found it beneficial. However, you need to have a level of self discipline to attain results.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-15T17:48:55-07:00",
+      "rating": 2,
+      "title": "No Light Mode",
+      "text": "A workout tracking app that forces dark mode violates apples HIG and should not have won a design award.",
+      "version": "8.0.2"
+    },
+    {
+      "date": "2026-09-15T14:10:02-07:00",
+      "rating": 1,
+      "title": "I’d never pay a subscription or cost for this",
+      "text": "There’s no way anybody should subscribe and pay monthly for this. Never",
+      "version": "8.0.2"
+    },
+    {
+      "date": "2026-09-15T13:16:11-07:00",
+      "rating": 3,
+      "title": "Smart Intelligence",
+      "text": "Too many “SmartGym Intelligence unavailable” error messages",
+      "version": "8.0.2"
+    },
+    {
+      "date": "2026-09-15T08:21:14-07:00",
+      "rating": 1,
+      "title": "Gratis.",
+      "text": "Para todo hay que pagar lo mejor. Lo gratis siempre ofrecen migajas",
+      "version": "8.0.2"
+    },
+    {
+      "date": "2026-09-14T13:05:41-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "One of my only paid applications. I love it",
+      "version": "8.0.1"
+    },
+    {
+      "date": "2026-09-11T16:20:51-07:00",
+      "rating": 5,
+      "title": "Sweet app",
+      "text": "Love tracking my workouts here. Can finally see my progress in one place and be organized with my lifts. I love it!",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-09T14:33:53-07:00",
+      "rating": 5,
+      "title": "AI Workout",
+      "text": "Excellent- has nice variety of workouts and shows examples of the particular exercise—- great for home or gym",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-08T14:22:03-07:00",
+      "rating": 1,
+      "title": "Nope",
+      "text": "I don’t know how people have been using this for any length of time. It shuts down between sets daily since the trial finished. Yes you can start a new set that’s not tracked in your metrics.  Support asks me the same questions until now my replies are undeliverable as spam. There are no physical limitations taken into consideration so most exercises had to be substituted in routines. Save you money and buy a stop watch.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-07T04:15:28-07:00",
+      "rating": 1,
+      "title": "Always glitching",
+      "text": "Never connects to Apple Watch and is beyond buggy",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-06T21:34:23-07:00",
+      "rating": 5,
+      "title": "Standalone Watch App",
+      "text": "Really love using this app with my Watch only.  I replaced a phone app I have used for two years. Can edit sets, reps, and weights on the fly.  I use custom routines I put together on a daily basis.\n\nWould really like yoga poses included in the exercises inventory.\n\nI recommend this app for anyone tracking overall fitness for home and gym.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-04T14:15:55-07:00",
+      "rating": 1,
+      "title": "Deletes your data",
+      "text": "My data is gone 60 days after my subscription expires even though you could easily store that locally on my phone? Glad I switched to Hevy",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-03T11:45:11-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Been using this for years",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-09-03T00:54:00-07:00",
+      "rating": 5,
+      "title": "Very good app",
+      "text": "Only criticism is I can’t see total workout time on my Apple Watch (unless I’m missing something), I have to check the phone. It’s a small thing but it being added somewhere on the watch app would be appreciated so I could see it at a quick glance. That being said, the app is pretty much perfect for me other than that!",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-31T05:31:47-07:00",
+      "rating": 3,
+      "title": "Easy to use",
+      "text": "The app is super intuitive and I love that it can be used with Apple Watch. The one thing I totally dislike is that workouts are super limited and a lot of what I do, I have to manually enter them, creating my own exercises. Simple things such as Platz squats or landmine rows are not pre-loaded into the app.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-29T06:29:15-07:00",
+      "rating": 5,
+      "title": "Newbie",
+      "text": "I have only been using the app for a week. So far I am enjoying the workouts and really like that I can customize to my needs.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-25T17:27:18-07:00",
+      "rating": 2,
+      "title": "It doesn’t always sync with MyFitnessPal",
+      "text": "I really like the Strong app because it sinks directly with MyFitnessPal every time for some reason the smart Jim only does it sometimes and it’s very annoying. I like to track my calories burned against my intake output.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-22T07:15:13-07:00",
+      "rating": 5,
+      "title": "Perfect for me",
+      "text": "I like that you can tailor it to your needs and equipment.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-20T15:37:50-07:00",
+      "rating": 5,
+      "title": "Great workout app",
+      "text": "I have been using it a little bit over a year. It’s simple to use and really user friendly. I am no personal trainer nor a gym rat, i am just an average person at the gym and this app has helped me lose 42 pounds. \n\nOne thing I would like to see as a feature would be to allow users to add their training goals and have the app create a training program based on that. For example if preparing for a marathon, spartan race or some sort of PT Test. \n\nAI chats do that nowadays and I could just copy and paste it to the app to keep track of the performance, but then it loses the reason for having the app.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-19T09:46:11-07:00",
+      "rating": 3,
+      "title": "Issues with calorie count and heart rate.",
+      "text": "During my workouts the heart rate and caloric burn displayed isn’t accurate. I’ve made sure my watch is tightly secured to my wrist and I’m still having constant issues with both.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-18T08:40:46-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Amazing app.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-17T04:40:20-07:00",
+      "rating": 4,
+      "title": "One of the best",
+      "text": "This app is a great tool for someone who has a good foundation of weight training. I like the progression over time that is recommends so that I can keep pushing myself.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-15T18:17:06-07:00",
+      "rating": 5,
+      "title": "Kim",
+      "text": "Kim",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-13T05:41:03-07:00",
+      "rating": 5,
+      "title": "Best Fitness App on the market",
+      "text": "What more can I say? This app perfectly lets you not only track your workout, but set up a timer for rest periods between sets and it’s all done on a very clean interface.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-12T04:20:35-07:00",
+      "rating": 5,
+      "title": "Amazing we’ll recommended",
+      "text": "The best app ever if you pay the annual membership more amazing I has been using for 3 years. Best of the best I love it.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-11T05:08:36-07:00",
+      "rating": 5,
+      "title": "Works well",
+      "text": "So far, I it a lot easier that using a book.  Speeds up my pace so I can get an extra exercise in each morning.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-10T03:55:38-07:00",
+      "rating": 5,
+      "title": "Thanks",
+      "text": "Helped me to design effective workouts. Due to effective workouts, I’ve lost 40 pounds",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-09T20:24:51-07:00",
+      "rating": 5,
+      "title": "Amazing program",
+      "text": "Helps me mix exercises like a pro!",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-09T17:29:44-07:00",
+      "rating": 5,
+      "title": "Cruz Sun",
+      "text": "Haven’t done anything so far but make it less limited please",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-08T06:01:18-07:00",
+      "rating": 5,
+      "title": "Works Well",
+      "text": "Good app. I am able to pre-program gym routines before I get to gym, and it tracks your progress both per workout and progression over time. Being able to log workouts from Apple Watch is nice as well. I was able to add custom exercises as well. Future request to developer….. maybe the ability to link custom exercises to video content (I.e. YouTube, etc.) to reference proper exercise techniques.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-03T10:12:05-07:00",
+      "rating": 2,
+      "title": "I’m sure that it is a great app…",
+      "text": "…once you learn how to use it.  To me, personally, it’s just not user friendly to me.  Maybe it’s me but I cannot figure out where to log everything.  I log it in one place the rest timer timer doesn’t start, I push a button (which one I don’t know?) and another place to log pops up and then, when I think I”m finished, I press the forward error, it doesn’t go to the next exercise and asks me if I want to save changes permanently.  I don’t know.  Then, at the end of the workout, instead of showing all six exercises that I started with, it showed two. It’s just not easy unless you memorize the “owners manual” before using.  I prefer not to have to stop my routine after every exercise to figure out how to log my sets/reps.  Might as well get out the notebook that I use to use in the early 90’s.  It’s faster…",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-08-01T08:54:33-07:00",
+      "rating": 5,
+      "title": "Fantastic app for workouts",
+      "text": "Amazing Apple Watch integration",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-30T17:23:54-07:00",
+      "rating": 4,
+      "title": "April 2025",
+      "text": "SmartGym has helped to guide me in my pursuit to become healthier!\nEasy to create and customize workouts to fit where I’m currently at, from beginner to intermediate stage!\nPersonal trainer without the human judgement!\n68 byears old and keep moving forward",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-30T11:02:38-07:00",
+      "rating": 5,
+      "title": "Best app on the market",
+      "text": "10/10 wouldn’t change a thing",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-27T15:56:08-07:00",
+      "rating": 5,
+      "title": "The best pound per pound!!!",
+      "text": "I have been testing for a month all the applications of this type that offered a version for the Apple Watch. And I think this is the best in all aspects, especially when you use it on the Apple Watch (I also think it's the only one that has support for the Apple Watch Ultra action button) It is also worth mentioning that the last application I tried was FitBod, which is excellent but its version for Apple Watch leaves a lot to be desired and its subscription is twenty dollars more expensive. And finally, this app should be in the top 1.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-27T14:46:49-07:00",
+      "rating": 1,
+      "title": "F",
+      "text": "Not free 🇦🇷",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-27T09:31:28-07:00",
+      "rating": 5,
+      "title": "Probably the best watch app I use",
+      "text": "This app is ridiculously robust and after a small learning curve very intuitive and reliable. Been using it for years and I wouldn’t want to do strength training without it. It’s probably great on the iPhone too but I leave it at home and just use my watch.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-27T09:15:50-07:00",
+      "rating": 4,
+      "title": "Good app- does what it says",
+      "text": "Use it daily. Keeps me on track",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-27T02:50:29-07:00",
+      "rating": 4,
+      "title": "One of the best",
+      "text": "Great for planning workouts; would be five stars if logging was better. Just got an update, looking to see if it’s better.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-26T22:20:03-07:00",
+      "rating": 5,
+      "title": "Love it.",
+      "text": "I’ve only been using the app for about 10 weeks, but I’ve lost some weight, I feel good, and I don’t have to drag myself around at work.  I will continue to use this app.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-25T13:42:33-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Makes keeping track of your workouts/progress super easy. Can easily edit reps, weight, and exercise in app.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-24T20:02:45-07:00",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Best workout app. The AI generated workouts are amazing!",
+      "version": "7.10.3"
+    },
+    {
+      "date": "2026-07-23T21:09:06-07:00",
+      "rating": 3,
+      "title": "It’s alright",
+      "text": "Overall okay. I love how many exercise options there are and the explanations included with them. The app itself looks nice and the highlighting of what muscle you’re working out is extremely useful. I just think the actual UI is a little confusing and that’s definitely a deal breaker for me. Not sure if the free version is worth it also.",
+      "version": "7.11.2"
+    },
+    {
+      "date": "2026-07-23T15:59:24-07:00",
+      "rating": 5,
+      "title": "Easy to use and great recommendations",
+      "text": "I always have a plan when I get to the gym.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-23T09:00:02-07:00",
+      "rating": 5,
+      "title": "Must have",
+      "text": "Just Ideal for training routines",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-23T07:09:39-07:00",
+      "rating": 5,
+      "title": "Helpfulness",
+      "text": "Use 5 days a week with four other workout buddy",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-21T18:02:04-07:00",
+      "rating": 5,
+      "title": "Great results, easy to use.",
+      "text": "Very good app. It took me a little time to understand some of the exercises, but once I learned them, the app was easy to use and the results have been great. I would only recommend adding clearer explanations for compound and isolation exercises. Overall, I highly recommend it…",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-21T16:20:10-07:00",
+      "rating": 5,
+      "title": "Good Gym App",
+      "text": "This app helps me keep track of my workouts, calories burned, and measurements. The next best thing to having a personal trainer. I just have to keep myself motivated and consistent, but I love the records it keeps. I have even added exercises with pictures that weren’t listed in the app.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-21T13:11:21-07:00",
+      "rating": 5,
+      "title": "60+ year olds: best workout app",
+      "text": "For us older guys, this is the best app I’ve used for customizing workouts and having “someone else” time our rests between sets. Excellent app. Great ROI.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-21T05:53:54-07:00",
+      "rating": 5,
+      "title": "Wow!",
+      "text": "This is really a robust app. So many things you can do with it. I started with the free version, and then bought the upgrade. Totally worth it!",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-20T10:27:23-07:00",
+      "rating": 5,
+      "title": "Easy to use and making a difference.",
+      "text": "I’m a huge fan!  I’ve mostly been working out on my own.   I’ve had a personal trainer a few times personal trainers get a little bit expensive so I use the SmartGym and AI capability to help me balance my workout throughout the week and also suggest different machines and different exercises that I’ve never would’ve thought of on my own.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-20T05:50:19-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Makes it super easy to know what exercises to do without thinking too much and a way to rotate exercises periodically",
+      "version": "7.10.3"
+    },
+    {
+      "date": "2026-07-15T20:28:24-07:00",
+      "rating": 4,
+      "title": "tiers",
+      "text": "great workout app, my go-to companion for recording measurements and learning new movements + progressive overload.. however, i’m paying for it and my tier doesn’t allow certain features unless i triple upgrade, if i’m paying for it i should have access to all features in my opinion..multiple paywalls is excessive and unnecessary.",
+      "version": "7.10.3"
+    },
+    {
+      "date": "2026-07-14T22:38:08-07:00",
+      "rating": 5,
+      "title": "I live this app",
+      "text": "This app makes it so easy to follow routines but I personally love building my own. It gives you a list off hundreds of exercises and give you full descriptions of how to do it and what muscles you are using. I also love that it keeps track of my progress and lets me know what I need to do to improve.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-11T21:29:19-07:00",
+      "rating": 5,
+      "title": "Smartest choice so far",
+      "text": "I am a 54 year old strapping male. Well maybe “strapping” isn’t the best word choice yet, but I am definitely on my way with the SmartFit App. Keeps me motivated because like golf, only myself and the app know the real score. The autonomy of being able to work out when, where, and with what you have access to makes all the difference. Averaging 3 workouts a week since Sept of ‘25!",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-10T17:04:44-07:00",
+      "rating": 5,
+      "title": "OCD?",
+      "text": "I love measuring progress… and failures. How else do you know if you’re successful or not?  KPIs in business?  Absolutely.  That’s how I successfully built my company. In this app: How many workouts this month?  How much did I lift; how many days did I work out?  Yep.  Track it; refine it; see and measure the progress.  The ability to use AI to build routines.  Absolutely.\n\nLove this app.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-09T15:06:17-07:00",
+      "rating": 1,
+      "title": "Not intuitive",
+      "text": "This app has no consistency.  For starter, it’s confusing to start an exercise.  Is it start from the group set or the start button?  If u press the start button, it doesn’t start anything if you’re not looking at a set.   That begs the question what is the Start Exercise button for?  Then each exercise has a different way to start a “rest” time.   Some start automatically and some require the users to initiate.   Why is there a “log set a next exercise”  option when you just finished the first set?  I just wanna exercise and don’t want to fiddling on the app too much.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-08T07:51:51-07:00",
+      "rating": 4,
+      "title": "Good app",
+      "text": "I like how the app creates a workout for me that includes all the timers and exercise instructions. It is very comprehensive.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-08T07:07:00-07:00",
+      "rating": 5,
+      "title": "Work outs",
+      "text": "Great work outs that I can do at home or gym . Super easy . Great thing that you can change the days to what days you are available 🩷",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-05T20:09:23-07:00",
+      "rating": 3,
+      "title": "Amazing app",
+      "text": "If I did not have to pay this would be a 5 star app this app is amazing",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-05T10:19:00-07:00",
+      "rating": 5,
+      "title": "Great app to stay on track",
+      "text": "SmartGym has been a tremendous asset in keeping me focused and on track in the gym. Instead of wandering around the gym and doing random workouts, I now have set routines that update as I progress in weight, reps and routines. Saving 💰in training sessions.",
+      "version": "7.10.2"
+    },
+    {
+      "date": "2026-07-03T11:43:33-07:00",
+      "rating": 5,
+      "title": "Workout",
+      "text": "Great system",
+      "version": "7.10.2"
+    }
+  ]
+}

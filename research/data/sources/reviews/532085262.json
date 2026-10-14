@@ -1,0 +1,357 @@
+{
+  "app": "TheGrint: Golf Handicap",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T21:56:08-07:00",
+      "rating": 3,
+      "title": "App Crashing",
+      "text": "It usually works great and love it, but as of late, it has been crashing. Is this a bug issue? I have iOS 26.6.2 installed on my iPhone.",
+      "version": "v19.0.22 Susanoo"
+    },
+    {
+      "date": "2026-10-06T15:31:09-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Love this GPS App.  Scorekeeping couldn’t be easier.  Automatically submits your scores to GHIN and even emails you a scorecard.  It can track putts, drives approaches, etc. GPS is accurate.  No advertisements.",
+      "version": "v19.0.22 Susanoo"
+    },
+    {
+      "date": "2026-10-04T13:55:44-07:00",
+      "rating": 1,
+      "title": "Constantly crashes",
+      "text": "Used to use this app. It was great. Then started crashing after about 50 seconds. Reached out several times to them over about a month. Still not fixed and now they’ve gone quiet. They tell me to update the app but it still has the same issues. Disappointed.",
+      "version": "v19.0.22 Susanoo"
+    },
+    {
+      "date": "2026-10-01T15:09:10-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "Great for Basic scoring, GPS tracking and Distance to green.  Thanks to all who developed this!",
+      "version": "v19.0.21 Susanoo"
+    },
+    {
+      "date": "2026-09-28T07:12:28-07:00",
+      "rating": 3,
+      "title": "Fake Accounts",
+      "text": "The golf functions of the app are great.  Its nice to have scoring, stats, and gps all in one application for casual rounds of golf.  \nUnfortunately, the social side of the app is getting out of hand.  People are making fake accounts and are setting up phishing campaigns.  Hopefully the developers have protocols in place to find and delete the fake accounts.",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-26T06:41:33-07:00",
+      "rating": 4,
+      "title": "Very cool but slow",
+      "text": "I love the app and find it very useful and user friendly. I think my only complaint or restoration is that it takes a while for scores to show up when following a round. I find that I have to refresh the feed repeatedly together the score. I know that it may be slow to upload depending on signal that the player has on the course but seems like a repeated refresh breaks the log jam.",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-23T14:56:31-07:00",
+      "rating": 4,
+      "title": "Crashing",
+      "text": "Great app- I have been using it for years, but this last week it was constantly crashing (every hole needs to be restarted). The same thing was happening to the other users in our group. Please fix it so I can use it reliably this weekend!",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-19T09:41:02-07:00",
+      "rating": 5,
+      "title": "Great help",
+      "text": "Connection with my friends and helpful tracking",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-18T10:10:37-07:00",
+      "rating": 5,
+      "title": "Automatic Upload",
+      "text": "The Grint is a great golf scoring and analysis tool! It tracks GIR, fairways, and putts.  I only wish the location of my drive, left, long, right and short were considered in the fairway.  I prefer to know if my drive is in the fairway and still left, long, right, or short.   Otherwise the app is terrific.",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-17T14:37:37-07:00",
+      "rating": 1,
+      "title": "Was great",
+      "text": "Since the latest updates, it won’t stay open and returns to the gps authorization page. Very annoying.",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-16T11:43:38-07:00",
+      "rating": 1,
+      "title": "Never will pair with my watch anymore.",
+      "text": "Running iOS27 on both my iPhone 15 Pro Max and Apple Watch SE 3. The app works great on the phone l, but on the watch it never pairs. It just sits at the screen that says “check phone”. It has done this since before iOS 26.4.1",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-15T11:31:30-07:00",
+      "rating": 5,
+      "title": "Best Golf App out there!!!",
+      "text": "TheGrint is so much more than just a golf app. Not only do you get one of the best GPS, scoring, handicap, and social golf experiences out there, but they also offer amateur golf tours in major cities across the country.\n\nThe tours are an absolute blast—a great mix of fun and competition with like-minded golfers who want to improve their game, compete, and meet other people who love golf. Whether you’re just looking for a great golf app or want to take your game into a competitive setting, TheGrint has something for you. Highly recommend!",
+      "version": "v19.0.20 Ra"
+    },
+    {
+      "date": "2026-09-14T08:20:34-07:00",
+      "rating": 5,
+      "title": "Great to use and to track your stats!",
+      "text": "I’ve been using the Grint app for a lot of years now.  It’s easy to use on the course. It gives you great information in its GPS.  And you can track your stats for all the important data you want to know from club distances, fairways hit, and putting numbers and distances.  I highly recommend it!",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-13T20:30:52-07:00",
+      "rating": 3,
+      "title": "Good, at times",
+      "text": "I really want to love this app. The interface is my favorite out of most apps, but it is not reliable. Notably the Apple Watch app every other round either just doesn’t work or has a long delay before ranges update. Shot tracking feels like every other button press does not register or work. Unless they can fix it I’ll let my subscription lapse and move on.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-12T14:33:08-07:00",
+      "rating": 1,
+      "title": "Horrible app",
+      "text": "Terrible interface and the gps is constantly wrong",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-09T17:13:37-07:00",
+      "rating": 3,
+      "title": "Glitching out",
+      "text": "app has been glitching out on me for weeks now after i am a couple holes into my pre-round hole observations",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-08T20:21:01-07:00",
+      "rating": 5,
+      "title": "Best Golf App … By Far",
+      "text": "I’ve used this app since 2017. I’ve tried others but this is by far the absolute best. The GPS, shot tracking, and the history of stats and “trophies” make the data useful and fun. \nFollowing all my friends golf rounds also is great. \nIt also is just the best looking app and has the cleanest interface. Get this one",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-08T10:08:11-07:00",
+      "rating": 5,
+      "title": "Best golf app",
+      "text": "This is absolutely the best golf app I've used. I've tried them all. I've referred multiple friends to this app and I would refer it over and over and over again if you're an avid golfer, this is the app for you.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-06T15:01:42-07:00",
+      "rating": 5,
+      "title": "Best app on the Market",
+      "text": "Easy to use and helps with your game",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-03T07:20:32-07:00",
+      "rating": 3,
+      "title": "I use it but…",
+      "text": "I’ve used the Grint for about five years. I have the pro version. Recently, I thought I would take a look at the information stored, run it through an AI and get some help with my game. It turns out you can’t get any of the information you record. all that data From the course scores and shot did you enter is not available. And the tools that Grint has to analyze the data are very specific and limited. I feel like for the pro version, It should be simple to download the data.  So I like the Grint for ease of use (yardage, score input, etc) and automatic score input to GHIN. But to actually use all that data that you capture I’m not sure what the advantage is. I feel like I’ve wasted my time inputting all that data at this point.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-01T09:39:08-07:00",
+      "rating": 5,
+      "title": "Awesome scorecard and shot tracker",
+      "text": "A guy in the Golf Course told me about this app and decided to check it out, Man am I glad I took them up on that. What a great app this is the free version is useful and very helpful and the paid version is even better depending on what you want out of the app. I personally use it for distances on approach shots and score tracking.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-09-01T08:10:36-07:00",
+      "rating": 3,
+      "title": "Connectivity issues between I-watch and phone",
+      "text": "Overall been using this app for two years. So have the majority of my friends that I play with. The biggest issue we all experience is when the watch won’t connect to the phone… and or will not move to the next hole on its own after inputting score. Small bugs like that can kind of drive you crazy. Pretty annoying. If there was another app that had the same social aspects with no issues I would\nPurchase it.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-08-31T14:53:02-07:00",
+      "rating": 4,
+      "title": "Need auto score",
+      "text": "The app is good, the only down fall is even though i am tracking my shots, i still have to manually in put my final strokes for the hole.",
+      "version": "v19.0.19 Quetzalcoatl"
+    },
+    {
+      "date": "2026-08-29T07:59:17-07:00",
+      "rating": 1,
+      "title": "Buggy",
+      "text": "Lost all round stats because playing partner didn’t have grint. So when trying to save the round I received the error “can’t post round if “has” 8 empty holes “. Waste of time glad I didn’t purchase subscription.",
+      "version": "v19.0.18 Quetzalcoatl"
+    },
+    {
+      "date": "2026-08-28T12:34:41-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I use the Grint 2-3 times a week, so do my friends and golf partners. Uploads my score to GHIN without fail. Allows my group to follow each other’s scores and trash talk when appropriate. \nHighly recommend.",
+      "version": "v19.0.18 Quetzalcoatl"
+    },
+    {
+      "date": "2026-08-27T08:51:10-07:00",
+      "rating": 3,
+      "title": "App Crash",
+      "text": "Can we please look into the app crashing? Trying to add friends or perform anything other than scoring isn’t working properly. It’s a great app, but these issues are making it difficult to use. Hopefully we can get an update out as soon as possible.",
+      "version": "v19.0.17 Pegasus"
+    },
+    {
+      "date": "2026-08-26T14:00:00-07:00",
+      "rating": 4,
+      "title": "Freezes",
+      "text": "Great app, but freezes when trying to add new golfers",
+      "version": "v19.0.17 Pegasus"
+    },
+    {
+      "date": "2026-08-24T19:50:39-07:00",
+      "rating": 4,
+      "title": "Grint Crashes",
+      "text": "My Grint app keeps crashing everytime I click on someone's profile picture, Click on comment button under the scorecard, or just trying to click my own profile. I have tried uninstalling and reinstalling multiple times. Updated my iphone to latest SW as well but nothing seems to work.\n\nI tried logging on my computer and it is working fine. Not sure what is happening as this started happening a couple of days back.",
+      "version": "v19.0.16 Pegasus"
+    },
+    {
+      "date": "2026-08-14T14:04:19-07:00",
+      "rating": 5,
+      "title": "TheGrint is Great",
+      "text": "I started using TheGrint it has a great UI to track your score and advanced stats like puts, etc. It has a GPS feature that provides distance to the pin as well as the ability to manually measure distances on each hold. Once I record my round it automatically loads it up to GHIN for my handicap. This is a top app.",
+      "version": "v19.0.15 Pegasus"
+    },
+    {
+      "date": "2026-08-11T19:02:01-07:00",
+      "rating": 5,
+      "title": "Ideal for game improvement",
+      "text": "If you believe in practicing, on or off the course. This details and stats this app provides if you input the corrects stats during a round is amazing.",
+      "version": "v19.0.15 Pegasus"
+    },
+    {
+      "date": "2026-08-04T12:26:09-07:00",
+      "rating": 5,
+      "title": "Johnny",
+      "text": "Excelente",
+      "version": "v19.0.14 Odin"
+    },
+    {
+      "date": "2026-08-01T14:13:23-07:00",
+      "rating": 5,
+      "title": "Ez Puttz",
+      "text": "This app is awesome!",
+      "version": "v19.0.14 Odin"
+    },
+    {
+      "date": "2026-08-01T10:38:17-07:00",
+      "rating": 1,
+      "title": "Worst update ever",
+      "text": "Don’t pay to upgrade. Get another app. Wish I can give negative stars. \n\nWhatever they have done in some of the latest updates is so bad. Have talked to support. I have been patient for updates.  But despite updating latest version it’s a mess.  Got so frustrated today while playing a round it actually impacted my game since I was annoyed and distracted and had the worst round in 3 weeks. \n\n- GPS feature keeps crashing the app within a minute. \n- won’t work with Apple Watch anymore properly. It used to be just fine. It just ignores the score on Apple Watch and doesn’t record.  Won’t advance to the next hole either after I enter the score. \n- doesn’t load my clubs. So I can’t track distances. It loads all generic clubs including hybrids and clubs I don’t even own. \n\nThese are just the issues I have noticed so far. Today I ended up using free version of 18Birdies that was fine - even worked with Apple Watch. I used to be a long time\nGolfLogix user and switched to Grint last year as my friends are on it. Bad mistake !!",
+      "version": "v19.0.14 Odin"
+    },
+    {
+      "date": "2026-07-27T17:00:21-07:00",
+      "rating": 5,
+      "title": "Accurate and link to GHIN",
+      "text": "I really like The Grint: it is easy to use on the course and enables you to capture stats. The link to GHIN really helps keep my handicap accurate.",
+      "version": "v19.0.13 Neptuno"
+    },
+    {
+      "date": "2026-07-26T18:06:53-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I really like this app a lot it’s got a ton of features that I really like. It been very handy when looking at yardages and slopes of the green to know where you can miss. It’s also great that you can pull up courses before playing them. There are some features that I don’t use that are just not relevant to my game. I did give this app 5 stars which it deserves, but there are some features that I wish it did have. Maybe in the future we will see it maybe not. But will continue using this app.",
+      "version": "v19.0.13 Neptuno"
+    },
+    {
+      "date": "2026-07-26T10:07:30-07:00",
+      "rating": 1,
+      "title": "Won’t give live scores",
+      "text": "I can’t see my friends live scores",
+      "version": "v19.0.13 Neptuno"
+    },
+    {
+      "date": "2026-07-22T03:42:50-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "The app is very helpful and easy to use.",
+      "version": "v19.0.13 Neptuno"
+    },
+    {
+      "date": "2026-07-21T17:53:37-07:00",
+      "rating": 3,
+      "title": "GPS issues",
+      "text": "The GPS is spotty. Other than that a decent app!",
+      "version": "v19.0.13 Neptuno"
+    },
+    {
+      "date": "2026-07-13T06:07:33-07:00",
+      "rating": 5,
+      "title": "Sign Up",
+      "text": "Easy to use and I love the confidence of keeping score, playing against others, and having my GHIN all in the same place. The on course features with aerial  views and green maps and a big help!",
+      "version": "v19.0.10 Messi"
+    },
+    {
+      "date": "2026-07-12T09:46:18-07:00",
+      "rating": 5,
+      "title": "Best App for Golf!",
+      "text": "Keeps Track of Everything Golf",
+      "version": "v19.0.10 Messi"
+    },
+    {
+      "date": "2026-07-09T03:59:27-07:00",
+      "rating": 1,
+      "title": "Where are my completed rounds?",
+      "text": "I played a 9 hole course and tried to review the score card the following day.  Found that I was not able to locate any previously completed rounds.",
+      "version": "v19.0.10 Messi"
+    },
+    {
+      "date": "2026-06-28T07:43:59-07:00",
+      "rating": 5,
+      "title": "Great golf app",
+      "text": "This app does everything you need to really take your game to the next level.",
+      "version": "v19.0.8 Leprechaun"
+    },
+    {
+      "date": "2026-06-27T18:55:05-07:00",
+      "rating": 5,
+      "title": "My Favorite Golf App",
+      "text": "I’ve used several apps. I wanted one that didn’t have a dedicated watch. Some don’t work well on the Apple Watch. Some don’t sync correctly. Some are too complicated to use on the course quickly. Some don’t have enough data. \n\nThe Grint is the perfect balance. Works great. Captures good data and gives good insights without being too complicated.   And works great and intuitively on the Apple Watch.",
+      "version": "v19.0.8 Leprechaun"
+    },
+    {
+      "date": "2026-06-26T07:42:08-07:00",
+      "rating": 2,
+      "title": "GPS issues",
+      "text": "Can never truly see where I am. GPS shows me miles away from where I really am. Very frustrating",
+      "version": "v19.0.8 Leprechaun"
+    },
+    {
+      "date": "2026-06-26T07:16:06-07:00",
+      "rating": 5,
+      "title": "Great add on app for golfers",
+      "text": "Getting back into golf, TheGrint app has motivated me to be a better overall player, and hold more accountability for myself when playing. The app has a few things that get constantly updated and better but the best thing is the customer service. I had some questions and they answer me with the right answers very shortly afterwards. Thank you!",
+      "version": "v19.0.8 Leprechaun"
+    },
+    {
+      "date": "2026-06-25T09:07:34-07:00",
+      "rating": 1,
+      "title": "Horrid programming",
+      "text": "I don’t even have time to list the issues I have with this app relative to glitches, but I’ll list a few. Automatically starts rounds at the wrong course. At the BEGINNING of rounds, the app automatically fills all 18 holes with a score that cannot be deleted and renders the app useless for that day. Better luck tomorrow. My friends and I started using this app in 2023, and now are pigeon holed into using it in perpetuity because changing to a better functioning app would outweigh the inconvenience of sticking with this app.",
+      "version": "v19.0.8 Leprechaun"
+    },
+    {
+      "date": "2026-06-22T09:54:06-07:00",
+      "rating": 2,
+      "title": "Not Happy ☹️",
+      "text": "I’m unable to save practice rounds without posting to automatically to the USGA site. When you upload privately the score still goes to the USGA site and has played havoc with my handicap.",
+      "version": "v19.0.7 Leprechaun"
+    },
+    {
+      "date": "2026-06-22T07:27:55-07:00",
+      "rating": 1,
+      "title": "App can’t locate the course you are playing",
+      "text": "It’s happened twice now in Ocala Florida with two different courses,  when I open the app it says I’m at a course 20 or 30 miles away. GPS on my phone is fine and when I open a different Golf app it recognizes instantly which course I’m on , It’s frustrating because  I like the app ,  I’ve written twice customer support. And so far the problem is unresolved.",
+      "version": "v19.0.7 Leprechaun"
+    },
+    {
+      "date": "2026-06-20T12:41:11-07:00",
+      "rating": 4,
+      "title": "Needs Stand alone apple watch support",
+      "text": "It would be nice to be able to start a round on the apple watch completely independent from the iphone app. I’m a long time Grint user but the Tag Heuer app does this currently so i’ll be switching. I leave my phone in my bag and rely solely on my cellular connected ultra apple watch gps during the round. Less distractions and it is almost like having a Garmin S70. It would be nice if I could get a similar experience on Grint because I like the features compared to Tag Heuer but the Tag app is more minimalist and less distracting during the round .",
+      "version": "v19.0.7 Leprechaun"
+    },
+    {
+      "date": "2026-06-17T16:30:07-07:00",
+      "rating": 1,
+      "title": "New updated app",
+      "text": "I’m not a fan of the new updated app.  Can’t find a way to delete a course from my “Top 5 Courses” … one that I haven’t played.  Frustrating.",
+      "version": "v19.0.6 Leprechaun"
+    }
+  ]
+}

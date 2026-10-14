@@ -1,0 +1,1407 @@
+{
+  "app": "Muscle Monster Workout Planner",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-10T08:31:14-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Muy buena aplicación!!! La recomiendo 100%",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-10T03:30:03-07:00",
+      "rating": 5,
+      "title": "Start",
+      "text": "This app is awesome get it",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-09T23:08:44-07:00",
+      "rating": 2,
+      "title": "Not impressed",
+      "text": "I’ve entered my preferences multiple times for the equipment I have available! But at least every other day I get workout on my schedule to use things I don’t have! Very frustrated with the app and will be canceling for sure",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-09T14:19:09-07:00",
+      "rating": 5,
+      "title": "Arms",
+      "text": "Loved it !",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-09T06:47:52-07:00",
+      "rating": 5,
+      "title": "Mi mejor venció.",
+      "text": "Gracias a ustedes he mejorado mucho el ayer quedó ahí en el recuerdo y cada día se vive con el mejor plan de transformación y convertirnos en alguien que puede demostrar que si se puede y ser inspiración para otras personas que están ahí estancadas recomiendo esta app porque la verdad es buenisima los amo gracias",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-09T06:47:25-07:00",
+      "rating": 5,
+      "title": "It worth it",
+      "text": "Yes!!!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T20:12:08-07:00",
+      "rating": 4,
+      "title": "Haven’t used it",
+      "text": "The app made me review",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T16:06:55-07:00",
+      "rating": 1,
+      "title": "I can’t cancel",
+      "text": "I signed up directly through the website and I’m trying to cancel and I can’t! I’ve emailed them several times with NO response!!!!!’",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T15:46:03-07:00",
+      "rating": 5,
+      "title": "Remy",
+      "text": "Excellent",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T11:56:41-07:00",
+      "rating": 5,
+      "title": "Great experience",
+      "text": "Great experience, getting familiar with my gym and feeling I have a personal trainer",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T08:45:11-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Thank you",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T08:00:45-07:00",
+      "rating": 5,
+      "title": "💪💪💪",
+      "text": "👍👍👍👍",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-08T04:00:26-07:00",
+      "rating": 5,
+      "title": "Day 1",
+      "text": "Easy to follow, not to strenuous for a beginner.  Stretching felt great!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-07T23:52:54-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "Great app, strong workouts",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-07T17:58:54-07:00",
+      "rating": 5,
+      "title": "Muy buena app",
+      "text": "Increíble y facil ee usar",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-07T11:55:30-07:00",
+      "rating": 1,
+      "title": "Terrible and waste of $",
+      "text": "It’s a waste of money. It has these generic videos. Customizing your workouts are a pain. Imagine selecting arms and chest workout and it gives you most leg workouts. I have tried to reach customer service, and while they respond, their replies are generic copy and paste. Wish I could get my money back.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-07T02:42:39-07:00",
+      "rating": 5,
+      "title": "*",
+      "text": "Great App",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-06T13:11:00-07:00",
+      "rating": 5,
+      "title": "Best workout app",
+      "text": "The best working app out there",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-06T12:52:17-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Really love the variety of workouts!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-06T02:22:17-07:00",
+      "rating": 5,
+      "title": "La mejor",
+      "text": "Muy buena",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-05T20:26:44-07:00",
+      "rating": 5,
+      "title": "La mejor aplicación",
+      "text": "Me ayudó al máximo le e sacado mucho provecho",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-05T17:08:19-07:00",
+      "rating": 5,
+      "title": "Excelente aplicación",
+      "text": "Me gustó mucho, los videos tienen mucha calidad.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-05T17:07:46-07:00",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "Love it, helps me draft my workouts",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-05T16:39:33-07:00",
+      "rating": 5,
+      "title": "Looks like a great app!",
+      "text": "Looks like a great app!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-05T04:11:04-07:00",
+      "rating": 4,
+      "title": "Best Reminder",
+      "text": "This app has been on my phone for months. Daily reminders and frequents my timeline. I’m going to follow through and update my rebased on my results.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-04T19:09:25-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Love this app !!! Easy to follow",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-04T18:09:14-07:00",
+      "rating": 5,
+      "title": "Muscle Monster",
+      "text": "Espero sea de mucha habilidad.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-04T15:27:43-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "This app is design specifically to meet your personal goals.  I love it!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-04T13:18:02-07:00",
+      "rating": 5,
+      "title": "Best app I’ve found!",
+      "text": "I’ve tried several and this is not only my favorite for illustration and pacing but by far the most bang for your buck!!!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-04T11:00:05-07:00",
+      "rating": 5,
+      "title": "Love the plan!",
+      "text": "The plan it gave me was on point and easy to do.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-03T14:27:36-07:00",
+      "rating": 5,
+      "title": "Great Workouts",
+      "text": "Muscle monster provides the best workouts out there",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-03T13:31:39-07:00",
+      "rating": 4,
+      "title": "Good but…",
+      "text": "For a beginner, I wish it could tell me what size weights to use.  I found the 10 lbs too heavy do I switched to the 5lb dumbbells.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-03T05:11:22-07:00",
+      "rating": 5,
+      "title": "First workout",
+      "text": "I love the trainer that shows you exactly how to perform the exercise from start to finish. I feel like doing another 12 minute session.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-03T03:18:56-07:00",
+      "rating": 5,
+      "title": "Workout",
+      "text": "Want to get app seems positive and will help me",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-03T01:42:48-07:00",
+      "rating": 5,
+      "title": "congratulations",
+      "text": "this app is perfect",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-02T19:00:43-07:00",
+      "rating": 1,
+      "title": "Warning:  rip off",
+      "text": "Do not purchase.  They will charge you for multiple things you did not agree to and they will deny any attempt to get a refund.  This is a scam app.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T22:03:08-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Excellent",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T20:36:24-07:00",
+      "rating": 5,
+      "title": "A",
+      "text": "5stars",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T19:55:12-07:00",
+      "rating": 4,
+      "title": "Cool W/O App",
+      "text": "So far, so good. No complaints as of yet.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T17:56:56-07:00",
+      "rating": 5,
+      "title": "Process",
+      "text": "Can’t wait!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T14:15:11-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "So far it’s great, no complaints",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T13:46:42-07:00",
+      "rating": 5,
+      "title": "Best workout app",
+      "text": "I absolutely love this app. I like how it shows you exactly what to do and it goes according to each your own level.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T13:06:23-07:00",
+      "rating": 5,
+      "title": "Muscle monster",
+      "text": "Excellent",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T07:50:53-07:00",
+      "rating": 1,
+      "title": "Set up for gym machines. Gives dumbells. Not realistic.",
+      "text": "Tells me I will lose 30 lbs in a month. The entire setup process is useless as it gives barbell exercises when I requested gym machines. Immediately starts marketing books as soon as you begin using it. This is designed to extract money from you, not a legitimate workout app.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T04:56:56-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "The illustrations are great. Perfect for a mix of at home and at the gym workouts.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-10-01T04:10:35-07:00",
+      "rating": 5,
+      "title": "Don’t forget to download this app",
+      "text": "For the fitness gurus and beginners. Excellent app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T19:03:08-07:00",
+      "rating": 5,
+      "title": "Convenient",
+      "text": "This app makes it easy to stick to working out. Easy to follow and allows you to do them when you have time!!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T18:34:16-07:00",
+      "rating": 5,
+      "title": "Just for the premium week",
+      "text": "Great",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T17:02:20-07:00",
+      "rating": 5,
+      "title": "Great workout",
+      "text": "Love it",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T14:45:14-07:00",
+      "rating": 5,
+      "title": "El mejor",
+      "text": "Me gusta",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T09:23:22-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome! Awesome! Excellent! Phenomenally incredible!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T06:15:52-07:00",
+      "rating": 5,
+      "title": "Mike",
+      "text": "I really like this program it makes things easier",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-30T03:33:05-07:00",
+      "rating": 5,
+      "title": "La aplicación está muy fácil de usar",
+      "text": "Muy bueno",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T18:17:54-07:00",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "Yes!!!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T15:04:42-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "This is a great daily fitness guide",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T15:01:25-07:00",
+      "rating": 5,
+      "title": "Muy buena",
+      "text": "Exelente aplicación para hacer ejercicios en casa con o sin elementos . Con tus horarios h tiempo.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T12:52:32-07:00",
+      "rating": 5,
+      "title": "Amazing App",
+      "text": "An excellent tool for training alone—either in the comfort of your home or at the gym without having to move around much.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T09:52:37-07:00",
+      "rating": 5,
+      "title": "Free trail is missing",
+      "text": "App should provide the free trail for 3 days or so to see what’s inside the app. Cannot blindly ask for subscription",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-29T04:14:01-07:00",
+      "rating": 5,
+      "title": "Great plan",
+      "text": "Helpful plan for working out at the gym or home. Wish it had opportunities to pause or workout 3-5 times a week and not every day.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T19:10:08-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "For the price I paid I can’t complain.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T17:56:18-07:00",
+      "rating": 5,
+      "title": "Bueno",
+      "text": "Bien",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T16:14:52-07:00",
+      "rating": 5,
+      "title": "Suzie",
+      "text": "Just started but enjoying the app so far.  I like the short workouts everyday as I can fit it in every morning before I get busy.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T15:53:33-07:00",
+      "rating": 5,
+      "title": "treino 1",
+      "text": "10",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T12:17:18-07:00",
+      "rating": 5,
+      "title": "Newbie’s experience",
+      "text": "I just finished my first day. I found it easy to follow and feel like I actually got something out of it. Not bad for an old lady!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-28T04:03:29-07:00",
+      "rating": 4,
+      "title": "Excelente",
+      "text": "Me gustó que en poco tiempo ejercitó el cuerpo",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-27T20:16:09-07:00",
+      "rating": 5,
+      "title": "Really nice app",
+      "text": "Helped lose fat in 3 month",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-27T18:43:24-07:00",
+      "rating": 5,
+      "title": "Sss",
+      "text": "Complete and easy to follow!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-27T13:05:05-07:00",
+      "rating": 5,
+      "title": "Bueno",
+      "text": "Está app es buenisima",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-27T12:32:50-07:00",
+      "rating": 5,
+      "title": "New user",
+      "text": "Im excited to start this new journey.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-27T07:59:13-07:00",
+      "rating": 5,
+      "title": "Back to needed health",
+      "text": "Love to workout hate to stretch but this helps with discipline",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T15:57:38-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Ajustable a tus necesidades",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T14:35:17-07:00",
+      "rating": 5,
+      "title": "Kelly",
+      "text": "Me encantó",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T14:18:31-07:00",
+      "rating": 5,
+      "title": "I do not know",
+      "text": "Writing areview to get 7 day free of premium",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T12:28:58-07:00",
+      "rating": 5,
+      "title": "A",
+      "text": "A",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T10:03:43-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "I loved this.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-26T00:16:16-07:00",
+      "rating": 5,
+      "title": "Saw this online and decided to check it out",
+      "text": "Awesome!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T21:29:46-07:00",
+      "rating": 5,
+      "title": "Me gusta",
+      "text": "Me gusta las rutinas que pone, creo que me ayudará mucho en saver que hacer",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T19:37:37-07:00",
+      "rating": 1,
+      "title": "Horrible",
+      "text": "Why bother asking me my goals when nothing is aligned to them? This is the WORST app. I spent more time logging and waiting for the sets to end than actually working out. Do not recommend. Absolutely terrible.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T11:47:11-07:00",
+      "rating": 5,
+      "title": "Buena app",
+      "text": "Muy buena app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T09:15:27-07:00",
+      "rating": 1,
+      "title": "Not happy",
+      "text": "The way I read it. It seemed like I could go for the year membership. Cancel anytime be refunded. I didn’t know that I would can cancel anytime but still pay for the year. It’s not a very good app at all. Maybe the e-book will help offset the $50 charge.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T07:57:06-07:00",
+      "rating": 5,
+      "title": "Nuevo usuario",
+      "text": "Tengo altas expectativas en esta app , esperando me ayude a alcanzar mis objetivos",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-25T02:48:30-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Love the demonstrations",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-24T18:27:34-07:00",
+      "rating": 5,
+      "title": "Workout",
+      "text": "I have joined many apps to help me lift weight only to be disappointed quickly. This app is by far the best. These exercises are not complicated at all. Thoroughly explains in vivid detail each step. You don’t need a lot of equipment   Few dumbbells and you are set.   I’m excited everyday to begin my training and health journey.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-24T18:14:33-07:00",
+      "rating": 5,
+      "title": "Genial",
+      "text": "Me gusta esta aplicación",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-24T15:11:24-07:00",
+      "rating": 5,
+      "title": "Tim",
+      "text": "Awesome",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-24T02:09:13-07:00",
+      "rating": 5,
+      "title": "Get the message",
+      "text": "Please make sure to sign up for the reminders! It helps. It’s like having a personal assistant.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T18:37:58-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Excellent",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T14:01:48-07:00",
+      "rating": 5,
+      "title": "High hopes for this app",
+      "text": "I like the onboarding process and I believe it’s a great opportunity for me to get in shape at the comfort of my home.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T07:39:22-07:00",
+      "rating": 5,
+      "title": "Great app to workout at home",
+      "text": "Love this app as it provides a wide range of exercise options. Easy to follow the steps. I feel stronger after each workout. It’s never boring and the price is great",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T06:43:57-07:00",
+      "rating": 5,
+      "title": "Worth a try",
+      "text": "I’m ready for a new me, and this app has me hf way there",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T05:15:16-07:00",
+      "rating": 3,
+      "title": "We don’t have teleportation devices",
+      "text": "It appears to have many good options, though it lacks in fundamental quality of life features. \n\nFirst-\nWhen I downloaded the app, without starting or subscribing, it started automatically recording the days as missed training. \n\nSecond-\nThe moment t I bought a subscription, aside from being “behind in schedule” I was presented with more purchases to make the moment I opened the app. This is still ongoing. \n\nThird- \nBy far the most annoying aspect. It gives me four seconds to move from one position to another and have the weights ready. What in the actual heck?!\nStanding crouches with weights and then lay down for overhead pushes in four seconds?\n\nDo the developers even check the code their AI is pushing out? Because I’ve been to gyms in my life and the devs clearly show they’ve never stepped outside a city that has a gym.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-23T04:05:38-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Great app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T22:15:22-07:00",
+      "rating": 4,
+      "title": "Well built app",
+      "text": "This app has changed my entire life in a very good way💰",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T19:06:25-07:00",
+      "rating": 4,
+      "title": "Good so far",
+      "text": "The app looks well organized and there is a ton of content, but I can’t find a simple list of exercises with illustrations. The unique exercises are fun.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T16:41:27-07:00",
+      "rating": 5,
+      "title": "Fuerza",
+      "text": "La mejor app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T15:19:20-07:00",
+      "rating": 5,
+      "title": "MM",
+      "text": "Great workout planner! The Muscle Monster Workout Planner makes it easy to stay organized, follow a structured routine, and keep track of your workouts. I like that it helps take the guesswork out of training and keeps me motivated to stay consistent.\n\nThe layout is easy to follow, and it’s a great tool for anyone who wants to take their workouts more seriously and make steady progress. Highly recommended!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T06:57:01-07:00",
+      "rating": 5,
+      "title": "Great app!",
+      "text": "I love how personalized this app is bc I’m a beginner and meets me where I’m at.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T05:25:55-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "It keeps reminding me to work out",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T01:46:47-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Sign was great, works nice laid out",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-22T01:26:31-07:00",
+      "rating": 4,
+      "title": "Love",
+      "text": "Great variety",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-21T19:26:09-07:00",
+      "rating": 5,
+      "title": "5pts",
+      "text": "5pts",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-21T19:15:09-07:00",
+      "rating": 5,
+      "title": "Prado",
+      "text": "Good",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-21T19:05:37-07:00",
+      "rating": 5,
+      "title": "Simple to use",
+      "text": "Easy to follow workouts and I feel confident that I’m doing the exercises right.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-21T07:33:52-07:00",
+      "rating": 5,
+      "title": "Great Start to Fitness",
+      "text": "Just getting started and feeling very optimistic with the app layout and training sessions.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-20T20:12:18-07:00",
+      "rating": 5,
+      "title": "The best workout planner!",
+      "text": "Really easy to use and I see a difference",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-20T19:00:38-07:00",
+      "rating": 5,
+      "title": "Calificaciones",
+      "text": "La mejor app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-20T17:02:35-07:00",
+      "rating": 5,
+      "title": "Nice instructions",
+      "text": "As a senior beginner, I’m able to produce my own routine and get the guidance to make the best of my workouts.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-20T09:54:06-07:00",
+      "rating": 5,
+      "title": "5 stars",
+      "text": "Excellent for beginners",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T21:11:16-07:00",
+      "rating": 5,
+      "title": "Muscle Monster",
+      "text": "Planner",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T14:44:58-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Very helpful",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T10:38:39-07:00",
+      "rating": 4,
+      "title": "Will try out",
+      "text": "Will try out and see if it is worth it.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T07:53:49-07:00",
+      "rating": 5,
+      "title": "🙌🏼",
+      "text": "🙌🏼",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T06:35:52-07:00",
+      "rating": 5,
+      "title": "Chest dumbbell",
+      "text": "Tough to complete but worth it",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T04:05:55-07:00",
+      "rating": 5,
+      "title": "La mejor para hacer ejercicio",
+      "text": "Esta aplicación es muy completa y puedes ir poco a poco de acuerdo a tus exigencias y capacidades , también te ayuda a ir desarrollando tu condición física y acercarte poco a poco a tu meta ….. si se puede",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-19T00:07:41-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "This is one of the best workout planner out there.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T12:26:18-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "Me gusta esta app me ha ayudado mucho a entrenar desde mi casa",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T07:53:05-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Me encanta la relación y la energía en mi primer día",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T07:44:59-07:00",
+      "rating": 5,
+      "title": "Me encanta",
+      "text": "La mejor",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T06:39:10-07:00",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Good",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T02:49:56-07:00",
+      "rating": 5,
+      "title": "Just started and I’m looking forward to seeing changes in my life",
+      "text": "So far so good",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-18T01:59:33-07:00",
+      "rating": 5,
+      "title": "Best app",
+      "text": "The best app to build muscle",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T21:13:10-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Love app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T21:12:00-07:00",
+      "rating": 5,
+      "title": "Worth every penny",
+      "text": "Amazing effective workouts",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T20:20:58-07:00",
+      "rating": 5,
+      "title": "I love my app",
+      "text": "I love this work out app.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T11:01:19-07:00",
+      "rating": 5,
+      "title": "Instructif",
+      "text": "Very useful",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T07:16:30-07:00",
+      "rating": 3,
+      "title": "كريم",
+      "text": "منظم",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-17T07:04:49-07:00",
+      "rating": 4,
+      "title": "So far, Great!",
+      "text": "I’ve only had the program for 2 days  but so far I have enjoyed it. The instructions are very clear and the pictures are a great aid to watch and follow. I look forward to the continuation of this program. I have taken the 14 days challenge on and hope to complete it as a personal best. Thanks!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T22:31:48-07:00",
+      "rating": 5,
+      "title": "Mi vida fit",
+      "text": "Me encanta esta aplicación, lo mejor de lo mejor, 100 %recomendada",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T16:22:45-07:00",
+      "rating": 5,
+      "title": "My review",
+      "text": "Only one week but seems to be what I need",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T15:35:32-07:00",
+      "rating": 5,
+      "title": "Muscle Monster",
+      "text": "Just started my first day using this app after not working out for some years, and I felt every exercise and definitely broke a sweat.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T13:02:22-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Great app for the money get it",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T11:13:03-07:00",
+      "rating": 4,
+      "title": "Ali",
+      "text": "Ahmed",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T08:59:29-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Really enjoying this work out",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T07:15:37-07:00",
+      "rating": 5,
+      "title": "Espectacular",
+      "text": "Muy completa y fácil de usar. He perdido ya 16 cm de circunferencia abdominal",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T06:44:43-07:00",
+      "rating": 5,
+      "title": "La mejor app",
+      "text": "Muy buena app me ayuda a conseguir los objetivos propuestos",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T05:23:26-07:00",
+      "rating": 5,
+      "title": "Workout Plans",
+      "text": "Easy go-to app with custom workout plans",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-16T02:31:01-07:00",
+      "rating": 5,
+      "title": "Great workout",
+      "text": "Never have to worry about what to do anymore! All figured out for you!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T23:11:31-07:00",
+      "rating": 5,
+      "title": "jf",
+      "text": "thanks",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T20:38:41-07:00",
+      "rating": 5,
+      "title": "A better me",
+      "text": "Looks like this is gonna be a great challenge to be strong and good at 65 looking 35",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T19:10:08-07:00",
+      "rating": 4,
+      "title": "Great",
+      "text": "Great",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T19:00:15-07:00",
+      "rating": 5,
+      "title": "Awesome workout",
+      "text": "Very good way to start working again if you haven’t done it for a while",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T14:49:04-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Es una buenísima aplicación para empezar a hacer ejercicio, continuará entrenamiento y definir tu cuerpo o aguantar muscular",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T09:12:34-07:00",
+      "rating": 5,
+      "title": "Bajar de peso",
+      "text": "Excelente",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-15T01:38:12-07:00",
+      "rating": 5,
+      "title": "Amazing routine",
+      "text": "First time trying it out and I’d have to say I’m satisfied, if not impressed with the workout routine",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T18:07:50-07:00",
+      "rating": 5,
+      "title": "Bien",
+      "text": "Recién adquiere esta app . Y es muy fácil de usar y está disponible en n diferentes opciones de idiomas .",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T17:31:08-07:00",
+      "rating": 5,
+      "title": "Buena forma",
+      "text": "Son una mejor opción para empezar a entrenar en el gym cuando uno no tiene mucho conocimiento en las máquinas",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T17:03:58-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "New to strength exercises so this is a nice app to get me started.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T13:39:32-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "🙏🏼😁",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T11:46:44-07:00",
+      "rating": 5,
+      "title": "Have not tried it yet",
+      "text": "Haven’t started yet",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T07:06:49-07:00",
+      "rating": 3,
+      "title": "Irked",
+      "text": "Just started",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T05:31:44-07:00",
+      "rating": 5,
+      "title": "Lots of options",
+      "text": "This app has lots of options for customization!!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-14T04:23:16-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "The options for fitness are great",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T20:48:12-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "The app is straightforward and easy to get started",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T16:08:37-07:00",
+      "rating": 5,
+      "title": "Ejercicios de fuerza",
+      "text": "Buena planificación",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T09:57:40-07:00",
+      "rating": 5,
+      "title": "Excelente App",
+      "text": "Fácil de entender, fácil de hacer.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T08:37:17-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Muy buena app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T07:26:11-07:00",
+      "rating": 5,
+      "title": "Great product",
+      "text": "Really enjoy the app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T06:49:49-07:00",
+      "rating": 5,
+      "title": "Just Enough",
+      "text": "Doing this routine first thing in the morning wakes me up and gets me energized for the rest of the day. At 72 I was a bit slower but it’s just what I needed. Short, sweet, and to the point.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T05:38:38-07:00",
+      "rating": 5,
+      "title": "Inicio",
+      "text": "Simple pero efectivo",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-13T04:21:15-07:00",
+      "rating": 5,
+      "title": "Great exercise platform on your phone",
+      "text": "10",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-12T18:06:48-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Best app for beginners",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-12T07:36:48-07:00",
+      "rating": 5,
+      "title": "ممتاز جدا",
+      "text": "ممتازززززززززز",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T21:25:53-07:00",
+      "rating": 5,
+      "title": "Blessed",
+      "text": "Thanks for a good stretch exercise",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T19:22:43-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I love it",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T14:49:41-07:00",
+      "rating": 5,
+      "title": "Upper Back",
+      "text": "It was at the same time: a challenging work out and easy to follow exercises",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T14:19:03-07:00",
+      "rating": 5,
+      "title": "The best app out there!",
+      "text": "This one doesn’t playabroind.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T12:51:35-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Me encanta porque me ayuda a llevar un control de todos mis ejercicios y me enseña cómo hacerlos y que debo trabajar cada día",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T08:25:34-07:00",
+      "rating": 5,
+      "title": "Candy",
+      "text": "I am really looking forward to using this app because I never know what workouts to do or how many reps that’s the main thing I’m looking for",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-11T03:10:19-07:00",
+      "rating": 5,
+      "title": "Nice workout",
+      "text": "It’s better",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T23:17:31-07:00",
+      "rating": 5,
+      "title": "Vamos a probar",
+      "text": "Estoy por probar la app he visto buenas reseñas así que vamos ver cómo está",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T22:15:36-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T18:40:30-07:00",
+      "rating": 5,
+      "title": "Great!",
+      "text": "Really helped me get started with lifting weights!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T17:46:32-07:00",
+      "rating": 5,
+      "title": "Worthy",
+      "text": "Like the app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T15:58:27-07:00",
+      "rating": 4,
+      "title": "Genial",
+      "text": "Me funcionó",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T15:55:35-07:00",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "Highly recommended",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T13:46:00-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T07:22:46-07:00",
+      "rating": 5,
+      "title": "Rod",
+      "text": "Great app keep you motivated and well prepared",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T03:54:02-07:00",
+      "rating": 5,
+      "title": "Like it",
+      "text": "It’s an ok app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-10T03:24:36-07:00",
+      "rating": 5,
+      "title": "Great product",
+      "text": "Great",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-09T22:54:07-07:00",
+      "rating": 5,
+      "title": "It works",
+      "text": "I’ve been using the app for quite awhile and regret not doing that earlier.no stinky locker rooms. No parking stress . Just get home and join the best fitness trainer ever.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-09T21:24:54-07:00",
+      "rating": 5,
+      "title": "Buena opción",
+      "text": "Está app es buena opción para poder tener una rutina de ejercicio en casa",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-09T18:22:22-07:00",
+      "rating": 4,
+      "title": "Specific",
+      "text": "Nice app asks a lot of questions to tailor plan. A little  overly confident with their goals but good to have them",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-09T16:34:21-07:00",
+      "rating": 4,
+      "title": "Good app",
+      "text": "good app but is a little confuse please organizer better the muscle group",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-09T10:33:26-07:00",
+      "rating": 4,
+      "title": "Strength training",
+      "text": "I’m not quite sure yet if I like it, there’s a lot on there. I have to look, but it’s pretty pricey for a month.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-09T08:31:56-07:00",
+      "rating": 5,
+      "title": "Workout",
+      "text": "Nice app",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-09T07:32:19-07:00",
+      "rating": 5,
+      "title": "Looks good",
+      "text": "Personal trainer",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-09T07:20:48-07:00",
+      "rating": 5,
+      "title": "Amazing app",
+      "text": "This app will get you in shape and help you reach your goals. All body types it can help.",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-08T21:25:56-07:00",
+      "rating": 5,
+      "title": "Great workout app",
+      "text": "If anyone is looking for a great way to start your dumbbell workout. This app is the one!",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-08T20:27:39-07:00",
+      "rating": 5,
+      "title": "Checking this out",
+      "text": "Hopefully we get a good review",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-08T19:19:03-07:00",
+      "rating": 4,
+      "title": "Chest n Shoulders",
+      "text": "Love the trainer, he helps me slow my reps which we all know is where it’s at!",
+      "version": "3.25.0"
+    },
+    {
+      "date": "2026-09-08T17:00:48-07:00",
+      "rating": 5,
+      "title": "Karina",
+      "text": "Very good",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-08T14:04:15-07:00",
+      "rating": 4,
+      "title": "Guide",
+      "text": "Overall it’s a good app however, I wish it had an indicator to see if your formations are correct especially for beginners.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-08T13:42:36-07:00",
+      "rating": 5,
+      "title": "Exceptional",
+      "text": "One of the best app I came upon. It’s helping me big time with my workouts routines. Will recommend this to my friends.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-08T08:31:46-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Great App App it was easy to use.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T17:53:48-07:00",
+      "rating": 5,
+      "title": "Muscle Monster WO Planner 1st Day",
+      "text": "The plan so far on the first day has been great and at good for my moderate pace due to a bad back (DDD) and right knee ACL replacement. Thank you.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T16:25:57-07:00",
+      "rating": 5,
+      "title": "Chest day",
+      "text": "Solid work outs",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T16:00:56-07:00",
+      "rating": 5,
+      "title": "GM",
+      "text": "Great",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T14:59:36-07:00",
+      "rating": 5,
+      "title": "Muy buena",
+      "text": "Funciona",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T11:40:36-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great app!  Easy to use and cater workouts to your fitness level and needs.",
+      "version": "3.24.0"
+    },
+    {
+      "date": "2026-09-07T08:43:13-07:00",
+      "rating": 5,
+      "title": "Day 1",
+      "text": "Loved it",
+      "version": "3.24.0"
+    }
+  ]
+}

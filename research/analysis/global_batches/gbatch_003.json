@@ -1,0 +1,663 @@
+[
+  {
+    "key": "cn:6449919551",
+    "country": "China",
+    "name": "讯飞星火-懂你的AI助手",
+    "seller": "Wuhu Zhihuigu Technology Service Co., Ltd.",
+    "genre": "Productivity",
+    "released": "2023-06-13",
+    "updated": "2026-10-01",
+    "ratings_local": 86086,
+    "avg_rating": 4.83,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 2,
+    "languages": [
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 2
+    },
+    "matched_keywords": [
+      "AI学习笔记",
+      "AI 学习助手"
+    ],
+    "url": "https://apps.apple.com/cn/app/%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB-%E6%87%82%E4%BD%A0%E7%9A%84ai%E5%8A%A9%E6%89%8B/id6449919551",
+    "seller_url": null,
+    "description": "讯飞星火是更懂你的AI助手。作为当前中国主流大模型中，唯一基于全国产算力训练的通用大模型，能完成“简历制作、文献研读、文案创作、图像生成、PPT生成、深度研究、代码编程、会议纪要”等任务，覆盖学习、工作、生活、娱乐等多种场景，帮助你持续解放生产力、释放想象力。\n最新发布的星火X2，在整体效果上全面升级，尤其是在数学、语言理解、推理、翻译等能力上表现突出；130+多语言综合能力继续提升，拉美、东盟等地区语种效果保持国内领先水平。\n\n讯飞星火可以帮你做：\n\n【从简历到面试 全自动接管】自动汇总全网招聘信息，针对不同身份、岗位要求生成匹配简历，多种精美模板可选，支持简历一键投递。更有1:1虚拟人模拟面试，真实还原场景，助你自信拿Offer。\n\n【学术论文 全程辅助】从论文选题、开题报告到文献深度研读、学术搜索，提供全链路支持。同时，支持文本润色、逻辑梳理及AIGC检测，帮助你输出严谨、专业的学术论文，让科研工作更高效。\n\n【文本翻译 无障碍沟通】支持130+语种，不管是日常问答、解数学题、写文章还是翻译，都能搞定。\n\n【深度推理 逻辑清晰】具备强大的自主思考规划能力，可以将数学、编程等复杂任务逐步拆解，如同学霸一样头脑清晰、思维缜密。\n\n【内容写作 一键搞定】从爆款小红书笔记到专业会议纪要，从视频脚本到营销方案，60余种不同风格的文案一键搞定，突破创作瓶颈，让灵感源源不断。\n\n【图片视频 自由创作】输入一句话，电影级写真、赛博朋克、二次元动漫等多种风格大片即刻生成。更能定制专属虚拟人视频，给亲友送上独一无二的祝福。\n\n【全语音交互 畅快问答】搭载星火超拟人极速交互，多种情感、风格、方",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/8f/32/8c8f32db-99f6-e461-92e9-695437cb57a6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:6446605092",
+    "country": "Brazil",
+    "name": "Gênio IA: Gravador de aulas",
+    "seller": "Genio Tech, LLC",
+    "genre": "Education",
+    "released": "2023-04-12",
+    "updated": "2026-10-01",
+    "ratings_local": 25511,
+    "avg_rating": 4.85,
+    "ratings_us": 209,
+    "in_us": true,
+    "dev_apps": 3,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 2,
+      "K3": 1
+    },
+    "matched_keywords": [
+      "flashcards",
+      "resumo de estudos",
+      "podcast"
+    ],
+    "url": "https://apps.apple.com/br/app/g%C3%AAnio-ia-gravador-de-aulas/id6446605092",
+    "seller_url": "https://genioai.app",
+    "description": "Estudar é chato. A gente faz ficar genial.\n\nGrave a aula e receba tudo pronto pra estudar.\n\nO Gênio IA pega a sua aula gravada (ou os PDFs e documentos do seu professor) e transforma em material de estudo: resumo, flashcards, quiz, transcrição e até um podcast com os pontos-chave. Você estuda o que cai na SUA prova, não teoria genérica.\n\nGravador de Aulas\nAperte gravar e volte a prestar atenção no professor. No final da aula você recebe: transcrição completa, resumo direto ao ponto, flashcards e quiz pra fixar, o Caderno da Aula organizado por tópicos com autoavaliação, e a Aula Inteligente — pergunte e tire dúvidas direto sobre o conteúdo da sua aula. Já tem o áudio gravado? Importe o arqui",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/59/a8/b559a803-eb8c-bed3-fc11-28703d26dc56/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1597693251",
+    "country": "South Korea",
+    "name": "파트타임 스터디 - AI기반 공부 챌린지 앱",
+    "seller": "Study work Inc.",
+    "genre": "Education",
+    "released": "2021-12-29",
+    "updated": "2025-11-14",
+    "ratings_local": 2176,
+    "avg_rating": 4.05,
+    "ratings_us": 8,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "KO"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2,
+      "K2": 2
+    },
+    "matched_keywords": [
+      "습관 루틴",
+      "챌린지 인증",
+      "공부 타이머",
+      "AI 공부"
+    ],
+    "url": "https://apps.apple.com/kr/app/%ED%8C%8C%ED%8A%B8%ED%83%80%EC%9E%84-%EC%8A%A4%ED%84%B0%EB%94%94-ai%EA%B8%B0%EB%B0%98-%EA%B3%B5%EB%B6%80-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%95%B1/id1597693251",
+    "seller_url": "https://web-view.partimestudy.com",
+    "description": "'공부 해야하는데' 라는 생각만 머릿속을 맴돌고 있지는 않으신가요?\n걱정마세요. 파트타임 스터디가 도와줄게요. \n공부습관, 지금부터 만들어봐요! \n\n[누구에게 추천하나요?]\n- 공부를 하다가도 휴대폰에 자꾸만 손이간다면, \n- 공부하는 걸 누가 체크해주기를 원한다면,\n- 의미 없이 앉아만 있는 날이 많다면,\n- 책상에 앉기까지 너무 어렵다면, \n- 미루고, 미뤄서 죄책감이 들고, 죄책감이 들어 우울해지고 그럼에도 또 다시 미루는 악순환을 겪고있다면, \n- 성취감을 얻고 싶다면, \n파트타임 스터디를 추천해요. \n\n[어떻게 공부 습관을 만들어요?]\n- 다른 사람들은 얼마나 공부하는지 중요하지 않아요, 나 스스로와 약속하는거에요 . \n- 약속에 돈을 걸어두어요. 의지가 약하다면 '돈'이라는 강제력을 이용해요. \n- '진짜' 공부를 해요. 소중한 시간, AI가 정확하게 측정해드릴게요. \n- 달콤한 보상을 받아요. 약속을 지킨 정도에 따라 환급을 받을 수 있어요. \n\n[왜 파트타임 스터디와 함께 해야하나요?]\n- 파트타임 스터디 이용자의 평균 목표 달성률은 무려 86%랍니다. 당연히, 당신도 할 수 있어요 \n- 파트타임 스터디는 스스로와의 약속을 응원합니다. 나와의 약속을 지켜가며, 튼튼한 마음을 가져보세요. \n- 파트타임 스터디는 가장 가치있는 하루에 집중합니다. 너무 멀리보지 않아도 괜찮아요. 쌓여가는 하루 하루가 원하는 결과의 든든한 원",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/cf/8d/68cf8d54-ce7c-f66c-2b6e-8aa3d98dbcb2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:1058865810",
+    "country": "Japan",
+    "name": "忘却曲線で暗記アプリ - reminDO",
+    "seller": "AT, K.K.",
+    "genre": "Education",
+    "released": "2016-01-17",
+    "updated": "2026-10-04",
+    "ratings_local": 17904,
+    "avg_rating": 4.56,
+    "ratings_us": 61,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "FR",
+      "JA",
+      "KO",
+      "PT",
+      "ZH",
+      "ES",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "暗記",
+      "単語帳",
+      "勉強"
+    ],
+    "url": "https://apps.apple.com/jp/app/%E5%BF%98%E5%8D%B4%E6%9B%B2%E7%B7%9A%E3%81%A7%E6%9A%97%E8%A8%98%E3%82%A2%E3%83%97%E3%83%AA-remindo/id1058865810",
+    "seller_url": "http://remindo.co",
+    "description": "●2022 記憶アルゴリズムの追加 (Ankiベース)\n●2020 機能の大幅向上と安定性の向上\n●2019 安定性の向上、大量データでも重くならないよう修正\n\nreminDOは脳科学に基づいた記憶に残せるメモアプリです\n勉強した事全てを忘れなくすることが出来ます\n覚えたいこと全部 reminDO に入れましょう\n\n覚えること\n人は復習しなければ確実に忘れていきます\n何かを100個覚えても一ヶ月後には80個の内容を思い出せなくなります\n\n覚えたい事は全部 reminDO に入れておけば、忘れるタイミングで通知されます\n\n復習量は必要最低限で覚えられる量を最大化します\nこれにより効率のよい学習が出来ます\n\n特徴\n- 忘却曲線を使った学習の効率化で記憶力を大幅に向上させます\n- TODOリストを処理するような快適な操作性でご利用頂けます\n- 学習に場所は選びません。いつでも何処でも、スマホ、タブレット、PCでサクサク学習できます\n- ご利用は無料です\n\nreminDOを使うべき理由\n- 知識はこの世を良く生きる上で必要な力です\n- ただ、学習したことの8割は1ヶ月間、何もしないと忘れてしまいます。これは大きな損失です\n- reminDOを使えば最小の労力で楽をしつつ、殆どの学びを可能な限り記憶し続けることが出来るようになります\n\n何を保存しますか？\n- 本の要点\n　本に線を引くだけ、をやめる\n- WEBページの要点\n　サイトをブックマークしただけ、をやめる\n- 撮影したノート\n　ノートを何ページもめくる、をやめる\n- 名言やひらめき\n　一回聞いて納得するだけ、をやめる\n- 外国語の",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/83/a5/c483a5eb-a9b2-542d-f412-5ddd68b92cbd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:430330715",
+    "country": "Russia",
+    "name": "Книги без Интернета 2026",
+    "seller": "VIDEOMIR, OOO",
+    "genre": "Book",
+    "released": "2011-04-15",
+    "updated": "2026-02-09",
+    "ratings_local": 17850,
+    "avg_rating": 4.42,
+    "ratings_us": 518,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "RU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "саморазвитие",
+      "аудиокниги",
+      "аудиокурсы"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0-2026/id430330715",
+    "seller_url": "https://bestaudiobooks.ru",
+    "description": "Представляем вам огромную коллекцию книг, которая теперь всегда будет у вас под рукой!\n\n«Книги без интернета» - это:\n • самый большой выбор произведений на любой вкус\n • возможность создания собственной библиотеки\n • книги всех жанров\n\nПриложение с огромным набором книг которое по достоинству оценят все. Здесь собрана большая коллекция произведений всевозможных жанров и авторов. Благодаря этому приложению будет удовлетворен вкус самого взыскательного книголюба.\n\nВ коллекции книг вы найдете произведения в жанрах:\n • любовного романа\n • фантастики и мистики\n • детектива\n • экшена\n • классики\n • прозы российских и зарубежных авторов\n • бизнес-литературы\n • истории\n • философии\n • сказки\n • обуч",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/80/8d/c1808de6-2f68-5847-6130-8b927fe6b2f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "cn:1617091849",
+    "country": "China",
+    "name": "CoStudy-虚拟自习室",
+    "seller": "Costudy Information Technology Shanghai Co., Ltd",
+    "genre": "Productivity",
+    "released": "2022-04-06",
+    "updated": "2026-09-23",
+    "ratings_local": 13571,
+    "avg_rating": 4.56,
+    "ratings_us": 71,
+    "in_us": true,
+    "dev_apps": 3,
+    "languages": [
+      "EN",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 2
+    },
+    "matched_keywords": [
+      "自律打卡",
+      "学习打卡",
+      "自习室 陪伴"
+    ],
+    "url": "https://apps.apple.com/cn/app/costudy-%E8%99%9A%E6%8B%9F%E8%87%AA%E4%B9%A0%E5%AE%A4/id1617091849",
+    "seller_url": null,
+    "description": "有时候会觉得一个人学习有点孤独，即便是在线下的自习室、图书馆，也会不自觉地拿起手机，没人监督也没人陪伴。更别提在家中，缺少周遭的氛围，效率继续直线下降。\n\nCoStudy线上自习室希望打造出陪伴学习的感觉，让你回到学生时代，回到曾经的教室中。虽然你和虚拟教室里的人物理距离可能很远，但你可以感知到他就是你的同桌、前后桌，或者就与你隔了一个过道。学习的路途并不孤单，有人跟你一起前行。\n\n你的努力，都有被看到！\n\n#虚拟校园，阶段分楼\nCoStudy校园还原真实的校园场景，按不同阶段设立教学楼，快来找到专属你的教学楼吧。\n\n#志同道合，找到Co伴\n根据目标/地区选择楼层，与志同道合的用户结成Co伴，更方便地找到组织，一起努力。\n\n#约上好友，来做同桌\n和好友在线上自习室成为同桌，完美解决约自习的问题。与教室内的小伙伴互相加油，学习不再枯燥。\n\n#保持专注，有效监督\n严格的规则控制，深度模式下专注期不能随意切出软件，小休期结束需马上回到教室继续专注，否则会浪费自习次数。\n\n#正向激励，自律发币\n成功完成一次专注，系统会根据专注时长发放专注工资，每次自习都有正向反馈，动力满满。\n\n下载CoStudy，开启有趣的自律生活！\n\n\n\nCo会员服务说明\nCoStudy会员服务，为Co岛会员提供超多福利，让你在这里的生活更自由随心。\n\nCo会员包含以下几种订阅价格\n非连续订阅产品：\n1个月（首次购买）/ 15元\n1个月  (非首次购买) / 28元\n3个月 / 66元\n12个月 / 168元\n3年 / 428元\n\nC会员服务协议:\nhttp://www.co-study.com.cn/costud",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/02/75/9602754c-cda9-eda9-9ff9-03650626c5aa/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:557094374",
+    "country": "Russia",
+    "name": "Мой дневник",
+    "seller": "Bars Group Ltd.",
+    "genre": "Education",
+    "released": "2012-09-07",
+    "updated": "2025-12-08",
+    "ratings_local": 40932,
+    "avg_rating": 3.92,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 7,
+    "languages": [
+      "RU"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "дневник благодарности",
+      "дневник настроения"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D0%BC%D0%BE%D0%B9-%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA/id557094374",
+    "seller_url": null,
+    "description": "Внимание: Для использования приложения, школа должна быть подключена к системе «БАРС.Образование-Электронная Школа» компании «БАРС Груп».\n\nПриложение «Мой дневник» – электронный аналог бумажного школьного дневника. С его помощью родители смогут своевременно узнавать информацию об успеваемости своего ребёнка, контролировать выполнение заданий и посещаемость. А сами школьники смогут просматривать домашнее задание, расписание занятий, комментарии учителей к работе на уроке, текущие и итоговые оценки. И все это – в режиме реального времени.\n\nПо всем ошибкам и вопросам обращайтесь в техническую поддержку support_mobile@bars-open.ru\n\nФункционал доступен для следующих регионов:\n* Новосибирская обла",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/11/fb/6511fb51-f60b-d72b-6fd3-bc449342909b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-P3-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1242173441",
+    "country": "South Korea",
+    "name": "원보카: 나만의 단어장, 단어, 영단어, 일본어, 암기",
+    "seller": "Minsu Kim",
+    "genre": "Education",
+    "released": "2017-06-02",
+    "updated": "2026-10-11",
+    "ratings_local": 12656,
+    "avg_rating": 4.58,
+    "ratings_us": 75,
+    "in_us": true,
+    "dev_apps": 3,
+    "languages": [
+      "EN",
+      "JA",
+      "KO"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "단어장",
+      "플래시카드",
+      "암기"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%9B%90%EB%B3%B4%EC%B9%B4-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%8B%A8%EC%96%B4%EC%9E%A5-%EB%8B%A8%EC%96%B4-%EC%98%81%EB%8B%A8%EC%96%B4-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%95%94%EA%B8%B0/id1242173441",
+    "seller_url": "https://www.instagram.com/onevoca_kr/",
+    "description": "단어 공부 어떻게 해야할지 막막하죠? 그래서 저희가 준비했어요. 외국어, 전문 용어, 시험 문제, 인문 교양 단어 등 공부하고 싶은 단어를 원보카가 선정한 재미있고 효율적인 학습 기능을 통해 마음 편히 단어를 공부해 보세요. 여러 단어를 공부하는 여러분들을 위해 여러가지 학습 기능을 준비했어요. 특히 현지인의 자연스럽고 매력적인 목소리로 읽어주는 인공지능 TTS를 통해 정확한 발음을 들으며 공부할 수 있답니다. \n\n\n원보카는 전세계 40개 언어의 인공지능 목소리를 들려줄 수 있습니다:\n\n아랍어, 벵골어, 중국어, 체코어, 덴마크어, 네덜란드어, 영어 (미국, 영국), 필리핀어, 핀란드어, 프랑스어, 독일어, 그리스어, 구자라트어, 히브리어, 힌디어, 헝가리어, 인도네시아어, 이탈리아어, 일본어, 칸나다어, 한국어, 말레이어, 말라얄람어, 마라티어, 노르웨이어, 폴란드어, 포르투갈어, 펀자브어, 루마니아어, 러시아어, 슬로바키아어, 스페인어, 스웨덴어, 타밀어, 텔루구어, 태국어, 터키어, 우크라이나어, 베트남어\n\n\n원보카를 이용하시는 분들은 이런 단어를 공부해요:\n\n영어단어, 일본어, 중국어, 의학 용어, 화학 용어, 성경 구절, 국어, 역사, 한문..\n\n사실 너무 많아서 얼마나 다양한 단어를 공부하고 계신지 모르겠어요. 원보카는 어떤 단어나 문장이든 암기할 수 있도록 설계 되었답니다. 특히 개발자인 저는 영어단어와 인문 교양 단어를",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/3f/36/043f3638-6c76-e955-cac8-fc34c833e8c9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "eg:586168895",
+    "country": "Egypt",
+    "name": "اقرأ لي - كتب مسموعة",
+    "seller": "Abdelrahman Wahba",
+    "genre": "Book",
+    "released": "2012-12-17",
+    "updated": "2026-10-02",
+    "ratings_local": 10389,
+    "avg_rating": 4.62,
+    "ratings_us": 4475,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "AR"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 4
+    },
+    "matched_keywords": [
+      "تطوير الذات",
+      "ملخصات",
+      "كتب صوتية",
+      "بودكاست",
+      "قصص صوتية",
+      "ملخصات كتب صوتية"
+    ],
+    "url": "https://apps.apple.com/eg/app/%D8%A7%D9%82%D8%B1%D8%A3-%D9%84%D9%8A-%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D9%85%D9%88%D8%B9%D8%A9/id586168895",
+    "seller_url": "https://www.iqraaly.com",
+    "description": "Iqraaly: Your go-to destination for audiobooks, novels, and Arabic storytelling.\nWelcome to the world of Arabic audiobooks – a rich audio library of over 2,000 titles at your fingertips. Discover an immersive experience with professionally narrated books and stories you can listen to anytime, anywhere.\nJoin over 7 million listeners across the Arab world who trust Iqraaly for a unique audio journey. Explore a vast collection of audiobooks spanning every genre: romance, horror, historical fiction, social novels, and more. Enjoy works by celebrated authors like Naguib Mahfouz, Abbas El-Akkad, Mostafa Mahmoud, Ahmed Khaled Tawfik, Ghassan Kanafani, Dostoevsky, and many others – all in one app.\n\n",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/58/f3/0158f396-9c76-cb70-6f36-2e9ce4020d29/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "vn:1453643910",
+    "country": "Vietnam",
+    "name": "AudioAZ - Audiobooks & Stories",
+    "seller": "Tran Cong Minh",
+    "genre": "Book",
+    "released": "2019-03-01",
+    "updated": "2025-09-16",
+    "ratings_local": 10526,
+    "avg_rating": 4.86,
+    "ratings_us": 199,
+    "in_us": true,
+    "dev_apps": 9,
+    "languages": [
+      "EN"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 1,
+      "K3": 2
+    },
+    "matched_keywords": [
+      "tóm tắt sách",
+      "sách nói",
+      "truyện audio"
+    ],
+    "url": "https://apps.apple.com/vn/app/audioaz-audiobooks-stories/id1453643910",
+    "seller_url": "https://audioaz.com",
+    "description": "Audiobook.xyz and Sachnoi.app is now AudioAZ.com. \nAudioAZ is best Free Audiobooks app for iOS\n\nAudiobooks on audioaz.com are in the public domain. This means that no one holds a copyright on these books and therefore anyone including audioaz.com is free to distribute them. Enjoy these free audiobooks and use the share button on SachNoi.app to tell your friends about all these great public domain audiobooks.\n\nWe are happy that you have decided to use audioaz.com, we hope you enjoy this app. Currently, SachNoiApp's bookstore has more than 7000 books and continues to increase.\n\nDiscover features:\n- Free completely, almost no ads\n- Download and listen to books offline\n- Self-sync between device",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/81/58/548158a9-e9c5-4cb0-2d6b-c4ca7ffb18be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "pl:1291830373",
+    "country": "Poland",
+    "name": "Empik Go - Audiobooki i Ebooki",
+    "seller": "Empik S.A",
+    "genre": "Book",
+    "released": "2017-11-07",
+    "updated": "2026-09-15",
+    "ratings_local": 9774,
+    "avg_rating": 4.53,
+    "ratings_us": 230,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "PL"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 3
+    },
+    "matched_keywords": [
+      "audiobooki",
+      "podcast",
+      "bajki na dobranoc"
+    ],
+    "url": "https://apps.apple.com/pl/app/empik-go-audiobooki-i-ebooki/id1291830373",
+    "seller_url": "http://www.empik.com/go",
+    "description": "Czytaj i słuchaj, gdziekolwiek jesteś - z Empik Go!\n\nZyskaj dostęp do ponad 240 000 ebooków, audiobooków i podcastów. Czytaj i słuchaj ulubionych tytułów w jednej z najpopularniejszych aplikacji z książkami w Polsce.\n\nWybierz abonament Empik Go lub kupuj pojedyncze tytuły. Korzystaj z wygodnej aplikacji mobilnej i miej swoją bibliotekę zawsze przy sobie!\n\nSłuchaj audiobooków i podcastów, gdziekolwiek jesteś\n Na siłowni, podczas biegania, sprzątania, spaceru, jazdy samochodem czy przed snem - audiobooki i podcasty będą towarzyszyć Ci wszędzie. Rozwijaj swoje umiejętności lub daj się porwać pasjonującej historii, nie tracąc ani chwili.\n\n Tryb samochodowy\n Słuchaj bezpiecznie podczas jazdy dzię",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/d0/6d/b7d06dd7-fee0-48c5-c9f8-ebbfc7bacfea/AppIcon-Release-0-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:1288435689",
+    "country": "Japan",
+    "name": "モノグサ - 解いて憶える記憶アプリ -",
+    "seller": "monoxer, Inc",
+    "genre": "Education",
+    "released": "2017-11-15",
+    "updated": "2026-10-08",
+    "ratings_local": 87551,
+    "avg_rating": 4.29,
+    "ratings_us": 153,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "ID",
+      "JA",
+      "NE",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 2
+    },
+    "matched_keywords": [
+      "暗記",
+      "単語帳"
+    ],
+    "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%8E%E3%82%B0%E3%82%B5-%E8%A7%A3%E3%81%84%E3%81%A6%E6%86%B6%E3%81%88%E3%82%8B%E8%A8%98%E6%86%B6%E3%82%A2%E3%83%97%E3%83%AA/id1288435689",
+    "seller_url": "https://corp.monoxer.com",
+    "description": "解いて「憶える」記憶アプリ！\nモノグサはAIを活用したアダプティブラーニングにより、知識習得や記憶定着を可能とするアプリです。個人の記憶状況から得意・苦手を把握し、憶えるために最適な問題を自動生成します。\n\n■  モノグサが自動で問題を生成！憶えたいBook(単語帳)を作ろう&探そう\n英語、漢字、歴史、マニュアル...など、あなたが憶えたいものを登録し、Book(単語帳)を作成しましょう！モノグサが自動で問題を生成してくれます。\n\n■  記憶度が一目でわかる！\nテストをすると、あなたがBookの内容をどれくらい憶えているか「記憶済み」「記憶中」「弱点」の三項目で表示されます。次のテストでは、モノグサが弱点を重点的に出題するので頑張りましょう！\n\n■  記憶度によって問題の難易度が変化！\nあなたの記憶状況によって、モノグサが自動で問題の難易度を調整します。出題形式は選択肢、入力、写経など様々。忘れそうな内容も予測して出題します。\n\n使用許諾契約（EULA）: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/94/ca/b894cadf-7ad7-24e7-f66b-335b4fea9d34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "kr:1663556775",
+    "country": "South Korea",
+    "name": "얼티밋 포커스 - 집중을 위한 타이머",
+    "seller": "StonicSolution",
+    "genre": "Productivity",
+    "released": "2023-01-26",
+    "updated": "2026-09-21",
+    "ratings_local": 8689,
+    "avg_rating": 4.79,
+    "ratings_us": 188,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "FR",
+      "DE",
+      "JA",
+      "KO",
+      "ZH",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2,
+      "K2": 1
+    },
+    "matched_keywords": [
+      "습관 루틴",
+      "습관 트래커",
+      "공부 타이머"
+    ],
+    "url": "https://apps.apple.com/kr/app/%EC%96%BC%ED%8B%B0%EB%B0%8B-%ED%8F%AC%EC%BB%A4%EC%8A%A4-%EC%A7%91%EC%A4%91%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%83%80%EC%9D%B4%EB%A8%B8/id1663556775",
+    "seller_url": "https://ultimatefocus.app",
+    "description": "집중은 의지보다 시작하기 쉬운 환경에서 만들어집니다.\n얼티밋 포커스는 공부와 업무에 꼭 필요한 기능만 담아, 복잡하지 않게 사용할 수 있는 집중 타이머입니다.\n할 일별 세션 분리, 집중 회고, 뽀모도로, 앱 차단, 캘린더 동기화 등 필요한 기능을 한 앱에서 사용할 수 있습니다.\n\n\b앱 특징\n\n- 손가락으로 드래그해 빠르게 시간을 설정하세요.\n- 세션을 나눠 작업별로 집중 시간을 관리하세요.\n- 뽀모도로 모드로 집중과 휴식을 자연스럽게 이어갈 수 있습니다.\n- 통계와 회고 기능으로 내가 어떻게 집중했는지 돌아볼 수 있습니다.\n- 집중 내역은 캘린더와 동기화할 수 있습니다.\n- 70가지 이상의 색 테마와 앱 아이콘으로 취향에 맞게 꾸밀 수 있습니다.\n- 홈 화면 위젯으로 집중 통계를 바로 확인하거나 타이머를 바로 시작하세요.\n- 단축어를 이용하여 타이머를 시작할 수 있습니다.\n- 앱 차단 기능을 이용해 집중하는 동안 원하는 앱이나 웹사이트를 차단할 수 있습니다.\n- 습관 기능을 이용해 원하는 시간에 알림을 받아볼 수 있습니다.\n- 집중 내역과 회고를 캘린더 앱에 동기화할 수 있습니다.\n- 알림음과 배경음악도 취향에 맞게 설정할 수 있습니다. (프리미엄 기능)\n- iCloud 동기화로 여러 기기에서 집중 기록을 확인하고 수정할 수 있습니다. (프리미엄 기능)\n\n앱 사용 중에 문제가 발생하거나 질문이 있거나 버그를 발견한 경우, 언제든지 h",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/d5/50/acd55070-3374-0500-8af1-00dbe36eec00/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "sa:586168895",
+    "country": "Saudi Arabia",
+    "name": "اقرأ لي - كتب مسموعة",
+    "seller": "Abdelrahman Wahba",
+    "genre": "Book",
+    "released": "2012-12-17",
+    "updated": "2026-10-02",
+    "ratings_local": 8900,
+    "avg_rating": 4.57,
+    "ratings_us": 4475,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "AR"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 1,
+      "K3": 5
+    },
+    "matched_keywords": [
+      "تطوير الذات",
+      "ملخصات",
+      "كتب صوتية",
+      "بودكاست",
+      "قصص صوتية",
+      "ملخصات كتب صوتية",
+      "قصص قبل النوم"
+    ],
+    "url": "https://apps.apple.com/sa/app/%D8%A7%D9%82%D8%B1%D8%A3-%D9%84%D9%8A-%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D9%85%D9%88%D8%B9%D8%A9/id586168895",
+    "seller_url": "https://www.iqraaly.com",
+    "description": "Iqraaly: Your go-to destination for audiobooks, novels, and Arabic storytelling.\nWelcome to the world of Arabic audiobooks – a rich audio library of over 2,000 titles at your fingertips. Discover an immersive experience with professionally narrated books and stories you can listen to anytime, anywhere.\nJoin over 7 million listeners across the Arab world who trust Iqraaly for a unique audio journey. Explore a vast collection of audiobooks spanning every genre: romance, horror, historical fiction, social novels, and more. Enjoy works by celebrated authors like Naguib Mahfouz, Abbas El-Akkad, Mostafa Mahmoud, Ahmed Khaled Tawfik, Ghassan Kanafani, Dostoevsky, and many others – all in one app.\n\n",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/58/f3/0158f396-9c76-cb70-6f36-2e9ce4020d29/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:860500836",
+    "country": "Japan",
+    "name": "ターゲットの友 英単語アプリ",
+    "seller": "Obunsha Co.,Ltd.",
+    "genre": "Education",
+    "released": "2014-04-30",
+    "updated": "2026-04-20",
+    "ratings_local": 98514,
+    "avg_rating": 4.65,
+    "ratings_us": null,
+    "in_us": false,
+    "dev_apps": 5,
+    "languages": [
+      "EN",
+      "JA"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K2": 3
+    },
+    "matched_keywords": [
+      "暗記",
+      "単語帳",
+      "勉強"
+    ],
+    "url": "https://apps.apple.com/jp/app/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%81%AE%E5%8F%8B-%E8%8B%B1%E5%8D%98%E8%AA%9E%E3%82%A2%E3%83%97%E3%83%AA/id860500836",
+    "seller_url": "http://www.obunsha.co.jp/pr/tg30/",
+    "description": "【旺文社『英単語ターゲット』シリーズ公式】\n400万人以上の高校生が活用した英単語アプリ！\n基礎～大学受験レベルからTOEIC対策まで、英単語・英熟語を学ぶなら「タゲ友」で。\n\n・第12回日本e-Learning大賞 アプリ部門賞受賞\n\n■「ターゲットの友」は旺文社が刊行する『英単語ターゲット』シリーズの学習をサポートする無料アプリです（一部機能では、App内課金があります）。\n\n【対応書籍一覧】（2021年8月時点）\n・『英単語ターゲット1900 6訂版』\n・『英単語ターゲット1400 5訂版』\n・『英単語ターゲット1200 改訂版』\n・『英文で覚える 英単語ターゲットR 英単語ターゲット1900レベル 改訂版』\n・『英文で覚える 英単語ターゲットR 英単語ターゲット1400レベル 改訂版』\n・『英文で覚える 英単語ターゲットR 英単語ターゲット1200レベル』\n・『英熟語ターゲット1000 5訂版』\n・『英文で覚える 英熟語ターゲットR 英熟語ターゲット1000対応 改訂版』\n・『TOEIC L&Rテスト英単語ターゲット1100』\n・『英単語ターゲット1900 5訂版』\n（書籍の「版」にご注意ください）\n\n～「ターゲットの友」で英語学習が変わる！～\n◎　カンタン操作で、スキマ時間に英語リスニング！\n◎　豊富な問題形式で、学習の成果を腕試し！\n◎　自分の実力を全国ランキングでチェック！\n◎　間違えた単語もすぐに復習できる！\n◎　朝夜の「今日の５問」が、継続学習をサポート！\n◎　苦手単語を克服！「苦手特訓モード」（App内課金）\n◎　学習状況を自動管理！「マイ単語帳」（App内",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/fe/88/aafe885f-00bb-dccd-8b04-e717e249c846/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "tr:1419570041",
+    "country": "Turkey",
+    "name": "kitUP: Micro Learning Everyday",
+    "seller": "OURO YAZILIM REKLAM TEKNOLOJILERI ARASTIRMA GELISTIRME VE PAZARLAMA TICARET ANONIM SIRKETI",
+    "genre": "Education",
+    "released": "2018-11-14",
+    "updated": "2026-08-22",
+    "ratings_local": 32074,
+    "avg_rating": 4.21,
+    "ratings_us": 1424,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "AR",
+      "NL",
+      "EN",
+      "FR",
+      "DE",
+      "HE",
+      "ID",
+      "IT",
+      "JA",
+      "PL",
+      "PT",
+      "RU",
+      "ZH",
+      "ES",
+      "TH",
+      "TR"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K3": 3
+    },
+    "matched_keywords": [
+      "kişisel gelişim",
+      "sesli kitap",
+      "podcast",
+      "kitap özeti sesli"
+    ],
+    "url": "https://apps.apple.com/tr/app/kitup-micro-learning-everyday/id1419570041",
+    "seller_url": "http://www.kitup.net",
+    "description": "Meet kitUP: Take 15 minutes a day to discover great books and podcasts to help you improve your life and yourself.\nYour life may be hectic; filled with work, school, or social activities. But with kitUP, you can efficiently utilize your 15 minutes, whether by reading or listening. Designed to foster both reading habits and personal development, kitUP helps you save time and enhance your knowledge.\nMore than 5 million people have joined kitUP to reach their best versions. How about joining this personal development journey yourself?\n_____________\n\nWHAT DOES IT INCLUDE?\n\n* Access to personalized plans and challenge lists\nAccess dozens of plans such as a 28-day personal development plan, relati",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ed/0f/d6ed0ff3-451e-db02-5b56-9ec49a635377/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "br:1190110484",
+    "country": "Brazil",
+    "name": "Cingulo: Cura e Crescimento",
+    "seller": "CINGULO LTDA",
+    "genre": "Health & Fitness",
+    "released": "2017-02-15",
+    "updated": "2026-08-27",
+    "ratings_local": 70265,
+    "avg_rating": 4.95,
+    "ratings_us": 702,
+    "in_us": true,
+    "dev_apps": 1,
+    "languages": [
+      "EN",
+      "PT"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 2
+    },
+    "matched_keywords": [
+      "autoconhecimento",
+      "meditação"
+    ],
+    "url": "https://apps.apple.com/br/app/cingulo-cura-e-crescimento/id1190110484",
+    "seller_url": "https://www.cingulo.com",
+    "description": "Com o Cingulo, você pode resolver as questões emocionais que mais atrapalham a sua vida e se aprimorar pelo autoconhecimento. Tudo por conta própria.\n\nA abordagem inovadora do app é resultado de mais de 15 anos de pesquisa científica e conhecimento clínico sobre a mente humana, aproveitando as melhores abordagens da psicologia moderna e de metodologias de desenvolvimento pessoal.\n\nO Cingulo tem sido reconhecido como o app mais inovador e acessível para para se promover o bem-estar mental. Milhares de usuários relatam transformações rápidas e profundas em suas vidas, com uma melhora geral da saúde mental. O app pode ser usado por conta própria na privacidade da sua casa ou como complemento à ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/4f/dd/ab4fddba-d68e-f516-f607-b94ae9c9dce2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "jp:1231920500",
+    "country": "Japan",
+    "name": "神棚アプリ - 感謝日記・引き寄せ・お祓い・願いが叶う習慣",
+    "seller": "MRT (Tokyo)",
+    "genre": "Lifestyle",
+    "released": "2017-05-03",
+    "updated": "2026-10-11",
+    "ratings_local": 7008,
+    "avg_rating": 4.67,
+    "ratings_us": 183,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "JA",
+      "ZH",
+      "ZH"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 3
+    },
+    "matched_keywords": [
+      "習慣",
+      "日記",
+      "感謝日記"
+    ],
+    "url": "https://apps.apple.com/jp/app/%E7%A5%9E%E6%A3%9A%E3%82%A2%E3%83%97%E3%83%AA-%E6%84%9F%E8%AC%9D%E6%97%A5%E8%A8%98-%E5%BC%95%E3%81%8D%E5%AF%84%E3%81%9B-%E3%81%8A%E7%A5%93%E3%81%84-%E9%A1%98%E3%81%84%E3%81%8C%E5%8F%B6%E3%81%86%E7%BF%92%E6%85%A3/id1231920500",
+    "seller_url": "https://mrt-app.github.io/kamidana/",
+    "description": "神棚アプリは時代に合わせた神棚の新しいかたち。\n\n—\nリリース以来、たくさんの方に高い評価を頂いている神棚アプリにiOS版が登場！\nあなたのiPhoneやiPadでも神棚をお祀りできるようになりました。\n—\n\nかつて神棚は生活の要となるところへお祀りし、家や一緒に住む家族の精神の絆を大切にしてきました。\n今はスマートフォンが生活の要で、オンラインでの人との関わりも多くなっています。\nそんな今こそ、モバイルデバイスに神様をお祀りしてはいかがでしょうか。\n日々の感謝と祈りを捧げて、あなた自身と周りの人を大切にしましょう。\n\nそんな神棚アプリではこんなことができます。\n\n＜今日のおみくじ＞\n　毎日無料で恋愛、仕事、金運などの今日の運勢を占います。\n\n＜今日の名言＞\n　一日ひとつ、人生を変えるような歴史上の偉人や著名人の名言・格言を紹介します。\n\n＜月と暦＞\n　月の満ち欠けを知ることができます。\n　季節の移り変わりを感じる二十四節気や、大安・一粒万倍日・天赦日などの吉日も合わせて表示されるので、生活のリズムを月の周期と合わせるとともに、運気を掴むきっかけも逃しません。\n\n＜感謝の気持ちを伝えるお参り日記機能＞\n一日の終りに感謝の気持ちを言葉にして、すこやかな生活を過ごしましょう。\n心理学に基づいた書き方フォーマットもあり、心のコンディションを整えます。\n\n＜願い事を記す絵馬機能＞\n　願い事を絵馬として書くことができます。\n\n＜罪穢をひとがたが引き受けるお祓い機能＞\n　日々降り掛かる悩み・煩悩・罪・穢などつらい気持ちを手放して、気持ちのよい明日をお過ごしください。\n　書かれた言葉をアプリ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/5b/db/205bdb72-9fcb-229e-cb5d-23dee59cfea5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ru:1220327765",
+    "country": "Russia",
+    "name": "Взахлеб: книги, манга, фанфики",
+    "seller": "KUPI BATON, OOO",
+    "genre": "Book",
+    "released": "2017-04-19",
+    "updated": "2026-10-05",
+    "ratings_local": 69215,
+    "avg_rating": 4.54,
+    "ratings_us": 1673,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "BE",
+      "EN",
+      "KK",
+      "RU",
+      "UK"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K3": 2
+    },
+    "matched_keywords": [
+      "аудиокниги",
+      "аудиокурсы"
+    ],
+    "url": "https://apps.apple.com/ru/app/%D0%B2%D0%B7%D0%B0%D1%85%D0%BB%D0%B5%D0%B1-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0-%D1%84%D0%B0%D0%BD%D1%84%D0%B8%D0%BA%D0%B8/id1220327765",
+    "seller_url": null,
+    "description": "Вместо длинных текстов – читай и слушай короткие захватывающие истории, чат-переписки, книги и чат-квесты! Историй много и все они разные: страшные, мистические, жуткие и, конечно, романтические из нашего «клуба романтики». Прочувствуй эмоции героев онлайн: загляни в их переписку, раскрой тайны и узнай, чем закончится их история (хистори). Чтение лучше чем с Mangalib! Погружайтесь в увлекательные аудио истории, захватывающие новеллы и электронные книги. Со Взахлебом вам будут нравиться манга, новелла или аудио книга. Интереснее чем мангалиб. Здесь найдётся всё что нужно. Начните читать и слушать уже сегодня!\n\n\nС чего начать? Да с чего угодно – всё мастрид (mustread)!\n\nБолее 1000 историй любы",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/c8/f8/34c8f8b3-09cb-03df-092c-0e871b1645c3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+  },
+  {
+    "key": "ua:1447875950",
+    "country": "Ukraine",
+    "name": "Єдина Школа",
+    "seller": "TATL TEKHNOLODZHI, TOV",
+    "genre": "Productivity",
+    "released": "2019-01-09",
+    "updated": "2026-09-25",
+    "ratings_local": 65059,
+    "avg_rating": 4.23,
+    "ratings_us": 710,
+    "in_us": true,
+    "dev_apps": 2,
+    "languages": [
+      "EN",
+      "UK"
+    ],
+    "price": 0.0,
+    "lens_hits": {
+      "K1": 1,
+      "K2": 1
+    },
+    "matched_keywords": [
+      "щоденник",
+      "навчання"
+    ],
+    "url": "https://apps.apple.com/ua/app/%D1%94%D0%B4%D0%B8%D0%BD%D0%B0-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0/id1447875950",
+    "seller_url": "https://eschool-ua.com",
+    "description": "Єдина Школа - система, розроблена з метою налагодження взаємодії між батьками та навчальним закладом та моніторингу шкільного життя дитини.\n\nЕлектронний щоденник для батьків містить:\n- розклад занять;\n- оцінки;\n- домашні завдання;\n- статистику успішності учня;\n- online-чат для спілкування з педагогами;\n- push-повідомлення (у випадку відсутності учня на заняттях, повідомлення від вчителів, новини школи).\n\nЕлектронний журнал для вчителів надає можливість:\n- виставляти оцінки;\n- додавати та редагувати домашнє завдання зі свого смартфону (текстові, відео, аудіо та зображення);\n- мати постійний зв’язок з батьками учнів (лише класи, де викладає вчитель).\n\nУмови використання: https://eschool-ua.com",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/da/25/bdda251a-ec9c-6181-39dc-25e9b8ae7545/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg"
+  }
+]

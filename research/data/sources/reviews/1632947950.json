@@ -1,0 +1,707 @@
+{
+  "app": "Snore Recorder - Sleep Monitor",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T20:32:57-07:00",
+      "rating": 5,
+      "title": "Did it work?",
+      "text": "Seems to work okay",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-09T19:18:25-07:00",
+      "rating": 4,
+      "title": "Helpful",
+      "text": "Helpful to see data about my sleep",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-07T20:57:44-07:00",
+      "rating": 5,
+      "title": "Best app",
+      "text": "Great app never use anything else",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-07T07:22:02-07:00",
+      "rating": 1,
+      "title": "Forces you to rate to unlock features",
+      "text": "I don’t think that’s even alllowed",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-04T01:54:18-07:00",
+      "rating": 4,
+      "title": "Sleeper",
+      "text": "Going to try it out first night tonight let’s see how it goes",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-03T03:11:33-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Download and set up was a breeze!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-02T18:59:31-07:00",
+      "rating": 1,
+      "title": "No features allowed",
+      "text": "When I try to do a recording with sound but it does not let me.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-02T14:52:37-07:00",
+      "rating": 5,
+      "title": "Vghhuug",
+      "text": "Vghh",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-01T13:49:48-07:00",
+      "rating": 5,
+      "title": "Слип рекордер",
+      "text": "Отличное приложение",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-10-01T05:29:37-07:00",
+      "rating": 4,
+      "title": "Helpful",
+      "text": "This could be very helpful",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-30T20:18:29-07:00",
+      "rating": 5,
+      "title": "Great Apps",
+      "text": "Great Sleep Tracking Apps. Easy to Use and its Free.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-29T02:59:32-07:00",
+      "rating": 5,
+      "title": "Great info!",
+      "text": "Great app!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-29T02:17:26-07:00",
+      "rating": 5,
+      "title": "Works",
+      "text": "Easy to use",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-27T22:09:07-07:00",
+      "rating": 5,
+      "title": "Cool I guess",
+      "text": "5/5",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-26T23:22:15-07:00",
+      "rating": 4,
+      "title": "It works great",
+      "text": "It works great, very good recording snoring sounds",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-25T06:07:42-07:00",
+      "rating": 2,
+      "title": "I don’t know",
+      "text": "I can’t understand why the results look different every day.   - or maybe it’s because I have only snored one night in the 2 weeks of using the app.  Who knows?",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-24T23:39:34-07:00",
+      "rating": 5,
+      "title": "Best APP",
+      "text": "Very much appreciate this app",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-24T12:42:26-07:00",
+      "rating": 4,
+      "title": "Front camera not an option?",
+      "text": "There is no option to use the front camera if you choose to record audio/video. And that seems like it’d be an obvious choice to offer.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-23T20:49:05-07:00",
+      "rating": 4,
+      "title": "Pretty Neat",
+      "text": "Interesting to hear and look at the data",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-23T04:13:15-07:00",
+      "rating": 4,
+      "title": "First night",
+      "text": "Not sure I recorded it right. Need some help",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-22T22:30:13-07:00",
+      "rating": 2,
+      "title": "Ty",
+      "text": "G",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-21T21:37:33-07:00",
+      "rating": 5,
+      "title": "Free is good",
+      "text": "Trying this app",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-20T22:38:48-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Free is dope",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-20T05:16:49-07:00",
+      "rating": 4,
+      "title": "Really sleepy mom Ma",
+      "text": "Just starting it. I’ll let you know more once I’ve tried it for a few weeks.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-17T00:53:39-07:00",
+      "rating": 5,
+      "title": "Life saver",
+      "text": "Have rem sleep disorder. This app ids many patterns.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-16T21:52:13-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "App works",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-16T20:39:42-07:00",
+      "rating": 4,
+      "title": "cool",
+      "text": "good app i think",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-16T04:41:04-07:00",
+      "rating": 5,
+      "title": "ᴇxᴄᴇʟᴇɴᴛᴇ",
+      "text": "ᴇxᴄᴇʟᴇɴᴛᴇ ᴍᴜʏ ᴘʀᴀ́ᴄᴛɪᴄᴀ",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-15T21:33:20-07:00",
+      "rating": 5,
+      "title": "Mariam",
+      "text": "this app is for free and you don't have to log in or pay",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-13T18:33:29-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "If I CAN use an app it's super easy! If I DO use an app it's bc it's useful & actually works!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-11T21:36:37-07:00",
+      "rating": 5,
+      "title": "New to app",
+      "text": "I’m excited to try out this new app",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-10T22:55:23-07:00",
+      "rating": 5,
+      "title": "App",
+      "text": "Really great",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-10T00:00:48-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good app",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-09T22:39:38-07:00",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Let’s you  monitor your sleep. Snoring can be normal to you until you monitor it. It can be loud to where it bothers your partner, lost of energy, tiredness after waking up, morning migraine and even cause sleep apnea. It’s good to monitor it.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-09T19:57:19-07:00",
+      "rating": 5,
+      "title": "хз",
+      "text": "проверяю, норм ли",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-09T18:24:03-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "This app is really sensitive, I learned a lot the first time I used it.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-09T13:37:56-07:00",
+      "rating": 3,
+      "title": "Пока не ясно",
+      "text": "Надеюсь норм, очень хочу найти бесплатное приложение 🙏🏻",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-08T05:35:07-07:00",
+      "rating": 5,
+      "title": "Recorder",
+      "text": "Tracks information very accurately",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-07T15:58:09-07:00",
+      "rating": 5,
+      "title": "кайф",
+      "text": "хорошее приложение супер",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-07T12:18:11-07:00",
+      "rating": 5,
+      "title": "крта",
+      "text": "вайбовое приложение",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-07T11:27:02-07:00",
+      "rating": 5,
+      "title": "отзыв",
+      "text": "супер приложение",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-06T06:58:20-07:00",
+      "rating": 1,
+      "title": "Doesn’t do much",
+      "text": "First two nights, got a little bit of readings. Recorded some breathing, no snore events. After that, nothing. The app is useless. The only thing it is good for is to tell you how long you slept. But anyone who knows how to read a clock can figure that out.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-04T12:57:01-07:00",
+      "rating": 5,
+      "title": "Имбулька приложение",
+      "text": "Чичикака",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-03T20:24:27-07:00",
+      "rating": 5,
+      "title": "Love the new look",
+      "text": "…. But how the heck do I view/hear my results??? Did it before the upgrade, can’t figure it out to save my soul! Please help! Figured it out, this numbskull wasn’t even recording! For some reason, you have to RECORD your sleep to be able to review it… weird…🤣🤣🤣",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-02T22:13:51-07:00",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Ok",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-02T20:11:44-07:00",
+      "rating": 5,
+      "title": "So far so good",
+      "text": "I am hopeful this app will help me figure out if I have an issue with snoring or gasping at night.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-02T06:38:26-07:00",
+      "rating": 2,
+      "title": "Hard to fathom",
+      "text": "I’m not sure why my alarm doesn’t go off, I can’t find the recording of the night before. Just a lot of things that’s driving me insane 🤷🏼‍♀️🤷🏼‍♀️",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-01T23:22:50-07:00",
+      "rating": 3,
+      "title": "Want features",
+      "text": "So leaving the review",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-01T12:37:44-07:00",
+      "rating": 5,
+      "title": "So helpful",
+      "text": "I talk a lot in my sleep especially when dreaming. I can hear my tiny snores followed by a quick small gasp of air/breathing in. I will take this to my doctor. I may have REM behavioral sleep disorder or behavioral REM sleep disorder. \nBut I love what this app can do. I’m going to download this for my dad because he doesn’t believe he snores, and I’m worried that he has sleep apnea\n5 stars",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-09-01T09:49:26-07:00",
+      "rating": 5,
+      "title": "I love this app",
+      "text": "Idk whatvto type",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-30T20:27:11-07:00",
+      "rating": 5,
+      "title": "Snore recorde",
+      "text": "Love that the app keeps accurate data. Trying to figure out if I have apnea or not, and my snore pattern and awake time will help figure it out",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-30T18:26:04-07:00",
+      "rating": 2,
+      "title": "Unsure",
+      "text": "I have to try it before I can rate it. I don’t like being forced to rate an app that I have not been able to use. Will update after getting to use it.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-29T18:56:59-07:00",
+      "rating": 5,
+      "title": "easy to use",
+      "text": "Works like it should even with a fan running!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-27T21:27:01-07:00",
+      "rating": 5,
+      "title": "Good recording",
+      "text": "Helps with anti snowing devices I’m trying.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-26T16:23:24-07:00",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "User friendly with all the tools we need",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-25T22:32:05-07:00",
+      "rating": 5,
+      "title": "Trying Something New",
+      "text": "Trying this out to track my nighttime snoring. So far, so good.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-25T22:03:35-07:00",
+      "rating": 4,
+      "title": "It helps",
+      "text": "I got this to track my sleep and snoring after my sister told me I’ve been snoring super loud. After hearing the recording I went to my doctor to get a sleep test done for sleep apnea. This does the job that I need it to do",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-25T13:30:42-07:00",
+      "rating": 5,
+      "title": "кайфарик",
+      "text": "все кайф",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-21T20:05:16-07:00",
+      "rating": 5,
+      "title": "Easy breezy",
+      "text": "Gives you a good idea of how often you’re waking yourself up with your snoring!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-21T18:19:33-07:00",
+      "rating": 1,
+      "title": "Dorothy",
+      "text": "Haven’t started yet!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-21T16:11:09-07:00",
+      "rating": 5,
+      "title": "Enlightening",
+      "text": "It’s confirmed. I snore a LOT. Someone pointed it out and I didn’t believe her at first but I heard it with my own ears bc of this app. 🤦‍♀️",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-21T13:20:59-07:00",
+      "rating": 5,
+      "title": "Ради полного приложения",
+      "text": "Ради полного приложения",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-20T21:42:05-07:00",
+      "rating": 4,
+      "title": "Works great",
+      "text": "Trying to figure out how to correct snoring this app helps identify snoring patterns intensity and more",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-20T04:53:12-07:00",
+      "rating": 4,
+      "title": "Helps track apneas",
+      "text": "I have suspected sleep apnea, and this app honestly works really well for tracking my snoring and letting me know how often I seem to be gasping or choking in my sleep. It can’t 100% track everything since it’s just on audio alone, but it’s still really nice to be able to somewhat track it.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-19T20:35:18-07:00",
+      "rating": 5,
+      "title": "Sleep",
+      "text": "Good app to track your sleep",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-18T20:59:47-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Lots of insight. Easy to understand.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-18T07:12:59-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Easy to use.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-18T04:24:02-07:00",
+      "rating": 5,
+      "title": "Ура",
+      "text": "Дааа",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-16T22:39:39-07:00",
+      "rating": 5,
+      "title": "About to….",
+      "text": "…..Use this app for the first.🤫",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-14T16:09:47-07:00",
+      "rating": 5,
+      "title": "Best app",
+      "text": "This is the best snore monitor app I have.",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-14T16:05:14-07:00",
+      "rating": 5,
+      "title": "норм",
+      "text": "хачу халяву за отзыв",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-08-09T22:10:51-07:00",
+      "rating": 5,
+      "title": "I love this app",
+      "text": "Super fácil de usar y es gratuita 😍",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-08-05T00:03:23-07:00",
+      "rating": 5,
+      "title": "Reciew",
+      "text": "It’s very cool!!",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-08-02T23:14:41-07:00",
+      "rating": 2,
+      "title": "Haven’t even used it yet!",
+      "text": "So you’re forcing me to evaluate whether or not the app even does anything, and if so, how accurate it is, or ease or difficulty of use, but I haven’t used it yet, so make it make sense!",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-08-02T07:14:51-07:00",
+      "rating": 5,
+      "title": "Snore",
+      "text": "Great device and feedback healthy",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-08-01T04:07:39-07:00",
+      "rating": 5,
+      "title": "Superior",
+      "text": "Top notch",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-31T01:31:33-07:00",
+      "rating": 3,
+      "title": "It’s ok",
+      "text": "Not the best ever",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-30T22:26:38-07:00",
+      "rating": 4,
+      "title": "Not sure",
+      "text": "Great features. Need more time to verify accuracy.",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-30T22:12:51-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Amazing",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-30T20:03:05-07:00",
+      "rating": 5,
+      "title": "Regular usage",
+      "text": "I use it periodically and is a great tool to breakdown how I sleep",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-30T15:57:08-07:00",
+      "rating": 5,
+      "title": "I love this app",
+      "text": "Good app",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-30T10:12:04-07:00",
+      "rating": 4,
+      "title": "Does what it says",
+      "text": "Recorded my snoring and gave decibel levels. It would have been more helpful if the recording had a time noted.",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-29T14:35:53-07:00",
+      "rating": 5,
+      "title": "Мяу",
+      "text": "Окак",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-29T11:04:56-07:00",
+      "rating": 5,
+      "title": "👍",
+      "text": "Все Гуд",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-28T22:31:08-07:00",
+      "rating": 4,
+      "title": "New",
+      "text": "Seems to work just aa described so far",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-28T03:30:48-07:00",
+      "rating": 5,
+      "title": "Detect Confidence",
+      "text": "What does it mean?",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-25T20:17:02-07:00",
+      "rating": 5,
+      "title": "реал",
+      "text": "все круто",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-24T22:54:59-07:00",
+      "rating": 5,
+      "title": "Leaving this for access",
+      "text": "Leave 5 stars get free access",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-24T20:21:24-07:00",
+      "rating": 5,
+      "title": "ганг",
+      "text": "гол",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-22T08:48:35-07:00",
+      "rating": 5,
+      "title": "Free app",
+      "text": "Glad to have a sleep so that is free!",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-22T03:41:20-07:00",
+      "rating": 5,
+      "title": "Mister",
+      "text": "I’m hoping this program will help me determine whether my sleep apnea device is effective.",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-21T23:04:40-07:00",
+      "rating": 5,
+      "title": "Five stars",
+      "text": "Easy to use",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-21T11:19:59-07:00",
+      "rating": 5,
+      "title": "Нормально",
+      "text": "Хорошо пока что",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-20T17:37:13-07:00",
+      "rating": 5,
+      "title": "Super.",
+      "text": "Excelente aplicación.  Te sorprenderá lo que puedes roncar sin darte cuenta.",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-19T00:19:28-07:00",
+      "rating": 5,
+      "title": "!",
+      "text": "Yay",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-18T07:54:02-07:00",
+      "rating": 4,
+      "title": "It works",
+      "text": "It works how it’s supposed to.",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-15T20:33:13-07:00",
+      "rating": 4,
+      "title": "Hi",
+      "text": "It helps me",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-15T09:54:44-07:00",
+      "rating": 5,
+      "title": "Sleep well",
+      "text": "I love it",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-15T00:22:48-07:00",
+      "rating": 5,
+      "title": "Super great!",
+      "text": "Love it love it love it love it!!!!",
+      "version": "2.3.1"
+    },
+    {
+      "date": "2026-07-13T23:09:55-07:00",
+      "rating": 5,
+      "title": "Works great",
+      "text": "Great insight into my sleep.",
+      "version": "2.3.1"
+    }
+  ]
+}

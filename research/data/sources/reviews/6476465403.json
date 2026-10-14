@@ -1,0 +1,357 @@
+{
+  "app": "ROXFIT",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-05T09:59:06-07:00",
+      "rating": 5,
+      "title": "Very cool!",
+      "text": "I really enjoy the analytics!",
+      "version": "2.4.8"
+    },
+    {
+      "date": "2026-08-15T07:44:00-07:00",
+      "rating": 3,
+      "title": "What’s going on with my workout data?",
+      "text": "The newest update gives some interesting insights into how you’re training and it’s slightly easier to build your own workouts. BUT it records all of my workouts as runs for my Apple Health/workout no matter how much or little running is involved. This is really messing with my run data as well as showing way too low of a calorie burn for the work being put in. It should either give you the option to decide what kind of workout it records or automatically be logged as a HIIT workout unless it’s all running.",
+      "version": "2.4.6"
+    },
+    {
+      "date": "2026-07-26T20:55:45-07:00",
+      "rating": 5,
+      "title": "Great app for tracking athletes",
+      "text": "This app is great! I can track my workouts, upcoming events and athletes!",
+      "version": "2.3.2"
+    },
+    {
+      "date": "2026-06-07T16:29:38-07:00",
+      "rating": 3,
+      "title": "S",
+      "text": "Sadf",
+      "version": "2.2.10"
+    },
+    {
+      "date": "2026-06-07T08:06:37-07:00",
+      "rating": 4,
+      "title": "great",
+      "text": "great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-07T08:06:08-07:00",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Ok",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-07T06:44:54-07:00",
+      "rating": 5,
+      "title": "Workouts",
+      "text": "Great app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-07T05:33:14-07:00",
+      "rating": 5,
+      "title": "Lyssyxo",
+      "text": "Great app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-07T05:12:11-07:00",
+      "rating": 5,
+      "title": "Excellent companion",
+      "text": "This is the app if you want to strategically improve your Hyrox time",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T22:38:53-07:00",
+      "rating": 4,
+      "title": "Update",
+      "text": "Update",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T20:57:10-07:00",
+      "rating": 4,
+      "title": "Great app",
+      "text": "Fun to compare previous races",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T20:35:23-07:00",
+      "rating": 5,
+      "title": "Mr",
+      "text": "Peet",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T19:44:38-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "Really good app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T18:02:01-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great to keep up with athletes!",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T18:00:54-07:00",
+      "rating": 5,
+      "title": "Wohoo",
+      "text": "Yea",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T17:02:51-07:00",
+      "rating": 4,
+      "title": "yanu",
+      "text": "great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T15:54:04-07:00",
+      "rating": 5,
+      "title": "Roxfit",
+      "text": "Excellent",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T15:43:54-07:00",
+      "rating": 5,
+      "title": "Mr.",
+      "text": "Cool",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T14:49:18-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Love it",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T14:43:26-07:00",
+      "rating": 5,
+      "title": "Ed",
+      "text": "Ed",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T14:30:54-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Nice",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T14:24:42-07:00",
+      "rating": 5,
+      "title": "Hyrox",
+      "text": "Brutal",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T12:51:01-07:00",
+      "rating": 4,
+      "title": "App",
+      "text": "Good app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T12:13:06-07:00",
+      "rating": 5,
+      "title": "Na",
+      "text": "Na",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T12:06:11-07:00",
+      "rating": 5,
+      "title": "NC",
+      "text": "None",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T12:05:05-07:00",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T11:23:51-07:00",
+      "rating": 5,
+      "title": "Just want to update app",
+      "text": "Just want to update app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T10:32:03-07:00",
+      "rating": 3,
+      "title": "App Update",
+      "text": "App won’t update without letting me leave this review",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T09:41:48-07:00",
+      "rating": 4,
+      "title": "H",
+      "text": "H",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T09:32:44-07:00",
+      "rating": 4,
+      "title": "p",
+      "text": "Love it",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T09:19:01-07:00",
+      "rating": 4,
+      "title": "N",
+      "text": "I",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T08:31:31-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T08:25:05-07:00",
+      "rating": 5,
+      "title": "A",
+      "text": "B",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T06:16:26-07:00",
+      "rating": 5,
+      "title": "Boss",
+      "text": "Go Bills",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T05:49:51-07:00",
+      "rating": 5,
+      "title": "Roxfit",
+      "text": "N/A",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T03:17:59-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T02:42:25-07:00",
+      "rating": 2,
+      "title": "Sucks",
+      "text": "Sucks",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-06T01:17:24-07:00",
+      "rating": 5,
+      "title": "Kp",
+      "text": "Good",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T22:56:23-07:00",
+      "rating": 1,
+      "title": "K",
+      "text": "K",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T20:20:36-07:00",
+      "rating": 5,
+      "title": "N/A",
+      "text": "N/A",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T19:17:44-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Really like how fun this is",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T17:57:38-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "10/10",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T16:49:05-07:00",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T16:27:45-07:00",
+      "rating": 4,
+      "title": "Downloading app?",
+      "text": "Working?",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T16:05:41-07:00",
+      "rating": 5,
+      "title": "Brittany Mair",
+      "text": "Great",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T14:55:07-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Huge benefit",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T14:38:18-07:00",
+      "rating": 5,
+      "title": "None",
+      "text": "Good app",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T13:03:24-07:00",
+      "rating": 5,
+      "title": "hyrox",
+      "text": "good",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T12:53:38-07:00",
+      "rating": 5,
+      "title": "Cool app",
+      "text": "Enjoying it",
+      "version": "2.2.9"
+    },
+    {
+      "date": "2026-06-05T12:25:41-07:00",
+      "rating": 5,
+      "title": "Proud mom",
+      "text": "Love the app to follow my daughter!",
+      "version": "2.2.9"
+    }
+  ]
+}

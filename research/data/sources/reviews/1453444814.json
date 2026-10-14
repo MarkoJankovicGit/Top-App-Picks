@@ -1,0 +1,343 @@
+{
+  "app": "GymRats · Fitness challenge",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-30T10:21:54-07:00",
+      "rating": 1,
+      "title": "Apple Health",
+      "text": "Started off good, now it no longer syncs Apple Health data. It worked for 19 days. As of today, nothing.",
+      "version": "2026.9.25"
+    },
+    {
+      "date": "2026-07-03T17:03:11-07:00",
+      "rating": 5,
+      "title": "Yass loves Gymrats",
+      "text": "This app is really amazing. I mean that with no glaze. My friend Nick who is a 4th company representative really loves this app to death, and I don’t know where I would be without him and his love for this app. Go Gymrats🤙",
+      "version": "2026.2.22"
+    },
+    {
+      "date": "2026-05-28T09:59:23-07:00",
+      "rating": 5,
+      "title": "Gym",
+      "text": "Ótimo",
+      "version": "2026.2.22"
+    },
+    {
+      "date": "2026-02-04T05:12:39-07:00",
+      "rating": 1,
+      "title": "Extremely disappointed",
+      "text": "This app only tracks your workout if you manually open it, which is ridiculous for something that’s supposed to run automatically. I was in a 30-day challenge with money on the line, and I was winning the entire time. On the very last day, I forgot to open the app, even though I DID the workout and surprise: it wasn’t counted.\nI “lost” the challenge and lost actual money, despite having completed everything.\nThis isn’t just frustrating, it’s unfair. An app that costs money and promotes challenges should not punish users for something so small, especially when there’s proof the workout was done. If you’re joining challenges, be warned: one forgotten tap can cost you the win.\nDo better.",
+      "version": "2026.1.2"
+    },
+    {
+      "date": "2025-12-28T10:30:35-07:00",
+      "rating": 5,
+      "title": "Best workout app",
+      "text": "I have used several workout apps for challenges with friends. This is the best by far—for challenges and variety of challenges, teams, groups, posting of pics, and msgs between our group members. Gymrats allows privacy for just your group, not requiring it to be open to all. I purchased GymRats Pro for additional features and very happy with price and features.\nRecommend this app",
+      "version": "2025.12.20"
+    },
+    {
+      "date": "2025-12-25T08:59:02-07:00",
+      "rating": 5,
+      "title": "Meu parceiro de bons hábitos",
+      "text": "Maravilhoso, para registrar as minhas conquistas.",
+      "version": "2025.12.20"
+    },
+    {
+      "date": "2025-11-16T19:53:27-07:00",
+      "rating": 1,
+      "title": "Unusable app",
+      "text": "I spent an hour trying to create a profile and log into the app. Couldn’t get it done. I put in my name and email address. It loaded a password for me that I went in and had to try and change. I successfully set a password, but the app would not allow me to view any data. Create any profile particulars or find any groups that I wanted to join. I’m done with this mental exercise.",
+      "version": "2025.10.4"
+    },
+    {
+      "date": "2025-04-02T08:18:07-07:00",
+      "rating": 5,
+      "title": "Great Accountability App with Tons of Potential",
+      "text": "This is exactly what I’ve been looking for and I have enjoyed using the GymRats app. I think it has so much potential! One of the best features is the check-in system, which makes it easy to keep your group accountable. It’s also a great way to stay connected with friends and coworkers who can’t physically work out with you but still want to stay on track together. Syncing workouts from your Apple health is super easy and the photo upload feature really ties everything together.\n\nThat said, I do think the app could benefit from a few improvements. First, the name is a bit cringey and doesn’t fully reflect what the app offers—I probably would have found it sooner if it had a name that better conveyed its purpose.\n\nAs for features, I’d love to see:\n•Expanded chat capabilities, similar to Discord or Slack, where users can react to posts and create threads/ pin posts.\n•Personal weight loss goals and weight loss focused competitions to keep users motivated.\n•Nutrition or meal post features to complement fitness progress.\n•Profile upgrades, including fitness goals, a bio section, highlights, and photos to personalize the experience.\n•A streak system to encourage consistency and reward regular check-ins.\n•The ability to share the leaderboard on socials would also be a great option.\n\nOverall, GymRats is a fantastic tool for accountability, and I’m excited to see how it evolves! Looking forward to future updates.",
+      "version": "76"
+    },
+    {
+      "date": "2025-03-14T15:39:21-07:00",
+      "rating": 5,
+      "title": "Super cool!",
+      "text": "The staff of GymRats is super nice too! Congratulations for the good work, guys!",
+      "version": "75"
+    },
+    {
+      "date": "2025-01-21T05:20:55-07:00",
+      "rating": 4,
+      "title": "Great app, one feature suggestion",
+      "text": "My best friend and I have been using this for over a year to track our workouts, stay on top of each other, we’ve also had a running back with each other to make sure we stay accountable. It’s an incredible, has great functionality, is easy to use, and simple.\n\nONE SUGGESTION -please add a feature to edit the date of a workout so that you don’t have to delete the workout and post it again if you put in the wrong date or post after 12 AM that night and accounts for the wrong guy.",
+      "version": "71"
+    },
+    {
+      "date": "2024-08-02T13:00:38-07:00",
+      "rating": 4,
+      "title": "No step count integration",
+      "text": "Our company recently used this for a step challenge. Everyone loved it but the biggest drawback was that step count didn’t automatically import via Apple Health or Fitbit. They had to be manually keyed in. Please develop this feature and it would be perfect!",
+      "version": "62"
+    },
+    {
+      "date": "2024-07-11T18:26:20-07:00",
+      "rating": 5,
+      "title": "The Walking Challenge",
+      "text": "Company is dining a walking challenge!  But what I love about it is we have a space to cheer each other along.",
+      "version": "58"
+    },
+    {
+      "date": "2024-06-06T08:46:51-07:00",
+      "rating": 5,
+      "title": "Great app with no fuss",
+      "text": "Easy to set up and easy to create challenges with a group. Having everyone check in with a photo has kept people engaged and active on the app.⭐️⭐️⭐️⭐️⭐️",
+      "version": "54"
+    },
+    {
+      "date": "2024-05-01T17:49:59-07:00",
+      "rating": 5,
+      "title": "Disciplina = resultado",
+      "text": "O sistema de competição gera uma energia positiva na busca de performance individual e coletiva. É um UP adicional para alcançar objetivos saudáveis e espantar o sedentarismo!",
+      "version": "54"
+    },
+    {
+      "date": "2024-04-26T13:04:43-07:00",
+      "rating": 4,
+      "title": "best accountability app for fitness!",
+      "text": "loveeee the features of this app, especially being able to chat. PLEASE LET US REACT / REPLY TO CHAT MESSAGES! editing feature would be awesome too!",
+      "version": "54"
+    },
+    {
+      "date": "2024-04-10T10:30:25-07:00",
+      "rating": 5,
+      "title": "Love the app BUT",
+      "text": "Need to make a feature where the user can respond to certain messages or like messages within the group chat.",
+      "version": "53"
+    },
+    {
+      "date": "2024-03-14T06:36:00-07:00",
+      "rating": 1,
+      "title": "Horrible Update",
+      "text": "The most recent update made it so you can’t backlog your workouts, only log a workout the day of. Sometimes we forget to log yesterday’s workout and want to get credit for it, but now we can’t do that. I’ve enjoyed this app up until now. My friends and I will not be using this app going forward until this issue is fixed.",
+      "version": "50"
+    },
+    {
+      "date": "2024-03-13T18:19:42-07:00",
+      "rating": 3,
+      "title": "Garbage Update (March 2024)",
+      "text": "The app was updated and literally downgraded. Step challenges are now completely useless without having multiple additional steps just to track them appropriately. Some auto generated things like activity titles were removed. We used the app to have both activity and steps challenges. It use to be one of the few apps capable of doing both and they eliminated the one unique feature to other apps that just do steps or just activities. Disappointing. We will be finding a new challenge platform after this month.",
+      "version": "49"
+    },
+    {
+      "date": "2023-10-24T13:00:03-07:00",
+      "rating": 3,
+      "title": "Picture required? Can’t tie",
+      "text": "It looks like in order to log your activity, you are required to post a picture which I don’t like. Also, my husband and I are tied in activities but it says he is second? Do you have a way to show ties?",
+      "version": "43"
+    },
+    {
+      "date": "2023-06-24T14:51:39-07:00",
+      "rating": 5,
+      "title": "Review",
+      "text": "This app is so good! You can edit anything you need and you can have several options of what you want the competition to be. You can make or join a group and you ca Bc also leave it. You can text and see who’s in the group. It’s a great app!",
+      "version": "35"
+    },
+    {
+      "date": "2023-05-29T05:52:06-07:00",
+      "rating": 5,
+      "title": "Open points?",
+      "text": "My friends and I use this all the time for group challenges. But, it looks like you got rid of open point style challenges. One challenge we like to do is pick you poison, where each lady picks four possible points a day to get. We all pick our own four points at the beginning of the month and use this ap to track them. It is really fun. But for June, it looks like there is no more open point option. There are these new hustle points, which look super fun for later, but they won’t work for open points. We have also used open points for other challenges where the group says what the points equate to rather than the ap telling us. Please bring back open point tracking.",
+      "version": "35"
+    },
+    {
+      "date": "2023-01-24T21:42:13-07:00",
+      "rating": 5,
+      "title": "Easy, simple, and fun",
+      "text": "This is perfect!! I love how customizable this is. My friend and I are working out together but hated apps that made you weigh yourself and count calories. We just want to focus on moving and enjoying fitness, not worrying so much about obsessing over macros. We’ve been using this 3 weeks so far and it’s super motivating! I wish you could edit the photo after the workout is posted, though. It would also be nice to see the progress total—such as total number of minutes or distance or whatever goal it is. I’d love an option with a progress bar or percentage showing how far into the challenge you are too. \n\nEither way—it’s nice there’s different options like hustle points, which we’re going to try next. PS for those who do want to track calories burned, you can have that option. It also has distance, time, and some other options, too! This is a great app.",
+      "version": "33"
+    },
+    {
+      "date": "2022-10-06T04:14:03-07:00",
+      "rating": 5,
+      "title": "Keeping on track",
+      "text": "This app has helped me stay accountable for making sure I get my workouts in.",
+      "version": "30"
+    },
+    {
+      "date": "2022-08-16T16:37:25-07:00",
+      "rating": 5,
+      "title": "Amazing!",
+      "text": "Incredible app to keep our collegiate club lacrosse team motivated and having fun over the summer. Would love to see a version of this for other habits - potentially something for hydration? It would be awesome to be able to track and give points for water intake!",
+      "version": "30"
+    },
+    {
+      "date": "2022-07-23T08:05:22-07:00",
+      "rating": 5,
+      "title": "Workouts",
+      "text": "Keeps me accountable m!",
+      "version": "30"
+    },
+    {
+      "date": "2022-07-06T16:18:05-07:00",
+      "rating": 5,
+      "title": "Love this app!",
+      "text": "My friends and I love using this app to hold each other accountable with our workouts. You can customize your challenges to suit your preferences. Helps us to find some enjoyment in staying fit!",
+      "version": "30"
+    },
+    {
+      "date": "2022-05-21T19:26:06-07:00",
+      "rating": 1,
+      "title": "Apple sync",
+      "text": "Sync with Apple Watch it seems like I have to import each workout instead of it doing it by itself?",
+      "version": "30"
+    },
+    {
+      "date": "2022-05-18T20:57:01-07:00",
+      "rating": 2,
+      "title": "Challenges are nice, but import is lacking",
+      "text": "Trying to import workouts from Apple Health, but the date is a non-editable field. If you’re going to have multi-day challenges, they should be based on how much physical activity participants undertake (which is supposed to be the point, right?) not on how many participants happened to remember to import their steps by 11:59 pm on any given day",
+      "version": "30"
+    },
+    {
+      "date": "2022-01-03T06:43:43-07:00",
+      "rating": 5,
+      "title": "BEST app find for fitness with friends!!",
+      "text": "Can’t thank you enough for this simple, easy to use, fun and most excellent app. It’s EXACTLY what I hoped to find. \n\nA small group of friends and I did a ‘mileage’ challenge last year someone found online. The upside was since we were in it together it made a HUGE difference in everyone’s commitment to get more fit. Downsides: It was pricey for everyone and fairly clunky to even log miles…but the worst was since it was based on miles-only it really left out some friends who wanted to participate and were working out religiously in cardio or yoga classes but not getting mileage. \n\nThe super simple design was vital to get everyone in our group to download and learn a new thing. But it’s so fast and easy we did it. \n\nBut the flexibility of your app is the best feature! We set up our January challenge to be based on workout minutes instead of miles. That is really allowing ALL fitness levels to participate and feel good about their progress—as we have everyone from serious distance runners to those with physical disabilities in our dozen or so participants. \n\nAt first I was bummed that it didn’t offer an option to connect our Fitbits and Strava etc. But as we all started using the option of posting a photo from the workout — that has become its own joy to see out of state friends on their yoga mats or a pic from their run. We love that and it’s bringing us closer as friends and helping grow fitness routines. THANK YOU!!! Boring auto posting from our watches etc would feel so impersonal now! \n\nI would happily pay for this app in the future even without additional features being added. \n\n**Sure hope you offer an option where I could pay one fee for my group of X people (12ish would be my wish) so that it would be free to those I invite.**\n\nIt would have been MUCH harder to get everyone on if they had to pay individually even if the price were low. Just a mental hurdle for some of the less techy among us or those on the fence about joining in or in a hard $ spot. \n\nThank you again. It is growing our fitness and friendships. THAT is value!! \n\nPs I could see you adapting this format to other groups of friends/family who want to commit to a practice of some kind — from makers who want to dedicate more minutes to their craft and share pics of the process…to a group of book lovers who want to read a certain number of books and want to post and say a little about the book they just finished. Keep up the great work!!",
+      "version": "30"
+    },
+    {
+      "date": "2021-12-02T07:07:37-07:00",
+      "rating": 4,
+      "title": "Good app",
+      "text": "The app is great. But after the update, I cannot import my workout from the health app. It says import today step count and I cannot make any changes. Please help. I wish if I can upload the screenshot.",
+      "version": "27"
+    },
+    {
+      "date": "2021-11-30T15:33:42-07:00",
+      "rating": 5,
+      "title": "Best Group Tracker",
+      "text": "Best app to compete/track group fitness challenges!",
+      "version": "27"
+    },
+    {
+      "date": "2021-10-20T18:51:05-07:00",
+      "rating": 5,
+      "title": "Best Workout Competition App Ever",
+      "text": "Love it.",
+      "version": "26"
+    },
+    {
+      "date": "2021-10-03T10:54:30-07:00",
+      "rating": 5,
+      "title": "Fun & Healthy Way to Connect with Friends",
+      "text": "I love this app. Lots of my friends live all over the country and it’s given us a platform to both connect and stay healthy together throughout the pandemic and beyond. Helps me get to the gym on days I don’t want to when i see all my friends already went!!",
+      "version": "26"
+    },
+    {
+      "date": "2021-07-14T10:44:39-07:00",
+      "rating": 5,
+      "title": "This App Rocks",
+      "text": "Honestly, this is the best app ever for friends who love to hold each other accountable. It really brings out your competitive side, and makes you want to get your workouts in!",
+      "version": "26"
+    },
+    {
+      "date": "2021-06-27T08:12:32-07:00",
+      "rating": 5,
+      "title": "Great app, perfect for our needs.",
+      "text": "My friends and I have been looking for an easy way to do fitness challenges, but since we all have different phones/fitness trackers/preferred methods of exercise, this was proving hard to do. This app solves that problem nicely, and we rank by calories burned. My only gripe, and this is a personal one, is that I wish it linked to my Fitbit. Since it does not, I have to manually enter data, which is only mildly inconvenient. My other wish is that I would like the option to add photos or videos to all workouts, not just the manual entry ones. Otherwise, a perfect app for our purposes.",
+      "version": "26"
+    },
+    {
+      "date": "2021-05-10T12:12:16-07:00",
+      "rating": 5,
+      "title": "Sheeeesh",
+      "text": "Whoever made this app is definitely hung and has a capacious—intelligently thought out—design for a fitness competition app.",
+      "version": "25"
+    },
+    {
+      "date": "2021-04-05T17:11:53-07:00",
+      "rating": 1,
+      "title": "Does Not Give Option To Sign In",
+      "text": "I created an account on my Android and when I went to sign in on my iPod it only gave the option to create an account. I would like to sign into the account I created not create a new account. Please help in this matter",
+      "version": "22"
+    },
+    {
+      "date": "2021-03-05T11:26:51-07:00",
+      "rating": 4,
+      "title": "Need more integration options",
+      "text": "I’d give it 5 stars if it integrated & synced with Fitbit.",
+      "version": "22"
+    },
+    {
+      "date": "2020-10-29T11:46:06-07:00",
+      "rating": 5,
+      "title": "Need Motivation? Use Competition!!!",
+      "text": "I’ve been using this app since June to motivate my friends and coworkers to get up and start moving especially during a time like this...COVID!! As a leader I’ve had to find creative ways to make the challenges fun and harder every month but it’s working!!! In June I had 7 participants...the November challenge starts in 2 days and I have almost 20 people ready to compete 💪🏾💯 I love this app!!",
+      "version": "19"
+    },
+    {
+      "date": "2020-09-29T06:15:13-07:00",
+      "rating": 4,
+      "title": "Scrolling issue?",
+      "text": "Has anybody else had issues when trying to join a challenge and you cannot scroll down far enough on the overview of the challenge to actually join?\n\nOtherwise a great app, but I have people in my challenge that are unable to join.",
+      "version": "18"
+    },
+    {
+      "date": "2020-06-12T17:58:08-07:00",
+      "rating": 3,
+      "title": "Miles",
+      "text": "I would like to control start and stop miles walk/run. Not just the over all. Otherwise nice App. Thanks",
+      "version": "15"
+    },
+    {
+      "date": "2020-06-05T17:14:18-07:00",
+      "rating": 4,
+      "title": "Great app",
+      "text": "It would be amazing if we could upload videos.",
+      "version": "15"
+    },
+    {
+      "date": "2020-04-28T09:01:36-07:00",
+      "rating": 5,
+      "title": "Perfect social distancing workout challenge!!!",
+      "text": "Seriously stay motivated with friends through this easy app",
+      "version": "12"
+    },
+    {
+      "date": "2020-03-08T16:40:27-07:00",
+      "rating": 5,
+      "title": "simple and perfect for group challenges",
+      "text": "Thanks for keeping the app simple/easy to use and ad-free!! This is literally the only app my friends and I found that suited our “accountabilibuddy” system for working out. Love the freedom to include specific workout details instead of choosing from presets.",
+      "version": "10"
+    },
+    {
+      "date": "2019-11-26T18:23:29-07:00",
+      "rating": 5,
+      "title": "The perfect social fitness challenge app",
+      "text": "I never leave reviews but I just love this app and I appreciate the responsiveness of the developer. My friend and I wanted to do a fitness challenge for fun and I researched every social fitness challenge app in the App Store, and after trying a bunch I picked this one because it has all the features I was looking for and nothing more. It's super simple and easy to use. Also, the developer Mack is super responsive, and I was pleasantly surprised that he immediately responded to some suggestions I gave. Thanks for taking the time to build, maintain, and improve this app!",
+      "version": "6"
+    },
+    {
+      "date": "2019-09-19T07:28:42-07:00",
+      "rating": 1,
+      "title": "Bogus app",
+      "text": "I was excited when I was looking into fitness competition apps and found this one. Once I signed in then nothing but a calendar. No where to add specific workouts for the challenge. No where to create a point system amongst friends to score the competition. Just a basic somewhat useless app. Their friends must have given this 5 stars because it’s definitely nowhere close to being that. Don’t bother.",
+      "version": "2"
+    },
+    {
+      "date": "2019-03-15T19:32:15-07:00",
+      "rating": 5,
+      "title": "10/10",
+      "text": "10/10 workout app. Heard mark wahlberg uses it",
+      "version": "1.1"
+    },
+    {
+      "date": "2019-03-07T16:52:53-07:00",
+      "rating": 5,
+      "title": "Best workout app!!",
+      "text": "Been using GymRats for a short period and have loved the idea from the start.  Nothing gets you out of bed in the morning and to the gym better than competition.  No need for a workout gadget, which means anyone can join and its very social!!!",
+      "version": "1.0"
+    }
+  ]
+}

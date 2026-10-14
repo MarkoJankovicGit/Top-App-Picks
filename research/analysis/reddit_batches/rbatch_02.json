@@ -1,0 +1,755 @@
+[
+ {
+  "key": "r:beautyagentlocal",
+  "name": "Beauty Agent Local",
+  "country": "Japan",
+  "seller": "ゼオン (note.com author)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "true - 'a web app supporting self-care for women' (女性向けセルフケア)",
+  "what_it_is": "Web app that supports self-care for women: beauty records and ingredient checks in one place.",
+  "sets_apart": "Beauty log plus ingredient check for a women's self-care routine; web app released by an individual.",
+  "traction": "note post 4 likes, ~7 months old.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "美容の記録・成分チェックが1つでできるWebアプリを作成",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "7 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:ケアミーcareme生理・pmsの共有アプリ",
+  "name": "ケアミー (CareMe) - 生理・PMSの共有アプリ",
+  "country": "Japan",
+  "seller": "Health & Rights Inc.",
+  "dev_type": "small startup (unverified size)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "true - PMS/period app for women",
+  "what_it_is": "Period and PMS tracking app whose twist is sharing your condition with a partner or family; targets women troubled by PMS.",
+  "sets_apart": "Sharing mechanic (partner/family see period and PMS status) instead of a purely private tracker.",
+  "traction": "JP store: 15,137 ratings (4.61); released 2020-05-14; startup profile on note.com (10+ likes).",
+  "monetization": "Free download; IAP not verified",
+  "url": "https://apps.apple.com/jp/app/id1505033077",
+  "evidence": [
+   {
+    "title": "PMS特化のベストアプリを目指すスタートアップ",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "1 year ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:ルミノluminoプレ更年期からの生理・体調管理アプリ",
+  "name": "ルミノ (Lumino) - プレ更年期からの生理・体調管理アプリ",
+  "country": "Japan",
+  "seller": "menopeer Inc.",
+  "dev_type": "small startup (unverified size)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "true - 'for women 35 and older'",
+  "what_it_is": "Period and health management app for women from pre-menopause (35+), delivered through LINE.",
+  "sets_apart": "Targets the 35+ segment and the pre-menopause phase, built inside LINE; NOT Gen Z.",
+  "traction": "JP store: 200 ratings (4.04); released 2025-11-04; note post 7 likes (1 year ago).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/jp/app/id6753783350",
+  "evidence": [
+   {
+    "title": "月経管理のその先へ。プレ更年期からの新しいヘルスケアアプリ",
+    "subreddit": "note.com (non-Reddit)",
+    "age": "1 year ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:habittrackertodolist",
+  "name": "Habit Tracker - To-Do List",
+  "country": "India",
+  "seller": "Reddit user habittracker0 (name not shown)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Free all-in-one productivity app: tasks, notes, habit tracking and workout tracking in one place.",
+  "sets_apart": "Everything in one free app, no ads (only Firebase for install/user counts); maker built the audience with repeated milestone threads on Reddit (650 -> 1,600 -> 2,600 users), i.e. Reddit-driven organic growth. Not found in App Store search (us, in) -> probably Android-only.",
+  "traction": "Maker-stated: 650 users (thread 160+ comments), 1,600 users (26 Sep 2025 video post), 2,600 users (thread 90+ comments, ~11 months ago); launch threads 40+ and 20+ comments.",
+  "monetization": "Free, no ads (as stated)",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built an all-in-one productivity app - Habit Tracker - To-Do List",
+    "subreddit": "r/developersIndia",
+    "age": "~1 year ago"
+   },
+   {
+    "title": "My free all-in-one productivity app reached 650 users",
+    "subreddit": "r/developersIndia",
+    "age": "~1 year ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:folksablephotoaccountability",
+  "name": "Folksable (Photo Accountability)",
+  "country": "India",
+  "seller": "Dhikshith Reddy (App Store seller; name match to Reddit 'indie dev working on Folksable', unverified)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Productivity/habit app built on social accountability: make 'social contracts' with friends and track habits together via streaks and photo proof.",
+  "sets_apart": "Accountability with friends via contracts + photo proof instead of solo streaks.",
+  "traction": "iOS (US store): 17 ratings, 4.65; listed 2024-01-04, updated 2026-08-18 (still maintained). Reddit thread only 1 comment.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/id6473078578",
+  "evidence": [
+   {
+    "title": "I always struggled to establish new habits, so I built an app ...",
+    "subreddit": "r/developersIndia",
+    "age": "~2 years ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:fratecatexttospeechreader",
+  "name": "Frateca: Text to Speech Reader",
+  "country": "India",
+  "seller": "Andrey Novikov (Novikov Studio LLC)",
+  "dev_type": "solo",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Turns PDFs, articles, eBooks and web pages into natural AI-voice audio (3.5x speed) on iOS and Google Play.",
+  "sets_apart": "Text-to-audio reader with natural AI voices and speed-listening for 'reclaiming hours of your day'.",
+  "traction": "iOS US: 32 ratings, 3.84 (released 2025-02-28; updated 2026-10-08); IN store 1 rating. Thread 10+ comments (~10 months).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/frateca-text-to-speech-reader/id6741859465",
+  "evidence": [
+   {
+    "title": "I built an app that converts any text into high-quality audio.",
+    "subreddit": "r/indianstartups",
+    "age": "~10 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:yptstudygroupyeolpumta",
+  "name": "YPT - Study Group (Yeolpumta)",
+  "country": "India",
+  "seller": "UnCheon Baek (App Store seller; site yeolpumta.com)",
+  "dev_type": "small company/solo-seller (App Store lists a personal name; scale unverified)",
+  "lenses": [
+   "K1",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Free study-timer app with live study groups, todo and ranking: record study time and share it with friends to study together remotely.",
+  "sets_apart": "Social accountability for studying (friends see your study time, groups, rankings) built by a Korean team and adopted by Indian teens by word of mouth; the default answer in 'study with friends' threads.",
+  "traction": "App Store: US 1,735 ratings (4.66), India 3,164 (4.61); listing since 2018-11-17, updated 2026-08-24; store description claims 'study along with 5 million people'. Reddit: 'Anybody using YPT app for studying / any YPT study groups?' (4 comments); top answer 'Download yellopumta. Its really helpful' (30+ comments); 'there's yeolpumta' top answer in r/GetStudying (10+ comments).",
+  "monetization": "Free (IAP/premium unknown)",
+  "url": "https://apps.apple.com/us/app/id1441909643",
+  "evidence": [
+   {
+    "title": "Anybody using YPT app for studying/ any YPT study groups?",
+    "subreddit": "r/IndianTeenagers",
+    "age": "~8 months ago"
+   },
+   {
+    "title": "do you guys have any hack to be more productive when ... (top answer: 'Download yellopumta')",
+    "subreddit": "r/IndianTeenagers",
+    "age": "~2 years ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:focustownpomodorotimer",
+  "name": "Focustown: Pomodoro Timer",
+  "country": "Global / unknown",
+  "seller": "Second Round Inc.",
+  "dev_type": "small team (assumed)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Cozy low-poly world where you study/work next to real people (cafe or library 'servers'); pomodoro timer as a social game.",
+  "sets_apart": "'Study with real people' in a cozy, cute low-poly space = aesthetic body-doubling; praised as 'super cute app for studying'.",
+  "traction": "iOS US: 7,680 ratings, 4.77 (listing dated 2026-02-06; updated 2026-10-09). Reddit: 3 comments (5 months).",
+  "monetization": "unknown (free download)",
+  "url": "https://apps.apple.com/us/app/id6758457625",
+  "evidence": [
+   {
+    "title": "super cute app for studying called Focustown",
+    "subreddit": "r/IndianTeenagers",
+    "age": "~5 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:joidailyplannerorganizer",
+  "name": "Joi: Daily Planner & Organizer",
+  "country": "Global / unknown",
+  "seller": "Alexey Sekachov",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Calendar, task manager and habit tracker on one timeline; design-led daily planner.",
+  "sets_apart": "One timeline for tasks, habits and calendar with a strong design concept; thread discussion centred on pricing/location-based pricing.",
+  "traction": "iOS US: 189 ratings, 4.41 (India store 31, 4.58); listed 2024-12-09, updated 2026-01-06. Reddit thread 80+ comments (~1 year ago).",
+  "monetization": "subscription (a commenter from India says $5 is high)",
+  "url": "https://apps.apple.com/us/app/id6736852235",
+  "evidence": [
+   {
+    "title": "I've built an app (Joi Planner) because its design concept ...",
+    "subreddit": "r/SideProject",
+    "age": "~1 year ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:habitagehabitgoaltrackerhabitsasjourneys",
+  "name": "HabitAge - Habit & Goal Tracker (habits as journeys)",
+  "country": "India",
+  "seller": "unknown (Indian solo dev, feedback-seeking post)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Habit tracker that treats each habit as a journey you can 'sail' (metaphor: 'Show up and you sail').",
+  "sets_apart": "Journey/voyage metaphor for streaks instead of plain checklist.",
+  "traction": "8 comments, 5 months ago; no numbers.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/habitage-habit-goal-tracker (id not resolved; not in App Store Search API)",
+  "evidence": [
+   {
+    "title": "I build a habit tracker that treat habit as journeys that you can ...",
+    "subreddit": "r/developersIndia",
+    "age": "~5 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:lifereset66dayhabitpossiblytherise66dayhabitapp",
+  "name": "Life Reset: 66 Day Habit (possibly the 'Rise' 66-day habit app)",
+  "country": "Global / unknown",
+  "seller": "Savvy Tech Limited",
+  "dev_type": "small company (assumed; claims 1.5M people started)",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Self-improvement app that turns real goals into daily quests, XP and streaks around a 66-day habit programme.",
+  "sets_apart": "Game-like 66-day programme for people starting from a low point, rather than a blank habit tracker. The match to the Reddit thread ('Rise') is INFERRED from release date (2024-04-11) and the 66-day concept; not verified.",
+  "traction": "iOS US: 12,607 ratings, 4.71; store text claims 'over 1.5 million people have already started'. Reddit thread 130+ comments (~2 years ago).",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/id6478942469",
+  "evidence": [
+   {
+    "title": "I made a habit app to get your sh*t together in 66 days",
+    "subreddit": "r/SideProject",
+    "age": "~2 years ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:skillablypdfsandnotesintoquizzes",
+  "name": "Skillably (PDFs and notes into quizzes)",
+  "country": "Global / unknown",
+  "seller": "unknown",
+  "dev_type": "solo/unknown",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "App that turns your PDFs and notes into quizzes. Not found in the App Store (us, in) -> likely web or Android.",
+  "sets_apart": "Quiz generation from user's own PDFs/notes.",
+  "traction": "No numbers; seen only as a title in a snippet (thread unknown).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built an app that turns your PDFs and notes into quizzes - Skillably",
+    "subreddit": "unknown (shown inside a r/JEENEETards result snippet)",
+    "age": ""
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:streetlore",
+  "name": "StreetLore",
+  "country": "Global / unknown",
+  "seller": "StreetLore LLC",
+  "dev_type": "solo/small",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "AI audio-walk app: your phone narrates the world around you as you walk or drive (walk past a building, hear its story).",
+  "sets_apart": "Location-triggered AI storytelling that works on any street, not just curated tour routes.",
+  "traction": "iOS: 2 ratings (listed 2026-05-15). Reddit thread 6 comments, ~4 months ago.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/id6769250666",
+  "evidence": [
+   {
+    "title": "Built an AI audio walking tour app that works on any street ...",
+    "subreddit": "r/SideProject",
+    "age": "~4 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:histourystorelistingnotresolved",
+  "name": "hisTOURy [store listing not resolved]",
+  "country": "Global / unknown",
+  "seller": "unknown (solo, r/SideProject)",
+  "dev_type": "solo",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Press play, put your phone away: narrates the story behind each street name you pass, walking or driving.",
+  "sets_apart": "Hands-free, screen-free audio tied to your route; hyper-local trivia as the hook.",
+  "traction": "20+ comments, 2 days before scan (fresh).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I drove past streets named after strangers every day, so I ...",
+    "subreddit": "r/SideProject",
+    "age": "2 days ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:herhabitscyclehabittracker",
+  "name": "HerHabits: Cycle Habit Tracker",
+  "country": "Global / unknown",
+  "seller": "CosmicFlow Labs LLC",
+  "dev_type": "small team ('we built')",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": true,
+  "what_it_is": "Habit, medication and period tracker built for how women's bodies work: syncs habits and medications to the menstrual cycle so routines stick.",
+  "sets_apart": "Cycle-aware habits: expectations follow cycle phase instead of a flat daily streak; free to start 'forever' per store text.",
+  "traction": "iOS US: 15 ratings, 4.87 (listed 2026-03-24, updated 2026-08-10). Reddit post in r/IMadeThis (counts not shown).",
+  "monetization": "freemium (store: 'now free to start, forever')",
+  "url": "https://apps.apple.com/us/app/id6760084683",
+  "evidence": [
+   {
+    "title": "HerHabits - Habits & Periods. We built a habit tracker that works with women's cycles.",
+    "subreddit": "r/IMadeThis",
+    "age": "unknown (shown without age)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:lunarcyclephaseadhdplannerstorelistingnotresolved",
+  "name": "Lunar (cycle-phase ADHD planner) [store listing not resolved]",
+  "country": "Global / unknown",
+  "seller": "unknown (male maker, built for girlfriend)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": true,
+  "what_it_is": "Habit/ADHD planner for women: daily 10-second check-in (energy + cycle phase); app learns your completion patterns over time.",
+  "sets_apart": "Cycle phase + energy as inputs to the plan ('hormones tank focus and no app addressed it'); 10-second check-in.",
+  "traction": "4 + 1 comments across two threads, ~3 months ago.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built Lunar because my girlfriend kept abandoning ...",
+    "subreddit": "r/SideProject",
+    "age": "~3 months ago"
+   },
+   {
+    "title": "I built an ADHD planner for women that tracks their cycle ...",
+    "subreddit": "r/SideProject",
+    "age": "~3 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:owlyaistudyflashcards",
+  "name": "Owly: AI Study & Flashcards",
+  "country": "Pakistan",
+  "seller": "Muhammad Aftab Aslam (Shaffans Studios)",
+  "dev_type": "solo",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "AI study app turning notes, PDFs and images into interactive questions, plus head-to-head quizzes against friends.",
+  "sets_apart": "Quiz-game / multiplayer framing on top of own-material flashcards ('stop scrolling, start studying together').",
+  "traction": "iOS: 9 ratings, 5.0 (listed 2025-12-17). Reddit lifetime-deal post ($39.99 free for 48 hours), 6 comments, ~7 months ago.",
+  "monetization": "lifetime purchase / subscription (promo post)",
+  "url": "https://apps.apple.com/us/app/id6754908867",
+  "evidence": [
+   {
+    "title": "[Lifetime $39.99 FREE for 48 hours] Owly - AI Study & Flashcards : Turn ANY Topic into a Multiplayer ...",
+    "subreddit": "r/iosapps",
+    "age": "~7 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:bestystorelistingnotresolved",
+  "name": "Besty [store listing not resolved]",
+  "country": "Global / unknown",
+  "seller": "unknown",
+  "dev_type": "solo/small",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": true,
+  "what_it_is": "Productivity app for women to balance all areas of life; first version is a to-do list.",
+  "sets_apart": "Explicit women-first positioning for to-dos (holistic life balance).",
+  "traction": "20+ comments, ~1 year ago.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "To-do lists can be overwhelming - I designed an app ...",
+    "subreddit": "r/ProductivityApps",
+    "age": "~1 year ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:mentonotesthatquizyouback",
+  "name": "Mento (notes that quiz you back)",
+  "country": "Global / unknown",
+  "seller": "unknown (solo)",
+  "dev_type": "solo",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Notes and flashcards in one place: write or import a PDF and the notes quiz you back on a spaced-repetition schedule.",
+  "sets_apart": "Notes ARE the flashcards (no separate deck creation).",
+  "traction": "5 comments, ~1 month ago.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "I built the study app I wanted in college - notes that quiz ...",
+    "subreddit": "r/SideProject",
+    "age": "~1 month ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:koalaairecordslecturesintonotesflashcardsquizzes",
+  "name": "Koala-AI (records lectures into notes, flashcards, quizzes)",
+  "country": "Global / unknown",
+  "seller": "Ed Sahakian (App Store seller; name match to Reddit post, unverified)",
+  "dev_type": "solo",
+  "lenses": [
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Records lectures and automatically turns them into notes, flashcards and quizzes.",
+  "sets_apart": "Capture-first (live lecture recording) rather than upload-first; K2-style 'own material -> study cards'.",
+  "traction": "iOS US: 5 ratings, 5.0 (listed 2026-03-30). Reddit thread 2 comments, ~6 months ago.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/id6760279613",
+  "evidence": [
+   {
+    "title": "I built an AI app that records your lectures and turns them into notes, flashcards, and quizzes automatically. Koala-AI records your lectures ...",
+    "subreddit": "r/SideProject",
+    "age": "~6 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:befreedgetsmarterdaily",
+  "name": "BeFreed: Get Smarter Daily!",
+  "country": "Global / unknown",
+  "seller": "beFreed, Inc",
+  "dev_type": "small team/startup (assumed)",
+  "lenses": [
+   "K3",
+   "K2"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Personalised audio learning plan: tell it what you want to grow into (charisma, leadership, calm...) and it builds audio from bestselling books, research papers, interviews and expert talks, then adapts; also paste a PDF/article/YouTube link.",
+  "sets_apart": "Goal-first personalised audio learning (self-improvement framing) rather than a podcast player; recommended by users as the audio-learning alternative to NotebookLM. Closest existing product to the K3 concept.",
+  "traction": "iOS US: 4,044 ratings, 4.69 (India 189); listed 2025-01-07, updated 2026-10-12. Mentioned in r/artificial NotebookLM-alternatives thread (20+ comments, 4 months) - the comment may be maker/promotional.",
+  "monetization": "Free download; subscription likely (not verified)",
+  "url": "https://apps.apple.com/us/app/id6739747450",
+  "evidence": [
+   {
+    "title": "Recommended NotebookLM alternatives (comment: 'BeFreed for the audio learning side ... You can paste a PDF, article, You...')",
+    "subreddit": "r/artificial",
+    "age": "~4 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:huxefromthenotebooklmaudiooverviewcreatorsstorelistingnotfound",
+  "name": "Huxe (from the NotebookLM audio-overview creators) [store listing not found]",
+  "country": "Global / unknown",
+  "seller": "Huxe team",
+  "dev_type": "small startup team",
+  "lenses": [
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Personal audio/podcast-style briefings app from the people who built NotebookLM's podcast feature; supports RSS feeds.",
+  "sets_apart": "Daily personalised audio from your own sources (RSS) and interests; named by commuters as the product that should fit a morning/commute routine.",
+  "traction": "Thread 'Has anyone tried Huxe?' 30+ comments, ~5 months ago.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Has anyone tried Huxe? The app from the NotebookLM AI podcast creators ... supports RSS feeds",
+    "subreddit": "r/rss",
+    "age": "~5 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:strollstepstoscreentime",
+  "name": "Stroll - Steps to Screen Time",
+  "country": "India",
+  "seller": "Piyush Maheswari",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Step counter + gentle app blocker: walk more to earn screen time, then use distracting apps with more intention.",
+  "sets_apart": "Walking converted into earned screen time (self-discipline loop); part of a 'walk before you scroll' micro-trend (also Stroll before you Scroll, DoomStroll, Mochii touch-grass).",
+  "traction": "iOS India: 14 ratings, 5.0 (listed 2026-06-25, updated 2026-10-02). Reddit: 9 comments, ~3 months ago.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/in/app/id6782306709",
+  "evidence": [
+   {
+    "title": "Built an app that turns steps into screen time - Stroll",
+    "subreddit": "r/developersIndia",
+    "age": "~3 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:floatingbuddiesanimatedcompanionsonandroid",
+  "name": "Floating Buddies (animated companions on Android)",
+  "country": "Global / unknown",
+  "seller": "unknown (Android developer)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Android app where tiny animated companions move around on top of your screen.",
+  "sets_apart": "Cute companion overlay (pet/companion mechanic) rather than a tracker.",
+  "traction": "Posted in r/androidapps Self Promotion Megathread (360+ comments, ~6 months).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Self Promotion Megathread (post: 'I'm an Android developer and recently built a small project called Floating Buddies')",
+    "subreddit": "r/androidapps",
+    "age": "~6 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:vaylamentalwellnesssupportprobablematchambiguous",
+  "name": "Vayla, mental wellness support (probable match, ambiguous)",
+  "country": "Global / unknown",
+  "seller": "Leo Apps LLC (another 'Vayla' app exists by 9563-2352 Quebec Inc, id 6757683914)",
+  "dev_type": "solo/small",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Emotional wellness / mental wellness support app announced on r/IMadeThis ('I made Vayla, an emotional wellness app that's completely ...').",
+  "sets_apart": "Unknown beyond the title; store match chosen by release date (2026-05-19 vs thread ~June 2026) - NOT verified.",
+  "traction": "iOS US: 2 ratings (5.0). Reddit thread 1 comment, ~4 months ago.",
+  "monetization": "unknown",
+  "url": "https://apps.apple.com/us/app/id6766624577",
+  "evidence": [
+   {
+    "title": "I made Vayla, an emotional wellness app that's completely ...",
+    "subreddit": "r/IMadeThis",
+    "age": "~4 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:bloomsocialhabittrackerwithaicoach",
+  "name": "Bloom (social habit tracker with AI coach)",
+  "country": "Russia",
+  "seller": "Ivan (surname not shown)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Social habit tracker with a built-in AI coach; the maker wrote up how testers 'started arguing' with the coach.",
+  "sets_apart": "Social/accountability habit tracking plus an AI coach whose tone is a visible product decision (the coach was too blunt with users).",
+  "traction": "vc.ru launch-story article 9 Jul 2026 (no user numbers in the snippet). No confident App Store match (only unrelated apps called 'Bloom') -> likely Android/RuStore first.",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "У нас ИИ-коуч грубит пользователям. Это наше ... (vc.ru, 'Я делаю Bloom - социальный трекер ...')",
+    "subreddit": "vc.ru (non-Reddit)",
+    "age": "9 Jul 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:капляkaplyadropaigoalplannerformerlyhabittracker",
+  "name": "Капля (Kaplya, 'Drop') - AI goal planner, formerly habit tracker",
+  "country": "Russia",
+  "seller": "unknown ('we': small team)",
+  "dev_type": "small team",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Started as a habit tracker with an AI mentor; now being developed as an AI goal planner - habits removed, conversation with the AI and a focus mode kept.",
+  "sets_apart": "Public pivot from habit tracking to goal planning with an AI mentor (a signal that a plain habit tracker was not enough).",
+  "traction": "vc.ru article ~3 days ago (Oct 2026); no numbers in the snippet. Not found in the App Store (ru).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Убрали привычки из трекера и сделали ИИ-планировщик целей (Капля)",
+    "subreddit": "vc.ru (non-Reddit)",
+    "age": "3 days ago (Oct 2026)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "key": "r:habitsflowhabittrackerinferredmatch",
+  "name": "HabitsFlow: Habit tracker (inferred match)",
+  "country": "Ukraine",
+  "seller": "Pavlo Antoniuk (App Store seller; Reddit post: 'My name Pavlo Antoniuk, I'm developer from Ukraine')",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "Minimal habit tracker pitched at 'people who are tired of bloated habit apps'.",
+  "sets_apart": "Anti-bloat positioning; localised into 8+ languages (EN, FR, DE, KO, PL, PT, RU, ZH); same maker also ships WaterTotter, a water tracker (17 ratings, 4.88).",
+  "traction": "Reddit: r/iosapps threads 20+ comments (2 months ago) and 20+ (4 days ago), r/ProductivityApps 10+ (4 days ago). App Store 'Habit tracker: HabitsFlow': 1 rating (US); released 2025-07-31, v1.09 updated 2026-10-08. Tiny traction.",
+  "monetization": "Free download; model not captured",
+  "url": "https://apps.apple.com/us/app/id6744604703",
+  "evidence": [
+   {
+    "title": "I built a habit tracker for people who are tired of bloated habit apps.",
+    "subreddit": "r/ProductivityApps",
+    "age": "4 days ago"
+   },
+   {
+    "title": "Built a habit tracker for people who are tired of bloated ...",
+    "subreddit": "r/iosapps",
+    "age": "2 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:sakeenahjournalwebappjournalingappformuslimmomsinferredsameapp",
+  "name": "Sakeenah Journal (web app) - 'journaling app for Muslim Moms' (inferred same app)",
+  "country": "Global / unknown",
+  "seller": "unknown (posted in a women-only sub as 'Women in STEM!' and cross-posted to r/Femalefounders, which suggests a woman founder; unverified)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1"
+  ],
+  "women_oriented": true,
+  "what_it_is": "Journaling app for Muslims, built in 6 weeks; pitched in the women-only sub as a journaling app for Muslim moms. An update post links the live web app (sakeenah-journal.vercel.app).",
+  "sets_apart": "Faith-aware journaling for Muslim women/moms; very fast build (6 weeks) shown publicly to makers and women founders.",
+  "traction": "Four cross-posts: r/muslimgirlswithtaste 4 comments, r/muslimdevs 4, r/Femalefounders 3, update in r/MuslimDevelopers/r/MuslimVentures 2 each (4-6 months ago). No user numbers. Web only (not in App Store search).",
+  "monetization": "unknown",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Women in STEM! (I made a journaling app for Muslim Moms!)",
+    "subreddit": "r/muslimgirlswithtaste",
+    "age": "6 months ago"
+   },
+   {
+    "title": "I built a journaling app for Muslims in 6 weeks",
+    "subreddit": "r/muslimdevs",
+    "age": "6 months ago"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "key": "r:sakinahprayertimesquranjournalingandavoicecompanionstorelistingnotmatched",
+  "name": "Sakinah (prayer times, Qur'an, journaling and a voice companion) - store listing not matched",
+  "country": "Global / unknown",
+  "seller": "unknown (many unrelated apps are called 'Sakinah' on the App Store, so the seller could not be matched)",
+  "dev_type": "solo",
+  "lenses": [
+   "K1",
+   "K3"
+  ],
+  "women_oriented": "unknown",
+  "what_it_is": "One calm app combining prayer times, Qur'an recitation, journaling and a voice companion; '15+ themes, no ads, no guilt'; premium unlocks more reciters and journal sections.",
+  "sets_apart": "'No ads, no guilt' tone (anti-streak-shame) plus a voice companion and Qur'an audio in the same habit/journal app.",
+  "traction": "Reddit: r/MuslimVentures 10+ comments (3 weeks ago) and cross-posts in r/MuslimDevelopers (3 and 2 weeks ago). No store numbers (listing not identified).",
+  "monetization": "Freemium: premium extras (more reciters, journal sections) as stated",
+  "url": null,
+  "evidence": [
+   {
+    "title": "Sakinah: prayer times, Qur'an, journaling and a voice companion in one calm app",
+    "subreddit": "r/MuslimVentures",
+    "age": "3 weeks ago"
+   },
+   {
+    "title": "Sakinah: prayer times, Qur'an, journaling and a voice companion in one calm app",
+    "subreddit": "r/MuslimDevelopers",
+    "age": "3 weeks ago"
+   }
+  ],
+  "confidence": "low"
+ }
+]

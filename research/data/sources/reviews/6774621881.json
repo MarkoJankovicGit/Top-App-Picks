@@ -1,0 +1,49 @@
+{
+  "app": "Military Calisthenics at Home",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-09-29T17:29:25-07:00",
+      "rating": 2,
+      "title": "Glitches",
+      "text": "The app was working fine for a long periodic time and did well with keeping track of my progress and giving me new exercises and things to do . But now I’m on the second day of my 6weeks progress on the app and I can’t log back into my fist Google account . And I have days (Monday,tuesday, Thursday, Friday) that I work out and (Wednesday,Saturday,and Sunday that I don’t work out)and when I log into another Google account it says yesterday (Monday )  I didn’t do/ complete any exercises and the app keep trying to give me a tutorial of the app like I haven’t used it before and keep taking my progress away and when I try to get on my first original account that I first used to track my progress on the app that paid for a subscription it just keeps saying loading .",
+      "version": "1.3.0 - Added men library"
+    },
+    {
+      "date": "2026-09-14T22:28:58-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "I love the Military Calisthenics workout. My second day I was sore, but I know the workout is for my good. I am not getting any younger and I have to stay in shape. Also, I can do this workout in the privacy of my home.",
+      "version": "1.2.5 - Improved player, email onboarding, voice guide,save plan"
+    },
+    {
+      "date": "2026-09-12T22:42:14-07:00",
+      "rating": 5,
+      "title": "Self Guided Care Plan Core Strength",
+      "text": "Easy start plan that simple and straightforward without the guilt and intimidation.",
+      "version": "1.2.5 - Improved player, email onboarding, voice guide,save plan"
+    },
+    {
+      "date": "2026-09-12T14:10:38-07:00",
+      "rating": 5,
+      "title": "Si puedo",
+      "text": "Mi retro",
+      "version": "1.2.5 - Improved player, email onboarding, voice guide,save plan"
+    },
+    {
+      "date": "2026-07-13T10:07:05-07:00",
+      "rating": 5,
+      "title": "Emocionanda",
+      "text": "Excellent",
+      "version": "1.1.2 - Added translations to new languages"
+    },
+    {
+      "date": "2026-07-11T10:43:46-07:00",
+      "rating": 5,
+      "title": "Great for Frer",
+      "text": "When you want to get in shape and can’t afford the things you want is hard and disappointing. But doing something you want and it’s free it’s amazing",
+      "version": "1.1.2 - Added translations to new languages"
+    }
+  ]
+}

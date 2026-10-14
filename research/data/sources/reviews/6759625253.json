@@ -1,0 +1,28 @@
+{
+  "app": "Your 20s - Daily Motivation",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-04T17:52:48-07:00",
+      "rating": 1,
+      "title": "it’s a paid subscription",
+      "text": "you can’t do anything if you don’t pay",
+      "version": "1.0.1"
+    },
+    {
+      "date": "2026-09-06T21:37:21-07:00",
+      "rating": 1,
+      "title": "It’s a Paid Subscription",
+      "text": "The app is not free and requires a paid subscription after answering the setup questions. Unless you’re willing to pay, it’s very misleading.",
+      "version": "1.0.1"
+    },
+    {
+      "date": "2026-06-03T11:17:58-07:00",
+      "rating": 5,
+      "title": "Great App",
+      "text": "this is a phenomenal app and truly immense amount of value when it comes to not only being honest with yourself, but being completely aware of what is going right and wrong in your life and how to find a stable and pressure free strategy to move forward in order to accomplish things that you’re looking to accomplish",
+      "version": "1.0"
+    }
+  ]
+}

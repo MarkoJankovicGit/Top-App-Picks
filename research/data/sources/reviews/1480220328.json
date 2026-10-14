@@ -1,0 +1,707 @@
+{
+  "app": "Tiimo: To-Do List Planner",
+  "fetched": "2026-10-12",
+  "country": "us",
+  "reviews": [
+    {
+      "date": "2026-10-09T06:11:08-07:00",
+      "rating": 1,
+      "title": "Frustrating",
+      "text": "This app was so frustrating.  I am a therapist and have adhd It did a terrible job with AI and trying to “help” manage my time.  I spent 30 mins trying to get a reasonable morning plan.   I had to keep having them do it over and over.  Don’t waste your time unless you want to lean into procrastination by fighting with this app.",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-08T15:20:06-07:00",
+      "rating": 5,
+      "title": "It Works",
+      "text": "I’m actually using it and it helps me stay organized. I ended up not using other digital to do lists I’ve tried in the past because they are too complex. Tiimo is at just the right level of simplicity. Meaning it has enough features to make it useful without being so complicated that tasks get buried and I don’t see them.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-08T11:41:15-07:00",
+      "rating": 5,
+      "title": "Best productivity app there is!",
+      "text": "I absolutely love this app. It has really helped me break down my days and plan my days. I am such a planner and I’m always looking for ways to establish better discipline and have great productivity throughout the day so this is amazing. I love it. I hope it never changes and if it does only for the better, but because it’s so great, I don’t know if that’s possible:-)",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-08T04:09:59-07:00",
+      "rating": 4,
+      "title": "Good",
+      "text": "This is a good app I always have trouble remembering tasks and it is fun to check of things.",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-07T10:54:26-07:00",
+      "rating": 1,
+      "title": "Trust a real review this app sux",
+      "text": "These people giving glowing reviews must be friends of the maker and/or paid.  This is just another to do list. It is not intuitive at all, and it is extremely difficult to figure out how to do even basic things.  Creating barriers is not how you get a chronic procrastinator on board. Do they know ADHD people at all? Also the pay version adds nothing. Don’t waste your money!  The AI is not helpful at all.  It just makes a to do list for you- like I could do that!  The problem is I have a to do list 9 pages long and I don’t know where to begin, what are the priorities- what can be back-burnered.  So I do nothing or I do what’s easy or I hyper-focus on something that could wait while something else is on fire.  I have dozens of apps on my phone that can remind me to do stuff, but building habits takes more than that.  If you need another to-do list, go for it but don’t think this is some kind of game-changing magic bullet because it’s not.",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-06T15:38:48-07:00",
+      "rating": 1,
+      "title": "Charged during the free trial and no way to get a refund",
+      "text": "I downloaded this app and tried it out for a day using their “free” trial. I was charged a few days later even though I cancelled the trial, deleted my account, and deleted the app off my phone the same day I started using it. I’ve tried to get a refund from Apple and my credit card company with no luck. Absolute scam.",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-06T13:35:38-07:00",
+      "rating": 2,
+      "title": "Not bad but you need to pay at a certain point",
+      "text": "The ai is not very helpful nor smart",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-05T22:26:50-07:00",
+      "rating": 2,
+      "title": "AI sucks",
+      "text": "The AI sucks. Genuinely. It works sometimes, other times it does the day before the date you said and switches to Spanish when you say it’s wrong. That whole feature is unusable",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-05T21:38:28-07:00",
+      "rating": 5,
+      "title": "Hell yeah",
+      "text": "I've been using various planners/productivity apps for several years, and I can confidently say this has been the best one for me. It's intuitively set up, makes organizing tasks super easy, and still works great if you don't pay for the subscription. My only critique is that the baked-in AI bot doesn't serve much of a purpose- it just listens to you talk about tasks you have to do, and writes the list following what you said exactly. Overall though, it's been helpful!!",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-05T16:38:11-07:00",
+      "rating": 5,
+      "title": "Awesome!",
+      "text": "I love it",
+      "version": "3.68.0"
+    },
+    {
+      "date": "2026-10-04T23:24:41-07:00",
+      "rating": 5,
+      "title": "Daisy  school",
+      "text": "7”30 take to school",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-03T11:48:34-07:00",
+      "rating": 5,
+      "title": "Active I love using Tiimo",
+      "text": "I love using Tiimo when I remember to check in with my daily routine; while it isn’t instantly gratifying, its visual experience helps me see how consistency creates lasting results and builds inner confidence, though the visual effects could still be improved.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-03T06:03:47-07:00",
+      "rating": 5,
+      "title": "I love Tiimo",
+      "text": "Tiimo helps me because I had trouble with timing on my chores, and I had to say “I’ll do it In a min, or later” which means I never do it, so Tiimo makes me do it and it’s fun because it’s a checking game!",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-02T17:05:10-07:00",
+      "rating": 4,
+      "title": "Needs updating",
+      "text": "First and foremost, this app it does help keeping me organized. I have noticed that it could use a bit of updating when I check things off as complete they come unchecked on their own. When that happens, I sometimes don’t press the wrong item next and then I have to go back and unchecked the test that I did not actually complete. Leading me to the point that there should be an undo button that shows up right after you check an item complete.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-01T21:06:09-07:00",
+      "rating": 5,
+      "title": "Helpful",
+      "text": "Helps to keep things moving",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-01T11:40:04-07:00",
+      "rating": 4,
+      "title": "Tiimo",
+      "text": "Concept and layout is very nice. It tends to be a bit glitchy though. There have been times I went to my to do list and things that I knew were on there the day before just disappeared. Things like that bring my rating down from the 5 stars I would have given it.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-10-01T07:40:34-07:00",
+      "rating": 5,
+      "title": "Amazing App",
+      "text": "Always come back to it when I just can’t get my mind right & my list of to dos is growing by the minute. It’s the most effective way to handle my time and see my day versus it living in a jumbled mess in my brain. Instant stress relief",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-30T06:26:35-07:00",
+      "rating": 4,
+      "title": "Like",
+      "text": "I’m liking it so far but for some reason I’ve linked my Apple calendar  and it shows it is linked but none of my appts or anything from my calendar are actually showing up in the app so that’s disappointing",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-29T22:49:24-07:00",
+      "rating": 5,
+      "title": "10/10 recommend",
+      "text": "I love this app so much, it’s so easy to use and so fun for my eyes like as someone with adhd, this is just so fun and simple to use!!",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-29T17:54:57-07:00",
+      "rating": 5,
+      "title": "Excelente",
+      "text": "Muy recomendada , me ha ayudado a distribuir mi tiempo en la universidad y trabajos extra escolares.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-29T02:40:47-07:00",
+      "rating": 2,
+      "title": "Not for all ADHD",
+      "text": "I really find it too overwhelming for my adhd. There’s so much on a page, it’s paralyzing \n\nI wish you could hide some of the suggested tasks or make it streamlined \n\nAll of the things and reminders in your face make me feel terrible \n\nThis one hurts me because it seems mean and also picky but the mascot isn’t my favorite (the gloved hand freaks me out) and I wish I could pick a character \n\nMaybe I’m just a different type of neurodivergent but this app kind of low key stresses me out .\n\nI am interested in all the things people say they can do so I may still try it but I find it very distracting and stressful so far . I like having a ton of detail but showing only the important stuff to me not suggestions or the parts I’ll never use",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-28T20:37:21-07:00",
+      "rating": 1,
+      "title": "Unhappy",
+      "text": "I downloaded and never used it. Forgot about it and requested a refund the day it posted and was denied. So I overpaid for something I’ll never use.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-28T14:39:52-07:00",
+      "rating": 3,
+      "title": "Not very good assistant",
+      "text": "Organizing things can be annoying and the assistant built in doesn’t understand context and ends up making a mess out of everything.",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-28T03:52:32-07:00",
+      "rating": 1,
+      "title": "Overpriced and plain",
+      "text": "Massively overpriced for what it is. You can get the same from most other organizations apps for free or a fraction of the price. It’s also very limited compared to similar apps",
+      "version": "3.67.0"
+    },
+    {
+      "date": "2026-09-27T21:12:19-07:00",
+      "rating": 1,
+      "title": "Extra work",
+      "text": "I don’t understand the point of this app. I guess if you enjoy thinking about your day and writing everything down daily then it would be good. If you’re like me and are someone who needs to take thinking about all of the annoying tasks off the table, this app isn’t for you. You can’t schedule weekly structured tasks like work out at 10 am Tuesday to Friday. It didn’t record it properly. If you already have to think about all the things you need to do daily and then add the extra task of noting them down. You’re just giving yourself an extra job. Why!",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-25T19:46:18-07:00",
+      "rating": 5,
+      "title": "This app is the best",
+      "text": "This app is the best because it will help me stay focused and help me with school schedules and help me stay in place",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-25T18:00:26-07:00",
+      "rating": 5,
+      "title": "中文输入总是故障",
+      "text": "can not type Chinese in the app",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-25T14:29:19-07:00",
+      "rating": 5,
+      "title": "Отличное!!!",
+      "text": "сначала буквально минуты 3 назад, уже очень нравиться",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-25T13:58:58-07:00",
+      "rating": 5,
+      "title": "Me encanta",
+      "text": "Me ayuda a estar organizada etc",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-24T03:09:54-07:00",
+      "rating": 5,
+      "title": "New user",
+      "text": "I’ve been very happy with timo and im excited to see how it integrates into my daily life",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-22T13:26:00-07:00",
+      "rating": 5,
+      "title": "Best Help I’ve had for My ADHD/Autism and Anxiety that I’ve experienced so far!",
+      "text": "I would like to start off by saying thank you, for creating such a cool and creative space. My wife and I have been looking for something that could help us plan, coordinate our day to day activities as a family of 5, and a more efficient way to help her and I understand/help how my mind process’s my thoughts, emotions, time management, etc. \nWe originally chose to set up our own personal schedules/calendars to see how the Integration process worked, and figure out Tiimo as a whole before we synchronized  everything together. WOW! It was amazingly seamless. \nThe best part of this entire process; Is how we learned about not only ourselves, but my wife also was able to understand how my mind processes the world around me with the knowledge section. It completely transformed our relationship/lives for the better.\nWe both feel very thankful that such wonderful individuals dedicated their time to create Tiimo,\nThank you!!!",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-21T20:26:39-07:00",
+      "rating": 5,
+      "title": "I LOVE!!",
+      "text": "I absolutely love this app! My stress levels have gone down so much since using this app! It is absolutely essential!",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-21T19:05:02-07:00",
+      "rating": 5,
+      "title": "Buitiful",
+      "text": "Love it it change me and made me cleaner.",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-21T09:47:08-07:00",
+      "rating": 1,
+      "title": "THEIF!!!!!!!",
+      "text": "I tried out the free trial and then went to cancel it, and it had already tried to charge me so now I am locked out of my Apple account. I cannot download any app because this app refuses to allow me to cancel it until I pay the $54 for an app that I do not want and was not useful to me. I have not heard back from customer support for the app, but Apple cannot help me so I am just stuck paying $54 for the free trial seeing as I don’t want the app and I will not continue to use it",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-21T06:35:48-07:00",
+      "rating": 5,
+      "title": "So helpful!",
+      "text": "(Since writing my original 4 star review they fixed the main issue I had with it so I adjusted to 5 stars! Thank you!)\n\nI have referred multiple friends to this app for productivity and organization of the never ending to-do’s. I love the functionality of it and the design is aesthetically pleasing!\n\nThe only issue I have with it is that the reoccurring tasks should have better customization in regards to the days, weeks, and months. It is strangely very limiting to the point where I still have to use my native Apple Reminders app for tasks that reoccur on a more long-term basis (ex: every 45 days, every six weeks, etc.) whenever the developer fixes this, it will truly be a home run!",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-21T05:46:20-07:00",
+      "rating": 2,
+      "title": "App took a step backwards with AI",
+      "text": "The docs and screenshots throughout how to articles suggest that you can make templates for activities.l and reuse these.  You cannot, they gutted the app and instead you have to now completely setup your tasks exactly how you want to use it all in one go.  No personal templates.  Additionally you are pressured to go through ai prompts to try and do thjngs.  The AI duplicates tasks, if it creates anything at all, feels very detached and not a great experience.  It’s worse than talking to a neurotypical on many levels including miscommunication and misunderstandings. Ai for the sake of ai is gross. Spend more time using it internally before releasing it at least.  Feels like they gutted the app functionality in favor of AI. The desktop webapp honestly shouldn’t exist as it is only the calendar piece of the app, and an extremely poor version of that feature at that, no access to templates at all and weirdly has more display options than the mobile app.  It has some good templates prebuilt in the app of course but forget making your own to show up in the template browser.  Wouldn’t surprise me if that goes away and you are forced to talk or type to ai to do anything soon.   Very disappointed that it’s not as described in their own faq and how to docs. The ios 27 feature list confirms thats where this is headed",
+      "version": "3.66.0"
+    },
+    {
+      "date": "2026-09-21T00:25:41-07:00",
+      "rating": 2,
+      "title": "Developer changes the program every week or two and makes all of my entries unusable. I have asked f",
+      "text": "Developer keeps changing the program weekly",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-20T22:16:41-07:00",
+      "rating": 1,
+      "title": "Awful",
+      "text": "Overly complicated, difficult to adjust to do list item options. Just adds to task paralysis and frustration.",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-19T13:06:09-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-19T06:55:48-07:00",
+      "rating": 5,
+      "title": "Amazing for someone who struggles to get things done!",
+      "text": "I’m 15 and struggle so much to remember tasks, keep a schedule, or even just get basic things done with forgetting or not knowing where to start. This app is so helpful for those things! I have gotten so much more done since I started using this!",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-17T16:59:15-07:00",
+      "rating": 5,
+      "title": "Nothing like the rest",
+      "text": "I’ve tried apps like this before and didn’t really stick with them or like them, but this one is really good!",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-17T09:08:45-07:00",
+      "rating": 5,
+      "title": "Therapist approved",
+      "text": "Wow. As a therapist with ADHD, I really love this app! It’s very helpful and easy to use. Well worth the cost.",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-17T00:29:09-07:00",
+      "rating": 5,
+      "title": "For students",
+      "text": "It’s really helpful",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-15T19:50:44-07:00",
+      "rating": 1,
+      "title": "Premature",
+      "text": "I just got on the second page and they asked me to review the app. I haven’t seen any of the app. I don’t know how to use the app hasn’t done anything for me and they want me to review it. Absolutely doesn’t make sense. Why don’t you let the person use it for seven days then ask for a review.",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-15T18:46:05-07:00",
+      "rating": 5,
+      "title": "So helpful",
+      "text": "Excellent app to help me with organization and not losing track of things. Beyond they the empathy and kindness with which it deals with incomplete tasks is encouraging and refreshing. I’ve just been diagnosed with ADD as an adult.",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-15T08:08:46-07:00",
+      "rating": 4,
+      "title": "Tiimo is amazing, but updates keep breaking core features",
+      "text": "Tiimo works better for me than any other planning app. However, the developers have a habit of making updates that disable basic functionality. (It occurs to me that they likely do not use the app regularly themselves?) For example, they “updated” Apple Watch functionality recently, which disabled all watch complications, notifications, and the visible timer for active activities on the watch. (This is the main reason to use Tiimo on a watch.) In the past, updates have made text size inaccessible and disabled calendar sync. I keep coming back to Tiimo (after many years) because I love it, but I wish the developers would not break the very features that make it so great.",
+      "version": "3.65.0"
+    },
+    {
+      "date": "2026-09-14T18:46:01-07:00",
+      "rating": 5,
+      "title": "The only thing that works (for me)!",
+      "text": "I can’t say enough about this app. It’s allowed me to successfully form routines and accomplish things that I’d have lost track of. I had tried a good number of other planning apps, some adhd specific, some not. \nAt first, I was frustrated that linked calendars don’t sync backwards to the linked calendars, but then discovered this is a blessing. If you mess something up in Tiimo, it won’t mess up your hard planned events on your linked calendars.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-14T17:37:05-07:00",
+      "rating": 3,
+      "title": "Something AI can’t achieve",
+      "text": "I only need one app to help me organize my goal/dream instead of uncountable tasks. But only ReNext does really care about it.",
+      "version": "3.64.0"
+    },
+    {
+      "date": "2026-09-13T19:14:22-07:00",
+      "rating": 5,
+      "title": "Fantastic app!",
+      "text": "Literally the best. Helps to motivate you to do more by keeping you on track. Helps me personally to remind me what I have already done during the day sometimes as someone who is forgetful.",
+      "version": "3.64.0"
+    },
+    {
+      "date": "2026-09-10T14:43:21-07:00",
+      "rating": 4,
+      "title": "Hopeful",
+      "text": "Working to find intuitive part of app.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-10T05:59:46-07:00",
+      "rating": 2,
+      "title": "Lots of wasted potential",
+      "text": "I use AI to do my job, so the idea of this app as a light personal assistant seemed like a very useful application of the tech. In practice, this chat bot is really dumb and cannot actually parse a slightly nuanced todo or deal with a big brain dump. You also can only accept or reject its actions, you can’t correct them to tell the LLM what was wrong when the only issue is the time or a misheard word. For example, I said I needed to pick something up on the way home from an appointment, so it scheduled that reminder for 90min after the appointment ended instead of at the end time, but that was so many taps to correct it wasn’t really worth using the AI to begin with. It is not remotely capable of transforming a nebulous description of chores into actionable, scheduled steps, despite basically putting that ability on the tin. It’s really just a purpose built Siri focused only on reminders, and it can do a whole lot less than Siri. Add to that the UI is just plain confusing and unintuitive, things are divided into tabs in the most useless way, and none of the top level tabs feel as useful as they should be. This app feels like work to use when it’s supposed to make things easier.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-10T02:28:24-07:00",
+      "rating": 1,
+      "title": "Not built for professionals",
+      "text": "No way to connect an outlook calendar or even subscribe to an outlook calendar feed. Outlook which like every office, ever uses. But hey it can remind me to take my meds, meditate and go to bed for whatever thats worth. ADHD people need to hold jobs too man. Basically not worth the time to download",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-09T06:33:37-07:00",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-09T05:46:44-07:00",
+      "rating": 3,
+      "title": "Help",
+      "text": "How do you get rid of notifications? That red number is annoying.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-07T18:02:13-07:00",
+      "rating": 1,
+      "title": "Do not use this app.",
+      "text": "So unbelievably frustrating. Firstly, get ready for a thousand self-plug pop ups asking you to subscribe. Then wait for another few pop ups all over the place asking you to widget stuff blah blah. Then everything you switch to a new tab it will freeze. F NO",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-07T10:34:57-07:00",
+      "rating": 1,
+      "title": "freezes, unusable",
+      "text": "just downloaded the app and set up routines, now i can’t do anything else. app freezes when i try to navigate anywhere off the daily task view or do anything but check off a task. i have tried restarting the app, restating my phone, reinstalling, and nothing helped. i was hoping to explore a little bit before deciding on subscribing but i absolutely will not pay money for an app i can’t use.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-07T03:19:43-07:00",
+      "rating": 5,
+      "title": "Pleasantly surprised",
+      "text": "I have ADHD and found this via an adhd content creator promoting it. \n\nFor all the journals, day planners, calendars, sticky notes, and apps that I have tried and utterly failed to keep up with; this one has aligned perfectly with my strange brain. I very much appreciate the breakdown tasks function and the initial suggestions for setting up a daily schedule that I wouldn’t have thought to put as items but have incredibly helped. \n\nI also quite like the chat feature where I can talk out my day and the assistant will organize it. Very specifically, I like that it waits for me to press the send button to analyze my ramblings instead of assuming a pause for thought is the time to analyze what I was saying and only having half a sentence to work with. Siri drives my nuts with that.\n\nAt least for adhd, it is a fantastic app.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-07T00:49:33-07:00",
+      "rating": 2,
+      "title": "bug",
+      "text": "I using this app on my iPad,but it’s crashes whenever i switch to the other pages. I can’t interact with anything",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-06T14:47:45-07:00",
+      "rating": 5,
+      "title": "Finally!",
+      "text": "I have been searching for years for a comprehensive app to handle my calendar, todo list, and daily disciplines. And Tiimo is the answer! And the AI assistant is the icing on the cake. My productivity and focus have dramatically increased. Love it!",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-06T10:32:06-07:00",
+      "rating": 5,
+      "title": "Timo",
+      "text": "I love this!! It really helped me stay on top of my schedule!!",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-06T07:51:47-07:00",
+      "rating": 5,
+      "title": "ADHD Expert",
+      "text": "As an “expert” neurodivergent , I’m always looking for something to help. This app fills the bill!",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-05T10:12:38-07:00",
+      "rating": 5,
+      "title": "Hey!",
+      "text": "Best app ever absolutely amazing 😂☺️☺️☺️☺️",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-02T18:02:28-07:00",
+      "rating": 5,
+      "title": "I love",
+      "text": "I absolutely love this app. I use it frequently. There was one instance when I had to work on a project, and this app proved to be incredibly helpful. It helped me stay focused. I listened to the music I used as a focus timer, and I managed to complete the project successfully. If I were to suggest any improvements, it would be adding an app blocker. Sometimes, I get distracted on my phone because there’s no built-in blocking feature. I would really appreciate that addition. Apart from that, I highly recommend this app.",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-09-02T12:35:54-07:00",
+      "rating": 4,
+      "title": "Needs a desktop app",
+      "text": "I’d give it 5 stars but the lack of a dedicated desktop app for windows macOS and Linux is frustrating. It does have a browser version but that is never as seamless. Even if they just made it compatible with how chromium can made specialized apps would ne a significant step up!",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-08-31T14:33:41-07:00",
+      "rating": 3,
+      "title": "My adhd and some problems",
+      "text": "This is great app. But with my adhd i would do it for 2 days than stop following the list, you should make it to where they send annoying reminders that remind that person every 4 minutes when they ignore it! Just a suggestion",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-08-31T12:56:29-07:00",
+      "rating": 5,
+      "title": "TRY IT",
+      "text": "I LOVE THIS APP SO MUCH",
+      "version": "3.63.0"
+    },
+    {
+      "date": "2026-08-26T04:29:56-07:00",
+      "rating": 4,
+      "title": "Great so far",
+      "text": "The app is good so far. I don’t like that it doesn’t give me time to use it before sending non stop requests to do a review.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-26T02:36:52-07:00",
+      "rating": 3,
+      "title": "Used to work",
+      "text": "Used this for many years until it stopped working well on apple watch. Used to be able to add it as a watch complication, but they added so many other useless features while getting rid of the main key one that I need.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-24T19:21:02-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Really appreciate how easy totuse and modern",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-23T20:36:37-07:00",
+      "rating": 5,
+      "title": "I NEVER pay for apps but this was worth it!💜",
+      "text": "I NEVER write reviews. Like, EVER. But this app has helped me so much that I had to share it.\nI have ADD and other executive functioning challenges, and scheduling has ALWAYS been something I struggled with. I’ve tried all kinds of scheduling apps, but I could never actually schedule in a way that works for me. It always felt like more work just trying to organize my life.\nThen I found Tiimo. 🥹\nThe feature that completely changed the game for me is that I can voice-text my tasks, and Tiimo schedules them for me. I don’t have to sit there and manually enter everything, figure out where it should go, and spend forever organizing my day. I can basically just tell it what I need to do, and it helps me put it into a schedule.\nAt first, I thought this feature was free, but I eventually found out that I had to pay for it. 😕 As a college student who doesn’t have a lot of extra money—and someone who NEVER, EVER pays for apps—I was honestly pretty disappointed.\nBut I paid for it anyway.\nAnd It was worth it.\nThe way this app works has genuinely made scheduling and keeping up with my responsibilities so much easier. I only wish the voice-to-schedule feature was free because I know there are SO many people who struggle with the exact same things I do who could benefit from it.\nThe basic functions of Tiimo are free, but the voice-to-text scheduling feature—which is the feature that helped me the most—requires a paid plan.\nSo if you struggle with scheduling, organization, executive functioning, or you’re neurodivergent, I 10/10 recommend giving Tiimo a try. ❤️\nAnd Tiimo, THANK YOU for making something that actually works for people like me. 🙌\nNow please make the voice scheduling feature free so more people can use it because I can’t.😭❤️",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-23T05:32:46-07:00",
+      "rating": 4,
+      "title": "This helps so much !",
+      "text": "Finally there’s app for organizing all y to do and sync well w my Google Calendar, I also love the AI task organizer, however when I try to use the desktop version I get hit with an inescapable paywalls after I sign in, so I then have to use the iPad/iPhone mobile app for my computer which is not rlly ideal, I also would wish i could see my to do in Blocks as an option and be able to see my sceduale in a week, month view.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-20T04:08:06-07:00",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "It’s great",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-19T18:56:12-07:00",
+      "rating": 5,
+      "title": "Great app",
+      "text": "I’m blown away by this thread it’s amazing!",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-19T03:19:41-07:00",
+      "rating": 1,
+      "title": "Stop sharing info",
+      "text": "Your “sharing “ my info prevents me from synching my calander wish you didn’t",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-16T18:57:43-07:00",
+      "rating": 5,
+      "title": "Updated review",
+      "text": "I’ve been using Tiimo for over a year now, and I have to say the updates since my last review have been really great. A lot of the things I mentioned before actually feel like they were taken into consideration.\n\nWhat I love most is that the app keeps its simplicity, but still allows for creativity. I can customize my layout to fit my style without feeling overwhelmed by too many options. The built-in color schemes are vibrant without being “too much,” which makes it fun and motivating to use.\n\nI especially appreciate how the day is divided into morning, day, and evening sections, which keeps things from feeling cluttered. The drop-down lists are another favorite—being able to expand or shorten them makes my schedule feel manageable.\n\nOne of the biggest highlights for me has been the new AI integration. I actually suggested this in my original review, so seeing it added was amazing! It’s still new and could be expanded, but it’s already a great feature that makes planning easier.\n\nSince these updates, I’ve been using Tiimo more consistently, and I can honestly say it helps me stay on track throughout the day.\n\nA few things I’d love to see in the future:\n\t•\tMore adaptations to the AI features.\n\t•\tA true home screen view—being able to see tasks and check them off directly from my home screen without fully opening the app would be so helpful.\n\t•\tA way to schedule travel time between activities, so that “empty space” actually reflects the time I spend driving or transitioning, not just free time.\n\nOverall, Tiimo is still my favorite ADHD/autism-friendly planner. It’s colorful, simple, and motivating, and I can see it only getting better from here.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-16T11:53:53-07:00",
+      "rating": 5,
+      "title": "YAS",
+      "text": "I love this APP",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-14T11:18:31-07:00",
+      "rating": 5,
+      "title": "Love the app",
+      "text": "Love the app",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-13T21:23:56-07:00",
+      "rating": 5,
+      "title": "I LOVE THIS APP!",
+      "text": "It is so helpful for me to stay on task and to not forget my tasks as an ADHD person who often gets distracted and off course.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-12T06:24:22-07:00",
+      "rating": 4,
+      "title": "Beautiful and so far so good, I’m just cheap lol",
+      "text": "So far I love it, and the little celebrations for each task completed. Maybe one day I’ll subscribe to a yearly (which is absolutely the better deal), I’m just cheap 😂",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-11T11:24:17-07:00",
+      "rating": 4,
+      "title": "Great but",
+      "text": "So i deleted all the stuff i had on my routine and made a new one and i did make a new one but then a day goes by and everything is gone only one thing is there and so i made a routine and again only one thing is there when i would really love it if you guys looked into this pls and thank you",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-11T10:11:26-07:00",
+      "rating": 4,
+      "title": "Helpful could be more",
+      "text": "Ai helps be add stuff to my to do list but the routine part of it could be better",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-10T22:27:20-07:00",
+      "rating": 5,
+      "title": "Intuitive and Easy to Use!",
+      "text": "As a business owner, I have a lot of organizational tools in my toolbox. The ADHD friendly format and ease of use of this product gets my vote. The ability to see things at a glance and switch them to another section easily is key. This app helps me maintain my laser focus, and the pomodoro timer and built in AI are an added bonus. This is my new go to planner! Well done Tiimo, well done! 👍🏻",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-10T18:56:09-07:00",
+      "rating": 5,
+      "title": "Stay focused",
+      "text": "Great at creating daily schedules  as detailed as possible",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-10T09:24:00-07:00",
+      "rating": 1,
+      "title": "One big frustration",
+      "text": "No real instructions and an all but useless AI assistant means I’m stuck trying to figure out every single thing manually and in a way that doesn’t overwhelm. I honestly have no idea how this app is so highly rated. Something that’s supposed to help with neurodivergence should not have this steep a learning curve.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-09T03:07:26-07:00",
+      "rating": 5,
+      "title": "Love it",
+      "text": "Very helpful",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-08T20:05:58-07:00",
+      "rating": 5,
+      "title": "It doesn’t know I’m subscribed?",
+      "text": "The widgets won’t work correctly(the say activate pro) it’s trying to get me to subscribe again when I already did and that can be confusing. That’s not right. People could subscribe twice and I’m not getting the correct service I’m paying for. Disappointed. I do really find the app useful when it’s not doing this.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-08T12:41:36-07:00",
+      "rating": 5,
+      "title": "This.  is.  the.  one.  Finally.",
+      "text": "Intuitive. Import calendars & reminder. Excellent AI assistance.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-07T08:43:00-07:00",
+      "rating": 1,
+      "title": "ZERO stars (if I could)",
+      "text": "There should be an option for zero stars. Nowhere anywhere in this app, that I can find, is an option to cancel. And for some reason, it’s not even showing up in my Apple account so I can cancel there. Yet, these people continue to keep trying to charge my card for $54 every 2 days when I’ve been trying to cancel for two weeks. Run as far away as possible as you can from this app.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-06T19:10:40-07:00",
+      "rating": 1,
+      "title": "Does both",
+      "text": "It really doesn’t do anything or have a lot of cool options outside of just a standard basic to-do list and reminder the other stuff it’s pretty useless. Plus you can only connect your Apple calendar so if you have Yahoo or Google or Work calendars, none of them will sync. Also, the AI only plans out and helps schedule out your day if you tell it exact times if you just have a busy day and need some help time managing and planning it out it does not do that. This app really sucks.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-04T13:31:36-07:00",
+      "rating": 2,
+      "title": "Doesn’t allow twice weekly tasks",
+      "text": "I do laundry twice a week and it won’t let let me make laundry something I can do twice a week under one chore; I thought maybe I could put Wednesday laundry and Saturday laundry as two separate tasks but once I put the second laundry, the first one goes away, and I once got it to have both laundries at the same time, but it would change the day automatically, so it would only show on one day (Wednesday or Saturday). I would rate this app five stars if it gave the option, that when I choose weekly to do a task that it would give me an option of multiple days I could choose to do a chore.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-04T07:13:44-07:00",
+      "rating": 3,
+      "title": "Cute idea, execution flawed",
+      "text": "Really love the basis of this app. But the AI is not helpful and can’t easily update the “routines” you create. Once that is fixed I would love to come back.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-08-04T05:46:57-07:00",
+      "rating": 2,
+      "title": "Needs a little bit of improvement",
+      "text": "It’s not possible to hear the voice.\nIt’s not possible to have repetitive reminders. For example (3 times a day)",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-07-31T06:31:38-07:00",
+      "rating": 5,
+      "title": "Just started using this app.",
+      "text": "I just heard about this app from YouTube channel “ADHD Chatter Podcast”. It was highly recommended.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-07-31T05:21:53-07:00",
+      "rating": 2,
+      "title": "Needs better instructions",
+      "text": "I just added the app yesterday.  It told me the things I could do to customize it, but gave no real instructions on how to do it.  Really frustrating.",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-07-29T11:24:52-07:00",
+      "rating": 4,
+      "title": "This is great!",
+      "text": "I love Tiimo. It’s the reason I actually make my bed in the morning.",
+      "version": "3.61.0"
+    },
+    {
+      "date": "2026-07-29T03:04:54-07:00",
+      "rating": 5,
+      "title": "Loving it",
+      "text": "Still exploring",
+      "version": "3.62.0"
+    },
+    {
+      "date": "2026-07-28T00:14:52-07:00",
+      "rating": 3,
+      "title": "Can’t remove tasks that are not relevant to me",
+      "text": "I find the app useful in that you can add tasks and to-dos, but I find it infuriating that you can’t remove some pre-set tasks because they have no bearing or relevance in what I do every day. I tried using their chat help but to no avail.",
+      "version": "3.61.0"
+    },
+    {
+      "date": "2026-07-26T09:34:56-07:00",
+      "rating": 1,
+      "title": "Sucks",
+      "text": "Sucks does not integrate with outlook calendar nor import Todoist. You give an ADHD person an app that forces them to go back to their current system and change their calendar or change their to-do list that is actually torture. You should be able to import your current system as imperfect as it might be into this app in a streamlined fashion otherwise you’re giving us so much more work. Google calendar is a nightmare and impossible to understand. Apple calendar is OK but because of all of the complications of calendaring, I moved to Outlook a while ago and it’s the only thing that’s visual enough to keep me focused and you can’t import it.",
+      "version": "3.61.0"
+    },
+    {
+      "date": "2026-07-25T08:12:19-07:00",
+      "rating": 5,
+      "title": "Favorite productivity app ever.",
+      "text": "I love this app. It's helping me a lot.",
+      "version": "3.61.0"
+    },
+    {
+      "date": "2026-07-24T12:43:24-07:00",
+      "rating": 1,
+      "title": "ADHD friendly claim is laughable",
+      "text": "Everything is focused on the AI agent instead of actually improving the app. Asking me to provide personal details of my daily life to a robot that will hold onto that info, learn from it, and distribute as needed must mean I’m no longer their customer. \n\nRoutines are no longer a thing, you have to enter each task over and over again.\n\nCalendar sync is PER DEVICE, not per account. I have everything synced on my phone, but the web and ipad apps don’t have those tasks listed without linking calendars to literally every place I could log in. I know it’s possible, Structured is able to do this. \n \nEditing the name of a task updates the icon/color, even when manually set. If you copy a task (because you have it set up how you like) and then edit ANY PART of the name, the icon changes. \n\nAlso, speaking of icons, for calendar tasks, those come in per calendar and are uneditable. I totally get not being able to edit times, but how helpful is the icon/color if all of my work calendar items are pink🍖?\n\nThe ipad app isn’t responsive to different window sizes. I should be able to make the window phone sized to multitask while creating my todo list, but making it smaller makes all the text smaller. \n\nThe watch app is absolutely useless imo. Yes, i can check things off, but most of the time I hit the wrong task. Why not create a complication that shows the current task and time (a la the iphone widgets). That nice picture of the watch on the website? Yeah, that’s not actually in the app. The best you’re gonna get is the live activity banner.\n\nTl;dr: most of their selling points either aren’t there, don’t work as well as they should (especially when you market to people with executive dysfunction!!), or are pretty much eliminated by all the AI functionality in the app.",
+      "version": "3.61.0"
+    }
+  ]
+}
